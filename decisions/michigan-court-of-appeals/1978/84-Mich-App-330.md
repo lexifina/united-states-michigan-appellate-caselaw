@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-1358"
+decided: "1978-06-20"
+citations: ["84 Mich. App. 330"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. C. Riley, P. J., and V. J. Brennan and N. J. Kaufman, JJ."]
+parties: ["MONFILS v CITY OF STERLING HEIGHTS"]
+source_url: "https://static.case.law/mich-app/84/cases/0330-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2155083
+cites_cases: ["1 Mich App 6", "114 NE 722", "12 NW2d 448", "133 NW2d 221", "152 NW2d 393", "181 NW2d 81", "196 NW 386", "213 NW2d 784", "225 Mass 387", "225 Mich 619", "247 NW2d 521", "247 NW2d 530", "25 Mich App 33", "255 NW2d 675", "307 Mich 506", "398 Mich 1", "398 Mich 65", "406 US 164", "50 Mich App 770", "7 Mich App 561", "75 Mich App 537"]
+---
+
+# Monfils v. City of Sterling Heights
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal by plaintiff from an adverse ruling on defendant City of Sterling Heights’ motion for accelerated judgment based on the defense of governmental immunity and an adverse ruling on a motion for summary judgment by defendant Warren Consolidated School District based on the same ground.
+The Warren Consolidated School District decided to rebuild the baseball diamonds which were located on school grounds in the fall of 1973. In the case of Haiteme Elementary School, defendant district contracted with defendant city to have the work done. Pursuant to this agreement, several loads of sand were dumped on the Haiteme site. Michael Monfils was struck by a "dirt rock” thrown by another child while playing among the piles of sand, which were not fenced in or otherwise rendered inaccessible to children. Michael suffered the permanent loss of sight in his right eye as a result of the injury.
+It should be noted that previous to the injury, there were complaints to defendants by parents of children playing on the school grounds concerning the dirt piles and the resultant "dirt fights”.
+Plaintiff raises three questions on appeal. He first claims that the trial court misconstrued MCL 691.1406; MSA 3.996(106), by ruling that an adjacent playground is not part of a school building, thereby holding that the exceptions to the governmental immunity doctrine cited in the statute did not apply.
+We cannot fault the trial court’s ruling, cognizant as we are that the trial court in this case was bound by the majority opinion in Pichette v Manistique Public Schools, 50 Mich App 770; 213 NW2d 784 (1973). Hackett v Ferndale City Clerk, 1 Mich App 6; 133 NW2d 221 (1965).
+However, this panel is not required to follow the majority opinion and we choose to follow Judge Holbrook’s scholarly dissenting opinion. For purposes of this case, we may analogize to Judge Holbrook’s conclusion that:
+"The school playground area to which the slide was permanently affixed is within the same power of control of school officials and the school maintenance staff as is the school building itself. Furthermore, the presumed rationale behind excluding public buildings from the blanket protection of the defense of governmental immunity, i.e., because public buildings, like public highways, are open to the public and used so often that the public has a right to expect to be safe when using them, applies equally to much-used playgrounds adjacent to public schools. The reasons enunciated in part III of this opinion that allegedly serve as a rationale for the continuing validity of the defense of governmental immunity simply do not bear a reasonable relationship to the classification of victims pursuant to the statutory scheme prescribed for governmental immunity. On its face, therefore, the immunity statute questioned here appears to be constitutionally infirm on equal protection grounds. Jones [v Bouza, 7 Mich App 561; 152 NW2d 393 (1967)], supra; Weber [v Aetna Casualty & Surety Co, 406 US 164; 92 S Ct 1400; 31 L Ed 2d 768(1972)], supra. However, whenever possible courts are bound to construe statutes so as to give them validity and reasonable operation, rather than hold them unconstitutional. Evans Products Co v State Board of Escheats, 307 Mich 506; 12 NW2d 448 (1943). Accordingly, in order to save the constitutionality of the statute this writer would expand the definition of 'public building’ in MCLA 691.1406; MSA 3.996(106) to include not only that which one normally regards as a building, but also the immediate outside physical environs owned, controlled, and considered a necessary part of the essential governmental function of the building. See contra, Cody v Southfield-Lathrup School District, 25 Mich App 33; 181 NW2d 81 (1970). Thus, school playgrounds would be part of 'school buildings’, since there is little doubt that school playgrounds are essential to the governmental function of education for which a school building is used.” 50 Mich App at 784-785.
+We acknowledge that Thomas v Dep’t of State Highways, 398 Mich 1; 247 NW2d 530 (1976), answered "the constitutional questions that troubled Judge Holbrook”. Stanton v Garfield Twp, 75 Mich App 537, 539; 255 NW2d 675 (1977). However, our adherence to Judge Holbrook’s opinion is based on considerations of common sense. Therefore, this case must be reversed and remanded to the trial court permitting plaintiff to proceed with his case.
+Plaintiff also contends that the maintenance, repair, or reconstruction of a school playground is not a governmental function as that phrase is used in MCL 691.1407; MSA 3.996(107). We must disagree. In McCann v Michigan, 398 Mich 65, 79; 247 NW2d 521 (1976), Justice Ryan distinguished "governmental” from "proprietary” functions:
+"The Legislature has defined 'proprietary function’, MCLA 691.1413; MSA 3.996(113):
+" 'Proprietary function shall mean any activity which is conducted primarily for the purpose of producing a pecuniary profit for the state, excluding, however, any activity normally supported by taxes or fees.’
+"The definition of 'governmental function’ most frequently cited by Michigan courts is found in Gunther v Cheboygan County Road Comm’rs, 225 Mich 619; 196 NW 386 (1923). Therein, this Court approved the following formulation of the test from Bolster v City of Lawrence, 225 Mass 387; 114 NE 722 (1912):
+" 'The underlying test is whether the act is for the common good of all without the element of special corporate benefit or pecuniary profit. If it is, there is no liability; if it is not, there may be liability. That it may be undertaken voluntarily and not under compulsion of statute is not of consequence.’ ”
+In rebuilding the baseball diamonds on the school grounds in question, the act was for the common good of the public and was not conducted primarily for the purpose of producing a corporate benefit or pecuniary profit. Furthermore, in Pichette, supra, this Court found that the maintenance of the school playground involved in that case was a governmental function. If the maintenance of a schbol playground is a governmental function, then reconstruction of part of a school playground is also a governmental function.
+Finally, plaintiff argues that the application of statutory governmental immunity denies plaintiff equal protection under law. As noted earlier, this question was decided by the Supreme Court adversely to plaintiff in Thomas v Dep’t of State Highways, supra. We are bound by that decision. Cf. Hackett v Ferndale City Clerk, supra.
+Reversed and remanded.
