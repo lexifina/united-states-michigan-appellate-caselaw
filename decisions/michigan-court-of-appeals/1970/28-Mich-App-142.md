@@ -1,0 +1,54 @@
+---
+court: "Michigan Court of Appeals"
+docket: "6,911"
+decided: "1970-11-30"
+citations: ["28 Mich. App. 142", "384 Mich. 812"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Levin, P. J., and Holbrook and Bronson, JJ.", "Holbrook, J., concurred."]
+parties: ["THE TRAVELERS INDEMNITY COMPANY v. DUFFIN"]
+source_url: "https://static.case.law/mich-app/28/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2064150
+cites_cases: ["13 Mich App 13", "16 Ga App 401", "201 F Supp 124", "205 Mich 233", "22 Mich App 209", "276 Ala 172", "295 Mich 514", "3 Mich App 478", "351 Mich 302", "374 Mich 169", "375 Mich 421", "386 F2d 520", "416 SW2d 557", "46 Mich 424", "65 Mich 545", "8 Mich App 156", "8 Mich App 451", "85 SE 629", "9 Mich App 598"]
+---
+
+# Travelers Indemnity Co. v. Duffin
+
+## Majority (Bronson, J.)
+
+Bronson, J.
+This case involves a policy of insurance issued by The Travelers Insurance Company to Louise E. Laming.
+On March 15, 1964, Donald E. Duffin was driving his 1961 Dodge automobile in an easterly direction on West Water Street in the Township of Port Huron. With him in the car was his wife, Kathleen. At the same time William J. Laming was driving a 1949 Nash Rambler owned by Kenneth Stone. The vehicle which Laming was driving crossed the center line and collided head-on with the Duffin vehide, killing Mrs. Duffin and seriously injuring Mr. Duffin.
+At the time of the acddent an insurance policy issued by The Travelers Insurance Company to Louise Laming, William Laming’s mother, was in force. The insurance policy provided standard coverage, with liability for personal injury up to the amount of $25,000 per person and $50,000 per accident. The policy contained the following provision:
+“Any relative of the insured is covered for public liability with respect to a non-owned automobile (private passenger automobile or utility trailer) if the use thereof is with the permission of the owner. Relative is defined as: ‘a relative of the named insured who is a resident of the same household, provided neither he nor his spouse owns a private passenger automobile’. Private passenger automobile is defined as: ‘a four wheel private passenger or station wagon type automobile’ ”. (Emphasis supplied.)
+It is undisputed that at the time of the accident that William J. Laming was a resident in the household of his mother, the named insured.
+Plaintiff brought this present action seeking a declaratory judgment that plaintiff’s insurance policy issued to Louise Laming did not cover Louise Laming’s son on March 15, 1964, the date when William Laming was involved in the automobile accident. The St. Clair County Circuit Court denied plaintiff’s motion for declaratory judgment. From that decision, plaintiff appeals.
+On September 14, 1963, William J. Laming had purchased a 1955 Oldsmobile from William B. Spicer for $125.00. The certificate of title, however, had never been registered in the name of William J. Laming, although it had been signed by the seller, notarized, and delivered to Mr. Laming. From the middle of December, 1963 until approximately three months before the accident in question, the 1955 Oldsmobile had been left in the front yard of Mrs. Laming’s residence, because the car was inoperable and unlicensed. Mr. Laming stated that he felt the cost of repairs exceeded the value of the vehicle and that he did not intend to repair it. The vehicle at the time of the accident displayed 1963 license plates, which were then expired. No new 1964 license plates had been purchased either before or after the accident of March 15, 1964. William Laming finally gave the vehicle to Kenneth Stone. Mr. Stone towed the vehicle from the Laming house and on August 23, 1964, sold the vehicle to a junk dealer for $15.
+The insurance policy in question defines “private passenger automobile” as “a four wheel private passenger or station wagon type automobile”. Nothing in the policy specifically excludes or includes non-operable cars within the above definition.
+Where there is language in an insurance policy calling for construction, an insurance policy prepared by an insurer should be construed most strongly against him and liberally in favor of the insured. Martin v. Ohio Casualty Insurance Company (1968), 9 Mich App 598; Utter v. Travelers’ Insurance Company (1887), 65 Mich 545. Exceptions to general liability provided are to be strictly construed against the insurer. Farm Bureau Insurance Company of Michigan v. Pedlow (1966), 3 Mich App 478.
+The terms of an insurance policy should be construed in the plain, ordinary, and popular sense of the language used. Economy Mills of Elwell, Inc. v. Motorists Mutual Insurance Company (1967), 8 Mich App 451.
+The term “automobile” is applied generally to a self-moving vehicle designed to travel on common roads and, specifically, to a wheeled vehicle for use on roads without rails, which carries in itself a mechanical motor as its source of power. Mattox v. Pennsylvania Threshermen & Farmers’ Mutual Casualty Insurance Company (1964), 276 Ala 172 (160 So 2d 458); Bonds v. State (1915), 16 Ga App 401 (85 SE 629).
+The body of a car stripped of its engine and wheels is not an “automobile”. While it might closely resemble an automobile visually, there is no functional similarity because the stripped car does not have wheels and an engine and is, therefore, incapable of “independent” movement. By definition it is not an “automobile” even though it might still be referred to as such in casual conversation.
+The Oldsmobile then owned by Mr. Laming had wheels and an engine, and it is possible that, with repairs, it could have become operable. It was never repaired because the owner felt that the cost was prohibitive. The automobile was not licensed and was not running. There is authority for the proposition that a car in such condition is not an “automobile” as defined earlier in this analysis. Glens Falls Insurance Company v. Gray (1967), 386 F2d 520; Canal Insurance v. Brooks (1962), 201 F Supp 124; Republic Insurance Company v. State Farm Insurance (1967), 416 SW2d 557.
+The question seems to reduce itself to one of intent. The record indicates that before the accident, at the time of the accident, and subsequent to the accident, William Laming did not intend to repair the Oldsmobile and use it as a private passenger vehicle. Accordingly, it was not unreasonable to find that the 1955 Oldsmobile as then owned by William Laming was not- a “private passenger automobile” within the clear meaning of Louise Laming’s insurance policy and that William Laming was covered by the terms of the policy on the date of the accident in question. Plaintiff further asserts that it should have been entitled to trial by jury and that this right was erroneously denied by the trial court. A review of the trial transcript and record does not disclose any dispute regarding a material fact. The request for jury trial was not timely made. GfCR 1963, 508.2(1). The plaintiff was not wrongfully deprived of a jury trial.
+Affirmed. Costs to appellees.
+Holbrook, J., concurred.
+
+## Dissent (Levin, P. J.,)
+
+Levin, P. J.,
+(dissenting).
+A jury trial was timely demanded by the plaintiff. Within 20 days after defendant Donald E. Duffin filed his answer, the plaintiff moved to strike a part of the answer, and within 30 days after the motion to strike was denied the plaintiff filed its reply and jury demand.
+Moreover, plaintiff’s jury demand has been treated as timely; the pretrial statement provides: “A jury trial has been demanded by plaintiff which is granted”. And even if it is thought that a jury was not timely demanded, once it is granted a trial judge may not, as the trial is about to begin, without cause, retract the grant.
+The judge’s action in taking this case from the jury before the witnesses were heard and hearing the testimony himself as if a jury had not been demanded or granted deprived the plaintiff of its right to a jury verdict on the disputed issue of fact.
+In Drysdale v. State Farm Mutual Insurance Company (1968), 13 Mich App 13, we held that whether an inoperable automobile was in fact an automobile within the meaning of an automobile liability insurance policy could not be resolved on a motion for summary judgment. Similarly here, the trial judge erred when he ruled, just before the impaneling of the jury, that whether Laming’s inoperable 1955 Oldsmobile was an automobile did not present a question of fact necessitating consideration by a jury, and that, although it was necessary to hear the testimony of witnesses, he foresaw that the question presented was purely one of law.
+Although it developed at the trial that the testimony of the witnesses, relied on by the judge when he decided for the defendant, was not contradicted, issues of credibility are always to he decided by the trier of fact; and the trier of fact that the plaintiff was entitled to have decide the credibility issue was a jury. The testimony relied on by the judge was largely that of defendant William J. Laming, an interested witness. “A jury may disbelieve the most positive evidence, even when it stands uncontradicted.” Woodin v. Durfee (1881), 46 Mich 424, 427.
+Defendants William J. Laming and Louise E. Laming did not answer and their defaults were taken. Defendant Donald E. Duffin, Administrator of the Estate of Kathleen A. Duffin, deceased, was added as a party defendant after plaintiff’s motion to strike was filed.
+See GCR 1963, 108.
+See GCR 1963, 508.2.
+While the plaintiff had the burden of showing that William J. Laming was the owner of a private passenger automobile, once it established that the 1955 Oldsmobile was owned by Laming it became the defendant’s burden to show that the vehicle was not in fact an automobile within the meaning of the policy.
+See Republic Insurance Company v. State Farm Insurance Company (Tex App, 1967), 416 SW2d 557, reversing a summary judgment that an inoperable vehicle was not an automobile within the meaning of an insurance policy. The evidence was one-sided; the insurance company was unable to produce contradictory testimony. In reversing, the court declared that the issue of credibility was to be decided by the trier of fact. Similarly, see, American Parts Co., Inc. v. American Arbitration Association (1967), 8 Mich App 156, 170; Martino v. Kentros (1970), 22 Mich App 209, 212.
+See MOLA § 600.2158 (Stat Ann 1962 Rev § 27A.2158).
+Similarly, see, Crampton v. Crumpton (1919), 205 Mich 233, 241; Cuttle v. Concordia Mutual Fire Ins. Co. (1940), 295 Mich 514, 519; Hughes v. John Hancock Mutual Life Insurance Company (1958), 351 Mich 302, 308; Baumgartner v. Ham (1965), 374 Mich 169, 174; Wolf gram v. Valko (1965), 375 Mich 421, 435 (per Black, J., in an opinion signed by three other justices).
