@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "107630"
+decided: "1988-12-20"
+citations: ["173 Mich. App. 774"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, Jr., P.J., and Sawyer and Murphy, JJ."]
+parties: ["PEOPLE v HARDIN"]
+source_url: "https://static.case.law/mich-app/173/cases/0774-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2320067
+cites_cases: ["133 Mich App 150", "152 Mich App 20", "152 Mich App 508", "169 Mich App 554", "315 NW2d 537", "348 NW2d 716", "391 NW2d 508", "394 NW2d 459", "412 Mich 565", "426 NW2d 702"]
+---
+
+# People v. Hardin
+
+## Majority (Murphy, J.)
+
+Murphy, J.
+Defendant appeals as of right from his plea-based convictions of larceny in a building, MCL 750.860; MSA 28.592, and being a third-offense habitual offender, MCL 769.11; MSA 28.1083. Defendant was sentenced to sixty-four to ninety-six months imprisonment.
+Defendant’s only claim on appeal is that he is entitled to be resentenced because the lower court did not first impose a sentence on the underlying felony offense before it imposed sentence pursuant to the habitual offender statute.
+Defendant contends that MCL 769.13; MSA 28.1085 requires that the sentencing court impose two separate sentences. That is, the court must first impose a sentence on the underlying felony conviction, which must immediately thereafter be vacated, and then the court may proceed to sentence on the habitual offender conviction. We do not believe that the Legislature intended such a result. MCL 769.13; MSA 28.1085, in pertinent part, provides:
+If after conviction and either before or after sentence it appears that a person convicted of a felony has previously been convicted of crimes as set forth in section 10, 11, or 12 [MCL 769.10, 769.11, 769.12; MSA 28.1082, 28.1083, 28.1084], the prosecuting attorney of the county in which the conviction was had may file a separate or supplemental information in the cause accusing the person of the previous convictions. The court in which the conviction was had shall cause the person to be brought before it and shall inform him of the allegations contained in the information, and of his right to be tried on the allegations, and require the offender to say whether he is the same person as charged in the information or not.
+If the accused pleads guilty to the information or if the jury returns a verdict of guilty, the court may sentence the offender to the punishment prescribed in section 10, 11, or 12, and shall vacate the previous sentence, deducting from the new sentence all time actually served on the vacated sentence if required. [Emphasis added.]
+As we read the above statute, we find little merit to defendant’s argument. When the entire text of the statute is read, it appears that the Legislature was contemplating the situation where a defendant is convicted and sentenced for the underlying offense before the habitual offender conviction is obtained. Obviously, in that situation, the statute clearly requires that the court vacate the defendant’s underlying sentence. See, e.g., People v Miller, 152 Mich App 508, 513-514; 394 NW2d 459 (1986), and People v Johnson, 133 Mich App 150, 156-157; 348 NW2d 716 (1984). However, in current practice it is often the case that the habitual offender conviction is obtained simultaneous to or shortly after the underlying felony conviction. This practice is the result of our Supreme Court’s mandate that the prosecution charge a defendant with being an habitual offender "promptly” (not more than fourteen days after the defendant is arraigned on the underlying felony or before trial, if the defendant is tried within that fourteen-day period). See People v Shelton, 412 Mich 565, 569; 315 NW2d 537 (1982). This practice is in contrast to what we believe the Legislature contemplated in drafting the statute. That is, that the habitual offender proceedings often were not commenced until after sentencing on the underlying felony conviction.
+In this case defendant pled guilty to both the underlying felony charge and the habitual offender information at the same proceeding; thus, defendant was not sentenced until after both convictions were obtained. We note that on at least two occasions this Court has discussed whether a defendant must first be sentenced on the underlying felony conviction, or if the court may sentence solely on the habitual offender conviction. This Court in People v Gren, 152 Mich App 20, 26-27; 391 NW2d 508 (1986), in addressing the habitual offender statute and sentencing thereunder, explained as follows:
+[I]f a defendant’s habitual offender status is established before sentencing on the underlying crime, then only one sentencing is to take place and only one sentence is to be imposed.
+There is one situation where a defendant will be sentenced twice. That situation occurs when a defendant’s habitual offender status is not established until after he is convicted and sentenced on the underlying offense. In such a situation, upon conviction for the underlying offense, the defendant is sentenced in the normal manner. Once habitual offender status is established, however, the sentence on the underlying conviction is vacated and the defendant is resentenced. See MCL 769.13; MSA 28.1085.
+In addition, this Court in People v Hambrick, 169 Mich App 554, 557; 426 NW2d 702 (1988), stated:
+In the present case, defendant had not been sentenced for the underlying felony when his habitual offender status was determined. Therefore, the trial court properly imposed one sentence for the underlying offense that took into consideration defendant’s habitual offender status and was within the sentence range of the applicable habitual offender statute. [Emphasis added.]
+We agree with the above two cases to the extent that they conclude that a sentencing judge may properly proceed to sentencing directly on the habitual offender conviction. We simply see no reason to require that the sentencing court first impose a sentence on the underlying felony conviction before sentencing on the habitual offender conviction. To require the court to do so would exalt form over substance. On the other hand, we believe that it is within the sentencing court’s discretion to employ such a bifurcated sentencing procedure if it so desires.
+Therefore, we hold that, when convictions on both the underlying offense and the habitual offender charge are obtained before sentencing, the sentencing court has two options. It may either (1) impose a single sentence on the habitual offender conviction or (2) impose two separate sentences, one each on the underlying offense and the habitual offender charge, with the sentence on the underlying conviction being vacated upon sentencing on the habitual offender conviction.
+Based on the foregoing, we decline defendant’s request that he be resentenced and affirm defendant’s convictions and sentence.
