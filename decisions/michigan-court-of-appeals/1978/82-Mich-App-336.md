@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-893"
+decided: "1978-04-03"
+citations: ["82 Mich. App. 336"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P. J., and M. F. Cavanagh and D. C. Riley, JJ."]
+parties: ["PEOPLE v GIVENS"]
+source_url: "https://static.case.law/mich-app/82/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2157859
+cites_cases: ["176 NW2d 467", "21 Mich App 677", "239 NW2d 431", "244 NW2d 357", "250 NW2d 100", "29 ALR2d 1074", "66 Mich App 639", "69 Mich App 41", "72 Mich App 500"]
+---
+
+# People v. Givens
+
+## Majority (T. M. Burns, P. J.)
+
+T. M. Burns, P. J.
+Defendant appeals a judgment revoking his probation and imposing a sentence of 5 to 15 years in prison. The facts leading up to the revocation are unusual and are set forth here to illustrate the reasons for the ultimate conclusion that defendant is entitled to another revocation hearing.
+In September of 1974, defendant pled guilty to assault with intent to rob while armed, MCLA 750.89; MSA 28.284, before Recorder’s Court Judge Donald S. Leonard, and was placed on probation. A bench warrant charging a violation of this probationary order was issued on August 5, 1976. Defendant was arraigned on this warrant on November 21, 1976. Defendant waived counsel and pled guilty to the charged violations the next day.
+On December 9, defendant again appeared before Judge Leonard, this time with counsel, and again admitted the charged violation. Probation was not revoked. Instead, the judge extended probation and issued a new probationary order under which defendant was to seek immediate psychiatric care, enter into a program of alcoholic rehabilitation, report weekly to his probation officer and stay away from a named female individual.
+A warrant charging defendant with failure to meet with his probation officer on December 15, 1976, and December 29, 1976, was issued on January 4, 1977. Defendant was arrested and subsequently a revocation hearing was held on January 13, 1977. It is this hearing which led to revocation of defendant’s probation and this appeal.
+Because of Judge Leonard’s death on December 18, 1976, Judge Clarence Laster, Jr. presided at the January 13 hearing. As is apparently the practice in Recorder’s Court, the people were not represented by an assistant prosecutor at this proceeding, but rather, by someone from the probation department. When defendant pled not guilty to the charges contained in the notice of violation, the only evidence presented by the people was this representative’s statement that he had spoken with defendant’s probation officer and that defendant had, in fact, failed to appear on the dates mentioned.
+Defendant was sworn as a witness and admitted that he had failed to appear on December 15 and 29. He explained, however, that on the 15th he was at Mt. Sinai Hospital arranging for the psychiatric care ordered by the court and that when he reached the probation office at 5 p.m., it had already closed. He testified that he appeared on the 22nd, his next scheduled appointment, but the probation office was again closed, this time for Judge Leonard’s funeral. Defendant stated that on the 29th he called the probation office and was told his probation officer was not available that day. Defendant claims someone took his name to verify the fact that he had called before appearing.
+Defendant’s claims were not refuted, nor was any attempt made to verify defendant’s claimed phone call on the 29th. Instead, the probation officer present "responded” to defendant’s claim by alleging that defendant had failed to keep appointments with psychiatrists in September and October of 1975 (which may have been a reference to those months in 1976) and recommended that defendant’s probation be revoked. The court found defendant guilty of violating his probation at that point. The court went further, referring to several episodes of misconduct with defendant’s girl friend and allegations of threats attributed to defendant in a report prepared by his probation officer. At that point, the court announced its intention to proceed to sentence, and did so.
+Review of the proceedings described above begins with a reaffirmation of the principle that a revocation proceeding has two steps: (1) a factual determination that the violations charged in the notice have occurred, and (2) a discretionary determination that the proven charges warrant revoking probation. See, People v Clements, 72 Mich App 500; 250 NW2d 100 (1976). This proceeding trips on both steps.
+Defendant claims he was denied his right to confrontation both in establishing the charged violations and in the other acts of misconduct which were not alleged in the notice of violation, but relied upon by the judge in revoking his probation. Defendant was denied his due process confrontation rights. People v Smith, 66 Mich App 639; 239 NW2d 431 (1976). Where the only charged violation is failure to report to a probation officer, the least the court could expect would be that the probation officer would appear and assert facts based on his personal knowledge. Defendant’s due process rights must be recognized even in a summary and informal proceeding such as probation revocation.
+This brings us to the problems with the second step in the revocation hearing. If revocation was based solely on defendant’s failure to meet with his probation officer, defendant was entitled to have his explanation for failing to appear considered by the court. People v Clements, supra. It does not appear that it was. The court made no response to defendant’s explanation or his counsel’s argument based on that explanation.
+An even more serious question arises from the court’s apparent reliance on misconduct which is not charged in the notice of violation, and which occurred before probation was extended by Judge Leonard on December 9. In fact, defendant’s failure to keep prior appointments with the psychiatrist was the basis of the prior revocation proceeding which ended with probation being extended.
+The decision to revoke probation cannot be based on conduct which is not charged in the notice of violation. As Justice, then Judge, Levin stated in People v Elbert, 21 Mich App 677, 681; 176 NW2d 467 (1970):
+"Under the statute (MCLA 771.4; MSA 28.1134) a probationer is entitled to a written copy of a charge of probation violation and to a hearing thereon. Only evidence relating to the charge may be considered and on the basis of that evidence alone is the decision whether to terminate or revoke the probationary order to be made.” (Footnotes omitted.)
+See also, People v Hill, 69 Mich App 41; 244 NW2d 357 (1976).
+The court did not limit itself to defendant’s failure to appear as required in making its decision to revoke defendant’s probation. If these other allegations of misconduct were to be raised at the hearing, they should have been included in the notice of violation served on defendant so that he could prepare to defend against them. It also seems wise (if not required by a due process or double jeopardy analysis) not to bring up alleged violations which have been the basis of a prior revocation hearing which ended in probation being extended. Defendant is entitled to a proper revocation hearing.
+This disposition renders discussion of the other issues raised by defendant unnecessary.
+The order revoking defendant’s probation is set aside, the sentence vacated, and defendant is remanded to the Recorder’s Court without prejudice to the court’s power to conduct a proper hearing. If another hearing is held, a different judge should preside.
