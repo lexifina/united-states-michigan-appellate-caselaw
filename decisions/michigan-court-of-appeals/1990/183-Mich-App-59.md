@@ -1,0 +1,60 @@
+---
+court: "Michigan Court of Appeals"
+docket: "109977"
+decided: "1990-04-02"
+citations: ["183 Mich. App. 59"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Weaver, P.J., and Shepherd and Griffin, JJ."]
+parties: ["HUNT v CHAD ENTERPRISES, INC"]
+source_url: "https://static.case.law/mich-app/183/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2337986
+cites_cases: ["1 Mich App 675", "111 Mich App 127", "137 NW2d 753", "141 Mich App 199", "148 Mich App 564", "15 Mich App 438", "159 NW 151", "166 NW2d 661", "171 Mich App 210", "173 Mich App 319", "193 Mich 170", "226 NW2d 681", "231 NW2d 46", "314 NW2d 546", "330 NW2d 638", "366 NW2d 249", "384 NW2d 823", "394 Mich 401", "394 Mich 755", "402A Mich 364", "416 Mich 97", "424 NW2d 478", "429 NW2d 646", "430 Mich 473", "433 NW2d 360", "57 Mich App 655"]
+---
+
+# Hunt v. Chad Enterprises, Inc.
+
+## Majority (Griffin, J.)
+
+Griffin, J.
+Defendants appeal as of right from a jury verdict of $243,750 in favor of plaintiffs in this premises liability action. Plaintiffs cross appeal as of right. We affirm.
+I
+Plaintiff Jon Hunt was injured on October 6, 1985, at a McDonald’s restaurant located at 207 Lansing Road in Charlotte, Michigan. Hunt had parked his pickup truck in a parking space to the right of the restaurant. In front of his truck was a four-foot-wide sidewalk that is also the top of a retaining wall. As one moves up the sidewalk from Lansing Road, the difference in height increases gradually to a maximum of thirty-nine inches. The result is a ninety-degree drop-off from the 207 Lansing Road property to that at 211 Lansing Road.
+After parking, Hunt walked to the front of the truck to check his radiator. He then took a step backward and fell off the retaining wall. Hunt suffered permanent damage to his left leg and knee, has had two operations for the knee, and faces the possibility of further surgery. Hunt is a mailman, and lost approximately five months of work.
+Plaintiffs’ complaint named as defendants Joseph R. Fix, the McDonald’s franchisee, who is the owner and sole shareholder in C.H.A.D. Enterprises, Inc., doing business as McDonald’s of Charlotte, Delaware McDonald’s Corporation, a foreign corporation for profit, Delaware McDonald’s Corporation, a Michigan corporation for profit, and A.R.S. Builders, Inc. A.R.S., which is alleged to have built the restaurant and parking lot and which apparently went out of business before the present incident occurred, was dismissed from the case before trial and is not a party to this appeal. Plaintiffs’ amended complaint alleged five counts: nuisance, nuisance per se, negligence, defective parking lot, and negligent design or construction.
+On January 8, 1987, plaintiffs entered a default against Delaware McDonald’s Corporation, a Michigan corporation for profit; however, the trial court ultimately denied plaintiffs’ request for entry of a default judgment.
+Defendants moved for a directed verdict after plaintiffs presented their case in chief. The court denied defendants’ motion but did strike the counts dealing with negligent design and construction. The court stated that the case would proceed only on one theory—that of premises liability. The trial continued, resulting in the above-described jury verdict. Defendants subsequently moved for judgment notwithstanding the verdict or, in the alternative, a new trial, which the trial court denied.
+ii
+On appeal, defendants first argue that plaintiffs produced insufficient evidence to support their claim of premises liability and, therefore, the trial court erred by denying their motion for a directed verdict. We disagree.
+In deciding whether to grant a motion for a directed verdict, the trial court must view the testimony and all legitimate inferences therefrom in the light most favorable to the nonmoving party to determine whether a prima facie case has been established. Caldwell v Fox, 394 Mich 401, 407; 231 NW2d 46 (1975).
+Defendants assert that plaintiffs presented no evidence regarding who owned, operated, or had control of the property when plaintiffs’ injury occurred and therefore they were entitled a directed verdict. However, we note that in their answer to plaintiffs’ complaint, defendants admitted that Delaware McDonald’s owned the property at 207 Lansing Road and leased it to Fix and that the 211 Lansing Road property was leased to Fix and C.H.A.D. Enterprises.
+We find it axiomatic that, where the defendant in its answer has admitted to facts alleged by the plaintiff in its complaint, the plaintiff is relieved of the burden of proving these facts at trial. Slocum v Ford Motor Co, 111 Mich App 127, 132; 314 NW2d 546 (1981); Cady v Doxtator, 193 Mich 170; 159 NW 151 (1916). Furthermore, under MRE 801(d) (2), statements in pleadings may be treated as admissions.
+We disagree with defendants’ contention that the repeal of former GCR 1963, 604 implies a repudiation of established case law by our Supreme Court. Rather, the reason GCR 1963, 604 is not in the Michigan Court Rules of 1985 is because evidence is now covered in the comprehensive Michigan Rules of Evidence. See Proposed Michigan Court Rules, 402A Mich xxvii and Chapter 4, Committee Reporter’s Note, 402A Mich 364.
+Thus, the trial court properly denied defendants’ motion for a directed verdict.
+hi
+Defendants next argue that the trial court abused its discretion by denying defendants’ motion for a new trial because a juror misrepresented his litigation history on the written questionnaire and the juror would have been dismissed had he been truthful. This argument is without merit.
+MCR 2.611(A)(1)(b) authorizes motions for a new trial on the basis of jury bias or misconduct. Whether a new trial should be awarded on the ground that a juror was biased in favor of or against a particular party is discretionary with the trial court and this Court reviews such a decision only for an abuse of that very broad discretion. Gustafson v Morrison, 57 Mich App 655, 662; 226 NW2d 681 (1975), lv den 394 Mich 755 (1975).
+A person sitting on a jury panel is presumed to be qualified and competent to serve, and the burden is on the challenging party to make out a prima facie case to the contrary. Lee v Misfeldt, 1 Mich App 675, 679; 137 NW2d 753 (1965). A moving party must present actual proof of prejudice on the part of that juror or establish that the moving party would have challenged for cause or otherwise dismissed the juror in question had the truth been revealed prior to trial. Citizens Commercial & Savings Bank v Engberg, 15 Mich App 438, 440; 166 NW2d 661 (1968).
+Following the jury verdict in the instant case, the trial judge informed the respective attorneys that he had been advised by the jury foreman that, at the beginning of deliberations, one of the jurors revealed to the rest of the panel that he had failed to disclose that he had been involved in "some sort of personal injury litigation.”
+A hearing was held and defendants failed to present any evidence that any of the jurors withheld information or answered untruthfully the questions on the questionnaire. Indeed, the identity of the juror was never shown with any degree of certainty.
+Defendants failed to present sufficient evidence of prejudice or juror misconduct; the trial court therefore did not abuse its discretion by denying defendants’ motion.
+IV
+Finally, defendants argue that the trial court abused its discretion by denying their motion for a new trial on the basis of allegedly improper remarks by plaintiffs’ attorney during closing argument. We disagree.
+Defendants take issue with a reference by plaintiffs’ attorney to the Northwest Flight 255 disaster, which they claim was designed to appeal to the sympathy of the jurors. Defendants also assert that plaintiffs’ attorney made improper remarks when he repeatedly appealed to the jurors to send a message from "little old Eaton County, to corporate headquarters in Delaware, that in fact this is a dangerous situation.”
+Although we regard plaintiffs’ counsel’s closing argument to have been improper, defendants made no objection to these remarks at the time they were made. After both parties completed their closing arguments, defendants’ attorney put an objection on the record to plaintiffs’ alleged characterization of Delaware McDonald’s Corporation as a big business pitted against a small postman from Eaton Rapids. Defendants’ attorney did not request a ruling on the objection and the court did not offer one. Nor did defendants’ attorney request a curative instruction or move for a mistrial.
+On review of the record, we conclude that any prejudice defendants may have suffered from the improper remarks could have been prevented by timely objection and a request for a curative instruction. See generally Reetz v Kinsman Marine Transit Co, 416 Mich 97; 330 NW2d 638 (1982). We find no error requiring reversal.
+v
+Plaintiffs raise two issues on cross appeal. First, they argue that the trial court erred by sua sponte setting aside the default against defendant Delaware McDonald’s Corporation, a foreign corporation for profit, and by denying plaintiffs’ motion for entry of default judgment for the full amount of the jury verdict. This argument is without merit.
+The default judgment entered referred to Delaware McDonald’s, a Michigan corporation for profit. (Emphasis ours.) The parties subsequently agreed that no such entity exists. Thus, the trial court did not err by allowing the issue of the liability of defendant Delaware McDonald’s Corporation, a foreign corporation for profit, to go to the jury, since the default judgment did not involve that company.
+vi
+Plaintiffs’ second issue on cross appeal is whether the trial court erred by denying its request for actual costs under MCR 2.625.
+Plaintiffs filed their motion for actual costs on July 6, 1988, in the amount, of $10,646.01. Although plaintiffs did not specify under which rule they were requesting the costs, they cited MCR 2.625 at a later hearing on the motion. Defendants had rejected a mediation offer of $90,000 that plaintiffs had accepted.
+The trial court ruled that under MCR 2.405(D) (2) plaintiffs had waived their right to actual costs by failing to counter defendants’ offer of judgment of $10,000 at an earlier stage of the proceedings. We agree with the trial court’s reasoning.
+It is clear that, under MCR 2.625(F)(3), defendants waived any objection to plaintiffs’ taxable bill of costs by not filing objections thereto. See Theopolis v Lansing General Hosp, 141 Mich App 199, 207; 366 NW2d 249 (1985), vacated (on rehearing) on other grounds 148 Mich App 564; 384 NW2d 823 (1986), aff'd in part and rev’d in part 430 Mich 473; 424 NW2d 478 (1988). However, it is equally clear that plaintiffs are precluded from recovering actual costs because of their failure to make a written counteroffer to defendants’ offer of judgment in the amount of $10,000. MCR 2.405(D) (2); Anderson v Howley, 171 Mich App 210, 212-213; 429 NW2d 646 (1988). Moreover, the procedures outlined in MCR 2.625 do not govern the determination of actual costs under MCR 2.405(D). Butt v Giammariner, 173 Mich App 319, 324; 433 NW2d 360 (1988).
+Thus, the trial court properly ruled that plaintiffs are precluded from recovering actual costs by virtue of their failure to reply to defendants’ offer of judgment.
+Affirmed.
+In addition to allowable taxable costs, plaintiffs are seeking actual expenses and reasonable attorney fees.
+MCR 2.625 is the general court rule which pertains to the taxation of costs.
+MCR 2.405(D)(2) states: "Imposition of Costs Following Rejection of Offer. If an offer is rejected, costs are payable as follows: ... (2) If the adjusted verdict is more favorable to the offeree than the average offer, the offeror must pay to the offeree the offeree’s actual costs incurred in the prosecution or defense of the action. However, an offeree who has not made a counteroffer may not recover actual costs." [Emphasis added.]
