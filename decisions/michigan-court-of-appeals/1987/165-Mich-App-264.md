@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "90810"
+decided: "1987-12-21"
+citations: ["165 Mich. App. 264"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and Beasley and Shepherd, JJ."]
+parties: ["PEOPLE v GIRARDIN"]
+source_url: "https://static.case.law/mich-app/165/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2298718
+cites_cases: ["142 Mich App 129", "194 NW2d 314", "26 ALR4th 905", "28 ALR4th 147", "339 NW2d 440", "369 NW2d 274", "386 Mich 586", "417 Mich 523"]
+---
+
+# People v. Girardin
+
+## Majority (Shepherd, J.)
+
+Shepherd, J.
+Defendant pled guilty to third-degree criminal sexual conduct, MCL 750.520d; MSA 28.788(4), in exchange for reduction of the charge of first-degree criminal sexual conduct, MCL 750.520b; MSA 28.788(2). Defendant was sentenced to ten to fifteen years in prison. The sole issue on appeal is whether defendant’s sentence was an abuse of discretion to the extent that it shocks the conscience of this Court under People v Coles, 417 Mich 523; 339 NW2d 440 (1983).
+Defendant was sentenced in excess of the guidelines recommendation of a minimum of from three to five years. In departing from the guidelines the court referred to defendant’s extensive juvenile record, the possible impact on the six-year-old victim, punishment of the defendant, and the deterrent effect of his sentence on others. The court concluded that the guidelines did not accurately reflect the seriousness of the offense.
+Defendant admitted penetration of the girl’s vagina at the plea proceeding and the presentence report indicates that this occurred on more than one occasion. As we understand it, defendant makes three arguments in order to persuade us that the sentence should shock our conscience.
+First, defendant argues that the trial court took into account an improper consideration when it noted the psychological repercussions of the event on the six-year-old victim. Defendant points out that the victim is no longer seeing a counselor. Of course this fact merely means that the child has stabilized for now as opposed to sometime in the future. We note that victim impact statements are a regular part of presentence reports and it therefore seems wholly appropriate that a sentencing court might consider the impact of the crime on the victim.
+Defendant’s argument is that since there is nothing in the record about possible psychological repercussions it was improper for the trial court to consider the future possibility of such repercussions. In effect, defendant’s argument implies that the prosecution should be required to put forward an expert witness to testify as to possible psychological repercussions in the case of young sexual assault victims. We decline to adopt such a rule.
+If we assume that the victim had been thirty-six years old and there had been evidence to the effect that she had put her victimization behind her and no longer needed therapeutic help, it might be improper for the court to weigh heavily possible psychological repercussions. However, in the instant case we have a six-year-old victim. We think it is fair to say, and fair for the trial court to consider, that many children, abused sexually while very young, have substantial psychological repercussions. Simply because psychological damage is not present in all cases or not manifested immediately does not mean that the trial court may not take into account the possibility of future trauma. In a sense, the trial judge took judicial notice of the fact that young sexually abused children may suffer psychological damage in the future even if it is not manifested at the time of sentencing. We believe this was proper since common experience indicates the accuracy of this position.
+Next defendant argues that the trial court erred in sentencing defendant to the maximum possible term under third-degree criminal sexual conduct. His theory seems to be that others, whose crimes might have been much more vicious than defendant’s but who also pled down to third-degree criminal sexual conduct, were also sentenced to the maximum and that therefore his sentence is unfair. We disagree. By pleading to third-degree criminal sexual conduct defendant avoided a possible maximum sentence of life imprisonment had he been convicted of the original charge of first-degree criminal sexual conduct. Part of defendant’s "bargain” was the limitation on a possible maximum sentence defendant could receive. We believe the sentence, the maximum under third-degree criminal sexual conduct, speaks to the court’s discretionary judgment on the heinous nature of defendant’s crime. While we view all assaults with abhorrence, vaginal penetration of a six-year-old girl is particularly abhorrent.
+Finally, defendant argues that the trial court’s failure to consider the possibility of rehabilitation amounts to an abuse of discretion. While rehabilitation is an important consideration in sentencing, it is not the sole consideration. The trial court chose other considerations as being more significant in this case. Rehabilitation is included on the nonexclusive list of four factors to be considered in sentencing approved of by the Court in Coles, citing People v Snow, 386 Mich 586; 194 NW2d 314 (1972). The four factors cited in Snow do not constitute a complete litany. Failure to note one of those factors does not destroy the propriety of the sentencing court’s rationale. In this case, the trial court specifically sought to discipline defendant and to deter others by way of a sentence significantly longer than the guidelines recommend. These were fair considerations in exceeding the guidelines. The departure policy of the guidelines invites disagreement with its conclusions so long as the trial court explains its reasons for departure. Previous cases have affirmed the use of reasons already considered by the guidelines in departing from the guidelines. People v Ridley, 142 Mich App 129; 369 NW2d 274 (1985). We therefore affirm the sentence.
+Affirmed.
