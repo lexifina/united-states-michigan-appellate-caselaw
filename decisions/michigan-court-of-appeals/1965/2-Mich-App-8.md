@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "31"
+decided: "1965-12-20"
+citations: ["2 Mich. App. 8"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quinn, P. J., and Watts, J., concurred.", "Quinn, P. J., and McGregor and Watts, JJ., concurred."]
+parties: ["COCKERLINE v. CITY OF WARREN."]
+source_url: "https://static.case.law/mich-app/2/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2032205
+cites_cases: ["377 Mich 708"]
+---
+
+# Cockerline v. City of Warren
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+On January 1, 1957, the city of Warren was incorporated as home-rule city from the territory which was previously the charter township of Warren and the village of Warren. The charter township had a paid fire department which was organized on a civil service basis under CL 1948, § 38.501 et seq. (Stat Ann § 5.3351 et seq.) and under a retirement program, as provided in CL 1948, § 38.551 et seq. (Stat Ann § 5.3375[1] et seq.). The village of Warren volunteer fire department, however, had neither civil service nor retirement programs. The Warren city charter, adopted by the electorate on October 27,1956, placed the city under both the civil service and retirement statutes cited above. In order to consolidate the charter township and village police and fire departments for the benefit of the new city, the charter contained these provisions:
+“Pull time policemen and volunteer firemen of the village of Warren on the effective date of this charter shall be deemed to have been covered by the eivil service plan, of the charter township of Warren as though they had been policemen and firemen of the township, and shall have seniority in service as though they had been policemen and firemen of the township, but shall not have seniority in rank; Provided, That to be so eligible for employment by the city, a volunteer fireman of the village shall declare his intention to become a full-time fireman of the city and shall qualify for and assume such position on or before July X, 1957.” Charter of the city of Warren, §7.X8(e).
+“Within 60 days after the effective date of this charter, the policemen and firemen employees of the village of Warren, who become policemen and firemen of the city shall be included within the pension plan of 'the city for policemen and firemen on the same basis as though they had been policemen and firemen of the charter township of Warren. The city shall assume and amortize the city’s obligation for the prior service of such polieemen and firemen. Each such policeman and fireman may pay into the pension plan the amount that he would have contributed, had he been employed by the charter township of Warren, instead of the village of Warren, and the retirement board shall provide a plan for doing so in monthly payments to be completed within' 10 years after such employees are placed under the city’s pension plan for policemen and firemen.” Charter of the city of Warren, § 16.2.
+The plaintiffs herein are all former members of the village volunteer fire department who commenced employment with the city of Warren fire department before July 1, 1957. In the village fire department, they were part-time and part-paid firefighters, who earned their livelihood by other means. The city civil service commission granted them one year of credit for every three years served with the village fire department towards eligibility for promotional examinations only, and denied them any other seniority rights for their prior service with the village. The city also refused to grant the plaintiffs any credit relative to pension rights for prior service with the village. The plaintiffs then brought this action in the circuit court for the county of Macomb to obtain a judgment declaring that they were entitled to all the rights which the city charter purported to give them. Upon an agreed statement of facts, the trial judge found for the plaintiffs and ruled that they were entitled to seniority rights granted by section 7.18(c) and pension rights provided in section 16.2 of the charter of the city of Warren. The defendant city and its civil service and pension commissions bring this appeal, contending that these charter provisions are in conflict with the acts of the legislature and are therefore void.
+Does charter section 7.18(c) conflict with the fire and police civil service law, CL 1948 and CLS 1956, § 38.501 et seq. (see Stat Ann 1958 Rev § 5.3351 et seq.) % The answer to this question is contained in this statement of legislative policy:
+“See. 6. For the benefit of the public service and to prevent delay, injury, or interruption therein by reason of the enactment of this act, all persons holding a position in the fire and/or poliee department, including the chief thereof, when this act takes effect, who shall have served in such position for a period of at least six months last past continuously, are hereby declared eligible for permanent appointment under civil service to the offices, places, positions or employments which they shall then hold, respectively, without examination or other act on their part, and not on probation; and every such person is hereby automatically adopted and inducted permanently into civil service, into such office, place, position or employment which such person then holds.” CLS 1961, § 38.506 (Stat Ann 1958 Bev § 5.3356).
+The adoption of the charter created a new municipality and made applicable to it this civil service act. To allow permanent positions to those who had been firemen within the territory covered by the new city for a period of six months prior to the adoption of the new charter would implement this policy of continuity of service and protection. This Court finds no conflict between charter section 7.18(c) as applied to those village firemen who served for six months immediately prior to the effective date of the charter and the civil service system. Accordingly, all of the plaintiffs who meet this six-month service requirement were entitled to be employed in the city fire department without civil service examination.
+Is charter section 16.2 in violation of the fire and police retirement act? Defendants contend that the following statutory language:
+“Sec. 4. All service performed by members prior to the enactment of this act by any city, village or township, including service performed for predecessor townships, shall be computed to the credit of each member so affeeted.” OLS 1961, § 38.554 (Stat Ann 1963 Cum Supp § 5.3375 [4]).
+prohibits retirement credit for service to the village. Defendants contend that since the legislature specifically allowed credit for service to predecessor townships, it must have been the legislative intent to exclude credit for service to predecessor villages. The fact of the matter is that this statutory provision was not in effect when the Warren city charter was adopted and the plaintiffs’ rights accrued. Until amended, after the effective date of the Warren city charter, by PA 1957, No 52, the pertinent statutory section read as follows:
+“See. 4. All service performed by members prior to the enactment of this act by any city or village shall be computed to the credit of eaeh member so affected.” CL 1948, § 38.554 (Stat Ann § 5.3375 Mb
+This Court finds no conflict between the statutory section as it was in effect January 1,1957, and charter section 16.2.
+Since the record below does not show whether the plaintiffs served in the village fire department continuously for the six-month period prior to the effective date of the city charter, this case is remanded for such finding with the power to take additional testimony if necessary. In other respects, the judgment of the trial court is affirmed. No costs are awarded because of the public nature of the questions involved.
+Quinn, P. J., and Watts, J., concurred.
+
+## Rehearing (Per Curiam.)
+
+On Application for Rehearing.
+Per Curiam.
+Simultaneously with filing an application for rehearing, the defendant has conceded that each of the plaintiffs involved herein had served the 6-month period prior to the effective date of the charter. Such concession makes it unnecessary to remand the ease for the further proceeding previously indicated. Judgment is, therefore, affirmed. Rehearing is denied.
+Quinn, P. J., and McGregor and Watts, JJ., concurred.
