@@ -1,0 +1,50 @@
+---
+court: "Michigan Court of Appeals"
+docket: "5,420"
+decided: "1969-12-09"
+citations: ["20 Mich. App. 658"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J., and Fitzgerald and McGregor, JJ.", "All concurred."]
+parties: ["PEOPLE v. DiPONIO"]
+source_url: "https://static.case.law/mich-app/20/cases/0658-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2077632
+cites_cases: ["264 Mich 409", "303 Mich 287", "379 Mich 69"]
+---
+
+# People v. DiPonio
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+On August 19, 1966, pursuant to a petition filed by the attorney general, the Wayne county circuit judges issued an order creating a grand jury,, and a grand juror was appointed.
+The part of the amended order pertinent to this appeal is as follows:
+“It is therefore ordered that this court convene on September 1,1966, in accordance with the statute in such case made and provided and continue in session from time to time thereafter as directed by the court, for the purpose of requiring the attendance of witnesses and the taking of testimony of all persons having knowledge of the commission of said offenses, and conducting an investigation to determine whether the crime of violating the provisions of Act 27, Public Acts of 1959; the crime of violating the provisions of Act 116, Public Acts of 1954 as amended, by certain persons either as candidates or treasurers of political committees in behalf of candidates seeking county or municipal offices within the said county of Wayne; the crime of perjury; the crime of attempted bribery; the crime of bribery of public officers and employees; the crime of accepting of bribery by public officers and employees; the crime of offering a reward to public officers and employees to omit to perform acts for a consideration, reward or inducement; the crime of conspiracy to bribe public officers or employees and to solicit bribes; the crime of conspiracy to obstruct justice by private persons of public officers and employees; the crimes of embezzlement, larceny by conversion, receiving stolen property, wilful neglect of duty, malfeasance, misfeasance and nonfeasance of public officials and public employees; violations of law relating to public contracts including, but not limited to, price fixing; the violation of laws relating to the prescribing, administering and use of drugs, medicines and narcotics for human use; and the crime of extortion or other related offenses against the laws of this State, have been committed within the jurisdiction of this court, and, if so, the names of the perpetrators thereof;” (Emphasis added.)
+On July 19, 1967, defendant testified under subpoena before the grand juror concerning alleged violations of chapter 34 (Public Act 116) of the Michigan Election Law of 1954, pertaining to campaign expenses and contributions. MOLA § 168.1 et seq. (Stat Ann 1956 Rev § 6.1001 et seq.).
+On July 31, 1967, an indictment and warrant were issued against defendant, charging him in six counts with violations of the election law; he was arraigned on the warrant that same day and stood mute.
+On September 27, 1967, having waived preliminary examination, defendant was arraigned on the information and again stood mute.
+On March 1, 1968, defendant filed a motion to quash the information and warrant on the grounds that: (1) the order of indictment and warrant against him was null and void, because the charges contained therein were beyond the scope and purview of the order establishing the grand jury and thus, the grand juror lacked jurisdiction to return such charges, and (2) the order violated his rights under the immunity provision of § 910 of the Michigan Election Law of 1954. MCLA § 168.910 (Stat Ann 1956 Rev § 6.1910). Oral argument was heard on the motion before the recorder’s court for the city of Detroit.
+On March 27, 1968, the motion was denied. On August 6, 1968, leave to appeal was granted. Defendant on appeal raises the same issues as were presented in his motion to quash the information and warrant.
+Appellant advances several arguments assailing the indictment returned by the grand juror. It is asserted that an examination of the charges contained in the indictment reveals that the jurisdictional scope which created the grand juror had been exceeded. This Court notes that this subject has long been inundated in a miasma of doubt and uncertainty.
+Any jurisdiction granted to a grand juror has for its source MOLA § 767.3 (Stat Ann 1969 Cum Supp § 28.943). This statute deals with the procedural- and jurisdictional aspects establishing a grand jury. In essence, it says that upon proper application and. an averment that probable cause exists to suspect, that certain crimes have been committed, a grand jury may be authorized. An order to investigate these crimes may be issued, but such order must be specific.
+-' “Whenever by reason of the filing of any complaint, which may be upon information and belief, or upon the application of the prosecuting attorney or attorney general, any judge of a court of law and of record shall have probable cause to suspect that ■any crime, offense or misdemeanor has been committed within his jurisdiction, and that any persons may be able to give any material evidence respecting such suspected crime, offense or misdemeanor, such judge in his discretion may make an order directing that an inquiry be made into the matters relating to such complaint, which order, or any .amendment thereof, shall be specific to common intent of the scope of the inquiry to be conducted, and thereupon conduct such inquiry.” (Emphasis ,added.)
+The Court notes the importance of the above-cited statute, since it signifies that crimes may be investigated only when there is probable cause to ■.suspect they have been committed.
+The order authorizing the grand juror is for investigation of persons as candidates or treasurers • of political committees. In the indictment in the instant case, there is no mention that'the defendant holds one of these positions. In addition, the order :was to authorize investigation into municipal and .county offices in Wayne county. There again, the indictment does not charge that the political office in . question was of either county or city nature and, in fact, it appeared to be a Federal office. In tracing ■ the procedural aspects of the order creating the grand jury, probable cause may have existed to investigate candidates or treasurers of political committees involved in county or city offices, but the fact that there may have been probable cause to investigate the above cannot be equated with cause to inquire into political contributions to candidates to a Federal office.
+This Court notes that it is not without significance that in the preamble to the order creating the grand jury, the attorney general had asked for an investigation into the following:
+* * the crime of violating the provisions of Act 116, Public Acts of 1954, as amended. * * * ”
+In both the original and amendatory orders entered by the circuit court, the grand juror was given authority to investigate the following:
+“[t]he crime of violating the provisions of Act 116, Public Acts of 1954, as amended, by certain persons either as candidates or treasurers of political committees on behalf of candidates seeking county or municipal offices within the said county of Wayne; * * * .”
+The fact is that the order authorizing the grand juror was not nearly as broad as the scope sought by the attorney general. Appellant correctly points out that while the grand juror was given much broader authority in other areas (see order) his authority to investigate election law violations was much more circumscribed.
+It is urged by appellee that the present grand jury statute should be given a liberal construction, relying upon People v. Wolfson (1933), 264 Mich 409, and People v. Wilcox (1942), 303 Mich 287, as authority. Guided by this principle of liberal construction, appellee asserts that defendant’s alleged crimes could be considered to be included within the scope of the grand juror. This Court is aware of a crucial difference between this prior statute, CL 1929, §§ 17217-17220, and the present one which contains the words, “shall be specific to the common intent of the scope of the inquiry.” Although the Michigan Supreme Court has not given an authoritative interpretation to any changes which might have resulted from the inclusion of this phrase, the intention of the Court is clear. , In In Re Colacasides (1967), 379 Mich 69, it said, in regard to the grand jury statute:
+“No longer does the statute permit a grand juror to search out conduct generally but, instead, it requires the order authorizing the inquiry, and the complaint upon which the order is based to ‘be specific to the common intent of the scope of the inquiry.’ ”
+In light of this recent decision, it would be a clear abuse of judicial interpretation to say that the crimes charged to this defendant were encompassed within the scope of the inquiry.
+For the reasons herein given, we grant the motion to quash the indictment.
+All concurred.
+“Count I. Conspiracy to make a corporate contribution to Club 65, contrary to CL 1948, § 750.505 as amended, and § 168.919, as amended.
+“Count II. Individually making on behalf of a corporation a cor- - porate contribution to Club 65, contrary to CL 1948, § 168.919, as amended.
+“Count III. Conspiracy to make a corporate contribution to the. Cavanagh for Senator Committee, contrary to CL 1948, § 750.505, as amended, and § 168.919, as amended.
+“Count IV. Individually making, on behalf of a corporation, a, corporate contribution, contrary to CL 1948, § 168.919, as amended. -
+“Count V. Conspiracy to make anonymous contribution, contrary • to CL 1948, § 750.505 as amended, and § 168.917, as amended.
+“Coimt VI. Making an anonymous contribution and crediting the same in the name of the person other than the one who in truth ‘ supplied the contribution, contrary to CL 1948, § 168.917, as amended.”
