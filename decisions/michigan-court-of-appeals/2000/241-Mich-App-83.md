@@ -1,0 +1,55 @@
+---
+court: "Michigan Court of Appeals"
+docket: "212177"
+decided: "2000-05-09"
+citations: ["241 Mich. App. 83"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Kelly, P.J., and Holbrook, Jr., and Griffin, JJ.", "Holbrook, Jr., J., concurred."]
+parties: ["UNITED STATES FIDELITY & GUARANTY COMPANY v CITIZENS INSURANCE COMPANY"]
+source_url: "https://static.case.law/mich-app/241/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 254947
+cites_cases: ["106 Mich App 731", "118 Mich App 594", "308 NW2d 625", "325 NW2d 505", "456 Mich 519", "460 Mich 348", "581 NW2d 219", "596 NW2d 190", "66 ALR5th 269"]
+---
+
+# United States Fidelity & Guaranty Co. v. Citizens Insurance
+
+## Majority (Griffin, J.)
+
+Griffin, J.
+This is a priority dispute between two no-fault automobile insurance carriers regarding personal protection insurance benefits (pip) owed to Dennis Flynn. On May 19, 1995, plaintiff provided a policy of no-fault automobile insurance to Paragon Non-Profit Corporation. Paragon operated a state-licensed adult foster care facility in which Dennis Flynn, a mentally retarded adult who suffers from Down’s syndrome, was a full-time resident. On May 19, 1995, Dennis Flynn, walked out across Bristol Road and was struck by a car insured by defendant Citizens Insurance Company (Citizens). Mr. Flynn owned no motor vehicles and did not reside in any household other than the Paragon licensed adult foster care facility.
+Plaintiff, United States Fidelity & Casualty Company (usf&g), initially paid pip benefits for Mr. Flynn in the sum of $24,078 but later denied liability. Defendant Citizens then paid $79,579 in pip benefits on behalf of Mr. Flynn. Plaintiff filed suit for its benefits paid; defendant filed a countercomplaint for the amount of pip benefits it had paid on behalf of Mr. Flynn. The lower court ruled Mr. Flynn was a “ward” of the Paragon adult foster care facility at the time of the automobile accident, and therefore plaintiff usf&g had priority for pip benefits. A judgment awarding defendant $79,907.74 together with costs and interest was thereafter entered. Plaintiff appeals as of right, and we affirm.
+i
+In filing cross-motions for summary disposition, the parties agreed that there are no genuine issues of material fact and either plaintiff or defendant is entitled to judgment as a matter of law. In granting summary disposition, the lower court ruled as a matter of law. On appeal, we review questions of law de novo. Henderson v State Farm Fire & Casualty Co, 460 Mich 348, 353; 596 NW2d 190 (1999); People v Sierb, 456 Mich 519, 522; 581 NW2d 219 (1998).
+Under Michigan’s no-fault automobile insurance scheme, the insurance carrier that insures “the person named in the policy, the person’s spouse, and a relative of either domiciled in the same household,” is the carrier first in priority for the payment of PIP benefits arising out of a motor vehicle accident. MCL 500.3114(1); MSA 24.13114(1). The insurers of the owners or registrants of the motor vehicles involved in the accident are in a lower level of priority. See MCL 500.3115(1); MSA 24.13115(1).
+The issue whether Dennis Flynn was a resident relative of plaintiff’s insured, Paragon, at the time of the pedestrian/automobile collision would be difficult and its resolution might be different were it not for the terms of plaintiff’s policy. The usf&g automobile policy, “Michigan Personal Injury Protection” endorsement (CA 22 20 03 94), contains a broad definition:
+A. COVERAGE
+We will pay personal injury protection benefits to or for an “insured” who sustains “bodily injury” caused by an “accident” and resulting from the ownership, maintenance, or use of an “auto” as an “auto.” These benefits are subject to the provisions of Chapter 31 of the Michigan Insurance Code.
+Plaintiff defines an “insured” as including family members:
+B. WHO IS AN INSURED
+1. You or any “family member.”
+Finally, plaintiff’s additional definitions (section F) provide that the term “family member” includes “a ward” of the named insured:
+“Family member” means a person related to you by blood, marriage or adoption who is a resident of your household, including a ward or foster child. [Emphasis added.]
+Because plaintiff’s policy defines “family member” as including “a ward” who is a resident of the household of the named insured, the dispositive issue is whether Mr. Flynn was a “ward” of plaintiff’s insured, Paragon.
+In Hartman v Ins Co of North America, 106 Mich App 731; 308 NW2d 625 (1981), our Court construed language of a substantially similar no-fault policy under facts that are virtually indistinguishable from the present case. In Hartman, a mentally incompetent adult, who was residing in a group living facility, was injured in a bicycle/automobile collision. The no-fault policy for the group home provided pip insurance for the named insured or any “relative.” Relative was defined by the policy as “a person related to the Named Insured by blood, marriage, or adoption (including a ward or foster child) who is a resident of the same household as the Named Insured.” Id. at 738.
+In Hartman, the insurance carrier for the group home argued it was not liable for the pip benefits incurred on behalf of the mentally incompetent adult because he was not a “ward” of its named insured. This Court disagreed and held that under the undisputed facts the mentally incompetent adult was a ward of the adult living facility and therefore by definition a resident relative:
+It is obvious that the term “ward” as used in ina’s policy should not be restricted in its definition to include only a person on behalf of whom a legal guardian has been appointed by a court of competent jurisdiction. Rather, a common and ordinary dictionary definition of “ward”, offered by Webster’s Third New International Dictionary (1965), p 2575, is “a person . . . under the protection or tutelage of a person.” It is therefore necessary to examine the factual context of the case at bar to determine whether William Prince was a “ward” of the Baumgartens as that word is used in common parlance.
+We hold that under all of the facts and circumstances of this case Prince was a “ward” of the Baumgartens according to the common and ordinary meaning of that term. In accord with this conclusion is the fact that although ina’s agent had actual knowledge at the time he sold the insurance policy to the Baumgartens that they were engaged in the business of caring for handicapped people, and although this knowledge is imputable to ina via the existing agency relationship, ina never undertook to clarify the terminology of its policy — including the term “ward” — notwithstanding its potential risk exposure due to the nature of the Baumgartens’ business. Any ambiguity in the policy must therefore be strictly construed against ina. [Hartman, supra at 739-740.]
+In the present case, plaintiff recognizes the authority of Hartman and acknowledges that it is factually indistinguishable in all but one respect. Plaintiff argues that because the adult home in Hartman was operated by individuals, while the adult home in the present case was operated by a coiporation, the result should be different. We disagree.
+Plaintiffs argument in this regard was rejected by the lower court. The Honorable Archie L. Hayman reasoned as follows:
+[A] corporation can sue in its own name. It’s considered as a person for purposes of suits, for purposes of owning property, et cetera, and I don’t see any reason why they can’t have wards. In fact, I think that that’s exactly what this situation is.
+This is an individual who was under the care of this adult foster care facility, which is a corporation. This corporation handles their funds. It decides where they’re going to eat, where they’re going to sleep, how they’re going to live, when they’re going to get to go home — go outside, when they’re not going to get to go outside. They basically control this person’s life. And I don’t know, if that’s not being a ward, I don’t know what is being a ward.
+And I don’t find that because it’s a corporation, that that says that they can’t have a ward. And I don’t know any case law that says that, either; and it’s not so obvious to me that there wouldn’t be some case law needed to be put on this.
+We agree with Judge Hayman’s ruling. In addition, we find the primary authority relied on by plaintiff, Allstate Ins Co v Citizens Ins Co of America, 118 Mich App 594; 325 NW2d 505 (1982), to be readily distinguishable. In Allstate, the minor son of a corporation president was injured while a passenger in a vehicle owned by the corporation. Unlike the policy at issue, the no-fault policy in Allstate issued to the corporation did not contain an expansive definition of the terms “insured” and “family member.” Accordingly, our Court construed the policy consistent with the no-fault automobile insurance act. In doing so, we refused to pierce the corporate veil and denied the claim to rewrite the policy to include as insureds all resident relatives of the corporate officeholders of the insured company.
+Allstate is distinguishable on its facts from the present case. Most importantly, the no-fault policy in Allstate simply did not contain the broad definition of “family member” at issue in the instant appeal.
+Finally, we do not find persuasive the out-of-state authority cited by plaintiff. On the contrary, we find the ruling below to be consistent with the plain and unambiguous language of plaintiff’s automobile insurance policy and in accord with the law of the state of Michigan.
+Affirmed.
+Holbrook, Jr., J., concurred.
+
+## Dissent (Kelly, P.J.)
+
+Kelly, P.J.
+(dissenting). I respectfully dissent and would reverse.
+Although this is a case of first impression in Michigan, several courts have ruled that an individual cannot recover as a “family member,” including “a ward” under a policy of insurance issued to a corporation. See anno: Who is “member” or “resident” of same “family” or “household” within no-fault or uninsured motorist provisions of motor vehicle insurance policy, 66 ALR5th 269, 369-371. I would follow that line of authority and hold that the case of Hartman v Ins Co of North America, 106 Mich App 731; 308 NW2d 625 (1981) does not control. The Hartman case is distinguishable in that the insureds there were individuals who ran a group living facility. Here the insured is a nonprofit corporation. A corporation cannot have a family member, and I think it is a strained interpretation to conclude that it can have a ward. The injured person here, Mr. Flynn, was under the care of the licensee of the foster care facility, one Denise Butts, and although the contract for care was between the state and Paragon, any “family relations” was between the caregiver, Denise Butts, and Mr. Flynn. Although the corporation provides services, I do not believe that can be interpreted as creating “a family relationship.” I would reverse.
