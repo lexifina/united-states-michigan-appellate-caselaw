@@ -1,0 +1,50 @@
+---
+court: "Michigan Court of Appeals"
+docket: "74503"
+decided: "1984-12-17"
+citations: ["139 Mich. App. 639"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and Beasley and J. R. Kirwan, JJ."]
+parties: ["PETOVELLO v MURRAY"]
+source_url: "https://static.case.law/mich-app/139/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2271343
+cites_cases: ["104 Mich App 188", "109 Mich App 652", "132 NW2d 66", "185 NW 689", "214 NW 179", "217 Mich 180", "220 NW2d 664", "238 Mich 617", "304 NW2d 525", "311 NW2d 442", "374 Mich 340", "392 Mich 195"]
+---
+
+# Petovello v. Murray
+
+## Majority (J. R. Kirwan, J.)
+
+J. R. Kirwan, J.
+Defendant appeals as of right from the granting of plaintiff’s motion for summary judgment, GCR 1963, 117.2(3), and the denial of defendant’s motion for summary judgment. Plaintiff has filed a cross-appeal claiming that the court failed to grant the relief to which plaintiff was entitled.
+Plaintiff and defendant entered into a commission contract in which plaintiff agreed to provide a lessee for defendant’s property and defendant agreed to pay $150 per month commission to the plaintiff for the original term of the lease. Plaintiff found a lessee for the property and was paid $150 per month for a period of five years. At that time, the lessee exercised its option under the lease to purchase the property. Defendant thereupon ceased making further commission payments, claiming there existed no obligation to pay after the lease had terminated. Plaintiff then commenced this litigation, alleging that defendant was legally obligated to pay $150 per month for 21 years, which he claimed was the original term of the lease.
+The trial court, in granting plaintiffs motion for summary judgment and denying defendant’s motion, ruled that the intent of the parties was sufficiently clear from the written instrument evidencing the agreement and that plaintiff was entitled to collect the $150 monthly commission for 21 years. The trial court further ruled that, in the absence of an acceleration provision in the commission contract, plaintiff was not entitled to an acceleration of the payments. Two issues are presented to this Court for resolution.
+I
+Does there exist ambiguity within the framework of the written instrument that would require testimony to establish the intent of the parties?
+The commission agreement in question provides as follows:
+November 7, 1973
+AGREEMENT
+Re: McDonald’s 21 year
+Ground Lease
+Ecorse Rd. & Center St.
+Ypsilanti, Michigan
+We, the undersigned, agree to pay Joseph Petovello and Associates a commission of One Hundred Fifty and 00/100 ($150.00) per month for the original term of the above subject Ground Lease. Said monthly commission becomes due and payable when rent is first paid to lessor by Golden Arch Realty Corporation under the terms and conditions of said lease.
+Signed:
+Herbert F. Murray
+Ruth Murray
+It is a fundamental principle of law that, if the language of a written contract is subject to two or more reasonable interpretations or is inconsistent on its face, the contract is ambiguous, and a factual development is necessary to determine the intent of the parties. Goodwin, Inc v Orson E Coe Pontiac, Inc, 392 Mich 195; 220 NW2d 664 (1974). It is also fundamental law that the language of a contract is to be construed against the drafter of the contract, United Coin Meter Co v Gibson, 109 Mich App 652, 657; 311 NW2d 442 (1981), which in this case was the plaintiff. Guided by these principles of law, it is this Court’s view that, in construing the language of the documents in question, ambiguity exists for the following reasons.
+First, while there is no question that plaintiff is correct in his argument that a real estate broker earns his commission when he produces a ready, able and willing buyer or lessee, Weitting v McFeeters, 104 Mich App 188; 304 NW2d 525 (1981); Brittson & Smith v Kroll, 217 Mich 180; 185 NW 689 (1921), this rule of law does not resolve the underlying issue of this appeal which relates to the length of time the plaintiff is entitled to collect his commission. While the plaintiff argues that the contract entitled him to collect a monthly commission for 21 years, defendant claims that the obligation to pay the commission ended in five years when the lease terminated upon the purchase of the property.
+The commission agreement provides that the commission was owing for the original term of the lease. It is, therefore, necessary to examine the lease to determine if the meaning of the words "original term” is clearly revealed. For if from a review of the lease the intent of the parties cannot be determined, an ambiguity exists and the parties must be left to their proofs to establish their intent.
+In reviewing the lease it is first noted that the paragraph entitled "Term” is crossed out. Under the paragraph entitled "Construction Improvements” is the following language:
+"Lessee at its own * * * to have and to hold the same for and during the term commencing the date upon which Lessee has obtained all necessary permits, licenses and approvals for the construction of its improvements and Lessor has satisfactorily provided evidence of title to the demised premises as herein provided, and expiring twenty-one (21) years thereafter. A Supplement to this Lease is hereto attached and made a part hereof containing blanks for the commencement and expiration dates of said term. The parties hereto agree that when said dates become certain, as provided herein, they will complete and execute said Supplement to reñect said dates. ” (Emphasis supplied.)
+It appears from this language that the parties at the time the lease was signed had not agreed on a commencement or expiration date. Further, there is no appendage to the lease entitled "Supplement”, nor is there any addendum that provides a date for commencement and termination of the lease. While there is appended to the lease a document designated "Amendment” in which a date for commencement is provided, there is nothing in that document that sets forth a date for termination of the lease. As these are the only references to the term of the lease, and as there is no reference to the words "original term” within the lease or its appendages, we view the commission agreement as ambiguous because it is unclear from the written documents what the parties intended when they used the words "original term”.
+Second, the plaintiff claims that the obligation to pay the commission existed for the specific time period of 21 years. Yet, in drafting the language imposing this obligation, he did not use the specific words "21 years”. Rather, he used words that were indefinite in meaning and that referred to another document for their meaning. By deliberately avoiding the alternative of simply stating that the obligation was due for 21 years, arguably the parties intended that the obligation was for a length of time other than 21 years, especially when construed against the plaintiff, the drawer of the instrument.
+Third, within the lease there existed in favor of the lessee an option to purchase the property. There is no question that the commission agreement is silent and, therefore, unclear as to the effect a sale would have upon the brokerage commission. Moreover, it is uncontroverted that the drawer of the contract, the plaintiff, did not provide in the agreement a provision that would determine what effect a sale of the property would have upon the brokerage commission, although he certainly could and should have. Hanley v Porter, 238 Mich 617, 622; 214 NW 179 (1927). In addition, while the first sentence of the agreement supports plaintiff’s contention that the commission was owed for 21 years, the second sentence of the contract, when construed against the plaintiff, the drafter of the instrument, supports defendant’s position that the payment of rent each month was a condition precedent to the entitlement to the monthly commission. This latter sentence can be interpreted to mean that the monthly commission becomes due when and if the monthly rent is first paid; and, as the lessee no longer paid rent after the lessee exercised its option to buy, a possibility that both parties must have contemplated because the option was contained in the lease, the $150 monthy commission was no longer due. Therefore, ambiguity exists and, if there is evidence outside the written agreement indicating that the parties intended or did not intend that the sale of the property terminated the obligation to pay the brokerage commission, such evidence should not be precluded from consideration by the trier of the facts. New Amsterdam Casualty Co v Sokolowski, 374 Mich 340; 132 NW2d 66 (1965).
+For all these reasons, we believe the written commission agreement is subject to more than one reasonable interpretation and is, therefore, ambiguous on its face. As a factual question remains as to the intent of the parties concerning the commission contract, summary judgment should not have been granted to either party.
+II
+As this matter is to be remanded to the trial court for trial and as plaintiff may prevail at the time of trial, it is necessary to address the issue presented in plaintiffs cross-appeal as to whether plaintiff would be entitled to a present recovery for an anticipatory breach of the unilateral obligation to pay money in the future.
+The claims on an installment contract do not ordinarily accrue until the installment becomes due in the absence of an acceleration clause in the contract. MCL 600.5836; MSA 27A.5836. In this instance there existed no acceleration clause in the agreement. Further, as the contract should be construed against the plaintiff, the drafter of this instrument, United Coin Meter Co v Gibson, supra, an acceleration clause should not be read into the agreement. The court did not err in this regard.
+Reversed in part and remanded to the trial court for proceedings consistent with this opinion.
