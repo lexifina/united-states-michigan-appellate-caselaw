@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-66"
+decided: "1978-10-20"
+citations: ["87 Mich. App. 109"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: N. J. Kaufman, P.J., and R. M. Maher and-D. C. Riley, JJ."]
+parties: ["PEOPLE v ROBERTSON"]
+source_url: "https://static.case.law/mich-app/87/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2182289
+cites_cases: ["103 NW2d 481", "194 NW2d 462", "209 NW2d 527", "220 NW2d 393", "232 NW2d 340", "242 NW2d 739", "245 NW2d 343", "255 NW2d 648", "268 NW2d 259", "27 ALR3d 1431", "359 Mich 539", "37 Mich App 100", "392 Mich 370", "396 Mich 551", "47 Mich App 307", "61 Mich App 153", "69 Mich App 720", "75 Mich App 467", "83 Mich App 1"]
+---
+
+# People v. Robertson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals his jury conviction of two counts of second-degree murder, MCL 750.317; MSA 28.549, claiming three errors that deprived him of a fair trial.
+First he contends that the court erred in denying his motion for mistrial. We do not agree. The grant or denial of a mistrial motion rests in the sound discretion of the trial judge and relief is merited only after a finding of abuse of that discretion. People v Mitchell, 61 Mich App 153, 165; 232 NW2d 340 (1975), People v Talaga, 37 Mich App 100, 102-103; 194 NW2d 462 (1971). To find reversible error, the trial court’s denial of defendant’s mistrial motion must have been so gross as to have deprived him of a fair trial and to have resulted in a miscarriage of justice. People v Ritholz, 359 Mich 539, 559; 103 NW2d 481 (1960), MCL 769.26; MSA 28.1096.
+Here, in the course of recross-examination of the prosecution’s key witness, defense counsel learned that he had once represented. the witness in an unrelated matter. He promptly moved for a mistrial but set forth no reasons why his client had been prejudiced. After taking the motion under advisement and failing to receive any supporting brief from defense counsel, the court denied the motion. On this record we cannot say that the court abused its discretion, that the defendant was deprived of a fair trial resulting in a miscarriage of justice or, as defendant also charges, that he was deprived of effective assistance of counsel. Defendant claims that because of the revelation of counsel’s prior brief representation of the prosecution’s witness he was not able to perform at least as well as a lawyer of ordinary training and skill in criminal law in that he was unable to thoroughly cross-examine the witness. He argues that defense counsel was not able to represent him undeflected by conflicting considerations. The record indicates otherwise.
+Defense counsel cross-examined the witness extensively before the inadvertent disclosure. Further, there is no showing of any conflict that affected the scope or depth of cross-examination or quality of representation.
+Defendant next argues that the evidence adduced at trial was legally insufficient to convict him of second-degree murder.
+The standard of review where the sufficiency of the evidence is questioned is whether the evidence presented by the prosecutor justifies a reasonable person in concluding that all elements of the crime were established beyond a reasonable doubt. People v Johnson, 83 Mich App 1; 268 NW2d 259 (1978), People v Palmer, 392 Mich 370; 220 NW2d 393 (1974). The standard argued by the defendant, that the prosecution must specifically disprove every reasonable theory consistent with innocence, has been challenged by this Court. In People v Edgar, 75 Mich App 467, 472; 255 NW2d 648 (1977), the Court pointed out the weakness in that stáñdard:
+"[T]he [Davenport] rule is defective to the extent that it treats circumstantial evidence differently than direct evidence and to the extent that it requires the prosecution to speciñcally disprove all innocent theories.” People v Edgar, supra, at 473-474. Cited with approval in People v Johnson, supra, at 18.
+The direct testimony of Arnold Coleman, if believed, established the aggregate elements necessary to find defendant guilty of second-degree murder.
+Finally, defendant assigns as error the trial court’s determination that he could not call a codefendant as a witness, and alternatively, that codefendant’s testimony at an earlier guilty plea proceeding should have been admitted into evidence.
+During trial, defense counsel sought to call Edward Minor, who pled guilty in a separate proceeding to the charge of second-degree murder arising out of the same incident for which defendant elected to stand trial. At the plea taking proceeding, codefendant Minor admitted the two killings for which defendant was charged. The court, on learning that Minor was appealing his plea and that he would assert his Fifth Amendment privilege, refused to permit him to be called as a defense witness.
+Defense counsel urges that in denying him his right to production of a witness on his behalf, the court denied him a full and fair trial. Further, defendant asserts that Michigan should adopt a rule which causes the privilege against self-incrimination to end once a guilty plea is entered. However, it is clear that the privilege against self-incrimination still applies where an appeal is pending after conviction on a charge to which the incriminating testimony would relate. People v Lindsay, 69 Mich App 720; 245 NW2d 343 (1976). The assertion that Michigan should carve out an exception to the self-incrimination privilege is not properly addressed to this Court. People v Ernest Edwards, 47 Mich App 307; 209 NW2d 527 (1973), rev’d on other grounds, 396 Mich 551; 242 NW2d 739 (1976).
+Alternatively, defendant contends that the lower court should have allowed the introduction of Minor’s statement into evidence. The record reveals an attempt by counsel to introduce Minor’s exculpatory declarations through the testimony of a police officer present at the Minor plea. Since we find no basis for the admissibility of Minor’s hearsay assertions, the trial judge’s refusal to allow the statements into evidence was not error. We note that these exonerating avouchments occurred after Minor pled guilty and after he was apprised of the court’s intended sentence. They could not, therefore, be construed as a declaration against penal interest, People v Ernest Edwards, 396 Mich 551; 242 NW2d 739 (1976). Nor do they qualify as prior reported testimony. At the time of the plea, Minor was not under oath and the prosecutor had no opportunity to advance defendant’s involvement through cross-examination. Inasmuch as the statements do not then fall within the hearsay exceptions, defendant’s charge that an unfair trial resulted for failure to introduce Minor’s testimony is without merit.
+Affirmed.
