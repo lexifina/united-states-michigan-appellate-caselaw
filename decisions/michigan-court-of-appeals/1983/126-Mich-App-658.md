@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "60255"
 decided: "1983-06-22"
-citations: ["126 Mich. App. 658", "128 Mich. App. 613"]
+citations: ["126 Mich. App. 658"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v MAST"]
 source_url: "https://static.case.law/mich-app/126/cases/0658-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2224443
-cites_cases: ["106 Mich 479", "12 NE2d 514", "126 Mich App 658", "156 NW2d 566", "159 Mich 528", "17 Mich App 696", "170 NW2d 303", "183 NW2d 857", "204 US 470", "205 NW2d 415", "223 NW 70", "236 NW2d 461", "245 Mich 455", "252 App Div 463", "259 NW2d 448", "262 NW2d 2", "265 NW 489", "27 Mich App 672", "274 Mich 647", "276 NY 384", "299 Mich 1", "299 Mich 2", "299 NW 784", "300 NYS 249", "380 Mich 131", "383 Mich 769", "389 Mich 222", "395 Mich 379", "402 Mich 135", "48 NW 293", "56 NW 27", "64 NW 736", "78 Mich App 257", "85 Mich 114", "96 Mich 576"]
+cites_cases: ["106 Mich 479", "12 NE2d 514", "156 NW2d 566", "159 Mich 528", "17 Mich App 696", "170 NW2d 303", "183 NW2d 857", "204 US 470", "205 NW2d 415", "223 NW 70", "236 NW2d 461", "245 Mich 455", "252 App Div 463", "259 NW2d 448", "262 NW2d 2", "265 NW 489", "27 Mich App 672", "274 Mich 647", "276 NY 384", "299 Mich 1", "299 Mich 2", "299 NW 784", "300 NYS 249", "380 Mich 131", "383 Mich 769", "389 Mich 222", "395 Mich 379", "402 Mich 135", "48 NW 293", "56 NW 27", "64 NW 736", "78 Mich App 257", "85 Mich 114", "96 Mich 576"]
 ---
 
 # People v. Mast
