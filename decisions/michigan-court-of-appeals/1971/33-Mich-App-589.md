@@ -1,0 +1,56 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 9909, 9910"
+decided: "1971-05-20"
+citations: ["33 Mich. App. 589"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gtllis, P. J., and Fitzgerald and T. M. Burns, JJ.", "All concurred."]
+parties: ["PARSHALL v. TREASURER OF THE CITY OF DETROIT"]
+source_url: "https://static.case.law/mich-app/33/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2092502
+cites_cases: ["320 Mich 577", "369 Mich 508", "386 Mich 752", "5 Mich App 246"]
+---
+
+# Parshall v. Treasurer of City of Detroit
+
+## Majority (T. M. Burns, J.)
+
+T. M. Burns, J.
+Plaintiffs were the owners of real property, popularly known as the Kern Block, in downtown Detroit. Until December, 1959, the property was leased by the Ernst Kern Company. The lease agreement provided that the company would pay the real property taxes; and until 1959, such taxes were assessed to the company, not the landowners.
+Some of the taxes for the years 1958 and 1959 were not paid by the company and all of the land became subject to liens for the unpaid taxes. In 1960, after the Kern Company failed, the property owners of the various parcels herein involved asked the city assessors to divide the property for assessment purposes to reflect the individual ownership of the various parcels. The assessors refused, apparently because they felt that such action would interfere Avith the city’s liens.
+In 1961 the State Tax Commission held hearings and ordered the land divided into five parcels with the assessed value prorated. This action was unanimously affirmed in City of Detroit v. State Tax Commission (1963), 369 Mich 508.
+On January 30, 1962, the OAvners of parcel 5 instituted a mandamus action in the Wayne County Circuit Court against the city and county treasurers and the Detroit Board of Assessors to compel the assessment of their parcel separately. By order entered February 26, 1962, the owners of parcels 6 to 9, inclusive, plaintiffs herein, were allowed to intervene as parties plaintiff. Judgment was entered November 27, 1962, in favor of the original and intervening plaintiffs.
+On May 18, 1965, the owners of parcel 5 filed a petition for order to show cause in the mandamus action charging the Detroit City Treasurer and the Detroit Board of Assessors with failure to comply with the judgment entered November 27, 1962. The complaint alleged that although the division had been made by the board of assessors and that the taxes had been paid on parcel 5 for the years 1959 through 1964, the city treasurer, with his receipt for each payment, had issued a tax memorandum claiming that parcel 5 was still encumbered by liens for the taxes assessed against parcels 6 through 10 which were still unpaid.
+After a hearing on the petition, an amended judgment for issuance of a writ of mandamus was entered on June 3, 1965, which provided in part:
+“It is the intent of this judgment to free the north 36.04 feet of Parcel Number 4109 of any tax liens to date hereof claimed by the City of Detroit because of any unpaid taxes assessed against the remaining portion or portions of such parcel, and it is hereby ordered that the City of Detroit has not a right to such liens and if such liens exist they are hereby discharged and the records of the City of Detroit shall so indicate such discharge, the same to be without prejudice to the validity of the City of Detroit’s liens for taxes against the remaining parcels in Ward 1, Item 4109, as the same are included in said description on the city’s tax rolls for 1959 to and including 1962.”
+In 1965, the city brought a condemnation proceeding to acquire the entire Kern Block for an urban renewal project. The condemnation was not contested by plaintiffs and the condemnation verdict was entered on October 5, 1965.
+When the awards were paid, the city treasurer withheld as to each parcel the amounts claimed by city and county for real estate taxes on each parcel, plus interest, from 1959 through October 31, 1965. Plaintiffs then brought this action contending that deduction from their respective condemnation awards the amount of interest claimed by the city and county for the years 1959 through June 3, 1965 (the date of the amended mandamus judgment) was improper. It is also their claim that interest for the period after October 5, 1965, (the date of the verdict in the condemnation proceedings) was also improperly deducted.
+The trial court granted the plaintiffs a refund of all such interest deducted by the city. On appeal defendants raise the following issues:
+1. Were plaintiffs chargeable with interest on unpaid taxes which were assessed on plaintiffs’ land as one parcel and on unpaid city taxes while the city was asserting liens against each parcel for unpaid taxes on other parcels?
+2. Are plaintiffs barred from complaining about the deduction of interest by the doctrine of res judicata or estoppel?
+3. Was interest chargeable to the plaintiffs after the confirmation of the condemnation verdict on October 5, 1965?
+1. Were plaintiffs chargeable with interest on unpaid taxes which were assessed on plaintiffs' land as one parcel and unpaid city taxes while the city was asserting liens against each parcel for unpaid taxes on other parcels ?
+In City of Detroit v. State Tax Commission, supra, the Supreme Court, citing MCLA.§ 211.3 (Stat Ann 1960 Rev § 7.3) which states that real property shall be assessed “to the owner if known, and also the occupant, if any,” held that the assessment of the property as a single parcel was not in compliance with the law. It is plaintiffs’ position that since the assessment before that date was unlawful, charging interest for non-payment would penalize the taxpayer for insisting upon his right to a lawful assessment. We agree. Taxpayers should not be penalized for refusing to pay a tax which is unlawfully assessed.
+Defendants contend, however, that plaintiffs were under a duty to make a good-faith tender in order to be relieved of interest charges following the original mandamus judgment entered on November 27, 1962. The trial judge, in his opinion, held that the plaintiffs were justified in withholding payment for taxes, or tender thereof, until such time as the defendants would agree to release the tax lien on the individually owned parcels when their prorated tax charge was paid.
+We agree with the trial court. The city and county had from 1959 to correct the assessment procedure and provide for the removal of the tax liens. The owners of parcel 5 (not plaintiffs herein) paid all of their taxes due the city, but were consistently informed that parcel 5 was subject to a lien to cover the taxes due from the owners of the other parcels.
+The law does not require a formal tender where a party has shown that payment would not be accepted or would be accepted only upon an unsanctioned condition. Here defendants’ actions regarding the owners of parcel 5 clearly demonstrated that the tax lien on the individual parcels would not be removed upon payment of the taxes. It is our opinion that plaintiffs were relieved of any duty to tender payment, given defendants consistent refusal to remove the lien from parcel 5. We therefore hold that the trial court was correct in finding that plaintiffs were under no duty to tender payment of their taxes and ordering defendants to return the monies withheld for payment of interest charges which became due before June 3, 1965.
+2. Are plaintiffs barred from complaining about the deduction of interest by the doctrine of res judicata or estoppell
+Defendants first argue that plaintiffs, as intervenors in the original mandamus action brought by the owners of parcel 5, are barred by that judgment from seeking refund of the interest on the delinquent taxes. However, the original judgment relative to parcel 5 dealt with the separation of the parcels in question, and the amended judgment concerned the release of tax liens. The issue of whether interest was due on the delinquent taxes was never adjudged. The doctrine of res judicata does not, therefore, have any application to the instant case.
+Defendants next contend that plaintiffs are es-topped from seeking refund of the withheld interest charges because all plaintiffs had to do was pay all of their taxes and the tax liens would have ended without any further court action amending the judgment of mandamus. However, the conduct of the city treasurer in attaching a tax memorandum to each tax receipt given to the owners of parcel 5, claiming a lien on parcel 5 until the taxes on all of the parcels were paid, prevents defendant from asserting the defense of estoppel.
+The city would have accepted payments prior to this action, but only on the illegal condition that each parcel would still be subject to a lien for nonpayment of taxes on the other parcels. We see no basis for applying an estoppel doctrine when it was the city’s insistence on the illegal lien which caused plaintiffs to refuse to pay the taxes due.
+3. Was interest chargeable to the plaintiffs after the confirmation of the condemnation verdict on October 5, 19651
+Defendants argue that under Detroit’s City Charter, interest is computed on the first day of the month and that on October 1, 1965, plaintiffs were still the owners of the property and, therefore, are responsible for interest charges for the entire month of October.
+MCLA §213.311 (Stat Ann 1971 Cum Supp § 7.679[1]) provides:
+“When real property is acquired for public purposes, general taxes shall be prorated to the date of closing when acquired by negotiation. When acquired by condemnation, proration shall be to the date compensation is made or secured.”
+The trial court, in applying the above statute, stated:
+“In the circumstances of the present case, the confirmation of the condemnation award on October 5, 1965, assured the defendants that the property was condemned at a fixed price. For tax assessment purposes, on that date, compensation was secured, not made in the sense of cash in hand, but secured in the sense of an amount fixed and certain. The court thus concludes, * * * that the plaintiffs are not responsible for property taxes arising October 5 and thereafter.”
+We adopt the above statement by the trial court. It therefore follows that since the plaintiffs were no longer responsible for property taxes after October 5, neither should they be responsible for any interest charges after that date since it was then within the power of defendants to obtain payment for the delinquent taxes by simply withholding the amount due from the condemnation award. The trial court was correct in ordering defendants to return the money withheld for interest charges for the period after October 5, 1965.
+Affirmed.
+No costs, a public question.
+All concurred.
+Hanesworth v. Hendrickson (1948), 320 Mich 577; Keller v. Paulos Land Company (1966), 5 Mich App 246.
+This situation is now provided for by MCLA § 211.2 (Stat Ann 1971 Cum Supp § 7.2) which was passed in 1966:
+« * * * The seller or condemnee is responsible for the portion of taxes from the levy date or dates to, but not including, the day title passes and the public agency is responsible for the remainder of such taxes.”
