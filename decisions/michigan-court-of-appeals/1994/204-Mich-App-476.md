@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "146441"
+decided: "1994-04-05"
+citations: ["204 Mich. App. 476"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Gribbs, P.J., and Hood and H. E. Brown, JJ."]
+parties: ["UTICA EQUIPMENT COMPANY v RAY W MALOW COMPANY"]
+source_url: "https://static.case.law/mich-app/204/cases/0476-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2339875
+cites_cases: ["127 Mich App 168", "143 NW2d 579", "200 Mich App 73", "234 NW2d 507", "253 NW2d 643", "269 NW2d 184", "280 NW2d 496", "339 NW2d 11", "4 Mich App 90", "400 Mich 198", "403 Mich 371", "443 Mich 176", "503 NW2d 680", "504 NW2d 635", "63 Mich App 325", "63 Mich App 327", "89 Mich App 228"]
+---
+
+# Utica Equipment Co. v. Ray W. Malow Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is a breach of contract case. Plaintiff appeals as of right the trial court’s grant of summary disposition to defendant under MCR 2.116(0(10). We affirm in part and remand in part.
+Defendant contractor hired plaintiff subcontractor to excavate a lake at an apartment complex. The trial court found that defendant owed plaintiff for the work. However, the court held that plaintiff was barred from collecting because it was not licensed under the Michigan residential builders act, MCL 339.2401 et seq.; MSA 18.425(2401) et seq.
+Plaintiff first argues that the purpose of the statute is to protect homeowners and that, therefore, it does not apply to lawsuits between contractors and subcontractors. We agree that the goal of the statute is to protect consumers. Charles Feath-erly Construction Co v Property Development Group, Inc, 400 Mich 198, 203-204; 253 NW2d 643 (1977). However, we cannot agree with plaintiff’s remaining contention.
+The residential builders act, MCL 339.2412; MSA 18.425(2412), provides:
+[A] residential builder . . . shall not bring or maintain an action in a court of this state for the collection of compensation for the performance of an act or contract for which a license is required by this article without alleging and proving that the person was licensed under this article during the performance of the act or contract.
+The Supreme Court in Featherly, supra at 203, in holding that it was irrelevant whether the defendant was a homeowner or the owner of an entire development, stated:
+The act defines a class of plaintiffs — residential builders — and prohibits them from bringing or maintaining "any action in any court of this state” unless they have a residential builder’s license. The prohibition is not described as a defense that may only be asserted in certain situations. It is a penalty that divests the unlicensed builder of the power to sue. . . . The act does not treat the status of the defendant as an important consideration.
+The Court specifically held that the statutory prohibition was "all inclusive.” Id. at 204.
+Plaintiffs reliance on Reynolds v College Park Corp, 63 Mich App 325; 234 NW2d 507 (1975), is misplaced. The plaintiff in that case "was a former director and shareholder of the defendant and the defendant was the entity that was required to have a builder’s license.” Featherly, supra at 207. It was only because of his special status that the plaintiff in Reynolds was allowed to sue even though he lacked a license. Id. at 206-207. As in Featherly, "[tjhese special facts are not present in the case at bar.” Id. at 207. We add that, although the plaintiff in Reynolds won on an unjust enrichment theory, his claim was akin to one for "wages for personal labor,” which would be excluded under the act. See 63 Mich App 327; see also MCL 339.2401(a); MSA 18.425(2401)(a).
+We recognize that, as written, the statute works an undue hardship on some, while providing an unwarranted windfall to. others, and that the result in this case seems unjust. See Robert H Pastor Building & Development Co v Cole, 127 Mich App 168, 172; 339 NW2d 11 (1983). We also acknowledge that plaintiff would have been exempt from the licensing requirement if defendant had been licensed. See MCL 339.2403(e); MSA 18.425(2403) (e); see also Obeginski v James, 4 Mich App 90, 93; 143 NW2d 579 (1966). However, the statute is clear and unambiguous on its face and, therefore, must be enforced as written; reference to legislative intent is not appropriate. Kammer Asphalt Paving Co, Inc v East China Twp Schools, 443 Mich 176, 183; 504 NW2d 635 (1993).
+Plaintiff next argues that the statutory prohibition does not apply in this case because excavating a lake is not work "for which a license is required” by the act. We disagree in part.
+The act requires residential builders to be licensed. See MCL 339.2404; MSA 18.425(2404). A residential builder is "a person engaged in the construction of a residential structure or a combination residential and commercial structure” as either a contractor or a subcontractor. MCL 339.2401(a); MSA 18.425(2401)(a). A "residential structure” is defined as "premises used or intended to be used for a residence purpose and related facilities appurtenant to the premises, used or intended to be used, as an adjunct of residential occupancy.” MCL 339.2401(c); MSA 18.425(2401)(c) (emphasis added). The act does not define "appurtenant” or "adjunct.”
+Words not defined in a statute must be given their plain and ordinary meaning, including dictionary definitions, if necessary. Consumers Power Co v Lansing Bd of Water & Light, 200 Mich App 73, 76; 503 NW2d 680 (1993). Black’s Law Dictionary (5th ed) defines "appurtenant” as "[belonging to; accessory or incident to; adjunct, appended, or annexed to” and states that "[a] thing is 'appurtenant’ to something else when it stands in relation of an incident to a principal and is necessarily connected with the use and enjoyment of the latter.” Also, "[a] thing is deemed to be incidental or appurtenant to land when it is by right used with the land for its benefit, as in the case of a way or water-course.” The same dictionary defines "adjunct” as "[s]omething added to another, but in a subordinate, auxiliary, or dependent position.” Webster’s New Twentieth Century Dictionary of the English Language (2d ed) in its definition of appurtenance includes "gardens” and "pasturage” among its examples of things that are appurtenant "to a house or to land.”
+We believe that whether the lake is a "related facility] appurtenant to the premises, used or intended to be used, as an adjunct of residential occupancy” depends on its function. Our review of the record discloses that there was no evidence introduced below addressing this question. Therefore, we remand for supplementation of the record in this regard. The trial court is free to affirm or reverse its prior decision, depending on the evidence presented on remand.
+Affirmed in part and remanded in part. We do not retain jurisdiction.
+There is an equitable exception to the act where a buyer seeks equitable relief against a seller who is also an unlicensed contractor. See Kirkendall v Heckinger, 403 Mich 371, 374-375; 269 NW2d 184 (1978); see also Green v Ingersoll, 89 Mich App 228, 235-237; 280 NW2d 496 (1979). In such cases, the plaintiff seeking equity is required to do equity and compensate the seller for the reasonable value of his work. In the present case, however, plaintiff does not seek equity and defendant is not a seller.
