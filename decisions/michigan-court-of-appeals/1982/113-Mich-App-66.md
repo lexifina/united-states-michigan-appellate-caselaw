@@ -1,0 +1,58 @@
+---
+court: "Michigan Court of Appeals"
+docket: "54554"
+decided: "1982-02-02"
+citations: ["113 Mich. App. 66"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and Bronson and Beasley, JJ."]
+parties: ["HOFFMAN v NATIONAL MACHINE COMPANY"]
+source_url: "https://static.case.law/mich-app/113/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2210407
+cites_cases: ["134 NW2d 191", "147 NW 510", "162 NW2d 139", "166 NW 957", "169 NW2d 326", "17 Mich App 259", "180 Mich 557", "1972 PA 285", "201 Mich 67", "224 NW2d 856", "233 NW2d 1", "279 NW2d 761", "282 NW 170", "286 Mich 343", "299 F Supp 240", "305 Mich 163", "345 Mich 455", "354 Mich 695", "358 Mich 21", "365 F2d 113", "375 Mich 289", "381 Mich 388", "393 Mich 368", "395 Mich 13", "406 Mich 284", "434 P2d 256", "75 NW2d 874", "9 NW2d 45", "94 NW2d 71", "99 NW2d 367"]
+---
+
+# Hoffman v. National Machine Co.
+
+## Majority (Mackenzie, P.J.)
+
+Mackenzie, P.J.
+This case presents a tort claim arising out of an industrial accident. Plaintiff was assigned to work for defendant Fabristeel, Inc., through "Somebody Sometime”, a labor broker. Plaintiff was injured in the course of her work at defendant Fabristeel’s plant when her hair became caught in a machine. Plaintiff’s products liabilty claim against defendant National Machine Company is not at issue in this appeal.
+Defendant Fabristeel moved for summary judgment pursuant to GCR 1963, 117.2(3) on the ground that there was no genuine issue of material fact and that plaintiff’s claim was barred as a matter of law by the exclusive remedy provision of the Worker’s Disability Compensation Act, MCL 418.131; MSA 17.237(131). In support of this motion, defendant filed an affidavit which stated:
+"1. That I, David W. Sickels, am presently employed by Fabristeel Products, Inc., as plant manager and was so employed on August 15, Í977.
+"2. That Fabristeel Products, Inc., is a corporation which manufactures pierce nuts which are special, system fed fasteners used in the manufacturer [sic] of automobiles.
+"3. That an integral part of our manufacturing business involves the use of a 'tapper machine’ which is a machine used to cut the spiral threads in the pierce nut.
+"4. That an operator of a tapper machine such as that function performed by Sadie Kidd Hoffman in August, 1977, is an integral part of the manufacturing process performed at Fabristeel Products, Inc.
+"5. That the training of Mrs. Hoffman was supplied by one or more of her co-workers in the tapping department followed by assignment to work alongside an experienced operator for one week prior to operating a tapping machine herself.
+"6. That during the performance of her functions, Mrs. Hoffman would be observed and critiqued as necessary by her immediate supervisor, the foreman on the afternoon shift. Mrs. Hoffman’s immediate supervisor, the foreman on that shift, had the authority to discipline her as well as other employees under his supervision.
+"7. Fabristeel Products, Inc., through the actions of the plant manager, myself, has the authority to fire an employee including Mrs. Hoffman.
+"8. The sum paid to 'Somebody Sometime’ the temporary employment agency, paid for the services of Mrs. Hoffman were calculated on an hourly rate in excess to that of one on the Fabristeel payroll as an employee doing the same function. In turn, the rate paid to Sadie Kidd Hoffman by 'Somebody Sometime’ was less than the rate paid to a Fabristeel employee by Fabristeel Products, Inc.
+"9. If called upon to testify in the above-entitled matter, I will testify the same as set forth above.”
+Plaintiff did not file a counter-affidavit. The circuit judge granted defendant’s motion, and plaintiff appeals by right.
+The standard applied by the circuit judge was derived from Renfroe v Higgins Rack Coating & Manufacturing Co, Inc, 17 Mich App 259, 264-267; 169 NW2d 326 (1969), a case which also involved a plaintiff assigned by a labor broker to work for another company:
+"It has long been the law in this State that one who is in the general employ of one employer may become the special employee of another under certain circumstances. Janik v Ford Motor Co, 180 Mich 557 [147 NW 510] (1914); Arnett v Hayes Wheel Co, 201 Mich 67 [166 NW 957] (1918); Wing v Clark Equipment Co, 286 Mich 343 [282 NW 170] (1938). But the Michigan Supreme Court has recently revised the criteria which are to be used to determine whether employment exists for purposes of 'social remedial legislation’ such as workmen’s compensation and employment security. Tata v Muskovitz, 354 Mich 695 [94 NW2d 71] (1959), adopting Justice Talbot Smith’s dissent in Powell v Employment Security Comm, 345 Mich 455, 462 [75 NW2d 874] (1956); Schulte v American Box Board Co, 358 Mich 21 [99 NW2d 367] (1959); Goodchild v Erickson, 375 Mich 289 [134 NW2d 191] (1965). These cases de-emphasize the old touchstone concept of 'control’ in favor of the broader test of 'economic reality’. In assessing this economic reality, control is now just one of the factors to be considered.
+"The economic reality of this case is that both ETS and Higgins Co., were employers of Roy Renfroe, each in a different way. It is not necessary to make fine semantic distinctions as to types of degrees of control, et cetera. It is enough to say that either could be liable under the workmen’s compensation act, therefore, both are protected by it.”
+Under the circumstances presented here, the question of the existence of an employer-employee relationship was properly resolved by the court. See Nichol v Billot, 406 Mich 284, 302-303; 279 NW2d 761 (1979), quoting approvingly from Flick v Crouch, 434 P2d 256 (Okla, 1967):
+" 'When a defendant’s status forms a material issue in an evidentiary proceeding, * * * which has for its object to determine whether the action sought to be prosecuted is one abrogated or taken away by the Workmen’s Compensation Law, * * * or "reserved” to the workman (or his widow) * * * the rule to be applied by the trial court should be the same as that which governs at the trial: if the evidence concerning the status of a party defendant is reasonably susceptible of but a single inference, the question is one purely of law to be decided by the court * * * but where the facts bearing on such issue are either disputed, or conflicting inferences may be reasonably drawn from the known facts, it is error to withhold the issue from the determination of the jury.’ ”
+On appeal, plaintiff does not argue that an issue of material fact existed; rather, plaintiff argues that the trial judge applied an erroneous legal standard. According to plaintiff, the correct standard is to be found in 1C Larson, Workmen’s Compensation Law, § 48.00:
+"When a general employer lends an employee to a special employer, the special employer becomes liable for workmen’s compensation only if
+"(a) the employee has made a contract of hire, express or implied, with the special employer;
+"(b) the work being done is essentially that of the special employer; and
+"(c) the special employer has the right to control the details of the work.
+"When all three of the above conditions are satisfied in relation to both employers, both employers are liable for workmen’s compensation.
+"Employment may also be 'dual,’ in the sense that, while the employee is under contract of hire with two different employers, his activities on behalf of each employer are separate and can be identified with one employer or the other. When this separate identification can clearly be made, the particular employer whose work was being done at the time of injury will be held exclusively liable.”
+The foregoing standard has twice been followed by federal courts purporting to apply Michigan law. See Krentz v Union Carbide Corp, 365 F2d 113 (CA 6, 1966), and Markham v Pittsburgh Plate Glass Co, 299 F Supp 240 (WD Mich, 1969). The point of plaintiff’s argument is that the affidavit of David Sickels does not demonstrate a contract of hire, express or implied, between special employer Fabristeel and plaintiff.
+Application of Professor Larson’s test in Michigan is inappropriate for two reasons. First, note that the test is not directly designed to determine the applicability of an exclusive remedy provision but rather is designed to determine the relative liability of dual or general and special employers for payment of workers’ compensation benefits. However, in another case involving a labor broker, our Supreme Court held that the economic reality test was the proper test by which to resolve such a question. See Solakis v Roberts, 395 Mich 13, 25-26; 233 NW2d 1 (1975):
+"The Court of Appeals was correct in applying the 'economic reality’ test to the instant case. Under the criteria espoused in the 'economic reality’ test, the plaintiff was an employee of both Están and ELP [the labor broker] and thus the principal-agent argument is inapplicable to the instant case.
+"Although there is a dual employment situation herein, we long have held that joint liability does not necessarily follow from a dual employer situation. Wing v Clark Equipment Co, 286 Mich 343; 282 NW 170 (1938).
+"There it was held that because both employers paid wages to the injured employee, separate awards should issue. In the instant case, only ELP paid wages and therefore the ELP carrier is primarily liable.
+"As the Court of Appeals noted, the referee and the WCAB found that ELP should be exclusively liable for the payment of benefits.
+"In Allen v Kendall Hardware Mill Supply Co, 305 Mich 163; 9 NW2d 45 (1943), a dual employer situation, the Court held that the determination of which employer should be liable to pay benefits was a question of fact. While Allen utilized the old 'right to control test’, this determination should also be a question of fact under the 'economic reality’ test. Because only ELP paid plaintiff’s wages, there is support in the record for the factual finding, and that finding is conclusive and binding on this Court. Johnson v Vibradamp Corp, 381 Mich 388; 162 NW2d 139 (1968); Hlady v Wolverine Bolt Co, 393 Mich 368; 224 NW2d 856 (1975).” (Footnote omitted.)
+Moreover, the assumption that only an employer liable for payment of workers’ compensation benefits is protected by the exclusive remedy provision is unwarranted. Formerly, the exclusive remedy provision read as follows:
+"Where the conditions of liability under this act exist, the right to recovery of compensation benefits, as herein provided, shall be the exclusive remedy against the employer.”
+However, 1972 PA 285 amended the provision to read as follows:
+"The right to the recovery of benefits as provided in this act shall be the employee’s exclusive remedy against the employer. As used in this section and section 827 'employee’ includes the person injured, his personal representatives and any other person to whom a claim accrues by reason of the injury to or death of the employee, and 'employer’ includes his insurer, a service agent to a self-insured employer, and the accident fund insofar as they furnish, or fail to furnish, safety inspections or safety advisory services incident to providing workmen’s compensation insurance or incident to a self-insured employer’s liability servicing contract.”
+It appears to us that by removing the qualifying phrase "where the conditions of liability under this act exist”, the Legislature intended to make workers’ compensation the exclusive remedy against an employer regardless of whether that employer was liable for payment of compensation benefits.
+Affirmed.
