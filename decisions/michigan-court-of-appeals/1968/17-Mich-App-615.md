@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "4,497"
 decided: "1968-12-19"
-citations: ["17 Mich. App. 615", "14 Mich. App. 757"]
+citations: ["17 Mich. App. 615"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v. DAVIS"]
 source_url: "https://static.case.law/mich-app/17/cases/0615-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2047541
-cites_cases: ["14 Mich App 757", "17 Mich App 615", "180 F Supp 71", "382 Mich 783", "384 US 757", "394 US 721", "83 ALR 127"]
+cites_cases: ["14 Mich App 757", "180 F Supp 71", "382 Mich 783", "384 US 757", "394 US 721", "83 ALR 127"]
 ---
 
 # People v. Davis
