@@ -1,0 +1,46 @@
+---
+court: "Michigan Court of Appeals"
+docket: "91448"
+decided: "1987-08-18"
+citations: ["162 Mich. App. 410"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Weaver, P.J., and D. E. Holbrook, Jr., and T. Gillespie, JJ."]
+parties: ["MACIEJEWSKI v BREITENBECK"]
+source_url: "https://static.case.law/mich-app/162/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2302256
+cites_cases: ["118 Mich App 831", "121 Mich App 17", "121 Mich App 705", "129 Mich App 66", "132 Mich App 118", "143 Mich App 373", "144 NW2d 444", "155 Mich App 694", "156 Mich App 19", "17 L Ed 2d 682", "179 NW2d 390", "27 NW2d 67", "287 NW2d 278", "315 NW2d 524", "317 Mich 490", "325 NW2d 600", "327 NW2d 568", "329 NW2d 466", "341 Mich 169", "341 NW2d 812", "344 Mich 624", "346 NW2d 911", "349 Mich 459", "372 NW2d 559", "374 NW2d 905", "378 Mich 239", "38 ALR4th 998", "384 Mich 4", "385 US 1035", "400 NW2d 625", "401 NW2d 375", "412 Mich 532", "413 Mich 1106", "422 Mich 594", "443 US 595", "45 L Ed 2d 725", "67 NW2d 125", "75 NW2d 19", "84 NW2d 816", "87 S Ct 775", "93 Mich App 491"]
+---
+
+# Maciejewski v. Breitenbeck
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs, five parishioners of St. Isidore’s Roman Catholic Church in Grand Rapids, filed a complaint in Kent Circuit Court containing four counts. In count one they seek to restrain their bishop, the Most Reverend Joseph M. Breitenbeck, from employing their parish priest, Reverend Stephen E. Vesbit, to further serve as pastor of St. Isidore’s.
+In counts two, three, and four, they seek to recover damages from Reverend Vesbit for intentional infliction of emotional distress.
+Circuit Judge George V. Boucher granted defendants’ motion for summary disposition as to count one on the basis that the relief requested is not available under Michigan common law. He further granted the motion of Reverend Vesbit for summary disposition as to counts two, three and four, giving reasons therefor that the tort of intentional infliction of emotional distress has never been recognized by the Supreme Court of Michigan.
+Plaintiffs appeal from such decision and we affirm, but on different grounds.
+The action arose from a dispute over renovation and modernization of the church and parish buildings. The petitioners, and allegedly numerous other parishioners, are Polish. The former pastor had obtained their commitment for financial support and they had contributed substantial sums of money for repair and maintenance of the church and parish buildings. When Reverend Vesbit was installed as pastor he redirected the use of the funds to modernization of the church, which included changes in structure and removal of Polish religious artifacts.
+This angered the parishioners and they withdrew their financial support, leaving the church in financial straits. It is alleged that Reverend Vesbit, after numerous confrontations, took intentional retaliatory action against some of the most vociferous of his critics, which included the plaintiffs.
+The forms of such retaliation are alleged in counts two, three and four of the complaint.
+Count two alleges that plaintiff Ignacz Permoda was a baptized member of the Roman Catholic Church for eighty-five years and had taken communion for that time. For the last thirty-five years he has been a member of St. Isidore’s. After parishioners withdrew their support, when communion was being conducted on a Sunday morning, Reverend Vesbit refused, in the presence of the congregation, to give communion to Mr. Permoda.
+Count three alleges that, in retaliation for their reduction in contributions, Reverend Vesbit expelled plaintiffs Robert and Lucy Maciejewski from the parish register and they have been attending religious services at other parishes.
+Count four alleges that, in retaliation for reduction of his contributions, Reverend Vesbit told plaintiff George Merdzinsky that he would no longer allow him to assist the priest at masses as he, Merdzinsky, had been expelled from the parish. Reverend Vesbit also is alleged to have verbally castigated and abused Dorothy Merdzinsky in the presence of the congregation.
+All plaintiffs complain of mental distress as a result of these actions.
+Turning first to the suit to enjoin Bishop Breitenbeck, we note that plaintiffs elected not to brief this issue on appeal and it is therefore considered abandoned. Royal Indemnity Co v H S Watson Co, 93 Mich App 491, 494; 287 NW2d 278 (1979); Dorlin v Providence Hospital, 118 Mich App 831, 835; 325 NW2d 600 (1982); MCR 7.212(C)(4).
+Even had plaintiffs pursued their allegations in count one the trial court would have to be sustained in its summary disposition of that count.
+It is well settled that courts, both federal and state, are severely circumscribed by the First and Fourteenth Amendments to the United States Constitution and art 1, § 4 of the Michigan Constitution of 1963 in resolution of disputes between a church and its members. Such jurisdiction is limited to property rights which can be resolved by application of civil law. Whenever the court must stray into questions of religious doctrine or ecclesiastical polity the court loses jurisdiction. Berry v Bruce, 317 Mich 490; 27 NW2d 67 (1947), First Protestant Reformed Church v DeWolf, 344 Mich 624; 75 NW2d 19 (1956), Berkaw v Mayflower Congregational Church, 378 Mich 239; 144 NW2d 444 (1966), cert den 385 US 1035; 87 S Ct 775; 17 L Ed 2d 682 (1967), Bennison v Sharp, 121 Mich App 705; 329 NW2d 466 (1982), and Beulah Missionary Baptist Church v Spann, 132 Mich App 118, 125; 346 NW2d 911 (1984) (concurring opinion of H. R. Gage, J.).
+Religious doctrine refers to ritual, liturgy of worship and tenets of the faith. Jones v Wolf, 443 US 595; 99 S Ct 3020; 61 L Ed 2d 775 (1979); Bennison, supra.
+Polity refers to organization and form of government of the church. Black’s Law Dictionary (4th ed), p 1319.
+The issue in this case is the court’s right to enjoin the Bishop of Grand Rapids from assigning a certain priest to a parish.
+The Roman Catholic Church is an hierarchical organization and the Bishop’s power to make assignments of ministers to a parish is certainly a matter of ecclesiastical polity in which the courts may not interfere, even though the issue may be couched in language that would make it appear to be a property issue. Holt v Trone, 341 Mich 169; 67 NW2d 125 (1954).
+The second issue is whether the trial court erred in granting defendants’ motion for summary disposition of plaintiffs’ claims of intentional infliction of emotional distress.
+The trial judge tersely granted the motion saying, "This is quite a modern tort not yet recognized by the highest court in this state. Roberts v Auto-Owners Ins Co, 422 Mich 594 (1985). Hopefully, it never will be. The awesome flood of litigation has already risen to the gunnels. If the courts were to offer to extract money from everyone who intentionally makes someone else mad, we would surely go under.”
+We agree that the Supreme Court in Roberts v Auto-Owners Ins Co, 422 Mich 594; 374 NW2d 905 (1985) , found it unnecessary to determine whether a separate tort of intentional infliction of emotional distress is formally adopted into Michigan jurisprudence to decide that case, however, a case can be made that the Court did not overrule Stewart v Rudner, 349 Mich 459; 84 NW2d 816 (1957), or Daley, v LaCroix, 384 Mich 4; 179 NW2d 390 (1976). Also, the Supreme Court rather carefully limited Roberts to causes of action arising in the context of dilatory conduct of insurance companies in handling insurance claims. Further, a number of Court of Appeals cases have recognized such independent causes of action. Wendt v Auto-Owners Ins Co, 156 Mich App 19; 401 NW2d 375 (1986) , Crossley v Allstate Ins Co, 155 Mich App 694; 400 NW2d 625 (1986), Sawabini v Desenberg, 143 Mich App 373; 372 NW2d 559 (1985), Barnes v Double Seal Glass Co, Inc, 129 Mich App 66; 341 NW2d 812 (1983), and Chrum v Charles Heating & Cooling, Inc, 121 Mich App 17; 327 NW2d 568 (1982).
+These cases are binding on the trial courts unless specifically overruled by the Supreme Court. In re Hague, 412 Mich 532, 552; 315 NW2d 524 (1982), reh den 413 Mich 1106 (1982).
+Until the Supreme Court speaks more firmly than it has done so far, it is the belief of this panel that trial courts must in proper cases follow the decisions of the Court of Appeals. If so, the trial court’s reason in this case for granting summary disposition cannot be sustained. However, though we may disagree with the reason given for the granting of summary disposition, we conclude that such action was proper for the same reason that the court dismissed count one. It is beyond the jurisdiction of civil courts to determine rights to communion, qualification of members and privileges of membership which are necessary to decide the issues in this case. The trial court is not equipped or empowered to make such inquiries and was obliged therefore to grant summary disposition.
+The reasoning and case law supporting our opinion in affirming count one apply equally to affirming counts two, three and four.
+Affirmed.
