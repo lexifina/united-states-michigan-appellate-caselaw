@@ -1,0 +1,52 @@
+---
+court: "Michigan Court of Appeals"
+docket: "110355"
+decided: "1990-05-07"
+citations: ["183 Mich. App. 550"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: McDonald, P.J., and Michael J. Kelly and Murphy, JJ.", "Murphy, J., concurred."]
+parties: ["POWERS v PEOPLES COMMUNITY HOSPITAL AUTHORITY"]
+source_url: "https://static.case.law/mich-app/183/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2337990
+cites_cases: ["146 Mich App 342", "160 Mich App 781", "168 Mich App 159", "169 Mich App 502", "174 Mich App 290", "273 NW2d 429", "363 NW2d 641", "380 NW2d 99", "393 NW2d 847", "404 Mich 240", "408 NW2d 558", "420 Mich 567", "420 Mich 633", "423 NW2d 920", "426 Mich 223", "427 NW2d 584", "433 Mich 857", "435 NW2d 472"]
+---
+
+# Powers v. Peoples Community Hospital Authority
+
+## Majority (Michael J. Kelly, J.)
+
+Michael J. Kelly, J.
+Plaintiff appeals from a March 21, 1988, order granting defendants’, Dr. Neil Jahan and Peoples Community Hospital Authority’s, motions for summary disposition as to plaintiff’s contract claims and the June 30, 1988, order granting defendant Jahan’s motion for summary disposition as to plaintiff’s tort claim. We affirm in part and reverse in part.
+Plaintiff is the personal representative of the estate of Frank Powers, deceased. Plaintiff’s claims arise out of the care and treatment provided Powers while he was a patient at Annapolis Hospital, a division of the Peoples Community Hospital Authority. Plaintiff originally instituted an action for malpractice against defendant hospital and Dr. Bernard Bercu, plaintiff’s first treating physician. Defendant Jahan was later added as a party defendant. Plaintiff eventually settled with Dr. Bercu, leaving the hospital and Jahan as party defendants.
+Following the Supreme Court’s decision in Ross v Consumers Power Co (On Rehearing), 420 Mich 567; 363 NW2d 641 (1984), defendant hospital moved for summary disposition, claiming the operation of Annapolis Hospital was a "governmental function” entitled to a broad grant of immunity. The trial court granted defendant hospital’s motion and dismissed plaintiff’s tort claim as to defendant hospital. This dismissal was affirmed by the Supreme Court in Hyde v University of Michigan Bd of Regents, 426 Mich 223; 393 NW2d 847 (1986).
+Following the Supreme Court’s ruling that plaintiff’s tort claim against defendant hospital was barred by the doctrine of governmental immunity, plaintiff was permitted to amend her complaint to allege express and implied contract claims against defendant hospital and defendant Jahan. On March 21, 1988, the trial court granted defendants’ motions for summary disposition as to plaintiff’s contract claims, reasoning that plaintiff failed to produce evidence of a writing sufficient to satisfy the statute of frauds. MCL 566.132(g); MSA 26.922(g). Accordingly, the case proceeded against defendant Jahan solely on plaintiff’s tort claims. Thereafter, defendant Jahan moved for summary disposition claiming he was entitled to individual immunity under the three-prong test articulated in Ross. MCR 2.116(C)(7). On June 30, 1988, the trial court granted defendant Jahan’s motion for summary disposition as to plaintiff’s tort claims.
+i
+Plaintiff first argues that the circuit court erred by finding that her contract claims against defendants were barred by the statute of frauds. We find that the circuit court did not err by dismissing plaintiff’s contract claims.
+The Michigan statute of frauds, MCL 566.132(g); MSA 26.922(g), provides in pertinent part:
+In the following cases an agreement, contract or promise shall be void, unless that agreement, contract, or promise, or a note or memorandum thereof is in writing and signed by the party to be charged therewith, or by a person authorized by him:
+(g) An agreement, promise, contract, or warranty of cure relating to medical care or treatment. Nothing in this paragraph shall affect the right to sue for malpractice or negligence.
+Plaintiff contends that because no promise, warranty or contract to cure was made to Powers or his family, the statute of frauds does not apply to the instant case. We disagree, finding that the statute requires a writing for any agreement, promise or contract relating to medical care or treatment as well as any warranty of cure. Malik v William Beaumont Hosp; 168 Mich App 159; 423 NW2d 920 (1988).
+Nor do we believe plaintiff presented sufficient evidence to satisfy the memorandum requirement of the statute. The "patient bill of rights” and the agreements entered into by defendant Jahan and defendant hospital merely authorized the hospital and its doctors to render appropriate medical care, and do not constitute a written agreement to perform a specific act. Penner v Seaway Hosp, 169 Mich App 502; 427 NW2d 584 (1988). We must also reject plaintiff’s implied contract claim as defendants’ preexisting duty to provide medical care to the decedent negates a finding of consideration necessary to create an implied contract. Penner, supra; see also Guilbault v Dep’t of Mental Health, 160 Mich App 781; 408 NW2d 558 (1987).
+Thus, given the applicability of the statute of frauds and plaintiffs failure to meet the writing requirements contained therein, we find no error in the trial court’s dismissal of plaintiffs contract claims. We likewise reject plaintiffs promissory estoppel claim as the alleged promise made by defendant hospital’s nursing staff related to medical care or treatment and such promises must be in writing. MCL 566.132(g); MSA 26.922(g). Moreover, the mere allegation of promises made by the nursing staff does not set forth a promissory estoppel claim as to defendant Jahan. Plaintiff has failed to allege detrimental reliance on any promise or representation made by defendant Jahan. Lowery v Dep’t of Corrections, 146 Mich App 342; 380 NW2d 99 (1985).
+ii
+Plaintiff argues that the circuit court erred in finding that defendant Dr. Jahan was entitled to individual immunity from tort liability under the doctrine of governmental immunity. We agree and reverse the circuit court’s dismissal of plaintiff’s malpractice claim against Dr. Jahan.
+Our Supreme Court has already ruled that the principles of governmental immunity set forth in Ross, supra, are applicable to this case. Hyde, supra. Additionally, the Court found defendant hospital to be a governmental agency immune from tort liability. Therefore, defendant Jahan’s entitlement to governmental immunity rests upon application of the three-prong test announced in Ross.
+Under Ross,
+judges, legislators, and the highest executive officials of all levels of government are absolutely immune from all tort liability whenever they are acting within their judicial, legislative, or executive authority. Lower level officials, employees, and agents are immune from tort liability only when they are
+1) acting during the course of their employment and acting, or reasonably believe they are acting, within the scope of their authority;
+2) acting in good faith; and
+3) performing discretionary, as opposed to ministerial acts. [420 Mich 633-634.]
+Applying the test from Ross, we believe that the circuit court improperly found Jahan immune from tort liability. Dr. Jahan’s status as a staff physician of the defendant hospital did not make him an official, employee, or agent of that hospital. Physicians with staff privileges at a hospital are generally considered independent contractors, and are not considered agents of that hospital for purposes of vicarious liability. Grewe v Mount Clemens General Hosp, 404 Mich 240, 250; 273 NW2d 429 (1978); Brackens v Detroit Osteopathic Hosp, 174 Mich App 290; 435 NW2d 472 (1989), lv den 433 Mich 857 (1989). However, under certain factual circumstances, a staff physician can be found to be the "ostensible” ¡agent of a hospital. Grewe. The trial court’s finding that Jahan was an employee or agent of the hospital, and so entitled to governmental immunity, disregards the holding of Grewe, by reasoning that defendant Jahan’s status as a staff physician automatically renders him an agent of the hospital. This assumption was incorrect. Whether Jahan is an agent or an independent contractor is a question of fact to be determined by considering the factors listed in Grewe. The circuit court did not consider these factors, but merely assumed that Jahan was an employee or agent of the hospital and so entitled to immunity under Ross. We therefore reverse the lower court’s grant of summary disposition of plaintiffs malpractice claim against Dr. Jahan and remand to permit resolution of the fact question whether Jahan was an agent of defendant hospital and therefore entitled to governmental immunity under Ross.
+Affirmed in part, reversed in part, and remanded for further proceedings consistent with this opinion.
+Murphy, J., concurred.
+
+## Concurring in part and dissenting in part (McDonald, P.J.)
+
+McDonald, P.J.
+(concurring in part and dissent ing in part). I do not believe there is a question of fact whether Dr. Jahan is an agent of the hospital or an independent contractor. Defendant’s status as a staff physician as well as plaintiff’s reliance on the hospital rather than a particular doctor to provide treatment renders defendant Jahan an agent of defendant hospital.
+Grewe v Mount Clements General Hosp, 404 Mich 240; 273 NW2d 429 (1978), does not hold that physicians with staff privileges at a hospital are generally considered independent contractors but, rather, states that generally a physician who is an independent contractor and merely uses the hospital’s facilities to render treatment to his patients is not an agent of the hospital. As stated in Grewe, p 251:
+[T]he critical question is whether the plaintiff, at the time of his admission to the hospital, was looking to the hospital for treatment of his physical ailments or merely viewed the hospital as the situs where his physician would treat him for his problems. [Emphasis added.]
+The parties do not dispute that plaintiff relied on the hospital to render medical treatment and did not engage Dr. Jahan or any specific doctor’s services. Moreover, plaintiff’s amended complaints consistently allege defendant Jahan’s status to be that of agent to defendant hospital. I would affirm.
