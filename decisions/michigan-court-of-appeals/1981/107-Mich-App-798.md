@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "50871"
+decided: "1981-07-23"
+citations: ["107 Mich. App. 798"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and M. F. Cavanagh and D. R. Freeman, JJ."]
+parties: ["PEOPLE v WILLIAMS"]
+source_url: "https://static.case.law/mich-app/107/cases/0798-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2219389
+cites_cases: ["10 Mich App 339", "100 ALR2d 769", "124 NW2d 269", "159 NW2d 383", "202 NW2d 471", "205 NW2d 900", "213 NW2d 116", "227 NW2d 261", "258 NW2d 502", "267 NW2d 466", "274 NW2d 788", "33 Am Rep 380", "371 Mich 419", "381 Mich 753", "388 Mich 801", "39 Mich 236", "390 Mich 672", "406 Mich 936", "42 Mich App 457", "44 Mich App 578", "58 Mich App 220", "77 Mich App 370", "82 Mich App 621", "87 Mich App 350"]
+---
+
+# People v. Williams
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant, Thomas Joseph Williams, appeals by right his conviction for first-degree murder, MCL 750.316; MSA 28.548, following a bench trial.
+The first issue raised is whether the trial court committed error requiring reversal by calling a forensic center psychologist as the court’s own expert witness, pursuant to MRE 706, after ruling that the prosecution was precluded from calling that same expert witness for failure timely to file a notice of rebuttal.
+The purpose of the notice requirement is to prevent surprise at trial. See, e.g., People v Terry Alexander, 82 Mich App 621, 627; 267 NW2d 466 (1978), lv den 406 Mich 936 (1979). Failure to comply with the statutory notice requirements requires exclusion of the proffered evidence. Id. However, MCL 768.20a(7); MSA 28.1043(1)(7) has been interpreted as giving the trial court discretion to allow a prosecutor to file a late notice of a rebuttal witness. People v Fisher, 87 Mich App 350, 355; 274 NW2d 788 (1978). In the instant case, the trial court apparently was unaware that it had this discretion and held that because the prosecutor did not file his notice of a rebuttal witness until three days before trial the prosecutor was barred from offering that witness.
+Subsequent to the testimony of defendant’s expert, the trial court called the forensic psychologist as its own expert witness, pursuant to MRE 706. Defendant asserts that this constituted error requiring reversal. We disagree, based on our holding in Fisher, supra, 354-356. In this regard, it should be noted that, in the instant case, as in Fisher, the forensic psychologist’s report was made available before trial to both defense counsel and the prosecutor and that the trial court did not receive a copy of that report. Also, here, as in Fisher, defendant did not move for an adjournment to get additional expert testimony.
+The second issue raised is whether the trial court erred in denying defendant’s motion to suppress evidence obtained from a search of defendant’s van, where the police conducted a visual search of defendant’s van with the aid of a flashlight.
+Defendant does not challenge the lower court’s finding that the police had probable cause to stop defendant’s van shortly after the shooting and to arrest him based upon a description of the van and driver given by witnesses. Rather, defendant asserts that evidence of the rifle found in defendant’s van should have been suppressed because it was found as a result of a probing, accusatory search with a flashlight.
+The fact that the police officers used a flashlight to look into defendant’s van does not preclude application of the plain view doctrine. See People v Kuntze, 371 Mich 419; 124 NW2d 269 (1963), People v Goodman, 58 Mich App 220; 227 NW2d 261 (1975), People v Whalen, 390 Mich 672; 213 NW2d 116 (1973). However, before the plain view doctrine can be invoked, it has to be shown that the police officer was in a place he had a right to be. Whalen, supra, 679-680. This requirement has been met in the instant case in that the police had probable cause to stop defendant’s van and arrest him based upon the description of the van and its driver given to the police by witnesses. See, e.g., Whalen, supra, and Kuntze, supra. Therefore, the plain view doctrine applies to this case, and no "search” for Fourth Amendment purposes took place.
+The third issue raised by defendant is whether the trial court erred in finding that the evidence established beyond a reasonable doubt that defendant’s actions caused the victim’s death.
+A defendant’s conviction may be sustained only "where there is a reasonable and direct causal connection between the injury and death”. People v Flenon, 42 Mich App 457, 460; 202 NW2d 471 (1972), lv den 388 Mich 801 (1972), People v Geiger, 10 Mich App 339, 345-346; 159 NW2d 383 (1968), lv den 381 Mich 753 (1968).
+During the trial, defendant argued that grossly erroneous medical treatment of the victim was an intervening cause of death and that, therefore, defendant’s conviction must be reversed.
+Intervening medical error is not available as a defense to a defendant who has inflicted a mortal wound upon a victim. People v Vanderford, 77 Mich App 370, 373; 258 NW2d 502 (1977), People v Cook, 39 Mich 236, 240; 33 Am Rep 380 (1878), Flenon, supra. Furthermore, where death results from a nonmortal wound, a defendant will be held responsible unless the victim’s death was occasioned not by the wound but by grossly erroneous medical treatment. Flenon, supra, 461.
+In the instant case the only testimony offered by defendant that the victim’s death was due to grossly erroneous medical treatment was the testimony of Dr. Robey. Dr. Robey premised his conclusion of grossly erroneous medical treatment on the basis that there was more than one physician in the hospital emergency room working on the victim. However, in its findings of fact, the trial court clearly found that there was only one doctor treating the victim in the hospital emergency room.
+Since Dr. Robey’s opinion of grossly erroneous medical treatment was based on an assumption that there was more than one doctor in attendance at the hospital, we find that the defendant did not put forth any evidence of grossly erroneous medical treatment.
+Contrary to defendant’s contentions on appeal, it is clear from the trial court’s written verdict that it did not rely solely on the medical examiner’s hearsay testimony as to the cause of the victim’s death but reviewed the entire record, including the testimony of witnesses present at the scene, Dr. Robey’s testimony, the testimony of the paramedic ambulance driver, and various medical records. Based on the foregoing and our review of the record, we find that the trial court did not err in finding that the prosecutor proved that there was a reasonable and direct causal connection between the victim’s injury and his death.
+The final issue raised by defendant is whether the trial court committed error requiring reversal in denying defendant’s motion to compel indorsement of the hospital, emergency squad, and ambulance personnel as res gestae witnesses. While a strong argument could be made for classifying medical personnel and emergency squad personnel who treat the victim of a violent crime as res gestae witnesses under Michigan’s broad interpretation of that term, see People v Harrison, 44 Mich App 578; 205 NW2d 900 (1973), we do not find that such a holding is warranted in the instant case.
+Affirmed.
