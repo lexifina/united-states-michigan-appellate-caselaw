@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "75604"
+decided: "1984-11-19"
+citations: ["139 Mich. App. 205"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P.J., and R. B. Burns and R. M. Maher, JJ."]
+parties: ["PEOPLE v WILSON"]
+source_url: "https://static.case.law/mich-app/139/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2271297
+cites_cases: ["102 Mich App 573", "113 Mich App 486", "127 Mich App 749", "129 Mich App 678", "221 NW2d 569", "238 NW2d 148", "302 NW2d 238", "317 NW2d 331", "339 NW2d 540", "341 NW2d 867", "372 US 29", "392 Mich 511", "396 Mich 16", "408 US 104", "408 US 108"]
+---
+
+# People v. Wilson
+
+## Majority (R. B. Burns, J.)
+
+R. B. Burns, J.
+On February 15, 1983, at approximately 9 a.m., defendants operated snowmobiles eastbound on the south shoulder of M-94 in Alger County, traveling single file in the direction of the flow of traffic. For so doing, they were issued citations for violating MCL 257.1512; MSA 9.3200(12). Defendants pled not guilty in letters to the district court. They claimed that there were obstructions within the right of way off the shoulder and they were traveling on the extreme right of the open portion of the right of way. The district court treated the letters as motions to dismiss.
+At the motion hearing, Trooper Francis R. Weber testified that he observed defendants traveling on the shoulder of the road for approximately one-eighth of a mile and that there were no obstructions in the right of way. The court adopted the testimony of Weber concerning the conditions of the right of way, but found the statute constitutionally infirm, and granted defendants’ motions to dismiss. The court found that from a reading of the statute one could not determine the permissible areas of snowmobile operation and held the statute impermissibly vague. The circuit court affirmed in a written opinion. This Court granted the prosecutor leave to appeal by order dated May 17, 1984. We reverse.
+The issue presented is whether MCL 257.1512; MSA 9.3200(12) is unconstitutionally vague. This statute provides for the registration and regulation of snowmobiles and states in pertinent part:
+"A person shall not operate a snowmobile upon a public highway, land used as an airport or street, or on a public or private parking lot not specifically designated for the use of snowmobiles except under the following conditions and circumstances:
+"(a) A snowmobile may be operated on the right of way of a public highway, except a limited access highway, if it is operated at the extreme right of the open portion of the right of way and with the flow of traffic on the highway. Snowmobiles operated on the right of way of a public highway, as herein provided, shall travel single file and shall not be operated abreast except when overtaking and passing another snowmobile.
+"(b) A snowmobile may be operated on the roadway or shoulder when necessary to cross a bridge or culvert if the snowmobile is brought to a complete stop before entering onto the roadway or shoulder and the driver yields the right of way to an approaching vehicle on the highway.”
+The relevant terminology is defined in MCL 257.1501; MSA 9.3200(1):
+"(g) 'Highway or street’ means the entire width between the boundary line of every way publicly maintained if any part thereof is open to the use of the public for purpose of vehicular travel.
+"(h) 'Roadway’ means that portion of a highway or street improved, designated, or ordinarily used for vehicular travel. If a highway or street includes 2 or more separate roadways the terms roadway refers to any such roadway separately, but not to all such roadways collectively.
+"(j) 'Right of way’ means that portion of a highway or street less the roadway and any shoulder.
+“(k) 'Shoulder’ means that portion of a highway or street on either side of the roadway which is normally snowplowed for the safety and convenience of vehicular traffic.”
+The prosecutor’s position is that, since the statutory definition of "right of way” specifically excludes the roadway and shoulder, a snowmobile cannot be operated on the shoulder unless the conditions described in subsection (b) of MCL 257.1512; MSA 9.3200(12) are met. That is, it is permissible to ride on the shoulder of the highway only when necessary to cross a bridge or culvert.
+Subsection (a) of MCL 257.1512; MSA 9.3200(12) permits operation of a snowmobile on the "open portion of the right of way”. The lower courts found that the use of the word "open” in that phrase rendered the statute impermissibly vague and adopted the position that "open” meant "snowplowed for purposes of vehicular trafile”.
+Due process requires that a person know in advance what questionable behavior is prohibited. Grayned v City of Rockford, 408 US 104; 92 S Ct 2294; 33 L Ed 2d 222 (1972); People v Bruce, 102 Mich App 573, 577; 302 NW2d 238 (1980). A statute may be challenged for vagueness if it does not provide fair notice of the proscribed conduct, if it confers on a trier of fact unstructured and unlimited discretion to determine whether an offense has been committed, or if its coverage impinges on First Amendment freedoms, Grayned, supra, 408 US 108-109; People v Howell, 396 Mich 16, 20; 238 NW2d 148 (1976); People v Gagnon, 129 Mich App 678, 683; 341 NW2d 867 (1983). Here, the court determined that the statute in question did not provide fair notice of the conduct proscribed and that what the court perceived as an unnatural statutory definition of the term "right of way” was a trap for the unwary.
+Constitutional challenges on the basis of vagueness, other than those based on First Amendment rights, must be examined in light of the particular facts of the case at hand. United States v National Dairy Products Corp, 372 US 29; 83 S Ct 594; 9 L Ed 2d 561 (1963); People v Howell, supra. As applied to the facts of this case, the statute was not impermissibly vague. Here, the district court, not defendants, raised the constitutional issue. Defendants were not confused about where they were permitted to operate their snowmobiles.
+Generally, a court will not inquire into the constitutionality of a law on its own motion; only those constitutional questions which are duly raised and insisted on, and adequately argued, will be considered. 6 Michigan Law & Practice, Constitutional Law, §84, p 89. Here, the district court sua sponte raised the issue because it had previously held the statute constitutionally infirm in a similar case. Although defendants have not submitted a reply brief, the issue is adequately argued in the prosecutor’s brief and the record is sufficiently developed for this Court’s determination.
+In People v O’Donnell, 127 Mich App 749, 757; 339 NW2d 540 (1983), the Court stated:
+"It is well established that legislative enactments are cloaked with a presumption of constitutionality. Where a statutory provision would otherwise be unconstitutional, it is the Court’s duty to give the statute a narrowing construction so as to render it constitutional if such a construction is possible without doing violence to the Legislature’s intent in enacting the statute. People v McQuillan, 392 Mich 511, 536; 221 NW2d 569 (1974); Nunn v George A Kantrick Co, Inc, 113 Mich App 486, 491; 317 NW2d 331 (1982).”
+The lower courts erred in failing to read the statute in its entirety, and instead, narrowly focused on the term "open portion of the right of way”. The term "open” which the courts found vague must be read in conjunction with the statutory definitions of "right of way” and "shoulder”. As "right of way” is defined in the statute as that portion of a highway less the roadway and shoulder, the "open portion of the right of way” necessarily refers to that area outside the roadway and shoulder. The courts also failed to consider the specific restriction in subsection (b) of MCL 257.1512; MSA 9.3200(12) which provides that a snowmobile may be operated on the shoulder only when necessary to cross a bridge or culvert. A plain reading of the statute in its entirety reveals no vagueness. An ordinary person can sufficiently understand the statute.
+Reversed.
