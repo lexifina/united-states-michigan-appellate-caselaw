@@ -1,0 +1,49 @@
+---
+court: "Michigan Court of Appeals"
+docket: "18872"
+decided: "1975-02-11"
+citations: ["58 Mich. App. 466"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P. J., and N. J. Kaufman and O’Hara, JJ."]
+parties: ["PEOPLE v BOOTH"]
+source_url: "https://static.case.law/mich-app/58/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2127352
+cites_cases: ["107 F2d 292", "131 SE2d 321", "133 Mich 520", "169 NW2d 483", "17 Mich App 277", "187 NW2d 211", "197 NW2d 858", "198 NW2d 740", "202 NW2d 493", "212 NW2d 211", "213 NW2d 754", "213 NW2d 853", "215 NW2d 166", "220 NW2d 39", "259 NC 619", "31 NW 603", "385 Mich 30", "39 Mich App 458", "390 Mich 278", "391 Mich 175", "40 Mich App 161", "42 Mich App 608", "50 Mich App 604", "50 Mich App 763", "53 Mich App 670", "65 Mich 10", "71 App DC 111", "79 NE2d 787", "81 Ohio App 375", "95 NW 541"]
+---
+
+# People v. Booth
+
+## Majority (Allen, P. J.)
+
+Allen, P. J.
+On August 9, 1973, a jury found defendant guilty of assault with intent to commit rape. MCLA 750.85; MSA 28.280. Defendant received a sentence of 2 to 10 years in prison, with credit for 27 days spent in confinement prior to sentencing, and has exercised his right to appeal.
+Defendant claims that the evidence was insufficient to support a conviction of assault with intent to commit rape. It is also claimed that the trial court committed reversible error by asking the victim’s 7-year-old son whether he went to Sunday School and believed in God, contrary to MCLA 600.1436; MSA 27A.1436. We affirm the trial court.
+When faced with the assertion that the evidence was insufficient to support one’s conviction, the Court must examine the record in a light most favorable to the prosecution, and must determine whether sufficient proofs were presented which, if believed by the fact finder, could support a finding of guilty beyond a reasonable doubt. The Court must also defer to the fact finder’s opportunity to observe and evaluate the demeanor of the witnesses and their credibility. People v Brown, 42 Mich App 608, 614; 202 NW2d 493 (1972). See also People v Barry, 53 Mich App 670, 676; 220 NW2d 39 (1974).
+Having examined the evidence in a light most favorable to the prosecution, we find that the evidence was sufficient to support defendant’s conviction for assault with intent to commit rape. The complainant testified that on the night, of September 12, 1972, shortly after 11 p.m., she heard a car door slam, looked out her bedroom window, and saw defendant looking through the window at her. Defendant then kicked the front door open, and entered complainant’s home. She was wearing a long flowery gown at this time. Complainant ran, grabbed her sleeping son from the couch, broke a window and screamed for help.
+Defendant then grabbed his victim under the arms, slammed her against a bedroom wall, and threw her to the floor. He began to beat her, and pinned her shoulders to the floor with his knees. She testified that defendant began "feeling around on my body”, and repeatedly struck her in the face. She also testified that defendant bit her on an arm.
+Complainant testified that defendant was feeling her "privates”, and said to her, "shut up, you white bitch” and "baby, you sure feel good”. Defendant fondled the victim’s breasts and vagina, and continued his attack until Gene Barker, a visitor at a neighbor’s home, entered the front door. Barker, having heard screaming and loud noises, grabbed a pistol from his girlfriend, who had preceded him out the door, and ran into the victim’s home. He met defendánt in the hallway, and shot him six times.
+The "gist” of assault with intent to commit rape is intent, and this element may be. inferred from the facts and circumstances present. People v Phillips, 385 Mich 30, 36-37; 187 NW2d 211 (1971). This situation is similar to that in People v Toutant, 133 Mich 520, 521; 95 NW 541 (1903), and People v Szczytko, 40 Mich App 161, 169-170; 198 NW2d 740 (1972), affirmed, 390 Mich 278; 212 NW2d 211 (1973). The victim’s testimony was sufficient to establish defendant’s guilt, and defendant’s main argument that because he had not unzipped or removed his trousers or attempted to lie on top of complainant he had no specific intent to commit rape is without merit. See People v Grace, 50 Mich App 604, 608; 213 NW2d 853 (1973), and People v Bell Williams, 50 Mich App 763, 769; 213 NW2d 754 (1973). Certainly, there was sufficient evidence to entitle the jury to find that but for the timely intervention of Gene Barker, rape would have occurred.
+Allen Grabowski, the victim’s 7-year-old son, was called to testify. Pursuant to MCLA 600.2163; MSA 27A.2163, the following exchange took place between the trial judge and the witness:
+"The Court: You know the difference between a lie and the truth, what it is to tell a lie?
+"Mr. Grabowski: Yes.
+"The Court: Do you go to Sunday School?
+"Mr. Grabowski: Yes.
+"The Court: You know about God, don’t you?
+"(Witness nodded head.)
+"The Court: You know if you take this witness stand questions are going to be asked you, and they want you to tell the truth. You know what that means, don’t you?
+"Mr. Grabowski: Yes.
+"The Court: And you know that if you don’t tell the truth we may not know it, but you know that God will know it, don’t you?
+"Mr. Grabowski: Yes, sir.”
+The trial judge found the witness to be sufficiently qualified to know the difference between truth and falsehood, and said that the witness did not have to be sworn. Defense counsel failed to voice an objection to this proceeding, and did not dispute the competency of the witness. The witness’s competency to testify was not challenged on appeal. Rather, it is argued that the above questions violate the provisions of MCLA 600.1436; MSA 27A.1436, Const 1963, art 1, § 18, and People v Hall, 391 Mich 175; 215 NW2d 166 (1974).
+This case is one of first impression in our jurisdiction. Our research has failed to unearth a case from another state strictly on point, although McCurdy v Ashley, 259 NC 619, 622; 131 SE2d 321, 323 (1963), found that the trial court did not abuse its discretion in finding a 6-year-old witness competent to testify where that witness stated during the voir dire that his mother had taught him to say his prayers, he repeated part of his prayers, said that "bad boys go down in the ground to the 'boogerman’ ”, that Jesus did not like boys who tell lies, and that he was a good boy, told the truth and went to church on Sundays.
+In a related situation in which the instant problem was not specifically involved, Beausoliel v United States, 71 App DC 111; 107 F2d 292, 293-294 (1939), refused to disturb the discretion of the trial court as to the competency of a 6-year-old witness who said that although she did not believe in hell or the devil and that untruthful people will be punished after death, said that she attended Sunday School and believed that people who lied would receive some sort of punishment. Beausoliel referred to a rule in 1 Wigmore, Evidence (2d ed), § 506, that "[tjhere must be a sense of moral responsibility, — a consciousness of the duty to speak the truth” — on the part of the child witness. 107 F2d 292, 294. The Michigan Supreme Court has noted that it is necessary for the trial court "to be satisfied that the child will be disposed to tell the truth under some sense of obligation.” Hughes v Detroit, G H & M R Co, 65 Mich 10, 16; 31 NW 603 (1887). That requirement is codified in MCLA 600.2163; MSA 27A.2163.
+Hall, supra, upon which defendant relies, is distinguishable. In that case, defendant was asked on cross-examination "whether or not you [defendant] believe in the Supreme Being” and whether or not he would tell a falsehood to avoid a conviction. 391 Mich 175, 180. It is clear that the defendant or a witness cannot be cross-examined as to his belief in a Supreme Being. People v Brocato, 17 Mich App 277, 298; 169 NW2d 483 (1969), and People v Frank Williams, 39 Mich App 458, 461-462; 197 NW2d 858 (1972). Our case involves the trial court complying with its statutorily prescribed duty to determine whether the witness, under 10 years of age, had the intelligence and "sense of obligation to tell the truth * * * ”. MCLA 600.2163; MSA 27A.2163. The trial court’s inquiry was not directed to whether the witness believed in God or a Supreme Being. Rather it was directed at the basis of the witness’s sense of obligation to tell the truth. The judge was merely exploring the framework within which the witness felt bound to tell the truth, and , this proceeding did not come within the prohibition decided in Hall, supra.
+In Hill v Skinner, 81 Ohio App 375, 377; 79 NE2d 787, 789 (1947), a 4-year old witness said that God would not love him if he failed to tell the truth. The court stated that the nature of the witness’s obligation to tell the truth was:
+"of little importance if he shows that he will fulfill the obligation to speak truthfully as a duty which he owes a Deity or something held in reverence or regard, and if he has the intellectual capacity to communicate his observations and experiences.”
+Hill has been noted as an illustration of the "more modern approach”, McCormick, Evidence (2d ed), § 62, p 140, fn 7, and we find that the trial court properly questioned Allen Grabowski to determine his sense of obligation to tell the truth and did not commit reversible error.
+Affirmed.
+"No person shall be rendered incompetent to be a witness on account of his opinions on matters of religious belief.” Const 1963, art 1, § 18-
+"No person may be deemed incompetent as a witness, in any court, matter or proceeding, on account of his opinions on the subject of religion. No witness may be questioned in relation to his opinions on religion, either before or after he is sworn.” MCLA 600.1436; MSA 27A.1436.
