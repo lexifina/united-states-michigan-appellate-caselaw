@@ -1,0 +1,61 @@
+---
+court: "Michigan Court of Appeals"
+docket: "11632"
+decided: "1972-02-25"
+citations: ["38 Mich. App. 727"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P. J., and Levin and T. M. Burns, JJ.", "T. M. Burns, J., concurred."]
+parties: ["DOVER & CO v UNITED PACIFIC INSURANCE CO"]
+source_url: "https://static.case.law/mich-app/38/cases/0727-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2087494
+cites_cases: ["11 Mich App 662", "19 Mich App 688", "1905 PA 187", "1963 PA 213", "30 Mich App 503", "307 Mich 273", "32 Mich App 693", "36 Mich App 264", "36 Mich App 579", "360 Mich 546", "372 Mich 563", "381 Mich 572", "384 Mich 165"]
+---
+
+# Dover & Co. v. United Pacific Insurance
+
+## Majority (R. B. Burns, P. J.)
+
+R. B. Burns, P. J.
+Plaintiff, a subcontractor, agreed to furnish labor and materials to the principal contractor in completing a construction contract with the State Highway Department. In accordance with state law the principal contractor obtained a surety bond from the defendant.
+Plaintiff brought this suit against defendant-surety to recover the unpaid balance on the contract between plaintiff and its defaulting principal contractor. One of the controversies at the trial level concerned the effect of plaintiff’s failure to serve notice upon the State Highway Department within a statutorily-required 60-day period.
+MCLA § 570.102 (Stat Ann 1970 Eev § 26.322) provides:
+“In the case of a subcontractor, he shall within 60 days after furnishing the last material or supplies or performing the last work covered by his subcontract, serve a written notice in duplicate upon the board of officers or agents contracting on behalf of the state * * * , that he is a subcontractor for the doing of some part of such work * * * and that he relies upon the security of the bond by this act required to be given by the principal contractor, and the said board of officers or agents shall within 10 days thereafter furnish a copy of such notice to the sureties for the principal contractor.”
+Nevertheless plaintiff’s motion for summary judgment was granted on the following grounds set out by the trial judge:
+“Defendant, a paid surety had timely notice of plaintiff’s claim and * * * defendant would suffer no injury or damage if held liable to the plaintiff because of the fact that the State of Michigan has retained funds under the prime contract with the Trapp Construction Company [the principal contractor] which would indemnify the defendant from any injury or loss.” (Emphasis supplied.)
+Plaintiff’s evidence as to timely notice consisted of two letters. A letter dated August 23,1970 from plaintiff to defendant recited that in August of 1969 plaintiff had last given materials and or services on the contract. The second letter, dated November 20, 1969, and from the State Highway Department, notified plaintiff that it had received plaintiff’s claim and had forwarded a copy to the defendant.
+The Court in People, for use of Wheeling Corrugating Co v W L Thon Co, 307 Mich 273, 277 (1943) made compliance with the statutory notice provision “a condition precedent to recovery on the bond”.
+Reversed and remanded for entry of judgment in accordance with this opinion.
+T. M. Burns, J., concurred.
+MCLA § 570.101 (Stat Ann 1970 Eev § 26.321).
+
+## Concurrence (Levin, J.)
+
+Levin, J.
+(concurring). The plaintiff conceded in its answer to the interrogatories put by the defendant surety that it had not served notice of claim on the Michigan State Highway Commission as required by 1905 PA 187; MCLA 570.102; MSA 26.322.
+Statutes requiring notice of claim serve a different purpose than statutes of limitations. Statutes of limitations establish an absolute time limit for the commencement of litigation. Statutes requiring notice of claim are not aimed at forestalling litigation altogether, but mainly seek to provide a governmental authority with early warning so that it can assemble information in support of a defense on the merits whilé the evidentiary trail is still hot.
+In recent years there has been a clear tendency in the cases to enforce notice of claim statutes less strictly than in former times. It has come to be recognized that it frequently would be excessive to treat noncompliance with a notice requirement as being as irremediable as a failure to commence an action within the time period established in a statute of limitation.
+In Meredith v City of Melvindale, 381 Mich 572 (1969), the Michigan Supreme Court ruled that the plaintiff’s substantial compliance with a notice requirement in Melvindale’s charter sufficed.
+In Stacey v Sankovich, 19 Mich App 688, 697 (1969), we held that the plaintiff had adequately complied with the provision in the Motor Vehicle Accident Claims Act requiring that notice of intent to claim against the accident claims fund be served on the Secretary of . State within one year (now six months) of the date that the cause of action accrues, and said:
+“The notice requirement was not intended to be jurisdictional.”
+In Hussey v Muskegon Heights, 36 Mich App 264 (1971), we held that there had been substantial compliance with a statutory provision requiring as a condition to recovery for injury sustained by reason of a defective highway that notice of injury and defect be served on the governmental agency within 60 days. We said, p 270:
+“We are satisfied that as the law now stands, deficiencies in a notice of injury and defect are not of jurisdictional import, and an injured person may not be denied his day in court on that account absent a showing by the governmental agency that it has been thereby prejudiced.”
+In Grubaugh v St. Johns, 384 Mich 165 (1970), the Michigan Supreme Court held that the 60-day notice requirement of the general highway statute violated the Due Process Clause when it was sought to apply that notice requirement to a plaintiff rendered mentally or physically incapacitated by the alleged tortious act of the governmental agency. In Corona v Lenawee County Road Commissioners, 36 Mich App 579 (1971), that notice requirement was, on the authority of Grubaugh, held violative of the due process rights of the administratrices of the estates of two minor persons killed in an automobile accident; timely notice of claim had been given by an insurance company, but no notice had been given in behalf of the plaintiff administratrices who were not appointed until after the expiration of the 60-day period. Our Court commented that the defendant road commission had not claimed, nor could it claim, any prejudice because of the defect relied on: the failure of the plaintiffs themselves to have given timely notice.
+This evolving principle, that failure to comply with a notice requirement is not jurisdictional and that such a failure should not deprive a citizen of his day in court except possibly where the governmental agency can show that it has been thereby prejudiced —developed in cases where personal injuries were suffered, and (with the exception of Grubaugh) a timely but incomplete notice was given — should, in my opinion, be extended to nontort cases and to cases, as here, where no notice at all was timely given.
+There is no claim on the part of the surety in this case that it was prejudiced by the short delay in the giving of the statutorily-required notice. Unless the surety can show that it was prejudiced by the delay, the plaintiff should not be deprived on that account of the substantial sum of money which it earned by performance of its contract with the general contractor for the installation of eight overhead doors in the maintenance garage under construction for the State Highway Commission.
+I concur rather than dissent because I am bound by the Michigan Supreme Court’s cbnstruction of the statute in People for use of Wheeling Corrugating Co v W L Thon Co, 307 Mich 273, 275, 277 (1943). In Thon there was a three-month delay in giving the notice. It was “conceded that the surety company was not damaged by failure to give timely notice in accordance with the statutory provisions”. The Supreme Court, nevertheless, declared that the statutory language “is mandatory, and, in our opinion, creates a condition precedent to recovery on (he bond”.
+Although there is some indication in People for use of Chasteen v Michigan Surety Co, 360 Mich 546 (1960), that the Supreme Court will apply this notice requirement with some flexibility, its most recent pronouncement on the subject reaffirms its adherence to its earlier construction of the statute. See People ex rel F Yeager Bridge & Culvert Co v Cooke Contracting Co, 372 Mich 563 (1964).
+We are still in the early stages of the current development of notice of claim law. It is not clear how far the Supreme' Court is willing to go in departing from former precedent. I, therefore, conclude that I could not properly declare that 1 “confidently believe” that if this case were now being decided by the Supreme Court it would overrule Thom and, although no notice at all was given within the 60-day period, allow the plaintiff to recover because the surety is unable to show that it was prejudiced by the failure to give notice.
+The law has a tendency to grow in separate pigeonholes, often without recognition that from a functional point of view there is no justification for differentiation in treatment. There is no sound reason why a deficiency in a notice of claim under a tort claims act should be treated differently than a deficiency in a notice of claim under a public contractor’s act. In this connection, it is noteworthy that the issue of whether the surety or governmental agency was prejudiced by such a deficiency will ordinarily be more susceptible of proof in public contractor cases than in tort cases.
+Now that the Legislature has eliminated altogether any requirement of notice of claim by subcontractors under public construction, alteration, or repair contracts except construction and maintenance contracts of the State Highway Commission — thereby evincing, at the very least, legislative recognition that such notices serve a less important purpose than they once did — it would be appropriate, and especially so in the light of the developments in the tort eases, to reconsider the holding in the Thom, case.
+MCLA 257.1118; MSA 9.2818.
+Stacey has been followed and applied in subsequent decisions of our Court. See Curtis v Biermacher, 30 Mich App 503 (1971); Mullas v Secretary of State, 32 Mich App 693 (1971).
+MCLA 242.8; MSA 9.598, repealed and superseded by MCLA 691.1401; MSA 3.996(101).
+Under the statute the subcontractor is required to serve two copies of the notice of claim on the governmental agency. The governmental agency is required to furnish a copy to the surety of the principal contractor within ten days of its receipt. MCLA 570.102; MSA 26.322. Thus, the time period established is a total of 70 days.
+It appears that the State Highway Commission learned of the plaintiff’s claim on or about November 20, 1969, and transmitted to the defendant surety a copy of a letter submitting the claim. It further appears that the last work was performed by the plaintiff some time in August, 1969.
+Thus, the elapsed time between completion of the work and the receipt of notice by the surety was somewhere between 80 and 112 days, as against the statutory maximum of 70 days.
+See Abendschain v Farrell, 11 Mich App 662, 681 (1968) (Levin, J., dissenting).
+1963 PA 213; MCLA 129.201, 129.207, 129.211; MSA 5.2321(1), 5.2321(7), 5.2321(11).
+Section 11 of 1963 PA 213; MCLA 129.211; MSA 5.2321(11) provides that the provisions of 1905 PA 187 “shall not apply to contracts for public buildings or other public works except construction and maintenance contracts of the state highway commissioner”. Section 1 of the 1963 act (MCLA 129.201; MSA 5.2321[1]) provides that it applies to any contract exceeding $5,000 for the construction, alteration, or repair of any public building or public work or improvement of the state or a county, city, village, township, school district, public educational institution, other political subdivision,, public authority or public agency, “except the state highway department”.
