@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "57274"
+decided: "1982-08-24"
+citations: ["118 Mich. App. 712"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: V. J. Brennan, P.J., and D. C. Riley and V. R. Pay ant, JJ."]
+parties: ["BROWN v PRUDENTIAL PROPERTY AND CASUALTY COMPANY"]
+source_url: "https://static.case.law/mich-app/118/cases/0712-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2237391
+cites_cases: ["274 NW2d 373", "284 NW2d 463", "404 Mich 477", "407 Mich 175", "60 ALR3d 651"]
+---
+
+# Brown v. Prudential Property & Casualty Co.
+
+## Majority (V. R. Payant, J.)
+
+V. R. Payant, J.
+Plaintiff appeals by leave granted from an order for summary judgment in favor of defendant Prudential Property and Casualty Company (Prudential). GCR 1963, 117.2(3). The matter is before this Court on a certified concise statement of facts.
+Plaintiff seeks personal injury protection (PIP) insurance benefits under the Michigan no-fault insurance act (MCL 500.3101 et seq.; MSA 24.13101 et seq.) for medical expenses and related economic claims arising from a motorcycle-truck collision on June 27, 1977. As the owner and operator of the motorcycle, plaintiff did not carry motor vehicle insurance. He originally sued Preferred Risk Mutual Insurance Company (Preferred). Preferred had issued a policy of insurance to the plaintiff’s father, James R. Brown, Sr., with whom plaintiff claims he was domiciled at the time of the accident.
+Preferred denied liability, maintaining that plaintiff was not a resident of his father’s household but was living in another house owned by his father at a completely different address in Pontiac, Michigan. Plaintiff’s motion for declaratory judgment against Preferred was denied by the trial judge on the basis that a question of fact existed as to the plaintiffs residence on the date of the accident.
+Thereafter, by stipulation between the plaintiff and Preferred, plaintiff amended his complaint and added Prudential, the insurer of the truck involved in the accident, as a second defendant. Prudential submitted certain requests for admissions upon plaintiff which requested, among other things, that plaintiff admit "[t]hat on June 27, 1977, plaintiff was a resident of the household of James R. Brown, Sr., at 481 Cameron in the City of Pontiac”. Plaintiff never answered the request and therefore it was deemed admitted pursuant to GCR 1963, 312.1.
+Plaintiff then filed a motion for summary judgment against Preferred, or, in the alternative, a motion for partial summary judgment as to both Preferred and Prudential, requiring each to pay 50 percent of the benefits recoverable. Prudential responded with a motion for summary judgment, claiming there was no dispute of the material fact that plaintiff was a resident of his father’s home on June 27, 1977. Prudential relied on plaintiff’s failure to respond to the requests for admissions and his deposition testimony and affidavits in which he claimed that he was domiciled in his father’s house on the date of the accident. Prudential claimed this was conclusive as to the residency question.
+After a hearing held on both motions, the trial court denied plaintiff’s motion and granted summary judgment in favor of Prudential. Plaintiff then moved for summary judgment against Preferred. This motion was also denied and it is from these determinations that plaintiff appeals.
+Plaintiff might be excused from feeling that the scenario here resembles that of Heller’s Catch 22. His failure to deny that he was domiciled in his father’s home, indeed his insistence that he was so domiciled, is deemed conclusive as to Prudential, excusing it from responsibility. Yet his admission of such domicile is not considered conclusive as to Preferred, which is apparently entitled to a jury determination on the issue of domicile.
+The prospective outcome is fearful. A person, apparently entitled to PIP benefits from some source, faces a jury which may not be convinced that he is domiciled with his father, thereby exempting his father’s insurer, Preferred. The other source of recovery, the insurer for the truck, Prudential, has already been exempted. The statutory scheme for prompt payment of personal injury benefits would seem thwarted.
+Such an outcome overlooks the contingency which triggers Prudential’s liability. Prudential becomes liable only if plaintiff is not covered by his own insurance, or the insurance of someone with whom he is domiciled. MCL 500.3114, 500.3115(1); MSA 24.13114, 24.13115(1), Underhill v Safeco Ins Co, 407 Mich 175, 192; 284 NW2d 463 (1979).
+Prudential’s potential responsibility to the plaintiff is not contingent on whether plaintiff can prove he resides with his father. Instead, it will become responsible only if Preferred is excused from liability.
+The trial judge was correct in denying plaintiff’s motions for declaratory or summary judgment that Preferred was the liable party. While plaintiff’s claim that he was domiciled in his father’s home at the time in question constitutes important evidence, such claims are not conclusive. Other factors besides a person’s subjective or declared intent as to domicile must be considered. Workman v Detroit Automobile Inter-Ins Exchange, 404 Mich 477, 496-497; 274 NW2d 373 (1979).
+The trial judge, however, erred in granting summary judgment to Prudential. Since Prudential’s liability is contingent on what is found as to Preferred’s liability, if Preferred prevails, plain-, tiffs protestations or admissions as to his residency will have no relevance and Prudential becomes responsible.
+Plaintiff suggests error in the trial judge’s refusal to order each insurer to pay 50 percent of the benefits recoverable pending a resolution as to which insurer is responsible. Such an idea touches a responsive chord, particularly when the injuries appear substantial and long delays have occurred. Wisely, however, the trial judge declined to en-graft provisions on the no-fault statute which the Legislature has not enacted.
+The Legislature has acted in a somewhat analogous situation, requiring compensation during a dispute and appeals under the Worker’s Disability Compensation Act. See MCL 418.862; MSA 17.237(862). No similar provisions, however, are found in the no-fault act.
+Without such legislative enactment, the courts cannot order either or both insurance companies to pay benefits on general notions of equity. Should plaintiff ultimately prevail, he will be permitted to recover interest on any overdue benefits under MCL 500.3142; MSA 24.13142. If it should be determined that the insurer ultimately found responsible has unreasonably refused to pay the claim, plaintiff might be awarded attorneys fees under MCL 500.3148; MSA 24.13148.
+Order for summary judgment is reversed and remanded for trial.
+In Workman, the Supreme Court set forth the factors to be weighed by the trial court in determining domicile, of which no one factor is, in itsélf, determinative: "(1) the subjective or declared intent of the person of remaining, either permanently or for an indefinite or unlimited length of time, in the place he contends is his 'domicile’ or 'household’; (2) the formality or informality of the relationship between the person and the members of the household; (3) whether the place where the person lives is in the same house, within the same curtilage or upon the same premises; (4) the existence of another place of lodging by the person alleging 'residence’ or 'domicile’ in the household.” (Citations omitted.)
