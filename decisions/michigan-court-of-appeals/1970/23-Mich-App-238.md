@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "6,187"
+decided: "1970-04-24"
+citations: ["23 Mich. App. 238"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P. J., and Fitzgerald and Van Domelen, JJ.", "All concurred."]
+parties: ["PEOPLE v. TORNS"]
+source_url: "https://static.case.law/mich-app/23/cases/0238-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2076220
+cites_cases: ["13 Mich App 362", "17 Mich App 205", "315 Mich 76"]
+---
+
+# People v. Torns
+
+## Majority (Fitzgerald, J.)
+
+Fitzgerald, J.
+On July 24, 1967, defendants Samuel Tonis and Ernest Brazle were arrested and charged with murder in the first degree contrary to MOLA §750.316 (Stat Ann 1954 Rev § 28.548). The facts which led to their arrest and subsequent conviction are as follows:
+On July 23, 1967, defendants were involved in an altercation with Edward Lewis and Ernest McCombs at a house party in the city of Flint. Defendants had been with a group of people across the street and a general melee seems to have developed between the two groups. Lewis and McCombs left the party together to go to the home of McCombs’ sister, Mrs. Lois Willingham, and defendants followed. Along the route, Torns and Brazle obtained two rifles as well as ammunition. When they arrived at their destination, a shot was fired from the Willingham home. At this point, defendants fired into the home, killing Mrs. Lois Willingham.
+Following a preliminary examination, defendants were bound over for trial on the charge of murder in the first degree. On September 5, 1967, they were arraigned on the charge, the information was read and defendants were informed of their rights regarding their pleas. They stood mute and pleas of not guilty were entered in their behalf.
+On October 18, 1967, defendants moved to quash the information charging that the magistrate abused his discretion at the preliminary examination in binding them over for trial. On October 31, 1967, the motion was denied, the trial court ruling that there was sufficient evidence to support the charge.
+Defendants, being represented by counsel, waived their rights to a jury trial and on May 14, 1968, trial commenced. On the second day of trial, defendants moved to withdraw their not guilty pleas and to enter pleas of guilty to an amended information charging them with murder in the second degree (MCLA § 750.317 [Stat Ann 1954 Rev § 28.549])'. The new pleas were accepted and on June 25, 1968, they were both sentenced to 15 to 35 years in prison.
+The Court addresses itself to a consideration of whether defendants, who entered pleas of guilty to an amended information charging second-degree murder, are entitled to attack the magistrate’s finding of first-degree murder in binding them over to circuit court for trial. Defendants contend that there was not sufficient evidence of premeditation or malice to justify binding them over for trial on a charge of murder in the first degree. The people argue that the guilty plea on the amended charge of murder in the second degree displaces the original plea and constitutes a waiver of defects in preliminary proceedings. They further contend that there is ample evidence to support binding defendants over for trial.
+An examination of the proceedings reveals that both defendants stood mute at their arraignment on the charge of murder in the first degree. It is undisputed that such a plea preserved irregularities in the proceedings up to that point. A motion to quash the information was also made and subsequently denied prior to pleading on the amended information. On the basis of the foregoing, defendants contend that the question of the sufficiency of the information is preserved for attack on appeal. Defendants aver that there was not a “scintilla” of evidence to support the action of the examining magistrate in binding them over for trial. It is claimed that in the absence of evidence of premeditation, malice, and other statutory elements of murder in the first degree, the court should have ruled favorably on the motion to quash the information.
+In view of the facts, we find it difficult to concur with defendants’ reasoning as to the preservation of their right to attack prior proceedings before the magistrate. In pleading guilty to the amended information, which seemingly cured the defects to which they object, the logical conclusion would be that defendants eliminated the original plea and waived prior error. In effect, the charge of second-degree murder was what they had sought through prior motions and it is on this basis that we conclude that they were not prejudiced by any error at the preliminary examination. In pleading guilty to the amended information, defendants came under the purview of People v. Tate (1946), 315 Mich 76, wherein it was stated:
+“The law has long been settled in this state that after proper arraignment in the circuit court and a plea of guilty or a plea of not guilty by defendant the prior proceedings had before an examining magistrate cannot be questioned; nor can defendant complain even though there had been no examination.”
+Furthermore, in examining the record, it is noted that while there was conflicting evidence as to whether a shot was fired at defendants first, there is no question that shots were fired by defendants. The municipal court found that there Avas sufficient evidence to hold defendants on a charge of first-degree murder on the basis that any question regarding premeditation and malice would be a question of fact for consideration by a jury. It is clear that the evidence supports such a determination.
+The second question raised on this appeal concerns defendants’ guilty plea and whether it was properly entered and accepted by the trial court as required by G-CR 1963, 785.3(2). It is argued that the failure to read the amended information to either defendant contravened that portion of the court rule requiring the court to inform the accused of the nature of the accusation. Defendants also contend that they were not properly informed of the consequences of their plea.
+An examination of the record discloses that the testimony elicited during the first day of trial was adequate to show defendants guilty of second-degree murder. They were represented by retained counsel at all stages of the proceedings and surely were advised of what their plea entailed. They had previously been advised of being charged with murder, but chose to plead guilty to a lesser degree of this crime. Neither of the defendants requested a reading of the amended information and they were advised of their right to continue with the trial. Under these circumstances, we cannot say that the pleas were defective and that a miscarriage of justice has resulted. In People v. Bartlett (1969), 17 Mich App 205, 208, 209 this Court, being faced with a similar situation, stated:
+“The court rule does not, however, require that the offense to which the defendant pleads guilty must be established beyond peradventure before the trial judge may accept a proffered plea of guilty. It requires, in the words of the Barrows Court (p 272), ‘reasonable ascertainment of the truth of the plea.’ ”
+* * *
+“In this case there is no reason to believe that defendant’s plea of guilty was not an understanding plea (Cf. People v. Ferguson [1968], 13 Mich App 362) even though it does not affirmatively appear in the record that the defendant was aware of all the essential elements of the crime of robbery.”
+We therefore hold that while the information was not read, defendants were aware of the essential elements of the charges lodged against them. There was a substantial compliance with the court rule.
+Affirmed.
+All concurred.
