@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "175958"
+decided: "1996-04-26"
+citations: ["216 Mich. App. 390"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Doctoroff, C.J., and McDonald and J. B. Sullivan, JJ."]
+parties: ["GLANCY v CITY OF ROSEVILLE"]
+source_url: "https://static.case.law/mich-app/216/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 480662
+cites_cases: ["117 NW2d 32", "123 NW 1107", "159 Mich 250", "183 NW2d 341", "195 NW2d 849", "1986 PA 175", "202 NW2d 300", "209 Mich App 484", "236 NW2d 516", "27 Mich App 227", "341 Mich 702", "367 Mich 526", "387 Mich 181", "387 Mich 281", "388 Mich 637", "408 NW2d 783", "428 Mich 330", "432 Mich 346", "438 Mich 488", "439 NW2d 899", "475 NW2d 704", "532 NW2d 183", "64 Mich App 460", "64 Mich App 463", "69 NW2d 145"]
+---
+
+# Glancy v. City of Roseville
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff Fred J. Glancy appeals as of right an order of the Macomb Circuit Court granting summary disposition to defendant City of Roseville pursuant to MCR 2.116(C)(7) (immunity granted by law) and (10) (no genuine issue of material fact). We reverse and remand.
+On November 16, 1992, plaintiff filed a one-count complaint alleging that he sustained personal injury on June 26, 1992, when he tripped on a public sidewalk on Commonwealth Street in the City of Rose-ville, Michigan. The accident site consisted of two unbroken slabs of concrete, one of which was raised at one side approximately IV2 inches higher than the adjoining slab. Defendant moved for summary disposition, claiming that it was liable for sidewalk defects only where the tripping obstacle is two inches or more. In granting summary disposition to defendant, the trial court found that the “two-inch rule” was codified into Michigan law by operation of the 1986 amendment of MCL 691.1407(1); MSA 3.996(107)(1).
+We review the trial court’s grant of summary disposition de novo to determine if defendant was entitled to judgment as a matter of law. Citizens Ins Co v Bloomfield Twp, 209 Mich App 484, 486; 532 NW2d 183 (1995). When reviewing a grant of summary disposition based on a finding that the claim is barred by governmental immunity, all documentary evidence submitted by the parties is to be considered. All well-pleaded allegations are accepted as true and construed in favor of the nonmoving party. Id. MCR 2.116(C)(10) permits summary disposition when there is no genuine issue of material fact and the moving party is entitled to judgment as a matter of law. Id.
+In this case of first impression, we determine whether the Legislature, in the 1986 amendments of the governmental immunity statute, MCL 691.1401 et seq.; MSA 3.996(101) et seq., intended to reinstate the “two-inch rule” of sidewalk liability that the Supreme Court abolished in 1972. We hold that the Legislature did not so intend.
+At common law, municipalities were not liable for damages for lack of repair to highways. Roy v Dep’t of Transportation, 428 Mich 330, 336; 408 NW2d 783 (1987). By 1887, the Legislature had provided for liability against municipalities in favor of any person sustaining bodily injuries by reason of neglect by a municipality to keep its sidewalks reasonably fit for travel. Id., 337. Shortly thereafter, there began a long line of decisions in which the Michigan Supreme Court held that a municipality is not subject to liability for negligence because of a discontinuity of two inches or less in a sidewalk. Howard v City of Melvindale, 27 Mich App 227, 230; 183 NW2d 341 (1970). That holding became known as the “two-inch rule,” and it was uniformly applied until 1972. See, e.g., Harris v Detroit, 367 Mich 526; 117 NW2d 32 (1962); Berry v Detroit, 341 Mich 702; 69 NW2d 145 (1955); Northrup v City of Pontiac, 159 Mich 250; 123 NW 1107 (1909).
+In 1972, the Supreme Court abolished the “two-inch rule,” stating, “[W]e will no longer hold as a matter of law that a depression or obstructor [sic] of two inches or less in a sidewalk may not be the basis for a municipality’s liability for negligence.” Rule v Bay City, 387 Mich 281, 283; 195 NW2d 849 (1972) (emphasis in original).
+When Rule was decided, the second sentence of MCL 691.1407(1); MSA 3.996(107)(1) provided:
+Except as otherwise provided herein, this act shall not be construed as modifying or restricting the immunity of the state from tort liability as it existed heretofore, which immunity is affirmed.
+The 1986 amendment changed the wording of that sentence to the following:
+Except as otherwise provided in this act, this act shall not be construed as modifying or restricting the immunity of the state from tort liability as it existed before July 1, 1965, which immunity is affirmed. [1986 PA 175, § 1 (emphasis added).]
+Plaintiff claims and we agree that the trial court erred in determining that the 1986 amendment invalidated Rule and reimposed the “two-inch rule,” which existed before July 1, 1965. We conclude that the 1986 amendment was not intended to affect municipal liability, and therefore Rule remains good law. This conclusion is supported by the way the statute defines “state.” MCL 691.1401(c); MSA 3.996(101)(c) defines “state” as follows:
+“State” means the state of Michigan and its agencies, departments, commissions, courts, boards, councils, statutorily created task forces, and shall include every public university and college of the state, whether established as a constitutional corporation or otherwise.
+“Municipal corporation” is defined separately in the statute, MCL 691.1401(a); MSA 3.996(101)(a), as is “political subdivision,” MCL 691.1401(b); MSA 3.996(101)(b). “State,” “municipal corporation,” and “political subdivision” are collectively defined as “governmental agenc[ies].” MCL 691.1401(d); MSA 3.996(101)(d). It appears clear that the Legislature intended distinctions to be made between the state and the municipalities.
+This intent was confirmed in Walkowski v Macomb Co Sheriff, 64 Mich App 460; 236 NW2d 516 (1975). In Walkowski, this Court addressed the scope of governmental immunity as it applied to the operation of police departments and individual public officials. Interpreting the pre-1986 version of MCL 691.1407(1); MSA 3.996(107)(1), this Court stated, “We read the term ‘state’ to broadly differentiate between the state and its agencies and officers, and other governmental subdivisions, such as municipalities, and their agencies and officers.” 64 Mich App 463, n 1.
+When the Legislature amended the statute in 1986, it did not change the word “state,” but rather changed the word “heretofore.” The Legislature is presumed to act with knowledge of appellate court interpretations. Gordon Sel-Way, Inc, v Spence Bros, Inc, 438 Mich 488, 506; 475 NW2d 704 (1991). Thus, reenactment of a statute following administrative or judicial construction sanctions that construction, Smith v Detroit, 388 Mich 637, 650-651; 202 NW2d 300 (1972), and silence by the Legislature for many years following judicial construction of a statute suggests consent to that construction. Craig v Larson, 432 Mich 346, 353; 439 NW2d 899 (1989).
+Consistent with the statute’s definitions and the fact that the Legislature left untouched this Court’s prior interpretation of the word “state” in MCL 691.1407(1); MSA 3.996(107)(1) when it amended the statute in 1986, we conclude that the Legislature’s adoption of the July 1, 1965, cutoff date was intended to apply to the state only, and not to municipalities. The trial court’s conclusion to the contrary was erroneous.
+Reversed and remanded. We do not retain jurisdiction.
