@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "89744"
+decided: "1988-08-17"
+citations: ["170 Mich. App. 740"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, Jr., P.J., and Sullivan and M. Warshawsky, JJ."]
+parties: ["HARRIS v VAILLIENCOURT"]
+source_url: "https://static.case.law/mich-app/170/cases/0740-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2291093
+cites_cases: ["145 Mich App 620", "228 NW2d 786", "378 NW2d 772", "412 NW2d 213", "429 Mich 66", "429 Mich 77", "429 Mich 79", "429 Mich 80", "47 ALR4th 262", "58 Mich App 486"]
+---
+
+# Harris v. Vailliencourt
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from an order by the Oakland Circuit Court granting summary disposition to defendants which barred plaintiff’s claim under Michigan’s recreational land use act, MCL 300.201; MSA 13.1485. We reverse.
+After drinking, plaintiff and some friends decided to go swimming at Walled Lake in the early morning hours of July 13, 1983. Plaintiff repeatedly stated that he wanted to dive into the lake, but his friends told him that the lake was too shallow to dive into. Upon arriving at the lake, one of plaintiff’s friends, Anita Hernandez, entered the water from a dock across the street from an A & w restaurant. To enter the lake, she sat down at the end of the dock and hopped into the water, which was only two to three feet deep. Plaintiff subsequently walked to the end of the dock and prepared to dive into the lake. He noticed Ms. Hernandez standing hip deep in the water about three feet from the end of the dock. Plaintiff dove into the water, struck his head on the bottom of the lake, and injured his spine. As a result, plaintiff is now a quadriplegic.
+The land and dock from which plaintiff dove was private property owned by the Leon Beach Subdivision Association. There was fencing in the area and a "no trespassing” sign that hung on the fence between two trees.
+Plaintiff later brought a suit sounding in negligence against the association and A & W Root Beer, which shared access to the lake, to recover damages for the injuries he sustained. Defendants moved for summary disposition, arguing that plaintiff’s claim was barred by the recreational land use act. The lower court ruled that the recreational land use act applied in this case and that plaintiff’s only viable actions under the statute were for gross negligence or wilful and wanton misconduct. The court then determined that plaintiff failed to plead gross negligence or wilful and wanton misconduct and granted summary disposition to the association under MCR 2.116(C)(8) and to a & w under MCR 2.116(0(10). The lower court subsequently denied plaintiff’s motion for rehearing or reconsideration and to amend his complaint. Plaintiff appeals as of right.
+At the time this case arose, the recreational land use statute provided:
+No cause of action shall arise for injuries to any person who is on the lands of another without paying to such other person a valuable consideration for the purpose of fishing, hunting, trapping, camping, hiking, sightseeing, motorcycling, snowmobiling, or any other outdoor recreational use, with or without permission, against the owner, tenant, or lessee of said premises unless the injuries were caused by the gross negligence or wilful and wanton misconduct of the owner, tenant, or lessee.[] [MCL 300.201; MSA 13.1485.]
+The issue in this case is whether the property on which plaintiffs injuries occurred was of the type intended to be covered by the recreational land use act.
+Plaintiff argues that the recreational land use statute is inapplicable to the facts of the case on four grounds: (1) plaintiff allegedly was a licensee on the land; (2) the accident took place in defendants’ own "back yard,” not a vast area of vacant but private land; (3) the dock was an artificial condition that constituted a hazard; and (4) the policies underlying the statute would not be furthered by applying it to the instant case.
+We find that our Supreme Court’s unanimous decision in Wymer v Holmes, 429 Mich 66; 412 NW2d 213 (1987), is controlling in the instant case.
+The Court in Wymer determined that the act "redirected the focus of landowner liability from the status of the user of the property [i.e., trespasser, licensee, invitee], making the purpose of going on the land and the character of the land central to the determination of the owner’s liability.” 429 Mich 79-80. Therefore, plaintiffs alleged status as a licensee is not determinative as to whether the act applies in this case.
+In construing the statute, the Supreme Court noted that the language of the statute must be read in light of the legislative purpose intended to be accomplished. The Court identified the legislative purpose of the act as "a legitimate state objective in promoting tourism and in opening up and making available vast areas of vacant but private lands to the use of the general public. ” 429 Mich 77-78 (quoting Thomas v Consumers Power Co, 58 Mich App 486, 495-496; 228 NW2d 786 (1975), emphasis in Wymer).
+The Court observed that the Legislature intended the act to apply to those outdoor activities specifically enumerated in the act
+which, ordinarily, can be accommodated only on tracts of land which are difficult to defend from trespassers and to make safe for invited persons engaged in recreational activities. The commonality among all these enumerated uses is that they generally require large tracts of open, vacant land in a relatively natural state. . . . The intention of the Legislature to limit owner liability derives from the impracticability of keeping certain tracts of lands safe for public use. The same need to limit owner liability does not arise in the case of recreational facilities which, in contrast, are relatively easy to supervise and monitor for safety hazards. [429 Mich 79.]
+The Court concluded that
+[t]he language of the recreational use act, read in the light of its legislative history, is intended to apply to large tracts of undeveloped land suitable for outdoor recreational uses. Urban, suburban, and subdivided lands were not intended to be covered by the recreational use act. [429 Mich 80. Emphasis added.]
+In the instant case, we believe that limiting defendants’ liability through application of the recreational land use act would do little to promote tourism or to open up and make available vast areas of vacant, undeveloped land to the use of the general public. Wymer, supra at 77-78. The area surrounding the lake is not vacant, undeveloped land, but is developed with homes and businesses. Moreover, the dock is not a natural condition but is a recreational facility, developed by the homeowners association, which is relatively easy to supervise and monitor for safety hazards. Wymer, supra at 79. See discussion in Thompson, Revisiting the Recreational User Act, 67 MSB J 348-349 (1988).
+We believe the facts of the instant case are analogous to those in Yahrling v Belle Lake Ass’n, Inc, 145 Mich App 620; 378 NW2d 772 (1985), rev’d 429 Mich 66; 412 NW2d 213 (1987). As the Supreme Court concluded that the recreational land use act was not applicable in Yahrling [429 Mich 80], we likewise find that the recreational land use act is not applicable to the instant case.
+The grant of summary disposition to defendants is reversed and the case is remanded for trial. We retain no jurisdiction.
+The act was amended by the Legislature in 1987 to read, in •pertinent part, as follows:
+Except as provided in subsection (3), no cause of action shall arise for injuries to any person who is on the lands of another without paying to the owner, tenant, or lessee of the lands a valuable consideration for the purpose of fishing, hunting, trapping, camping, hiking, sightseeing, motorcycling, snowmobiling, or any other outdoor recreational use, with or without permission, against the owner, tenant, or lessee of the land unless the injuries were caused by the gross negligence or willful and wanton misconduct of the owner, tenant, or lessee. [MCL 300.201(1); MSA 13.1485(1).]
