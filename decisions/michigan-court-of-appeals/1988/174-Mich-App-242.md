@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "100253"
+decided: "1988-10-05"
+citations: ["174 Mich. App. 242"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Michael J. Kelly, P.J., and Hood and M. Warshawsky, JJ."]
+parties: ["AMRHEIN v PHILIP PETACHENKO, DC, PC"]
+source_url: "https://static.case.law/mich-app/174/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2318512
+cites_cases: ["149 Mich App 148", "155 Mich App 333", "155 Mich App 348", "160 Mich App 406", "385 NW2d 627", "399 NW2d 511", "399 NW2d 520", "407 NW2d 666", "62 ALR4th 758", "80 ALR2d 320", "80 ALR2d 368"]
+---
+
+# Amrhein v. Philip Petachenko, DC, PC
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal as of right from an Oakland Circuit Court order granting summary disposition in favor of Dr. Philip Petachenko, D.C., P.C. (hereafter defendant). The circuit court ruled that plaintiffs’ medical malpractice complaint for injuries sustained by Carol M. Amrhein (hereafter plaintiff) was barred by the statute of limitations. We affirm.
+Plaintiff began seeing Dr. Petachenko for treatment of her osteoarthritic neck condition on November 4, 1981. From December, 1981, through March 22, 1982, defendant Dr. Michael Reggish, another chiropractor, also treated plaintiff at defendant’s clinic. During a February 22, 1982, treatment session, Dr. Reggish allegedly performed an improper cervical adjustment of plaintiffs neck, which aggravated plaintiffs preexisting neck condition and caused severe injury to plaintiffs cervical spine. Plaintiff was last treated by Dr. Reggish on March 22, 1982, when plaintiff began treatment with another chiropractor, Dr. Newman. Plaintiff informed Dr. Newman of sharp, stabbing pain which occurred after the February, 1982, treatment by Dr. Reggish. Plaintiff continued treatment with Dr. Newman until April, 1983.
+On April 20, 1983, plaintiff was involved in an automobile accident, further aggravating her preexisting cervical spine condition. Plaintiff returned to defendant Petachenko’s clinic on April 27, 1983, for a single treatment of her neck condition by defendant. Plaintiff does not complain of any malpractice occurring during this treatment. Plaintiff received additional care and treatment at Henry Ford Hospital and on August 20, 1984, plaintiff underwent a cervical laminectomy for a herniated disc.
+Plaintiff filed suit against defendants Dr. Petachenko and Dr. Reggish on March 15, 1985. Plaintiff Richard J. Amrhein sued for loss of consortium. In granting defendant’s motion for summary disposition, the circuit court ruled that plaintiffs last continued course of treatment with defendant took place on March 22, 1982. The court therefore held plaintiffs’ claim to be time barred.
+On appeal, plaintiffs argue the trial court erred in granting defendant’s summary disposition motion. Plaintiffs contend that the last date of treatment was April 27, 1983, less than two years preceding the filing of plaintiffs’ complaint on March 15, 1985. We disagree.
+The limitations period for a medical malpractice action is governed by MCL 600.5805(4); MSA 27A.5805(4), which provides that "the period of limitations is 2 years for an action charging malpractice.” MCL 600.5838(1); MSA 27A.5838(1) provides that a medical malpractice claim "accrues at the time that person discontinues serving the plaintiff in a professional or pseudo-professional capacity as to the matters out of which the claim for malpractice arose, regardless of the time the plaintiff discovers or otherwise has knowledge of the claim.” A malpractice cause of action accrues when the defendant discontinues treatment of the plaintiff for the matter from which the malpractice action arose. Whitmore v Fabi, 155 Mich App 333, 340; 399 NW2d 520 (1986); Juravle v Ozdagler, 149 Mich App 148, 153-155; 385 NW2d 627 (1985). This last treatment must relate to the malpractice claim and an isolated incident of treatment thereafter cannot be used to revive the statutory period. Juravle, supra.
+In the present case, plaintiff claims that her complaint was timely filed on March 15, 1985. However, plaintiffs complaint alleges malpractice by Dr. Reggish in treating plaintiff. Plaintiffs last treatment by Reggish occurred on March 22, 1982. Therefore, we find that the date of last treatment for the matter from which the alleged malpractice arose was March 22, 1982, almost three years before plaintiff filed her complaint. Although defendant Petachenko did treat plaintiff on April 22, 1983, plaintiff does not complain of any malpractice occurring during that treatment. Nor was this treatment related to the original treatments by Dr. Reggish. We find the April 27, 1983, treatment by defendant to be an isolated incident which cannot be used to revive the statutory period. Plaintiffs claim is time barred.
+Plaintiff next contends that her claim was not time barred because she did not discover her claim until within six months before filing her complaint. See MCL 600.5838a(2); MSA 27A.5838(1)(2). However, plaintiff did not raise this issue before the trial court. Appellate review is generally foreclosed when an issue is raised for the first time on appeal. Coddington v Robertson, 160 Mich App 406, 412; 407 NW2d 666 (1987). Additionally, we note that the statute places upon plaintiff the burden of proving that she did not discover or should not have discovered the existence of her medical malpractice claim before six months prior to filing suit. See Blana v Spezia, 155 Mich App 348, 353; 399 NW2d 511 (1986).
+In the present case, plaintiff has made no showing indicating that she did not or should not have discovered her claim prior to the six-month period. Plaintiff has only made vague allegations of non-discovery on appeal. To the contrary, the facts indicate that plaintiff did discover her claim much earlier than six months prior to filing. Plaintiff switched to a different chiropractor after March, 1982, and complained of the February 2, 1982, treatment by Dr. Reggish. This indicates that plaintiff knew of her claim over three years prior to filing her complaint.
+The circuit court did not err in dismissing plaintiffs’ complaint. We decline to address plaintiffs’ remaining issues which were not raised before and decided by the trial court. Coddington, supra.
+Affirmed.
