@@ -1,0 +1,99 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 54535, 54536"
+decided: "1982-01-20"
+citations: ["112 Mich. App. 497"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P.J., and D. F. Walsh and D. C. Riley, JJ."]
+parties: ["KALIN v DETROIT AUTOMOBILE INTER-INSURANCE EXCHANGE"]
+source_url: "https://static.case.law/mich-app/112/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2211463
+cites_cases: ["102 Mich App 636", "110 Mich App 126", "111 Mich App 106", "112 Mich App 511", "224 NW2d 896", "269 NW2d 570", "273 NW2d 10", "282 NW2d 289", "282 NW2d 301", "282 NW2d 374", "289 NW2d 708", "293 NW2d 782", "302 NW2d 260", "312 NW2d 181", "314 NW2d 536", "316 NW2d 474", "393 Mich 324", "404 Mich 301", "407 Mich 895", "407 Mich 908", "408 Mich 164", "42 ALR3d 229", "6 ALR4th 686", "84 Mich App 292", "90 Mich App 215", "90 Mich App 307", "90 Mich App 511", "97 Mich App 242"]
+---
+
+# Kalin v. Detroit Automobile Inter-Insurance Exchange
+
+## Majority (R. M. Maher, P.J.)
+
+R. M. Maher, P.J.
+Plaintiffs Roman C. Kalin, Jr., and Patricia Kalin filed suit against defendants Detroit Automobile Inter-Insurance Exchange (DAIIE) and Michigan Mutual Insurance Company (Michigan Mutual) seeking no-fault benefits for injuries sustained in an accident which occurred on March 31, 1978. Plaintiffs filed a motion for summary judgment against either defendant. The circuit court granted the motion against Michigan Mutual and ordered each defendant to pay half of plaintiffs’ reasonable attorney fees. Michigan Mutual appeals as of right from the order granting summary judgment.
+This case concerns the proper analysis, under the no-fault act, of situations in which a parked vehicle and a moving vehicle are both involved in an accident. For the purpose of ruling on the motion for summary judgment, the parties stipulated to the following facts:
+"This action concerns an accident which occurred on March 31, 1978. At the time of the accident Roman C. Kalin was in the course of his employment with Strohs Brewery. Mr. Kalin was employed as a delivery man. His job involved driving a company truck to various stores, taking orders and delivering beer. In a normal day Mr. Kalin would pick up a company truck at the plant, go on his route and return the truck to the plant at the end of his working day. Mr. Kalin’s normal route would involve between 12 and 20 stops per day. Each stop involved between one and three trips between the store and the truck.
+"At the time of the accident Mr. Kalin was in the course of his last delivery. The truck was parked next to the curb. Mr. Kalin had gone back and forth between the store and the truck twice and was on his third trip to the store when he was struck [by a moving vehicle]. When Mr. Kalin was struck he was pushing a hand cart loaded with beer along the left side of the truck next to the cab. He had locked the truck and proceeded 15 feet alongside the truck with the intention of proceeding in front of the truck to the driveway.
+"If Mr. Kalin had not been struck, he would have delivered the beer and returned to his truck. He would then have driven around the corner, taking inventory and returned the truck to the brewery.
+"At the time of the accident Mr. Kalin owned a private vehicle which was insured with the Detroit Automobile Inter-Insurance Exchange. The owner of the car which struck Mr. Kalin was Helen Lee who was insured by Detroit Automobile Inter-Insurance Exchange. His employer’s truck was insured by Michigan Mutual.”
+I
+Recently, in Gutierrez v Dairyland Ins Co, 110 Mich App 126; 312 NW2d 181 (1981), this Court addressed a similar situation involving a parked vehicle and a moving vehicle. According to Gutierrez, where a claimant suffers accidental bodily injury arising out of the ownership, operation, maintenance, or use of a moving motor vehicle as a motor vehicle, the additional involvement of a parked vehicle is irrelevant to the issue of whether such a claimant is entitled to recover no-fault benefits. Under this approach, analysis of an accident under the parked vehicle exclusion is unnecessary unless there is no causal connection between the use, etc., of a moving vehicle and the injury. Clearly, the Legislature did not intend the parked vehicle exclusion to apply to accidents involving both a parked vehicle and a moving vehicle except where the involvement of the moving vehicle is merely incidental or fortuitous.
+II
+In order to recover no-fault benefits, a claimant must establish that he has suffered accidental bodily injury arising out of the ownership, operation, maintenance, or use of a motor vehicle as a motor vehicle. MCL 500.3105; MSA 24.13105, Dowdy v Motorland Ins Co, 97 Mich App 242, 250-251; 293 NW2d 782 (1980), Shinabarger v Citizens Mutual Ins Co, 90 Mich App 307, 314-315; 282 NW2d 301 (1979), lv den 407 Mich 895 (1979). Turning to the case at bar, we have no difficulty concluding that plaintiffs injuries arose out of the operation of a moving motor vehicle as a motor vehicle. Hence, under the analysis set forth in Part I, plaintiff is entitled to recover no-fault benefits; the involvement of a parked vehicle is irrelevant.
+Ill
+Since we have concluded that plaintiff is entitled to no-fault benefits, it is necessary to determine which defendant insurance company is responsible for those benefits. We turn first to MCL 500.3115(1); MSA 24.13115(1), which provides:
+"Sec. 3115. (1) Except as provided in subsection (1) of section 3114, a person suffering accidental bodily injury while not an occupant of a motor vehicle shall claim personal protection insurance benefits from insurers in the following order of priority:
+"(a) Insurers of owners or registrants of motor vehicles involved in the accident.
+"(b) Insurers of operators of motor vehicles involved in the accident.”
+Section 3115 is inapplicable if plaintiff is deemed an "occupant” of his employer’s vehicle. It is therefore necessary to review the relevant case law on the "occupancy” issue.
+In Nickerson v Citizens Mutual Ins Co, 393 Mich 324, 328-331; 224 NW2d 896 (1975), the Supreme Court interpreted the term "occupying”, as used in an automobile insurance policy, to embrace situations in which a claimant was not in physical contact with a vehicle when injured. Nickerson involved an automobile insurance policy which provided coverage for injuries sustained by any "assured” while "occupying the insured automobile”. The term "occupying” was defined in the policy as "in or upon or entering into or alighting from”.
+Plaintiff Nickerson, a passenger in an insured vehicle, helped to push the vehicle to the side of the road after it stalled. A passing motorist was flagged down to provide assistance, and Nickerson, who had returned to the vehicle, exited from his vehicle once again and walked around to the front of the car. At this point, a third vehicle struck the stalled vehicle from behind, pushing it into Nickerson, who sustained severe injuries.
+The Court concluded that Nickerson had been "occupying” the vehicle at the time of the accident, for a number of reasons:
+"(1) his immediate prior 'occupying’ of the insured vehicle * *
+"(2) his suffering of an injury arising out of the use or repair of the same automobile”;
+(3) "language in an insurance policy is to be strictly construed against the insurer”; and
+(4) "unquestionably '[Nickerson] was in contact with the automobile at the time of his injury’.” (Citation omitted.)
+Nickerson is distinguishable from the present case on several grounds. First of all, and most significantly, Nickerson involved interpretation of an insurance policy and not construction of a statute. As the Supreme Court pointed out in Nickerson, language in an insurance policy is to be strictly construed against the insurer. The strong policy considerations which justify strict construction of insurance policies are absent in the case at bar in which this Court is confronted with the construction of a statutory priority provision. "It is axiomatic that words in a statute are to be interpreted according to their commonly accepted meanings * * (Citation omitted.) Production Credit Ass’n of Lansing v Dep’t of Treasury, 404 Mich 301, 312; 273 NW2d 10 (1978).
+Secondly, the insurance policy interpreted by the Nickerson Court defined the term "occupying” as "in or upon or entering into or alighting from”. Nickerson was undoubtedly "upon” the insured car when he was injured; thus he was clearly entitled to recover under the plain language of the policy. In contrast, the no-fault act contains no such definition of the term "occupant”. Consequently, we must interpret the word "occupant” according to its commonly accepted meaning. Production Credit Ass’n of Lansing, supra.
+Finally, we are not convinced that plaintiff was an "occupant” of his employer’s vehicle even under the Nickerson standard. The Nickerson Court concluded that Nickerson was an "occupant” due to "(1) his immediate prior 'occupying’ of the insured vehicle, and (2) his suffering of an injury arising out of the use or repair of the same automobile”. We do not believe that plaintiff’s injuries were, sustained "immediately” after occupying his employer’s vehicle, as in Nickerson. Plaintiff had gone back and forth between the store and his truck twice and was on his third trip to the store when he was struck by a moving vehicle. In contrast, Nickerson was injured almost immediately after leaving the insured vehicle.
+Several panels of this Court have addressed the "occupancy” issue under the no-fault act. Ottenwess v Hawkeye Security Ins Co, 84 Mich App 292; 269 NW2d 570 (1978), rev’d in part 408 Mich 164; 289 NW2d 708 (1980), involved a claimant who was fatally injured while examining or attempting to repair a company dump truck. "Ottenwess was crushed to death when the dump box suddenly came down upon him, trapping him between the box and the frame of the truck. * * * He had just exited the cab and was standing on or next to the dump box when the incident occurred.” The Court held that Ottenwess was an "occupant” of the vehicle when he was killed.
+In Ottenwess, unlike the present case, the claimant may have been standing on the vehicle when the accident occurred. Moreover, the Ottenwess claimant was crushed between two parts of a vehicle; plaintiff, on the other hand, was not injured as a result of contact with his beer truck.
+In Hathcox v Liberty Mutual Ins Co, 90 Mich App 511; 282 NW2d 374 (1979), the plaintiff had been injured by slipping on the snow-covered deck of a tractor-trailer, and the Court concluded that he was "occupying” the vehicle at the time of the injury. As in Nickerson and Ottenwess, contact with the "occupied” vehicle played a role in the accident.
+Finally, McPherson v Auto-Owners Ins Co, 90 Mich App 215; 282 NW2d 289 (1979), lv den 407 Mich 908 (1979), involved a claimant who was injured by slipping on the highway immediately after exiting from her vehicle and while in the process of walking around it in order to remove her three-year-old grandson from the back seat. The majority held that the claimant was still "occupying” the vehicle at the time of the accident.
+Several panels of this Court have expressed disagreement with certain aspects of the McPherson holding. However, even assuming arguendo that Nickerson is applicable to construction of the no-fault act, the McPherson injuries appear to have satisfied Nickerson’s "immediate prior occupancy” test.
+As the foregoing analysis reveals, prior case law does not compel the conclusion that plaintiff was an "occupant” of his employer’s vehicle at the time of the accident.
+IV
+The trial court ruled that plaintiff was an "occupant” of his employer’s vehicle when he was injured, and accordingly granted summary judgment against defendant Michigan Mutual, his employer’s insurer.
+We are uncertain whether the Supreme Court would hold that physical contact is necessary to a finding of "occupancy” under the priority provisions of the no-fault act. Nevertheless, even if physical contact is not required, we are convinced that absent physical contact immediate prior occupancy — at the very least — is necessary to a finding of "occupancy” under §§ 3114 and 3115 of the no-fault act. Plaintiff had gone back and forth between the store and his employer’s vehicle twice and was on his third trip to the store when he was struck by another vehicle. Accordingly, we hold that plaintiff was not an "occupant” of a motor vehicle at the time of the accident.
+V
+Once again, we must focus on MCL 500.3115(1); MSA 24.13115(1), which provides:
+"Sec. 3115. (1) Except as provided in subsection (1) of section 3114, a person suffering accidental bodily injury while not an occupant of a motor vehicle shall claim personal protection insurance benefits from insurers in the following order of priority:
+"(a) Insurers of owners or registrants of motor vehicles involved in the accident.
+"(b) Insurers of operators of motor vehicles involved in the accident.”
+Since we have concluded that plaintiff was not an "occupant” of a motor vehicle when he was injured, § 3115 is applicable in determining priority between the defendant insurance companies. However, § 3115 is subject to subsection 3114(1), which provides in part:
+"Sec. 3114. (1) Except as provided in subsections (2), (3), and (5), a personal protection insurance policy described in section 3101(1) applies to accidental bodily injury to the person named in the policy, the person’s spouse, and a relative of either domiciled in the same household, if the injury arises from a motor vehicle accident.”
+Under subsection 3114(1), plaintiffs "personal” insurer, defendant DAIIE, is responsible for plaintiffs no-fault benefits. However, subsection 3114(1) is subject to subsections 3114(2), (3), and (5). Subsections (2) and (5) are clearly inapplicable. Subsection 3114(3) provides:
+"(3) An employee, his or her spouse, or a relative of either domiciled in the same household, who suffers accidental bodily injury while an occupant of a motor vehicle owned or registered by the employer, shall receive personal protection insurance benefits to which the employee is entitled from the insurer of the furnished vehicle.”
+Since we have determined that plaintiff was not an "occupant” of a motor vehicle at the time of the accident, subsection 3114(3) is also inapplicable. Consequently, subsection 3114(1) governs the allocation of priority between the defendant insurers. Therefore, the insurer of plaintiffs private vehicle, defendant DAIIE, is responsible for plaintiffs no-fault benefits.
+Accordingly, we hold that the trial court erred in granting summary judgment against defendant Michigan Mutual; DAIIE is the responsible insurer.
+VI
+One ancillary issue requires our resolution. The trial court ordered each defendant to pay half of plaintiffs’ reasonable attorney fees. The court based its award on MCL 500.3148(1); MSA 24.13148(1), which provides:
+"An attorney is entitled to a reasonable fee for advising and representing a claimant in an action for personal or property protection insurance benefits which are overdue. The attorney’s fee shall be a charge against the insurer in addition to the benefits recovered, if the court finds that the insurer unreasonably refused to pay the claim or unreasonably delayed in making proper payment.”
+A trial court’s finding of unreasonable refusal or delay by an insurance company will be disturbed on appeal only if that finding is clearly erroneous. GCR 1963, 517.1, Liddell v DAIIE, 102 Mich App 636; 302 NW2d 260 (1981). Defendant Michigan Mutual, arguing that a delay in payment is not unreasonable "where it is the product of a legitimate question of statutory construction, constitutional. law, or even a bona fide factual uncertainty”, insists that the trial court erred in ordering the payment of half of plaintiffs’ reasonable attorney fees. Although we concede that a "legitimate question” existed, we cannot agree with defendant’s contention that the delay in payment was the "product” of a legitimate question. Plaintiff was undoubtedly entitled to no-fault benefits; the only legitimate dispute was between the two defendant insurance companies. Under these circumstances insurance companies can avoid liability for attorney fees by sharing the payment of such a claimant’s no-fault benefits and then settling their differences among themselves. A claimant who is clearly entitled to no-fault benefits should not be forced to hire an attorney merely because the circumstances of his accident create problems of priority among insurers.
+Manifestly, the trial court’s finding of an unreasonable delay in payment was not clearly erroneous; therefore, we must affirm its award of attorney fees.
+Affirmed in part; reversed in part._
+MCL 500.3101 et seq.; MSA 24.13101 et seq.
+Unfortunately, certain language in Gutierrez, which I authored, suggests that where a claimant suifers accidental bodily injury arising out of the use, etc., of both a moving vehicle and a parked vehicle, the claimant must establish the applicability of one of the three exceptions to the parked vehicle exclusion (MCL 500.3106; MSA 24.13106) in order to recover no-fault benefits. Although such a situation will rarely occur (as I noted in Gutierrez), it seems anomalous to suggest that an otherwise compensable accidental injury loses its character as such merely by virtue of an additional causal connection between the use of a parked vehicle and the injury. To the extent that Gutierrez can be read in support of such a proposition, I must disavow it.
+Under either approach, the result in Gutierrez would have been the same. However, I wish to make it clear that analysis under the parked vehicle exclusion is unnecessary where there exists a sufficient causal connection between the use, etc., of a moving motor vehicle and the injury.
+MCL 500.3106; MSA 24.13106.
+"It is unfortunate but true that the normal operation and use of motor vehicles all too often results in the striking and injuring of pedestrians.” Gutierrez, supra, 134.
+Id., 326.
+Id., 330.
+Id.
+Id.
+"Who can doubt that plaintiff was 'upon’ the car when injured?” Id., 331.
+Nickerson, supra, 326.
+84 Mich App 292, 294-295.
+We do not wish to imply that contact with a vehicle is necessary to a finding of "occupancy” thereof. Contact, however, is an important factor in determining "occupancy”. We note that Nickerson also involved a claimant injured by contact with the "occupied” vehicle.
+However, in concurring separately, I expressed my belief that the plaintiff was injured while "alighting” from the vehicle.
+See Dowdy v Motorland Ins Co, 97 Mich App 242; 293 NW2d 782 (1980), Block v Citizens Ins Co of America, 111 Mich App 106; 314 NW2d 536 (1981), Krueger v Lumbermen’s Mutual Casualty Co, 112 Mich App 511; 316 NW2d 474 (1982). See also McPherson, supra (Gillis, J., dissenting).
+See MCL 500.3114(3); MSA 24.13114(3).
+MCL 500.3114, 500.3115; MSA 24.13114, 24.13115.
+MCL 500.3114(1); MSA 24.13114(1).
+MCL 500.3114(3); MSA 24.13114(3).
+Id., 650.
+We find the following colloquy from the summary judgment hearing instructive:
+"The Court: I agree that it’s not just the passage of time that makes the delay unreasonable, but here’s the point that he makes. You and Mr. Mattingly [counsel for Michigan Mutual] knew that one of you were going to have to pay that; isn’t that so?
+"Mr. Hoehn [counsel for DAIIE]: Yes.
+"The Court: There’s no doubt about that?
+"Mr. Hoehn: No.
+"The Court: It was just a question of who. And his point is shouldn’t you and Mr. Mattingly have gotten together and said, 'Look, let’s both contribute. We’ll solve it between us who gets reimbursed.’ ”
