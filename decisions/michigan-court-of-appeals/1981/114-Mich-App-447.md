@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "47636"
+decided: "1981-10-22"
+citations: ["114 Mich. App. 447"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and M. J. Kelly and D. L. Sullivan, JJ."]
+parties: ["DETROIT PURE MILK COMPANY v FARNSWORTH"]
+source_url: "https://static.case.law/mich-app/114/cases/0447-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2208918
+cites_cases: ["14 NW2d 568", "160 NW 380", "193 Mich 542", "221 NW 149", "244 Mich 188", "282 NW 431", "284 NW 614", "286 Mich 467", "287 Mich 701", "289 NW 257", "291 Mich 569", "299 Mich 364", "300 NW 121", "309 Mich 38", "348 Mich 250", "83 NW2d 210"]
+---
+
+# Detroit Pure Milk Co. v. Farnsworth
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This action was brought to determine liability on an open account for the delivery of dairy products to the Eastfield Thriftway Market, located in Traverse City. A judgment in the plaintiff’s favor was entered in the Macomb County Circuit Court on August 15, 1979. The judgment determined that plaintiff was entitled to recover the amount of $13,985.14. A total of $9,340.86 was found to be the joint and several liability of the individual defendants and the difference in the sums, $4,644.28, was determined to be the sole liability of defendant Farnsworth.
+John Panas sold the Eastfield Thriftway Market to a corporation called Northern Michigan Foods, Incorporated. The corporate entity was owned by defendants Farnsworth, Vlachos and a third person, Bard Zagari, who is not a party to this suit. Farnsworth and Vlachos were introduced to plaintiff’s agent, Gergory Fiebing, as being partners in the Eastfield Thriftway Market, having taken over the business from Panas..
+Defendants urge on appeal that they are not personally liable for the account balances owing plaintiff because of the existence of the corporate entity, Northern Michigan Foods, Incorporated. We disagree. At trial, defendants conceded that they failed to expressly disclose the existence of the corporate principal to the plaintiff’s agent, Fiebing. This, in addition to the fact that the defendants continued their operations under the name of Eastfield Thriftway Market, leads us to the conclusion that the defendants functioned as agents for an undisclosed principal. They are properly liable. Dodge v Blood, 299 Mich 364, 376-377; 300 NW 121 (1941), Harmon v Parker, 193 Mich 542, 545-546; 160 NW 380 (1916).
+Further, we find that defendant Vlachos was properly held jointly liable in the amount of $9,340.86, which was incurred to the date that plaintiff was informed of Vlachos’s retirement from the business. Webb v Levene, 309 Mich 38, 44-45; 14 NW2d 568 (1944), Texas Co v Genetski, 291 Mich 569; 289 NW 257 (1939).
+We further find that, because defendant Vlachos failed to plead the defense of payment, that defense is waived. GCR 1963, 111.7, Ewing v Heathcott, 348 Mich 250; 83 NW2d 210 (1957), Manglares v Passiales, 244 Mich 188; 221 NW 149 (1928).
+Finally, the plaintiff raises an issue concerning the trial court’s denial of its motion to amend its pleadings during the course of trial to conform to the evidence. In trial, it was disclosed through defendant’s Exhibit C that there was a balance due plaintiff from Mr. Panas of $20,000. During the course of the introduction of this evidence, plaintiff’s counsel stated that a judgment had been obtained in Grand Traverse County against Panas on this account. Plaintiff’s counsel indicated at that point his willingness to seek an amendment to the pleadings to reflect Mr. Panas’s liability. Plaintiff contends that later in the proceedings Farnsworth admitted having assumed Panas’s obligation. The transcript does not clearly corroborate whether Farnsworth admitted making the assumption individually or whether he admitted that the assumption was made by Northern Michigan Foods. Plaintiff’s counsel then stated affirmatively his intention to seek to amend the pleadings to conform to the proofs. Accordingly, at the end of the trial, plaintiff moved to amend the pleadings to conform with the proofs to include the fact that the defendants had assumed the $20,000 indebtedness of Panas which had been partially paid. The trial court denied the motion on the basis that plaintiff was precluded from reopening its proofs to establish Mr. Panas’s liability. The apparent basis for the trial court’s denial was that the defendants in the instant case should have been joined in the Grand Traverse County action.
+The Michigan third-party beneficiary statute, MCL 600.1405; MSA 27A.1405, recognizes "[a]ny person for whose benefit a promise is made by way of contract * * * has the same right to enforce said promise that he would have had if the said promise had been made directly to him as the promisee”. Our courts have deemed the statute remedial and have repeatedly sustained the constitutionality of the act. Lutz v Dutmer, 286 Mich 467; 282 NW 431 (1938). We hold that the statute may be applicable to this case. If Farnsworth admitted that he individually assumed the obligation, plaintiff was entitled to enforce the assumption of the $20,000 debt. See Hutchings v Security Exchange Corp, 287 Mich 701, 708-709; 284 NW 614 (1939).
+This conclusion does not compel the vacating of the trial court’s decision. The cause is remanded to the trial court to determine whether Farnsworth admitted assuming the obligation individually or whether he admitted that the assumption was made by Northern Michigan Foods. If the assumption was by Farnsworth individually, the trial court should enable the plaintiff to establish its right to recover on the assumed obligation. We note that a civil action is currently pending in the Macomb County Circuit Court against the defendants herein based on their assumption of John Panas’s debt. We direct that the two matters be consolidated and set for immediate hearing.
+Remanded. Costs to plaintiff.
