@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "21634"
+decided: "1975-11-13"
+citations: ["65 Mich. App. 531"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P. J., and Bronson and T. M. Burns, JJ.", "J. H. Gillis, P. J., concurred."]
+parties: ["PEOPLE v JOHN WILLIAMS"]
+source_url: "https://static.case.law/mich-app/65/cases/0531-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2150821
+cites_cases: ["105 NW2d 37", "151 NW2d 365", "154 NW2d 437", "168 ALR 703", "182 NW2d 347", "192 NW2d 638", "20 NW2d 732", "210 NW2d 501", "243 NW 230", "259 Mich 361", "26 Mich App 218", "312 Mich 577", "322 Mich 384", "34 NW2d 22", "343 Mich 681", "345 Mich 727", "35 Mich App 335", "358 Mich 267", "360 Mich 693", "379 Mich 624", "48 Mich App 295", "7 Mich App 237", "73 NW2d 298", "76 NW2d 805", "99 NW2d 347"]
+---
+
+# People v. Williams
+
+## Majority (Bronson, J.)
+
+Bronson, J.
+Defendant was found guilty by a jury of second-degree murder, contrary to MCLA 750.317; MSA 28.549, and sentenced to a prison term of from 10 to 20 years. That conviction was reversed by this Court in People v Williams, 26 Mich App 218; 182 NW2d 347 (1970). Defendant was released from custody on bond in September, 1970, and he remained free on bond until a new trial was held on May 21, 1972. At that new trial, the jury found defendant guilty of manslaughter, contrary to MCLA 750.321; MSA 28.553. Defendant was sentenced to a prison term of from 7-1/2 to 15 years, with a credit for 635 days served in Wayne County Jail.
+On July 16, 1973, after he had served a portion of his sentence, defendant petitioned the trial court to reduce his sentence. The trial court granted that petition, and entered an order on August 13, 1973, giving defendant credit for the time spent while on bond awaiting retrial, 1,218 days. The Department of Corrections refused to recognize that extra credit. Consequently, the trial judge sua sponte granted defendant a new trial on September 12, 1974, the date defendant would have been released, with his good time credits, had the corrections commission recognized the modified amount of credit. The trial judge then dismissed the charges.
+The people argue that the trial judge improperly modified defendant’s original sentence. We agree. It is well-established that a sentencing court does not have the power or authority to change a validly imposed sentence once a defendant begins serving it. People v Biniecki, 35 Mich App 335; 192 NW2d 638 (1971), Moore v Parole Board, 379 Mich 624, 631, 642; 154 NW2d 437 (1967), People v Parson, 345 Mich 727, 730; 76 NW2d 805 (1956), Elliot v Department of Corrections, 343 Mich 681, 691; 73 NW2d 298 (1955), People v Chivas, 322 Mich 384, 395-396; 34 NW2d 22 (1948), People v Fox, 312 Mich 577; 20 NW2d 732; 168 ALR 703 (1945). While a sentencing judge may correct a void sentence, In re Lemire, 360 Mich 693; 105 NW2d 37 (1960), no claim is made here that defendant’s original sentence was invalid in any way.
+The trial judge’s subsequent dismissal of charges upon a sua sponte granting of a new trial was also improper. MCLA 770.1; MSA 28.1098 authorizes a trial court to grant a new trial when "it shall appear to the court that justice has not been done”. However, we cannot read the grant of authority as allowing a sentencing judge to accomplish indirectly, through a delayed motion for a new trial, what he cannot do directly. If the Legislature had intended to overrule such a well-established rule it certainly would have done so expressly. Therefore, we hold that a sentencing judge cannot use the vehicle of a new trial to "correct” a validly imposed sentence.
+We have serious doubts as to the power of a sentencing judge to grant credit in the first place for the time a defendant was out on bond awaiting trial. However, due to our disposition of this case, we need not reach that issue here.
+Reversed and remanded, with instructions that the trial judge reinstate the original sentence and order defendant’s return to prison.
+J. H. Gillis, P. J., concurred.
+
+## Dissent (T. M. Burns, J.)
+
+T. M. Burns, J.
+(dissenting). I would affirm the decision of the trial court. Subsequent to our reversal of his second-degree murder conviction in 1970, defendant was not retried until 1972, because of numerous adjournments. In his amicus curiae brief in this appeal, the trial judge indicates that when he set the date for the retrial, he advised defense counsel that because of the delay defendant would be given credit for the time he waited on bond in the event that he was convicted on retrial. The subsequent sentencing order, however, indicated only that defendant would be given credit for the 635 days served under the original conviction. Defense counsel, therefore, petitioned the court for reduction of sentence. The judge ordered that the order of conviction and sentence be amended to reflect credit for 1,218 days. The Department of Corrections refused to recognize that order. The trial judge then ordered a new trial and dismissed the charges on the date defendant would have been released from prison had the judge’s order granting credit been followed. Although somewhat unorthodox, the actions of the trial court were not invalid.
+As noted by the majority, a trial court has the power to grant a new trial when "it shall appear to the court that justice has not been done”, MCLA 770.1; MSA 28.1098. A trial judge may sua sponte grant a new trial even after the time for filing such a motion has lapsed. People v Hurwich, 259 Mich 361; 243 NW 230 (1932), People v Barrows, 358 Mich 267; 99 NW2d 347 (1959). The grant of a motion for new trial lies within the sound discretion of the trial court and will be reversed only upon a showing of clear abuse of such discretion. People v Bersine, 48 Mich App 295; 210 NW2d 501 (1973). This Court has held that abuse of discretion with respect to the granting of a motion for new trial connotes more than an error of law or of judgment, and that it implies an unreasonable, arbitrary or unconscionable attitude on the part of the trial court. People v Poole, 7 Mich App 237; 151 NW2d 365 (1967). It is apparent that the trial judge felt that it was unjust to deny defendant the credit against sentence. I cannot say that the trial judge was unreasonable or arbitrary in granting a new trial.
+On the question of changing a previously imposed sentence, I also must disagree. I find no authority on point which forecloses a trial court from doing what was done in this case. The authority cited by the majority is inapposite. The actions taken by the trial court in the instant case take it out of the rule about altering a validly imposed sentence. Indeed the judge may have done indirectly what he cannot do directly, but that does not make his actions wrong. I would hold that in view of the law relating to the granting of new trials, the court’s actions in the instant case were not contrary to law.
