@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "89969"
+decided: "1987-09-09"
+citations: ["162 Mich. App. 737"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Shepherd, P.J., and Wahls and Sullivan, JJ."]
+parties: ["TOWNSHIP OIL COMPANY v STATE BANK OF FRASER"]
+source_url: "https://static.case.law/mich-app/162/cases/0737-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2302250
+cites_cases: ["106 NW2d 754", "108 NW2d 768", "115 Mich App 116", "128 Mich App 660", "149 Mich App 593", "207 NW 888", "234 Mich 296", "320 NW2d 64", "341 NW2d 783", "362 Mich 192", "363 Mich 13", "386 NW2d 605", "417 Mich 950", "418 Mich 962", "6 ALR3d 468", "74 ALR Fed 516"]
+---
+
+# Township Oil Co. v. State Bank
+
+## Majority (Wahls, J.)
+
+Wahls, J.
+Plaintiff, Township Oil Company, appeals as of right from the Macomb Circuit Court’s order granting summary disposition in favor of defendant, State Bank of Fraser. Plaintiff sought to recover damages for breach of contract from defendant, a depository bank, for certain negotiable instruments plaintiff had received. Defendant moved for and was granted summary disposition on two grounds: (1) that there was a pending action between the same parties based on the same cause of action in district court, MCR 2.116(C)(6) and (2) that the period of limitation had expired, MCR 2.116(C)(7). We affirm on the former ground.
+This case arises out of the alleged mishandling of checks. Plaintiff was a gasoline wholesaler and maintained a checking account with defendant. Plaintiff had accepted checks from one of its customers, Esser Enterprises, and deposited the checks with defendant. Plaintiff then delivered gasoline to Esser on a daily basis, apparently in reliance on the fact that the checks had been honored. After approximately two weeks, plaintiff was notified by defendant that the checks had been returned because of insufficient funds.
+Plaintiff contends that this two-week delay was due to the mishandling of these checks by both Esser’s bank, Bank of Commerce, and defendant. Specifically, plaintiff contends that defendant was notified by the Bank of Commerce that two of Esser’s checks were not covered with sufficient funds and a stop payment order had been placed on all the checks, but that defendant, in breach of its express contract with plaintiff, failed to timely notify plaintiff. Plaintiff asserts that, as a result of this breach, it suffered substantial damages because it had delivered approximately $73,000 worth of gasoline and other products to Esser during the two-week delay which it would not have delivered had defendant timely notified plaintiff.
+Plaintiff initially sued Bank of Commerce on December 14, 1976, in circuit court. In May, 1979, the circuit court removed the case to the district court because mediation determined that the probable value of the suit was less than the $10,000 jurisdictional amount of the circuit court. In January, 1980, plaintiff amended its complaint to add defendant as a codefendant and to increase the damages to an amount in excess of $10,000. Defendant moved for accelerated judgment based on the statute of limitations. In July, 1983, this Court determined that the period of limitation had not run on the claim of an express contract and remanded for further proceedings.
+In August, 1984, plaintiff filed a motion for voluntary dismissal because the amount in controversy exceeded $10,000, causing the district court to lose jurisdiction. That motion was denied. Plaintiffs request for leave to appeal to the circuit court was also denied on the basis that the issues presented were not ripe for appellate review. Plaintiff did not appeal that case further; rather, it filed this action in circuit court claiming damages of at least $50,000.
+Plaintiff argues that the circuit court erred in granting summary disposition pursuant to MCR 2.116(C)(6) because it is seeking a different relief. Dismissal is proper when "[a]nother action has been initiated between the same parties involving the same claim.” MCR 2.116(C)(6) [formerly GCR 1963, 116.1(4)].
+The court rule is a codification of the former plea of abatement by prior action. See Rene J DeLorme, Inc v Union Square Agency, Inc, 362 Mich 192; 106 NW2d 754 (1961); Chapple v National Hardwood Co, 234 Mich 296, 297; 207 NW 888 (1926). Abatement protects parties from the harassment of new suits filed by the same plaintiffs involving the same questions as those in pending litigation. Chapple, supra, p 298. [Ross v Onyx Oil & Gas Corp, 128 Mich App 660, 666; 341 NW2d 783 (1983).]
+In order for a pending action to abate a subsequent action, the two suits must be based on the same, or substantially the same, cause of action and request for relief. Id.
+Dismissal was properly granted in the instant case. The instant suit is virtually identical to the suit pending in district court. The only difference is that the instant suit requests higher damages. An increase in the amount of money damages alleged is insufficient to avoid dismissal. Petosky Asphalt Paving Co v Malow, 363 Mich 13, 14; 108 NW2d 768 (1961); J D Candler Roofing Co, Inc v Dickson, 149 Mich App 593; 386 NW2d 605 (1986); Ross, supra, 666-667.
+We note, however, that to the extent the circuit court granted summary disposition pursuant to MCR 2.116(C)(7) on the basis that plaintiff’s claim was barred by the statute of limitations, it erred. Plaintiff’s claim is based on breach of contract, which claim is subject to a six-year period of limitation. MCL 600.5807(8); MSA 27A.5807(8). The alleged breach occurred in February, 1976. Plaintiff’s district court action was amended in 1980 to include defendant as a party. Upon the filing of the amended complaint in 1980 and service upon defendant, the period of limitation was tolled. MCL 600.5856(1); MSA 27A.5856(1). A period of limitation is tolled during the time a suit is pending, "even if the court of original filing lacked subject-matter jurisdiction over the controversy.” Annabel v CJ Link Lumber Co, 115 Mich App 116, 121; 320 NW2d 64 (1982), rev’d on other grounds 417 Mich 950 (1983).
+Finally, plaintiff argues that the district court lacks jurisdiction in the original case because the amount requested in that suit is now over the jurisdictional limit of $10,000. Since jurisdiction is a legal question which must be decided by the court, and since the district court action in the original case has not been appealed to this Court, we decline to address this issue.
+Affirmed.
