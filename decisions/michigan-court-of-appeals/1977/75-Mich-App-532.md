@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "26687"
+decided: "1977-05-04"
+citations: ["75 Mich. App. 532"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C. J., and T. M. Burns and J. E. McDonald, JJ."]
+parties: ["PEOPLE v PETROV"]
+source_url: "https://static.case.law/mich-app/75/cases/0532-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2167765
+cites_cases: ["180 NW2d 328", "182 NW2d 772", "194 NW2d 709", "202 NW2d 769", "211 NW2d 193", "213 NW2d 848", "233 NW2d 8", "236 NW2d 461", "237 NW2d 550", "24 Mich App 411", "243 NW2d 257", "249 NW2d 384", "26 Mich App 665", "26 NW 781", "303 Mich 715", "335 Mich 457", "386 Mich 551", "388 Mich 680", "390 Mich 104", "395 Mich 379", "397 Mich 76", "407 US 514", "50 Mich App 738", "56 NW2d 349", "59 Mich 550", "60 Mich App 652", "65 Mich App 543", "7 NW2d 120", "72 Mich App 266"]
+---
+
+# People v. Petrov
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Following a jury trial, defendant was convicted of extortion, MCLA 750.213; MSA 28.410. Defendant appeals as of right.
+Defendant raises six issues on appeal. First, defendant argues that his Sixth Amendment right to a speedy trial was denied. The four factors to be examined are: 1) the length of the delay, 2) the reason for the delay, 3) the defendant’s assertion of his right, and 4) prejudice to the defendant. Barker v Wingo, 407 US 514; 92 S Ct 2182; 33 L Ed 2d 101 (1972); People v Chism, 390 Mich 104; 211 NW2d 193 (1973); People v Collins, 388 Mich 680; 202 NW2d 769 (1972). The 8-1/2 month delay, including two months on bond, was long enough to require examination of the other three factors. People v Collins, supra. The reason for the delay, the congested jury docket of the trial judge, is to be charged to the prosecution. People v Forrest, 72 Mich App 266; 249 NW2d 384 (1976). Defendant did assert his right. However, defendant failed to show any prejudice to his defense resulting from the delay. Defendant’s attorney, appointed before the preliminary examination, had ample time to investigate defendant’s defense of alibi. Balancing all four factors together reveals no constitutional violation.
+Second, defendant contends that reversible error was caused by the trial court’s action of permitting a police officer’s hearsay testimony to stand. The testimony concerned the officer’s times of dispatch to and arrival upon the scene of the first extortion threat. Defendant’s defense for that date and time was alibi. We find no reversible error because other competent testimony corroborated the hearsay. People v Kregger, 335 Mich 457; 56 NW2d 349 (1953); People v Rogers, 60 Mich App 652; 233 NW2d 8 (1975); People v Vargas, 50 Mich App 738; 213 NW2d 848 (1973).
+Defendant’s third contention is that the trial court abused its discretion in failing to grant a mistrial or give a curative instruction following a police officer’s unresponsive reference to an air gun found in defendant’s home. An unresponsive answer to a proper question is seldom cause for reversal. People v Kelsey, 303 Mich 715; 7 NW2d 120 (1942). In the present case any possible error was cured by defense counsel’s able cross-examination of the witness, wherein it was pointed out that the air gun was not used in the crime, and that ownership of an air gun as not illegal.
+Fourth, defendant argues that the trial court abused its discretion in permitting an endorsed prosecution witness to testify followng defendant’s proofs. The witness had given birth to a baby, and was unable to testify during the people’s case-in-chief. The trial court found no substantive chance that defendant would be prejudiced. We agree. We find no abuse of discretion. People v Wilson, 397 Mich 76; 243 NW2d 257 (1976). Furthermore, any possible error can properly be termed harmless beyond a reasonable doubt. People v Robinson, 386 Mich 551; 194 NW2d 709 (1972); People v Fell, 65 Mich App 543; 237 NW2d 550 (1975). The evidence of defendant’s guilt was overwhelming, including positive identifications by two other witnesses, testimony of defendant’s accomplice, surveillance of the victim and the money drop-site, and physical evidence matching the description of that used by the extortionist.
+Defendant’s fifth assignment of error concerns the prosecutor’s closing argument. We agree that the prosecutor’s statements could be taken as vouching for the guilt of defendant’s accomplice. This would be improper argument had it related to defendant himself. People v Humphreys, 24 Mich App 411; 180 NW2d 328 (1970). Defendant argues that the inference of vouching for the guilt of defendant as well is obvious. However, when read in context of the trial testimony and the entire closing arguments of both attorneys, we find no prejudicial error. The prosecutor was commenting on the accomplice’s involvement in crime as it related to his credibility. Defense counsel himself had characterized the accomplice as the "mastermind” behind the extortion plot. In addition, the accomplice had pled guilty of a lesser offense. The prosecutor was not expressing an opinion as to a disputed fact. People v Dane, 59 Mich 550; 26 NW 781 (1886); People v Miller, 26 Mich App 665; 182 NW2d 772 (1970).
+Lastly, defendant contends that the trial court erred in refusing to instruct on the crimes of larceny over $100, MCLA 750.356; MSA 28.588, and conspiracy to commit a misdemeanor, to-wit: larceny under $100, MCLA 750.157a; MSA 28.354(1). We need not reach the issue of the applicability of the cognate lesser included offense analysis of People v Ora Jones, 395 Mich 379; 236 NW2d 461 (1975), to defendant’s pre- Ora Jones trial. Even under the Ora Jones analysis, larceny under $100 and conspiracy to commit a misdemeanor are not cognate lesser included offenses of extortion. There is no overlapping of elements which coincide in the harm to the societal interest to be protected.
+For the foregoing reasons we find no reversible error.
+Affirmed.
