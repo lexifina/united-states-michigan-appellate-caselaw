@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "176337"
+decided: "1997-04-25"
+citations: ["223 Mich. App. 222"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Hoekstra, P.J., and Marilyn Kelly and J. B. Sullivan , JJ."]
+parties: ["BUSH v MOBIL OIL CORPORATION"]
+source_url: "https://static.case.law/mich-app/223/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1559511
+cites_cases: ["148 Mich App 115", "176 Mich App 661", "182 Mich App 754", "194 Mich App 329", "214 Mich App 383", "219 Mich App 555", "384 NW2d 96", "440 NW2d 629", "452 NW2d 908", "486 NW2d 128", "543 NW2d 15", "557 NW2d 154"]
+---
+
+# Bush v. Mobil Oil Corp.
+
+## Majority (Marilyn Kelly, J.)
+
+Marilyn Kelly, J.
+Defendant, Mobil Oil Coiporation, appeals as of right from the entry of a final judgment against it. Defendant argues that the trial court had no authority to enter the judgment, as Mobil had rejected the mediation award upon which it was based. We agree and reverse, remanding for further proceedings.
+i
+Plaintiff, Bush & Son Excavating and Grading, purchased 1.3 million pounds of petroleum products from defendant. Bush brought suit against defendant alleging that the products were defective or contaminated. It sought both damages for potential environmental problems caused by the defective product and environmental cleanup of resulting contamination.
+On October 27, 1993, the trial court entered a partial decláratory judgment directing defendant to remove the petroleum products from plaintiffs property in conformity and cooperation with directives from the Michigan Department of Natural Resources. After entry of the court’s order, the case was mediated. The mediators proposed a judgment in favor of plaintiff in the amount of $200,000. Plaintiff accepted the award, and Mobil accepted it conditionally, adding to it the following language:
+Note: By accepting this evaluation, Mobil’s understanding is that, if accepted by plaintiffs as well, a judgment in the amount of $200,000 will be entered in favor of plaintiffs and against Mobil which shall be deemed to dispose of all claims in this action, including any and all existing claims or related orders for equitable relief (such as the court’s order for declaratory relief dated October 27, 1993) concerning the removal of petroleum products, site assessment, or the like. MCR 2.403(k)(3), (m)(l) [sic].
+The parties and the trial court met to consider defendant’s mediation response. They concluded that there was uncertainty regarding the scope of the mediation award. The court directed the original mediation panel to reconvene and clarify its decision. A letter written by the neutral mediator, reflecting the unanimous agreement of the panel, informed the parties and court that
+the mediation award in the above matter was exclusive of any environmental cleanup costs ordered by the Court or agreed upon by the parties. The above cleanup costs, therefore, remain the sole responsibility as determined by the Court or agreement of the parties of either Mobil Oil Corporation or John J. Bush, Jr., d/b/a/ Bush & Son Excavating Grading outside the mediation damage award.
+After receiving the letter, Mobil rejected the mediation award. Nonetheless, the trial court entered judgment for plaintiff in the amount of $200,000, predicated on it. The judgment as drafted by plaintiff contained a paragraph stating that Mobil would be responsible for site cleanup. The trial court deleted this paragraph, but did not substitute language declaring which party should pay for the cleanup.
+n
+On appeal, defendant argues that the trial court erroneously entered a final judgment for plaintiff based on a mediation award that, once clarified, defendant had expressly rejected.
+At issue here is an interpretation of our court rules regarding mediation. In interpreting court rules, we apply the rules of statutory construction. Joan Automotive Industries, Inc v Check, 214 Mich App 383, 387; 543 NW2d 15 (1995); Larson v Auto-Owners Ins Co, 194 Mich App 329, 332; 486 NW2d 128 (1992). A court rule should be construed in accordance with the ordinary and approved usage of its language in light of the purpose the rule seeks to accomplish. Smith v Henry Ford Hosp, 219 Mich App 555; 557 NW2d 154 (1996). The purpose of MCR 2.403 is to expedite and simplify the final settlement of cases. Joan Automotive, supra-, Larson supra.
+We must first determine whether defendant’s response to the initial mediation evaluation was an acceptance or a rejection. MCR 2.403(L)(1) provides:
+Each party shall file a written acceptance or rejection of the panel’s evaluation with the mediation clerk within 28 days after service of the panel’s evaluation. The failure to file a written acceptance or rejection within 28 days constitutes rejection.
+Therefore, a party has two choices with respect to a mediation evaluation: (1) acceptance or (2) rejection. The court rules do not provide for conditional acceptances.
+Guidance on this issue is found in this Court’s decision in Henderson v Sprout Bros, Inc, 176 Mich App 661; 440 NW2d 629 (1989). In Henderson, the mediation evaluation included an award for the plaintiff’s claim and an award for the defendant’s counterclaim. The plaintiff attempted to accept the award on his claim and reject the counterclaim award. We noted that, where only two parties are involved, the mediation rule does not contemplate that one party accept part of the award and reject the rest. Id. at 667. Therefore, we concluded that, because the plaintiffs response did not comply with the court rules, the trial court did not err in deeming the response an acceptance. Id. at 668.
+Here, Bush relies on Henderson to support his argument that defendant’s noncompliance results in an acceptance. However, effective March 31, 1990, MCR 2.403(L)(1) was amended to provide that the failure to file a written acceptance or rejection of the evaluation constitutes a- rejection of the award. This change returns to the practice that existed under GCR 1963, 316.6(h)(1), which governed mediation actions before the adoption of MCR 2.403 in 1985. See 2 Martin, Dean & Webster, Michigan Court Rules Practice, Rule 2.403, authors’ comment, 1996 Supp, p 134. Therefore, because defendant’s response to the mediation evaluation did not conform to the court rules, the trial court should have deemed it a rejection. MCR 2.403(L)(1).
+m
+We also agree with defendant that the trial court erred in entering judgment on the mediation evaluation, where it did not dispose of all the claims in the action. MCR 2.403(M)(1) provides that, if all parties accept the mediation evaluation, the judgment entered on it “shall be deemed to dispose of all claims in the action and includes all fees, costs, and interest to the date of judgment.”
+Here, however, the judgment entered on the evaluation left a key issue unresolved: who would bear the expense of the environmental clean-up? A mediation award cannot form the basis of a settlement agreement where the evaluation leaves a material issue unresolved. R N West Constr Co v Barra Corp of America, Inc, 148 Mich App 115, 118; 384 NW2d 96 (1986).
+Plaintiff argues that the mediation evaluation left no issue unresolved. Rather, the question of who would bear the expense of the environmental cleanup had already been settled by the trial court’s order for declaratory relief. We disagree. Absent a showing that fewer than all the issues were submitted to mediation, a mediation award covers the entire matter. Acceptance of the award is a final settlement of the case and disposes of all issues including those on which an appeal is pending at the time of the acceptance. Reddam v Consumer Mortgage Corp, 182 Mich App 754; 452 NW2d 908 (1990).
+Therefore, defendant correctly assumed that the mediation award included all issues, including those pending in this Court. Once the award was clarified, defendant should have been given an opportunity to reject the award. The trial court abused its discretion by entering judgment on the award without giving defendant an opportunity to reject it, once clarified. To allow a judgment to be entered on a mediation evaluation that does not include all the claims would ran counter to the purpose to be accomplished by the rale: to simplify the final settlement of cases. Joan Automotive, supra at 388.
+In conclusion, we reverse the entry of judgment on two grounds: (1) defendant’s conditional acceptance of the mediation evaluation should have been treated by the trial court as a rejection; and (2) the mediation evaluation left unresolved a material factual issue between the parties.
+Reversed and remanded for further proceedings consistent with this opinion. Defendant being the prevailing party, it may tax costs pursuant to MCR 7.219. We do not retain jurisdiction.
