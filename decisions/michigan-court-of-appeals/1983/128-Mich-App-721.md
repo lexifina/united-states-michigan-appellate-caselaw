@@ -1,0 +1,49 @@
+---
+court: "Michigan Court of Appeals"
+docket: "63387"
+decided: "1983-09-14"
+citations: ["128 Mich. App. 721"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. E. Holbrook, Jr., P.J., and J. H. Gillis and M. E. Dodge, JJ."]
+parties: ["PEOPLE v WEBB PEOPLE v SANDBERG"]
+source_url: "https://static.case.law/mich-app/128/cases/0721-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2220808
+cites_cases: ["1 ALR4th 38", "122 Mich App 215", "238 NW2d 148", "245 NW2d 125", "247 NW2d 303", "285 NW2d 318", "289 NW2d 674", "306 US 451", "332 NW2d 413", "396 Mich 16", "398 Mich 303", "408 Mich 79", "408 Mich 905", "418 Mich 966", "442 US 114", "442 US 123", "60 L Ed 2d 764", "69 Mich App 537", "92 Mich App 433", "99 S Ct 2203"]
+---
+
+# People v. Webb
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The people appeal, by leave granted, from a circuit court decision and order holding that the child torture statute, MCL 750.136a; MSA 28.331(1), is unconstitutionally vague.
+Defendants were charged jointly with two counts of child cruelty, MCL 750.136; MSA 28.331, for their treatment of defendant Webb’s two children, Trevor and Derek, and one count of torturing a child, MCL 750.136a; MSA 28.331(1), for their treatment of Derek. Following the preliminary examination, the district judge ordered both defendants bound over on the cruelty count pertaining to Derek, but refused to bind defendants over on the torture count, finding, in part, that the child torture statute is impermissibly vague.
+The people filed a claim of appeal in the circuit court challenging the district court’s dismissal of the torture count. On February 5, 1982, the circuit court entered an opinion and order finding that the child torture statute is unconstitutionally vague.
+On October 5, 1981, while the prosecutor’s appeal was pending in the circuit court, defendant Sandberg pled guilty to child cruelty and was sentenced to five years probation, the first year to be served in the county jail. Defendant Webb is presently awaiting trial on the cruelty count.
+The child cruelty statute, MCL 750.136; MSA 28.331, provides in part:
+"Any parent or guardian or person under whose protection any child may be, who cruelly or unlawfully punishes, or wilfully, unlawfully or negligently deprives of necessary food, clothing or shelter, or who wilfully abandons a child under 16 years of age, or who habitually causes or permits the health of such child to be injured, his or her life endangered by exposure, want or other injury to his or her person, or causes or permits him or her to engage in any occupation that will be likely to endanger his or her health, or deprave his or her morals or who habitually permits him or her to frequent public places for the purpose of begging or receiving alms, or to frequent the company of or consort with reputed thieves or prostitutes, or by vicious training depraves the morals of such child, shall, upon conviction, be deemed guilty of a felony.”
+The child torture statute, MCL 750.136a; MSA 28.331(1), provides:
+“Any parent or guardian or person under whose protection or control any child may be, who tortures such child, shall be guilty of a felony and may be punished by imprisonment for not more than 10 years.”
+A statute may be challenged for vagueness on three grounds: (1) it does not provide fair notice of the conduct proscribed; (2) it confers on the trier of fact unstructured and unlimited discretion to determine whether an offense has been committed; and (3) its coverage is overbroad and impinges on First Amendment freedoms. People v Howell, 396 Mich 16, 20; 238 NW2d 148 (1976). In the instant case, only the first and second grounds are cited.
+The circuit court expressed two major concerns in striking down the statute. First, the court noted the varied and subjective meanings which may attach to the term "torture”:
+"Unlike the various degrees of the assault statutes, with their explicit and distinguishing elements, judges, juries, police and prosecuting attorneys are left to their own subjective judgment as to what constitutes the crime of torture. Such imprecision in a criminal statute must invalidate it.” (Footnote omitted.)
+Second, the court found that the statutory scheme fails to provide an adequate line of distinction between cruelty to a child and torture of a child.
+In People v Biegajski, 122 Mich App 215, 224-225; 332 NW2d 413 (1982), a panel of this Court rejected a vagueness challenge to the torture statute, stating:
+"Defendant claims the child torture statute is violative of the first two prongs of the Howell test because the statute does not define the word 'torture’.
+"The standard employed for ascertaining whether a criminal statute is void for vagueness was enunciated in Lanzetta v New Jersey [306 US 451, 453; 59 S Ct 618; 83 L Ed 888 (1939)]:
+" '[A] statute which either forbids or requires the doing of an act in terms so vague that men of common intelligence must necessarily guess at its meaning and differ as to its application, violates the first essential of due process of law.’ ”
+The Court concluded that the word "torture” has a common and ordinary meaning, and that the statute would not cause people of common intelligence to speculate as to its meaning.
+Where a statutory term is not defined in the statute, it is to be given its ordinary meaning. An examination of various dictionary definitions discloses that "torture” refers to the intentional infliction of intense or severe pain for various purposes such as sadistic pleasure, coercion, and punishment. We interpret the child torture statute as requiring a showing that the defendant intentionally inflicted extreme, intense, or severe pain or injury upon the victim. This high degree of pain or injury is an additional element which is not contained in the child cruelty statute. Moreover, the fact that two criminal provisions punish the same conduct does not mean the statutes are unconstitutionally vague. So long as overlapping criminal provisions clearly define the conduct prohibited and the punishment authorized, the notice requirements of the Due Process Clause are satisfied. United States v Batchelder, 442 US 114, 124; 99 S Ct 2198, 2204; 60 L Ed 2d 755, 764 (1979).
+We conclude that the term "torture” does have a commonly understood meaning which gives a person of ordinary intelligence fair notice that his contemplated conduct is forbidden. Batchelder, supra, 442 US 123; 99 S Ct 2203-2204; 60 L Ed 2d 764. The circuit court’s order is reversed and the case is remanded to the district court for a determination of whether there is sufficient evidence to bind defendants over on the child torture count.
+The remaining issue pertains only to defendant Sandberg. During the pendency of the circuit court appeal, Sandberg, over the prosecutor’s objection, was permitted to plead guilty to the offense of child cruelty. The factual basis supporting the child cruelty plea is the same factual basis which supports the child torture charge. Defendant asserts that his ultimate trial and conviction of child torture would violate the constitutional bar against double jeopardy.
+The Double Jeopardy Clause does not bar a separate trial on the child torture count. The double jeopardy "same transaction” test (which requires simultaneous trials on charges based upon the same criminal act, occurrence, or transaction) is designed to prevent harassment of the defendant. However, where a defendant either requests separate trials or precludes a single trial by pleading guilty to one charge with knowledge that the prosecutor intends to proceed on the other charge the Double Jeopardy Clause has been satisfied. See Wayne County Prosecutor v Recorder’s Court Judge, 92 Mich App 433, 442; 285 NW2d 318 (1979), lv den 408 Mich 905 (1980); People v Kenneth Smith, 69 Mich App 537; 245 NW2d 125 (1976). Defendant has therefore waived his right to a single trial.
+However, we agree with defendant that the Double Jeopardy Clause bars his ultimate conviction under both the child torture statute and the child cruelty statute, where the two counts are based upon a single criminal act. In People v Jankowski, 408 Mich 79, 86; 289 NW2d 674 (1980), the Supreme Court stated that if, factually, two convictions are based on proof of a single act, the separate crimes consist of nothing more than a greater crime and a lesser included oifense. If such is the case, the multiple convictions will not be allowed to stand.
+In the present case, the torture count rests upon the same factual basis as the child cruelty conviction. Should the prosecutor ultimately obtain a conviction under the child torture statute, the proper procedure would be to vacate the lesser conviction and credit defendant’s sentence under the torture conviction with time served under the cruelty conviction. People v Martin, 398 Mich 303; 247 NW2d 303 (1976).
+Reversed and remanded to the district court for proceedings consistent with this opinion.
+The cruelty count pertaining to Trevor was dismissed by the court after a motion of the prosecutor.
+Black’s Law Dictionary (5th ed); Webster’s Third New International Dictionary, Unabridged (1966) Edition; The American Heritage Dictionary: New College Edition.
+The Court in People v Biegajski, 122 Mich App 215; 332 NW2d 413 (1982), while discussing the defendant’s double jeopardy claim, found that child cruelty is distinct from child torture in that the former offense involves punishment while the latter does not. We do not agree with that analysis. Cruel or unlawful punishment is only one aspect of the offense of child cruelty. We believe the proper line of distinction between the offenses is not the defendant’s motive, but, rather, the degree of severity of the injury inflicted.
+US Const, Am V; Const 1963, art 1, § 15.
