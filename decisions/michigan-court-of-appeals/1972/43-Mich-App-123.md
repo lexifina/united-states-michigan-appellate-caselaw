@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "12805"
+decided: "1972-09-27"
+citations: ["43 Mich. App. 123"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Gillis, P. J., and McGregor and Bronson, JJ.", "All concurred."]
+parties: ["MANUFACTURERS CONSTRUCTION COMPANY v COVENANT INVESTMENT COMPANY"]
+source_url: "https://static.case.law/mich-app/43/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2114853
+cites_cases: ["120 ALR 8", "30 Mich App 352", "31 Mich App 613", "34 Mich App 499", "37 Mich App 132", "388 Mich 810"]
+---
+
+# Manufacturers Construction Co. v. Covenant Investment Co.
+
+## Majority (Bronson, J.)
+
+Bronson, J.
+Plaintiff sued defendants for breach of a contract to repair defendants’ premises which were damaged by fire. Defendants filed a motion for accelerated judgment based upon the affirmative defense of lack of capacity to sue. The trial judge granted this motion and plaintiff appealed by right.
+On November 29, 1968, a fire occurred on defendants’ premises located in the City of Detroit, substantially damaging the property. On the same day defendants entered into a contract with plaintiff to repair the property in consideration for the adjusted proceeds from the fire-insurance coverage in effect. After defendants refused to forward the proceeds in the amount of $11,200 to plaintiff, it instituted suit on January 23, 1970, in the Wayne County Circuit Court for breach of contract. On May 4, 1970, defendants filed a motion for summary judgment which was denied by the trial judge without prejudice to amend. On July 21, 1970, defendants filed an amended answer raising the affirmative defense of lack of capacity to sue based upon plaintiffs failure to file an annual report and pay franchise fees pursuant to MCLA 450.87; MSA 21.87. The trial judge permitted the amendment and defendants subsequently filed a motion for accelerated judgment on July 9, 1971. After considering the parties’ legal arguments, the trial judge delineated the basis of his opinion for granting the motion upon the record. Plaintiff challenges the validity of this decision, claiming that (1) defendants’ failure to raise the affirmative defense in its first responsive pleading constituted a waiver and (2) acceptance of defendants’ belated motion was not in conformity with GCR 1963, 116.
+Plaintiff’s first allegation of error is not persuasive. Its reliance upon sections 2 and 3 of GCR 1963, 111 for the proposition that defenses must be either raised by motion or included in the "responsive pleading” upon pain of waiver is inadequate. This procedure must be compared with the provisions of GCR 1963, 118.1 which permits a party to amend its pleadings by leave of the court. The interrelationship of these two court rules is found in 1 Honigman & Hawkins, Michigan Court Rules Annotated (2d ed), p 200 and p 414, where the authors comment:
+"However, where amendment is permitted to raise defenses which might otherwise be waived, the amendment will serve to eliminate the waiver.
+"Rule 118 imposes no subject matter restrictions on amendments to pleadings. Therefore, amendments by leave of court, as well as amendments without leave, may introduce new parties, new matter, or new causes of action or defenses, unless precluded by the rules of joinder or the statute of limitations.” (Emphasis added.)
+This language reveals the propriety in permitting the amendment process to supersede the imposition of a waiver based upon Rule 111. The rationale for this result flows from the relation-back provision of GCR 1963, 118.4 which includes subsequent amendments in the original pleadings. This transformation process enables an amended defense to become part of the "responsive pleading” in conformity with section 2 of Rule 111. Compliance in this manner precludes the imposition of a waiver.
+The acceptance or rejection of a proposed amendment falls within the trial judge’s discretion. Miller v Green, 37 Mich App 132 (1971); Grove v Story Oldsmobile, Inc, 31 Mich App 613 (1971); Fred Gibbs, Inc v Old Colony Insurance Co, 30 Mich App 352 (1971). Plaintiff raises no allegation of abuse of discretion and the trial judge’s decision is affirmed.
+Plaintiff’s alternative contention based upon noncompliance with GCR 1963, 116 discloses a degree of inconsistency between Rules 116 and 118. The provisions of Rule 116 provide for a single motion for accelerated judgment which must be offered prior to or concurrent with the first responsive pleading. Plaintiff’s contention is first predicated upon a claim that defendants’ motion for summary judgment was in essence a mislabeled motion for accelerated judgment and the granted motion for accelerated judgment constituted a second motion in violation of the court rules. We need not reach this claim since we accept the trial judge’s disposition of the summary judgment as labeled and refuse to negate the action actually taken by an anticipatory recharacterization of that motion. Since the motion for summary judgment is not a responsive pleading within the meaning of GCR 1963, 116, it could not preclude a subsequent motion for accelerated judgment. Continental Insurance Co v B & B Educator Sales, Inc, 34 Mich App 499 (1971).
+The primary issue is created by plaintiff’s claim that the trial judge erred hy accepting the motion for accelerated judgment which was admittedly filed after the first responsive pleading. After alluding to the absence of case law upon this issue, the learned trial judge considered the competing policy considerations in his statements that:
+"However, it would seem that the general objective of the court rules to secure the just, speedy, and inexpensive-determination of every action so as to avoid the consequences of any error or defect in the proceedings which does not affect a substantial right of the parties is achieved by giving the court broad power to permit an amendment and the insertion, by amendment, of any defense which the trial judge believes to be appropriate in the case.
+"Now, if he could raise it at trial, I see no reason why we should not consider it and dispose of it here, and the facts appear to be undisputed.”
+This construction and disposition is not consistent with a literal reading of the requirement in Rule 116 that motions for accelerated judgment occur prior to or concurrently with the first responsive pleading. However, the acceptance of amendments raising affirmative defenses which will completely dispose of the case necessarily creates this problem each time the amendment is followed by a motion for accelerated judgment. Requiring a party in such case to await trial to preserve the purity of Rule 116 would yield counter-productive results.
+The trial judge’s opinion evidences a proper attempt to balance these considerations. Notwithstanding defendants’ lengthy delay in filing the motion for accelerated judgment, he believed that disposition upon the motion was more consistent with the prudent administration of justice than awaiting a dismissal at trial. His decision conforms with GCR 1963, 13 requiring a construction of the rules "to secure the just, speedy, and inexpensive determination of every action” and it is affirmed.
+Affirmed.
+All concurred.
+Although defendants Dale were the actual contracting parties, Covenant Investment Company is included in all references to defendants because of the identity of legal interests.
