@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "62985"
+decided: "1983-05-05"
+citations: ["125 Mich. App. 620"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P.J., and D. E. Holbrook, Jr., and P. J. Marutiak, JJ."]
+parties: ["STATE TREASURER v BROWN"]
+source_url: "https://static.case.law/mich-app/125/cases/0620-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2226020
+cites_cases: ["110 Mich App 228", "1935 PA 235", "237 NW2d 498", "258 NW2d 11", "312 NW2d 418", "331 US 704", "401 Mich 340", "409 US 413", "434 US 1087", "616 F2d 828", "65 Mich App 447"]
+---
+
+# State Treasurer v. Brown
+
+## Majority (D. E. Holbrook, Jr., J.)
+
+D. E. Holbrook, Jr., J.
+Plaintiff appeals as of right the trial court’s order denying plaintiffs claim for reimbursement of expenses incurred in maintaining defendant prisoner, pursuant to the Prison Reimbursement Act, 1935 PA 235; MCL 800.401 et seq.; MSA 28.1701 et seq.
+On September 3, 1981, plaintiff filed a complaint in Jackson County Circuit Court, alleging that defendant held assets exceeding $12,498. Said assets were held by the Michigan Department of Corrections in defendant’s inmate account. The complaint sought an order requiring defendant to respond to plaintiffs claim for reimbursement and to show cause why a guardian should not be appointed in accordance with said act. At the show cause hearing, defendant advised the court that his assets consisted of accumulated monthly social security disability benefits. On February 2, 1982, the trial court issued a written opinion which denied plaintiffs claim, concluding that defendant’s assets were exempt by virtue of the broad language of 42 USC 407 found in the Social Security Act. On February 17, 1982, the trial court issued a final order denying plaintiffs claim.
+The sole issue raised on appeal is whether the provisions of 42 USC 407 exempt defendant’s accumulated social security benefits from the state’s claim under the Prison Reimbursement Act. There is no question that the Prison Reimbursement Act "imposes a statutory duty on a resident of a state penal institution to pay for the cost of his incarceration”. Dep’t of Treasury v Turner, 110 Mich App 228; 312 NW2d 418 (1981). It is also apparent plaintiff followed the proper procedure in pressing its claim for reimbursement. Turner, supra.
+However, the Social Security Act, 42 USC 407, provides:
+"The right of any person to any future payment under this subchapter shall not be transferable or assignable, at law or in equity, and none of the moneys paid or payable or rights existing under this subchapter shall be subject to execution, levy, attachment, garnishment, or other legal process, or to the operation of any bankruptcy or insolvency law.”
+In denying plaintiffs claim, the trial court relied on Philpott v Essex County Welfare Board, 409 US 413; 93 S Ct 590; 34 L Ed 2d 608 (1973), in which the United States Supreme Court rejected a state welfare agency’s claim for reimbursement from a welfare recipient’s social security disability benefits. The Court in Philpott took note that 42 USC 407 framed the exemption for social security disability benefits in broad terms:
+"On its face, the Social Security Act in § 407 bars the State of New Jersey from reaching the federal disability payments paid to Wilkes. The language is all-inclusive: '[N]one of the moneys paid or payable * * * under this subchapter shall be subject to execution, levy, attachment, garnishment, or other legal process * * Philpott, supra, p 415. (Footnote omitted.)
+However, we find a fundamental distinction between the present case and Philpott as recognized in Dep’t of Health v Davis, 616 F2d 828 (CA 5, 1980). That court distinguished Philpott as follows:
+"With regard to the social security statute, the Supreme Court in Philpott v Essex County Welfare Board, 409 US 413; 93 S Ct 590; 34 L Ed 2d 608 (1973), precluded a state from recovering financial assistance rendered to a person claiming permanent and total disability. Philpott is different from this case, however, since there the welfare recipient was capable, at least in part, of providing for his own care, and the state was not acting in loco parentis, as it is here. The beneficiary in Philpott was merely receiving assistance in providing for himself. Glasscock, however, determined to be incompetent by the Veterans’ Administration since February 21, 1952, has been in confinement until the present because he is apparently incapable of caring for himself to any degree. Glasscock has had no needs during. the period he has been in the Florida State Hospital that were not met by the state. Accordingly, the state is seeking to have the guardian, who is responsible for overseeing her ward’s care and maintenance, do what is required by Florida law: apply the benefits received by the ward for care and maintenance to reimburse Florida for undertaking his care and maintenance. Thus, contrary to the guardian’s argument, Philpott does not control the outcome of this case.” Davis, supra, p 830. (Emphasis supplied.)
+The case at bar is similar to Davis since defendant is a prisoner whose care and maintenance has been provided by the Department of Corrections. Unlike the beneficiary in Philpott, defendant has no need for his social security disability benefits.
+Additional authority exists in In re Vary Estate, 65 Mich App 447; 237 NW2d 498 (1975), aff'd 401 Mich 340; 258 NW2d 11 (1977), cert den 434 US 1087 (1978), where the state sought reimbursement for the costs of decedent’s institutionalization, pursuant to the former MCL 330.17; MSA 14.807 (since repealed by the new Mental Health Code, MCL 330.1800 et seq.; MSA 14.800[800] et seq.). The Court framed the issue as follows:
+"Thus the sole decisional issue is whether § 207 of the Social Security Act prohibits the use of social security benefits for the payment of accrued claims against the estate of the beneficiary after the beneficiary’s death.” Vary, supra, pp 450-451.
+The Court looked behind the broad language of 42 USC 407 and the opinion in Philpott, and found dispositive the fact that the deceased social security beneficiary had no further need for the accumulated benefits. Based upon this finding, the Court concluded that allowing the state to obtain reimbursement would not offend the policies underlying the Social Security Act or the exemptions set forth in 42 USC 407. The Court went on to say:
+"The underlying principle of the system is to protect the social security beneficiaries from some of the hardships of existence. United States v Silk, 331 US 704, 711; 67 S Ct 1463; 91 L Ed 1757 (1947). It simply does not comport with the philosophy of the Social Security Act to allow a creditor to take what is necessary for bare existence at the current time for past debts. Even allowing a creditor to reach accumulations of benefits does not comport with this philosophy since at any time the accumulation may be necessary for the recipient’s current needs.” Vary, supra, p 452.
+However, the Court stated:
+"In the present case all the decedent beneficiary’s current needs were met when the funds in the guardianship account were used to provide her with a Christian burial. At the present time the decedent has no reasonably foreseeable current needs. There is no use to which the funds could be put that will aid the decedent in meeting the barest essentials of life.” Vary, supra, p 452. (Emphasis supplied.)
+On the basis of the foregoing we hold that reimbursement of the state from defendant’s benefits would not offend the policies underlying the Social Security Act or, more specifically, 42 USC 407. The trial court erred in entering an order denying plaintiff’s claim for reimbursement pursuant to the Prison Reimbursement Act.
+Reversed. No costs. A public question involved.
