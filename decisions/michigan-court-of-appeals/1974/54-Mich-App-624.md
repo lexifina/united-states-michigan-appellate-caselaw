@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "16756"
 decided: "1974-08-12"
-citations: ["54 Mich. App. 624", "59 Mich. App. 654"]
+citations: ["54 Mich. App. 624"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v KOEHLER"]
 source_url: "https://static.case.law/mich-app/54/cases/0624-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2134132
-cites_cases: ["11 Mich App 727", "149 NW2d 216", "154 NW2d 590", "162 NW2d 163", "171 NW2d 33", "18 Mich App 228", "185 NW2d 822", "188 NW2d 635", "190 NW2d 343", "190 NW2d 739", "192 NW2d 494", "193 NW2d 189", "194 NW2d 450", "196 NW2d 817", "201 NW2d 286", "207 NW2d 180", "207 NW2d 200", "208 NW2d 624", "210 NW2d 336", "213 NW2d 106", "213 NW2d 597", "215 NW2d 587", "215 NW2d 774", "216 NW2d 473", "220 NW2d 76", "221 NW2d 398", "235 NW 225", "25 Mich 405", "253 Mich 476", "29 Mich App 613", "32 Mich App 372", "33 Mich App 548", "34 Mich App 130", "36 Mich App 23", "37 Mich App 25", "38 Mich App 512", "385 Mich 775", "386 Mich 330", "390 Mich 629", "390 Mich 7", "42 Mich App 278", "45 Mich App 614", "45 Mich App 630", "46 Mich App 598", "50 Mich App 487", "51 Mich App 526", "51 Mich App 534", "51 Mich App 777", "53 Mich App 443", "54 Mich App 624", "6 Mich App 406", "8 Mich App 239"]
+cites_cases: ["11 Mich App 727", "149 NW2d 216", "154 NW2d 590", "162 NW2d 163", "171 NW2d 33", "18 Mich App 228", "185 NW2d 822", "188 NW2d 635", "190 NW2d 343", "190 NW2d 739", "192 NW2d 494", "193 NW2d 189", "194 NW2d 450", "196 NW2d 817", "201 NW2d 286", "207 NW2d 180", "207 NW2d 200", "208 NW2d 624", "210 NW2d 336", "213 NW2d 106", "213 NW2d 597", "215 NW2d 587", "215 NW2d 774", "216 NW2d 473", "220 NW2d 76", "235 NW 225", "25 Mich 405", "253 Mich 476", "29 Mich App 613", "32 Mich App 372", "33 Mich App 548", "34 Mich App 130", "36 Mich App 23", "37 Mich App 25", "38 Mich App 512", "385 Mich 775", "386 Mich 330", "390 Mich 629", "390 Mich 7", "42 Mich App 278", "45 Mich App 614", "45 Mich App 630", "46 Mich App 598", "50 Mich App 487", "51 Mich App 526", "51 Mich App 534", "51 Mich App 777", "53 Mich App 443", "6 Mich App 406", "8 Mich App 239"]
 ---
 
 # People v. Koehler
