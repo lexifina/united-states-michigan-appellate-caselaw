@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "13862"
+decided: "1973-06-26"
+citations: ["48 Mich. App. 34"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P. J., and T. M. Burns and Peterson, JJ.", "All concurred.."]
+parties: ["SALZER v STATE TREASURER"]
+source_url: "https://static.case.law/mich-app/48/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2106567
+cites_cases: ["1 Mich App 30", "133 NW2d 206", "191 NW2d 160", "1929 PA 172", "1931 PA 130", "206 NW2d 267", "34 Mich App 287", "45 Mich App 110"]
+---
+
+# Salzer v. State Treasurer
+
+## Majority (T. M. Burns, J.)
+
+T. M. Burns, J.
+Plaintiffs appeal the entry of an accelerated judgment dismissing a petition to vacate Montgomery Boulevard, which is located in Pentwater Township, Oceana County.
+Montgomery Boulevard was dedicated as a public street on plats recorded in the years 1902 and 1903. On September 22, 1971, plaintiffs filed a petition to vacate Montgomery Boulevard as a public street asserting it had not been accepted "in any manner or form by any public authority, municipal body or individual empowered and authorized by law to accept the same”.
+The Oceana County Road Commission filed an appearance and moved for an accelerated judgment pursuant to GCR 1963, 116.1(2) on the grounds that since the- county road commission had adopted a resolution accepting Montgomery Boulevard as part of the county road system on July 25, 1962, the circuit court was without jurisdiction to vacate the street. See MCLA 560.226; MSA 26.430(226). Numerous other objections were filed by various governmental bodies and by citizens residing in the area.
+On February 28, 1972, the Oceana County Circuit Court relying on its interpretation of Bangle v State Treasurer, 34 Mich App 287; 191 NW2d 160 (1971), granted the road commission’s motion for an accelerated judgment. The court ruled that although under former law it would have been obligated to ascertain whether or not the street in question was dedicated to the public and formally or informally accepted . by the public, under Bangle, supra, "approval of a plat by a governmental subdivision wherein roads are dedicated to the public constitutes a statutory dedication of the land in the roadways and vests the fee in the municipality in trust for the public”. The court went on to point out that MCLA 560.226; MSA 26.430(226) provides that a street dedicated to the public may-.only be vacated by approval of the municipal governing body and by court order. Since the township, of Pentwater refused to approve the vacation of Montgomery Boulevard and in fact objected to the vacation, the circuit court concluded that it was barred from ruling upon the plaintiffs’ petition.
+Under the circumstances of the instant case, we are not persuaded that the circuit court was necessarily foreclosed from passing upon the merits of the plaintiffs’ petition.
+The pertinent part of MCLA 560.226; MSA 26.430(226) reads:
+"No part of a street * * * dedicated to the public may be vacated, * * * except by both a resolution or other legislative enactment duly adopted by the governing body of the municipality and by court order.” (Emphasis added.)
+In order for the statute to become operative, it is clear that the iand in question must have been "dedicated to the public”. Therefore our question in the case at bar narrows down to whether Montgomery Boulevard was dedicated to the public.
+Land is not considered dedicated to the public unless the owner of the fee (1) appropriates it to some public use and (2) it is accepted for such use by or in behalf of the public. Elias Brothers Inc v Hazel Park, 1 Mich App 30, 34; 133 NW2d 206, 208 (1965).
+In Bangle, supra, a petition to vacate certain land was dismissed by the Lake County Circuit Court. The realty sought to be vacated had been set out in a plat by the owner and dedicated to the public. The local township board subsequently approved the plat. This Court citing §§ 253 and 266 of the Subdivision Control Act of 1967 (MCLA 560.101 et seq.; MSA 26.430 [101] et seq.) affirmed the dismissal by concluding that the owner’s plat dedicating the land to the public coupled with the township board’s approval of the plat constituted a statutory dedication and since the board did not agree to the proposed vacation, the circuit court was correct in dismissing the petition.
+After reviewing the authorities in the area, it is our opinion that Bangle erroneously equated township approval of a plat with formal acceptance. Other than Bangle, we can find no cases under the Subdivision Control Act of 1967, or its predecessor the Plat Act of 1929, which holds that the mere approval of a plat by a local governmental body will in and of itself constitute acceptance of those lands in the plat dedicated to the public. Our review of the statutes leads us to the conclusion that the plat approval required by the 1929 and 1967 acts has reference to plat standards and that this approval standing alone will not amount to formal acceptance. In any event, it is clear that Bangle did not dispense with the appropriation and acceptance requirements for dedication of land to the public, particularly where, as here, the statute in effect at the time the plats were recorded did not require such approval. Jones v Crawford County Road Commission, 45 Mich App 110; 206 NW2d 267 (1973).
+Here the circuit court failed to ascertain whether the township of Pentwater ever accepted Montgomery Boulevard in any manner. Absent such an acceptance, there could be no dedication. Without a dedication, the township’s lack of approval for the vacation of Montgomery Boulevard was of no consequence, and MCLA 560.226; MSA 26.430(226) would not operate to bar the circuit court’s consideration of plaintiffs’ petition. Since the lower court failed to find whether there had been a valid acceptance of Montgomery Boulevard on the part of Pentwater Township, it is not clear whether the circuit court was foreclosed from ruling on the merits of plaintiffs’ petition. Therefore the findings of fact made by the circuit court are insufficient for this Court to sustain the accelerated judgment.
+One more question deserves attention since it may arise on retrial. As set forth earlier, the county road commission moved for an accelerated judgment on the ground that Montgomery Boulevard was a county road and that as a county road the circuit court was without jurisdiction to grant or deny plaintiffs’ vacation petition. The road commission’s motion was based on that portion of MCLA 560.226; MSA 26.430(226) which provides:
+"No part of a county road may be vacated * * * except by the county road commission having jurisdiction.”
+Plaintiffs asserted that the statute relied on by the road commission was not applicable because Montgomery Boulevard was not a county road in that the road commission’s resolution incorporating the boulevard into the county road system on July 25, 1962, was not timely in light of MCLA 247.669; MSA 9.1097(19), effective July 1, 1957, which reads:
+"The board of county road commissioners in each of the several counties shall, within 1 year from the effective date of this act, complete the taking over as county roads all roads, streets and alleys heretofore required to be taken over as county roads by the provisions of Act No. 130 of the Public Acts of 1931 as amended * * * .” (Emphasis added.)
+However, the timeliness of the road commission’s resolution is not controlling. A county road commission has no power to incorporate a private street into the county road system. Therefore on retrial if the facts disclose Montgomery Boulevard was a private road by reason of the township’s failure to accept it, the county road commission could not incorporate the boulevard into the county road system at any date. On the other hand in the event the facts disclose Montgomery Boulevard was accepted by the township and thereby became a public road, only then must it be ascertained whether the road commission’s resolution on July 25, 1962, was timely in view of MCLA 247.669; MSA 9.1097(19).
+Therefore, inasmuch as the outcome of the instant appeal turns upon whether Montgomery Boulevard was a public or private roadway and since the circuit court failed to make such a finding, the accelerated judgment dismissing plaintiffs’ petition is reversed.
+All concurred..
+1929 PA 172; MCLA 560.1 etseq.; MSA 26.431 et seq.
+1897 CL 3372
+See MCLA 247.669; MSA 9.1097(19), which refers to 1931 PA 130, popularly known as the McNitt Act.
