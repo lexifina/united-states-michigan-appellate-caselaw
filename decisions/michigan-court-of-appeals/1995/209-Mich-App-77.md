@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "172059"
+decided: "1995-02-22"
+citations: ["209 Mich. App. 77"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Doctoroff, C.J., and McDonald and W. J. Giovan, JJ."]
+parties: ["STRAUB v STRAUB"]
+source_url: "https://static.case.law/mich-app/209/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1876907
+cites_cases: ["15 ALR5th 692", "182 Mich App 769", "196 Mich App 491", "29 ALR3d 366", "447 Mich 871", "452 NW2d 910", "493 NW2d 434", "526 NW2d 889"]
+---
+
+# Straub v. Straub
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals as of right from a January 20, 1994, order denying her petition for a change of custody of her minor daughter from the daughter’s paternal grandparents to herself. We reverse and remand for further proceedings consistent with this opinion.
+During her divorce from plaintiff Mark E. Straub, defendant voluntarily relinquished custody of her daughter, Crystal, to plaintiffs Carl and Margaret Straub. All parties concerned admit the custody arrangement was understood to be temporary, and that defendant was to regain custody once she was able to provide a stable home for Crystal.
+With the aid of counseling and extensive participation in Alcoholics Anonymous, at the time of trial defendant had remained sober since October 30, 1991, had begun furthering her education, and had maintained an adequate residence. There appears to be no dispute defendant has taken control of her life and created an adequate environment in which to raise her daughter. Nonetheless, the trial court denied defendant’s petition for custody.
+Although the court acknowledged the existence and applicability of two conflicting presumptions— the presumption that the best interest of a child is served by awarding custody to the natural parent, MCL 722.25; MSA 25.312(5), and the rule that absent clear and convincing evidence to the contrary, custody will not be changed when there is an established custodial environment, MCL 722.27(1)(c); MSA 25.312(7)(1)(c) — it is unclear how the court reconciled the presumptions.
+This Court addressed the conflicting nature of these presumptions in Rummelt v Anderson, 196 Mich App 491; 493 NW2d 434 (1992). Settling a conflict regarding the issue among panels of this Court, the Rummelt panel determined the existence of the two presumptions reduces the burden of persuasion from clear and convincing to a preponderance of the evidence, and that the burden of persuasion rests with the parent challenging an established custodial environment in the home of a third party. Thus, in the present matter, defendant was required to show by a preponderance of the evidence that awarding her the custody of her daughter was within Crystal’s best interest. We believe she met this burden.
+In considering the best interest factors found in MCL 722.23; MSA 25.312(3), the trial court found there was equal weight to both parties on factors a through c. As previously noted, with regard to factor d, the trial court found the grandparents had established a custodial environment. Regarding factor e, permanence with a family unit, the trial court gave a slight edge to the grandparents because Crystal had her own room at their house. With regard to factors f and g, moral fitness and the mental and physical health of the parties, the trial court did not believe defendant would relapse. However, it found the grandparents had had an established home for thirty-five years, while defendant had only established herself and her sobriety for over two years and, on that basis, found it had to give a clear edge to the grandparents with regard to those factors. We believe the court clearly erred in this finding. Rummelt, supra. Under these factors, the fact the grandparents were many years older and thus had had an established home for more years than defendant should not have been given the weight afforded it by the trial court. No evidence was presented that defendant had done anything improper in Crystal’s presence or had been anything except an exemplary parent during the 2½ years proceeding the trial. The factors of moral, mental, and physical fitness, like all the other factors, should have been found to be equal between the parties.
+Given defendant had the burden of proving by a preponderance of the evidence that Crystal’s best interests would be served if custody were given to defendant, and now having concluded the evidence presented indicated the best interest factors were equal between the parties, it would appear the trial court reached the correct result. However, we find the court erred in failing properly to consider one additional factor. Defendant voluntarily relinquished custody of Crystal with the understanding that the arrangement was to be temporary. Because all the parties agreed this was the understanding at the time the grandparents obtained custody, the trial court’s finding to the contrary is against the great weight of the evidence. This Court has determined it to be good public policy to encourage parents to transfer custody of their children to others temporarily when they are in difficulty by returning custody when they have solved their difficulty. Loyd v Loyd, 182 Mich App 769; 452 NW2d 910 (1990). Application of this policy here tips an otherwise equal scale in defendant’s favor.
+Considering this factor, we believe the court abused its discretion in failing to grant defendant’s petition for a change of custody. We therefore remand the matter to the trial court for reconsideration of its custody award. The court is to consider all up-to-date information arising since the trial court’s original custody order. Fletcher v Fletcher, 447 Mich 871; 526 NW2d 889 (1994). We do not retain jurisdiction.
+Reversed and remanded.
+An award granting temporary physical custody to the grandparents was entered on October 2, 1990. An order granting them permanent custody was entered on October 18, 1990. Plaintiff Mark Straub’s and defendant’s judgment of divorce, granting legal custody to the grandparents, was entered on June 7,1991.
+In considering the child custody factors, MCL 722.23; MSA 25.312(3), the trial court found with regard to factor d that the grandparents had established a custodial environment for Crystal. Contrary to defendant’s assertions, this finding is well supported by the record.
