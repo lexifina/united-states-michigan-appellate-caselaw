@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77139"
+decided: "1985-02-13"
+citations: ["146 Mich. App. 128"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P.J., and J. H. Gillis and W. J. Giovan, JJ."]
+parties: ["PEOPLE v McCLELLAN"]
+source_url: "https://static.case.law/mich-app/146/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2259721
+cites_cases: ["16 ALR4th 1089", "282 NW2d 168", "315 NW2d 537", "407 Mich 96", "412 Mich 565"]
+---
+
+# People v. McClellan
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+On his pleas of guilty, defendant was convicted of felonious assault, MCL 750.82; MSA 28.277, and as an habitual offender, fourth offense, MCL 769.12; MSA 28.1084. Defendant was sentenced to a prison term of from 40 months to 8 years on the convictions. The appeal is as of right.
+The incident which formed the basis of defendant’s convictions occurred at a K-mart store in Southfield. Defendant purchased a drill and a saw, but at the same time he placed some drill bits into his pants pocket. This was apparently witnessed by the store detective, who then confronted defendant. Security was alerted and when the defendant attempted to leave the store he noticed the detective who confronted him earlier waiting outside the store. Defendant then removed the drill bits from his pocket, threw them aside, and left the store.
+Once outside, defendant was confronted by the security detective and was asked to accompany him back into the store. Defendant complied, but at some point in the store he sprayed the detective with mace and attempted to escape. Defendant was apprehended in the parking lot and taken to the Southfield police station.
+Defendant raises two issues on appeal. First, he contends that the prosecutor abused his discretion by overcharging. The original information filed in this matter charged defendant with armed robbery, and a supplemental information was filed soon thereafter. However, the prosecutor moved to amend the information at the plea-taking session to replace the armed robbery charge with one count of felonious assault and one count of larceny in a building. The prosecutor explained that his investigation of the incident revealed that defendant relinquished possession of the stolen goods some time prior to the assault. Thus, the assault was unrelated to the robbery and was committed solely for the purpose of escaping, rendering the armed robbery statute inapplicable. The prosecutor then informed the trial court of a plea agreement pursuant to which defendant would plead guilty to the felonious assault charge in exchange for a dismissal of the larceny in a building charge.
+Defendant now argues that he was unable to deal rationally with the plea agreement due to the prosecutor’s abuse of discretion in overcharging him with armed robbery. We reject this claim for two reasons. First, the armed robbery charge did not play a part in the agreement. That charge was dismissed in favor of adding the two lesser charges, which were the subject of the plea agreement. We would agree with the defendant’s argument if the amendment of the information to dismiss the armed robbery charge was also a part of the agreement. It was not, however, and thus, even if defendant had insisted upon proceeding to trial, the dismissal of the armed robbery charge would have remained unaffected. Under these circumstances, we fail to see any legitimacy to defendant’s claim that he was rendered unable to deal rationally with the plea agreement.
+Furthermore, we cannot agree with the defendant’s characterization of the prosecutor’s action as an abuse of discretion. The prosecutor explained that the initial investigation did not reveal that defendant threw the stolen goods aside prior to the assault on the store detective. Without the additional information, the facts would appear to support a charge of armed robbery. Since the preliminary examination was waived, the prosecutor did not learn of the mistake until the witnesses were interviewed in preparation for trial. Under these circumstances, the mistake in charging defendant with armed robbery was entirely justified. We find no evidence in the record which would indicate that the overcharging was intentional. We also note that the mistake could have been corrected sooner than the date of the plea-taking session if defendant had either moved to quash the information or exercised his right to a preliminary examination.
+Next, defendant argues that since he did not receive notice of the filing of the habitual offender information until more than 14 days after he was arraigned on the original information the rule set out in People v Shelton, 412 Mich 565; 315 NW2d 537 (1982), was violated. We disagree. In Shelton, the Supreme Court held that a supplemental information is filed "promptly”, as required by People v Fountain, 407 Mich 96; 282 NW2d 168 (1979), if it is filed not more than 14 days after the defendant is arraigned. Shelton, p 569.
+Here, defendant does not dispute that the supplemental information was filed within 14 days of the arraignment. Instead, he complains that he did not receive actual notice of the filing until July 6, 1983, which was more than 14 days after the arraignment. However, the Shelton "14-day” rule is clearly limited to filing, not actual notice to the defendant, and we decline to expand the rule. As noted by defendant, the purpose of a "prompt” filing of the supplemental information is to "provide the accused with notice, at an early stage in the proceedings, of the potential consequences should the accused be convicted of the underlying offense”. Shelton, p 569. (Emphasis added.) As a result of the prosecutor’s compliance with the Shelton rule in this case, the defendant did in fact receive notice at an early stage in the proceedings, although 22 rather than 14 days after the arraignment. The purpose behind the imposition of the "14-day” rule was thus achieved. Defendant’s argument is rejected and his convictions affirmed.
+Affirmed.
