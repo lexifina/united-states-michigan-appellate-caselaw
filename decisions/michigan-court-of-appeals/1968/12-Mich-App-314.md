@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "4,160"
+decided: "1968-06-28"
+citations: ["12 Mich. App. 314"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lesinski, C. J., and Foley, J., concurred."]
+parties: ["CENTRAL ADVERTISING COMPANY v. STATE HIGHWAY COMMISSION."]
+source_url: "https://static.case.law/mich-app/12/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2055072
+cites_cases: ["375 Mich 545", "376 Mich 11", "381 Mich 777"]
+---
+
+# Central Advertising Co. v. State Highway Commission
+
+## Majority (T. G. Kavanagh, J.)
+
+T. G. Kavanagh, J.
+The State highway commission, pursuant to the powers conferred upon it under CL 1948, § 213.194 (Stat Ann 1958 Rev § 8.195), offered for sale through public notice, excess land which it had previously obtained under the authority granted in CL 1948, § 213.193 (Stat Ann 1958 Rev § 8.194). The notice stated that the land would be sold subject to certain restrictions against its use for billboard advertisements, such restrictions to constitute a covenant running with the land. Plaintiff, an outdoor advertiser, contends that the highway commission lacks authority under the statutes to impose such restrictions on the unneeded portion of land to be sold, that by so acting the commission has exercised a power never delegated to it by the legislature, and that such unauthorized conduct has injured plaintiff’s business. The statute concerning the sale of excess land states:
+“Whenever the whole of a lot or parcel of land is, or has been, taken by any board or the commissioner, as provided in the preceding section, such board or commissioner, or his or their successors in office shall have the right, and are hereby authorized, to sell and convey the portion not needed, on whatever terms such board or commissioner may deem proper.” CL 1948, § 213.194 (Stat Ann 1958 Rev § 8.195).
+The highway commission argues that upon acquisition of the land it obtained a fee simple estate which incorporated the right to deal with the property as would any private owner, including a sale of that portion not needed subject to restrictive covenants. To support this position, the commission cites Winter v. State Highway Commissioner (1965), 376 Mich 11, and, along with that, points to the statutory right “to sell and convey * * * on whatever terms” are deemed proper.
+In Winter, the Court held that the highway commission “acquired title in fee simple to the parcel in question. The act does not qualify the legal concept of ‘fee simple’ estate as embracing anything less than the entire bundle of rights including subsurface gas and oil rights” (p 19). It was held there to be within the power of the commission to convey title to gas and mineral rights as not needed portions of land, while retaining title to the surface property. Defendant contends, by way of analogy to the above holding, that the commission may sell that portion of its “bundle of rights” in land not needed, while retaining those rights it wishes to withhold from the grantee; in other words, that, as owner of the' fee simple, the portion of land not needed may be sold subject to a negative restrictive easement.
+The analogy is inapt. The statute allows for a sale of that portion of land not needed, not for a sale of those rights not needed. “A negative easement is a right in the owner of the dominant tenement to restrict the owner of the servient tenement, in respect of the tenement, in the exercise of general and natural rights of property.” (Emphasis added.) 28 CJS Easements, § 3, p 630. As such it is a retained incorporeal right in the land conveyed by the grantor, thereby lessening that “bundle of rights” normally attached to land conveyed to a grantee. The statute provides that the highway commission take fee simple, but there is no statutory provision allowing for a sale of excess lands with less rights than those attached to the fee upon its acquisition. The commission has only such powers as the statute confers, and the placing of restrictive covenants in the deeds upon sale of excess lands was beyond the power granted to defendant in this section of the statute. As will be shown, it was not necessary, for the implementation of a statutory duty, that the commission find- implied such power in the legislature’s language.
+That portion' of the statute allowing the commission “to sell and convey the portion not needed on whatever terms” deemed necessary, pertains to the terms of sale. In the absence of designated duties, to hold otherwise would provide the commission with far reaching powers in areas beyond its authorized purpose, allowing arbitrary discrimination in the absence of specific standards or controls. The statute must be read without such an implication in order to maintain its constitutional validity.
+The highway commission next points to the provisions of that act enumerating its powers and duties, in particular the authority:
+“(i) To acquire, own, and hold teal and personal property in the name of the state or the commission and to sell, lease or otherwise dispose of or encumber the same in connection with and in furtherance of its duties and the purposes of this act.
+“(m) To do anything necessary and proper to comply fully with the provisions of present or future federal aid acts.” CL 1948, § 247.807 (Stat Ann 1968 Cum Supp § 9.216 [7]).
+From these provisions, the commission claims it finds the power to place restrictive covenants on sale of excess lands in the exercise of its duties and in furtherance of the purposes of the act, including the duty to comply with the provisions of Federal aid acts.
+It is not necessary, however, for the commission to look beyond statutory language or read powers into that language when the legislature has specifically provided the means to comply with Federal requirements. We refer to the enactment of PA 1966, No 333, effective September, 1966 which reads:
+“In order to promote the reasonable, orderly and effective display of outdoor advertising, consistent with customary use no sign shall be erected or maintained, subject to the provisions of this section in an adjacent area after January 1, 1968, except the following: ‘Adjacent area’ means an area * * * within 660 feet of the nearest edge of the right of way of any interstate or primary highway.” CL 1948, §§ 252.255, 252.251 (Stat Ann 1968 Cum Supp §9.391 [55], [51]).
+These provisions are similar if not identical to those requirements of the Federal government and the enforcement of this statute is properly a function of the commission. The specific language found here makes it unnecessary to find implied additional power in the language of the statute allowing for the sale by the commission of excess land. Therefore, the action by the highway commission was without-authority and, consequently, unenforceable.
+Reversed. No costs as a public question was involved.
+Lesinski, C. J., and Foley, J., concurred.
+“The provisions of this chapter shall be deemed to extend to and include the right to acquire and take property and property rights * * * ; and to acquire and take the fee to the whole of a particular lot or pareel of land whenever in the opinion of the board or commissioner it is advisable to provide for the proper construction, improvement or maintenance of highways.”
+42 Am Jur, Public Administrative Law § 26, p 316:
+“Administrative boards, commissions, and officers Rave no common-law powers. Their powers are limited by the statutes creating (hem to those conferred expressly or by necessary or fair implication. General language describing the powers and functions of an administrative body may be construed to extend no further than the specific duties and powers conferred in the same statute.”
+See O’Brien v. State Highway Commissioner (1965), 375 Mich 545, wherein the Supreme Court held that statutes allowing the highway commissioner to remove signs “that have not. been duly authorized” was devoid of any standards and, thus, constitutionally invalid. ’ ...
+The Federal Highway Beautification Act provides that the Federal government may withhold funds in the event that billboards are located within a certain distance of highway right-of-way. See 23 HSCA § 131.
