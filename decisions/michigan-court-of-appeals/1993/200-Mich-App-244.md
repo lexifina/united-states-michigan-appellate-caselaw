@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "132905"
+decided: "1993-06-21"
+citations: ["200 Mich. App. 244"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Corrigan, P.J., and Taylor and R. P. Hathaway, JJ."]
+parties: ["PEOPLE v COON"]
+source_url: "https://static.case.law/mich-app/200/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1860157
+cites_cases: ["161 Mich App 99", "189 Mich App 14", "192 Mich App 658", "195 Mich App 434", "196 Mich App 160", "274 NW2d 430", "285 NW2d 284", "380 NW2d 11", "405 Mich 225", "407 Mich 354", "409 NW2d 739", "424 Mich 221", "432 Mich 242", "439 NW2d 246", "449 US 885", "472 NW2d 289", "482 NW2d 176", "491 NW2d 606", "492 NW2d 465"]
+---
+
+# People v. Coon
+
+## Majority (Taylor, J.)
+
+Taylor, J.
+Originally charged in a three-count complaint, defendant was convicted by a jury of two counts and acquitted of one count of concealing or misrepresenting the identity of a motor vehicle with intent to mislead, MCL 750.415(2); MSA 28.647(2). He appeals as of right his convictions and the trial court’s order to sell the vehicles at public auction. We affirm.
+The statute under which defendant was convicted provides in relevant part as follows:
+(2) A person who, with the intent to mislead another as to the identity of a vehicle, conceals or misrepresents the identity of a motor vehicle or of a mechanical device, by removing or defacing the manufacturer’s serial number or the engine or motor number on the motor vehicle, or by replacing a part of the motor vehicle or mechanical device bearing the serial number or engine or motor number of the vehicle, with a new part, upon which the proper serial number or engine or motor number has not been stamped, is guilty of a felony, and if the person is a licensed dealer the license shall be revoked.
+(3) In all prosecutions under this section, possession by a person of a motor vehicle, or of a mechanical device with the manufacturer’s serial number or the engine or motor number removed, defaced, destroyed or altered or with a part bearing the number or numbers replaced by one on which the proper number does not appear, shall be prima facie evidence of violation of this section.
+Contrary to defendant’s assertion, the evidence presented at trial was, when viewed in the light most favorable to the prosecution, sufficient to support defendant’s convictions. People v Hampton, 407 Mich 354, 368; 285 NW2d 284 (1979), cert den 449 US 885 (1980); People v Petrella, 424 Mich 221, 268-269; 380 NW2d 11 (1985); People v Daniels, 192 Mich App 658, 665; 482 NW2d 176 (1992). The statute under which defendant was convicted does not require an overt act of misrepresentation or concealment in order to establish a prima facie case. Rather, defendant’s possession of vehicles with engines from which the serial numbers were removed or altered is prima facie evidence that he committed the crimes charged. MCL 750.415(3); MSA 28.647(3); People v Brooks, 405 Mich 225, 239-241; 274 NW2d 430 (1979) (relating to an earlier version of subsections 1 and 3); People v Battle, 161 Mich App 99, 101; 409 NW2d 739 (1987).
+Further, the jurors were free to believe the owner of an auto parts store, who testified that the receipts that defendant claimed showed that the engines had been purchased at the store were in fact bogus receipts. People v Velasquez, 189 Mich App 14, 16; 472 NW2d 289 (1991). We also disagree with defendant’s contention that the verdicts were somehow inconsistent. Rather, the jury obviously found the quantum of proof inadequate with regard to the charge regarding the oldest of the three Corvettes, perhaps because the prosecution’s expert testified that it presented a borderline case.
+Defendant also challenges the trial court’s denial on relevancy grounds of the admission into evidence of an affidavit concerning a Jeep owned by defendant’s brother. Contrary to his statement on appeal, counsel for defendant did not object to the admission of the Jeep’s title history, which was offered as an exemplar of defendant’s handwriting. His argument that fairness dictates that admission of the title history be followed by admission of the affidavit is raised for the first time on appeal, and, therefore, is not preserved for appellate review. Because defendant made no offer of proof in the trial court, we do not know the import of the affidavit. Therefore, defendant has failed to establish that its suppression worked any injustice upon him. People v Considine, 196 Mich App 160, 162; 492 NW2d 465 (1992); People v Spearman, 195 Mich App 434, 445-446; 491 NW2d 606 (1992).
+Defendant’s remaining arguments pertain to the forfeiture provision of § 415, which reads:
+If the identification of a motor vehicle or a mechanical device has been removed, defaced, or altered as provided in this section, and the real identity of the motor vehicle or mechanical device cannot be determined, the motor vehicle or mechanical device shall be subject to confiscation by the state, and shall be sold at public auction. If the items are confiscated from a licensed vehicle dealer, the dealer’s license shall be revoked. [MCL 750.415(4); MSA 28.647(4).]
+In this regard, defendant first contends that the trial court erred in ordering all three Corvettes sold. Specifically, defendant argues that the cars could be identified, while only the identities of the engines were a mystery; therefore, only the engines should be subject to confiscation and auction. We disagree with this reading of the statute. Read as a whole, the language of § 415 is the Legislature’s plain expression of its intention that vehicles containing engines with defaced or removed numbers are subject to confiscation. In re Forfeiture of $5,264, 432 Mich 242, 248, 251; 439 NW2d 246 (1989).
+We also disagree with defendant’s related claim that the Corvette that was the subject of his acquittal with regard to one count was not properly ordered to be auctioned. The plain language of § 415 allows confiscation of vehicles with engines lacking serial numbers where the identity of the motor vehicle cannot be determined. Plaintiffs expert testified that the identity of the Corvette in question could not be determined because its engine lacked a vehicle identification number and the front end and interior of the car had been replaced. The fact that the jury did not find defendant guilty as charged under subsection 2 with regard to this vehicle does not render confiscation improper under subsection 4.
+Defendant’s convictions and the related confiscation order are affirmed.
