@@ -1,0 +1,50 @@
+---
+court: "Michigan Court of Appeals"
+docket: "86985"
+decided: "1987-01-27"
+citations: ["158 Mich. App. 695"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P.J., and Gribbs and R. I. Cooper, JJ."]
+parties: ["DEGI v VARANO GLASS COMPANY"]
+source_url: "https://static.case.law/mich-app/158/cases/0695-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2274253
+cites_cases: ["110 NW2d 910", "280 NW2d 483", "364 Mich 401", "63 ALR3d 88", "89 Mich App 199"]
+---
+
+# Degi v. Varano Glass Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondent appeals from an order of the circuit court affirming a decision of the Michigan Employment Security Commission Board of Review, which found that claimant Paul G. Degi was entitled to unemployment benefits. The board of review decision reversed a decision of a commission referee, who concluded that Degi had been discharged for misconduct under MCL 421.29(1)(b); MSA 17.531(1)(b).
+The board of review made the following findings of fact:
+The claimant worked approximately six or seven years for this employer as a glass cutter.
+The employer has four departments; the flat glass department, the insulated glass department, the auto glass department and the commercial new construction department. The claimant last worked in the flat glass department.
+The employer decided to start a new department specializing in art glass. The claimant, at his own expense and on his own time, had acquired skills and experience in beveling glass and stained glass. The employer knew that claimant had these skills. The employer called claimant in and discussed the idea of setting up an art glass department. The claimant was amenable to working in this new department. The employer, during this meeting, mentioned a contract to protect the employer’s as well as the claimant’s interests. An increase in wages was also discussed.
+The claimant, having limited knowledge of employment contracts, contacted a lawyer. The claimant’s lawyer drafted a proposed employment contract. The claimant presented the proposed contract to the employer.
+The claimant spent the next two months setting up the machinery for beveling glass and performed various tasks related to art glass work.
+The claimant heard nothing further from the employer and called the employer regarding the proposed contract. The claimant had also not received an increase in wages. The employer was not pleased that claimant had consulted a lawyer. The claimant advised the employer that he wanted to return to his old job in the flat glass department and would not continue to work in the art glass department without a contract. The employer then advised claimant to continue working in the art glass, department and do it the employer’s way or punch out. The claimant punched out and did not return.
+These factual conclusions are supported by competent, material and substantial evidence on the whole record. MCL 421.38(1); MSA 17.540(1). Accordingly, we accept them as true for purposes of this appeal.
+The commission initially disqualified Degi for benefits on the grounds of employee misconduct under § 29(1)(b) of the act. The referee affirmed the commission’s decision. The board of review reversed, finding no misconduct:
+The Referee’s finding of misconduct is not supported by the record. It is not misconduct to consult an attorney to protect one’s interests, especially if an employee has specialized skills and knowledge acquired on his own time and at his own expense. This was a new venture and under the circumstances the claimant acted reasonably and prudently. Also, the claimant did what the employer asked him to do; namely, present a proposed contract covering their new relationship.
+In these circumstances, the claimant’s separation from work was not for disqualifying misconduct. The claimant is not subject to disqualification under Section 29(l)(b) of the Act.
+The circuit court affirmed the board of review, but it is not entirely clear to what extent the circuit judge followed the reasoning of the board of review. At one point in his opinion, the circuit judge indicates that he adopts the findings of the board of review. The circuit court opinion thereafter discusses this case in terms of whether Degi "left with good cause attributable to the employer.” We believe that the circuit court analyzed the real issue in this case.
+Respondent does not argue that Degi was discharged for misconduct. Rather, it argues, as it did below, that Degi left voluntarily without good cause attributable to the employer. See MCL 421.29(1)(a); MSA 17.531(1)(a). This is the position respondent has taken from the outset of this case, including its initial contact with the commission. Since respondent concedes that, if Degi was discharged, it was not for misconduct, we need not address that issue, but may proceed with consideration of respondent’s theory that Degi voluntarily quit.
+In analyzing this, or any other unemployment compensation case, it must be remembered that the purpose of the Employment Security Act is to relieve workers from the deprivations of involuntary unemployment. MCL 421.2; MSA 17.502; Larkin v Bay City Public Schools, 89 Mich App 199, 208; 280 NW2d 483 (1979).
+We conclude that the employer’s actions in this case constitute good cause attributable to the employer and that, on the facts of this case, a reasonably prudent person would be justified in giving up employment. The employer’s activity would motivate the average able-bodied and qualified worker to give up his or her employment in such a situation. Respondent promised claimant a raise several months previously. Respondent originally approached claimant concerning a possible contract to protect both parties’ interest and requested that he come forward with suggestions. Claimant provided respondent with a possible contract. Claimant proceeded in good faith in setting up the specialized department and attempting to secure customers without a raise or a contract. Claimant proceeded to practice his highly skilled talent and share it with other employees. Claimant was willing to continue work in a less-skilled capacity when respondent refused to give him the raise as promised and refused to negotiate an employment contract with him. Accordingly, we conclude that the record supports the conclusion that Degi did not voluntarily leave his employment.
+Respondent also argues that Degi is disqualified from receiving benefits because he was involved in a labor dispute. MCL 421.29(8); MSA 17.531(8). In order to be considered to be directly involved in a labor dispute, one of the following four criteria must be met:
+For the purpose of this subsection an individual shall not be considered to be directly involved in a labor dispute unless it is established that any of the following occurred:
+(i) At the time or in the course of a labor dispute in the establishment in which the individual was then employed, the individual in concert with 1 or more other employees voluntarily stopped working other than at the direction of the individual’s employing unit.
+(ii) The individual is participating in or financing or directly interested in the labor dispute which causes the individual’s total or partial unemployment. The payment of regular union dues, in amounts and for purposes established before the inception of the labor dispute, shall not be construed as financing a labor dispute within the meaning of this subparagraph.
+(iii) At any time when there is not a labor dispute in the establishment or department in which the individual was employed, the individual voluntarily stopped working, other than at the direction of the individual’s employing unit, in sympathy with employees in some other establishment or department in which a labor dispute was then in progress.
+(iv) The individual’s total or partial unemployment is due to a labor dispute which was or is in progress in a department or unit or group of workers in the same establishment. [MCL 421.29(8)(a); MSA 17.531(8)(a).]
+The term "labor dispute” has been defined in Michigan as follows:
+"The term 'labor dispute’ includes any controversy between employers and employees or their representatives concerning or affecting hours, wages, or working conditions. In the state labor mediation act [MCL 423.2(b); MSA 17.454(2)(b)] it is defined as follows:
+" 'The terms "dispute” and "labor dispute” shall include but are not restricted to any controversy between employers and employees or their representatives . . . concerning terms, tenure or conditions of employment, or concerning the association or representation of persons in negotiating, fixing, maintaining or changing terms or conditions of employment.’ ” [Lillard v Employment Security Comm, 364 Mich 401, 420; 110 NW2d 910 (1961).]
+We conclude that a worker who is not acting in concert with other employees, but rather is individually protesting wages, hours, and working conditions to his employer, and who is summarily discharged, is not engaged in a labor dispute as that phrase is used in § 29(a). To hold otherwise would be to unduly broaden the commonly understood meaning of the phrase labor dispute. Many discharges are due to an individual employee’s disagreement with his or her employer over working conditions, hours, and wages. To categorize these individual differences as labor disputes strains the common, ordinary definition of those terms.
+Finally, we briefly turn to respondent’s argument that its due process rights were violated by the circuit court’s addressing the issue of whether Degi voluntarily left his employment. We disagree. As noted above, respondent consistently argued below that Degi voluntarily quit. While the referee and the board of review may not have fully addressed the issue in their written opinions, the issue was before them and, therefore, properly before the circuit court and this Court.
+In short, under any theory, the record supports an award of unemployment benefits to Degi.
+Affirmed. Costs to appellees.
