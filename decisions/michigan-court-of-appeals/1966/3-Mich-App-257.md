@@ -1,0 +1,51 @@
+---
+court: "Michigan Court of Appeals"
+docket: "498"
+decided: "1966-05-11"
+citations: ["3 Mich. App. 257"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Burns and McGregor, JJ., concurred."]
+parties: ["SHAW v. LAKEWAY CHEMICALS, INC."]
+source_url: "https://static.case.law/mich-app/3/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2030372
+cites_cases: ["115 NE2d 826", "197 Mich 452", "219 Mich 178", "246 Mich 393", "263 Mich 677", "279 Mich 629", "306 NY 597", "316 Mich 468", "322 Mich 85", "332 Mich 460", "356 Mich 665", "378 Mich 722", "379 Mich 601", "49 ALR 1149"]
+---
+
+# Shaw v. Lakeway Chemicals, Inc.
+
+## Majority (Holbrook, P. J.)
+
+Holbrook, P. J.
+This is an appeal from a judgment of the circuit court for Muskegon county, dated February 2, 1965, affirming the decision of the appeal board of the Michigan employment security commission of July 8, 1964, requiring petitioner Shaw to repay unemployment compensation paid him at a time when he was awarded and received workmen’s compensation benefits. The facts are not in dispute and appear to be as follows:
+Garth Shaw was employed by Lakeway Chemicals, Inc., and received a workmen’s compensation award of $45 a week for total disability from August 21, 1962, to November 1, 1963, and $45 each week thereafter until further notice.
+During the 14 calendar weeks beginning September 8, 1963, and terminating December 15, 1963, Shaw had also certified for and been paid unemployment compensation benefits by the Michigan employment security commission at $45 a week for a total of $630.
+The Michigan employment security act was amended by PA 1963, No 188, effective September 6, 1963, and added section 27n which reads as follows :
+“Sec. 27n. (a) If an individual claims and is otherwise eligible for weekly benefits under this act for a week with respect to which he has received weekly benefits, other than death benefits or scheduled benefits for a specific loss, under the workmen’s compensation act of this State or under any similar law of another State or of the United States, the individual’s weekly benefits otherwise payable under this act for such week shall be reduced to the amount, if any, by which the individual’s workmen’s compensation weekly benefit for such week toas less than his benefits otherwise payable under this act for such week. If the individual’s workmen’s compensation weekly benefit for such week equaled or exceeded his weekly benefits otherwise payable under this act for such week, no weekly benefits shall be payable under this act for such week.
+“(b) If an individual has received weekly benefits under this act for a week and subsequently (within 1 year after such week) files a claim as a result of which he is awarded or receives weekly benefits (other than death benefits or scheduled benefits for a specific loss) for the same week under the workmen’s compensation act of this State or under any similar law of another State or of the United States, the amount of the weekly benefits paid under this act for such week shall be redetermined and reduced (or denied) in the manner provided in paragraph (1) of this stibsection; and, notwithstanding any other provision of this act, the individual shall be required to make restitution for the amount of such reduction under section 62(a) of this act: Provided, however, That such reduction or denial and restitution shall not be required if the amount of the workmen’s compensation weekly benefits awarded or paid has been reduced by the amount of weekly benefits received under this act for the same period.
+“(c) "Weekly benefits which are paid in a reduced amount for any week under the provisions of this subsection shall be charged against the individual’s maximum benefits under subsection (d) of section 27 of this act as if an amount equal to 1/2 of the individual weekly benefit rate had been paid for such week.” (Emphasis supplied.)
+On being notified by claimant’s employer Lakeway Chemicals, Inc., that Shaw had been paid workmen’s compensation, the Michigan employment security commission on February 17, 1964, pursuant to said section 27n issued a notice of redetermination stating that Shaw was not entitled to the unemployment benefits received by him for'the said 14-week period and required him to repay this amount to the commission. The redetermination was protested by Shaw and a hearing was had before a commission referee which resulted in substantially affirming the redetermination. This decision was in turn duly affirmed by the appeal board and by the Muskegon county circuit court.
+There is only one question advanced by appellant on this appeal to-wit:
+“If a claimant is required by statute to reimburse the MESO for weekly unemployment benefits received if lie makes a subsequent workmen’s compensation recovery for the same period, and assuming an equal benefit level under each act, should the reimbursement be an amount equal to the gross weekly benefits received for the period in the workmen’s compensation action, or should it amount to the net weekly workmen’s compensation benefits to the claimant for the period after deduction of ratable costs incurred in the recovery of the workmen’s compensation claim?”
+Plaintiff and appellant contends that he is entitled to deduct from the sum to be reimbursed the ratable cost (about 40%) including attorney fees, witness fees, et cetera, incurred in the recovery of the workmen’s compensation claim and cites Rule 14 of the workmen’s compensation department allowing attorney fees in the collection of any compensation claim.
+It is unquestioned that plaintiff did incur expenses in processing his workmen’s compensation claim and plaintiff asserts that the phrase “workmen’s compensation weekly benefit” as found in PA 1936 (Ex Sess), No 1, § 27n, as added by PA 1963, No 188 (CL 1948, § 421.27n [Stat Ann 1963 Cum Supp § 17-.529(1)]), should be interpreted to mean his net weekly recovery after attorney fees and court costs have been deducted on a pro rata basis.
+This is a case of first impression in Michigan and is governed by the Michigan employment security act, specifically the wording in section 27n (a) :
+“If the individual’s workmen’s compensation weekly benefit for such week equaled or exceeded his weekly benefits otherwise payable under this act for such week, no weekly benefits shall be payable under this act for such week. * * *
+“The ámount of the weekly benefits paid under this act for such week shall be redetermined and reduced (or denied) in the manner provided in paragraph (1) of this subsection; and, notwithstanding any other provision of this act, the individual shall be required to make restitution for the amount of such reduction under section 62 (a) of this act: Provided, however, That such reduction or denial and restitution shall not be required if the amount of the workmen’s compensation weekly benefits awarded or paid has been reduced by the amount of weekly benefits received under this act for the same period.” (Emphasis supplied.)
+It is plain that the weekly benefit amount intended by the legislature in said section 27n is that sum awarded and paid a claimant under the workmen’s compensation act and the employment security act respectively. To rule otherwise would be to read into the statute something that is not present. In the case of Crary v. Marquette Circuit Judge (1917), 197 Mich 452, Mr. Justice Fellows stated on p 454 in part as follows:
+“Where the language of a statute makes its meaning obscure, it is the duty of the courts to construe, giving it a reasonable and sensible interpretation; but where the language is clear and unambiguous, it is only for the courts to obey and enforce it.”
+See, also, People v. Smith (1929), 246 Mich 393; Nordman v. Calhoun (1952), 332 Mich 460; Thomas v. Employment Security Commission (1959), 356 Mich 665; and Ford Motor Co. v. Unemployment Compensation Commission, Claim of Koski (1947), 316 Mich 468.
+Appellant in substantiation of his position cites a New York case, Klag v. Drug and Chemical Club, Inc. (1953), 306 NY 597 (115 NE2d 826).
+In the Klag Case, the court faced the question of deciding the superiority between an attorney’s lien and a carrier’s lien, both provided for in the workmen’s compensation law. It did not involve repayment of awards improperly paid. The facts in Klag are not analogous to the case at hand and therefore not applicable.
+The plaintiff also asserts that his position should be upheld by reason of the equitable principle that one who goes into a court of equity and takes the risk of litigation and successfully creates or preserves a fund to a share in which others are entitled, such others so benefited should share the expenses of the services rendered. Becht v. Miller (1937), 279 Mich 629. Also, see, 49 ALR 1149, 1150.
+To this assertion we are required to answer that this is not an action in equity and it has been ruled that the duty of the court is to construe a statute as it reads without reference to equitable considerations. Geraldine v. Miller (1948), 322 Mich 85; City of Grand Rapids v. Crocker (1922), 219 Mich 178; Bankers Trust Company of Detroit v. Russell (1933), 263 Mich 677.
+A claimant for both unemployment payments and workmen’s compensation can obviate the need for restitution by making disclosure to the workmen’s compensation department in his claim that he has also certified for unemployment benefits. Proper orders can then follow allowing workmen’s compensation, less unemployment payments.
+We conclude that if plaintiff’s position is tó be established it must be by the legislature and not the courts.
+The learned trial judge properly determined the matter. Judgment affirmed, no costs, the construction of a statute being involved.
+Burns and McGregor, JJ., concurred.
+CL 1948 and CLS 1961, § 421.1 et seq. (Stat Aim 1960 Kev and Stat Ann 1965 Cum Supp § Í7.501 et seq.).—Heporter.
+CL 1948, § 421.27n (Stat Ann 1963 Cum Supp § 17.529[1]).
+Repealed and superseded by PA 1965, No 281, CL 1948, § 421.27 (m) (Stat Ann 1965 Cum Supp § 17.529[m]).—Reporter.
+1959 AACS, § B 408.44.—Beporter.
