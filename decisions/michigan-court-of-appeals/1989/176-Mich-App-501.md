@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "107886"
+decided: "1989-04-17"
+citations: ["176 Mich. App. 501"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Michael J. Kelly, P.J., and Doctoroff and Cavanagh, JJ."]
+parties: ["PEOPLE v MONTGOMERY"]
+source_url: "https://static.case.law/mich-app/176/cases/0501-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2315464
+cites_cases: ["112 NW2d 567", "113 NW2d 865", "142 NW2d 662", "157 Mich App 780", "164 Mich App 307", "172 Mich App 213", "198 NW2d 309", "288 NW2d 465", "339 NW2d 440", "35 ALR4th 890", "365 Mich 188", "366 Mich 201", "378 Mich 145", "387 Mich 577", "404 NW2d 668", "409 Mich 858", "416 NW2d 422", "417 Mich 523", "430 Mich 861", "431 NW2d 463", "94 Mich App 644"]
+---
+
+# People v. Montgomery
+
+## Majority (Cavanagh, J.)
+
+Cavanagh, J.
+Following a jury trial, defendant Maurice Montgomery was convicted of armed robbery, MCL 750.529; MSA 28.797, and possession of a firearm during the commission of a felony, MCL 750.227b; MSA 28.424(2). Defendant was sentenced to consecutive prison terms of ten to twenty years for the armed robbery conviction and two years for the felony-firearm conviction. Defendant appeals as of right and we affirm.
+On July 7, 1987, defendant and an accomplice took Margarite Motte’s car keys while she sat at a picnic table and, at gunpoint, forced her to the car. Defendant threatened Motte that if she attempted to run he would "pop her,” while holding a gun to her back. When Motte saw a truck approaching, she fled and began screaming that she was being robbed. Defendant and his accomplice fled on foot.
+The jury began deliberations on February 3, 1988, at 12:04 in the afternoon. During deliberations, the foreperson asked the court officer if the jury could go to lunch. The judge approved and the court officer returned and told the jury that their request was granted and that they were to return at 2:15 p.m. The judge informed counsel of this communication and neither party raised an objection. Defendant now argues that the ex parte communication is automatic grounds for reversal regardless of prejudice. We disagree.
+Our Supreme Court has established a strict rule prohibiting ex parte communication between a trial judge and a deliberating jury. See People v Cain, 409 Mich 858 (1980), reversing 94 Mich App 644; 288 NW2d 465 (1980) (where the bailiff relayed the trial judge’s answer concerning unanimity of the verdict); Zaitzeff v Raschke, 387 Mich 577; 198 NW2d 309 (1972) (where the trial judge entered the jury room and read back a portion of the trial testimony); People v Kangas, 366 Mich 201; 113 NW2d 865 (1962) (where the sheriff entered the jury room and later returned with instructions from the trial judge). Such communications or instructions by the court to the jury, outside the presence of counsel, are grounds for a new trial regardless of prejudice. People v Kangas, supra, pp 206-207; People v Wytcherly, 172 Mich App 213, 218; 431 NW2d 463 (1988).
+However, an ex parte communication by a court officer may be grounds for reversal only after a determination that the contact was, or might have been, prejudicial. See Wilson v Hartley, 365 Mich 188; 112 NW2d 567 (1961) (no prejudice resulted from a communication between the bailiff and the jury regarding the form of the verdict); People v Schram, 378 Mich 145; 142 NW2d 662 (1966) (no prejudice resulted from a brief conversation between the prosecutor and two jurors, outside the jury room, before deliberations, concerning the estimated conclusion of trial). Prejudice is generally found where the communication bears directly on the substance of the jury’s deliberations or on the deliberative process. Wytcherly, supra; People v Lyons, 164 Mich App 307; 416 NW2d 422 (1987), lv den 430 Mich 861 (1988); People v Kent, 157 Mich App 780; 404 NW2d 668 (1987).
+In Kent, the court clerk entered the jury room and took meal orders from the jury during deliberations. After a thorough review of the case law, this Court rejected the inflexible rule which required reversal regardless of prejudice where the communication with the jury did not directly relate to the jury’s deliberations. Kent, supra, p 791. This Court concluded that where the contact involved a purely insignificant housekeeping matter, reversal was not warranted. Id.
+Likewise, in this case, defendant is not relieved from the burden of showing prejudice. We find that the court deputy’s entrance into the jury room and his communication to the jury that they could break for lunch, indicating the time when they were to return, was not prejudicial and therefore does not require reversal. As in Kent, neither the contact nor the utterance concerned a matter related to the substance of the jury’s deliberations or to the deliberative process itself. Counsel was fully informed of the nature of the communication and neither party objected. Defendant has not shown prejudice and, therefore, we decline to reverse.
+Defendant next claims that his sentence of ten to twenty years, where the sentencing guidelines recommended thirty-six to seventy-two months, was excessive and should shock the conscience of this Court. People v Coles, 417 Mich 523, 550; 339 NW2d 440 (1983). We find no abuse of discretion. The sentencing judge explained that he was exceeding the guidelines primarily because of the violent nature of the armed robbery, including defendant’s attempt to take the victim hostage and his threat to shoot her if she attempted an escape. The court further considered defendant’s prior record of selling drugs and the factors of deterrence and discipline. Finally, the court considered defendant’s threat following trial "to make things right” against a witness who "lied about me.” Defendant’s sentence was tailored to the circumstances and to this defendant and was therefore not excessive. Coles, supra, pp 542-543.
+Affirmed.
