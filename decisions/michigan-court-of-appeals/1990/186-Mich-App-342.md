@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "119455"
+decided: "1990-11-20"
+citations: ["186 Mich. App. 342"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and Michael J. Kelly, and McDonald, JJ."]
+parties: ["PEOPLE v FINSTROM"]
+source_url: "https://static.case.law/mich-app/186/cases/0342-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2332877
+cites_cases: ["152 Mich App 20", "178 Mich App 692", "179 Mich App 559", "181 Mich App 344", "212 NW2d 922", "390 Mich 436", "391 NW2d 508", "414 NW2d 693", "429 Mich 262", "435 Mich 630", "436 Mich 714", "444 NW2d 542", "446 NW2d 306", "448 NW2d 848", "461 NW2d 1", "461 NW2d 703"]
+---
+
+# People v. Finstrom
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant pled guilty of delivery of less than fifty grams of a controlled substance, MCL 333.7401(2)(a)(iv); MSA 14.15(7401)(2)(a)(iv), and of being an habitual offender, second offense, MCL 769.10; MSA 28.1082. In exchange for the plea, the prosecution reduced the supplemental charge from habitual offender, fourth offense, to habitual offender, second offense. Defendant was sentenced to twenty to thirty years in prison, and he now appeals as of right, raising three challenges related to his plea and challenging his sentence as being excessive. We affirm defendant’s convictions, but remand for resentencing.
+Defendant first argues that his plea bargain was illusory because under People v Stoudemire, 429 Mich 262; 414 NW2d 693 (1987), he could not have been convicted as a fourth offender. We disagree. Although defendant’s three prior convictions occurred on the same day, the convictions did not arise out of a single transaction. Rather, the three transactions occurred over approximately a two-week period, and then all three charges were tried together. Since defendant’s prior convictions arose from separate criminal incidents, defendant could have been charged as a fourth offender under the habitual offender statute. People v Preuss, 436 Mich 714; 461 NW2d 703 (1990).
+Next, defendant claims that he was denied the effective assistance of counsel by counsel’s failure to raise a Stoudemire defense to the habitual-offender, fourth offense, charge and his failure to raise an entrapment defense. Given our resolution of defendant’s Stoudemire issue, defendant’s claim in that regard is without merit. After carefully reviewing the record, we also reject defendant’s claim that his counsel erred by failing to raise an entrapment defense.
+At the plea proceeding, defendant simply stated that an acquaintance had called him on the phone, and that he then met the person in a shopping center parking lot where he sold him the two tablets of Dilaudid for $35. It is true that some of defendant’s statements at the plea proceeding corroborated his testimony at the People v Ginther, 390 Mich 436, 443; 212 NW2d 922 (1973), hearing. However, we cannot conclude that the trial court erred in deciding that defendant had not, prior to pleading guilty, supplied defendant’s attorney with all the information which he offered at the Ginther hearing. On the basis of the information that the attorney had at the time of the plea proceeding, we do not believe that the attorney incorrectly assumed that the person to whom defendant sold the drugs was not a police agent, nor did the attorney err by failing to raise the entrapment defense. On the record before us, defendant’s counsel performed at least as well as a lawyer with ordinary training and skill in the criminal law and he did not make a serious mistake. People v Heard, 178 Mich App 692, 703; 444 NW2d 542 (1989).
+We also reject defendant’s claim that the trial court failed to adequately inform him that he had a right to a trial by the court if he did not want a trial by jury. The court asked defendant whether he understood that by pleading guilty he was giving up his right to a "trial with a jury or a trial without a jury.” Defendant indicated that he understood. We believe that defendant was adequately informed of his right to a trial by the court and that he understood that he was relinquishing that right. See People v Gren, 152 Mich App 20, 23-24; 391 NW2d 508 (1986).
+Finally, defendant raises two challenges to his sentence. He argues that the trial court failed to individualize his sentence, and that his sentence should shock our conscience. We vacate defendant’s sentence and remand for resentencing.
+Although the sentencing guidelines do not apply where a defendant is sentenced as an habitual offender, the second edition of the sentencing guidelines requires the judge to compute the guidelines for the underlying crime. The guidelines were computed in this case, and they indicated a recommended range of forty-eight to seventy-two months for the minimum sentence. The presentence investigation report recommended a sentence of four to twenty years. The trial court sentenced defendant to twenty to thirty years in prison.
+Recently, our Supreme Court decided People v Milbourn, 435 Mich 630; 461 NW2d 1 (1990), which abandoned the "shock the conscience” standard of review and instead requires that all sentences— even those not included in the guidelines — be tested under the "principle of proportionality.” Id., pp 635-636, 660-661, n 28. The Milbourn Court stated that the second edition of the sentencing guidelines "is the best 'barometer’ of where on the continuum from the least to the most threatening circumstances a given case falls.” Id., p 656.
+In this case, defendant’s sentence exceeded the sentencing guidelines by more than a factor of three. Given the severity of this departure, and even though the guidelines do not normally apply to habitual-offender sentencing, People v Strickland, 181 Mich App 344, 346; 448 NW2d 848 (1989); People v McCoy, 179 Mich App 559, 561; 446 NW2d 306 (1989), we vacate defendant’s sentence and remand for resentencing consistent with the principle of proportionality announced in Milbourn. Under the circumstances, we also order that defendant be resentenced by a different judge.
+Conviction affirmed, sentence vacated, and case remanded for resentencing before a different judge.
