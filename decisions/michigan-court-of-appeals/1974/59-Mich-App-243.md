@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "15546"
 decided: "1974-05-29"
-citations: ["59 Mich. App. 243", "53 Mich. App. 389"]
+citations: ["59 Mich. App. 243"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v FIORINI (ON REHEARING)"]
 source_url: "https://static.case.law/mich-app/59/cases/0243-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2126470
-cites_cases: ["100 L Ed 761", "113 US App DC 27", "121 US App DC 233", "122 US App DC 124", "122 US App DC 229", "125 US App DC 192", "15 Mich App 141", "152 US App DC 72", "166 NW2d 281", "166 NW2d 284", "17 FRD 183", "170 NW2d 851", "170 NW2d 916", "18 Mich App 300", "183 NW2d 321", "183 NW2d 606", "186 NW2d 61", "188 NW2d 175", "188 NW2d 180", "191 NW2d 297", "194 NW2d 337", "194 NW2d 342", "195 NW2d 255", "199 NW2d 561", "199 NW2d 564", "199 NW2d 565", "199 NW2d 878", "202 NW2d 278", "202 NW2d 286", "202 NW2d 320", "202 NW2d 769", "205 NW2d 461", "205 NW2d 900", "209 NW2d 441", "211 NW2d 193", "218 NW2d 787", "220 NW2d 70", "27 Mich App 432", "27 Mich App 54", "282 NW 191", "286 Mich 397", "30 L Ed 2d 481", "30 Mich App 34", "304 F2d 394", "308 US 444", "31 Mich App 703", "31 NW2d 699", "320 Mich 477", "338 F2d 804", "342 F2d 782", "347 F2d 783", "348 US 3", "349 F2d 210", "35 L Ed 2d 690", "350 US 857", "351 F2d 821", "352 F2d 705", "352 US 354", "352 US 385", "370 F2d 214", "370 F2d 217", "376 F2d 705", "376 US 575", "383 F2d 60", "385 US 293", "386 Mich 172", "386 Mich 565", "387 Mich 183", "387 Mich 775", "388 Mich 590", "388 Mich 611", "388 Mich 680", "388 US 218", "389 Mich 155", "390 Mich 104", "398 US 30", "404 US 307", "407 US 514", "41 Mich App 259", "41 Mich App 34", "410 US 957", "413 F2d 910", "44 Mich App 578", "468 F2d 1129", "47 Mich App 483", "487 F2d 175", "504 F2d 337", "504 F2d 342", "53 Mich App 389", "53 Mich App 94", "76 S Ct 101", "77 Yale L J, 767", "92 S Ct 465", "93 S Ct 1430", "99 L Ed 3"]
+cites_cases: ["100 L Ed 761", "121 US App DC 233", "122 US App DC 124", "122 US App DC 229", "125 US App DC 192", "15 Mich App 141", "152 US App DC 72", "17 FRD 183", "170 NW2d 851", "170 NW2d 916", "18 Mich App 300", "183 NW2d 606", "186 NW2d 61", "194 NW2d 337", "194 NW2d 342", "195 NW2d 255", "202 NW2d 278", "202 NW2d 320", "205 NW2d 461", "205 NW2d 900", "220 NW2d 70", "27 Mich App 432", "282 NW 191", "286 Mich 397", "30 Mich App 34", "308 US 444", "338 F2d 804", "342 F2d 782", "347 F2d 783", "348 US 3", "349 F2d 210", "35 L Ed 2d 690", "350 US 857", "351 F2d 821", "352 F2d 705", "352 US 354", "352 US 385", "370 F2d 214", "376 F2d 705", "376 US 575", "383 F2d 60", "385 US 293", "386 Mich 565", "387 Mich 183", "387 Mich 775", "388 Mich 590", "388 Mich 611", "388 US 218", "389 Mich 155", "398 US 30", "404 US 307", "407 US 514", "410 US 957", "413 F2d 910", "44 Mich App 578", "468 F2d 1129", "487 F2d 175", "504 F2d 337", "504 F2d 342", "53 Mich App 389", "76 S Ct 101", "77 Yale L J, 767", "93 S Ct 1430", "99 L Ed 3"]
 ---
 
 # People v. Fiorini
