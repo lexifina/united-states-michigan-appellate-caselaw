@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "26995"
+decided: "1977-09-06"
+citations: ["77 Mich. App. 775"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: M. F. Cavanagh, P. J., and R. B. Burns and Beasley, JJ."]
+parties: ["RUFFINO v BALLARD"]
+source_url: "https://static.case.law/mich-app/77/cases/0775-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2164719
+cites_cases: ["134 NW2d 713", "141 NW2d 692", "156 NW2d 34", "164 NW2d 1", "171 NW2d 47", "173 NW2d 789", "18 Mich App 295", "20 Mich App 184", "224 NW2d 284", "245 NW2d 787", "246 NW2d 309", "248 NW2d 650", "3 Mich App 155", "375 Mich 383", "381 Mich 555", "393 Mich 255", "399 Mich 875", "70 Mich App 456", "70 Mich App 602", "71 Mich App 638", "9 Mich App 176"]
+---
+
+# Ruffino v. Ballard
+
+## Majority (M. F. Cavanagh, P. J.)
+
+M. F. Cavanagh, P. J.
+Plaintiffs appeal from a lower court order granting defendant’s motion for accelerated judgment, GCR 1963, 116.1. The basis of this motion was GCR 1963, 102.4-102.6, the 180-day rule.
+Plaintiffs were allegedly injured in an automobile accident occurring on January 27, 1971. Complaint was filed and summons issued on January 24, 1974, three days before expiration of the statute of limitations. On November 20, 1974, exactly 300 days after it was issued, the summons was served on defendant. The record indicates that defendant was continually in residence in Michigan during this time, and no excuse is given for the delay in service. Defendant subsequently appeared and moved the lower court to quash service and grant accelerated judgment. A hearing was had on this motion on May 7th, 1975. On November 18th, 1975, the court entered an order granting defendant’s motion for accelerated judgment but stating that the order was without prejudice to plaintiffs’ right to refile and serve defendant "within the remaining period of the statute of limitations; to wit: three days”, that period to begin running upon plaintiffs’ receipt of notice of the court’s order. An order dismissing plaintiffs’ cause of action was entered on December 4th, 1975, and plaintiffs have appealed. The record does not reflect that plaintiffs attempted to refile and serve defendant within the three days permitted them by the court’s order.
+Neither at the time of the hearing on the motion for accelerated judgment, nor at any time prior to the court’s order did the clerk enter an order of dismissal pursuant to GCR 1963, 102.5(1). The issue here is whether, given this fact, it was error for the court to grant defendant accelerated judgment.
+Plaintiffs rely on Goniwicha v Harkai, 393 Mich 255, 257; 224 NW2d 284, 285-286 (1974) (order). In that case the trial court had granted defendant’s motion for accelerated judgment. The Supreme Court, in reversing, stated:
+"While amended Rule 102 obliges the clerk of the court to dismiss a complaint upon the expiration of 180 days from the date of the filing of the complaint and provides that he shall 'automatically enter an order of dismissal’, the rule is not self-executing and until the clerk in fact dismisses the complaint, the complaint is not dismissed.
+"In this case the clerk of the court did not dismiss plaintiffs’ complaint pursuant to GCR 102.5. Personal service was effectuated before the trial judge entered his order dismissing this action on the ground that it was barred by the statute of limitations.”
+In Gyurkovics v Mitchel, 70 Mich App 602, 603-604; 246 NW2d 309, 310 (1976), this Court, in dicta, interpreted the above language from Goniwicha as expressing a Supreme Court holding that a trial judge may not grant a motion for accelerated judgment based on the 180-day rule unless the clerk has entered an order of dismissal. See also, Krueger v Williams, 71 Mich App 638, 641; 248 NW2d 650, 652 (1976).
+However, in Brashers v Jefferson, 70 Mich App 456, 460-462; 245 NW2d 787, 789-790 (1976), lv granted, 399 Mich 875 (1977), another panel of this Court interpreted Goniwicha differently. Brashers held that the court clerk had properly dismissed an action where service had been accomplished more than 180 days after the complaint was filed but before dismissal. Brashers distinguished Goniwicha, noting that GCR 1963, 102.4 and 102.5 became effective on July 1, 1972, and attributing the result in Goniwicha, and in particular the Court’s enforcement of a summons served more than 180 days after the complaint was filed, to the Supreme Court’s refusal to give retroactive application to a court rule. Here, as in Brashers, retroactivity is not involved.
+We agree with the conclusion reached in Brashers that the Supreme Court in Goniwicha did not intend,
+"to expand indefinitely the amount of time for service of process beyond the 180-day provisions of GCR 1963, 102.4 and 102.5.” Brashers v Jefferson, supra, at 462; 245 NW2d at 790.
+GCR 1963, 102.4 declares that "[n]o summons shall be valid for longer than 180 days from the date of the filing of the complaint with the court”. GCR 1963, 102.5 provides mandatory enforcement of the preceding rule: "[e]very action shall be dismissed” where plaintiffs have not complied with the 180-day rule. (Emphasis added.) Subsection 1 of GCR 1963, 102.5 imposes upon the court clerk the duty to dismiss an action where the records do not reflect service on the defendant within the allotted time. Although this dismissal may not be "automatic”, we believe that defendant was entitled to move the court to correct the clerk’s oversight. We find support for this result in the plain wording of GCR 1963, 102.4-102.5, and in GCR 1963, 528.1:
+"Clerical mistakes in judgments, orders or other parts of the record and errors therein arising from oversight or omission may be corrected by the court at any time of its own initiative or on the motion of any party and after such notice, if any, as the court orders.”
+The parties are also in disagreement as to the propriety of the court’s order respecting the tolling of the statute of limitations. However, since it does not appear that plaintiffs attempted to refile their complaint, this issue is not before the Court.
+Affirmed. Costs to appellees.
+"It is our opinion that Goniwicha’s failure to discuss or rely on GCR 1963, 102.4 can be explained by the Supreme Court’s refusal to administer the court rule retroactively. Generally, court rules are not employed retroactively. People v Kerridge, 20 Mich App 184, 191; 173 NW2d 789 (1969). But see Emahiser v Common Pleas Judge, 18 Mich App 295; 171 NW2d 47 (1969). A change in a court rule applies to all further proceedings on or after the effective date in actions then pending. Jinkner v Widmer, 3 Mich App 155, 158; 141 NW2d 692 (1966), Estate of Dauer v Zabel, 9 Mich App 176; 156 NW2d 34 (1967), vac’d on other grounds, 381 Mich 555; 164 NW2d 1 (1969). See also Genesee Merchants Bank & Trust Co v Bourrie, 375 Mich 383, 388; 134 NW2d 713 (1965).
+"We believe that in Goniwicha the Supreme Court followed existing precedent and applied GCR 1963, 102.4 and 102.5 from their effective date of July 1, 1972. We further believe that the Supreme Court found that service occurred on September 14, 1972. This finding would negate any necessity to discuss GCR 1963, 102.4 as it applies to Goniwicha, since the summons was served within 180 days of the effective date of the court rule.” Brashers v Jefferson, 70 Mich App 456, 460-461; 245 NW2d 787, 789-790 (1976).
