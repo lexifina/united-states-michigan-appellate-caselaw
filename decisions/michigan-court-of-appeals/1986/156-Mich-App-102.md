@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "88025"
+decided: "1986-11-04"
+citations: ["156 Mich. App. 102"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P.J., and Wahls and M. WarSHAWSKY, JJ."]
+parties: ["HAUSER v ROMA’S OF MICHIGAN, INC"]
+source_url: "https://static.case.law/mich-app/156/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2277805
+cites_cases: ["112 NW2d 569", "143 Mich App 500", "330 NW2d 853", "355 Mich 382", "365 Mich 370", "372 NW2d 348", "417 Mich 905", "55 ALR3d 696", "94 NW2d 810"]
+---
+
+# Hauser v. Roma's of Michigan, Inc.
+
+## Majority (Wahls, J.)
+
+Wahls, J.
+This case raises two issues, both asking whether the trial court abused its discretion. The first issue concerns the court’s refusal to set aside a mediation award on the grounds that plaintiff failed to timely reject the award, as required by the new court rules. The second issue centers around the refusal to set aside the mediation award based on newly discovered evidence.
+Plaintiff Catherine Hauser (her husband, William, brought a derivative loss-of-consortium claim) commenced an action against defendant, Roma’s of Michigan, for damages resulting from injuries she sustained when she slipped and fell at Roma Hall. The mediation evaluation of $15,000 was accepted by defendant in writing. Plaintiffs, on the other hand, failed to timely respond; therefore under the new court rule, MCR 2.403(L)(1), acceptance was deemed. Defendant moved to have plaintiffs’ deemed acceptance affirmed and judgment entered thereon. Plaintiffs opposed the motion and sought to have the acceptance set aside. Following an evidentiary hearing, the trial judge granted defendant’s motion, declining to set aside plaintiffs’ acceptance. Plaintiffs appeal as of right.
+Plaintiffs argue that the trial court abused its discretion by declining to set aside the acceptance of the mediation award pursuant to MCR 2.612(C)(1), formerly GCR 1963, 528.3, which provides:
+(1) On motion and on just terms, the court may relieve a party or the legal representative of a party from final judgment, order, or proceeding on the following grounds:
+(a) Mistake, inadvertence, surprise, or excuseable neglect.
+A trial court has the discretion to set aside a party’s acceptance of a mediation evaluation prior to the entry of a judgment upon the award. MGM Brakes Division of Indian Head, Inc v Uni-Bond, Inc, 417 Mich 905; 330 NW2d 853 (1983). Although the determination is discretionary, the judgment on the acceptance should be set aside only if failure to do so would result in substantial injustice. Muntean v Detroit, 143 Mich App 500, 511; 372 NW2d 348 (1985). "The court must 'strike a balance between the goal of remedying injustice, on the one hand, and the desire to achieve finality in litigation, on the other hand.’ ” Id. (Citation omitted.)
+We will only reverse the lower court where there has been an abuse of discretion. Muntean, supra.
+[A]n abuse of discretion involves far more than a difference in judicial opinion between the trial and appellate courts. The term discretion itself involves the idea of choice, of an exercise of the will, of a determination made between competing considerations. In order to have an "abuse” in reaching such determination, the result must be so palpably and grossly violative of fact and logic that it evidences not the exercise of will but perversity of will, not the exercise of judgment but defiance thereof, not the exercise of reason but rather of passion or bias. [Spalding v Spalding, 355 Mich 382, 384-385; 94 NW2d 810 (1959).]
+Plaintiffs claim upon appeal that, although it was negligent to fail to reject the mediation evaluation timely, such negligence was a mistake or excusable neglect within the meaning of MCR 2.612(C). Plaintiffs’ explanation for failure to act timely is that their counsel was unaware of the change in the effect of failing to file a rejection under the new court rule. Plaintiffs’ counsel was proceeding under the former rule which stated that failure to file a timely acceptance or rejection constituted rejection. GCR 1963, 316(h)(1). Under the current rule, failure to file rejection of a mediation evaluation within twenty-eight days constitutes acceptance. MCR 2.403(L)(1). Plaintiff filed a rejection twenty-nine days outside the time limit. The new rules took effect on March 1, 1985. The mediation evaluation was made on March 4, 1985.
+In view of the narrow standard of review, we cannot say that the trial court abused its discretion in denying plaintiffs’ request to set aside the acceptance of the mediation evaluation. The new rules had been available for several months. Plaintiffs’ counsel had sufficient time to apprise himself of the applicable rule. There are no extraordinary or unusual circumstances that would render the trial court’s decision of refusal to set aside the evaluation as an abuse of discretion.
+Plaintiffs’ other claim is that their acceptance should be set aside on the basis of newly discovered evidence regarding the extent of Mrs. Hauser’s injuries. MCR 2.612(C)(1)(b). We first note that plaintiffs raised this issue in responsé to defendant’s motion to have plaintiffs’ acceptance of the mediation evaluation affirmed and to have a judgment entered thereon. Normally, plaintiffs would bring a motion for relief from judgment entered on the mediation award. However, we will treat this as properly raised.
+By virtue of the relationship between newly discovered evidence justifying a new trial, MCR 2.611(B), and relief from a judgment, MCR 2.612(C)(1)(b), we conclude that the same standard of review applies to both. 3 Martin, Dean & Webster, Michigan Court Rules Practice, p 538; 3 Honigman & Hawkins, Michigan Court Rules Annotated (2d ed), p 183. The requirements for newly discovered evidence to support a new trial motion are: (1) the evidence is newly discovered, not merely its materiality; (2) the evidence is not merely cumulative; (3) it is likely to change the result; and (4) the moving party could not have produced it at. trial with reasonable diligence. Hainault v Vincent, 365 Mich 370, 377; 112 NW2d 569 (1961).
+In the present case, there was no newly discovered evidence to indicate that the extent of the injury was of a more serious nature than at the time of the hearing. Plaintiff was previously informed that there was a possibility of surgery in the future should the condition became symptomatic. Therefore, plaintiffs’ claim that the necessity for future surgery was not known at the time of mediation is incorrect. Although plaintiffs may not have known with certainty that further surgery would be required, they were fully aware of the possibility. Thus, the trial court did not abuse its discretion in declining to set aside plaintiffs’ acceptance of the mediation evaluation on the grounds of newly discovered evidence. Hainault, supra.
+Affirmed.
