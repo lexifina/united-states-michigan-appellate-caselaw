@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-1324"
+decided: "1979-04-02"
+citations: ["89 Mich. App. 400"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: N. J. Kaufman, P.J., and V. J. Brennan and Bashara, JJ."]
+parties: ["WARREN POLICE OFFICERS ASSOCIATION v CITY OF WARREN"]
+source_url: "https://static.case.law/mich-app/89/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2179658
+cites_cases: ["231 NW2d 226", "233 NW2d 497", "394 Mich 229", "62 Mich App 87", "68 ALR3d 885"]
+---
+
+# Warren Police Officers Ass'n v. City of Warren
+
+## Majority (V. J. Brennan, J.)
+
+V. J. Brennan, J.
+The City of Warren appeals as of right from the March 20, 1978, circuit court order enforcing retroactive health and dental insurance benefits awarded to the Warren Police Officers Association by the collective bargaining arbitration panel.
+Contract negotiations between the City of Warren (hereafter defendant) and the Warren Police Officers Association (hereafter plaintiff) reached an impasse in November of 1976, and arbitration proceedings were begun under the compulsory arbitration of labor disputes in municipal police and fire departments act (hereafter the Act), MCL 423.231, et seq.; MSA 17.455(31), et seq. Hearings of the arbitration panel were conducted on various occasions from December 22, 1976, to July 29, 1977, and the award was signed on December 8, 1977. By complaint filed in circuit court on February 15, 1978, the plaintiff sought to enforce the provisions of the award which, as alleged by plaintiff, directed defendant to provide certain health and dental insurance coverage retroactively to July 1, 1977, the first day of the second year of the arbitration award. The circuit court in its order enforcing the award found that the award did provide health and dental insurance coverage retroactively to July 1, 1977, and that such an award does not contravene pertinent provisions of the Act. It is from this order that defendant appeals.
+Defendant initially questions the jurisdiction of the arbitration panel to award health and medical insurance benefits retroactively. The pertinent provision of MCL 423.240; MSA 17.455(40), in effect at the time of the award, provided:
+"* * * The commencement of a new municipal fiscal year after the initiation of arbitration procedures under this act, but before the arbitration decision, or its enforcement, shall not be deemed to render a dispute moot, or to otherwise impair the jurisdiction or authority of the arbitration panel or its decision. Increases in rates of compensation awarded by the arbitration panel under section 10 may be effective only at the start of the fiscal year next commencing after the date of the arbitration award. If a new fiscal year has commenced since the initiation of arbitration procedures under this act, the foregoing limitation shall be inapplicable, and such awarded increases may be retroactive to the commencement of such fiscal year any other statute or charter provisions to the contrary notwithstanding.”
+The defendant contends that in accordance with the above only "increases in rates of compensation” can be awarded retroactively. Further, "rates of compensation” refers to money paid directly to an individual as compensation and does not include health and dental insurance benefits. We disagree with the defendant’s narrow construction of the subject provision.
+Initially we point out that the statutory provision in question is rather ambiguous as to its meaning. Since the term "rates of compensation” is not defined in the Act it is open to diverse subjective analysis. Accordingly, we must interpret the term in accordance with the public policy and underlying purpose of the Act. See Ypsilanti Police Officers Ass’n v Eastern Michigan University, 62 Mich App 87; 233 NW2d 497 (1975). The public policy to be furthered by the Act is set forth at MCL 423.231; MSA 17.455(31) as follows:
+"It is the public policy of this state that in public police and fire departments, where the right of employees to strike is by law prohibited, it is requisite to the high morale of such employees and the efficient operation of such departments to afford an alternate, expeditious, effective and binding procedure for the resolution of disputes, and to that end the provisions of this act, providing for compulsory arbitration, shall be liberally construed.” (Emphasis added.)
+Thus the purpose of the Act is to provide an "expeditious” and "effective” means of solving a labor dispute where, as noted in Justice Williams’s separate opinion in Dearborn Fire Fighters Union Local No 412, IAFF v Dearborn, 394 Mich 229, 293; 231 NW2d 226 (1975), "the public welfare cannot endure the impact of a work stoppage while awaiting the resolution of problems through normal negotiations”. Accordingly, the implicit goal is to provide arbitration awards which approximate agreements that would have been reached in the normal course of collective bargaining. The award of retroactive health and insurance benefits is thus contemplated by the Act since such benefits are normally included in a private-sector bargaining agreement.
+The defendant next contends that the lower court erred in finding that the arbitration award included retroactive health and dental insurance benefits to July 1, 1977.
+Inasmuch as the trial court’s finding constitutes a factual determination as to the extent of the arbitration award, our review is limited to the question of whether that finding is clearly erroneous. GCR 1963, 517.1.
+The dispute regarding the health insurance benefits concerns the defendant’s proposal that any increase in premiums after July 1, 1977, be sustained by the individual officers. The plaintiff proposed that the defendant’s present practice of sustaining increases itself be maintained. In granting the plaintiff’s proposal, the arbitration award most certainly took into account the significance of the July 1, 1977, date. The award also granted the plaintiff’s proposal for dental insurance coverage effective "the second year of the contract”. The second year of the contract commenced July 1, 1977, thus that date’s significance was again emphasized.
+Moreover, the plaintiffs last settlement offer clearly labelled health and dental insurance benefits as second-year economic issues, and the defendant did not assail this characterization. The arbitration award provided that "all economic issues were retroactive unless indicated otherwise”. Taking this and the significance of the July 1, 1977, date into account, the trial court’s determination that the awards were retroactive is not clearly erroneous.
+We affirm the order of enforcement.
+This portion of the act was subsequently amended to read:
+"* * * The commencement of a new municipal fiscal year after the initiation of arbitration procedures under this act, but before the arbitration decision, or its enforcement, shall not be deemed to render a dispute moot, or to otherwise impair the jurisdiction or authority of the arbitration panel or its decision. Increases in rates of compensation or other beneñts may be awarded retroactively to the commencement of any period(s) in dispute, any other statute or charter provisions to the contrary notwithstanding.” (Emphasis added.)
+There is no question that the act as amended allows for retroactive health and dental insurance benefits.
