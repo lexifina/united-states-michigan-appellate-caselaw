@@ -1,0 +1,63 @@
+---
+court: "Michigan Court of Appeals"
+docket: "82420"
+decided: "1986-08-05"
+citations: ["153 Mich. App. 815"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cynar, P.J., and R. B. Burns and F. X. O’Brien, JJ."]
+parties: ["PEOPLE v SKINNER"]
+source_url: "https://static.case.law/mich-app/153/cases/0815-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2282436
+cites_cases: ["120 Mich App 736", "125 Mich App 724", "134 Mich App 39", "145 Mich App 414", "145 Mich App 421", "150 Mich App 481", "203 Cal Rptr 450", "213 NW2d 97", "220 NW2d 689", "232 NW2d 333", "270 NW2d 692", "293 F 1013", "327 NW2d 547", "337 NW2d 277", "349 NW2d 815", "36 Cal 3d 236", "378 NW2d 502", "389 NW2d 89", "390 Mich 410", "392 Mich 278", "392 Mich 284", "42 ALR4th 879", "49 ALR Fed 363", "54 US App DC 46", "61 Mich App 138", "681 P2d 291", "76 ALR3d 163", "85 Mich App 8"]
+---
+
+# People v. Skinner
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was found guilty following a jury trial of first-degree criminal sexual conduct. MCL 750.520b; MSA 28.788(2). He was sentenced to from fifty to one hundred years’ imprisonment.
+This case involves charges that defendant engaged in various sexual acts with his ten-year-old daughter between December 5, 1983, and February 12, 1984. More specifically, defendant was charged with having penetrated the vagina of his daughter with both his tongue and his finger. Defendant claimed that he was not guilty of the offense.
+The victim was ten years old at the time the alleged sexual acts occurred. She had lived in six different states and attended seven different schools. Most recently, she had lived in Florida, Ohio and Michigan. She testified that, while living in Florida, her father touched her vagina, that in Ohio her father inserted his finger into her vagina "on more than one occasion,” and that in Michigan he inserted his tongue into her vagina. While living in Florida, her father’s nephew also inserted his finger in her vagina. She accurately demonstrated the acts performed upon her by her father through the use of anatomically-correct dolls.
+The victim’s mother testified that, while living in Florida, defendant admitted to her that her daughter had stroked his penis resulting in his ejaculation. The victim also testified about this incident.
+The victim was examined by a medical doctor, Dr. John Milionis, a pediatrician, on February 22, 1984. He testified that the victim’s hymen was not just torn, but was actually worn away "almost like the vaginal opening of a married woman.” According to Milionis, the worn hymen could have been the result of excessive masturbation although it is uncommon for ten-year-old girls to masturbate. The victim’s condition was consistent with an adult’s placing fingers into her vagina.
+The victim was also examined by a psychologist, Rosemary Jalovaara. She testified that the victim exhibited symptoms which were consistent with the victim’s belief that she had been sexually abused. The final witness was Detective Adcock of the Bay City Police Department. His testimony was essentially cumulative. Defendant did not take the stand.
+Defendant now appeals, raising several issues, one of which is dispositive.
+i
+We first consider defendant’s argument that the trial court improperly denied his motion to dismiss a juror for cause. Defendant argues that the trial court abused its discretion in denying the challenge for cause. We agree and reverse.
+During voir dire, juror Everett Rozek indicated that, because he found it difficult to believe that a ten-year-old would fabricate a story of sexual abuse, he could not be fair to defendant. He was questioned extensively on this point and answered as follows:
+Mr. Sheeran [defense counsel]: . . . Mr. Rozek, in what way would you not be able to be fair?
+Juror Rozek: Well, I couldn’t be fair — I have to be with myself, I have to live with what I — what I say and do. And my mind is — I—I’m not, under this condition, I only have one way to go, I cannot
+Mr. Sheeran: And which way would that be?
+Juror Rozek: I’m afraid it would be guilty.
+Mr. Sheeran: So, you’re saying without — in spite of what evidence you might hear, you would still tend to have to fi — find guilt?
+Juror Rozek: Yes. I don’t think I’d be of any help to this — this trial.
+Mr. Jones [prosecutor]: . . . Mr. Rozek, if the judge tells you you hafta [sic] follow the law, you hafta [sic] listen to all the witnesses and then make your decision, can you do that?
+Juror Rozek: I also have to had — I have a conscience.
+Mr. Jones: Indeed, you know, we — we all do, yes.
+Juror Rozek: And I can’t just rub that off. That’s important to me.
+* * *
+Mr. Jones: Yes, and — and what that you know right now says that you cannot be fair?
+Juror Rozek: Because I don’t think a — I’d hate to see a man prosecuted, I — that isn’t fair. And a 10-year-old, I figure that there must be something pretty solid, 'cause normally I wouldn’t believe a 10-year-old would n — not make up a story. It’s hard for me to believe that could happen.
+Upon further questioning by the prosecuting attorney, Juror Rozek stated that he would try to be fair. However, he admitted that it would be difficult to presume that defendant was innocent. Finally, in answer to the trial judge’s inquiry as to whether he could set aside his feelings and decide the case on the evidence presented, he answered "I think so.” This, however, followed approximately eight statements by Mr. Rozek that he didn’t believe he could be fair. Defense counsel moved to dismiss Mr. Rozek for cause and the motion was denied without explanation. Mr. Rozek was subsequently removed by defendant on a peremptory challenge.
+The trial court’s decision on a challenge for cause will be reversed only where this Court finds a clear abuse of discretion. People v Gerald Hughes, 85 Mich App 8, 18; 270 NW2d 692 (1978). The juror stated a number of times that he did not believe he could be fair, that he had a pre-formed belief that a ten-year-old girl would not fabricate a story, and that he found it impossible to grant defendant the presumption of innocence.
+The challenge for cause should have been granted and its denial constitutes an abuse of discretion. Defendant’s conviction must be reversed. Although this issue disposes of the case, we will consider those issues which may arise on retrial.
+ii
+On appeal, defendant, citing People v McGillen #2, 392 Mich 278; 220 NW2d 689 (1974), claims that the examining physician’s testimony was prejudicial because he based his medical conclusions on the hearsay statements of the foster mother or because he attested to the veracity of the victim. Defendant also claims that reversal is required because the doctor concluded that the victim suffered from both sexual and physical abuse and because a reference was made to the fact that the doctor recommended that the victim undergo psychological testing.
+In McGillen #2, supra, the Supreme Court ruled that the examining physician in a rape case was a proper witness as long as his testimony assisted the jury in their determinations of the existence of penetration and of whether the alleged penetration was against the will of the victim. The Supreme Court also ruled that the doctor may not testify as to whether the victim was raped at a specific time or place nor may he render an opinion as to whether the victim was being truthful. 392 Mich 284-285. The physician’s testimony complied with the dictates of McGillen #2. Although he testified that there had been penetration of the victim’s hymen and that her hymen was actually worn, not just torn, he did not claim that the victim was raped. Instead, he listed several explanations for the victim’s condition. His conclusion of sexual abuse was specifically conditioned on the accuracy of the history presented to him by the foster parent. He readily admitted that a different history might have resulted in a different conclusion. Further, he steadfastly refused to estimate when the acts of penetration occurred. There was no error.
+As to defendant’s objection that the physician’s opinion was based upon hearsay statements, this is permitted under MRE 703. As for the reference to physical abuse, defendant made no objection at trial and the issue is, therefore, not preserved for appeal. People v Phillips, 61 Mich App 138; 232 NW2d 333 (1975). Finally, although defendant did object to the physician’s testimony that he had recommended psychological counselling for the victim, the question was withdrawn and defendant did not request a curative instruction.
+hi
+Defendant next objects to the testimony concerning the child psychologist’s evaluation of the victim. First, defendant argues that Jalovaara’s testimony of the victim’s hearsay statements to her was more prejudicial than probative. As defendant virtually admits, the hearsay statements were admissible under MRE 803(4). See also People v Wilkins, 134 Mich App 39; 349 NW2d 815 (1984). However, defendant claims that the statements should have been excluded under MRE 403 as being more prejudicial than probative. However, defendant raised no objection at trial based on MRE 403, thus barring appellate review. People v Hunt, 120 Mich App 736; 327 NW2d 547 (1982). Similarly, defendant’s complaint concerning the psychologist’s statement that the victim told her that defendant was in jail has not been preserved since there was neither an objection at trial nor a request for a curative instruction.
+Defendant next argues that there was an insufficient foundation presented as to the psychologist’s expertise in the area of sexually-abused children and a profile of their characteristics. The qualification of a witness as an expert is within the trial court’s sound discretion and will not be reversed absent an abuse of discretion. Cook v Detroit, 125 Mich App 724, 735; 337 NW2d 277 (1983). We have reviewed the record concerning the psychologist’s qualification as an expert and find no abuse of discretion.
+Defendant next argues that there was an insufficient foundation presented for Jalovaara’s testimony concerning "rape trauma syndrome.” We first note that a panel of this Court has recently upheld the testimony of Jalovaara on the syndrome in People v Draper, 150 Mich App 481; 389 NW2d 89 (1986). Moreover, we do not believe the case relied upon by defendant, People v Pullins, 145 Mich App 414; 378 NW2d 502 (1985), is applicable to the case at bar. In Pullins, this Court restricted the use of evidence of rape trauma syndrome:
+We agree with the reasoning of the Bledsoe [People v Bledsoe, 36 Cal 3d 236; 203 Cal Rptr 450; 681 P2d 291 (1984)] court and hold that evidence of rape trauma syndrome is not admissible, in the context of this case, to prove that a rape in fact occurred. However, we do not mean to imply that evidence of emotional and psychological trauma suffered by a complaining witness in a rape case is inadmissible. Such evidence is relevant and jurors are fully competent to consider such evidence in determining whether a rape occurred, but it should not be presented with an aura of scientific reliability unless the Frye [Frye v United States, 54 US App DC 46; 293 F 1013 (1923)] test is met. We also express no opinion as to the propriety of admitting evidence about rape trauma syndrome when consent is the defense. [145 Mich App 421-422.]
+In the present case, there was no claim by Jalovaara that the characteristics exhibited by the victim conclusively established that she had been raped. Quite the opposite, Jalovaara stated that, although the profile consisted of behavioral characteristics that generally indicated sexual abuse, manifestation of those symptoms did not conclusively establish that abuse had, in fact, occurred. Pullins, supra, does not apply to the instant case. Jalovaara’s testimony regarding the profile of sexually-abused children was properly admitted.
+Finally, defendant argues that Jalovaara improperly testified as to the veracity of the victim. Not only does defendant mischaracterize Jalovaara’s testimony, but there was no objection in the trial court, thus precluding appellate review. Hunt, supra.
+iv
+Defendant also argues that the trial court erred in admitting evidence of prior sexual acts between defendant and the victim. We disagree. People v DerMartzex, 390 Mich 410; 213 NW2d 97 (1973).
+Defendant’s remaining issues, related to his sentence, need not be considered at this time.
+Reversed.
+The people admit that defendant exhausted all of his peremptories at trial.
