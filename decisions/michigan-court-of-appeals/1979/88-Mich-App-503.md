@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-188"
+decided: "1979-02-06"
+citations: ["88 Mich. App. 503"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and Bashara and Cynar, JJ."]
+parties: ["JACOBS v DEPARTMENT OF MENTAL HEALTH"]
+source_url: "https://static.case.law/mich-app/88/cases/0503-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2181192
+cites_cases: ["211 NW2d 228", "247 NW2d 512", "247 NW2d 521", "248 NW2d 149", "25 ALR2d 207", "250 NW2d 67", "257 NW2d 172", "259 NW2d 427", "261 NW2d 247", "261 NW2d 26", "266 NW2d 482", "269 NW2d 267", "273 NW2d 421", "398 Mich 41", "398 Mich 527", "398 Mich 65", "399 Mich 835", "404 Mich 205", "49 Mich App 7", "72 Mich L Rev 187", "76 Mich App 569", "78 Mich App 205", "78 Mich App 632", "79 Mich App 170", "82 Mich App 145", "83 Mich App 679"]
+---
+
+# Jacobs v. Department of Mental Health
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff sued the Department of Mental Health, under a theory of vicarious liability, for damages sustained from an alleged assault and battery against the plaintiff by an attendant at a state mental facility. The Court of Claims granted summary judgment for defendant. The plaintiff was an in-patient at the facility when the alleged beating occurred. In his deposition the attendant testified that the incident of which the plaintiff complains was provoked by the plaintiff’s repeated violations of the hospital’s rules against smoking, his refusal to leave his room with other patients for breakfast and his physical aggression towards the attendant when the latter ordered the plaintiff to leave his room. The defendant state agency claims sovereign immunity. See generally, MCL 691.1401-691.1415; MSA 3.996(101)-3.996(115). In opposition to that claim, the plaintiff argues that his complaint, by alleging an intentional tort, states sufficient facts in avoidance of governmental immunity. As authority for that argument, he relies on Galli v Kirkeby, 398 Mich 527; 248 NW2d 149 (1976).
+Since the common law doctrine of soverign immunity has been abrogated in this state, Pittman v City of Taylor, 398 Mich 41; 247 NW2d 512 (1976), defendant’s claim is governed by statute. By § 7 of the governmental immunity act of 1964, the state and its agencies are generally "immune from tort liability in all cases wherein the government agency is engaged in the exercise or discharge of a governmental function”. MCL 691.1407; MSA 3.996(107). Recently, the Supreme Court has affirmed the position taken by this Court that the operation of a mental hospital is a governmental function. Perry v Kalamazoo State Hospital, 404 Mich 205; 273 NW2d 421 (1978); see Allen v Department of Mental Health, 79 Mich App 170; 261 NW2d 247 (1977).
+Further examining the specific complained-of activity in this case—the alleged assault and battery—we must determine whether it was "in the exercise or discharge” of that governmental function. See Galli v Kirkeby, supra, at 536-537; 248 NW2d at 151-152, Spruytte v Department of Corrections, 82 Mich App 145; 266 NW2d 482 (1978), Duncan v Detroit, 78 Mich App 632; 261 NW2d 26 (1977) . Contrary to the plaintiffs assertion, an act may be an exercise or discharge of a governmental function even though it amounts to an intentional tort. Lee v Utica, 83 Mich App 679; 269 NW2d 267 (1978) . Indeed, according to Professor Cooperrider, it is the likelihood that a governmental actor may have "to act directly upon persons and property, overcoming resistence if necessary”, which may distinguish his activities as "governmental”. Cooperrider, The Court, The Legislature, and Governmental Tort Liability in Michigan, 72 Mich L Rev 187, 283 (1973). To illustrate that point Professor Cooperrider lists such activities as those associated with police work, fire fighting, inspection and custodial employment. We take notice that an attendant at a mental hospital serves partially in a custodial capacity.
+Plaintiffs reliance on Galli v Kirkeby is misplaced. That case only held that an activity which bears no arguable relationship to a governmental function cannot be an exercise or discharge of that governmental function. In the present case, under the circumstances related in the attendant’s deposition, which circumstances plaintiff has not refuted by pleading, deposition, affidavit or other documentary evidence, the alleged assault and battery by the attendant was sufficiently related to the function of the mental facility to be an exercise or discharge of it. Compare, e.g., Lee v Utica, supra, with Kriger v South Oakland County Mutual Aid Pact, 399 Mich 835; 250 NW2d 67 (1977), rev’g 49 Mich App 7; 211 NW2d 228 (1973).
+None of the express exceptions to governmental function immunity is here applicable. See MCL 691.1402, 691.1405, 691.1406; MSA 3.996(102), 3.996(105), 3.996(106).
+Affirmed. No costs, a public question involved.
+Avoidance of governmental immunity has been construed as an element of the plaintiff’s claim. See McCann v Michigan, 398 Mich 65, 77; 247 NW2d 521 (1976) (Ryan, J.). But see Pagano v Department of State Highways, 76 Mich App 569, 575-576; 257 NW2d 172 (1977). To avoid summary judgment, the plaintiff must establish a question of fact as to each element of his claim by affidavit, pleading, deposition, admission or other documentary evidence. Bob v Holmes, 78 Mich App 205; 259 NW2d 427 (1977). In opposition to the state’s motion for summary judgment and/or accelerated judgment in this case, the plaintiff relied solely on the allegation in his complaint that the alleged tort was intentional.
