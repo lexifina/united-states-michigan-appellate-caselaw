@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "153523"
 decided: "1994-03-07"
-citations: ["204 Mich. App. 53", "206 Mich. App. 83"]
+citations: ["204 Mich. App. 53"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["STEHLIK v JOHNSON"]
 source_url: "https://static.case.law/mich-app/204/cases/0053-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2339996
-cites_cases: ["177 Mich App 49", "180 Mich App 495", "182 Mich App 215", "182 Mich App 758", "184 Mich App 484", "189 Mich App 553", "190 Mich App 455", "194 Mich App 580", "198 Mich App 276", "198 Mich App 499", "204 Mich App 53", "204 Mich App 81", "415 NW2d 178", "429 Mich 347", "439 Mich 186", "441 NW2d 11", "442 Mich 368", "447 NW2d 797", "451 NW2d 551", "453 NW2d 304", "459 NW2d 67", "473 NW2d 718", "476 NW2d 431", "482 NW2d 696", "487 NW2d 849", "499 NW2d 383", "501 NW2d 155", "502 NW2d 343", "514 NW2d 185", "514 NW2d 508"]
+cites_cases: ["177 Mich App 49", "180 Mich App 495", "182 Mich App 215", "182 Mich App 758", "184 Mich App 484", "189 Mich App 553", "190 Mich App 455", "194 Mich App 580", "198 Mich App 276", "198 Mich App 499", "415 NW2d 178", "429 Mich 347", "439 Mich 186", "441 NW2d 11", "447 NW2d 797", "451 NW2d 551", "453 NW2d 304", "459 NW2d 67", "473 NW2d 718", "476 NW2d 431", "482 NW2d 696", "487 NW2d 849", "499 NW2d 383", "502 NW2d 343"]
 ---
 
 # Stehlik v. Johnson
