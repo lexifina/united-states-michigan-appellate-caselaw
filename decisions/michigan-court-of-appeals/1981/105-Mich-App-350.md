@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "46258"
+decided: "1981-04-09"
+citations: ["105 Mich. App. 350"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: M. F. Cavanagh, P.J., and T. M. Burns and R. H. Campbell, JJ."]
+parties: ["PEOPLE v BEETS"]
+source_url: "https://static.case.law/mich-app/105/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2189081
+cites_cases: ["169 NW2d 483", "17 Mich App 277", "180 NW 474", "212 Mich 614", "257 NW2d 537", "262 NW2d 844", "266 NW2d 460", "283 NW2d 736", "299 Mich 358", "300 NW 119", "33 NW 821", "386 US 300", "39 ALR Fed 479", "401 Mich 141", "411 Mich 996", "438 US 154", "471 F2d 116", "501 F2d 182", "531 F2d 754", "66 Mich 460", "79 Mich App 415", "82 Mich App 476", "91 Mich App 328"]
+---
+
+# People v. Beets
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was charged with nine separate offenses: five counts of receiving or concealing stolen property in excess of $100, MCL 750.535; MSA 28.803, two counts of possession of controlled substances, heroin, MCL 335.341(4)(a); MSA 18.1070(41)(4)(a), and benzphetamine, MCL 335.341(4)(b); MSA 18.1070(41)(4)(b), and two counts of possession with intent to deliver a controlled substance, amphetamines, MCL 335.341(l)(b); MSA 18.1070(41)(l)(b), and diazepam, MCL 335.341(l)(c); MSA 18.1070(41)(l)(c). On June 21, 1978, after a jury trial, defendant was found guilty of eight of the nine counts; he was acquitted on one of the receiving and concealing stolen property counts. Defendant now appeals by right.
+On appeal, he raises eight issues, only one of which merits extensive discussion.
+Before trial, defendant moved for separate trials for each receiving and concealing stolen property count and for the controlled substances counts or, alternatively, for two separate trials, one on the receiving and concealing stolen property counts and another on the drug counts. That alternative motion was denied. On appeal, defendant argues that the trial court erred in denying that motion. While we find no impropriety in joining the receiving and concealing counts, we agree that the stolen property charges should have been severed from the drug charges.
+Our Supreme Court has relied on the ABA Standards Relating to Joinder and Severance. People v Tobey, 401 Mich 141, 151; 257 NW2d 537 (1977). The standard adopted in Tobey provided, in pertinent part:
+"Two or more offenses may be joined in one charge, with each offense stated in a separate count, when the offenses, whether felonies or misdemeanors or both:
+"(a) are of the same or similar character, even if not part of a single scheme, or plan; or
+"(b) are based on the same conduct or on a series of acts connected together or constituting parts of a single scheme or plan.” ABA Project on Minimum Standards for Criminal Justice, Standards Relating to Joinder and Severance (Approved Draft, 1968), Standard 1.1.
+The prosecution argues that joinder was proper because the same acts were involved. In Tobey, the ABA commentary was quoted to explain that " 'same conduct’ refers to multiple offenses 'as where a defendant causes more than one death by reckless operation of a vehicle’ ”. Tobey, supra, 151. The simultaneous possession of unrelated items of contraband does not fall within this definition.
+Tobey allows joinder of offenses that are a series of acts connected together or are a part of a single scheme or plan. Neither reason for joinder is applicable in this case.
+Finally, joinder is permitted for offenses that are of the same or similar character. Tobey, supra, 150. An arguable claim may be established that possession of contraband makes the offenses charged in the instant case offenses of “similar character”. Joinder, then, could be permissible under this standard.
+The ABA standards give a defendant a right to severance of offenses that are joined solely because they are of the same or similar character. Tobey, supra, 153. Severance is not a matter within the trial court’s discretion in such a case.
+In several Federal cases, joinder of counts has been permitted when evidence to prove those counts was found in a single search. United States v Park, 531 F2d 754 (CA 5, 1976), United States v Pietras, 501 F2d 182 (CA 8, 1974), United States v Abshire, 471 F2d 116 (CA 5, 1972). In those cases, however, all of the articles seized related to a single scheme or plan.
+In the present case, the only nexus between the drug and stolen property counts is that the evidence in support of all these charges was found in a single search of the defendant’s home; no common scheme connects these counts. Separate trials on these offenses would involve some repeated testimony, as some of the police officers would be needed at each trial. The bulk of the testimony at trial was, however, severable, so the evidentiary overlap would constitute only a minor inconvenience.
+Defendant had a right to severance. The trial court erred in denying his motion to sever and we are unable to find this error harmless.
+"He [defendant] has a right to be warned by the complaint and warrant of what he is accused, and ought not to be convicted of two different crimes, committed at different times, under one information, with the evidence of each confounded as a whole, and used indiscriminately to convict him of both. Such a proceeding violates every principle of justice, and places him at the mercy of the prosecutor; and, as, in this case, evidence not competent to prove one of the offenses, but admissible as to the other, is used to establish both crimes. Such a trial must necessarily be an unfair and illegal one.” People v Aikin, 66 Mich 460, 472; 33 NW 821 (1887).
+Defendant’s remaining allegations of error are without merit.
+The trial court did not err in denying defendant’s motion to suppress evidence seized pursuant to a search warrant. Defendant failed to show that the misstatement in the affidavit in support of that warrant was a deliberate falsehood or was made in reckless disregard of the truth. Franks v Delaware, 438 US 154; 98 S Ct 2674; 57 L Ed 2d 667 (1978), People v Price (On Remand), 91 Mich App 328; 283 NW2d 736 (1979). Where defendant did not show that the informant was incredible, the informant’s identity need not have been disclosed. McCray v Illinois, 386 US 300; 87 S Ct 1056; 18 L Ed 2d 62 (1967).
+There was also no error in denying defendant’s motion for a mistrial. The court properly qualified the police officer as an expert witness, capable of giving an opinion as to the results of a field test of drugs. The officer’s testimony about the street names of those drugs, while irrelevant, was brief, was in the middle of a lengthy trial and did not prejudice defendant. The officer’s comment that the drugs were commonly used on the street was also not prejudicial. People v Castillo, 82 Mich App 476; 266 NW2d 460 (1978).
+The trial court did not improperly limit defendant’s evidence of good reputation. The court recognized that defense counsel could inquire into defendant’s reputation as a law-abiding citizen. The court did . not bar such evidence, but did prevent defense counsel from asking whether defendant had a reputation as one who received and concealed stolen property. This form of question did not inquire into a pertinent character trait, as allowed by MRE 404(a)(1). The court also cautioned defense counsel that such an inquiry would open the door to evidence of rumors and defense counsel elected not to pursue that line of questioning. Where defendant was free to rephrase his question in a proper manner, there was no error.
+We also find no error in allowing the prosecution to cross-examine defendant’s character witness about defendant’s gun collection, after defendant opened the door to such a question, and about defendant’s prior arrest, after that witness had testified about defendant’s reputation. People v Foley, 299 Mich 358; 300 NW 119 (1941), People v Brocato, 17 Mich App 277; 169 NW2d 483 (1969).
+There was sufficient evidence to bind defendant over for trial and to allow the jury to decide defendant’s guilt. Evidence of guilty knowledge could be inferred from the names shown to be on the missing articles, the damaged condition of the CB radios and the attempt to conceal the missing property. People v Salata, 79 Mich App 415, 421; 262 NW2d 844 (1977), People v Tantenella, 212 Mich 614, 621; 180 NW 474 (1920).
+Finally, defendant argues that the trial judge’s conduct deprived him of a fair trial. The court merely exercised proper control over the proceedings. While heated arguments did occur at times, those were outside the jury’s presence and did not deny defendant a fair trial.
+Reversed and remanded for separate trials.
