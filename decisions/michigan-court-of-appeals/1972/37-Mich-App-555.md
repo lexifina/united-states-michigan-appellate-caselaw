@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 9998, 10207"
+decided: "1972-01-17"
+citations: ["37 Mich. App. 555"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, P. J., and T. M. Burns and Danhof, JJ.", "All concurred."]
+parties: ["PEOPLE v DYKES PEOPLE v YOUNG"]
+source_url: "https://static.case.law/mich-app/37/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2086038
+cites_cases: ["11 Mich App 519", "130 Mich 522", "147 Mich 1", "16 Mich App 443", "162 Mich 371", "19 Mich App 48", "219 Mich 62", "256 Mich 229", "313 Mich 95", "335 Mich 457", "52 Mich 24", "6 Mich App 233"]
+---
+
+# People v. Dykes
+
+## Majority (T. M. Burns, J.)
+
+T. M. Burns, J.
+Defendant Dykes appeals his conviction of second-degree murder, MCLA 750.317; MSA 28.549, while defendant Young appeals his conviction of manslaughter, MCLA 750.321; MSA 28.553.
+Defendants were charged with the death of one Benny Neal. One witness testified to seeing the deceased backing down a stairway while defendant Dykes stabbed and defendant Young kicked at the deceased from above. The testimony of the eyewitness, an 11-year-old child, varied as to whether both defendants or only defendant Dykes had a knife and stabbed at the victim. The testimony of a second witness placed both defendants at the scene of the crime, while that of a third placed defendant Dykes at the scene.
+On appeal defendant Dykes complains that it was error to permit the jury to view the scene after the close of proofs and the beginning of jury deliberations, and that his right to confrontation was abridged because he was not present at the view. We find no merit in this claim. Granting a jury view in a criminal case after the beginning of deliberations is within the discretion of the trial court. MCLA 768.28; MSA 28.1051. People v Pizzino, 313 Mich 95, 106 (1945). The record reveals that defendant was represented by counsel at the view and that no request was made that defendant accompany the jury to the view. Under these facts, we find that defendant was not prejudiced.
+Defendant Dykes next objects to the form of instruction given the jury by the trial court in respect to the defense of alibi. No request for instruction was made, and no objection to the instruction given was raised at trial. We find the instruction given by the trial court was proper, and there was no error saved for appeal. GCR 1963, 516.2.
+Defendant Dykes further claims reversible error in the admission of certain hearsay testimony concerning a statement made to police by an earlier witness placing defendant at the scene of the crime and which recapitulated the earlier testimony as to defendant Dykes. Since the testimony complained of was merely cumulative and corroborative of earlier testimony, its admission did not constitute reversible error. People v Gregory, 130 Mich 522 (1902); People v Adams, 162 Mich 371 (1910) ; People v Kregger, 335 Mich 457 (1953).
+Defendant Young complains that there was insufficient evidence to support his conviction for manslaughter. We find that testimony placing defendant at the scene of the crime and engaging in an assault in common with, defendant Dykes on the deceased and from which deceased died sufficient to support his conviction. It is not enough to say that testimony was equivocal as to whether defendant Young had or used a knife against deceased and that testimony tended to show he merely kicked at deceased and that deceased died of knife wounds and not of blows registered by a foot. To support the manslaughter conviction, it suffices that defendant Young was engaged with another in a homicidal assault on the deceased from which he died. It is irrelevant as to who struck the fatal blows. Under the accomplice statute, MCLA 767.39; MSA 28.979, one accomplice is equally.liable for the actions of the other when operating in concert. People v Elmer Weatherspoon, 6 Mich App 233 (1967); People v Licavoli, 256 Mich 229 (1931); People v Mangiapane, 219 Mich 62 (1922).
+Defendant Young further charges error in the failure of the trial court to instruct the jury as to the lesser offenses of felonious assault or assault and battery. The record shows that defense counsel made no request for such an instruction and such failure precludes consideration of the question on appeal. MCLA 768.29; MSA 28.1052. Moreover, such an instruction would have been improper in view of the victim’s death. People v Carabell, 11 Mich App 519, 524 (1968), citing People v Adams, 52 Mich 24 (1883).
+Finally, both defendant Dykes and defendant Young claim reversible error in the trial court’s admission of a witness’s prejudicial reply to the assistant prosecutor’s inquiry as to her earlier stated reluctance to talk to police, that it was “Because I have two children. I don’t want them dead.”
+In earlier direct examination, the witness having testified to seeing defendants at the scene of the crime, the assistant prosecutor asked, “Did you tell the police what you had seen?” to which the witness replied, “I wasn’t going to tell the police anything, but a man put the police on me because he saw me coming out of there”. The assistant prosecutor later asked why she didn’t wish to tell the police anything, over the objection of defense counsel, which question elicited the witness’s prejudicial reply. The trial court ruled correctly denying defense counsel’s objection on the basis of the people’s right to show that the testimony of the witness was not involuntary.
+However, having agreed to give an instruction limiting the inferences from the witness’s statement, the trial court failed to do so at the end of trial. While failure to give the promised instruction may well have been error, there is no evidence that the prosecution intentionally attempted to elicit the prejudicial statement from the witness. Nor was the question asked objectionable. Even where the prosecution asks objectionable questions in good faith, it is not grounds for reversal. People v Tubbs, 147 Mich 1, 8 (1907); People v Bergin, 16 Mich App 443, 449 (1969). We have held that prejudicial responses to nonprejudicial questions do not constitute reversible error on appeal in the absence of a motion for a mistrial except where necessary to avoid a miscarriage of justice. People v Tyrer, 19 Mich App 48, 50, 51 (1969).
+The failure of defense counsel to pursue the matter further by motion to strike, or motion for mistrial, or to renew the request for a curative instruction indicates there was minimal prejudice to defendants. In view of the fact that there was ample evidence at trial to convict defendants, we do not feel that the witness’s statement warrants reversal.
+Accordingly, the convictions of both defendant Dykes and defendant Yonng are affirmed.
+All concurred.
