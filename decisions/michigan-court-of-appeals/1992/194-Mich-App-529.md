@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "130120"
+decided: "1992-06-15"
+citations: ["194 Mich. App. 529"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Neff, P.J., and Gribbs and Murphy, JJ."]
+parties: ["WEBB v WATTS (AFTER REMAND)"]
+source_url: "https://static.case.law/mich-app/194/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1868496
+cites_cases: ["170 Mich App 61", "179 Mich App 41", "188 Mich App 697", "193 Mich App 81", "385 NW2d 586", "424 Mich 675", "427 NW2d 588", "445 NW2d 186", "470 NW2d 505", "483 NW2d 442"]
+---
+
+# Webb v. Watts
+
+## Majority (Per Curiam.)
+
+AFTER REMAND
+Before: Neff, P.J., and Gribbs and Murphy, JJ.
+Per Curiam.
+Defendant appeals from an order granting plaintiffs’ motion for costs. We vacate and remand for a redetermination of costs.
+This case arises from a December 31, 1980, incident in which plaintiffs claim that defendant intentionally fired a gun at plaintiff Eddie Webb. In plaintiff’s hurry to get away, he tripped over a log, hurting his big toe and his back. On January 6, 1982, plaintiffs filed this action against defendant, alleging that, as a result of those injuries, plaintiff could no longer work at his construction job.
+Although defendant was apparently served with notice of the action, he failed to appear. The circuit court entered a default judgment against defendant in the amount of $15,000 and issued a writ of garnishment against defendant’s bank account.
+In August 1985, defendant moved to set aside the writ of garnishment and the default judgment. Defendant stated in his affidavit that he was eighty-four years old, had poor hearing and eyesight, and had never been served in this case. Defendant further stated that the Recorder’s Court judge who had dismissed the related criminal charge against him of reckless use of a firearm had told him that the entire matter was concluded. Defendant also stated that at the time of the shooting, he was afraid of plaintiff, whom he knew to be violent, and that plaintiffs were his tenants and were eight months behind on their rent and had avoided eviction.
+The circuit court denied defendant’s motions, finding that he had not demonstrated good cause for setting aside the judgment. In an unpublished opinion per curiam, decided June 13, 1988 (Docket No. 90935), this Court set aside the default judgment and remanded for further proceedings, concluding that the circuit court abused its discretion when it denied the motion to set aside the default judgment.
+On remand, plaintiffs moved for costs pursuant to MCR 2.603(D)(4) and 2.625(D)(1), requesting attorney fees and costs. The circuit court awarded plaintiffs $2,500 in costs and attorney fees.
+We reject defendant’s contention that the circuit court had no authority to award costs under the circumstances. MCR 2.603(D)(4) and 2.625(D) require that the setting aside of a default judgment be conditioned upon the defaulting party’s paying the other party’s costs incurred in procuring and relying upon the default. Typically, where this Court sets aside a default or default judgment, it will specifically direct the trial court upon remand to assess costs upon the defaulting party. See, e.g., Komejan v Suburban Softball, Inc, 179 Mich App 41, 53; 445 NW2d 186 (1989); Reed v Walsh, 170 Mich App 61, 67; 427 NW2d 588 (1988). In this case, because this Court did not award costs but remanded for further proceedings, it was reasonable for the circuit court to assume that, consistent with the requirements of the court rules, those further proceedings were to include an award of costs upon plaintiffs’ motion.
+We agree with defendant’s contention, however, that the circuit court had no authority to award attorney fees in the absence of a statute or court rule permitting such an award. MCL 600.2405; MSA 27A.2405 provides that attorney fees may be awarded as taxable costs if authorized by statute or court rule. Similarly, this Court has held that attorney fees are generally not allowed as an element of taxable costs, except where specifically authorized by statute or court rule. Matras v Amoco Oil Co, 424 Mich 675, 695; 385 NW2d 586 (1986); DeWald v Isola (After Remand), 188 Mich App 697, 699; 470 NW2d 505 (1991). Because attorney fees are not specifically authorized as an element of taxable costs in connection with the setting aside of a default judgment, the circuit court was not authorized to award attorney fees as an item of costs in this case.
+Defendant also contends that the circuit court had no authority to award costs because plaintiffs failed to move for costs within twenty-eight days from the date this Court set aside the default judgment, as defendant contends is required by MCR 2.625(F)(2). Plaintiffs, however, moved for costs within twenty-eight days of the date the record was returned to the circuit court. Because plaintiffs could not have been expected to move for costs before the return of the action to the circuit court, the motion for costs was timely filed.
+Award of costs and attorney fees vacated and case remanded for redetermination of costs in a manner consistent with this opinion. We do not retain jurisdiction.
+We distinguish our recent decision in McKelvie v Mount Clemens, 193 Mich App 81; 483 NW2d 442 (1992), in which we construed MCR 2.504 as permitting the award of attorney fees as a condition of the plaintiffs receiving a voluntary dismissal without prejudice. The purpose of such an award of attorney fees is to place the defendant in a position similar to that in which the defendant would have been had the plaintiff not first initiated the action and then sought a voluntary dismissal, usually to pursue a more favorable forum. We emphasized in McKelvie that the award of attorney fees in such a case was limited to fees for attorney work product that could not be used in a subsequent action. Unlike a plaintiff who seeks a voluntary dismissal, a defendant will be allowed to set aside a default judgment only upon showing both good cause to set aside the default and a meritorious defense pursuant to MCR 2.603(D) and MCR 2.612, and upon the defendant’s paying the plaintiff’s costs in obtaining the default. By further contrast, because of the nature of a default, a plaintiff who has obtained a default judgment has generally incurred very little by way of attorney fees beyond those that the plaintiff would have incurred had the defendant defended originally. Thus, although the language of MCR 2.603(D)(4) is similar to that of MCR 2.504, the different purposes behind the provisions persuade us that the better policy is that expressed by the general rule that attorney fees are not recoverable unless expressly authorized by statute or court rule.
