@@ -1,0 +1,94 @@
+---
+court: "Michigan Court of Appeals"
+docket: "105863"
+decided: "1988-11-21"
+citations: ["173 Mich. App. 202"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cynar, P.J., and Shepherd and Doctoroff, JJ."]
+parties: ["PEOPLE v BROWN"]
+source_url: "https://static.case.law/mich-app/173/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2320127
+cites_cases: ["116 Mich App 567", "121 Mich App 168", "134 Mich App 682", "154 Mich App 762", "163 Mich App 273", "164 Mich App 1", "187 NW2d 229", "232 NW2d 302", "296 NW2d 49", "302 NW2d 164", "323 NW2d 486", "328 NW2d 609", "339 NW2d 440", "352 NW2d 297", "384 Mich 693", "395 Mich 793", "398 NW2d 358", "398 NW2d 525", "409 Mich 895", "410 Mich 428", "411 Mich 1119", "413 NW2d 766", "416 NW2d 355", "417 Mich 523", "427 Mich 482", "428 Mich 851", "429 Mich 877", "61 Mich App 62", "81 ALR3d 1192", "97 Mich App 416"]
+---
+
+# People v. Brown
+
+## Majority (Cynar, P.J.)
+
+Cynar, P.J.
+On November 30, 1987, defendant pled guilty to one count of delivery of cocaine under fifty grams, MCL 333.7401(2)(a)(iv); MSA 14.15(7401)(2)(a)(iv), and one count of delivery of marijuana, MCL 333.7401(2)(c); MSA 14.15(7401)(2)(c). The sentence guideline range for delivery of cocaine was a minimum of six to twelve months and the guideline range for delivery of marijuana was a minimum of zero to six months. Defendant was sentenced to concurrent sentences of five years probation, with the first six months to be served in the county jail, for each offense. Defendant appeals as of right. We affirm.
+Defendant was originally charged with two counts of delivery of cocaine, two counts of delivery of marijuana, one count of possession of cocaine, and one count of possession of marijuana. After the preliminary examination, defendant was bound over for trial. In circuit court, defendant moved to quash the information, claiming that he had been entrapped and that there was insufficient evidence of delivery of cocaine and marijuana. On June 4, 1986, his motion was denied. On August 15, 1986, defendant’s application for leave to appeal was denied by this Court. On June 10, 1986, defendant filed a motion in the circuit court for reconsideration of the June 4, 1986, order. A hearing was held on September 25, 1986, on the motion for rehearing. On October 20, 1986, an opinion and order were entered in the circuit court denying the motion for reconsideration and holding that defendant had not been entrapped. On December 16, 1986, this Court denied defendant’s application for leave and for a stay of proceedings. Defendant then filed an application for leave to appeal in the Supreme Court. While that application in the Supreme Court was pending, defendant filed a further motion in the circuit court for a stay of proceedings and for a ruling that a search warrant was involved. On January 12, 1987, the circuit court denied those motions. On January 14, 1987, the Supreme Court, in lieu of granting leave to appeal, remanded this case to the Court of Appeals for consideration as on leave granted. 428 Mich 851 (1987). On January 15, 1987, this Court stayed the proceedings. On September 21, 1987, this Court affirmed the trial court’s ruling on the entrapment and delivery issues. People v Brown, 163 Mich App 273; 413 NW2d 766 (1987). On November 27, 1987, the Supreme Court denied leave to appeal. 429 Mich 877 (1987). On November 30, 1987, defendant pled guilty to one count of delivery of cocaine under fifty grams and one count of delivery of marijuana. In exchange for defendant’s pleas, the remaining information counts were dismissed. Defendant was sentenced on January 4, 1988. Defendant now appeals as of right raising seven issues.
+The facts of this case are the same as the facts set forth in the concurring opinion of Judge Beasley in People v Brown, supra. This case arose when Nancy Kalder, a special agent for the Organized Crime Unit of the Attorney General’s Office, was told by an unidentified female informant that a prostitute by the name of Katherine Roberts had received cocaine and marijuana from defendant.
+On October 15, 1985, Kalder, the informant, and Katherine Roberts attended an evening meeting at a Lansing restaurant. At that time, an understanding was reached that Roberts would go to defendant’s apartment, as she normally had in the past, and would receive whatever narcotics defendant had available. The narcotics would then be brought back to Kalder as a sample and for possible use as evidence. The understanding was that if Roberts did her part of the work, she would be furnished with a place to stay, she would be given some money, and something would be done to try to get her off drugs and into a rehabilitation program. It was also understood that the police would monitor Roberts’ phone calls to defendant.
+At the December 9, 1985, preliminary examination, Roberts testified that she had been addicted to heroin since 1983. She stated that she had used cocaine since 1979, and also used Dilaudids, but was addicted to neither. She testified that she had first earned money as a prostitute in 1980. She said that she had known defendant for about four years and that she met defendant through another prostitute. Roberts stated that she had been to defendant’s apartment fifty to one hundred times as a prostitute. She said that defendant always "shared” his drugs with her. Roberts testified that she and defendant exchanged sex for drugs or cash.
+At the time of her first meeting with special agent Kalder on October 15, 1985, Roberts said she had not been in contact with defendant for thirty days. Presumably, the reason for this was that she had received $130 from defendant for the purpose of buying cocaine for him and had never done so or accounted to him for the money. However, there was also testimony that during their four-year relationship there had been other occasions when there were breaks in their meetings for as long as thirty days. Nevertheless, Kalder gave $50 to Roberts to pay to defendant upon the $130 obligation she had to him. Kalder thought that this would ensure Roberts’ entry into defendant’s apartment. Her feeling was that if she did not do so, defendant might not be willing to resume the sexual relationship with Roberts and, thus, might not permit Roberts to enter his apartment.
+Roberts also testified that defendant had not called her within the last six months, apparently because defendant no longer had a phone number through which he could reach her. Thus, during that period, the only contacts that Roberts had with defendant were initiated by her.
+The record indicates that Roberts had three previous convictions for soliciting and, at the time of the preliminary examination, there was a pending soliciting case under the jurisdiction of the Lansing City Attorney’s office.
+Roberts testified that, when they first met, defendant told her never to come to his apartment without calling first. Consequently, she always called defendant before going to his apartment, except for a couple of times when she was living with her ex-husband, and defendant called her. Otherwise, all of the telephone calls between Roberts and defendant were initiated by her. She said that often defendant would tell her to call back later because he was busy or tired. After her meeting with special agent Kalder, Roberts said she made the telephone calls to defendant to set up meetings with him in the same way she had for the preceding four years. When Roberts told Kalder that she often gave defendant sex in exchange for drugs, Kalder told Roberts to try to "avoid it.” Nevertheless, during her visits to defendant, which were suggested and monitored by the investigators, Roberts did have oral sex with defendant.
+The investigators kept their share of the bargain by enrolling Roberts in a rehabilitation program and finding a place for her to stay. Also, they paid for a motel room for her, paid various food, clothing, and medical expenses, and their personnel drove her to a methadone clinic every day.
+On October 17, 1985, special agent Kalder had Roberts call defendant and tell him that she had $50 to give him for the money that she had taken from him and had her offer to come to defendant’s apartment. Before Roberts went to defendant’s apartment, she was strip searched by the investigator to make sure that no drugs were taken into defendant’s apartment. Roberts was also strip searched again on her return to ensure the investigators that she had not taken any drugs out of defendant’s apartment other than those that she handed over to Kalder. Roberts testified that when she entered defendant’s apartment, he asked her if she wanted to roll them a joint and that the marijuana was in defendant’s bedroom in a dish. Roberts rolled the joint and both of them smoked it. She and defendant also used some cocaine that defendant had in his apartment. She injected the cocaine with a syringe and went into the bathroom to do so because defendant "didn’t like to watch anybody stick a needle in their arm in front of him.” When she left, defendant gave her a small bud of marijuana to take with her to smoke at home. Roberts gave that marijuana to Kalder.
+Kalder testified that on October 28, 1985, she and Roberts went to defendant’s apartment. On that occasion, Roberts was permitted to enter, but not Kalder.
+Another visit to defendant’s apartment was arranged for October 29, 1985. Roberts was again strip searched before entering defendant’s apartment. On that occasion, defendant asked her if she wanted some cocaine and she agreed. Defendant gave her cocaine to take into the bathroom to inject and she injected some of the cocaine but put the rest into her purse. Roberts stated that she did not steal the cocaine and that defendant had given it to her.
+An additional trip to defendant’s apartment was arranged for November 7, 1985. As before, Roberts was strip searched before entering the apartment. Roberts stated that defendant was smoking when she arrived and asked her if she wanted to roll them a joint. She rolled a joint out of some marijuana that was on defendant’s dresser and they both smoked it. She testified that she and defendant also used some cocaine on that November 7, 1985, visit. She said that defendant had a large package of cocaine that he poured onto a mirror. Defendant snorted the cocaine and Roberts went into the bathroom about three times to inject it. Also, she put some of the cocaine that defendant had given her into an envelope in her purse and carried it out with her when she left. She then gave the envelope to special agent Kalder.
+On this appeal, defendant first argues that the conduct of the law enforcement agents in this case constituted entrapment as a matter of law. In making this argument, defendant acknowledges that this Court has already ruled against him on this issue. Defendant maintains that the prior ruling of this Court was erroneous and should be reexamined.
+Under the law of the case doctrine, if an appellate court has passed on a legal question and remanded the case for further proceedings, the legal questions thus determined by the appellate court will riot be differently determined on a subsequent appeal in the same case where the facts remain materially the same. CAF Investment Co v Saginaw Twp, 410 Mich 428, 454; 302 NW2d 164 (1981), reh den 411 Mich 1119 (1981); CNA Ins Co v Cooley, 164 Mich App 1, 6; 416 NW2d 355 (1987); Allen v Michigan Bell Telephone Co, 61 Mich App 62, 65; 232 NW2d 302 (1975), lv den 395 Mich 793 (1975). If a litigant has any objection to the law as stated by the appellate court, his redress is an application for rehearing to the deciding court or an appeal to a still higher tribunal. People v Whisenant, 384 Mich 693, 702; 187 NW2d 229 (1971).
+Thus, since this Court has already determined that defendant was not entrapped and the facts of this case remain materially the same, we find that the law of the case doctrine applies in this case. Accordingly, this Court’s prior determination on the entrapment issue will stand.
+Defendant next argues that his conduct in this case did not constitute delivery of a controlled substance. However, defendant once again acknowledges that this Court has already ruled against him on this issue. In Brown, supra, pp 275, 296-297, this Court previously determined that there was sufficient evidence presented at the preliminary examination to support a valid bind-over on charges of delivery of cocaine and marijuana. Therefore, this Court’s prior determination on this issue will stand as the law of the case. CAF Investment Co, supra; Allen, supra. Furthermore, even if we did not apply the law of the case doctrine on this issue, defendant’s challenge to the sufficiency of the evidence presented at the preliminary examination does not survive his plea of guilty. People v New, 427 Mich 482, 494-495; 398 NW2d 358 (1986).
+Moreover, although defendant did not specifically address the issue of the sufficiency of his guilty pleas in his brief, we find that there was a sufficient factual basis to support defendant’s guilty pleas to delivery of cocaine and marijuana. A factual basis is sufficient if an inculpatory inference can be drawn from what the defendant has admitted. People v Rashid, 154 Mich App 762, 764-765; 398 NW2d 525 (1986). MCL 333.7105(1); MSA 14.15(7105)(1) defines "delivery” as "the actual, constructive, or attempted transfer from 1 person to another of a controlled substance, whether or not there is an agency relationship.”
+At the instant guilty plea hearing, defendant testified as follows:
+The Respondent: Yes, on that date I had in my apartment here, in the City of Lansing, the quantity of controlled substance cocaine which I made available to, knowing what it was, I made it available to Ms. Katherine Roberts and shared it with her.
+The Court: And that was on October 29th, 1985?
+The Respondent: Yes, sir.
+The Court: And that was about what time of day or night?
+The Respondent: Oh, it was in the evening hours, Your Honor. The time I don’t recall.
+The Court: And this took place at 206 East Main, Apartment 15 in the City of Lansing?
+The Respondent: It did, Your Honor.
+The Court: What County is that in?
+The Respondent: Ingham.
+The Court: And what State?
+The Respondent: Michigan.
+The Court: And you knew that cocaine was in your possession at that time?
+The Respondent: 1 did, Your Honor.
+The Court: And you believed it to be cocaine?
+The Respondent: Yes, sir.
+The Court: And you know cocaine is a controlled substance?
+The Respondent: I do.
+The Court: And you know it’s against the law to possess cocaine?
+The Respondent: I do.
+The Court: And you had less than 50 grams; is that correct?
+The Respondent: Yes, sir.
+The Court: And you handed this or delivered this to Katherine Roberts?
+The Respondent: Yes, sir.
+The Respondent: Your Honor, on that date, at my apartment on Main Street, here in the City of Lansing, during the evening hours I had in my possession a quantity of marijuana, which I knew to be marijuana in which I shared with Ms. Katherine Roberts.
+The Court: All right. And that took place on October 17th, '85?
+The Respondent: Yes.
+The Court: And at 206 East Main, Apartment 15?
+The Respondent: Yes, sir.
+The Court: City of Lansing?
+The Respondent: Yes, sir.
+The Court: What County is that?
+The Respondent: Ingham.
+The Court: And what State?
+The Respondent: Michigan.
+The Court: And you delivered this marijuana of your own free will?
+The Respondent: I did.
+The Court: Any force, duress, coercion of any kind?
+The Respondent: No, sir.
+The Court: You knew it to be a controlled substance?
+The Respondent: I did.
+The Court: Do you know it’s against the law to possess marijuana?
+The Respondent: I do.
+The Court: And it was your intention to deliver this marijuana to Kathleen [sic] Roberts?
+The Respondent: Yes, sir.
+The Court: And you did, in fact, complete the transaction of the delivery?
+The Respondent: Yes, sir.
+Therefore, based on our review of the record, we find that there was a sufficient factual basis to support defendant’s guilty pleas to delivery of cocaine and marijuana.
+Defendant next argues that the penalties provided in the statute under which he was charged constitute cruel and unusual punishment as applied to the facts of this case. We disagree. This Court has consistently held that the penalty provisions under MCL 333.7401; MSA 14.15(7401) do not constitute cruel or unusual punishment. People v Tate, 134 Mich App 682, 693; 352 NW2d 297 (1984); People v Key, 121 Mich App 168, 172-173; 328 NW2d 609 (1982); People v Kaigler, 116 Mich App 567, 572-573; 323 NW2d 486 (1982). Furthermore, we find that the penalty provisions of the statute do not constitute cruel or unusual punishment as applied to the facts of this case.
+Defendant also argues that the sentences imposed upon him in this case constitute cruel or unusual punishment. We disagree. Defendant’s sentences were far below the statutory máximums for each offense and were within the sentence guideline ranges. Furthermore, our examination of the record reveals that the trial court did not abuse its discretion in sentencing to the extent that it shocks the conscience of this Court. People v Coles, 417 Mich 523, 550; 339 NW2d 440 (1983).
+Defendant next argues that the judgment of sentences made in this case was violative of due process and equal protection. Defendant maintains that the trial court held defendant to a higher standard of conduct because of his status as a state senator and discriminated against him on the basis of who he was rather than on what he did. We disagree. A fair reading of the sentencing record in its entirety indicates that the trial court did not discriminate against defendant. Defendant was properly sentenced based upon the sentence guidelines, his conduct in this case, and his previous criminal record and not his status as a public official.
+Defendant next argues that the statute under which he was charged, the Public Health Code, is violative of the title-object clause of the Michigan Constitution. We disagree. In People v Trupiano, 97 Mich App 416, 418-420; 296 NW2d 49 (1980), lv den 409 Mich 895 (1980), this Court held that the Public Health Code does not violate the title-object clause.
+Defendant lastly argues that his constitutional right to fair and just treatment was infringed upon in the course of the investigation of this case. We disagree. The record does not support defendant’s contention of unfair and unjust treatment. Accordingly, we find that the authorities conducted the instant investigation in a fair and just manner and that defendant’s rights were not infringed upon.
+Affirmed.
