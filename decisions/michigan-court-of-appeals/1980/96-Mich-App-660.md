@@ -1,0 +1,25 @@
+---
+court: "Michigan Court of Appeals"
+docket: "46988"
+decided: "1980-04-03"
+citations: ["96 Mich. App. 660"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P.J., and M. F. Cavanagh and Cynar, JJ."]
+parties: ["KRUGER v MARTIN"]
+source_url: "https://static.case.law/mich-app/96/cases/0660-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2203361
+cites_cases: ["15 ALR2d 1270", "229 NW2d 848", "248 NW2d 558", "272 NW2d 202", "273 NW2d 490", "46 Mich 130", "59 Mich App 561", "71 Mich App 388", "8 NW 721", "86 Mich App 258", "86 Mich App 98"]
+---
+
+# Kruger v. Martin
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The parties to this appeal received a judgment of divorce in 1975 by which the plaintiff-father took custody of one child and the defendant-mother was given custody of the remaining two children. Plaintiff subsequently moved for a change of custody concerning the two children in the defendant’s custody and, sometime later, defendant moved for specific rights of visitation. An evidentiary hearing was scheduled but averted at the last moment when the parties agreed upon a schedule of visitation, payment by plaintiff of $1,000 in legal fees and dismissal of the motion to change custody. When the parties returned to court to enter an order expressing these terms, plaintiff withdrew his consent to the proposed visitation on the basis of his expressed belief that the agreement was not in the best interests of the children. He stated that this decision arose from numerous conversations with the children but did not specify what was discussed. Despite plaintiff’s withdrawal, the trial court entered a consent judgment in line with the prior agreement and granted defendant $200 for the cost of her motion in addition to the above-mentioned $1,000. From that judgment plaintiff claims this appeal.
+Plaintiff argues that the trial court committed a clear legal error by entering the previously-consented-to agreement without making findings and conclusions as to the best interests of the children in the matter. MCL 722.27(c); MSA 25.312(7)(c), GCR 1963, 517.1. We disagree. The parties had the opportunity, they were in fact poised to litigate this issue, when in open court and on the record they expressed agreement over a very detailed and specific schedule of visitation. Given plaintiff’s acceptance of that agreement, we may assume that he believed it to be in the best interests of his children. Like the trial court, we are not now informed of any facts that would support plaintiff’s change of mind as to what constitutes the children’s best interests in this regard. Plaintiff has not argued that his prior agreement should be vitiated on grounds of mistake, fraud of unconscionable advantage; we therefore decline to overturn it. Chapin v Perrin, 46 Mich 130, 131; 8 NW 721 (1881). We recognize that a party has been allowed to withdraw its consent to an agreement prior to entry of judgment. City of Norton Shores v Carr, 59 Mich App 561, 564; 229 NW2d 848 (1975). However, it is noted that there was some question as to the "true mutuality of the original agreement” in that case, Norton Shores, supra, 564, and, in any event, we agree with the subsequent criticism of that holding. Meyer v Rosenbaum, 71 Mich App 388, 392-393; 248 NW2d 558 (1976). Implementation of the new schedule of visitation does not, in our opinion, substantially change the visiting privileges previously existing inasmuch as plaintiff will retain visitation rights on all Friday afternoons and Saturdays excepting defendant’s extended vacation periods. The plaintiff is granted similar vacation time with the children and the parties will share visitation over the religious holidays to the extent noted in the agreement. We therefore view the revised schedule as an extension of visitation privileges between the parties which does not amount to a change in the children’s custodial environment and, hence, distinguish Stevens v Stevens, 86 Mich App 258, 270; 273 NW2d 490 (1978). This resolution in no manner precludes the plaintiff from invoking the continuing jurisdiction of the divorce court under the proper circumstances- MCL 722.27(c); MSA 25.312(7)(c).
+For the reasons given above, plaintiff’s claim concerning the payment of $1,000 in legal fees to defendant is without merit. On the other hand, plaintiff never consented to pay defendant $200 in conjunction with the entry of the consent order. Apparently, there was no compliance in this regard with the applicable statute and court rule, Le., a showing that defendant required this sum to be paid on her behalf to be able to carry on with the litigation. MCL 552.13(1); MSA 25.93(1), GCR 1963, 726.1. Therefore, this award of $200 is set aside. Defendant may make a motion to have this award reinstated if she can show the proper factors. See White v White, 86 Mich App 98, 102-103; 272 NW2d 202 (1978).
+Affirmed in part, reversed in part. No costs.
