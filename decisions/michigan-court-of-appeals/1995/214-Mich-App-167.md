@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "177359"
+decided: "1995-10-27"
+citations: ["214 Mich. App. 167"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Murphy, P.J., and Reilly and V. L. Washington, JJ."]
+parties: ["PEOPLE v TAYLOR"]
+source_url: "https://static.case.law/mich-app/214/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1870852
+cites_cases: ["378 NW2d 451", "392 US 1", "424 Mich 42", "434 US 106", "443 US 47", "460 US 491"]
+---
+
+# People v. Taylor
+
+## Majority (Murphy, P.J.)
+
+Murphy, P.J.
+Defendant was charged with carrying a concealed weapon, MCL 750.227; MSA 28.424. Following a preliminary examination, the 36th District Court issued an order suppressing the evidence of the weapon and dismissing the charge. In the Detroit Recorder’s Court, the prosecutor argued there was no violation of the Fourth Amendment and moved to reverse the district court’s order suppressing the evidence and dismissing the charge. The Detroit Recorder’s Court denied the motion. The prosecutor appeals by leave granted. We reverse.
+On November 1, 1993, Officer Bobby Ward and his partner were patrolling the vicinity of Renaissance High School at 2:30 in the afternoon. Officer Ward observed a large number of students leaving the school at the time. In addition, he observed defendant standing with two or three other juveniles on a sidewalk that was apparently in front of the school. The officers had been observing defendant and the other juveniles for about five minutes when they stopped their scout car, got out, and approached the juveniles on foot. When Officer Ward was about seven to ten feet away from defendant, he observed a bulge in the front of defendant’s jacket in the waist area and concluded that defendant was probably armed. To insure his safety and his partner’s safety, Officer Ward conducted a patdown search of defendant’s outer clothing for weapons and recovered a loaded nine-millimeter handgun from defendant’s stomach area.
+To justify an investigative stop, the police must have a particularized suspicion, based on an objective observation, that the person has been, is, or is about to be engaged in some type of criminal activity. Brown v Texas, 443 US 47, 51; 99 S Ct 2637; 61 L Ed 2d 357 (1979); People v Shabaz, 424 Mich 42, 59; 378 NW2d 451 (1985). The particularized suspicion that criminal activity is afoot must derive from the police officer’s assessment of the totality of the circumstances. Shabaz, supra, 59. In the course of an investigatory stop, a police officer may conduct a reasonable search for weapons where he has reason to believe that he is dealing with an armed and dangerous individual. Terry v Ohio, 392 US 1, 27; 88 S Ct 1868; 20 L Ed 2d 889 (1968). In determining the validity of such a search, the issue is whether a reasonably prudent person in the circumstances would be warranted in the belief that his safety or that of others was in danger. Id.
+"[L]aw enforcement officers do not violate the Fourth Amendment by merely approaching an individual on the street or in another public place . . . Florida v Royer, 460 US 491, 497; 103 S Ct 1319; 75 L Ed 2d 229 (1983). Accordingly, we conclude that Officer Ward and his partner did not violate the Fourth Amendment merely by getting out of their scout car and approaching defendant on foot. As the officers were lawfully approaching defendant, Officer Ward observed a bulge in the front of defendant’s jacket in the waist area. He testified at the preliminary examination that he had been a police officer for 4ti years, that he had occasion to come in contact with persons carrying weapons, and that on the basis of his experience and observation he suspected that defendant was probably armed. These facts provided the necessary particularized suspicion that a crime was afoot to justify the stop of defendant. Under the circumstances, Officer Ward could have reasonably believed that defendant was carrying a concealed weapon in violation of MCL 750.227; MSA 28.424. On the basis of the same facts, Officer Ward was justified in frisking defendant for weapons because he could have reasonably believed that defendant was armed and dangerous.
+In determining the lawfulness of a stop and frisk procedure, we must consider the general governmental interest of effective crime prevention and detection, and the more immediate interest of the police officer in protecting himself against armed violence. Terry, supra at 22-23. In this case, both interests support the conclusion that the stop and frisk was lawful. The government’s interest in preventing and detecting crime is particularly compelling when a crime is or may be occurring on or near school property when children are present. Furthermore, Officer Ward had an immediate interest in protecting himself against armed violence when, on the basis of his experience as a police officer and his observations of defendant, he believed that defendant was armed. See Pennsylvania v Mimms, 434 US 106, 111-112; 98 S Ct 330; 54 L Ed 2d 331 (1977). Under the circumstances of this case, Officer Ward’s stop and frisk of defendant was reasonable. Accordingly, evidence of the weapon seized by Officer Ward as a result of the lawful Terry stop and frisk is admissible, and the Recorder’s Court erred in denying the prosecutor’s motion to reverse the 36th District Court’s dismissal of the concealed weapons charge against defendant.
+Reversed.
+Unpublished order of the Court of Appeals, entered October 12, 1994 (Docket No. 177359).
