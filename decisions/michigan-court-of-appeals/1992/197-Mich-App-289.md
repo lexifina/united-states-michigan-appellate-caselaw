@@ -1,0 +1,50 @@
+---
+court: "Michigan Court of Appeals"
+docket: "121235"
+decided: "1992-12-07"
+citations: ["197 Mich. App. 289"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Jansen, P.J., and Michael J. Kelly and Griffin, JJ.", "Jansen, P.J., concurred."]
+parties: ["HOFFMAN v SPARTAN STORES, INC"]
+source_url: "https://static.case.law/mich-app/197/cases/0289-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1864021
+cites_cases: ["128 Mich App 140", "141 Mich App 692", "161 Mich App 533", "292 NW2d 542", "339 NW2d 722", "368 NW2d 257", "411 NW2d 736", "96 Mich App 256"]
+---
+
+# Hoffman v. Spartan Stores, Inc.
+
+## Majority (Griffin, J.)
+
+Griffin, J.
+In Hoffman v Monroe Public Schools, 96 Mich App 256, 261; 292 NW2d 542 (1980), this Court held
+that in all cases, whether civil dr criminal, once a jury has been polled and discharged, its members may not challenge mistakes or misconduct inherent in the verdict. After that point, oral testimony or affidavits by the jurors may only be received on extraneous or outside errors (such as undue influence by outside parties), or to correct clerical errors or matters of form.
+Today, we reaffirm the above holding. We will not reward counsel’s postdischarge inquiries regarding the internal thought processes of the jurors. The havoc and potential for abuse would be immense if we were to allow counsel to open the jury room door after the jury has been discharged and examine, analyze, and impeach the internal thought processes of the jury. Accordingly, we reverse the judgment of the circuit court and remand for reinstatement of the jury’s original verdict.
+i
+This action arose out of an automobile accident. Plaintiffs decedent was killed instantly when his automobile struck the side of a truck that had just backed out of defendant’s warehouse and was blocking the roadway. Before trial, plaintiff reached a settlement with all defendants except Spartan Stores, Inc. At trial, the jury returned a verdict of $1 million in favor of plaintiff. The jury found plaintiffs decedent eighty percent comparatively negligent. After the jury was polled and discharged, plaintiffs attorney asked the jury foreperson to explain how the jury arrived at the eighty percent comparative negligence figure. The foreperson informed plaintiffs counsel that the jury had found plaintiffs decedent twenty-seven percent at fault, and the truck driver (who had previously settled) fifty-three percent at fault. The jury then added the decedent’s comparative negligence to the truck driver’s comparative negligence and concluded that the decedent was eighty percent at fault.
+Almost simultaneous to the discussion between plaintiffs counsel and the jury foreperson, one of the jurors approached the trial judge to express concern about the verdict. Plaintiffs counsel promptly requested that the trial court reconvene the jury to "correct the improper verdict.” The trial judge asked the jurors to return the next morning, at which time the jury was reconvened "to correct the clerical error.” The jury was asked the following two special questions:
+(1) The jury recorded a figure of 80 percent for the percentage of negligence attributable to Frank Daniel Baldwin. Does that 80 percent figure includé the negligence of the truck driver? (2) What is the percentage of negligence which you found . . . attributable only to Frank Daniel Baldwin?
+After deliberating on the two special questions, the jury indicated that the eighty percent comparative negligence figure included the negligence of the truck driver, and that the percentage of negligence attributable to only plaintiffs decedent was twenty-seven percent. Thereafter, the jury was again polled and discharged. Judgment was entered in favor of plaintiff in the amount of $1 million reduced by the twenty-seven percent comparative negligence figure.
+Defendant appeals as of right contending that the trial court erred in reconvening the jury after it had rendered a verdict, was polled, and discharged. We conclude that the trial court erred in reconvening the jury and permitting the jury to alter its original verdict.
+n
+The landmark decision in this area is Hoffman v Monroe Public Schools, supra. In Hoffman, the jury announced a verdict in favor of the plaintiffs against the defendants. When the jury was individually polled, its members affirmed the verdict. Shortly after discharge, one or more of the jurors approached defense counsel and advised him that the announced verdict was contrary to the jury’s informal agreement not to hold the defendants liable. The defendants thereafter moved for and were granted a new trial. On appeal to this Court, Judge (now Justice) Riley writing for a unanimous Court reversed:
+It is clear that in jurisdictions applying the "Iowa rule,” the claimed error in the instant case could not be investigated through juror affidavits. Looking behind a verdict to determine if the finding is contrary to the jury’s intent is directly contrary to the rule prohibiting examination of jury mental processes. . . .
+We hold that in all cases, whether civil or criminal, once a jury has been polled and discharged, its members may not challenge mistakes or misconduct inherent in the verdict. After that point, oral testimony or affidavits by the jurors may only be received on extraneous or outside errors (such as undue influence by outside parties), or to correct clerical errors in matters of form. . . . We carve out an exception for clerical errors since, presumably, the correct information will already exist on the record and it will merely be a matter of conforming the written judgment to the earlier in-court statements; no invasion of the juror’s room or minds will be necessitated. [Id. at 260-261.]
+The policy behind this rule protects both the finality attached to judgments and the sanctity of the jury room. Id. at 258; Heintz v Akbar, 161 Mich App 533, 540; 411 NW2d 736 (1987). Further, "if the jury’s conclusions could always be questioned, tampering with the jury process would be encouraged.” Hoffman, supra at 258. The reassembling of the jury in this case occurred a day after its discharge and dispersion. Under these circumstances, "the influence of the community at large” on the reconvened jury’s deliberations and new verdict is a real danger. Id. at 262.
+hi
+Plaintiff claims that the exception for correction of clerical errors applies in this case. Under this exception, affidavits and testimony of jurors may be used to challenge the verdict where the written verdict does not conform to the true verdict because of a clerical error. Ledbetter v Brown City Savings Bank, 141 Mich App 692, 698; 368 NW2d 257 (1985); Brillhart v Mullins, 128 Mich App 140, 154; 339 NW2d 722 (1983).
+We conclude that the clerical-error exception does not apply in this case. The asserted error does not involve transcription or transmission of the jury’s verdict. The jury found plaintiff’s decedent to be eighty percent at fault in this matter, but faulty reasoning is not clerical error. Although the jury arrived at an incorrect figure by erroneously including the fault of the nonparty truck driver, the jury’s mistake involved a misunderstanding of comparative negligence principles, which involves thought processes and inner workings of the jury and is therefore beyond challenge. Ledbetter, supra at 701; Brillhart, supra; Hoffman, supra. Where, as in this case, it is claimed that the jury intended a different outcome, but no mistransmission of the verdict or clerical error occurred, the trial court should not permit alteration of the verdict. Brillhart, supra.
+IV
+The dissent correctly analyzes the issue as one of faulty reasoning as opposed to clerical error. Id. The dissent also recognizes the important public policy concerns outlined above and acknowledges that the jury verdict at issue may not be impeached. Inexplicably, however, the dissent would impeach the jury’s verdict. The new trial that the dissent advocates would reward counsel’s postdischarge inquiries into the jurors’ thought processes. In the interest of fairness, a Pandora’s box would be opened. If fairness is the standard by which to allow the opening of the jury room door, the thought processes of all juries would be fair game.
+For these reasons, we reaffirm the holding of Hoffman, supra, and reverse and remand for reinstatement of the jury’s original verdict. The circuit court’s order concerning attorney fees and interest is similarly vacated.
+Reversed and remanded.
+Jansen, P.J., concurred.
+In view of our resolution of this issue and pursuant to the relief requested by defendant, we find it unnecessary to rule on whether the trial court erred in excluding evidence of the decedent’s blood alcohol and urine alcohol' levels.
+
+## Concurrence (Michael J. Kelly, J.)
+
+Michael J. Kelly, J.
+(concurring in part and dissenting in part). I concur in parts I through hi of the majority opinion. I also agree that the award of actual costs and attorneys fees must be vacated. I disagree, however, that, under the guise of fortifying the sanctity of the jury room, a patent error must be condoned and a miscarriage of justice perpetuated. Mr. Bumble to the contrary notwithstanding. The record is clear that the violation of the court’s instructions to the jury was brought to the attention of the trial court well within the time limit for granting relief, and, in fact, defendant-appellant, in its prayer for relief requests the alternative remedy of remand to the trial court for a new trial.
+It was well within the trial court’s authority to grant a new trial for failure or refusal of the jury to follow its instructions. MCR 2.611(A)(1)(e) and (g). Any relief obtainable in the trial court is obtainable in this Court under MCR 7.216(A)(7). I would therefore grant the relief appropriate to redress the error in this case and order remand for a new trial. I would also decline to award costs, neither party having prevailed.
