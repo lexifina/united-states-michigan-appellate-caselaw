@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "s. 135759, 136170"
 decided: "1993-02-02"
-citations: ["198 Mich. App. 189", "201 Mich. App. 4"]
+citations: ["198 Mich. App. 189"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["WERTZ v WESTERN GOLF & COUNTRY CLUB"]
 source_url: "https://static.case.law/mich-app/198/cases/0189-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1862498
-cites_cases: ["189 Mich App 560", "198 Mich App 189", "262 NW2d 629", "273 NW2d 400", "402 Mich 243", "404 Mich 104", "474 NW2d 148", "497 NW2d 567"]
+cites_cases: ["262 NW2d 629", "273 NW2d 400", "402 Mich 243", "404 Mich 104"]
 ---
 
 # Wertz v. Western Golf & Country Club
