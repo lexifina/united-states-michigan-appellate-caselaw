@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "82810"
+decided: "1986-12-17"
+citations: ["158 Mich. App. 603"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Shepherd, P.J., and J. H. Gillis and MacKenzie, JJ."]
+parties: ["PEOPLE v GODBOLDO"]
+source_url: "https://static.case.law/mich-app/158/cases/0603-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2274282
+cites_cases: ["1 ALR3d 1251", "10 ALR3d 1054", "10 ALR3d 974", "128 Cal Rptr 888", "128 Mich App 802", "130 Mich App 718", "16 Cal 3d 663", "194 NW2d 709", "212 NW2d 190", "22 L Ed 2d 872", "255 Cal App 2d 34", "261 NW2d 490", "341 NW2d 803", "344 NW2d 342", "384 US 436", "386 Mich 551", "390 Mich 355", "390 Mich 360", "4 Cal 3d 589", "450 So 2d 805", "483 P2d 1193", "547 P2d 1000", "62 Cal Rptr 841", "76 L Ed 2d 644", "94 Cal Rptr 241"]
+---
+
+# People v. Godboldo
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted of first-degree murder, MCL 750.316; MSA 28.548, and was sentenced to life imprisonment. He appeals as of right.
+On April 24, 1984, defendant and Tracy Adams were arrested for the murder of Steven Holmes. Both individuals were taken to police headquarters for questioning. At approximately 6:00 p.m., defendant was advised of his Miranda rights and was then asked to read the rights form back to the officer. Defendant then initialed the form and, having waived his right to remain silent and to consult with an attorney, proceeded to answer the investigating officer’s questions regarding the death of Steven Holmes. A four-page transcript of this conversation was read into evidence at trial.
+At approximately 8:00 p.m. the same evening, defendant was rejoined with Tracy Adams and the two were questioned together by another officer. Although they were not reapprised of their rights, they were asked if they remembered being advised of those rights, to which they responded affirmatively. Both individuals agreed to the second interview, which was tape-recorded and admitted into evidence at trial.
+Prior to trial, defendant moved to suppress the statements, but the motion was denied. During trial, defendant’s counsel moved to suppress or delete that portion of the taped conversation containing statements made by Tracy Adams. This motion was also denied.
+On appeal, defendant argues that since the police did not readvise him of his Miranda rights prior to the second interview, the statement was taken in violation of his constitutional rights and should have been suppressed. We disagree. As correctly noted by the prosecution, the Miranda rights are not a liturgy which must be read each time a defendant is questioned. The Miranda rule is not in itself a constitutional right, but rather is only a procedural safeguard designed to protect an individual’s Fifth Amendment privilege against self-incrimination. Birdsey v Grand Blanc Community Schools, 130 Mich App 718, 722; 344 NW2d 342 (1983). Thus, the only question is whether, viewing the "totality of the circumstances,” the defendant’s statement was voluntary. People v Robinson, 386 Mich 551, 558; 194 NW2d 709 (1972). Further, a trial court’s finding of voluntariness will not be disturbed on appeal unless it is clearly erroneous. People v Carigon, 128 Mich App 802, 804-805; 341 NW2d 803 (1983).
+We have no difficulty affirming the trial court’s ruling in this case. Defendant’s second conversation with the police began only two hours after his Miranda rights had been read to him, and he acknowledged having been advised of his rights. When asked if he had any questions regarding his rights, defendant responded negatively. While it appears that Michigan courts have not previously addressed this situation, a California court had the following observations regarding the same argument:
+The purpose of the cautionary admonition of constitutional rights is to make certain that persons about to undergo custodial interrogation are aware of and understand their right to silence and to counsel. One adequate warning sufficient to comply with the Constitution and the rules declared in controlling cases decided by the United States Supreme Court and the Supreme Court of California is sufficient. We deem it unnecessary, and not required by any provision of the Constitution or rule of any decided case of which we are aware, that more than one adequate warning be given to a person in custody who may later be subject to successive interrogations. [People v Sievers, 255 Cal App 2d 34; 62 Cal Rptr 841, 843 (1967). See also People v Bynum, 4 Cal 3d 589; 94 Cal Rptr 241, 246; 483 P2d 1193 (1971), overruled on other grounds, 16 Cal 3d 663; 128 Cal Rptr 888; 547 P2d 1000 (1976); Tolbert v State, 450 So 2d 805 (Ala Cr App, 1984); State v Russell, 261 NW2d 490, 494-495 (Iowa, 1978).
+We agree with this reasoning and thus conclude that the failure to reread a defendant’s Miranda rights prior to each interrogation does not render his subsequent statements inadmissible as evidence against him. Rather, a factual question is raised as to whether the statements were voluntary. As we have previously noted, we find that the defendant’s statements here were indeed voluntary, and thus no error occurred in denying the motion to suppress.
+Defendant next argues that it was error to allow introduction of the statements made by Tracy Adams during his joint interrogation with defendant by the police. Defendant contends that the statements were hearsay and did not come within the coconspirator exception to that rule, MRE 801(d)(2)(E). We find no merit to the argument since the statement was admissible under MRE 801(d)(2)(B), which provides that a statement is not hearsay if offered against a party and the party "has manifested his adoption or belief of its truth, subject to the rule announced in People, v Bobo, 390 Mich 355 [212 NW2d 190] (1973).” In Bobo, the Michigan Supreme Court held that a defendant’s silence in the face of accusation cannot be used as evidence since the Fifth Amendment guarantees that no person can be compelled to act as a witness against himself. 390 Mich 360-361.
+The trial court found Bobo to be inapposite, and we agree. Both defendant and Adams waived their right to remain silent and in fact answered all the investigator’s questions. Further, our review of the transcript of that conversation convinces us that defendant assented to and adopted the statements made by Tracy Adams during the interview. Therefore, we find no error in the introduction of this evidence at trial.
+Affirmed.
+Miranda v Arizona, 384 US 436; 86 S Ct 1602; 76 L Ed 2d 644; 10 ALR3d 974 (1966).
