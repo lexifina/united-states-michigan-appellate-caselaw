@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "19900"
+decided: "1975-08-25"
+citations: ["63 Mich. App. 600"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: V. J. Brennan, P. J., and McGregor and D. F. Walsh, JJ."]
+parties: ["VanBUREN TOWNSHIP v ACKRON"]
+source_url: "https://static.case.law/mich-app/63/cases/0600-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2153441
+cites_cases: ["14 Mich App 58", "165 NW2d 290", "221 NW2d 474", "54 Mich App 717"]
+---
+
+# VanBuren Township v. Ackron
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+Appellant, VanBuren Township, instituted this action seeking to void a contract between itself and the defendant S. A. T. Enterprises, Inc., based upon MCLA 15.321 et seq.; MSA 4.1700(51) et seq., which authorizes the court to void contracts which are the result of certain types of improper self-dealing by government officials. VanBuren Township appeals by right from an accelerated judgment entered in favor of the defendants.
+Defendant Louis A. Toth was a Supervisor of VanBuren Township from 1965 through 1968 and served on the Township Sewer and Water Commission from February 3, 1969, through August 4, 1969. Defendant James F. Ackron served on the Water and Sewer Commission during the same period. Joseph Schlund was a member of the Township Board of Review from 1967 through 1973.
+Late in 1968, the three individual defendants began discussing a business venture involving the establishment of a mobile home park on 45 acres of land in VanBuren Township. The venture was incorporated as S. A. T. Enterprises, Inc. in April, 1969. At all times relevant to this litigation James Ackron was apparently the controlling stockholder in the Ackron Construction Company.
+The individual defendants, in order to insure the feasibility of their planned development, requested that the township extend its water line to the site of their project. The township board agreed to do so in late February, 1969, and instructed its engineer to prepare plans and estimates. The township agreed to bear the expense of the extension with the expectation that it would recoup its investment through charges for individual services.
+The township, after considering the engineer’s estimate, solicited and received sealed bids for the pipe installation project. Of the three bids submitted, Ackron Construction Company’s was the second lowest bid. However, after the bids had been opened and the results announced, the lowest bidder announced that its bid was based on erroneous calculations and requested permission to withdraw. The township board, acting on the recommendation of the Sewer and Water Commission (Ackron and Toth were Commissioners at this time) allowed the low bidder to withdraw and awarded the contract to the Ackron Construction Company.
+Defendants Ackron and Toth resigned from the Sewer and Water Commission on August 4, 1969. Four days later, Ackron’s company satisfactorily completed installation of the water pipeline and the township paid the full contract price of $45,-535.
+On September 9, 1969, S. A. T. Enterprises, Inc. paid the township $45,535 by a check, signed by the defendants Ackron and Toth, as representatives of S. A. T. On December 15, 1969, the parties entered into a repayment agreement under which the township would repay the amount advanced, without interest, to S. A. T. Enterprises in equal installments. This agreement was signed by the appropriate township officials and by defendants Toth and Schlund as the representatives of S. A. T. Enterprises. The township paid the debt in full by June 18, 1970.
+In 1973, S. A. T. Enterprises sued the township over a rezoning matter. By that time, there had been a complete turnover of the Board of Trustees, as well as in the positions of Clerk, Treasurer, and Supervisor. In reviewing the records and preparing for the litigation, the new officials "discovered” records indicating possible misconduct in the events of 1969. The township attorney filed this suit in September, 1973, seeking to void the agreement between the township and S. A. T. Enterprises.
+The defendants moved for accelerated judgment under GCR 1963, 116.1(5), arguing that the one-year statute of limitations in MCLA 15.325; MSA 4.1700(55) had run.
+After hearing the arguments presented by the parties’ counsels, the trial court granted the defendants’ motion for accelerated judgment. In the court’s order and opinion, the court stated that its decision was based upon the following reasoning:
+"The pleadings, exhibits, affidavits of Plaintiff’s officials, and Repayment Agreement dated December 15, 1969 were presented to and considered by this Court. This Court finds that the facts contained therein suggest a violation of the Act and that said facts were known by Plaintiff prior to one year before filing this action.
+"The Complaint clearly states that the Township Board entered into a construction contract with Ackron Contracting Company while James F. Ackron, a named Defendant, was a member of the Water and Sewer Commission. This should have suggested a violation of the Act to the Township Board.
+"The Repayment Agreement recites the understanding of the Township and S. A. T. Enterprises. This Agreement was executed by both the Township Supervisor and Clerk and by two of the named Defendants, Joseph Schlund and Louis Toth. Defendant Toth had recently resigned from the Water and Sewer Commission and Defendant Schlund was still a public servant at the time the Repayment Agreement was signed. Execution of this agreement by Schlund and Toth on behalf of S. A. T. Enterprises at that time should have suggested a violation of the Statute.
+"The affidavits of Elton Gollitzer and Patricia B. Cullen, Township Supervisor and Clerk, respectively, indicate that they had knowledge of circumstances suggesting a violation of the Act more than one year before this action was filed.”
+VanBuren Township appeals, claiming that the trial court’s interpretation of MCLA 15.325; MSA 4.1700(55) as applied to the facts presented was erroneous. It also claims that the trial judge erred by granting accelerated judgment without permitting it to institute discovery procedures.
+The plaintiff correctly points out that accelerated judgment, under GCR 1963, 116, should not be granted if there are disputed questions of material fact, Anderson v Sanders, 14 Mich App 58; 165 NW2d 290 (1968), but that is not the situation in the case at bar. The defendants stand ready to concede, for the purposes of this motion, all of the plaintiff’s allegations.
+The plaintiff has presented the affidavits of township officials who took office in 1970 and 1971, in which the affiants state that they did not learn the circumstances of this case until 1973. However, this information is wholly irrelevant. The important question is whether the officials who were in office in 1969 were aware of the circumstances indicating possible misconduct.
+The court found, as do we, that the pleadings and exhibits presented to the court for its consideration contain facts which should suggest a violation of the act and that these facts were known to the officials of the plaintiff township who had no economic stake in the transactions. The discovery of these circumstances suggests that a violation of the act occurred as early as 1969. This being so, the statute of limitations ran out in 1970 and the present suit, which was not filed until 1973, is barred by the statute.
+There is only one possible circumstance which might require a different conclusion. If the plaintiff had alleged that the township officials who were in office in 1969 were acting in illegal corroboration with the named individual defendants, we would be required to reverse and remand this case for further proceedings. Cates v F W Bald Estate, 54 Mich App 717; 221 NW2d 474 (1974). However, the trial judge offered the plaintiff an opportunity to amend its complaint to include such allegations. This offer was refused and the plaintiff elected to stand on its original complaint and suffer the accelerated judgment. Under the circumstances, the trial court did not err in granting the defendants’ motion for accelerated judgment.
+Affirmed.
+MCLA 15.325; MSA 4.1700(55) provides in pertinent part: “All actions to void any contracts hereunder shall be brought within one year after discovery of circumstances suggesting a violation of this act.”
