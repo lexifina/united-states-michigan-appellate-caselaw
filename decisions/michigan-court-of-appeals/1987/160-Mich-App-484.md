@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "87643"
+decided: "1987-06-01"
+citations: ["160 Mich. App. 484"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Hood, P.J., and Beasley and L. Townsend, JJ."]
+parties: ["PEOPLE v HILLIARD"]
+source_url: "https://static.case.law/mich-app/160/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2304859
+cites_cases: ["153 Mich App 89", "1961 PA 93", "205 NW2d 600", "24 ALR3d 986", "329 NW2d 710", "378 NW2d 365", "395 NW2d 16", "415 Mich 356", "423 Mich 261", "426 Mich 873", "44 Mich App 623", "72 ALR Fed 65"]
+---
+
+# People v. Hilliard
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Following a jury trial, defendant was convicted as charged of two counts of unlawful use of a credit card, MCL 750.157q; MSA 28.354(16). After pleading guilty to a charge of being an habitual offender, MCL 769.12; MSA 28.1084, he was sentenced to two concurrent terms of from three to six years imprisonment. He appeals as of right. We affirm.
+This prosecution arises from two separate credit card transactions by defendant, using a credit card not issued to him. The first transaction occurred on February 19, 1985, when defendant attempted to purchase a videocassette recorder from a Meijer store. After placing the vcr recorder on the store counter, defendant handed the clerk a Visa card. The clerk called to have the purchase "authorized” and, after receiving authorization, filled out a charge slip, which she imprinted with the credit card. However, because defendant was acting suspiciously, the clerk asked defendant for his driver’s license as additional identification. While she held the vcr, defendant left the store, ostensibly to get his license. He took the credit card with him and never returned. A Meijer store detective observed the transaction, followed the defendant out of the store, and obtained his license plate number. Meanwhile, a second Meijer store detective telephoned the cardholder as imprinted on the charge slip and learned that the credit card was stolen. The next day, both store detectives identified defendant from photographs shown to them by a Lansing Police Department detective.
+The second transaction occurred on February 20, 1985, when defendant and another male attempted to purchase gasoline from a service station. After the car was filled, defendant, who was a passenger in the vehicle, handed the credit card to the attendant. However, when the attendant ran a computer check on the card, he was advised to refuse use of it and to hold it for a reward. The attendant retained the card and demanded and received cash payment for the gasoline from the driver. In the meantime, defendant entered the service station and demanded that the cashier return the card to him. She refused and defendant left. The next day the cashier identified defendant from among the same photographs that had been shown to the two Meijer store detectives.
+At his trial, defendant denied all involvement in the incidents, stating that he had been home when they occurred. He claimed to have given the license plates from his car to a friend to use during the month of February, 1985. His wife and a neighbor also testified that defendant had given his license plates to a friend.
+On appeal, defendant raises three issues. First, he argues that since neither of the credit transactions were completed, at most he was guilty of attempted use of a credit card, a misdemeanor under the general attempt statute, MCL 750.92(3); MSA 28.287, rather than guilty of illegal use of a credit card, a felony.
+The current version of the Michigan statute that prohibits the use of another person’s credit card, MCL 750.157q; MSA 28.354(16), was enacted in 1967. It states:
+Any person who delivers, circulates or sells a credit card which was obtained or is held by such person under circumstances which would constitute an offense under sections 157n or 157p, or uses or permits or causes or procures the same to be used, delivered, circulated or sold, knowing the same to be obtained or held under circumstances which would constitute an offense under sections 157n [stealing, removing or retaining another’s card without consent] or 157p [possession of another’s card with intent to circulate or sell], shall be guilty of a felony.
+Defendant argues that because he was unsuccessful in obtaining goods with the credit card, he was guilty of "attempted use” of a credit card, a misdemeanor under the general attempt statute, rather than "use” of a credit card, a felony under the credit card statute. This is an issue of first impression which was not raised in the lower court. Nonetheless, we will consider it on its merits since to do otherwise would constitute manifest injustice. People v Cook, 153 Mich App 89; 395 NW2d 16 (1986), lv den 426 Mich 873 (1986).
+In support of his claim that he was guilty only of attempted use of a credit card, defendant relies on the predecessor to the current credit card statute. As enacted in 1961 PA 93, that provision stated:
+Any person who knowingly obtains or attempts to obtain credit, or purchases or attempts to purchase any goods, property or service ... by the use of any credit card ... of another without the authority of a person to whom such card . . . was issued ... is guilty of a misdemeanor. [See historical note to MCL 750.219a; MSA 28.416(1).]
+Defendant argues that the fact that the Legislature deleted any mention of attempt in the current statute evidences its intention to continue punishing the attempted use of a credit card as a misdemeanor under the general attempt statute.
+We disagree. In our view, in enacting the current provision, the Legislature intended to punish the unlawful use of a credit card rather than the unlawful use of a credit card in conjunction with obtaining goods or services. Stated otherwise, it is the unlawful use of a credit card with the intent to defraud or cheat that offends the statute, not its use to purchase goods or services. The Legislature’s emphasis is now on the unlawful use, circulation, delivery and sale of a card rather than on the purchase of "goods, property or services.”
+In the present case, defendant used a stolen credit card on two occasions with an intent to purchase goods. He presented the cards for payment of the vcr and for payment of the gasoline that was pumped into the automobile. The fact that he was thwarted before he was able to obtain the goods does not detract from the nature of his crime. The purchase of goods or services is not an element of the offense of illegal use of a credit card.
+Defendant’s two remaining issues can be briefly addressed. First, because defendant failed to object to the jury instructions, any error is waived absent manifest injustice. People v Handley, 415 Mich 356, 360; 329 NW2d 710 (1982). "It is a rare case in which an improper instruction will justify reversal of a criminal conviction when no objection has been made.” People v Kelly, 423 Mich 261, 271-272; 378 NW2d 365 (1985). Given the clear evidence presented at trial that defendant used the credit card, there was no manifest injustice in his convictions.
+Finally, we do not find that error requiring reversal occurred during the prosecutor’s closing argument. People v Cowell, 44 Mich App 623; 205 NW2d 600 (1973). Further, any alleged error in the prosecutor’s closing argument was waived because of defendant’s failure to object.
+Affirmed.
