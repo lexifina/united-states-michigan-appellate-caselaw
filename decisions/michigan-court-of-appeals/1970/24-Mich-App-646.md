@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "7,511"
+decided: "1970-06-25"
+citations: ["24 Mich. App. 646"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P. J., and McGregor and Quinn, JJ."]
+parties: ["NAWROCKI v. EBERHARD FOODS, INC."]
+source_url: "https://static.case.law/mich-app/24/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2070790
+cites_cases: ["137 Mich 155", "14 ALR2d 261", "18 Mich App 495", "195 F 31", "305 Mich 486", "368 Mich 71", "53 Mich 33", "77 W Va 710", "87 ALR2d 1047", "88 SE 1038", "96 Mich 408"]
+---
+
+# Nawrocki v. Eberhard Foods, Inc.
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+In 1956, George Nawrocki was convicted of uttering and publishing a forged check. In 1967, the Michigan Court of Appeals reversed Nawrocki’s conviction and ordered a new trial. Thereafter, the prosecutor dismissed the charges by entering a nolle prosequi. Nawrocki then brought a civil action against Eberhard Foods, certain of the employees of Eberhard Foods, and the City of Grand Rapids, alleging that he was falsely arrested and imprisoned, resulting in malicious prosecution and denial of his constitutional rights, and other damages incidental thereto.
+An examination of the plaintiff’s plight, since his initial arrest for uttering and publishing on February 10, 1956, is in order. Subsequent to his arrest, he was held, allegedly incommunicado, until February 13, 1956, released, and then re-arrested on the same charge on February 15, 1956, arraigned on February 16, 1956, and released on bond. He was convicted on June 14, 1956, and on July 2, 1956, he was placed on two years’ probation.
+On October 22, 1957, his probation was revoked and a sentence of 1 to 14 years, commencing as of September 25, 1957, was given to him. After being released on parole, on April 1, 1959, with his parole terminating April 1, 1961, he was arrested on April 5, 1961, for uttering and publishing, and again convicted on August 1, 1961; he was sentenced on August 22, 1961, and his confinement lasted until March 7, 1963. Later paroled, the plaintiff was the subject of another warrant for arrest on May 19, 1963, and convicted on March 26, 1964, and again sentenced to prison. Although there were appeals in these latter two cases, neither gave any relief to the plaintiff. He then filed a complaint for habeas corpus, which was treated as a delayed appeal from his June 14, 1956, conviction, and on November 24, 1967, the conviction was set aside and the case was remanded for new trial. Plaintiff was released from prison on February 16, 1968; on April 17, 1968, an order of nolle prosequi was entered regarding plaintiff’s first conviction.
+On May 14, 1968, plaintiff’s complaint was filed, which is the subject of the case at bar. Defendants filed motions for summary judgment and an accelerated judgment; the judge ruled that the statute of limitations on plaintiff’s actions had run and granted the motion for accelerated judgment; hence this appeal.
+(GCR 1963, 116, allows a party to demand accelerated judgment based on certain procedural defenses as therein set forth. A challenge that a complaint fails to state a cause of action is raised by summary judgment. GCR 1963,117.)
+Plaintiff, in effect, states these claims: false imprisonment and malicious prosecution. The claim >f false imprisonment stems from plaintiff’s arrest and incommunicado interrogation, beginning on February 10,1956, and ending on February 13,1956, when he was released. His claim for this action then arose on February 13,1956, although the proceedings against the plaintiff continued for some time after that. This is in accord with the weight of authority. See 87 ALR2d 1047; also Alexander v. Thompson (CA6, 1912), 195 F 31. The then applicable statute of limitations was PA 1951, No 21, CLS 1956, § 609.13 (Stat Ann § 27.605 [3]), which provided that an action for false imprisonment must be brought within two years; plaintiff’s action clearly was not. Plaintiff has been barred by the statute of limitations.
+Plaintiff also asserts a claim of malicious prosecution. Although the motion for summary judgment for failure to state a cause of action was raised in the lower court, it was not passed upon therein. We shall consider it In Belt v. Ritter (1969) 18 Mich App 495, 502, 503, the elements of malicious prosecution were succinctly stated:
+“In order to sustain a charge of malicious prosecution, a plaintiff must prove that a criminal prosecution was instituted against him which terminated in his favor, that defendant had no probable cause for the prosecution, and that defendant acted through malicious motives. * * * There must be both the absence of probable cause and the presence of malice. If plaintiff fails to prove either of these elements he will lose his case.”
+It is clear that it must be averred in the complaint for malicious prosecution that a criminal action was instituted against the complainant without probable cause. It has been said “there is no doubt manifested in any of the cases as to the absolute necessity of pleading want of probable cause generally in actions for malicious prosecution and actions of a similar nature.” 14 ALR2d 261, 268. The plaintiff’s declaration is wholly deficient, not only in his having failed to aver lack of probable cause, but also in his failing to aver malicious motives on the part of the defendants.
+Plaintiff’s cause of action is deficient in a more vital capacity.
+“By long established rule in this jurisdiction, a conviction in criminal proceedings is conclusive proof of probable cause, unless procured by false or fraudulent testimony or other unlawful means, and the rule applies, although the judgment of conviction is subsequently reversed by a higher court, and the plaintiff acquitted and discharged. Thick v. Washer (1904), 137 Mich 155; Phillips v. Village of Kalamazoo (1884), 53 Mich 33; Holmes v. Horger (1893), 96 Mich 408; Piechowiak v. Bissell (1943), 305 Mich 486; 3 Restatement of Torts § 667, p 454. Entering a nolle prosequi after conviction in no way alters this rule.” Moore v. Michigan National Bank (1962), 368 Mich 71, 73, 74.
+Facts constituting this cause an exception to the rule which would apprise defendants of the nature of the exception were not alleged. We, therefore, find that plaintiff’s conviction shows conclusively the existence of probable cause.
+Trial court affirmed. Costs to defendant.
+All concurred.
+GCR 1963, 820.1. Relief obtainable. The Court of Appeals may, at any time, in addition to its general powers, in its discretion and on such terms as it deems just * * *
+(7) Give any judgment and make any order which ought to have been given or made, and make such other and further orders and grant such relief, as the case may require; * * * .
+“The rule that a judgment of conviction, although reversed, continues to be conclusive proof of probable cause for the criminal accusation seems to be based on the theory that when the facts on which the accusation is predicated were such as to generate in the mind of a reasonable man, moved by proper motives, a belief in the guilt of the accused, and the inquisitorial and trial juries, upon an ex parte investigation in the first instance and a full hearing under the supervision and direction of the trial judge in the second, has concurred in sueh belief, the inquiry as to the existence of probable cause thereby should be foreclosed, and a further investigation precluded, except for fraud or perjury.” Haddad, v. Chesapeake & O. R. Co. (1916), 77 W Va 710 (88 SE 1038); 34 Am Jur, Malicious Prosecution, § 55, p 737.
