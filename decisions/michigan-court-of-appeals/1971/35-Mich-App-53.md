@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9734"
+decided: "1971-06-30"
+citations: ["35 Mich. App. 53"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Quinn, P. J., and McGregor and O’Hara, JJ.", "All concurred."]
+parties: ["PEOPLE v. BANDY"]
+source_url: "https://static.case.law/mich-app/35/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2089157
+cites_cases: ["114 Mich 655", "287 Mich 506", "386 Mich 753", "387 US 1", "397 US 358", "5 Mich 36"]
+---
+
+# People v. Bandy
+
+## Majority (Quinn, P. J.)
+
+Quinn, P. J.
+Is the Holmes Youthful Trainee Act, MCLA §§ 762.11-§§ 762.16 (Stat Ann 1971 Cum Supp §§ 28.853[11] — §§ 28.853[16]), constitutional? The trial court said no. The Attorney General says no and at least one other circuit court has said no. The defendant says yes.
+The act provides:
+“Sec. 11. When any youth is alleged to have committed a criminal offense between his seventeenth and twentieth birthdays, the court of record having jurisdiction of such criminal offense may with the consent of either the affected youth or his legal guardian or guardian ad litem elect to consider and assign such youth to the status of youthful trainee.
+“Sec. 12. The court of record, having jurisdiction over the criminal offense referred to in section 1, may at any time terminate its consideration of the youth as a youthful trainee or, once having assigned the youth to the status of a youthful trainee, may at its discretion revoke such status at any time prior to the youth’s final release. Such termination of consideration, or such revocation of status as a youthful trainee, shall serve to reinstate the criminal case against such youth at the point interrupted when the consideration as a youthful trainee was commenced. No information divulged by the youth, subsequent to the commencement of consideration of the youthful trainee status, may be admissible as evidence in the criminal case. Should the status of a youthful trainee be revoked and sentence imposed under criminal procedure, the court in imposing sentence shall specifically grant credit against the sentence for time served as a youthful trainee in an institutional facility of the department of corrections.
+“Sec. 13. If a youth is assigned to the status of a youthful trainee and the underlying charge is an offense punishable by imprisonment in a state prison for a term of more than 1 year, the court shall (a) commit the youth to the department of corrections for custodial supervision and training for a period not to exceed 3 years in an institutional facility designated by the department for such purpose or (b) place the youth on probation for a period not to exceed 3 years. A youth placed on probation shall be under the supervision of a probation officer or community assistance officer appointed by the corrections commission. Upon commitment to and receipt by the department of corrections, a youthful trainee shall be subject to the direction of the department of corrections.
+“Sec. 14. An assignment of a youth to the status of youthful trainee, as provided in this chapter, shall not be deemed to be a conviction of crime and such person shall suffer no civil disability, right or privilege following his release from such status because of such assignment as a youthful trainee. Unless such person shall be later convicted of the crime alleged to have been committed, referred to in section 1, all proceedings relative to the disposition of the criminal charge and to the assignment as youthful trainee shall be closed to public inspection, but shall be open to the courts of the state, the department of corrections, the department of social services and law enforcement personnel in the performance of their duties and such information may only be used for the performance of such duties.
+“Sec. 15. The provisions of this chapter may also be applied to a youth over the age of 15 years whose jurisdiction has been waived under the provisions of section 27 of chapter 4 of this act.”
+We view the act in context with the following facts:
+October 6, 1969, defendant was arraigned on an information which charged him with robbery armed, MCLA § 750.529 (Stat Ann 1971 Cum Supp § 28-.797), and with robbery unarmed, MCLA § 750.530 (Stat Ann 1954 Rev § 28.798). At the time of the alleged offense, defendant was 19 years of age. Defendant stood mnte to the charge of rohheryarmed and entered a plea of guilty to the charge of robbery unarmed. November 14, 1969, defendant petitioned the trial court to be assigned the status of youthful trainee in accordance with the statute set forth above. The trial judge denied this petition on the grounds that the act had no application after a plea of guilty and on the basis that the act was unconstitutional.
+April 24, 1970, defendant moved to withdraw his guilty plea. June 4, 1970, the trial court granted this motion, and on the same day defendant filed a second petition requesting the court to assign him the status of youthful trainee. June 5, 1970, the trial judge denied this petition on the grounds that the act was unconstitutional because it violated due process of law.
+We also view the act with the following principles of statutory construction in mind:
+1. This is a remedial statute and should be construed liberally for the advancement of the remedy. Shannon v. People (1858), 5 Mich 36, 47.
+2. Constitutionality of an act will be presumed until the contrary is shown, and an entire statute will not be declared unconstitutional because one part of it is void, if the balance of the act will be effective. People v. Victor (1939), 287 Mich 506, 511.
+3. The presumption of constitutionality justifies a construction which is rather against the natural interpretation of the language used, if necessary to sustain the law. Osborn v. Charlevoix Circuit Judge (1897), 114 Mich 655, 660.
+The original denial of defendant’s petition on the basis that the act does not apply after a plea of guilty we affirm. Section 11, supra, is clear that the act applies to an alleged offense. However, after defendant was. permitted to withdraw his plea of guilty, he was a youth “alleged to have committed an offense”, and his petition to be considered as a youthful trainee under the act is surely consent.
+The problems that might arise from consent of the affected youth other than his petition for consideration or consent by his legal guardian or guardian ad litem are not before us. We express no opinion thereon but note the possibility thereof in an effort to avoid their occurrence and to suggest legislative consideration of amending the language of § 11.
+Those holding and contending that the act is unconstitutional do so on the theory that its procedures permit confinement in violation of due process rights, and the attorney general relies on In re Gault (1967), 387 US 1 (87 S Ct 1428, 18 L Ed 2d 527) and In re Winship (1970), 397 US 358 (90 S Ct 1068, 25 L Ed 2d 368). Both cases dealt with convictions and are inapposite to the situation before us, namely: the possible use of rehabilitative procedures prior to conviction on the petition of the affected youth.
+At a time when all of society is crying out for solutions to the crime problem facing this state and nation, we are asked to strike down an innovative and constructive attempt to solve the most aggravated area of crime, youthful offenders, even before we know what the trial judge will do in the case of this affected youth. This we refuse to do.
+We view this act as establishing an administrative procedure within criminal procedure exercisable prior to conviction at the discretion of the trial judge when requested to do so by the affected youth. Up to the point of the order of disposition after assignment to the status of youthful trainee, we perceive no due process rights that are involved. It is conceivable that violation of these rights could arise under unrestricted commitment to the department of corrections, but we decline to presume that the trial judge and the department of corrections will act in a manner that violates the due process rights of the affected youth. If they do, it will be time to act on the basis of that violation.
+In the event that the attempt to rehabilitate the affected youth fails and his status as youthful trainee is revoked, § 12, supra, reinstates the criminal procedure at the point where it was interrupted when proceedings were started under the act. We view § 12 as providing full protection to the affected youth during the period of his status as a youthful trainee.
+Reversed and remanded to the trial court for consideration of defendant’s petition to be assigned to the status of youthful trainee.
+All concurred.
+People v. Wendell Wilson (1968), Circuit Court for the County of Washtenaw, Cft 1674.
