@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "73904"
+decided: "1984-12-04"
+citations: ["139 Mich. App. 412"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Shepherd, P.J., and Mackenzie and P. Nicolich, JJ."]
+parties: ["PEOPLE v LINDSEY"]
+source_url: "https://static.case.law/mich-app/139/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2271280
+cites_cases: ["102 Mich App 731", "12 ALR3d 978", "128 Mich App 380", "134 Mich App 132", "137 Mich App 429", "14 ALR4th 970", "208 NW2d 451", "228 NW2d 210", "245 NW2d 59", "263 NW2d 268", "269 NW2d 192", "302 NW2d 298", "320 NW2d 876", "340 NW2d 95", "351 NW2d 205", "358 NW2d 602", "389 Mich 425", "394 Mich 34", "395 US 711", "403 Mich 389", "404 Mich 805", "413 Mich 487", "414 US 1080", "69 Mich App 389", "79 Mich App 730", "89 ALR2d 540"]
+---
+
+# People v. Lindsey
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant pled no contest to charges of second-degree murder, MCL 750.317; MSA 28.549, assault with intent to murder, MCL 750.83; MSA 28.278, and felony-firearm, MCL 750.227b; MSA 28.424(2). The trial court sentenced him to concurrent prison terms of 30 to 60 years for the murder conviction and 20 to 60 years for the assault conviction, and the mandatory, consecutive two-year term for felony-firearm. Defendant appeals as of right, raising three issues. We affirm.
+This matter is before this Court for the second time. In 1980, defendant pled guilty to second-degree murder and felony-firearm, in exchange for dismissal of charges of first-degree murder and assault with intent to commit murder. The trial court sentenced him to a term of life imprisonment. This Court vacated the conviction in an unpublished per curiam opinion (Docket No. 55388, decided March 25, 1982), because defendant had been led to believe that he would be eligible for parole. On remand, the prosecution reinstituted the original charges.
+Defendant contends that the 30-year minimum sentence imposed following his nolo contendere plea on remand is improper, since it amounts to a punishment for successfully appealing from the original, plea-based conviction. North Carolina v Pearce, 395 US 711; 89 S Ct 2072; 23 L Ed 2d 656 (1969). According to defendant, the 30-year minimum is a greater sentence than the life term first imposed, because the latter sentence left him with a reasonable expectation of eligibility for parole after ten years under the "lifer law”. MCL 791.234(4); MSA 28.2304(4). This argument lacks merit. This Court’s reversal of defendant’s original conviction was based on a conclusion that his expectation of parole had no legal basis, owing to the effect of Proposal B. MCL 791.233; MSA 28.2303, People v Cohens (After Remand), 134 Mich App 132; 351 NW2d 205 (1984); People v Penn, 102 Mich App 731; 302 NW2d 298 (1981); but see People v Waterman, 137 Mich App 429; 358 NW2d 602 (1984). Since this Court vacated defendant’s prior conviction, his erroneous expectation of parole was irrelevant to the proceedings on remand. In fact, the sentence on remand now leaves defendant eligible for parole at some point in the future. MCL 791.234(1); MSA 28.2304(1).
+Moreover, a life term is, by definition, a greater penalty than a minimum term of years. Even if Proposal B did not affect a "lifer’s” chances for parole, Waterman, supra, the mere possibility of parole would not render a life term less serious than a term of years. The decision whether to grant parole to such a prisoner is "discretionary with the parole board”. MCL 791.234(5); MSA 28.2304(5), Shields v Dep’t of Corrections, 128 Mich App 380; 340 NW2d 95 (1983). The sentencing court can prevent the granting of parole by filing written objections thereto. MCL 791.234(4). Thus, a "non-lifer” is more easily made eligible for parole than a "lifer”. MCL 791.234(1). Given this statutory scheme, whether a sentence imposed following a successful appeal is greater for purposes of Pearce, supra, is determined by the sentence itself, not by eligibility for parole.
+Next, defendant argues that the prosecution could not charge him anew with first-degree murder after this Court vacated his guilty plea. People v McMiller, 389 Mich 425, 434; 208 NW2d 451 (1973), cert den 414 US 1080 (1973). We disagree. The rule announced in McMiller applies only where there was a procedural error in the plea-taking process. People v Thornton, 403 Mich 389, 392; 269 NW2d 192 (1978); People v Lippert, 79 Mich App 730, 737; 263 NW2d 268 (1977), lv den 404 Mich 805 (1978); see also GCR 1963, 785. There was no such error in defendant’s guilty plea proceeding. The trial court is not required to advise the accused of the consequences of Proposal B before accepting a guilty plea. People v Johnson, 413 Mich 487; 320 NW2d 876 (1982).
+Defendant’s last claim is that there was an insufficient factual basis for his nolo contendere plea. The trial judge relied on his reading of the preliminary examination transcript. At the examination, the murder victim’s son testified that defendant shot him and his mother at close range with a handgun. Defense counsel stipulated to the sufficiency of the evidence adduced at the preliminary examination as a basis for the nolo contendere plea. There was no error. People v Chilton, 394 Mich 34; 228 NW2d 210 (1975); People v Michelle, 69 Mich App 389, 391; 245 NW2d 59 (1976).
+Affirmed.
+We also note that the McMiller rule is somewhat undercut by a recent amendment to GCR 1963, 785.7(7). See 418 Mich ix-xi. In appeals from guilty plea convictions entered on or after March 1, 1984, a defendant must raise alleged noncompliance with the court rule by moving in the trial court for withdrawal of the plea. If the motion is granted, the case may proceed on the basis of the original charge.
