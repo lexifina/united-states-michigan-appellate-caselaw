@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "63144"
+decided: "1983-01-14"
+citations: ["141 Mich. App. 500"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and R. M. Maher and C. W. Simon, JJ."]
+parties: ["BYRNES v MECOSTA-OSCEOLA INTERMEDIATE SCHOOL DISTRICT"]
+source_url: "https://static.case.law/mich-app/141/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2267981
+cites_cases: ["117 Mich App 240", "223 NW2d 283", "252 NW2d 536", "323 NW2d 308", "393 Mich 116", "419 F2d 771", "457 F2d 904", "635 F2d 1380", "73 Mich App 752", "83 ALR2d 532"]
+---
+
+# Byrnes v. Mecosta-Osceola Intermediate School District
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Mecosta-Osceola Intermediate School District appeals as of right from a decision and order of the Michigan Employment Relations Commission which rejected the decision and recommended order of a hearing referee, found that Linda Lee Byrnes was unlawfully discharged as the result of her union activity, and ordered that plaintiff be reinstated to her former position with back pay. Defendant argues that the commission’s decision was not supported by competent, material, and substantial evidence on the whole record as required by MCL 423.216(e); MSA 17.455(16)(e). Application of that standard requires this Court to conduct a qualitative and quantitative evaluation of all of the evidence and to determine whether it was such as a reasonable mind would accept as adequate to justify the conclusion reached. Em ployment Relations Comm v Detroit Symphony Orchestra, Inc, 393 Mich 116, 122-124; 223 NW2d 283 (1974).
+Plaintiff has the burden of proving that her discharge was motivated at least in part by anti-union bias. Employment Relations Comm v Cafana Cleaners, Inc, 73 Mich App 752, 757; 252 NW2d 536 (1977); Jeanette v Stadium Management Co, 117 Mich App 240, 244; 323 NW2d 308 (1982). It is impossible that a discharge was motivated in part by antiunion bias where the employer had no knowledge of the employee’s union activity. NLRB v Century Broadcasting Corp, 419 F2d 771, 777-778 (CA 8, 1969); Jeanette, supra, p 243.
+The evidence showed that the school district employed only nine full-time bus drivers, including plaintiff, and considerable reliance was placed on this fact by the commission in inferring that defendant knew of plaintiff’s union activities. However, the small size of an employer’s staff does not support an inference that an employer knew of union activities absent supporting evidence indicating that such activities were carried on at such a time or in such a manner that the employer must have noticed them. Amyx Industries, Inc v NLRB, 457 F2d 904, 907 (CA 8, 1972); Alumbaugh Coal Corp v NLRB, 635 F2d 1380, 1384 (CA 8, 1980). Nothing in the record here indicates that plaintiff’s union organizing activities were carried out on defendant’s premises or were otherwise conducted in such a way that defendant must have been aware of her involvement.
+Evidence showed that the bus superintendent was informed of a union organization meeting on the day before the accident which led to plaintiff’s suspension, but was not informed of plaintiff’s participation. Evidence also showed that the bus foreman received a complaint, after plaintiff’s suspension but before her dismissal, from a bus driver who told him that she was being pressured to sign a union card. However, there was no testimony that plaintiffs name was mentioned in this connection or that plaintiff was the only one soliciting signatures. For example, the testimony of bus driver Alice Brockway indicated that she also was involved in union organization. Plaintiff testified that she was questioned about why bus drivers wanted a union by a school board member with whom she had a private discussion, but nothing suggested that the board member knew that plaintiff herself was involved in the union or was an organizer. The commission placed considerable reliance on a supposed friendship between the superintendent’s son and a bus driver, inferring that the bus driver must have told the superintendent’s son that plaintiff was a union organizer and that the son must have, in turn, told his father. However, the superintendent denied that any such friendship existed and the only other testimony suggesting a friendship was that of plaintiff, who said that she supposed that the superintendent’s son and the bus driver were friends because the bus driver had a business next door to the superintendent’s son’s house. This chain of inferences and suppositions is too tenuous to be given any weight. While the evidence shows that defendant knew of the union during the relevant time period, there was no evidence supporting a conclusion that defendant knew of plaintiffs involvement and organizational role in the union.
+Finally, we note that the commission relied upon what it termed the "suspicious coincidence” of the accident which led to plaintiffs suspension and the union organization meeting the previous night. Unless the commission is suggesting that the accident was somehow deliberately caused by defendant, a suggestion for which there is no support in the record, we fail to see how such a coincidence is suspicious or the relevance of such a coincidence to the issues presented.
+On this record, we cannot say that there was competent, material, and substantial evidence to support a conclusion that defendant knew of plaintiffs union activities before dismissing her.
+Reversed.
