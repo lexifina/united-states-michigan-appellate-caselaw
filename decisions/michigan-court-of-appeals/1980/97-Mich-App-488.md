@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 43214, 44032"
+decided: "1980-05-19"
+citations: ["97 Mich. App. 488"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P.J., and Allen and Beasley, JJ.", "Allen, J., concurred."]
+parties: ["PEOPLE v SULLIVAN PEOPLE v DeJARNETTE"]
+source_url: "https://static.case.law/mich-app/97/cases/0488-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2201775
+cites_cases: ["198 NW2d 297", "209 NW2d 193", "237 NW2d 550", "271 NW2d 280", "272 NW2d 605", "276 NW2d 919", "279 NW2d 294", "280 NW2d 793", "285 NW2d 284", "286 NW2d 901", "291 NW2d 125", "355 Mich 182", "387 Mich 551", "389 Mich 682", "406 Mich 374", "407 Mich 354", "407 Mich 882", "429 US 545", "65 Mich App 543", "85 Mich App 473", "85 Mich App 654", "88 Mich App 470", "88 Mich App 737", "93 Mich App 524", "94 NW2d 388", "95 Mich App 570"]
+---
+
+# People v. Sullivan
+
+## Majority (J. H. Gillis, P.J.)
+
+J. H. Gillis, P.J.
+The defendants were tried jointly and convicted of first-degree felony-murder, MCL 750.316; MSA 28.548, and possession of a firearm during the commission of a felony, MCL 750.227b; MSA 28.424(2), by a Detroit Recorder’s Court jury. Each was sentenced to a mandatory two years imprisonment on his felony-firearm conviction and to life imprisonment on his felony-murder conviction. They appeal as of right pursuant to GCR 1963, 806.1.
+Defendant Sullivan first argues that the lower court erred in permitting the testimony of a prosecution witness whose name had not been endorsed on the information filed against him. The argument is without merit. The late endorsement of a witness is within the discretion of the trial court. That discretion should be exercised, with due regard for the defendant’s right to a fair trial. People v Ward, 85 Mich App 473, 479; 271 NW2d 280 (1978). In the present case, the witness’s name was endorsed on the information filed against codefendant DeJarnette and the cases were consolidated for trial. Furthermore, counsel for Sullivan was provided with the witness’s statement prior to trial. Lastly, an examination of the record discloses that the testimony of the witness in question was substantially the same as that of three other witnesses. Under these circumstances we conclude that the trial judge did not abuse his discretion in permitting the witness to testify.
+Sullivan next contends that the lower court erred in admitting a photograph of the decedent. We note that the photograph was taken approximately seven months before the incident in question and depicted the decedent, his wife and a small child.
+Initially, we note that appellate counsel has neither cited authority nor presented policy arguments in support of this contention. It is well settled that a mere statement of position without argument or citation of authority is insufficient to bring the issue before an appellate court. Mitcham v Detroit, 355 Mich 182, 203; 94 NW2d 388 (1959). We shall address the issue nonetheless.
+The admission of photographs of victims of crime is committed to the discretion of the trial court. People v Eddington, 387 Mich 551; 198 NW2d 297 (1972). The issue to be addressed in the admission of photographic evidence is whether the photograph is substantially necessary or instructive to show material facts or conditions or is merely calculated to excite passion and prejudice. People v Falkner, 389 Mich 682, 685; 209 NW2d 193 (1973). H^re, the photograph was substantially necessary to show the identity of the victim. Furthermore, we again emphasize that the photograph depicted the victim’s appearance prior to the crime! It was in no way inflammatory or gruesome. Under such circumstances, it cannot be said that the lower court abused its discretion in admitting the photograph into evidence.
+Defendant Sullivan contends that the trial court erred in denying his motion for a directed verdict of acquittal where the only testimony connecting him with the crime was provided by an accomplice who had been granted immunity. The argument is meritless. The credibility of an accomplice is a jury question. A jury may convict on such testimony alone. People v Ochko, 88 Mich App 737, 741; 279 NW2d 294 (1979). When one views all the evidence presented by the prosecution up to the time the motion was made, in the light most favorable to the prosecution, one finds that sufficient evidence was presented from which a rational trier of fact could find that the essential elements of the crime were proven beyond a reasonable doubt. See People v Hampton, 407 Mich 354; 285 NW2d 284 (1979). The denial of defendant’s motion was without error.
+Both defendants contend that the lower court erred in declaring an endorsed res gestae witness unavailable due to ill health and in excusing her production. A trial judge’s finding of diligent efforts to produce a res gestae witness and the concomitant decision to excuse production will not be reversed absent a clear abuse of discretion. Due diligence means doing everything reasonable, not everything possible. People v Frazier, 95 Mich App 570; 291 NW2d 125 (1980), MCL 767.40; MSA 28.980. No such abuse is here present.
+The charges in this case arose out of an armed robbery committed against an elderly couple. During the course of the robbery, the husband was killed. The witness in question was the decedent’s wife. At the time of trial, the victim, who was 84 years old, was in a nursing home in Tennessee where she had been since the date of the killing. The officer in charge of the case had contacted her physician who stated that the witness was suffering from heart problems, that she was a diabetic and that she required daily private nursing care. The physician opined that if the witness were required to testify, this would have serious adverse consequences to her health. The physician advised against her being brought to Michigan to testify. Under these circumstances, the trial judge’s implicit finding that the prosecution was sufficiently diligent in its efforts to produce the witness was not an abuse of discretion.
+Defendant DeJarnette further contends that the trial court’s decision to permit an investigating officer to testify as to statements which this witness made shortly after the attack constituted error as a violation of his right to confrontation. We disagree.
+The statements in question were a single question as to her husband’s condition and a single declaration that she was not feeling well. These statements though hearsay were admissible as they fall within exceptions to the hearsay rule of exclusion. MRE 803(2) and 803(3) respectively. Nothing in the confrontation clause automatically requires exclusion of all hearsay. Whether a particular hearsay statement may be admitted without infringing on the defendant’s right of confrontation depends on the nature of the declaration and the circumstances of its making. People v Fell, 65 Mich App 543, 549; 237 NW2d 550 (1975). The nature of the declarations in the present case is such that we can perceive no way in which the defendant was prejudiced by their admission into evidence. Accordingly, the right to confrontation was not violated.
+Defendant Sullivan next contends that a conviction under the felony-firearm statute requires personal possession of a firearm. That contention is refuted by People v Tavolacci, 88 Mich App 470; 276 NW2d 919 (1979), lv gtd 407 Mich 882 (1979), People v Atkins, 93 Mich App 524; 286 NW2d 901 (1979).
+An examination of the remaining issues raised by the defendants discloses them to be without merit. Wayne County Prosecutor v Recorder’s Court Judge, 406 Mich 374; 280 NW2d 793 (1979), Weatherford v Bursey, 429 US 545, 561; 97 S Ct 837; 51 L Ed 2d 30 (1977).
+Affirmed.
+Allen, J., concurred.
+
+## Dissent (Beasley, J.)
+
+Beasley, J.
+(dissenting in part). I respectfully dissent from that part of the opinion which holds that the felony-firearm statute does not require personal possession of a firearm. I would hold that one cannot be convicted of violating the felony-firearm statute as an aider and abettor. People v Walter Johnson, 85 Mich App 654; 272 NW2d 605 (1978).
+Otherwise, I concur fully with the majority.
