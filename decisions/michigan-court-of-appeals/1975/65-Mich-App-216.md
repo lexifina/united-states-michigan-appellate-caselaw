@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "19135"
 decided: "1975-10-27"
-citations: ["65 Mich. App. 216", "66 Mich. App. 318"]
+citations: ["65 Mich. App. 216"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v GUNNE"]
 source_url: "https://static.case.law/mich-app/65/cases/0216-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2150801
-cites_cases: ["130 NW 659", "165 Mich 388", "194 NW2d 365", "194 NW2d 709", "2 Mich 415", "210 NW2d 145", "237 NW2d 256", "24 Utah 398", "294 Mich 699", "294 NW 71", "350 Mich 187", "386 Mich 551", "386 Mich 598", "48 Mich App 102", "65 Mich App 216", "86 NW2d 324"]
+cites_cases: ["194 NW2d 365", "194 NW2d 709", "210 NW2d 145", "24 Utah 398", "294 Mich 699", "294 NW 71", "350 Mich 187", "386 Mich 551", "386 Mich 598", "48 Mich App 102", "86 NW2d 324"]
 ---
 
 # People v. Gunne
