@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 75553, 75564"
+decided: "1985-07-16"
+citations: ["144 Mich. App. 341"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P.J., and Allen and T. L. Brown, JJ."]
+parties: ["STATE FARM FIRE AND CASUALTY COMPANY v HUYGHE"]
+source_url: "https://static.case.law/mich-app/144/cases/0341-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2263165
+cites_cases: ["10 Cal 3d 103", "10 Cal 3d 94", "102 Mich App 136", "109 Cal Rptr 811", "109 Cal Rptr 817", "111 Mich App 98", "131 Mich App 139", "139 Cal App 3d 271", "188 Cal Rptr 557", "207 NW2d 316", "301 NW2d 832", "315 NW2d 154", "34 ALR3d 533", "345 NW2d 659", "36 ALR3d 1113", "389 Mich 363", "4 ALR4th 1253", "414 Mich 890", "514 P2d 123", "6 ALR4th 555"]
+---
+
+# State Farm Fire & Casualty Co. v. Huyghe
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff filed this declaratory action seeking a determination that plaintiff was not obligated to defend and pay any judgment against defendants Huyghes in a suit for damages for personal injury brought against the Huyghes by defendants Daubenspeck. Defendants appeal as of right from a grant of summary judgment, GCR 1963, 117.2(3), in plaintiff’s favor.
+Defendant Julia Daubenspeck was physically injured when she was struck in the back of the head by a cleat, which was attached to the Huyghes’ house to secure a clothesline attached between the house and garage. The cleat was pulled free from the house when defendant John Huyghe, Julia’s son-in-law, hit the clothesline while driving his pickup truck under the clothesline.
+In a separate action against the Huyghes, Julia sought damages and medical expenses for her bodily injuries. Her husband, Paul, sought damages for the loss of services and companionship of his wife. The Daubenspecks alleged that the Huyghes had negligently maintained the premises and negligently located and installed the clothesline and cleat because defendant John Huyghe regularly drove his truck under the clothesline between the house and garage.
+The homeowners’ policy issued to the Huyghes by plaintiff provided:
+"If a claim is made or a suit is brought against any insured for damages because of bodily injury or property damage to which this coverage applies, we will:
+“a. pay up to our limit of liability for the damages for which the insured is legally liable; and
+"b. provide a defense at our expense by counsel of our choice. * * *”
+The policy also contained the following exclusion:
+"1. Coverage L — Personal Liability and Coverage M— Medical Payments to Others do not apply to:
+"e. bodily injury or property damage arising out of the ownership, maintenance, use, loading or unloading of:
+"(2) a motor vehicle owned or operated by, or rented or loaned to any insured * *
+The duty of an insurance company to provide a defense to a lawsuit brought against its insured is separate and severable from its duty to indemnify the insured for liability imposed after trial. Reurink Brothers Star Silo, Inc v Maryland Casualty Co, 131 Mich App 139, 142; 345 NW2d 659 (1983). In Detroit Edison Co v Michigan Mutual Ins Co, 102 Mich App 136, 141-142; 301 NW2d 832 (1980), this Court summarized the insurer’s duty to defend:
+"The duty of the insurer to defend the insured depends upon the allegations in the complaint of the third party in his or her action against the insured. This duty is not limited to meritorious suits and may even extend to actions which are groundless, false, or fraudulent, so long as the allegations against the insured even arguably come within the policy coverage. An insurer has a duty to defend, despite theories of liability asserted against any insured which are not covered under the policy, if there are any theories of recovery that fall within the policy. * * * The duty to defend cannot be limited by the precise language of the pleadings. The insurer has the duty to look behind the third party’s allegations to analyze whether coverage is possible. * * * In a case of doubt as to whether or not the complaint against the insured alleges a liability of the insurer under the policy, the doubt must be resolved in the insured’s favor.” (Citations omitted.)
+The homeowners’ policy provision in question excludes personal liability coverage for bodily injury or property damage arising out of the ownership, maintenance, use, or loading or unloading of a motor vehicle. It is plaintiffs position that because the present action arose out of the use of a motor vehicle, there is no coverage and no duty to defend. Defendants argue that this provision should be construed to exclude coverage only where the injury arose solely from the use of a motor vehicle and if an injury has a non-auto-related cause the exclusion should not apply.
+If the terms of an insurance policy are plain and unambiguous, the plain meaning should be given effect. However, when a policy contains an ambiguity, it is construed in favor of the insured. Michigan Mutual Ins Co v Sunstrum, 111 Mich App 98, 102; 315 NW2d 154 (1981), lv den 414 Mich 890 (1982).
+In Sunstrum, this Court held that there was no coverage for negligent entrustment of a motor vehicle under a homeowners’ policy. The Court reasoned that, although recovery under a claim of negligent entrustment requires a concurrence of the two elements of negligent entrustment and negligent use, liability is not triggered until the motor vehicle is used in a negligent manner resulting in injury. Therefore, to allow coverage would contradict the clear language of the exclusionary clause prohibiting coverage for liability arising from the use of a motor vehicle. Sunstrum, pp 103-104.
+Some jurisdictions have found coverage exists under a homeowners’ policy containing an exclusion for injuries arising out of the use of an automobile if there is a npn-auto-related cause for the injury. See generally, 7 Appleman’s Insurance Law and Practice, § 4500, pp 179-180; Anno: Construction and Effect of Provision Excluding Liability for Auto-related Injuries or Damage from Coverage of Homeowner’s or Personal Liability Policy, 6 ALR4th 555. For example, in State Farm Mutual Auto Ins Co v Partridge, 10 Cal 3d 94; 514 P2d 123; 109 Cal Rptr 811 (1973), the court extended coverage under a homeowners’ policy where the accident resulted from an auto-related cause, negligent operation of a vehicle while holding a pistol, and a non-auto-related cause, negligent modification of a trigger mechanism of a gun. However, coverage is afforded only if the non-auto-related negligence is not connected to the use of a motor vehicle. Partridge, supra, 10 Cal 3d 103; 109 Cal Rptr 817; Allstate Ins Co v Jones, 139 Cal App 3d 271, 277-278; 188 Cal Rptr 557, 561-562 (1983).
+Here, defendants Daubenspeck have alleged that defendants Huyghe negligently located and installed the cleat and clothesline. Any risk created by the location or the installation of the clothesline and cleat was the result of the truck’s being driven in that area. Thus, the motor vehicle exclusion precludes coverage under the reasoning of Sunstrum, supra. Even if we were to adopt the approach followed in California, we would find no coverage in the present case because the non-auto-related negligence is connected to the use of a motor vehicle. Since the allegations made against the insured do not arguably come within the policy coverage, there is no duty to defend.
+Defendants argue, however, that the cause of Julia Daubenspeck’s injuries is an issue of fact which precludes summary judgment. Summary judgment pursuant to GCR 1963, 117.2(3) is appropriate where the court is satisfied that it is impossible for the claim or defense asserted to be supported at trial because of some deficiency which cannot be overcome. Rizzo v Kretschmer, 389 Mich 363; 207 NW2d 316 (1973). Even if the cause of Julia’s injuries was found to be the location and installation of the cleat and clothesline, the negligence could not arise without a motor vehicle. Consequently, we conclude that the trial court properly granted summary judgment in favor of plaintiff.
+Affirmed.
