@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "83050"
+decided: "1986-07-07"
+citations: ["152 Mich. App. 780"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: M. J. Kelly, P.J., and Shepherd and C. W. Simon, JJ."]
+parties: ["LIBERTY v MICHIGAN BELL TELEPHONE COMPANY"]
+source_url: "https://static.case.law/mich-app/152/cases/0780-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2284303
+cites_cases: ["101 Mich App 216", "140 Mich App 374", "143 Mich App 500", "151 Mich App 496", "300 NW2d 519", "364 NW2d 705", "372 NW2d 348", "390 NW2d 735"]
+---
+
+# Liberty v. Michigan Bell Telephone Co.
+
+## Majority (M. J. Kelly, P.J.,)
+
+M. J. Kelly, P.J.,
+Plaintiff appeals as of right from an order denying her motion to set aside a mediation judgment pursuant to GCR 1963, 528.3. We reverse and remand to the assigned pretrial judge for reconsideration of plaintiffs motion.
+Plaintiff in this case neglected timely to file a rejection of the $5,000 mediation award entered under the local mediation court rule, WCCR 403. At the time, failure to reject a mediation evaluation constituted an acceptance thereof in Wayne County only. WCCR 403.15(a). As authorized by the local court rule, the Chief Judge of the Wayne Circuit Court properly notified the parties that a judgment consistent with the mediation award would be entered on December 7, 1984. WCCR 403.15(a). On that day, plaintiff’s attorney appeared before the Chief Judge contesting the judgment but we do not know what occurred since there is no transcription of that proceeding. On January 14, 1985, however, plaintiff filed with the Chief Judge a motion to set aside the judgment under GCR 1963, 528.3. Plaintiff’s motion was denied on the ground that the mediation judgment was final.
+In Muntean v Detroit, 143 Mich App 500; 372 NW2d 348 (1985), we disapproved of the practice of the Chief Judge of the Wayne Circuit Court’s deciding motions to set aside judgments ministerially entered under the local mediation court rule. We reasoned that motions to set aside a mediation judgment required the exercise of judicial discretion, unlike entry of the judgment which occurred automatically under the court rule, and concluded that there were no statutes or rules authorizing the Chief Judge to take over such contested pretrial motions. To the contrary, the court rules in effect at that time provided that the assigned judge was to hear "all preliminary matters until trial of the case begins.” WCCR 6.1(b).
+More recently, in Williams v Kamin, 151 Mich App 496; 390 NW2d 735 (1986), another panel of this Court side-stepped the decision in Muntean and instead deferred to the general rule requiring that a motion to set aside a judgment go before the same judge who entered the judgment. Although we think that the decisions of Muntean and Williams are in direct conflict, the panel in Williams attempted to distinguish Muntean on the theory that the plaintiff in Muntean had preserved the issue for appellate review. Even assuming, however, that Williams and Muntean may be distinguished on this basis, it is clear that the panels reached opposite conclusions on the substantive issue of the Chief Judge’s authority in these matters.
+We agree with Muntean and conclude that the Chief Judge of the Wayne Circuit Court is without authority to rule on a motion to set aside a ministerially entered mediation judgment. While we recognize the general rule favoring submission of motions for relief from judgment to the same judge who entered the order or judgment, see GCR 1963, 529.2 and WCCR 119.8(a), we do not think the principle applies in the context presented here, in Muntean or in Williams.
+The underlying policies of GCR 1963, 529.2 are to refer a motion to the judge most qualified to decide the motion and to prevent forum shopping. 3 Honigman & Hawkins, Michigan Court Rules Annotated (2d ed), p 230; Totzkay v DuBois (After Remand), 140 Mich App 374, 379-381; 364 NW2d 705 (1985), and Berar Enterprises, Inc v Harmon, 101 Mich App 216, 228-229; 300 NW2d 519 (1980). In Wayne Circuit Court, it is the assigned judge who should be familiar with the parties and issues and who is best able to make a reasoned decision on a motion to set aside a mediation judgment. For reasons of judicial administration and economy, the Chief Judge of the Wayne Circuit Court has taken over the ministerial task of entering judgments on mediation awards where both parties have accepted the evaluation. There is no exercise of discretion on the part of the Chief Judge in entering these judgments and there is no reason to assume that the Chief Judge, rather than the assigned judge who has heard all other pretrial motions in the case, is the one best suited to determine whether relief from a mediation judgment should be granted.
+We do not share the concern expressed in Williams regarding the dangers of forum shopping. A party seeking to set aside a mediation judgment entered by the Chief Judge in Wayne Circuit Court must submit the appropriate motion to the assigned judge. There is no choice as to which judge to select, no forum in which to shop.
+As in Williams, the plaintiff in this case did not first present her motion to set aside the mediation judgment to the assigned judge. However, we are not persuaded that plaintiff has waived the issue for appellate purposes. The Chief Judge acted without authority in deciding plaintiff’s motion and we are not generally inclined to find jurisdictional issues waived. In addition, manifest injustice will result absent our appellate review since we are convinced that the Chief Judge failed to exercise any discretion in deciding plaintiff’s motion. Essentially, the court determined that plaintiff had in fact failed to timely reject the mediation evaluation. Once the court established that fact, the court stated simply: "I’m not going to set it aside. As far as I’m concerned, it is final. The motion is denied.”
+On remand, the assigned judge shall consider plaintiff’s motion and exercise his discretion under the standards set forth in Muntean, supra, pp 507-511. We do not retain jurisdiction.
+Reversed and remanded.
+We note that under the new Michigan Court Rules, effective March 1, 1985, failure to file a rejection of a mediation award now constitutes acceptance in all district and circuit courts of this state. MCR 2.403(L)(1).
