@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "4,446"
 decided: "1969-05-27"
-citations: ["20 Mich. App. 250", "17 Mich. App. 386"]
+citations: ["20 Mich. App. 250"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["LOPETRONE v. ROMA CATERING COMPANY, INC."]
 source_url: "https://static.case.law/mich-app/20/cases/0250-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2077541
-cites_cases: ["17 Mich App 386", "20 Mich App 250"]
+cites_cases: ["17 Mich App 386"]
 ---
 
 # Lopetrone v. Roma Catering Co.
