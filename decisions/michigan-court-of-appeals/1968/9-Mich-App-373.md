@@ -1,0 +1,53 @@
+---
+court: "Michigan Court of Appeals"
+docket: "2,544"
+decided: "1968-03-18"
+citations: ["9 Mich. App. 373"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Levin, J., concurred with Lesinski, C. J."]
+parties: ["NICPON v. NICPON."]
+source_url: "https://static.case.law/mich-app/9/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2060969
+cites_cases: ["294 US 499", "343 Mich 458", "351 Mich 398", "370 Mich 488", "375 Mich 605", "99 ALR2d 954"]
+---
+
+# Nicpon v. Nicpon
+
+## Majority (Lesinski, C. J.)
+
+Lesinski, C. J.
+Plaintiff wife appeals the granting of a judgment of divorce to defendant husband and the award of custody of their minor children to defendant, as well as the property award incorporated in the judgment.
+On April 28, 1964, plaintiff filed her complaint for absolute divorce which charged extreme and repeated cruelty and sought custody and support of their minor children, and an equitable division of property. Defendant answered. The matter was referred to the friend of the court whose report was filed on October 21,1965. On December 3,1965, defendant filed his counterclaim which plaintiff answered on January 28, 1966. The final report of the friend of the court was filed on December 17, 1965. Trial of the cause took place on May 26,1966. The formal judgment of divorce appealed from here was entered on June 17, 1966.
+A review of the record on appeal reveals that the trial court did not make any special findings of fact; it did not separately" state its conclusions of law thereon; nor did it direct the entry of the appropriate judgment. Further, we find no opinion or memorandum decision in this cause.
+The transcript reveals that after the parties had presented their cases, the court made the following remark just prior to adjournment: “Let’s adjourn this case until 2 o’clock this afternoon, at which time I will see the children.”
+The judgment of divorce entered on June 17,1966, indicates that the trial court at some point spoke personally to the minor children of the parties in chambers.
+A motion for new trial or to alter or annul the judgment was filed and subsequently denied. This motion did not raise the issue of the trial court’s failure to provide the matter indicated above as missing.
+The plaintiff raises four issues on appeal which allege that the court erred in granting a judgment of divorce to the defendant; that it erred in its custody award; that it erred in speaking to the minor children in chambers without making a record and without offering plaintiff or her counsel an opportunity to be present; and that the property award was unjust, inequitable and unsupported by the evidence. In view of our conclusions, it is not necessary for us to treat the issues raised.
+While this Court ordinarily will not review issues neither raised nor briefed by the parties, it is not obliged to ignore fundamental matters, such as those related to its jurisdiction and reviewing function. To ignore noncompliance with a mandatory court rule directly affecting our reviewing function, simply because the parties do not alert us to such noncompliance, would be to disregard a fundamental matter.
+The requirements of GCE* 1963, 517.1 substantially affect the process of review. In all actions tried either without a jury or with an advisory jury, including an action for divorce, the rulé requires the trial judge to make special findings of fact and to state separately his conclusions of law thereon. The same rule requires the reviewing court to accept the trial court’s findings of fact, unless it holds them clearly erroneous. This places a limitation upon the reviewing power of appellate courts.
+In this case we do not have even minimum compliance with the rule. Noncompliance is, perhaps, understandable, for it was not the practice before GrCR 1963, 517.1 to make such findings in divorce actions. Theretofore, in actions of an equitable nature, the Supreme Court searched the record of the trial court proceedings and reached its own “independent conclusions.” See Jaikins v. Jaikins (1963), 370 Mich 488.
+Compliance with the new rule concerning findings of fact will both expedite the appellate process and make unnecessary our attempt to • pass upon credibility and find facts from lifeless printed words. In the search for truth, the cold record is an inadequate substitute for the opportunity to hear a witness and observe his demeanor.
+An appellate court’s primary function in regard to fact finding is review of the trial court’s record and determination whether that record supports the trial court’s findings. It is not the function of an appellate court to decide disputed questions of fact in the first instance and then choose between affirmance or reversal by testing its factual conclusion against that which the trial court might have or, if the trial judge’s reasoning at the time of judgment were identical with that of the appellate court at the time of review, must have reached for it to issue the judgment it did.
+Clear and complete findings by the trial judge are essential to enable us properly to exercise and not exceed our powers of review.
+“We must know what a decision means before the duty becomes ours to say whether it is right or wrong.” Mr. Justice Cardozo, for the Court, in United States v. Chicago, M. St. P. & P. R. Co. (1935), 294 US 499, 511 (55 S Ct 462, 467, 79 L ed 1023, 1032).
+The parties in the trial court did not request the trial judge to make findings of fact under the rule. However, the duty to make such findings of fact is not dependent upon a request, but is mandatory upon the trial judge.
+The failure of the trial court to comply with the mandates of CCR 1963, 517.1, requires us to set aside the judgment of divorce and remand the cause to the trial court for further proceedings and compliance with the rule.
+Reversed and remanded. No costs are awarded as neither party fully prevailed.
+Levin, J., concurred with Lesinski, C. J.
+At the time of the trial, the children’s ages were: 17 years, 13 years, and 11 years. At the time of oral argument before this Court, the eldest child had reached 18 years and the youngest 12 years.
+“In all actions tried upon the facts without a jury or with an advisory jury, the court shall find the facts specially and state separately its conclusions of law thereon and direct the entry of the appropriate judgment. It will be sufficient if the eourt makes brief, definite, and pertinent findings and conclusions upon the contested matters 'without over elaboration of detail or particularization of facts. If an opinion or memorandum decision is filed, it will be sufficient if the findings and conclusions appear therein. The clerk shall notify the attorneys for both parties of the findings of the court. Findings of fact and conclusions of law are unnecessary on decisions of motions except as provided in subrule 504.2. The findings of a circuit eourt commissioner, to the extent that the eourt adopts them, shall be considered as findings of the eourt. Bequests for findings are not neeessary for purposes of review. No exception need be taken to any finding or decision. Findings of faet shall not be set aside unless clearly erroneous. In the application of this principle regard shaU be given to the special opportunity of the trial court to judge the credibility of those witnesses who appeared before it.”
+GOB 1963, 11,1,
+
+## Dissent (J. H. Gtillis, J.)
+
+J. H. Gtillis, J.
+(dissenting). The majority opinion bases its reversal on the failure of the trial coprt to comply with GrCR 1963, 517.1, an issue not raised on appeal and consequently not briefed by the parties.
+Because equity cases are still reviewed de novo, Osius v. Dingell (1965), 375 Mich 605, 610, this Court is not powerless to render decision because of the trial court’s failure to comply with GCR 1963, 517.1. This is not a case with involved questions of law and fact which might make special findings of fact and conclusions of law absolutely necessary to appellate review. To the extent plaintiff felt prejudiced by the absence of special findings, she could have made a point of it in the trial court and here. To send this case back to the trial court for further proceedings and a probable second appeal to this Court, with the attendant legal expenses, on a point not suggested by the plaintiff unduly penalizes both parties. "While compliance with GCR 1963, 517.1, would have made our de novo review of this record easier, noncompliance with the rule should not justify our refusal to decide the issues squarely presented by this record and the rulings of the trial judge.
+A recounting of the events which precipitated the dissolution of this 20-year marriage would add nothing to the jurisprudence of this State. It is sufficient to say that the testimony showed ample grounds for granting defendant a divorce on the grounds of extreme cruelty as set forth in his counterclaim. Based on my examination of the record in this case and making a de novo review of the facts, I would conclude that the trial court properly granted a judgment of divorce to the defendant on his counterclaim. The division of the property is just and equitable considering the fact that the burden of raising the minor children of the parties rested on the defendant.
+• I feel constrained to comment on appellant’s-allegation that the trial court erred in speaking personally to the minor children of the parties in chambers without making a record of same and without offering plaintiff or her attorney the opportunity to be present. Both the plaintiff and the defendant were represented by able counsel vigorously attempting to protect the interests of their clients. No attorney was present to represent specifically the interest of the minor children. The court quite properly conducted a private informal interview with the children in an atmosphere calculated to embarrass them least and to remove them from the arena where they might be influenced by the presence of one or both of their parents or a parent’s advocate.; As stated in Bowler v. Bowler (1958), 351 Mich 398, at p 406:
+“In disputed custody cases, we believe that sound practice dictates that the judge charged with decision see and talk informally with the child, preferably in chambers, when it is of discretionary age.”
+Summarizing my de novo review of the record in this case, I would answer in the negative each of the four issues presented by appellant for our determination and affirm the judgment of the trial court.
+Cf. Dean v. Dean (1955), 343 Mich 458.
