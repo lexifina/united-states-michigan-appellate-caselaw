@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9071"
+decided: "1971-09-27"
+citations: ["36 Mich. App. 39"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, P. J., and Fitzgerald and Quinn, JJ.", "All concurred."]
+parties: ["FULCO, INC., v. MARTIN TROPF & SONS, INC."]
+source_url: "https://static.case.law/mich-app/36/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2090883
+cites_cases: ["17 Mich App 592", "17 Mich App 92", "239 Mich 656", "273 Mich 20", "306 Mich 300", "342 Mich 537", "358 Mich 114", "38 Mich 358"]
+---
+
+# Fulco, Inc. v. Martin Tropf & Sons, Inc.
+
+## Majority (Fitzgerald, J.)
+
+Fitzgerald, J.
+Third-party defendant City of Detroit appeals as of right from a judgment rendered against it in a contract action for the amount of $37,497. Said judgment was in favor of defendant Martin Tropf & Sons, Inc.
+Plaintiff Fulco, Inc., a subcontractor, sued defendant Tropf for moneys due it on a contract for work, labor, materials, and design. Third-party defendant Detroit was brought in on a motion by defendant Tropf.
+Pertinent facts are the following: On November 7, 1964, the City of Detroit received goods for the construction of hangars at its municipal airport. Defendant Tropf was the lowest bidder and thus received the contract. Plaintiff Fulco, Inc., designed and manufactured the hangars under a subcontract with defendant Tropf.
+During construction, considerable trouble developed from frost raising the floor of the hangars and thereby causing severe distortion of the structures. A dispute developed between defendant Tropf and third-party defendant Detroit as to responsibility for the resultant damages and defendant Tropf did no further work on the structure. Third-party defendant Detroit declared defendant Tropf in default of the contract and took steps to have the work completed by another contractor. Plaintiff Fulco filed an action against defendant Tropf for the unpaid balance on the hangars supplied by plaintiff Fulco to defendant Tropf. Defendant Tropf added third-party defendant Detroit, claiming that third-party defendant Detroit had wrongfully terminated the contract and thus caused defendant Tropf damages and was liable to defendant Tropf therefor. Third-party defendant Detroit moved for a directed verdict after defendant Tropf’s opening statement on the grounds that defendant Tropf’s claim was barred because it did not first present the claim to the Common Council of the City of Detroit for audit and allowance as provided by Title VI, Chapter 7, § 11, of the Charter of the City of Detroit. This motion was denied and defendant recovered a verdict of $37,497 from third-party defendant Detroit. (Plaintiff Fulco recovered $20,700 from defendant Tropf.) Only defendant Tropf and third-party defendant Detroit participate in this appeal.
+The sole question presented on appeal is whether or not defendant Tropf’s claim for damages is barred because it did not submit the claim to the Common Council of Detroit for audit and allowance before filing suit.
+The Charter of the City of Detroit, Title VI, Chapter 7, § 11, reads, in pertinent part, as follows:
+“It shall be a sufficient bar and answer to any action or proceeding in any court for the collection of any demand or claim against said city that it has never been presented to the common council for audit or allowance or if on contract that it was presented without said affidavit and rejected for that reason or that the action or proceeding was brought before the common council had a reasonable time to investigate and pass upon it.” (Emphasis supplied.)
+Defendant Tropf admitted that no attempt was made to comply with the terms of the charter provision, although there was correspondence with third-party defendant City of Detroit relevant to claims by defendant Tropf against third-party defendant City of Detroit, and it was the city which declared the defendant in default on the contract.
+Charter requirements such as the one in issue here have been the subject of considerable litigation in Michigan, although the large percentage of it involves tort claims and not contract actions. It should be noted that there are two distinct types of provisions. One type is merely a notice provision, requiring that the city be notified of claims against it in order to give the city ample time to investigate the facts of the claim. The second type, like the provision in issue here, provides that the claim against the city should be brought before the governing body of the city so that settlement may be reached, if possible, before litigation is commenced.
+Notice provisions often provide that unless the city has notice of a claim within a specific period (usually 60 or 90 days) the claim against the city is barred. In general, the notice requirements have been upheld by the court except to the extent that they contain a period of limitations which has the effect of shortening the statutory period of limitations. Marks v. City of Battle Creek (1959), 358 Mich 114; Republic Franklin Insurance Company v. City of Walker (1969), 17 Mich App 92; Lenneman v. City of Lansing (1969), 17 Mich App 592.
+Presentment-of-claims provisions require that claims against the city be presented to the governing body as a condition precedent to an action in tort or contract. This notice is required to give the body an opportunity to investigate the claim and determine whether to allow it, settle it, or prepare a defense to the claim. In general, these provisions have been upheld by the courts. Northrup v. City of Jackson (1935), 273 Mich 20; City of Detroit v. Michigan Paving Company (1878), 38 Mich 358; Grand T.W.R. Co. v. City of Detroit (1955), 342 Mich 537. However, it has been held that where the claim against the city involves a proprietary function of the city, as opposed to a governmental or municipal function, then notice and presentment-of-claims provisions do not apply and suit may be instituted as against any private party. Northrup, supra; Marks, supra; Borski v. City of Wakefield (1927), 239 Mich 656.
+The Michigan Supreme Court, although not finally deciding the question, said that in owning and operating an airport, the City of Battle Creek was “apparently” engaged in a proprietary function. Marks, supra.
+However, there is a statute, which was not mentioned in Marks, supra, that belies the Marks’ interpretation :
+“[T]he acquisition, establishment, construction, enlargement, improvement, maintenance, equipment and operation of airports * * * , are hereby declared to be public, governmental and municipal functions, exercised for a public purpose, and matters of public necessity.” MCLA § 259.132 (Stat Ann 1968 Rev § 10.232) (Emphasis supplied.)
+In light of the above statute, we hold that the operation of the airport in the instant case is a governmental and municipal function. Therefore, the presentment-of-claims provisions of the city charter is applicable. Marks, supra; Borski, supra.
+However, there are certain circumstances that will excuse a party from'.the presentment of claims requirement. In Ely v. City of Detroit (1943), 306 Mich 300, 307, the Supreme Court held that presentment of claims is not required if “it would have been a useless gesture”.
+It is difficult to imagine a situation in which a presentment of a claim would be a more “useless gesture” than in the instant case. Here, third-party defendant Detroit by resolution declared defendant Tropf to be in default of the contract and terminated its right to proceed. That action was taken well before this action was commenced. Thus, this is not a case where the Detroit Common Council (third-party defendant) was not aware of the contract upon which this suit is based. Third-party defendant Detroit had, by its own affirmative action, declared defendant Tropf to be in default, and to say now that defendant Tropf should have presented the claim to the very body which had previously declared him in default is unreasonable and, in the words of Ely, “a useless gesture”.
+Defendant Tropf is thus excused from the presentment-of-claims provision and the trial court is affirmed.
+Costs to appellee.
+All concurred.
