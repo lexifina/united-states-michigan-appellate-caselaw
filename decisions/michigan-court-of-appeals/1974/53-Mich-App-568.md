@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "17300"
 decided: "1974-05-30"
-citations: ["53 Mich. App. 568", "56 Mich. App. 7"]
+citations: ["53 Mich. App. 568"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["MAYNARD v DORNER"]
 source_url: "https://static.case.law/mich-app/53/cases/0568-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2135686
-cites_cases: ["111 ALR 742", "164 NW2d 1", "180 NW 395", "194 NW2d 554", "197 NW2d 866", "198 NW 345", "20 NW2d 94", "210 NW2d 257", "212 Mich 516", "220 NW2d 161", "226 Mich 505", "242 NW 802", "258 Mich 662", "29 NW2d 94", "304 Mich 668", "318 Mich 578", "32 L Ed 2d 806", "37 Mich App 205", "381 Mich 555", "39 Mich App 497", "407 US 921", "48 Mich App 248", "53 Mich App 568", "8 NW2d 873", "92 S Ct 2462"]
+cites_cases: ["111 ALR 742", "164 NW2d 1", "210 NW2d 257", "381 Mich 555", "48 Mich App 248"]
 ---
 
 # Maynard v. Dorner
