@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "84953"
+decided: "1986-07-07"
+citations: ["152 Mich. App. 811"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Beasley, P.J., and D. F. Walsh and Hood, JJ."]
+parties: ["PEOPLE v HURSE"]
+source_url: "https://static.case.law/mich-app/152/cases/0811-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2284271
+cites_cases: ["145 Mich App 526", "378 NW2d 535"]
+---
+
+# People v. Hurse
+
+## Majority (Beasley, J.)
+
+Beasley, J.
+After a bench trial, defendant, Jimmie Lee Hurse, was convicted of assaulting a prison employee while lawfully imprisoned in a state prison, in violation of MCL 750.197c; MSA 28.394(3). Defendant subsequently pled guilty to a supplemental information charging him as an habitual offender, second offense, in violation of MCL 769.10; MSA 28.1082. Pursuant to a plea agreement, the prosecutor agreed to dismiss a supplemental information charging defendant as an habitual offender, third offense. Defendant was sentenced to serve not less than 1½ years nor more than four years in prison. The trial judge ordered that defendant’s sentence run consecutively to any sentence defendant was currently serving. Defendant appeals as of right.
+The charge against defendant of assaulting a prison employee arose out of a fighting incident involving defendant and a fellow prison inmate. Two prison guards eventually broke up the fight between the inmates. However, while the prison guards were attempting to break up the fight, one of the uniformed guards was kicked by defendant.
+After hearing extensive testimony and viewing a videotape recording of the fight, the trial judge expressly found that defendant had kicked the prison guard. However, the trial judge went on to find that defendant had not intended to kick the prison guard, but had intended only to kick his fellow inmate. Despite defendant’s lack of actual intent to kick the prison guard, the trial judge applied the doctrine of transferred intent in order to find that defendant had the specific intent to assault the prison employee required for a conviction under MCL 750.197c; MSA 28.394(3).
+The trial judge expressly adopted the language of Criminal Jury Instruction 17:1:05 in applying the doctrine of transferred intent, which provides:
+Where one intends to assault a certain person, but by mistake or accident assaults a different person, the crime so committed, if any, is the same as though the person originally intended to be assaulted had been assaulted.
+The trial judge concluded that defendant’s actual specific intent to assault his fellow inmate transferred to his accidental kicking of the prison employee and provided the specific intent necessary to find defendant guilty of the felony offense of assaulting a prison employee.
+On appeal, defendant raises two arguments asserting that his conviction for assaulting a prison employee, even when the trial judge’s findings of fact are accepted, is improper as a matter of law. Due to our resolution of defendant’s first argument, we find it unnecessary to address his second argument.
+In his first argument, defendant asserts that the trial judge’s findings of fact on the record in this case cannot, as a matter of law, support his felony conviction under MCL 750.197c; MSA 28.394(3). Defendant alleges that, at most, the trial judge’s findings establish only the elements required for a misdemeanor conviction for assault and battery under MCL 750.81; MSA 28.276. We agree.
+MCL 750.197c; MSA 28.394(3) provides:
+A person lawfully imprisoned in a jail, other place of confinement established by law for any term, or lawfully imprisoned for any purpose at any other place, including but not limited to hospitals and other health care facilities or awaiting examination, trial, arraignment, sentence, or after sentence awaiting or during transfer to or from a prison, for a crime or offense, or charged with a crime or offense who, without being discharged from the place of confinement, or other lawful imprisonment by due process of law, through the use of violence, threats of violence or dangerous weapons, assaults an employee of the place of confinement or other custodian knowing the person to be an employee or custodian or breaks the place of confinement and escapes, or breaks the place of confinement although an escape is not actually made, is guilty of a felony. [Emphasis added.]
+In the within case, the trial judge expressly found that defendant had not actually intended to assault the prison employee, but had only intended to assault his fellow inmate. The doctrine of transferred intent, by its own terms, does not apply in this situation in order to allow defendant to be convicted of a felony where his actual intent would only support a misdemeanor conviction. As CJI 17:1:05 states, the crime which results from application of the transferred intent doctrine is the same as though the person originally, or actually, intended to be assaulted had been assaulted.
+Applying this doctrine of transferred intent to the trial judge’s findings of fact in this case, we conclude that defendant could only be convicted of the crime he could have been convicted of if he had actually assaulted his fellow inmate. If defendant had actually assaulted his fellow inmate, without accidentally touching the prison employee, he could not have been convicted of assaulting a prison employee. In such a situation, defendant could only be convicted of the misdemeanor offense of assault and battery. Therefore, we conclude that the trial judge erred in applying the doctrine of transferred intent to find defendant guilty of assaulting a prison employee.
+In addition, our conclusion on this issue is strongly supported by the language of MCL 750.197c; MSA 28.394(3) itself. The statute specifically requires that the defendant assault the prison employee knowing the victim to be a prison employee. See People v Baskin, 145 Mich App 526, 543-544; 378 NW2d 535 (1985). We believe this statutory requirement indicates that the defendant must actually intend to assault a prison employee and precludes the application of the transferred intent doctrine to convert a misdemeanor assault offense into the felony offense of assaulting a prison employee.
+We do not believe that the Legislature intended this statutory language to be interpreted to allow a prisoner who only actually intends to assault a fellow inmate, and who accidentally makes contact with a person he knows is a prison employee, to be convicted of a felony under the statute. In light of our interpretation of the statute, we conclude that the trial judge’s findings of fact in this matter would only support a misdemeanor conviction for assault and battery under MCL 750.81; MSA 28.276.
+In summary, we conclude that the trial judge’s findings of fact in this case do not support defendant’s felony conviction for assault of a prison employee and defendant’s subsequent habitual offender conviction. The trial judge’s findings of fact could, at most, only support a misdemeanor conviction for assault and battery. But, since defendant was not charged with assault and battery nor found guilty by the trial judge of assault and battery, we do not believe it appropriate on appeal to find defendant guilty of assault and battery. Therefore, we reverse defendant’s felony convictions in this matter.
+Reversed.
