@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "14984"
+decided: "1973-11-01"
+citations: ["50 Mich. App. 408"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: McGregor, P. J., and Bronson and Car-land, JJ.", "All concurred."]
+parties: ["SUROWITZ v TOWNSHIP OF WHITE LAKE"]
+source_url: "https://static.case.law/mich-app/50/cases/0408-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2102847
+cites_cases: ["192 NW2d 322", "209 NW2d 803", "209 NW2d 806", "346 Mich 57", "35 Mich App 205", "47 Mich App 684", "77 NW2d 332"]
+---
+
+# Surowitz v. Township of White Lake
+
+## Majority (Bronson, J.)
+
+Bronson, J.
+Plaintiffs, George Surowitz and Sylvia Surowitz, brought this action challenging the validity of defendant’s zoning ordinance which restricted plaintiffs’ land to AG (agricultural use). The trial judge, sitting as trier of fact, held the ordinance unconstitutional and permanently restrained the defendant from enforcing the zoning ordinance to exclude the development of a trailer park on plaintiffs’ property. Defendant appeals of right.
+In his opinion, the now retired Judge Clark Adams clearly described the factual setting. We have adopted a portion of Judge Adams’ opinion, as follows:
+"The plaintiffs Surowitz are the owners of one hundred thirteen (113) acres of land in Section 6, White Lake Township, Oakland County. The land is unimproved and practically unused although some hay was cut from the southerly part of the property within the last two years. By township ordinance adopted in 1955 and amended in 1967 the plaintiffs’ land was and is zoned AG (Agricultural Use). The property is rolling, wooded in part and includes one small lake. Previous owners of the cleared area found it could not be profitably farmed and there has been no genuine farming activity on the land in the last ten years.
+"In December 1969, after a study of possible uses of the property, plaintiffs applied to the township board for a re-zoning of their land from AG to R-3 (Mobile Home Park District) in order that they might develop the property as a mobile home park. Their request was denied by the board and this litigation followed, the plaintiffs claiming that the present zoning has no reasonable relationship to the public health, morals, welfare or safety of the community and yet denies to them the highest and best use of their land.
+"White Lake Township is typical of the rural areas at the fringe of the metropolitan area of Detroit. In the last quarter century it has felt the impact of an expanding community. Once almost exclusively farmland, today one has to search for those who produce a living on the soil. Factory workers and office workers no longer want to live in the community where they work. As a consequence the land around the plaintiffs’ property, and for that matter a great park of Oakland County, has now been divided up into relatively small home-sites, most of them ranging from ten acres down to subdivision lots.
+"As an inevitable result of this change in land use the population of the defendant township has increased tremendously and land values have skyrocketed. Further growth is anticipated when an expressway now being planned is built in a northerly direction through the township and within a mile or two of the plaintiffs’ land. Experts predict with reason that the demand for homesites will greatly increase in the foreseeable future, and yet despite changes already apparent and the anticipated development, the township continues to restrict plaintiffs’ land to farming and large residential homesites.
+"At trial plaintiffs produced well qualified experts who are convinced that mobile homes are an essential part of the change in the character of the community. Recognized by state statute as an approved land use, mobile homes offer to the medium income citizen the most economical residential accommodations. Statistics disclose an almost unbelievable increase in mobile home sales, an indication that they serve a genuine public need.
+"The defendant township claims that it has recognized this growing public need by zoning six areas in the township as mobile homesites. Some years ago the township employed a land planner to prepare a planned use of the township. Presumably that plan recognized the then uses and looked forward to future use having in mind the public health, welfare and safety of the community. A plan was produced and given consideration by the township board but it was not adopted. It made no recommendation for mobile home park areas.
+"When the Zoning Ordinance of 1955 was adopted and the land use plan considered by the board there were four individually owned areas then used as mobile home parks. Those areas were recognized and so zoned in the ordinance. Later two other individually owned areas were zoned as mobile home parks by township board action.
+"As of the date of this trial no other lands are zoned for such use. If any additional lands in the township are to be accepted for mobile homesites such use can occur only by amending the township zoning ordinance which is to say that no property owner except the present users in White Lake Township can use their land for mobile homesites unless the township board in its discretion amends the zoning ordinance.
+"Governmental restriction of the use of private property is a taking of that property either in whole or in part. Such taking cannot be justified constitutionally unless it is related to the public health, welfare, morals or safety.
+"The township board has not ordained any area in the township for mobile home parks except those restricted areas presently used for those purposes. It has not adopted a plan for future development. Any landowner seeking such use must depend upon the whim and caprice of the township board who presently may exercise their discretion by ordinance amendment but without prescribed standards. In no other way can a mobile home park be developed. [See: Smith v Plymouth Twp Building Inspector, 346 Mich 57; 77 NW2d 332 (1956); Bristow v Woodhaven, 35 Mich App 205; 192 NW2d 322 (1971).]
+"Competent testimony of plaintiffs’ witnesses convinced this court that the highest and best use of plaintiffs’ land is the development of a mobile home park. Such use is approved and controlled by state law and would not adversely affect the public health, welfare or safety. The township board has adopted no plan that would permit such use in available areas. Such needed and legal use of land in the township is denied to all but six preferred property owners.
+"It must follow and the court finds that the township through the application of its zoning ordinance to the plaintiffs’ land has taken property rights from them without due process of law and in violation of their constitutional rights. The ordinance as applied to plaintiffs’ land is void.”
+Subsequent to Judge Adams’ opinion this Court decided Nickola v Grand Blanc Twp, 47 Mich App 684; 209 NW2d 803 (1973). Judge O’Hara reached constitutional bedrock in a factual setting not unlike the present controversy. The relevant portions bear repeating here (p 689; 209 NW2d p 806):
+"1. In this country people are constitutionally guaranteed any lawful use of their real property.
+"2. Limitations on use may not impinge on this principle except by exercise of the police power. This exercise must be reasonably related to the public health, safety, welfare and morals.”
+Judge O’Hara, in applying these principles to the facts in Nickola (the trial court found the ordinance in Nickola to be a valid exercise of this police power), wrote (p 689; 209 NW2d 806):
+"According full acceptance to the trial judge’s findings of fact we cannot possibly see how a mobile home park vis-a-vis single family residences can possibly affect Grand Blanc Township’s morals, health or safety on the land in question. Standards of sanitation, fire protection and other general health and safety requirements are imposed upon mobile home parks by statute. There is nothing of record to suggest that trailer parks create, any greater 'moral’ problem (whatever that means) than any other type structure.
+"Thus we must equate the extremely difficult to define word 'welfare’ with the purpose of the Grand Blanc Township ordinance. The only 'welfare’ we can possibly see here is that Grand Blanc Township residents like single family residences better than they do trailer parks. Access roads and traffic problems would not ensue under the trial judge’s findings. Whatever 'master-plan’ problems exist as between the permitted use and the non-permitted use do not appear of record.”
+We find these principles and the opinion of the trial judge dispositive of the present controversy and the decision of the trial judge is accordingly affirmed.
+Affirmed. Costs to plaintiffs.
+All concurred.
