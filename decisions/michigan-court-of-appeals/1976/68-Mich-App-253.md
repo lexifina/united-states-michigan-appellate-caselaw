@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "24380"
+decided: "1976-03-25"
+citations: ["68 Mich. App. 253"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: M. F. Cavanagh, P. J., and R. B. Burns and F. C. Ziem, JJ."]
+parties: ["McCURTIS v DETROIT HILTON"]
+source_url: "https://static.case.law/mich-app/68/cases/0253-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2146815
+cites_cases: ["130 ALR 1525", "17 ALR3d 422", "212 NW2d 297", "224 NW2d 843", "26 Mich L Rev 260", "356 Mich 399", "375 Mich 628", "393 Mich 393", "49 Mich App 371", "96 ALR 1068", "97 NW2d 90"]
+---
+
+# McCurtis v. Detroit Hilton
+
+## Majority (F. C. Ziem, J.)
+
+F. C. Ziem, J.
+Plaintiffs appeal from the lower court’s grant of summary judgment in favor of defendants under GCR 1963, 117.2(3) entered on March 2, 1975.
+On May 8, 1970, plaintiff Annie McCurtis, an employee of the third party defendant Cunningham Drug Stores, Inc., allegedly fell down a flight of steps located in the drug store. The fall occurred while she was proceeding during a work break to the employees’ lunch area which was in the basement portion of the store. The drug store itself was located in the lobby of the Detroit Hilton Hotel and had been rented from the defendants, Detroit Hilton and Hilton Hotels, Incorporated. As a result of this fall, Mrs. McCurtis, who was pregnant at the time, incurred serious injuries and the 12-week old fetus then carried by her was aborted.
+On May 3, 1973, the present action was commenced against the defendants by plaintiffs Annie McCurtis and Robert McCurtis, the husband of the injured plaintiff, and Annie McCurtis as administratrix of the estate of the unborn infant. In their complaint, plaintiffs alleged that their injuries were sustained as a result of the defendants’ negligence in maintaining the steps. According to plaintiffs, Mrs. McCurtis’ fall occurred because of the slippery condition.
+Thereafter on June 6, 1973, defendants’ request for an order allowing the issuance of a third party summons/complaint for indemnification purposes against the third party defendant Cunningham Drug Stores, Incorporated, was granted and such complaint was filed on June 7, 1973.
+On March 13, 1975, defendants filed a motion for summary judgment, a brief and affidavit in support of the motion, and a notice of hearing on the motion. In their motion, defendants alleged that they were entitled to a judgment in their favor, pursuant to GCR 1963, 117.2(3), since the facts clearly indicated that defendant third party was the lessee of the premises and had exclusive control and possession of the area where plaintiff slipped and fell and that as a result, defendants could not be found liable. On March 21, 1975, an order granting defendants’ summary judgment motion was issued.
+Generally where a premises is leased to a tenant, the lease is considered as equivalent to a sale of the premises for the lease term. See Prosser, Torts (4th Ed), § 63, p 399; Harkrider, Tort Liability of a Landlord, 26 Mich L Rev 260, 383 (1928). The tenant is said to be the owner of the premises and as such is subject to all the responsibilities of one in possession, both to those who enter upon the land and those outside of its boundaries. Prosser, supra, 399. As a result, a landlord who gives up control, possession and use of the land does not have a duty to maintain the premises in a reasonably safe condition and is not liable to persons injured on the premises. Whinnen v 231 Corp, 49 Mich App 371, 375; 212 NW2d 297 (1973), 49 Am Jur 2d, Landlord And Tenant, § 780, pp 722-725. However, it has also been held that a landlord will be liable for the injuries incurred by another even though the landlord has given up complete control, possession and use of the premises where: (1) at the time the premises is transferred to the tenant a hidden dangerous condition exists, the landlord knows or should have known of the condition and fails to apprise the tenant of it, or (2) the premises is leased for a purpose involving public admission and the landlord fails to exercise reasonable care to inspect and repair the premises before possession is transferred. See generally Bluemer v Saginaw Central Oil & Gas Service, 356 Mich 399; 97 NW2d 90 (1959), Samson v Saginaw Professional Building Inc., 393 Mich 393; 224 NW2d 843 (1975), Prosser, supra, 401-402, 403-405. In the above two situations, a party is allowed to recover from a landlord on a nuisance as opposed to negligence theory. Bluemer v Saginaw Central Oil & Gas Co., supra, Prosser, supra, 401-402.
+To the extent that plaintiffs contend that a nuisance theory was alleged, an examination of plaintiffs’ May 3, 1973 complaint, indicates that they are clearly wrong.
+Plaintiffs brought this action alleging that the defendants owed a duty "to exercise reasonable care and caution in and about the management of said premises and to keep the same in reasonable safe condition for the plaintiff and other persons in said hotel for the purpose of purchasing hotel accomodations and ancillary services * * * (Plaintiffs’ complaint paragraph 5).
+Plaintiffs also alleged:
+"That disregarding said duties the said defendants, by their agents and employees, failed to exercise reasonable and ordinary care and caution in the maintenance of said premises in the following manner, to-wit; carelessly, recklessly and negligently allowed and permitted their stairs to be in dangerous and unsafe condition in that a slippery substance was left on said stairs or that said stairs in its natural state was slippery * * * (Plaintiffs’ complaint, paragraph 6).
+Plaintiffs further alleged:
+"That defendants . . . were then and there guilty of one or more of the following negligent acts and omission in violation of their duty to plaintiff: a) * * * allowing a slippery substance to be deposited and/or remain on the stairs * * * b) * * * failing to remove said substance * * * c) * * * allowing and permitting to remain in a slippery and dangerous condition * * * d) * * * failing to give notice or warning * * * of the dangerous condition thereof caused by said substance left on said stairs and/or condition of said stairs * * * » (plaintiffs’ complaint, paragraph 7). "That defendants, * * * knew of the fact that a slippery substance had been left upon the said stairway for a period of time * * * (Plaintiffs’ complaint, paragraph 8.)
+Thus the plaintiffs’ complaint is based on negligent maintenance of the premises and not nuisance as averred in plaintiff-appellants’ brief.
+Appellant asserts that a close reading of the lease between the defendants to this action reveals that there are ambiguities in said lease which present questions of fact regarding who was in control of the stairway on which the plaintiff herein fell.
+All of the points raised by the plaintiff-appellants with regard to the lease agreement are irrelevant. The basic question is whether the defendant had control of the premises where the plaintiff allegedly was injured.
+The uncontroverted affidavit of Josef Christof is "that the stairway upon which the plaintiff * * * allegedly slipped and fell is entirely within the control, possession and use of Cunningham Drug Stores, Inc., and that the Detroit Hilton has no access to the area for any reason whatsoever nor does it enjoy any possession or use of that property”.
+The trial court granted the motion for summary judgment on the basis that there was no genuine issue as to any material facts.
+"when the summary judgment sought asserts the absence of a genuine issue of material fact under Rule 117.2(3) and is supported by affidavit or other proofs, the opposing party must come forward with affidavits or other proofs of his own to establish that a genuine issue of material fact does exist.” Durant v Stahlin, 375 Mich 628, 656 (1965)
+The uncontroverted affidavit verifies that the stairway on which the plaintiff allegedly slipped and fell was entirely within the exclusive control, possession and use of the tenant (Cunninghams) pursuant to the lease agreement between Detroit Hilton and Cunninghams and therefore the court was correct in granting the defendant-appellees’ motion for summary judgment.
+Affirmed.
