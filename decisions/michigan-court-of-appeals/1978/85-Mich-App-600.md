@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-3218"
+decided: "1978-09-19"
+citations: ["85 Mich. App. 600"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. E. Holbrook, Jr., P. J., and T. M. Burns and W. Van Valkenburg, JJ."]
+parties: ["MOORE v B & C FAMILY CENTER, INC."]
+source_url: "https://static.case.law/mich-app/85/cases/0600-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2185566
+cites_cases: ["16 CFR § 1500.7", "243 NW2d 270", "260 NW2d 135", "261 NW2d 544", "265 NW2d 344", "397 Mich 117", "482 F2d 325", "78 Mich App 465", "79 Mich App 145", "81 Mich App 390"]
+---
+
+# Moore v. B & C Family Center, Inc.
+
+## Majority (D. E. Holbrook, Jr., P. J.)
+
+D. E. Holbrook, Jr., P. J.
+This is a negligence suit arising out of the ingestion of camphorated oil by plaintiff Norval Moore. On September 10, 1975, plaintiff Donna Moore, Norval Moore’s wife, went to the B & C Family Center in Cheboygan to purchase castor oil. While there is a conflict in testimony regarding the precise events which transpired within the store there is no question that Mrs. Moore left the store with camphorated oil rather than castor oil sealed within her sack. Subsequently Mr. Moore ingested the camphorated oil in the belief that it was castor oil. As a result he suffered a severe reaction. The jury returned a verdict of no cause of action. Plaintiffs appeal as of right.
+On appeal plaintiffs claim several errors. One is dispositive, one merits discussion and the balance we find to be without merit.
+Plaintiffs claim that the trial court failed to accurately present their theory of the case as required by GCR 1963, 516.7. Plaintiffs timely submitted a statement of issues and their theory of the case to the trial court. Plaintiffs’ theory was that defendant had been negligent in three separate particulars in that: (1) defendant’s sales clerk was negligent in retrieving from the shelf, packaging and selling a bottle of camphorated oil when Mrs. Moore had requested castor oil; (2) defendant was negligent in stocking the shelves so that the highly toxic camphorated oil was located next to the non-toxic castor oil when both came in substantially identical bottles; and (3) defendant failed to give cautionary instructions to their employees regarding the handling of toxic drugs. The trial court declined to use plaintiffs’ statement but instructed the jury as follows:
+"[T]his case arises out of an incident that occurred on September 10, 1975, involving the purchase of a non-prescriptive preparation by the plaintiff Donna Moore, from the defendant B & C Family Center, Inc., which preparation was subsequently ingested by the plaintiff Norval Moore. The plaintiff claims that the defendant B & C Family Center, by and through their employee Charlene Abrahamson, was employed by the defendant B & C Family Center, was within the scope of her employment on September 10, 1975, was negligent in the sales transaction wherein plaintiff Donna Moore obtained a non-prescriptive preparation, camphorated oil, which was subsequently ingested by the plaintiff Norval Moore. Further, plaintiff claims that the negligence of the defendant B & C Family Center, Inc., was the proximate cause of the damage and resulting injury to plaintiff Norval Moore as a result of ingesting the camphorated oil, and was also the proximate cause of damage done to the plaintiff Donna Moore.”
+While the court need not give any statements to the jury in the form submitted it must present to the jury the material substance of the issues and the theories of each party. A party’s theory of the case includes both the legal principles governing the validity of the claim and the factual propositions advanced by a party. People v Robinson, 79 Mich App 145; 261 NW2d 544 (1977). The instruction given by the trial court failed to indicate that plaintiffs claimed three separate factual bases upon which negligence could be found. The result was to remove from the jury’s deliberations plaintiffs’ claims that negligence could be founded upon the improper location of the two oils, the sales clerk giving Mrs. Moore camphorated oil when she had requested castor oil, and the defendant’s failure to give cautionary instructions to employees regarding the handling of toxic substances. Clearly the trial court failed to present the jury the material substance of the plaintiffs’ theory. Such constitutes error which denied the plaintiffs substantial justice and mandates reversal. GCR 1963, 529.1, Cryderman v Soo Line R Co, 78 Mich App 465; 260 NW2d 135 (1977), People v Gayton, 81 Mich App 390; 265 NW2d 344 (1978).
+Plaintiffs’ remaining contention which we will address concerns the labeling of the camphorated oil. Plaintiffs contend that camphorated oil is a lethal poison and that the bottle of camphorated oil defendants sold did not carry the warnings required by the retail poison statute. MCL 750.431; MSA 28.686. Violation of an applicable penal statute establishes a prima facie case of negligence. Zeni v Anderson, 397 Mich 117; 243 NW2d 270 (1976). Plaintiffs argue that the retail poison statute was applicable and that the jury should have been instructed that prima facie negligence existed. The trial court, however, correctly refused to instruct on the retail poison statute. The Federal Hazardous Substances Act, 15 USC 1261 et seq., has preempted the labeling of hazardous substances and is the applicable standard. Chemical Specialties Manufacturers Ass’n, Inc v Clark, 482 F2d 325 (CA 5, 1973); 16 CFR § 1500.7 (1978).
+Reversed and remanded. Costs to abide final result.
