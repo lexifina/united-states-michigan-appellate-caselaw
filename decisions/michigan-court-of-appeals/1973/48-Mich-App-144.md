@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "14280"
+decided: "1973-06-27"
+citations: ["48 Mich. App. 144"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Quinn, P. J., and Bronson and Van Valkenburg, JJ.", "All concurred."]
+parties: ["WAYNE-OAKLAND BANK v ADAM’S RIB"]
+source_url: "https://static.case.law/mich-app/48/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2106589
+cites_cases: ["199 NW2d 169", "205 NW2d 813", "215 NW 290", "240 Mich 402", "388 Mich 1", "390 Mich 796", "44 Mich App 706"]
+---
+
+# Wayne-Oakland Bank v. Adam's Rib
+
+## Majority (Bronson, J.)
+
+Bronson, J.
+In this civil action for negligence a Michigan partnership, Adam’s Rib (hereinafter defendant), appeals as of right from an adverse jury verdict of $100,000. The verdict was entered in favor of the guardian of Andrew Ziegler (hereinafter plaintiff). Plaintiff is the minor son of Richard M. Ziegler, a general partner of the sued partnership.
+Defendant raises seven questions for review. After due consideration, we find defendant’s first contention to provide the pivotal point of our decisional analysis: Is a partnership entity liable for the negligence of a partner who is acting within the course of employment, where the partner so acting claims immunity by reason of parental relationship to the plaintiff?
+Plaintiff, when 2-1/2 years old, was in the defendant’s restaurant when he was injured by placing his hand in a cheesegrinder. As a consequence of this injury plaintiffs hand was amputated at the wrist joint. At the time of his injury plaintiff was in the care and supervision of his father, Mr. Ziegler. The restaurant was not yet open for the day and the two were alone in the defendant’s business establishment. Plaintiff’s injury occurred while Mr. Ziegler was preparing food for the coming day’s business. There is no substantial dispute that plaintiff was injured while his father was acting in the course of his employment.
+Whether a partnership entity has a right to raise a personal immunity claimed by an individual partner as a shield where the partnership is sued for the negligent act of that partner was, until Mathews v Wosek, 44 Mich App 706, 712-713; 205 NW2d 813, 816 (1973), a question of first impression in Michigan. Assuming, without deciding, that plaintiff’s father possessed parental immunity we find the Mathews decision by Judge (now Justice) Levin persuasive.
+In Mathews the principal question was whether a partnership entity was immunized from liability for a tort committed by a partner where the partner was personally immune from liability because he and the injured person were fellow servants. The Court in Mathews, after considering the intent of the drafters of § 13 of the Uniform Partnership Act, concluded § 13 was not intended to immunize the partnership entity because of an immunity held by one of the individual partners. In Mathews Justice Levin reasoned:
+"In many instances, including the one presently before us, the immunity arises out of a particular relationship between the litigants or some of them. Persons frequently act concurrently in more than one role. Where litigants have a dual relationship, one of which is consistent with the imposition of liability, we see no compelling reason to prefer the relationship which' bars recovery.”
+We find the Mathews analysis controlling. The jury concluded upon the evidence presented that plaintiff was injured as a proximate result of the negligence of defendant’s agent. Mr. Ziegler was acting within the course of his employment. Were it not for plaintiff’s familial relátionship to defendant’s agent there would be no question of liability. Wé see no compelling reason to reach a different result here.
+We turn now to the remaining issues in the order raised by defendant. The question of parental immunity, as the concept relates to the facts of this case, has been commendably briefed and argued in this Court. However, in view of our disposition above, it is unnecessary to consider at this time either the rule or the exceptions enunciated in Plumley v Klein, 388 Mich 1; 199 NW2d 169 (1972).
+Defendant’s claimed error concerning instructions on parental immunity and the status or duty of Mr. Ziegler as a parent are not applicable. We have already concluded the personal immunity of a parent, if established, is not a shield for the partnership entity.
+Defendant claims the trial court’s instruction upon the question of contributory negligence was error. At trial, defendant neither raised the issue of contributory fault nor requested an instruction on this issue. Defendant argues this instruction confused the jury and prejudiced the defendant by giving the impression defendant had raised a sham issue. The instruction properly stated Michigan law. At worst the instruction was simply superfluous. In light of the ample evidence from which the jury has concluded defendant’s agent was negligent, the addition of the instruction must be considered harmless.
+Defendant asserts there was insufficient evidence in the record concerning guards and safety devices for the cheesegrinder. However, the record demonstrates testimony that additional safety devices existed (caps or similar devices to put over the grinder opening) and that Mr. Ziegler knew of such devices. The jury could consider the omission of such known safety devices improper. Thus, the instruction claimed as error related to evidence properly admitted and was not clearly erroneous.
+Finally defendant postulates that admission of earning capacity statistics relating to the loss of limbs was irrelevant where the plaintiff only lost a hand at the wrist joint. We agree that evidence of a loss of limb is not exactly comparable with the loss of a hand. However Mr. Henderson, an expert labor economist, testified when cross-examined by the defendant’s attorney that it was the closest available data that he had found. In light of the unavailability of other evidence we conclude that the evidence was admissible and that the weight was for the jury.
+Affirmed. Costs to plaintiff.
+All concurred.
+We are not unmindful of Riser v Riser, 240 Mich 402; 215 NW 290 (1927). Riser is cited by defendant for the proposition that "the necessity for an employee or agent to be liable before the employer or master can be liable remains unimpaired to this day”. However, Riser, supra, did not concern a partnership which is a separate entity for litigation. See MCLA 600.2051; MSA 27A.2051, GCR 1963, 201.3(3), and the committee comments to this court rule.
+"A child may maintain a lawsuit against his parent for injuries suffered as a result of the alleged ordinary negligence of the parent. Like our sister states, however, we note two exceptions to this new rule of law: (1) where the alleged negligent act involves an exercise of reasonable parental authority over the child; and (2) where the alleged negligent act involves an exercise of reasonable parental discretion with respect to the provision of food, clothing, housing, medical and dental services, and other care.” Plumley v Klein, 388 Mich 1, 8; 199 NW2d 169,172-173 (1972).
+"Sec. 13. Where, by any wrongful act or omission of any partner acting in the ordinary course of the business or the partnership, or with the authority of his copartners, loss or injury is caused to any person, not being a partner in the partnership, or any penalty is incurred, the partnership is liable therefor to the same extent as the partner so acting or omitting to act.” MCLA 449.13; MSA 20.13.
