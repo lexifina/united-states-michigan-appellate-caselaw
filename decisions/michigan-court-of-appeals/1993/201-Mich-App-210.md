@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 140087, 142089"
+decided: "1993-08-16"
+citations: ["201 Mich. App. 210"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Marilyn Kelly, P.J., and Shepherd and Connor, JJ."]
+parties: ["HURON TOWNSHIP v CITY DISPOSAL SYSTEMS, INC HURON TOWNSHIP v INLAND WATERS POLLUTION CONTROL, INC"]
+source_url: "https://static.case.law/mich-app/201/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1858813
+cites_cases: ["113 NW2d 876", "118 Mich App 379", "177 Mich App 174", "181 Mich App 393", "188 Mich App 342", "252 NW2d 842", "325 NW2d 777", "365 Mich 600", "439 Mich 370", "441 Mich 547", "441 NW2d 59", "448 NW2d 858", "470 NW2d 657", "483 NW2d 844", "495 NW2d 539", "73 Mich App 685"]
+---
+
+# Huron Township v. City Disposal System, Inc.
+
+## Majority (Shepherd, J.)
+
+Shepherd, J.
+The issue in these consolidated cases involves the assessment of fines for the operation of overweight vehicles in violation of plaintiff Huron Township’s Ordinance 88-6, which incorporates by reference provisions of the Vehicle Code, MCL 257.722; MSA 9.2422 and MCL 257.724; MSA 9.2424.
+In Docket No. 140087, plaintiff issued four tickets against defendant City Disposal Systems, Inc., for operating overweight vehicles in violation of the ordinance. Defendant pleaded responsibility for all four violations. In an order dated January 29, 1991, the district court assessed defendant $14,004.50 in fines. On April 12, 1991, Wayne Circuit Judge John H. Hausner issued an order affirming the decision of the district court. Defendant now appeals by leave granted.
+In Docket No. 142089, plaintiff issued one ticket against defendant Inland Waters Pollution Control, Inc., for violating the ordinance. Defendant pleaded responsibility for the violation. On January 29, 1991, the district court assessed defendant $6,915 in fines. In an order dated June 5, 1991, Wayne Circuit Judge John R. Kirwan granted defendant’s motion to set aside the district court order and reduced the fine to no more than $500 pursuant to MCL 42.21; MSA 5.46(21). Plaintiff appeals that order by leave granted.
+The issue in these consolidated appeals involves a question of statutory interpretation. Where a statute is clear and unambiguous, judicial construction or interpretation is precluded. Lorencz v Ford Motor Co, 439 Mich 370, 376; 483 NW2d 844 (1992). If judicial construction or interpretation is necessary, the primary goal is to ascertain and give effect to the intent of the Legislature. Id.; People v Hawkins, 181 Mich App 393, 396; 448 NW2d 858 (1989). If two statutes address the same subject, courts must strive to read them harmoniously in order to give both statutes a reasonable effect. House Speaker v State Administrative Bd, 441 Mich 547, 568; 495 NW2d 539 (1993). Where two statutes conflict, and one is specific to the subject matter while the other is generally applicable, the specific statute prevails as an exception to the general one. People v Tucker, 177 Mich App 174, 179; 441 NW2d 59 (1989). The rules of statutory construction also apply to ordinances. Al-bright v Portage, 188 Mich App 342, 350, n 7; 470 NW2d 657 (1991).
+Plaintiff Huron Township’s Ordinance 88-6, effective September 28, 1988, provides in pertinent part:
+An ordinance to protect the Public Heath, Safety and General Welfare ... by Regulating the Wheel and Axle Loads and Gross Vehicle Weights of certain vehicles operating within the Township of Huron, Wayne County, Michigan: to adopt by reference certain sections of the Michigan Vehicle Code being MCL 257.1 et seq. to provide for the enforcement of said Ordinance and Penalties for the violation of same.
+In addition, § 2 of the ordinance adopts by reference MCL 257.722; MSA 9.2422, which provides for graduated penalties for violation of wheel and axle restrictions, and MCL 257.724; MSA 9.2424, which provides the same for excessive loads.
+Plaintiff claims that the calculation of fines in accordance with §§ 722 and 724 of the Vehicle Code is permissible because § 23 of the charter township act, MCL 42.23; MSA 5.46(23), expressly allows a township to adopt "any provision of state law or any detailed technical regulations as a township ordinance or code by citation of such provision of state law.” Because Ordinance 88-6 was adopted in conformity with MCL 42.23; MSA 5.46(23), plaintiff argues that it must be presumed proper and lawful. Watnick v Detroit, 365 Mich 600; 113 NW2d 876 (1962).
+Defendants City Disposal and Inland Waters both argue that pursuant to § 21 of the Charter Township Act, MCL 42.21; MSA 5.46(21), the maximum fine that plaintiff Huron Township can impose for a violation of a township ordinance is limited to $500. Section 21 provides:
+The township board shall provide in each ordinance for the punishment of those who violate the township’s provisions. Punishment for the violation of a township ordinance shall not exceed a fine of $500.00, or imprisonment for 90 days, or both, in the discretion of the court. Fines collected for the violation of the ordinances of a charter township shall be distributed as provided in section 8379 of Act No. 236 of the Public Acts of 1961, being section 600.8379 of the Michigan Compiled Laws.
+Notwithstanding that Huron Township adopted its ordinance by incorporating provisions of the Vehicle Code, defendants maintain that plaintiff may not impose penalties that exceed $500. We disagree.
+As is apparent from the language of the statute, MCL 42.21; MSA 5.46(21) is a criminal statute providing for criminal penalties. MCL 750.5; MSA 28.195 defines "crime” in part as follows:
+"Crime” means an act or omission forbidden by law which is not designated as a civil infraction, and which is punishable upon conviction by any 1 or more of the following:
+(a) Imprisonment
+(b) Fine not designated a civil fine.
+MCL 42.21; MSA 5.46(21) provides for punishment not to exceed $500 or imprisonment for ninety days, and thus is a criminal statute.
+Here the violations of Ordinance 88-6 regarding overweight vehicles are civil, not criminal, infractions, because they are not punishable by imprisonment or penal fines. MCL 600.113; MSA 27A.113; Library Bd v District Judges, 118 Mich App 379; 325 NW2d 777 (1982). Thus, even though MCL 42.21; MSA 5.46(21) specifies the general rule that no township ordinance may provide for a criminal penalty in excess of $500, a township may nonetheless impose fines for civil infractions in excess of that amount by adopting the appropriate state law. By adopting §§ 722 and 724 of the Vehicle Code regarding the method for calculating fines for overweight vehicles pursuant to MCL 42.23; MSA 5.46(23), plaintiff Huron Township is therefore allowed to impose penalties that exceed the $500 limitation.
+In this regard, we note that defendants’ reliance upon Renne v Waterford Twp, 73 Mich App 685; 252 NW2d 842 (1977), is misplaced because that case does not stand for the proposition that MCL 42.21; MSA 5.46(21) limits a township ordinance from imposing a civil fine in excess of $500. In Renne, the defendants were charged with a misdemeanor offense because they failed to comply with an ordinance that mandated septic sewer connections. There, this Court held that the township was not prevented from enforcing the ordinance by fine or imprisonment so long as the penalty, i.e., criminal sanction, was not greater than that authorized under MCL 42.21; MSA 5.46(21).
+In addition, we note that although MCL 257.605; MSA 9.2305 provides that local units of government cannot enact laws that conflict with the Vehicle Code, plaintiffs ordinance does not conflict with state law because the penalties imposed in these cases are not greater than the state penalties for overweight vehicles under §§ 722 and 724.
+Accordingly, in Docket No. 140087, we affirm the circuit court’s affirmance of the district court’s order assessing defendant City Disposal Systems, Inc., $14,004.50 in fines for operating overweight vehicles in violation of the ordinance. In Docket No. 142089, we reverse the circuit court’s order and reinstate the district court’s order assessing defendant Inland Waters $6,915 in fines for violating the ordinance.
