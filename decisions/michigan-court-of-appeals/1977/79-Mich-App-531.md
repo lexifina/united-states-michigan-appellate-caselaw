@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "29916"
+decided: "1977-11-09"
+citations: ["79 Mich. App. 531"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P. J., and N. J. Kaufman and F. J. Borchard, JJ."]
+parties: ["EBLING v MASCO CORPORATION"]
+source_url: "https://static.case.law/mich-app/79/cases/0531-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2162268
+cites_cases: ["1 Mich App 500", "136 NW2d 746", "152 NW2d 161", "181 NW2d 85", "244 NW2d 448", "245 NW2d 140", "25 Mich App 20", "278 NW 805", "284 Mich 165", "377 Mich 700", "399 Mich 823", "69 Mich App 283", "69 Mich App 591", "7 Mich App 547"]
+---
+
+# Ebling v. Masco Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals from a jury verdict in plaintiff’s favor on an action brought for breach of an employment contract. Defendant’s motion for judgment notwithstanding the verdict or a new trial was ultimately denied on July 28, 1976. Defendant claims an appeal as of right.
+Defendant’s first assignment of error is the failure to grant its motion for a judgment notwithstanding the verdict. Such a motion is appropriately granted only if the facts taken inferentially in the non-moving party’s favor preclude judgment for the non-moving party as a matter of law. Jackson v Fox, 69 Mich App 283, 285; 244 NW2d 448 (1976). Applying this standard, we find no error. The evidence, taken in a light most favorable to plaintiff, shows that a bargained-for term of the employment contract was a limitation on the right to discharge plaintiff at will. In response to plaintiffs concern that his services might be deemed unsatisfactory by his immediate supervisor, the executive vice-president of defendant agreed to personally review any discharge decision and limit the grounds of discharge by allowing plaintiff to correct any deficiencies in his performance and by not discharging plaintiff if the work was being performed. We hold that the bargaining for this term of the contract removes this case from the general rule that a contract for indefinite employment is terminable at will. In Hackett v Foodmaker, Inc, 69 Mich App 591, 594; 245 NW2d 140 (1976), lv den, 399 Mich 823 (1977), this Court emphasized that distinguishing features, promises, or consideration in addition to services to be rendered remove a case from the general rule:
+’’(C)ontracts for personal services for permanent employment or for life are considered indefinite hirings, terminable at the will of either party, in the absence of distinguishing features or promises or a consideration in addition to the services to be rendered.” (Emphasis in original.)
+We hold that the trial court did not err in denying the motion for judgment notwithstanding the verdict. Where parties bargain for a particular term in an employment contract thereby limiting either party’s right to terminate the contract, the contract will be honored as formed.
+Appellant argues that plaintiff was not entitled to the benefit of the stock options because of the termination of his employment. Appellant’s reliance on Waldorf v KMS Industries, Inc, 25 Mich App 20; 181 NW2d 85 (1970), is misplaced. In that case plaintiff sought the transfer of the stock. In the instant case, plaintiff seeks as damages the value of the stock options that would have accrued to his benefit but for defendant’s breach of contract. Although appellant argues further that these damages are speculative, it is clear that plaintiff seeks damages flowing from the breach and not the stock itself as in Waldorf
+Nor do we find the damages unduly speculative. Appellant does not challenge the computation of damages and indeed stipulated to the amount while objecting to relevancy and materiality. According to the stipulated calculation, plaintiff could have purchased shares of stock in defendant corporation worth $404,000 in exchange for $82,-000. Appellant’s argument is that since the employment contract was at will, plaintiff himself could have terminated it at any time prior to the vesting of his option rights and therefore his damages are speculative. However, we have previously stated our belief that the amount of damages was not speculative in light of defendant’s stipulation. If appellant’s argument is taken to its logical extreme, any breaching party could claim damages speculative because the non-breaching party might not fulfill its obligation. The correct focus is not on the non-breaching party, but on the breaching party. "(T)here may be recovery for full performanee of an entire contract if complete performance has been prevented or waived by the parties entitled to demand it”. Nurmi v Beardsley, 284 Mich 165; 278 NW 805 (1938). The cases relied on by appellant stand for the proposition that dollar damages are too speculative where a contract for employment at will is breached. Where, as in the present case, dollar damages flowing from the breach are readily ascertainable, the breaching party should not be allowed to argue that the non-breaching party might also have terminated the contract.
+Appellant raises several issues in support of its claim that the trial judge should have granted a new trial. Appellant claims that the jury instruction on plaintiffs theory should not have been given in the form submitted since it went beyond the evidence presented. However, we do not review theories and claims of parties with the strictness applied to instructions on applicable law. Viewing the jury instructions as a whole, we find no reversible error. Dixison v Asher, 7 Mich App 547, 550; 152 NW2d 161 (1967), Milauckas v Meyer, 1 Mich App 500, 508; 136 NW2d 746 (1965), lv den, 377 Mich 700 (1966).
+Although appellant seeks reversal on the basis of testimony that was subsequently struck, at trial defendant was satisfied with the court’s instruction striking the testimony. This issue lacks merit.
+Appellant lastly contends that taken as a whole, trial error must have resulted in an excessive verdict. Considering that the $300,000 awarded by the jury was less than a stipulated value of the stock options, this Court cannot agree that the verdict was excessive.
+Affirmed.
