@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "54703"
+decided: "1983-12-05"
+citations: ["130 Mich. App. 669"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: M. J. Kelly, P.J., and D. E. Holbrook, Jr., and N. J. Kaufman, JJ.", "N. J. Kaufman, J., concurred."]
+parties: ["DAWKINS v DEPARTMENT OF CIVIL SERVICE"]
+source_url: "https://static.case.law/mich-app/130/cases/0669-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2252058
+cites_cases: ["296 NW2d 320", "327 NW2d 783", "36 ALR Fed 530", "410 Mich 908", "414 Mich 510", "98 Mich App 604"]
+---
+
+# Dawkins v. Department of Civil Service
+
+## Majority (D. E. Holbrook, Jr., J.)
+
+D. E. Holbrook, Jr., J.
+On March 13, 1980, plaintiffs filed a Freedom of Information Act request with defendant Michigan Department of Civil Service. Plaintiffs requested that defendant department provide them with a list of names, department addresses, and home addresses of all civil service employees in the Safety and Regulatory Unit.
+On March 17, 1980, defendant department responded that it was precluded from complying with the request because of a permanent injunction which had been issued by the Ingham County Circuit Court in Tobin v Civil Service Comm, 98 Mich App 604; 296 NW2d 320 (1980), lv den 410 Mich 908 (1981). Although this Court ultimately reversed the trial court’s decision in Tobin, supra, the appeal was still pending at the time of plaintiffs’ request.
+Plaintiffs commenced this action in the circuit court to compel disclosure of the requested information. The plaintiffs originally sought disclosure of the names, business addresses, home addresses and voter eligibility lists of all Safety and Regulatory Unit employees. Their complaint was thereafter amended to delete the claim for disclosure of the home addresses of the employees. A show cause hearing was held on May 21, 1980. Defendant department indicated it was willing to comply with the plaintiffs’ request, but was of the opinion that the Tobin, supra, injunction precluded it from releasing the information. The trial court held that the injunction barred release of only the home addresses of the employees and ordered the release of the remaining information.
+Thereafter, intervening defendants filed a motion to intervene. The individual defendants are Safety and Regulatory Unit employees. The corporate defendant is a labor union which has been certified as the exclusive bargaining representative of the Safety and Regulatory Unit employees. Intervening defendants requested that the court set aside its disclosure order on the grounds that disclosure of the information constituted an unwarranted invasion of privacy, that the information related to data used to administer public employment, and that mandatory disclosure of the information by the civil service department inter-, fered with the department’s constitutional grant of plenary power to regulate all conditions of employment in the department.
+The trial court granted the motion to intervene but denied the motion to set aside the disclosure order. Intervening defendants appealed as of right from the trial court’s denial of said motion. On April 18, 1983, this Court granted intervening defendants’ own motion to dismiss that appeal.
+Plaintiffs filed a motion requesting that the trial court award attorney fees, but the court denied the motion. Plaintiffs appealed, challenging the court’s refusal to award attorney fees. It is that appeal which is the subject of this opinion.
+Plaintiffs claim that they are entitled to an award of attorney fees pursuant to the provisions of the state Freedom of Information Act, MCL 15.240(4); MSA 4.1801(10X4). Defendant Michigan Department of Civil Service cites essentially two reasons why plaintiffs are not entitled to an award of attorney fees. First, defendant department argues that it purportedly acted in good faith, thus justifying a denial of attorney fees. Defendant department contends that it was willing to release certain information at all times and refused to do so only because it believed that an injunction, which was pending at the time in another case, precluded the release of that information. Second, defendant department contends that the plaintiffs are not entitled to an award of attorney fees because they prevailed only in part below.
+Recently, the Michigan Supreme Court has decided a case which provides some guidance on the question of awarding attorney fees in a state freedom of information action. See Kestenbaum v Michigan State University, 414 Mich 510; 327 NW2d 783 (1982), separate opinion by Justice Ryan, in which Justices Kavanagh and Levin concurred. In Kestenbaum, the Supreme Court affirmed a decision by the Michigan Court of Appeals which denied the plaintiffs’ request for a magnetic tape containing the names and addresses of students at Michigan State University. The decision, decided December 7, 1982, was equally divided with three justices voting for affirmance and three justices voting for reversal. While only the three justices voting for reversal on the merits, Ryan, Kavanagh, and Levin, reached the question of attorney fees, their opinion sheds some light on our issue. Specifically, they rejected the claim that a defendant’s good faith has any bearing on a claim for attorney fees. See Kestenbaum, supra, pp 563-564. We agree and reject the defendant department’s claim herein. Moreover, those three justices rejected the claim that the federal Freedom of Information Act provides guidance in the awarding of attorney fees in a state freedom of information action. See Kestenbaum, supra, p 564, fn 35. Finally, those justices rejected the claim that a plaintiff may not recover attorney fees if it only prevails in part. See Kestenbaum, supra, p 565. In conclusion, they stated:
+"In the case of a plaintiff who 'prevails in part’, we read the statute to confer upon the court the discretion to award either the entire amount of plaintiffs reasonable attorney fees, costs, and disbursements or an appropriate portion thereof. The appropriateness of the portion awarded is not to be measured by the good faith of the defendant or the novelty of the litigation, but rather by the amount of attorney fees, costs, and disbursements fairly allocable to the successful portion of the plaintiffs case.” Kestenbaum, pp 565-566. (Emphasis in original.)
+Assuming, arguendo, that plaintiffs herein only prevailed in part, under these circumstances we find all, or virtually all, of the attorney fees, costs, and disbursements are "fairly allocable to the successful portion of the plaintiffs case”. Accordingly, we reverse the order of the trial court and remand for an award of attorney fees incurred during the course of the trial court proceedings and for an award of attorney fees, costs, and disbursements on this appeal.
+Reversed and remanded for proceedings consistent herewith.
+N. J. Kaufman, J., concurred.
+
+## Dissent (M. J. Kelly, P.J.)
+
+M. J. Kelly, P.J.
+(dissenting). I dissent.
+The three justices joining in dissent on the question of attorney fees in Kestenbaum v Michi gan State University, 414 Mich 510, 563-564; 327 NW2d 783 (1982), were not faced with the setting in the instant case, where a public body was prohibited by court order from disclosing a public record.
+The only ground for awarding attorney fees in the instant case is MCL 15.240(4); MSA 4.1801(10)(4). That section allows attorney fees to a person who prevails in an action commenced pursuant to the section. That section, however, allows for an action to compel disclosure of a public record only "[i]f a public body makes a final determination to deny a request or a portion thereof’. MCL 15.240(1); MSA 4.1801(10X1). Here, the Michigan Department of Civil Service did not make a final determination to deny plaintiffs’ request. A court injunction precluded the department from making any determination at all. It would be outrageous to require the department to pay attorney fees when it was at all times willing to release the information in question but was prevented from doing so by court order.
+I would affirm.
