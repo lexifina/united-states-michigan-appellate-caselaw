@@ -1,0 +1,46 @@
+---
+court: "Michigan Court of Appeals"
+docket: "85677"
+decided: "1986-07-07"
+citations: ["153 Mich. App. 22"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P.J., and Cynar and T. Gillespie, JJ."]
+parties: ["PEOPLE v SELLARS"]
+source_url: "https://static.case.law/mich-app/153/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2282391
+cites_cases: ["10 ALR3d 359", "106 Mich App 203", "121 Mich App 748", "128 Mich App 552", "259 NW2d 1", "271 NW2d 503", "307 NW2d 441", "329 NW2d 476", "340 NW2d 324", "358 US 307", "364 NW2d 658", "394 US 165", "401 Mich 572", "403 Mich 568", "421 Mich 502", "422 Mich 877", "426 Mich 878", "432 F2d 861", "462 US 213", "468 US 897", "558 F2d 1231"]
+---
+
+# People v. Sellars
+
+## Majority (T. Gillespie, J.)
+
+T. Gillespie, J.
+On January 5, 1985, Detroit police officers executed a search warrant at the home of the defendant. They seized a quantity of cocaine, drug paraphernalia, and a firearm.
+At the preliminary examination, defendant was bound over to the Recorder’s Court on only one count, that of possession of cocaine in excess of six hundred fifty grams in violation of MCL 333.7403(2)(a)(i); MSA 14.15(7403)(2)(a)(i).
+Prior to trial, defendant filed a motion to quash the search warrant and suppress the evidence, arguing three separate grounds in support of his motion.
+First, defendant argued that the magistrate who was a district judge in Livonia had no jurisdiction to issue a warrant to be enforced in Detroit. The Recorder’s Court judge, after a hearing, ruled that the district judge did have jurisdiction.
+Second, defendant contended that the warrant was illegally executed in that the officers, while they announced their presence as police officers, did not announce their purpose. The judge did not address that objection.
+Third, defendant argued that the arrest of Henry Benjamin, who was observed by police leaving defendant’s home at the time, place, and in the vehicle described in information furnished by the fbi, was illegal and could not be used as a basis for a warrant.
+The Recorder’s Court judge found that the defendant did have standing to challenge the arrest of Benjamin and struck from the affidavit supporting the warrant reference to that arrest. The court then found that the balance of the affidavit was insufficient to support the warrant as it did not establish probable cause and granted defendant’s motion to suppress the evidence. The prosecution appealed to this Court.
+We find that such suppression was error and reverse the Recorder’s Court.
+In order to understand the issues involved, it is necessary to set forth the affidavit which was sworn to by Police Officer Jeff Perkins of the Livonia Police Department in support of the warrant. It read as follows:
+Affiant is a Livonia Police Officer presently assigned to the Intelligence Bureau as a Narcotics Investigator. Affiant has attended several classes and seminars relating to the use, identification, sale, packaging and distribution of controlled substances. Affiant has personally been involved in cases involving the use, identification, sale, packaging and distribution of controlled substances both as a uniformed and undercover officer.
+Affiant and Officers of the Livonia Intelligence Bureau received information frome [sic] Agent Michael T. Barrett of the fbi that a henry benjamin W/M/11-23-52 was going to pick up a quantity of Cocaine at 12612 Kentfield, Detroit. This was to occur on 01-05-85. henry benjamin would be driving a copper colored 1984 Toyota Supra, Michigan license # 803-JRT. Agent Barrett further stated that approximately one kilo of Cocaine would be located at the Kentfield address where a Robert Clifford sellars W/M/07-20-33 who resides at 12612 Kentfield, Detroit, had taken the kilo of Cocaine after obtaining it while in Florida.
+At approximately 1:30 pm on 01-05-85, Sgt. Gary Sitner of the Livonia Intelligence Bureau set up surveillance at 12612 Kentfield, Detroit. Several minutes later affiant along with other Officers of the Livonia Intelligence Bureau and fbi arrived on the surveillance. At approximately 2:28 pm affiant observed a copper colored, newer Toyota, occupied by one lone white male driver, pull deep into the driveway of 12612 Kentfield. The occupant, a white male approximately 30 yrs of age exited the vehicle and entered the South door of the residence. At approximately 3:35 pm the same white male was observed to exit the residence through the same door and enter the drivers side [sic] of the copper colored Toyota and drive away being the only person in the vehicle. Officers began a mobile surveillance on the vehicle. The vehicle was stopped in the City of Livonia by uniformed officers in a marked Police Unit where the driver a henry benjamin was placed under arrest for drive while license suspended and the vehicle was impounded [.] [A] search of the vehicle revealed a clear plastic baggie containing a quantity of rock Cocaine which field tested positive.
+On appeal, the prosecution maintains that the trial court erred first in deciding that defendant had standing to challenge the Benjamin arrest and search and also erred in striking the portion of the affidavit containing that information. The prosecution further argued that the police relied upon the warrant the the case should thereby fall within the good faith exception of United States v Leon, 468 US 897; 104 S Ct 3405; 82 L Ed 2d (1984).
+The defense reply essentially abandoned the position taken in the lower court and relied entirely on the Michigan Supreme Court decision in People v Sherbine, 421 Mich 502; 364 NW2d 658 (1984) . Defendant argues that even if the court relied on the wrong reason the result was correct under Sherbine and therefore should be affirmed.
+Fourth Amendment rights are personal rights and may not be vicariously asserted. An individual does not have standing to challenge a search and seizure unless that person was present at the time of the search or asserts a possessory or proprietary interest in the evidence seized. United States v Grunsfeld, 558 F2d 1231 (CA 6, 1977); Alderman v United States, 394 US 165; 89 S Ct 961; 22 L Ed 2d 176 (1969); People v Larry Smith, 106 Mich App 203; 307 NW2d 441 (1981), lv den 422 Mich 877 (1985) . We conclude that the trial court erred in striking the portion of the affidavit concerning the arrest of Benjamin.
+We next consider whether the decision in Sherbine applies to this case. Sherbine strictly construed MCL 780.653; MSA 28.1259(3), which reads:
+The magistrate’s finding of reasonable or probable cause shall be based upon all the facts related within the affidavit made before him. The affidavit may be based upon reliable information supplied to the complainant from a credible person, named or unnamed, so long as the affidavit contains affirmative allegations that the person spoke with personal knowledge of the matters contained therein.
+From Sherbine it is clear that a warrant obtained solely on the basis of information supplied by an informant must be based on an affidavit which:
+(1) Sets forth facts from which one could conclude that the informant is credible. However, it is settled that information obtained from another police officer is considered credible. People v Mackey, 121 Mich App 748; 329 NW2d 476 (1982);
+(2) The information must be shown to be reliable; and
+(3) The information must be made upon the personal knowledge of the informant.
+However, it is our opinion that this case should be differentiated from Sherbine in that another well-settled rule of law applies in this case. That rule is that a warrant may issue on probable cause if the police have conducted an independent investigation to confirm the accuracy and reliability of the information regardless of the knowledge and reliability of the source. This rule is clearly set forth in both federal and state Supreme Court decisions. Illinois v Gates, 462 US 213; 103 S Ct 2317; 76 L Ed 2d 527 (1983); Draper v United States; 358 US 307; 79 S Ct 329; 3 L Ed 2d 327 (1959); United States v Jensen, 432 F2d 861 (CA 6, 1979); People v Tooks, 403 Mich 568; 271 NW2d 503 (1978); People v Walker, 401 Mich 572; 259 NW2d 1 (1977).
+MCL 780.653; MSA 28.1259(3) applies to those cases where the affidavit discloses reliance solely on information supplied by an informant as was the case in Sherbine. However, if, as here, the details are confirmed by independent investigation by the police, the magistrate may rely on that independent confirmation as well as the details furnished by the informant to find probable cause as the cases cited above hold. People v Larson, 128 Mich App 552; 340 NW2d 324 (1983).
+As to the prosecution’s assertion of the good faith exception enunciated in United States v Leon, supra, it should be noted that Leon was decided on July 5, 1984, and Sherbine was not decided until December 28, 1984. We must conclude that it is the intent of the Michigan Supreme Court that the good faith exception not be applicable to state cases in Michigan.
+Accordingly, we reverse the Recorder’s Court order of suppression and remand for further proceedings in accord with this opinion.
