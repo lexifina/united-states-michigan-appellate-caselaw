@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "160889"
+decided: "1994-11-22"
+citations: ["207 Mich. App. 599"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Michael J. Kelly, P.J., and Cavanagh and M. J. Shamo, JJ."]
+parties: ["PEOPLE v BYRD"]
+source_url: "https://static.case.law/mich-app/207/cases/0599-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1879789
+cites_cases: ["4 ALR2d 835", "432 Mich 157", "432 Mich 32", "438 NW2d 36", "438 NW2d 43", "62 ALR4th 1134"]
+---
+
+# People v. Byrd
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant pleaded guilty to one count of delivery of marijuana, MCL 333.7401(2)(c); MSA 14.15(7401)(2)(c), and was placed on five years’ probation. Before her arraignment, defendant moved to quash the information on the basis of entrapment, alleging that her estranged husband caused her to commit the crime while he was acting as a confidential police agent. The trial court denied the motion, finding that the marital communication privilege prohibited defendant from testifying about what her husband had said to her in confidence regarding the crime. MCL 600.2162; MSA 27A.2162. Defendant entered her plea while reserving her right to appeal the trial court’s denial of the motion to quash. We reverse defendant’s conviction and remand for a new hearing on defendant’s motion to quash the information.
+According to defendant’s motion, her estranged husband called her on the telephone several times, saying that he needed to supply marijuana to another dealer. When she refused, he persisted in calling, saying that he was in danger because he had taken money from another supplier and was unable to deliver the marijuana. He also threatened to harm her, and then cajoled her by saying that he would not contest their divorce and that he would return property that belonged to her. Defendant finally relented and sold marijuana to an undercover officer, who was sent by her husband in his place. Consistent with what defendant’s husband had said to defendant, the officer said that her husband had "ripped him off” on several drug deals.
+Defendant further alleged that her husband kept calling until she, once again, relented and sold marijuana to the officer. After the second sale, the officer contacted defendant numerous times to arrange another transaction, but defendant refused.
+These events occurred at the end of July and the beginning of August 1992. The motion to quash pointed out that defendant’s husband had been charged with a controlled substance violation on July 10, 1992, and alleged that he was under pressure to provide law enforcement with a dealer. The charge was dismissed in August 1992.
+At the entrapment hearing, defendant’s husband invoked the marital communication privilege through the prosecutor, who argued that the content of the conversations between defendant and her husband constituted confidential communications that could not be admitted into evidence through defendant’s testimony. The trial court agreed. Because defendant could not present an account of those conversations to bolster her claim of entrapment, the trial court denied her motion to quash the information.
+We believe the trial court’s decision to exclude the testimony regarding the conversations was erroneous. At issue is the marital communication privilege, which "bars one spouse from testifying 'as to any communications made by one to the other during the marriage’ without the consent of the other.” People v Vermeulen, 432 Mich 32, 35; 438 NW2d 36 (1989), quoting MCL 600.2162; MSA 27A.2162. While the trial court correctly noted that there are no exceptions to the marital communication privilege, it ignored the requirement that the communication be confidential. Id. at 39. The nature and circumstances of the communication may be considered in determining whether a communication is confidential. Id. However, the nature or status of the marital relationship is not a consideration. Id. A party may rebut a claim of confidential communication by showing, among other things, that the communication concerned " 'business matters transacted by one spouse as agent for the other.’ ” People v Hamacher, 432 Mich 157, 166; 438 NW2d 43 (1989), quoting McCormick, Evidence (3d ed), § 80, p 193.
+Defendant alleged that her estranged husband called her repeatedly, pleading and making threats, and thereby induced her to act criminally. Then, the undercover officer came to defendant’s house, posing as the buyer whom the husband feared, and obtained the marijuana pursuant to the husband’s prearrangement. Accepting defendant’s allegations as true, it is reasonable to infer that defendant acted as an agent for her husband.
+Moreover, it is equally reasonable to infer that the conversations between defendant and her husband were not intended by either party to be confidential. The sequence of events leading up to the first sale of marijuana makes it probable that defendant revealed to the officer at least some portions of the conversations with her husband, for example, the fact that she had spoken with her husband, that she knew the officer was coming, and that her husband told her what to arrange. It is even more likely that defendant’s husband revealed portions of the conversation to the officer, because the officer was aware of his role as the buyer whom the husband had repeatedly "ripped off.”
+Because the marital communications in this case were not confidential, the trial court erred in excluding defendant’s testimony on the basis of the marital communication privilege.
+The rule against hearsay is also insufficient to justify exclusion because the statements of defendant’s husband were not introduced to prove the truth of the matters asserted in them. The issue at the hearing on defendant’s motion to quash the information was whether defendant was induced to act criminally by her husband’s statements and whether such inducement constituted entrapment. The truth or falsity of the statements was irrelevant. Accordingly, the statements did not constitute hearsay under MRE 801(c).
+Reversed and remanded for a new hearing on defendant’s motion to quash the indictment.
+Section 2162 also establishes the spousal privilege, which is not at issue here. The spousal privilege bars one spouse from testifying against the other without the other’s consent, with certain exceptions. The barred testimony may concern any matter, whether it occurred within the marriage or without, as long as the parties are still married. Vermeulen, supra at 35, n 3.
