@@ -1,0 +1,45 @@
+---
+court: "Michigan Court of Appeals"
+docket: "3,321"
+decided: "1968-12-24"
+citations: ["15 Mich. App. 248"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["T. Gr. Kavanagh, P. J., and Holbrook, J., concurred."]
+parties: ["MULLALLY v. BEY"]
+source_url: "https://static.case.law/mich-app/15/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2051572
+---
+
+# Mullally v. Bey
+
+## Majority (Beer, J.)
+
+Beer, J.
+This is an appeal from the common pleas court. Defendant, the appellant before us, contracted to- do building repair work for the plaintiff owners. Under the record as presented here, the sole question for our determination is whether or not said contract was expressly conditioned upon satisfactory performance of the repair work in accordance with standards of the Federal Housing Administration.
+The case was thoroughly and well tried in the common pleas court, and we believe the trial judge had ample reason upon the record to conclude the appellant failed to perform. Factually, in this record it appears as a question for decision by the trial court whether or not defendant’s work was satisfactory. The trial court found, and we believe justifiably so, defendant’s work was unsatisfactory and not up to the standards of the Federal Housing Administration. The trial judge’s opinion, which reads as follows, we adopt as our own:
+“This action is entitled John Mullally and ftoseanne Mullally versus Solomon Ameer Bey. The action is one of assumpsit to recover for monies, specifically the sum of $600, paid by the plaintiffs to the defendant pursuant to a contract entered into between the parties on March 19, 1966. The plaintiffs at the time of the execution of this contract were the owners of a home situated at 8231 Wisconsin, Detroit, Michigan. Plaintiffs were desirous of selling their home or their residence and in connection therewith to obtain FHA financing or an FHA mortgage on the property. The Federal Housing Administration issued a conditional commitment with reference to the subject property and the commitment was subject to certain designated repairs to the premises being effected. Specifically, the repairs required by the FHA as a condition to the issuance of an FHA guarantee were: Number 1, replace plaster of wainscot over tab of •west wall of bathroom-, repair leaking of roof over enclosed upper rear sun porch, align south wall of garage and replace garage doors, replace concrete of side drive, repaint all exterior wood and metal work except aluminum siding two coats, including windows and garage, burn and scrape if necessary.
+“The plaintiffs, in response to an advertisement of the defendant, who states that he is a painting-contractor, entered into the subject contract. Thereafter, the contract was amended, however, the amendment of the contract relates solely to the compensation which the defendant was to receive for his work and to extend the period of time for the performance of the work by the defendant. The original contract was for $900; by the amendment to the agreement, however, that was increased.
+“Mr. McGlynn: Tour Honor, it was not increased.
+“The Court: It was not increased?
+“Mr. McGlynn: The mode of payment was the only thing that was changed.
+“The Court: The mode of payment then was modified by the amendment. Thereafter, the defendant undertook to perform the repairs which he agreed to perform in this contract with the plaintiffs and contends that such repairs were fully completed and completed in a workmanlike manner. The plaintiffs, however, contend that it was specifically agreed upon by the parties to the contract that the obligation of the plaintiffs to pay for the work and materials furnished by the defendant was subject to a condition, specifically the approval of the Federal Housing Administration of the work performed by the defendant.
+“On May 10, 1966, Mr. Joseph Tata, a building-inspector for the Federal Housing Administration, inspected the subject premises and specifically the items indicated in the conditional commitment of ■the Federal Housing Administration pertaining- to required repairs. Mr. Tata has testified in this proceeding and testified that he did in fact inspect the repairs and that at least three of the items required by the FHA were not repaired in a satisfactory manner. Consequently, his approval of such repairs was not obtained.
+“The defendant has filed a counterclaim in these proceedings wherein he seeks to recover the balance due upon the original contract between the parties; and, in addition thereto, the sum of $600. The total claim being $900. The defendant’s claim is in the sum of $900 as related by his testimony, however, as related by the ad damnum clause in his counterclaim he seeks $300 plus interest, costs and attorney fees.
+“The foregoing are the facts and circumstances upon which this litigation is based. As has been indicated by the court prior to commencement of this proceeding, in this state individuals are fully competent to enter into any contract, which they wish to enter into and may obligate themselves to perform in any manner; provided the contract is not in violation of any penal laws of the state or in violation of any public policy of the state. A material provision in the agreement between the parties provides as follows: ‘The owners agree to and do herewith advance the sum of $300 to the contractor conditioned upon performance hereunder and agree to pay an additional $600 within 5 days of completion [and] receipt of acceptance by the Federal Housing Administration.’
+“It is the plaintiffs’ position that the defendant agreed to perform the work indicated in the FHA conditional commitment and the agreement; that the plaintiffs agreed to pay the defendant for his work and material but such obligation or promise to pay was specifically conditioned upon such work being-approved by the Federal Housing Administration, which admittedly was not obtained.
+“Mr. Bey, the court in reading this contract, in giving it a reasonable interpretation, although interpretation is the wrong word because it’s not necessary to interpret, it’s just necessary to read the agreement and the obligation of the plaintiffs to pay you for the work and materials that you provided is conditioned upon FHA approval of the work. The work was not approved by the Federal Housing Administration at least three items thereof. It is the court’s conclusion that you have not performed pursuant to your contract and that being the case the condition upon which the plaintiffs would become obligated to pay you for the work done would not occur and thus they are not legally indebted to you under the contract.
+“The agreement in my opinion is one which is not particularly beneficial to you and it may have been unwise for you to enter into such a type of agreement whereby you agreed that you would do work to the satisfaction of a particular governmental agency. The parties are free to execute the agreements that they wish to, as I have indicated in the past, provided they are not illegal or contrary to public policy and this court has no authority to change the terms of a contract simply because the court might feel that it was an unwise contract for any party to enter into. I just do not have that authority nor does any judge in the state have that authority.
+“Mr. McGlynn, apparently one item was satisfactory at least; that’s a very small item, $10 for the plaster. And there’s a $75 claim for hauling the concrete from the driveway; do you have any objection to Mr. Bey receiving credit for those two items.
+“Mr. McGlynn: Not for the plaster, your Honor, as far as the cement hauling is concerned; although it was not mentioned specifically in the original contract at the time Mr. Bey and I spoke about a change in the mode of his payment, the cement had already been hauled away and he discussed it with me.
+“The Court: It’s beyond the terms of the contract, however, and it was not expressly provided for; it seems a legitimate item not contemplated by the parties at the time but the work was done or at least the defendant caused it to be done and he incurred a liability therefor and the work was beneficial to the plaintiff.
+“The court is going to enter judgment insofar as damages in the sum of $515 that allows you a credit for the plaster work that was approved and the hauling. Bight dollars service and filing fee, $3 court reporter fee, $15 attorney fee.
+“Mr. McGlynn: We had a witness fee, your Honor.
+“The Court: What was your witness fee?
+“Mr. McGlynn: The witness fee was $2.60, including mileage.
+“The Court: All right, judgment will be entered; $515 damages, $8 service and filing fee, $3 reporter fee, $15 attorney fee, $2.60 witness fee.”
+Nothing else in this appeal merits our discussion or consideration.
+Affirmed, with costs to the appellees. ' .
+T. Gr. Kavanagh, P. J., and Holbrook, J., concurred.
