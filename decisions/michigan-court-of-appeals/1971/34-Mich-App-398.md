@@ -1,0 +1,47 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9765"
+decided: "1971-06-23"
+citations: ["34 Mich. App. 398"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J., and V. J. Brennan and Danhoe, JJ.", "Y. J. Brennan, J., concurred."]
+parties: ["RAFFIN v. O’LEARY"]
+source_url: "https://static.case.law/mich-app/34/cases/0398-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2094389
+cites_cases: ["301 Mich 43", "334 Mich 311", "352 Mich 604", "368 Mich 108", "369 Mich 252", "369 Mich 47", "374 Mich 155", "385 Mich 789"]
+---
+
+# Raffin v. O'Leary
+
+## Majority (Lesinski, C. J.)
+
+Lesinski, C. J.
+On November 17, 1967, plaintiffs and defendant were involved in an automobile accident in the City of Detroit. Plaintiffs were in the southbound left turn lane on Livernois Avenue near Otis Street waiting for traffic to clear in order to execute the turn. Defendant’s automobile was traveling in a northerly direction on Livernois when an unidentified vehicle allegedly crossed into defendant’s lane and purportedly caused defendant to cross the center line on Livernois and to crash into plaintiffs’ car.
+At trial, defendant’s theory was that the unidentified automobile’s abrupt lane-change created an emergency which defendant sought to avoid. This would be, of course, a proper theory to submit to the jury if substantiated by competent evidence. However, we are of the opinion that defense counsel transgressed the permissible boundaries of argument to the jury by his statements that plaintiffs’ recovery should be against the Motor Vehicle Accident Claims Fund and not against defendant inasmuch as the negligence of the “phantom driver” was responsible for the accident.
+While it is true that the fund is not an insurer within the meaning of MCLA § 500.3030 (Stat Ann 1957 Bev § 24.13030), which forbids any reference whatever to insurance, the fund is nevertheless an indemnity against which plaintiffs may have elected to proceed. The statements of defense counsel were veiled attempts to put information of an available “deep pocket” before the jury. We recognize that reference to the fund, where the Secretary of State has been joined or added or has intervened, is without prejudice since the jury is aware of the fund by the presence of the Secretary. But in a case such as the instant one where the Secretary is not a party, there is little probative value in drawing the jury’s attention to the fund and there is a great likelihood of prejudice in that the jury may ignore a valid cause of action against a defendant in favor of the “deep pocket” of the fund. Beversal on this issue renders unnecessary discussion of plaintiffs’ other assignments of error.
+We remand for a new trial. Reversed and remanded. Costs to plaintiffs.
+Y. J. Brennan, J., concurred.
+In his opening statement, defense counsel asserted the following which was objected to by plaintiffs by way of a motion for mistrial:
+“I think you will find, ladies and gentlemen of the jury, from the proofs that are adduced in this ease, number one, that Mr. O’Leary was not at fault for this accident and that, in fact, the plaintiffs in this case have a good claim against the state accident fund who would provide them compensation because of a phantom driver that was involved and actually caused this accident. I think the proofs will convince you that the Raffin ease is not against Mr. O’Leary, but against the state accident fund.”
+In his closing arguments (somewhat in answer to plaintiffs’ counsel’s exposition of reasons as to why the Secretary of State had not been added as a party), defense counsel stated:
+“As far as the Secretary of State, I mention to you that if these people really had a claim they had a lawful right to bring a claim against the Secretary of State accident fund. They have not chosen to do so. Why? That is only in Mr. Gonek’s mind. He is representing them, I can’t answer that. I can tell you this, though, I can’t bring in the Secretary of State because under the law I don’t have any claim against them. Only somebody who claims to have been hurt, or their property damages, has a right to make a claim against the Secretary of State. It is as simple as that. I don’t make any claim against the Secretary of State. I can’t. I can’t bring them into the lawsuit — that’s the law. Only Mr. Gonek can. And certainly, the Secretary of State is not going to voluntarily get themselves involved in a lawsuit. Anybody would be silly to volunteer as a defendant in a lawsuit. And that’s as simple as that.”
+This statute was adopted as a rule of trial practice in Benmark v. Steffen (1965), 374 Mich 155.
+Our Supreme Court has expressed disapproval of the practice of referring to social security benefits and workmen’s compensation in wrongful death actions. McCullogh v. Ward Trucking Co. (1962), 368 Mich 108 (equally divided court); Leitelt Iron Works, for the use and benefit of Michigan Mutual Liability Co. v. DeVries (1963), 369 Mich 47, 57 (disapproval of the practice but noting that the error was first injected by plaintiffs’ counsel).
+
+## Dissent (Danhof, J.)
+
+Danhof, J.
+(dissenting). I dissent and for the reasons hereinafter stated I would affirm the judgment of the trial court.
+This action arose out of an automobile accident in which defendant’s automobile struck plaintiffs’ automobile. A jury trial was held and the plaintiffs are appealing a judgment entered upon the jury’s finding of no cause for action. On appeal the plaintiffs have raised two issues. First, the refusal of the trial judge to charge the jury as requested by plaintiffs’ counsel. Second, allegedly improper remarks by defendant’s counsel injecting the issue of insurance into the case.
+The plaintiffs contend that the trial court erred in refusing to instruct the jury in conformity with the following requests which were made orally after the jury had been instructed:
+“Mr. Goneh: I would like to see the court give a charge on duo-proximate cause or multiple proximate cause since there is an issue of whether or not the car could be co-responsible.
+“I would like the court to give a charge on speed, on the road, weather and traffic conditions.”
+The plaintiffs do not question the correctness of the charge as given and their requests for instructions were not timely, not in writing, and not specific. OCR 1963, 516.1 provides that requested instructions shall he submitted in writing at or before the close of the evidence. In this case the plaintiffs could have complied with the rule, hut instead relied on a belated oral request.
+Orderly trial procedure demands that whenever possible things he done at the proper time. The trial judge is entitled to the opportunity to examine the requested charge. The opposing party also has this right. A party does not have the right to delay a request to charge in the hope that the jury will give it undue weight because it has been called to its attention in a supplemental instruction. In view of these considerations it is not surprising that appellate courts have been loath to reverse a judgment because of a refusal to grant a belated oral request to instruct. Peden v. Carpenter (1958), 352 Mich 604; Corpron v. Skiprick (1952), 334 Mich 311; Nezworski v. Mazanec (1942), 301 Mich 43.
+The plaintiffs’ contention that counsel for the defendant improperly argued the question of insurance is also without merit. This claim is based on the fact that counsel for the defendant argued that the plaintiffs should have brought this action against the state accident fund and that he referred to his client as a simple, hard-working individual who was concerned about the outcome of the case.
+Defense counsel contended that the plaintiffs should have brought their action against the accident fund as a part of his contention that the real cause of the accident- was a third automobile whose driver could not he located. Under the statute in force at the time of trial, MCLA § 257.1113 (Stat Ann 1968 Rev § 9.2813), the plaintiffs could have brought an action against the accident fund based on the negligence of the driver of the third car. Defense counsel’s remarks were a part of his contention that the third car was responsible for the accident and were not an improper reference to insurance. The extension of MCLA § 500.3030 (Stat Ann 1957 Eev § 24.13030) to the comments of plaintiffs’ counsel concerning the state accident fund are to my thinking unwarranted. The rationale behind this statute has in recent years been greatly impaired, and to extend it to the state accident claims fund perpetuates a fiction which by today’s standards needs re-examination.
+Counsel for the plaintiffs made much of the fact that the defendant had paid for the damage done to the plaintiffs’ car and then had changed lawyers and denied liability. In replying to this attack on the defendant’s credibility, counsel for the defendant referred to his client as a simple, hard-working individual who had followed poor legal advice in paying for the damage of the car. Counsel for the plaintiffs was entitled to attack the defendant’s credibility and defendant’s counsel was entitled to defend his client.
+Defense counsel’s statement that the outcome of the case was as important to his client as it was to the plaintiffs was not improper. Herman v. Ploszcsanski (1963), 369 Mich 252.
