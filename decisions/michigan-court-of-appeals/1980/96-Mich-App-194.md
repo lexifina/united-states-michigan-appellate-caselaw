@@ -1,0 +1,66 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-3843"
+decided: "1980-03-17"
+citations: ["96 Mich. App. 194"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P.J., and . Bronson and R. M. Maher, JJ.", "T. M. Burns, P.J., concurred."]
+parties: ["ANDERSON v GREAT LAKES DREDGE AND DOCK COMPANY"]
+source_url: "https://static.case.law/mich-app/96/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2203384
+cites_cases: ["185 NW2d 348", "207 NW2d 393", "330 US 501", "355 Mich 382", "384 Mich 468", "389 Mich 382", "59 ALR3d 127", "94 NW2d 810"]
+---
+
+# Anderson v. Great Lakes Dredge & Dock Co.
+
+## Majority (Bronson, J.)
+
+Bronson, J.
+Defendant appeals by leave granted the order of the trial court denying defendant’s motion that the court decline to exercise its jurisdiction based on the principle of forum non conveniens.
+I.
+Plaintiff was injured while employed by defendant and working either on the dredge Alaska or on a spill barge that was part of the Alaska’s operation. It is alleged that while plaintiff was handling a piece of frayed cable, one or more strands of the cable passed through his shoe and pierced his little toe. An infection resulted and the affected limb was partially amputated. Plaintiff brought suit in Wayne County Circuit Court alleging a cause of action for negligence and for breach of the warranty to provide a reasonably seaworthy vessel under general maritime law and the Jones Act.
+Plaintiff resided in Jacksonville, Florida, and defendant is a New Jersey corporation with its headquarters and principal place of business in Chicago, Illinois. Defendant has offices and conducts operations in various places both in the United States and abroad. Defendant has a resident agent in Michigan, has conducted operations here in the past, and presently has a contract to dredge portions of the Saginaw River. The other crew members of the Alaska at the time of the accident are reported by defendant to reside in North Carolina, Georgia, and Puerto Rico, with the majority in Florida, although plaintiff points out that given the transitory nature of seamen’s employment these potential witnesses may now be located elsewhere. Plaintiff has been treated by physicians in both Florida and Michigan, and expert medical testimony will be drawn from both states. The Alaska is apparently in Georgia at present.
+II.
+Defendant first argues that the trial court erred in applying the wrong standard when ruling on the motion. Specifically, defendant’s contention is that in deciding the motion the trial court applied a "hardship” standard, and retained jurisdiction because defendant had not made a sufficient showing of hardship. Defendant argues that this was improper because hardship is not one of the factors set out in Cray v General Motors Corp, 389 Mich 382; 207 NW2d 393; 59 ALR3d 127 (1973).
+In Cray, supra, the Supreme Court formally adopted the principle of forum non conveniens. After analyzing several cases from other jurisdictions, the Court deduced several important characteristics concerning the principle and, in setting out these characteristics, delineated the proper scope of the doctrine’s application in Michigan. Presupposing that alternative forums are available, the principle of forum non conveniens was said to establish the right of a court to "resist imposition upon its jurisdiction although such jurisdiction could properly be invoked”. Cray, supra, 395. Application of the doctrine was placed in the sound discretion of the trial courts, which were charged to consider the plaintiffs choice of forum and to "weigh carefully the relative advantages and disadvantages of jurisdiction and the ease of and obstacles to a fair trial in this state”. Cray, supra, 396. The trial courts were said to have discretion to decline jurisdiction "in such cases as the convenience of the parties and the ends of justice dictate”. Id.
+To aid trial courts in the exercise of this discretion, the Court suggested factors to be considered that were drawn from the cases previously analyzed:
+"1. The private interest of the litigant.
+"a. Availability of compulsory process for attendance of unwilling and the cost of obtaining attendance of willing witnesses;
+"b. Ease of access to sources of proof;
+"c. Distance from the situs of the accident or incident which gave rise to the litigation;
+"d. Enforcibility [sic] of any judgment obtained;
+"e. Possible harrassment [sic] of either party;
+"f. Other practical problems which contribute to the ease, expense and expedition of the trial;
+"g. Possibility of viewing the premises.
+"2. Matters of public interest.
+"a. Administrative difficulties which may arise in an area which may not be present in the area of origin;
+"b. Consideration of the state law which must govern the case;
+"c. People who are concerned by the proceeding.
+"3. Reasonable promptness in raising the plea of forum non conveniens.” Cray, supra, 396.
+While suggesting these factors, however, the Supreme Court was not foreclosing the possibility of examining other factors that might be relevant in a particular case. Its intent was not to set out hard and fast rules, but rather to suggest a framework in which a decision could be made on the basis of the underlying purpose of the principle.
+" 'Wisely it has not been attempted 'to catalogue the circumstances which will justify or require either grant or denial of remedy. The doctrine leaves 'much to the discretion of the court to which the plaintiff resorts, and experience has not shown a judicial tendency to renounce one’s own jurisdiction so strong as to result in many abuses.’ ” Cray, supra, 395, quoting Gulf Oil Corp v Gilbert, 330 US 501, 508; 67 S Ct 839; 91 L Ed 1055 (1947).
+The trial court in the instant case recognized the criteria established in Cray and listened to the arguments of counsel concerning how those factors militated for and against retention of jurisdiction. In rendering its opinion, the trial court noted that it was persuaded by the arguments of plaintiffs counsel and that jurisdiction ought to be retained. Reference was also made to the point that seamen are traditionally favored in their choice of forum. In all of this we find no abuse of discretion. The trial court recognized its discretion and in exercising it considered the Cray factors. To the extent that the trial court’s opinion can be read as involving factors other than those set out in Cray, we note only that Cray does not foreclose the consideration of additional factors. Similarly, the trial court’s conclusion that on balance the factors did not point to a sufficient "hardship” to defendant to upset plaintiffs choice of forum was not an abuse of discretion. The Supreme Court in Cray did not use any specific word to characterize the outcome of the balance of the competing factors. It instead used phrases such as "advantages and disadvantages of jurisdiction”, "ease of and obstacles to a fair trial”, and "convenience of the parties and the ends of justice”, Cray, supra, 396. The trial court’s use of the term "hardship” simply reflects its means of expressing that the balance of factors weighed on the side of retaining jurisdiction, and in our opinion the use of the term was not sufficiently distinct from the phrases used by the Supreme Court to warrant a finding that the trial court abused its discretion. In this regard, 1 Restatement Conflicts, 2d, § 84, p 251, quoted by the Cray Court, provides that a state will not exercise its jurisdiction if it is a "seriously inconvenient” forum for trial. For the purposes of a forum non conveniens motion we see little difference between a defendant having to demonstrate "serious inconvenience” and "hardship”.
+III.
+Defendant next argues that in balancing the Cray factors the trial court abused its discretion in determining that jurisdiction should be retained.
+The decision on whether to decline jurisdiction is in the discretion of the trial court, and that decision will not be overturned on appeal absent an abuse of discretion. Cray, supra, 395-397. In order to be an abuse of discretion, " 'the result must be so palpably and grossly violative of fact and logic that it evidences not the exercise of will but perversity of will, not the exercise of judgment but defiance thereof, not the exercise of reason but rather of passion or bias’ ”. Wendel v Swanberg, 384 Mich 468, 475-476; 185 NW2d 348 (1971), quoting from Spalding v Spalding, 355 Mich 382, 384-385; 94 NW2d 810 (1959).
+In the instant case the trial court recognized and exercised its discretion. Both parties argued vigorously on each of the Cray factors, and each put forth good arguments. They have done so again on appeal. But, after a careful review of the record and briefs on appeal, we cannot say that the trial court abused its discretion in denying the motion and retaining jurisdiction. A review of the arguments brings to focus one particular point that is also reflected in the trial court’s opinion, While Wayne County might not at first appear to be the best of all possible forums from plaintiff’s standpoint, the fact remains that plaintiff has chosen his forum and the record reflects legitimate reasons for his doing so. In applying forum non conveniens, some amount of deference is due plaintiff in the choice of the forum, and the critical factors concerning the private interest of the litigants involve how this choice affects the defendant. See 1 Barron & Holtzoff, Federal Practice and Procedure, § 87 pp 442, 443. In the instant case, the factors point to no one forum that is so obviously better than the others that we can say the trial court abused its discretion in refusing to upset plaintiff’s choice of forum. While the defendant has offices in Florida, it also has offices in many other locations. Its principal place of business is Chicago, which is closer to Detroit than to Florida, and it is organized under the laws of New Jersey. Defendant reports that many of the potential witnesses reside in Florida, but others are reported to reside in North Carolina, Georgia, and Puerto Rico, and as the defendant notes, the nature of these witnesses’ employment may result in their residing in places other than Florida at the time of trial. The Alaska itself is no longer in Florida, but ip Georgia. While some of the witpesses who treated the plaintiff reside in Florida, others are in Michigan. The fact that defendant may wish to have this coptroversy tried somewhere other than Michigan does not mean that the trial court is compelled to decline jurisdiction and, based on all the facts and circumstances in this case, we find no abuse of discretion in the decision to retain jurisdiction.
+IV.
+Having found no abuse of discretion, the order of the trial court is affirmed, and the cause is remanded for further proceedings.
+Affirmed.
+T. M. Burns, P.J., concurred.
+46 USC 688.
+At one point the trial court referred to "a showing of extreme hardship”. (Emphasis added.)
+This is so regardless of whether the plaintiff is a seaman. See particularly the commentary at 1 Restatement Conflicts, 2d, § 84, Comment (c), p 251 (cited in Cray, supra, 394-395, fn 2), which notes that one of the most important rules is that "since it is for the plaintiff to choose the place of suit, his choice of a forum should not be disturbed except for weighty reasons”.
+We note also that the decision on a forum non conveniens motion impacts heavily on the trial court itself. Considerations of the status of the docket and other administrative difficulties are peculiarly within the consciousness of the trial court. Accordingly, in reviewing an exercise of discretion that resulted in the retention of jurisdiction deference to that exercise is warranted.
+
+## Dissent (R. M. Maher, J.)
+
+R. M. Maher, J.
+(dissenting). I respectfully dissent from the majority’s conclusion that a trial court must find "hardship”, or even "extreme hardship”, before choosing to decline jurisdiction based on the principle of forum non conveniens.
+The factors which were enumerated in Cray v General Motors Corp, 389 Mich 382; 207 NW2d 393; 59 ALR3d 127 (1973), have to do with the ease, expense, and expedition of the trial. These factors amount to a showing of hardship, so no additional factor of hardship need be considered. It is anomalous to conclude that the movant has satisfactorily demonstrated all of the Cray factors, but cannot prevail unless it makes an independent showing of "hardship”.
+In the instant case, the trial judge made careful findings of fact on each of the factors enumerated in Cray, supra, and said that defendant had made an adequate showing of expense and inconvenience to witnesses. His only reason for denying defendant’s motion was the following:
+"* * * [B]ecause removal should only be where there is a showing of extreme hardship on the part of the defendant — and I am making that declaration so you can test if — and that for the convenience of the parties and the cause it would be. more proper to have the case heard in another jurisdiction.”
+It seems to me that this conclusion was contrary to the policy which was announced in Cray, supra. I would therefore reverse.
