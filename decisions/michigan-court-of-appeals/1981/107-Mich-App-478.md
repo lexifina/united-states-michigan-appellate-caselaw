@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "50775"
+decided: "1981-06-19"
+citations: ["107 Mich. App. 478"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: V. J. Brennan, P.J., and Bronson and Bashara, JJ."]
+parties: ["PEOPLE v GRATTON"]
+source_url: "https://static.case.law/mich-app/107/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2219409
+cites_cases: ["141 NW2d 320", "2 Mich App 623", "217 NW2d 22", "225 NW2d 733", "275 NW2d 253", "275 NW2d 482", "278 NW2d 715", "282 NW2d 227", "282 NW2d 269", "284 NW2d 501", "287 NW2d 216", "288 NW2d 670", "290 NW2d 39", "294 NW2d 827", "296 NW2d 268", "296 NW2d 631", "298 NW2d 421", "39 ALR3d 852", "391 Mich 323", "4 L Ed 2d 2128", "405 Mich 544", "405 Mich 550", "406 Mich 996", "409 Mich 364", "409 Mich 854", "409 Mich 857", "409 Mich 942", "57 Mich App 289", "88 Mich App 672", "90 Mich App 159", "90 Mich App 20", "92 Mich App 100", "93 Mich App 308", "94 Mich App 461", "94 Mich App 626", "98 Mich App 421", "98 Mich App 685"]
+---
+
+# People v. Gratton
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted by a jury of first-degree criminal sexual conduct, MCL 750.520b; MSA 28.788(2). He was sentenced to a term of from 20 to 30 years in prison. Defendant appeals as of right.
+On appeal, defendant raises three issues which we address seriatim.
+First, defendant contends that the trial court committed error requiring reversal when he cleared the courtroom of spectators during the testimony of the victim, an eight-year-old female. We disagree. The exclusion occurred while the prosecutor was attempting to establish, by the child’s testimony, the details of the illicit sexual intercourse. Understandably, the child was nervous, reticent, and lacked the requisite verbal skills to correctly articulate the names of various anatomical organs and acts. The defendant raised no objection to the trial court’s decision, rather he limited his request to the victim’s mother’s being allowed to remain in the courtroom.
+The right to complain about an order of exclusion may be waived either expressly or by an accused’s failure to object. People v Sylvester Smith, 90 Mich App 20, 23; 282 NW2d 227 (1979), lv den 406 Mich 996 (1979). Moreover, we are convinced that spectator exclusion for the limited purpose and limited duration found in the instant case falls within the ambits of extraordinary circumstances recognized in both Detroit Free Press v Macomb Circuit Judge, 405 Mich 544; 275 NW2d 482 (1979), and Detroit Free Press v Recorder’s Court Judge, 409 Mich 364; 294 NW2d 827 (1980).
+The second issue on appeal is whether the trial court abused its discretion by questioning the eight-year-old victim-witness. Defendant, again, failed to raise timely objection and, hence, absent manifest injustice, the issue need not be considered on appeal. People v Stinson, 88 Mich App 672; 278 NW2d 715 (1979). However, considering the issue on its merits, there was no error. A trial court may question witnesses in order to shed light on something unclear in the testimony or to elicit additional relevant information. People v Gray, 57 Mich App 289; 225 NW2d 733 (1975), People v Ray, 2 Mich App 623; 141 NW2d 320 (1966). Moreover, we do not interpret the trial court’s solicitude toward the child as being evidence of any judicial partiality. Any plausible detriment to the defendant’s case was amply rectified by the trial judge’s extensive instructions to the jury that he, at no time, intended to convey his own impression of the merits of the case.
+Lastly, defendant asserts error in the trial court’s conditional ruling pertaining to impeachment by an unspecified felony. In the instant case, defendant previously had been convicted for criminal sexual conduct involving a minor. Defendant initially raised the issue by a motion to suppress evidence of the conviction if he later chose to testify. The record clearly reveals that the trial court carefully considered and balanced the countervailing factors to be considered in making such a determination. The trial court expressed acute awareness that the similarity of the offense might prevent the defendant from testifying in his own behalf. However, and dispositive, the court and both attorneys acknowledged that the motion was premature, the ruling was not conclusive, and defense counsel, sua sponte, stated that he would raise it again. He failed to renew the motion and now cannot predicate error on the conditional ruling. People v Taylor, 98 Mich App 685, 689; 296 NW2d 631 (1980).
+Relatedly, the similarity of the offense did not automatically preclude its admissibility for impeachment purposes. It is only one factor to be considered. People v Baldwin, 405 Mich 550; 275 NW2d 253 (1979), People v Jackson, 391 Mich 323; 217 NW2d 22 (1974). The trial court’s statement that it would allow impeachment by the specified criminal sexual conduct conviction should defendant offer testimony as to his "virtuous” behavior with children is an indication that, at this point, the trial court deemed that the probative value of admitting the evidence on the issue of credibility would outweigh its prejudicial effect. People v Jones, 98 Mich App 421; 296 NW2d 268 (1980).
+However, assuming arguendo that there was any error as to the admissibility of the prior felony conviction, it was harmless. People v Moseley, 94 Mich App 461, 465; 290 NW2d 39 (1979), People v Stein, 90 Mich App 159; 282 NW2d 269 (1979). We cannot envision a single juror voting to acquit even if this alleged error had not occurred.
+Affirmed.
+
+## Concurrence (Bronson, J.)
+
+Bronson, J.
+(concurring). I write separately because I disagree with the majority’s analysis concerning the trial court’s ruling pertaining to impeachment by evidence of an unspecified felony. In my opinion, it is now settled that to allow impeachment via evidence of an unspecified felony is improper. People v Jones, 92 Mich App 100, 113; 284 NW2d 501 (1979), People v Garth, 93 Mich App 308, 317-319; 287 NW2d 216 (1979), lv den 409 Mich 854 (1980), People v Vincent, 94 Mich App 626, 633-634; 288 NW2d 670 (1980), lv den 409 Mich 857 (1980), People v Van Dorsten, 409 Mich 942; 298 NW2d 421 (1980). As the Michigan Supreme Court said in Van Dorsten, "It is the nature, rather than the fact, of a prior felony conviction which the jury is to use in its evaluation of credibility.” Id.
+Additionally, it appears that the trial court’s ruling concerning the circumstances under which the specifics of the prior felony conviction would be admitted constituted a weighing of similarity in favor of admissibility. This is contrary to People v Baldwin, 405 Mich 550; 275 NW2d 253 (1979), and People v Jackson, 391 Mich 323; 217 NW2d 22 (1974). If the defendant presented testimony showing his "virtuous” behavior, the trial court was prepared to admit evidence of the prior, specified criminal sexual conduct conviction. In other words, the trial court really was not admitting the prior conviction to attack credibility at all. Rather, the trial court would allow evidence of the specified conviction to come in to show the unvirtuous character of defendant. This rationale is specifically prohibited by MRE 404(b).
+I vote to affirm solely because I am convinced that the error was harmless.
