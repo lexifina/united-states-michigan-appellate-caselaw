@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "125275"
+decided: "1992-04-07"
+citations: ["193 Mich. App. 565"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Neff, P.J., and Gkibbs and Murphy, JJ."]
+parties: ["FELSNER v MCDONALD RENT-A-CAR, INC"]
+source_url: "https://static.case.law/mich-app/193/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2322653
+cites_cases: ["125 Mich App 612", "131 Mich App 839", "141 Mich App 199", "142 Mich App 615", "148 Mich App 564", "170 Mich App 280", "171 Mich App 748", "182 Mich App 754", "190 Mich App 540", "244 NW2d 98", "256 NW 495", "268 Mich 492", "337 NW2d 20", "346 NW2d 599", "366 NW2d 249", "370 NW2d 312", "384 NW2d 823", "397 Mich 105", "424 NW2d 478", "427 NW2d 616", "430 Mich 473", "431 NW2d 441", "452 NW2d 908", "476 NW2d 461"]
+---
+
+# Felsner v. McDonald Rent-A-Car, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant Spinners Performing Arts, Inc., appeals by leave granted from an order of the circuit court denying its motion for reconsideration of the denial of its motion for summary disposition. We reverse.
+This action arose from a traffic accident in which plaintiff, while riding a motorcycle, struck a van driven by Gregory Ferrebee. At the time of the accident, Ferrebee was employed as a valet by defendant Spinners Performing Arts, Inc., a corporation formed by the singing group known as the Spinners. The van was owned by McDonald Rent-A-Car, Inc., and was used by Ferrebee to transport costumes for defendant.
+Plaintiff filed suit against Ferrebee and McDonald Rent-A-Car and evéntually added defendant, alleging that defendant is liable on a theory of respondeat superior for the negligence of Ferrebee. The amended complaint does not allege any acts of independent negligence against defendant.
+Plaintiff’s claims against Ferrebee and McDonald Rent-A-Car were mediated. Defendant was not a party to the mediation. The mediation panel evaluated plaintiff’s claim against Ferrebee and McDonald at $130,000. The three parties accepted the evaluation, and judgment was entered pursuant to the evaluation. The judgment was paid, and plaintiff executed a satisfaction of judgment in favor of Ferrebee and McDonald.
+Defendant moved for summary disposition on the ground that plaintiff’s release of Ferrebee also discharged defendant. The circuit court denied defendant’s motions for summary disposition and for reconsideration.
+Defendant contends that plaintiff’s acceptance of the mediation evaluation with regard to Ferrebee also released it because it was sued only on a theory of vicarious liability for Ferrebee’s negligence. At common law, all joint tortfeasors were released when one of the joint tortfeasors was released. Slater v Ianni Construction Co, 268 Mich 492, 494; 256 NW 495 (1934); Willis v Total Health Care of Detroit, 125 Mich App 612, 617; 337 NW2d 20 (1983). Pursuant to MCL 600.2925d; MSA 27A.2925(4), however, the release of one joint tortfeasor no longer releases the other joint tortfeasors. Willis, supra, 617. That section provides, in pertinent part:
+When a release or a covenant not to sue or not . to enforce judgment is given in good faith to 1 of 2 or more persons liable in tort for the same injury or the same wrongful death:
+(a) It does not discharge any of the other tortfeasors from liability for the injury or wrongful death unless its terms so provide. [MCL 600.2925d; MSA 27A.2925(4).]
+A principal sued solely on the theory of vicarious liability for the negligence of its agent under the doctrine of respondeat superior, however, is not a joint tortfeasor. Theophelis v Lansing General Hosp, 430 Mich 473, 483; 424 NW2d 478 (1988); Willis, supra, 617. The release of the agent from liability therefore discharges the principal from vicarious liability. Theophelis, supra, 491; Lincoln v Gupta, 142 Mich App 615, 621-622; 370 NW2d 312 (1985).
+Plaintiff contends that the common-law rule that release of the agent discharges the principal from vicarious liability was abrogated by MCL 600.2925d; MSA 27A.2925(4). Our Supreme Court in Theophelis, however, addressed this question at length and concluded that the intent of the Legislature was not to abrogate this common-law rule. Theophelis, supra, 485-491.
+In Theophelis, the plaintiffs sued a hospital and several medical personnel, alleging that the hospital was vicariously liable for the negligence of the staff and also alleging independent acts of negligence by the hospital. The plaintiffs settled with two of the individual defendants for whom the hospital was allegedly vicariously liable. The trial court, however, refused to strike the allegations regarding the hospital’s vicarious liability for those defendants.
+The jury returned a verdict of $1 million against the hospital and verdicts of no cause of action against the remaining defendants. This Court affirmed on appeal, 141 Mich App 199; 366 NW2d 249 (1985), but reversed on rehearing, 148 Mich App 564; 384 NW2d 823 (1986), holding that the release of the two individual defendants discharged the hospital from any vicarious liability with regard to those defendants. On appeal by leave granted, our Supreme Court held that MCL 600.2925d; MSA 27A.2925(4) did not abrogate the common-law rule that the release of an agent releases the principal from vicarious liability for the acts of that agent. Theophelis, supra, 480-491.
+We disagree with plaintiffs contention that Theophelis is not a majority opinion and is therefore not a binding determination of this question. Stare decisis dictates that a decision of a majority of the justices of our Supreme Court is binding upon lower courts. Rohlman v Hawkeye Security Ins Co, 190 Mich App 540, 549; 476 NW2d 461 (1991). A decision of four or more of our Supreme Court justices on a specific point of law is binding upon this Court with regard to that point of law. See Negri v Slotkin, 397 Mich 105, 109; 244 NW2d 98 (1976); People v Dauer, 131 Mich App 839, 840-841; 346 NW2d 599 (1984). In Theophelis, Justices Riley, Brickley, and Griffin joined in the lead opinion, while Justice Boyle concurred, disagreeing only with regard to whether remand was necessary to determine whether the documents were releases or covenants not to sue. Because four justices concurred that MCL 600.2925d; MSA 27A.2925(4) does not abrogate the common-law rule in question, Theophelis is binding with regard to that point of law.
+Plaintiff also contends that the judgment entered pursuant to the mediation evaluation does not constitute a release, but is, instead, a covenant not to sue. This Court has held that acceptance of a mediation award is the equivalent of a consent judgment, Reddam v Consumer Mortgage Corp, 182 Mich App 754, 756-757; 452 NW2d 908 (1990); Pelshaw v Barnett, 170 Mich App 280, 286; 427 NW2d 616 (1988), and that a consent judgment operates as a release. Rzepka v Michael, 171 Mich App 748, 757; 431 NW2d 441 (1988). The judgment entered pursuant to the mediation award in this case therefore constitutes a release.
+Reversed and remanded for entry of an order dismissing this action with regard to defendant.
