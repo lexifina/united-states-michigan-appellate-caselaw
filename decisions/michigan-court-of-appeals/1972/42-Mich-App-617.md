@@ -1,0 +1,77 @@
+---
+court: "Michigan Court of Appeals"
+docket: "12878"
+decided: "1972-08-30"
+citations: ["42 Mich. App. 617"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, P. J., and Levin and Borradaile, JJ.", "Danhof, P. J., concurred.", "Levin, J., concurred in the result."]
+parties: ["PEOPLE v HERRERA"]
+source_url: "https://static.case.law/mich-app/42/cases/0617-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2118276
+cites_cases: ["117 US App DC 123", "131 ALR 324", "146 US 370", "159 Mich 518", "16 Mich App 198", "19 L Ed 2d 296", "21 Mich App 561", "221 Mich 129", "24 Mich App 411", "26 L Ed 2d 80", "28 Mich App 161", "28 Mich App 517", "28 Mich App 624", "297 Mich 58", "30 Mich App 275", "31 Mich App 416", "315 Mich 626", "326 F2d 666", "350 Mich 497", "36 Mich App 23", "384 Mich 826", "385 Mich 768", "386 Mich 627", "388 Mich 806", "388 US 218", "389 US 942", "397 US 337", "398 US 915", "5 Mich App 717", "59 Mich 550", "6 Mich App 46", "88 S Ct 304", "90 S Ct 1684"]
+---
+
+# People v. Herrera
+
+## Majority (Borradaile, J.)
+
+Borradaile, J.
+After a jury trial in Detroit Recorder’s Court, defendant was found guilty of murder in the perpetration of a robbery contrary to MCLA 750.316, MSA 28.548. He appeals as of right raising questions as to the lineup, the propriety of excluding him, acting in propria persona, from bench conferences, failure to instruct on lesser included offenses and expressions of personal belief by the prosecuting attorney in his closing argument.
+I.
+Defendant argues that his arrest was illegal because made without probable cause. As a result of the arrest, he was put in a lineup which he claims was unfair because he was the only Mexican-American.
+An arrest was made on the basis of information that the suspect was a Mexican or Indian male, 20 to 30 years of age, 5 feet 8 to 5 feet 9, 140 to 150 pounds, black hair and wearing a green coat. An anonymous phone call had also indicated that the suspect’s first name possibly was Johnny, who may have been shot through the right arm, and could be found at either 2239 Cadillac, where the crime occurred, or 1631 Pennsylvania in the City of Detroit.
+The officers arrested the number 2 suspect at the Pennsylvania address and while transporting him to the Homicide Bureau, about a mile from the apartment, the officers saw defendant walking along the street and arrested him. In the evidentiary hearing the officer making the arrest claimed he saw a dried blood spot on the green coat defendant was wearing. The murder occurred on January 23, 1971, and defendant was arrested January 27, 1971.
+Shortly after his arrest defendant was placed in a lineup with counsel present with four other persons. Defendant at the evidentiary hearing said he was the shortest. He also complained that he wanted to move nearer somebody "that looked dark complected, you know, or Latin type you know and the man wouldn’t let me * * * ”. Later, he said there was no other Latin type person in the lineup.
+The court held there was probable cause for the arrest and that the lineup was not so suggestive in its very nature as to deny defendant due process of law.
+Further, on appeal, defendant argues Gatlin v United States, 117 US App DC 123; 326 F2d 666, (1963), to the effect that if the officer did not have probable cause to make the arrest, then all subsequent proceedings are tainted.
+This Court has held in People v Nawrocki, 6 Mich App 46, 53 (1967); cert den 389 US 942; 88 S Ct 304; 19 L Ed 2d 296 (1967):
+"That a defendant’s arrest was without a warrant or was illegal, cannot be considered at the trial, where it was followed by a complaint and warrant on which the defendant was held for trial, or, where the defendant was regularly bound over to the circuit court for trial. Even though an arrest is irregular, the defendant is not thereby given the right to say that he shall not be tried at all.”
+See also People v Cole, 28 Mich App 517 (1970); People v Drummonds, 30 Mich App 275 (1971); People v Gilleylen, 31 Mich App 416, 423 (1971), leave to appeal denied, 385 Mich 768 (1971).
+Defendant argues that the identification at the lineup was a "fruit of a poisonous tree”, stressing that the identification procedures violated the standards of United States v Wade, 388 US 218; 87 S Ct 1926; 18 L Ed 2d 1149 (1967).
+Wade said that an accused was entitled to aid of counsel at the lineup and where the accused did not have counsel present, the government had to establish by clear and convincing evidence that the in-court identification was based upon observation of the suspect other than the lineup identification.
+In the instant case, defendant testified at the evidentiary hearing and admitted that counsel was present. Thus, Wade is not applicable.
+This Court in People v Lloyd, 5 Mich App 717, 724-725 (1967), said:
+"Lineups are conducted in police stations, and the persons who participate in the lineup are taken from those who are being held in custody. It would be unusual indeed if the police had five persons with similar physical characteristics locked up in the same jail. Moreover, the purpose of a lineup is identification. If the defendant is the tallest man in the lineup and he believes that this impairs the validity of the identification, he should see that the jury is apprised of that fact. This is a question of the weight to be given the lineup identification, not its admissibility.”
+The judge, in denying the motion for suppression of the lineup identification, correctly ruled that the question of identification was properly a jury question.
+A faulty identification procedure will not result in forbidding of in-court identification when there is an independent basis for such identification. At the evidentiary hearing the witness who identified defendant as the one who stuck a gun up beside his head, asked for money, then ordered him to the apartment where the fatal shots were fired, said that "I didn’t really notice no one in the lineup but him, that’s all. * * * Yeah, I mean I looked at them coming out on the stage but when I walked out there he was the first one I seen, he’s the one.”
+The witness also testified that he did not find defendant in photographs shown to him before the lineup.
+Defendant, acting in propria persona at his own request, cross-examined the identifying witness closely concerning his ability to identify defendant. The witness testified that he first saw defendant standing outside the glass door of the apartment house when the witness came down the stairs, that hé next saw defendant pacing in the lobby when the witness came out of the apartment where the shooting later occurred, that the light was on and the witness could see his face and that for eight or nine seconds he saw assailant’s face in the room where the incident occurred.
+On redirect examination the witness also said he could remember how the defendant looked the night of the shooting independent of any photographs or lineups or anything else.
+The trial judge carefully covered the issue of identification in his instructions.
+"Now the possibility .of human error or mistake and the probable likeness or similarity of objects and persons are matters that you must always bear in mind in considering testimony as to identity. You should be mindful of any testimony concerning the length of time the identifying witness had for making his observations, the location of the identifying witness with respect to the person who is being identified, the lighting conditions at the time of the claimed identification, whether or not there was excitement and other circumstances which may have aided or impeded a proper observation, and what, if any, special interest the identifying witness had in making or remembering his observation. In short, you must carefully consider all the relevant facts and circumstances surrounding the identification, and you must be satisfied beyond a reasonable doubt as to the accuracy of that identification.”
+We find no error as to identification.
+II
+Defendant was properly permitted to act as his own counsel but the court required his appointed counsel to be available for assistance in legal matters such as objections and arguments. At the beginning of the trial, the trial judge ruled that defendant would not be permitted to approach the bench to participate in off-the-record discussions.
+Defendant claims that this procedure denied him due process of law and denied him the right to effective counsel because he could not defend himself at these conferences. It might be noted that the court permitted discussions between appointed counsel and defendant after such a conference.
+During a prior court appearance the defendant had slashed a police officer in the face and the transcript is replete with contemptuous remarks made by defendant to the court during the trial.
+Though a reading of Lewis v United States, 146 US 370; 13 S Ct 136; 36 L Ed 1011 (1892), and People v Palmer, 28 Mich App 624 (1970), may indicate that a person proceeding in propria persona is denied effective assistance of counsel when he is prevented from participating in rulings made by the court which could adversely affect the proceedings against him, Illinois v Allen, 397 US 337; 90 S Ct 1057; 25 L Ed 2d 353 (1970), reh den, 398 US 915; 90 S Ct 1684; 26 L Ed 2d 80 (1970), indicates that a court may protect against disruptive defendants without denying due process of law.
+It should not be inferred that many at-bench, off-the-record conferences discussing issues of law are proper, but a judge may adopt reasonable rules of procedure to assure orderly trial of a matter where defendant’s conduct indicates he cannot respect proper rules. Such reasonable rules were followed in the instant case.
+Ill
+Defendant specifically indicated at trial that he objected to the jury being charged as to any included offense. The trial judge, however, instructed on the lesser included offense of second degree murder, after the prosecutor requested it.
+Now defendant says that if the court instructs on any included offenses, it must instruct on all included offenses, relying on MCLA 768.32; MSA 28.1055.
+In People v Miller, 28 Mich App 161 (1970), leave to appeal denied 384 Mich 826 (1971), this Court said that a trial court may sua sponte instruct on lesser included offenses. This is true even when defense counsel objects to the charge. People v Milhem, 350 Mich 497 (1957). However, the failure to give instructions on lesser included offenses is not reversible error where such instructions have not been requested. People v Wynn, 386 Mich 627 (1972).
+Because the jury was properly instructed on all the elements of felony-murder and on second-degree murder, this Court cannot find error, the jury evidently having found that all the elements of felony-murder were proven beyond a reasonable doubt. The error, if any, has not been preserved.
+IV
+During his closing argument, the prosecutor made the following statements:
+(1) "Now the man gave the best description that he could at the time, I believe. Here he is sitting there, arm wounded, bullet still inside of his arm, in pain, trying to give information to an officer. And I think he gave it fairly accurately. We can all see for ourselves.”
+(2) "So let’s talk about Mr. Patrick Griffin — what impression did he give you? I think Mr. Griffin gave the impression of a young man who, although he went through high school, there were times that he may have gotten a little mixed up in trying to answer the question. But it seemed to me that he gave you straightforward answers as best that he could, and that on the most important items he has not wavered. He has not wavered at all. * * * .”
+(3) "I think we had a fair lineup here. Everything was done to protect the defendant. It’s a play on words. It’s a play on words that have been used to try to make you think that there was an unfair lineup. That’s one of the reasons why we have an attorney at lineups — to make sure the procedure is regular.”
+(4) " * * * . I believe that we have covered the case thoroughly. I believe that the people have proved each and every element of the crime. * * * .”
+At the conclusion of counsel argument, the trial judge included the following statements among his careful instructions to the jury:
+"But I repeat that you are the sole judges of the questions of fact. You have heard all of the evidence in the case. You have heard the arguments of counsel. You will be mindful of my admonition that the arguments of counsel do not constitute evidence
+* * *
+"Also you are the sole judges of the credibility of the witnesses. It’s for you to determine who has spoken truthfully and who has not spoken truthfully. You have heard the witnesses upon the stand, and you’ve seen them here before you giving their testimony, and it is for you and you alone to say which witness, if any, has testified falsely, and which of those who have testified have testified truthfully.”
+Defendant says that items (1) and (2) above involve prosecutorial opinion on credibility in violation of strictures imposed by People v Ignofo, 315 Mich 626 (1946). He also says that in item (3) the prosecutor went outside the record to inform the jury of the purpose of an attorney at a lineup citing People v Dane, 59 Mich 550 (1886), and People v Williams, 159 Mich 518 (1910). He says a prosecutor should never invite the jury to rely upon his expertise in making their judgment on the facts. People v Humphreys, 24 Mich App 411 (1970); People v Boske, 221 Mich 129 (1922), and People v Slater, 21 Mich App 561 (1970).
+The prosecution relies on People v David Smith, 16 Mich App 198 (1969), and People v Fusion Thomas, 36 Mich App 23 (1971), noting that defendant in this case did not object at trial to the statements questioned on appeal, and further noting that the jury was properly and repeatedly instructed that they were to consider as evidence only testimony from the witness stand. The people also distinguish the Ignofo case and its progeny on the basis that where prosecutorial remarks are statements of fact that should only be made by a witness they constitute error, whereas expressions of opinion based upon the evidence are not error.
+In People v David Smith, supra, this Court said, pp 200-201:
+"In analyzing cases preceding and following Ignofo, we find that both the Supreme Court and this Court have followed the rule that objections not raised during the trial and passed upon by the trial court will not be heard for the first time on appeal unless a miscarriage of justice would result upon appellate court refusal to consider the question.”
+In People v Fusion Thomas, supra, this Court said, p 26:
+"Although the prosecutor did inform the jury of his own belief that Thomas was guilty, he was arguing that the evidence supported this conclusion. * * * This type of argument is akin to that of the prosecutor in People v Bigge (1941), 297 Mich 58, 68. The Michigan Supreme Court there said:
+" 'It is not error for a prosecutor to argue from the testimony that the defendant is guilty and to state what evidence convinces him and should convince them [the jury] of such guilt.’ ”
+We find no reversible error in the questioned prosecutorial remarks.
+Affirmed.
+Danhof, P. J., concurred.
+Levin, J., concurred in the result.
