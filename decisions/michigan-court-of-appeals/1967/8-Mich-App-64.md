@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "2,088"
+decided: "1967-11-08"
+citations: ["8 Mich. App. 64"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McGregob and Quinn, JJ., concurred."]
+parties: ["GOODBODY & COMPANY v. PENJASKA."]
+source_url: "https://static.case.law/mich-app/8/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2062739
+cites_cases: ["220 NYS 2d 1001", "358 F2d 178", "380 Mich 765", "393 US 16", "76 ALR 1517", "76 ALR 1527"]
+---
+
+# Goodbody & Co. v. Penjaska
+
+## Majority (T. G. Kavanagh, P. J.)
+
+T. G. Kavanagh, P. J.
+This is an appeal from a judgment for the plaintiff entered by the Shiawassee county circuit court. The opinion of the trial judge set out the facts and the position of the parties succinctly and lucidly and explains his application of the law with such cogency that we will adopt it as our own, adding only comment on matters peculiar to this appeal.
+“The plaintiff is a copartnership, duly authorized to do business in the State of Michigan. The defendants are residents of Shiawassee county.
+“The plaintiff is a brokerage house, and a member of the New Tork Stock Exchange, and beginning in 1958 the defendants became customers of plaintiff. On February 24, 1959, defendants began to purchase through plaintiff blocks of StudebakerPaekard (when-issued) stock on margin. The last block was purchased January 26, 1960. This was described as a highly speculative stock, and defendants made their own decisions as to the purchases and did not rely upon the advice of the plaintiff. Beginning with February 3, 1960, the account needed margin, but the account was not called. The stock continued to decline in value and on March 8, 1960, the plaintiff called on defendants for $8,500, which defendants did not pay, but asked for further time. Plaintiff maintains that it sent a sell-out order on March 15th for sale on March 18th, but at request of the defendants deferred sale until March 29th, at which time the stock was sold, with a resulting loss to plaintiff in the sum of $4,050.79. Defendants deny that the sale was postponed at their request. The plaintiff seeks to recover the amount of the loss in this action.
+“Defendants maintain that this court is without jurisdiction to hear this case, and base such claim upon the provisions of 15 USCA, § 78aa, which provides in part as follows:
+“ ‘The district courts * * * shall have exclusive jurisdiction of violations of this chapter or the rules and regulations thereunder, and of all suits in equity and actions at law brought to enforce any liability or duty created by this chapter or the rules and regulations thereunder.’
+“Defendants’ position might be correct if the action was brought to enforce any liability or duty created by this chapter or the rules and regulations thereunder. It is not, however, such an action, but is brought to recover a debt claimed to be owed. The defendants did not maintain the margin as agreed, and were sold out after proper demand had been made and the demand ignored. The plaintiff has pleaded no Federal claim under the exchange act. This is a common-law claim not predicated upon any Federal question. See Colonial Realty Corporation v. Bache & Co. (CA 2, 1966), 358 F2d 178. The exchange act does not deprive this cofirt of jurisdiction in the case at bar.
+“The defendants maintain in their counterclaim that they suffered damages because they were not sold out sooner. They claim that because plaintiff violated certain rules of the New York Stock Exchange, it may not recover in this action. In effect, they say because plaintiff did not adhere strictly to the rules of the New York Stock Exchange as to margin, that it may not recover. Admittedly, on March 8, 1960, they asked for further time. Admittedly, they were in the office of plaintiff almost every day, and admittedly they were familiar with the market. At no time did they demand that their stock be sold. Certainly they had as great a duty to protect their account as did the plaintiff.. They did not complain because the plaintiff was lenient. I doubt if complaint would have been made had the price of the stock advanced during the period of leniency. Had the stock not been sold on March 29th, their loss would have been greater. The defendants are confused by the rules promulgated by the securities and exchange, commission and. those promulgated by the New York Stock Exchange. There is a vast difference... Irving Weis & Company v. Offenberger (1961), 220 NYS 2d 1001, is a case exactly on all fours with the case at bar. In this case we find the following language:
+“ ‘It has come to be recognized in recent yeárs that margins in speculative accounts, although chiefly for the broker’s protection as security’ for credit. risks involved in acting for his customer, have a relation to public interest because requirements for large margins are at. least believed to have some effect in checking speculation of a nature and extent deemed contrary to public interest. * * A broker who persistently and intentionally is too indulgent with a customer in respect of margins doubtless will find himself in trouble with public authorities charged with the duty of enforcing such statute and regulation or with the governing body of his exchange charged with the duty of enforcing the rules of such exchange; but it seems to me clear that the mere failure of a broker to enforce strictly and instantly, a margin requirement which the rules of his exchange entitle him to enforce against his customer does not give the customer a cause of action against the broker. The customer is the one who is speculating, not the brokér. The customer has a strong financial incentive to watch market fluctuations, and there is no suggestion that he lacks the facilities for keeping himself advised as to them. It also is easy for the customer to protect himself by giving an order to buy or sell when the market reaches a stated point; and I hence think that the customer is the last person in the world who should be heard to complain that his broker has not been sufficiently exacting and stringent in requiring margin.’
+■ “For the reasons given, the defendants’ counterclaim is denied, and plaintiff may have a judgment in the sum of $4,050.79, plus interest, and may recover costs.”
+We have carefully examined the record. We find the court’s findings of fact to be adequately supported by the evidence. We are satisfied that he correctly' applied the pertinent law. We find no error.
+Affirmed, with costs to appellee.
+McGregob and Quinn, JJ., concurred.
