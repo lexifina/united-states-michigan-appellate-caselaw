@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-3614"
+decided: "1979-06-20"
+citations: ["91 Mich. App. 52"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and J. H. Gillis and N. J. Kaufman, JJ."]
+parties: ["HAMILTON v SUPERIOR MUSHROOM COMPANY"]
+source_url: "https://static.case.law/mich-app/91/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2176140
+cites_cases: ["142 NW2d 877", "243 NW2d 673", "272 NW2d 740", "3 Mich App 478", "68 Mich App 589", "86 Mich App 592"]
+---
+
+# Hamilton v. Superior Mushroom Co.
+
+## Majority (Danhof, C.J.)
+
+Danhof, C.J.
+Plaintiff Robert Hamilton (hereinafter plaintiff) appeals an administrative decision awarding him worker’s compensation benefits as a permanently and totally disabled employee. Appealed is that portion of the hearing referee’s decision granting plaintiff "single” benefits only, rather than "double” benefits pursuant to subsection 161(b) of the Worker’s Disability Compensation Act of 1969, MCL 418.161(b); MSA 17.237(161)(b). The claim against defendant Superior Mushroom Company and its carrier has been redeemed. As to the remaining defendant, Second Injury Fund, the Workmen’s Compensation Appeal Board has affirmed the referee’s award of single benefits. We affirm the appeal board.
+Superior Mushroom Company hired plaintiff’s father, d/b/a Hamilton Electric, to do electrical work on a building project. Plaintiff worked for his father, and was injured while on the Superior Mushroom building project. The accident has left him permanently and totally disabled. At the time of injury plaintiff was a minor under the age of 18, working without a permit. His father did not carry workmen’s compensation insurance.
+On these facts plaintiff claims he is entitled to double compensation from the defendants pursuant to the Hittle Juvenile Employment Act, MCL 409.1 et seq.; MSA 17.701 et seq., and the Worker’s Disability Compensation Act, MCL 418.101 et seq.; MSA 17.237(101) et seq. The Hittle act proscribes the employment of any minor without a permit, MCL 409.3; MSA 17.703, except by the parent of such minor in a trade in which the parent is self-employed or in a business owned and operated by the parent. MCL 409.14; MSA 17.714. Subsection 161(b) of the Worker’s Disability Compensation Act entitles a minor to double recovery for injuries related to an illegal employment. Section 171 of the compensation act provides that an employer (principal) subject to the act who contracts with any other person (contractor) who is not subject to the act or who does not have the requisite compensation coverage is liable to an injured employee of the contractor as "if that workman had been immediately employed by him [principal]”. Plaintiff acknowledges under this statutory scheme his employment was not in fact illegal, since he was immediately employed by his father. However, plaintiff seems to claim that, under § 171 of the Worker’s Disability Compensation Act, a principal’s liability for double compensation does not depend on whether the employment is in fact illegal. From the literal language of § 171, plaintiff reasons, the principal’s liability depends on whether the employment would be illegal if the principal were the immediate employer.
+A majority of the Workmen’s Compensation Appeal Board held the plaintiff is not entitled to double benefits because his employment was in fact legal at the time of the injury. The majority reasoned that plaintiff’s literal application of the statutory language would be contrary to the statutory purposes. We affirm for that same reason.
+Because the language of §§ 171 and 161 is ambiguous as applied to the facts of this case, we must construe the language by reference to the purpose of the statutes and the objects sought to be accomplished. See Royal Oak School Dist v Schulman, 68 Mich App 589; 243 NW2d 673 (1976).
+Section 171 was intended to protect employees of contractors and. subcontractors against their employers’ failure to obtain adequate workmen’s compensation insurance. Davidson v Wayne County Board of Road Comm’rs, 86 Mich App 592; 272 NW2d 740 (1978). That object is accomplished by making the principal liable to pay benefits that the immediate employer otherwise would be obligated to pay. We agree with the majority of the appeal board that the Legislature apparently did not intend the liability of the principal to be greater than the liability of the immediate employer. This is evident, for example, from the method chosen to calculate benefits — "with reference to the earnings of the workman under the employer by whom he is immediately employed”— and by the provision for indemnification of the principal by the immediate employer. MCL 418.171; MSA 17.237(171).
+The double compensation provision of § 161 was intended to be a penalty against employers to discourage the illegal employment of minors. See Farm Bureau Ins Co of Michigan v Pedlow, 3 Mich App 478; 142 NW2d 877 (1966).
+Plaintiffs proposed construction of § 171 as applied to this case would be contrary to the apparent purposes of the statute because it would extend the liability of the principal beyond the liability of the immediate employer. Plaintiffs proposed construction would not further the purposes of § 161 because it would discourage employments that are legal.
+In addition we note plaintiffs interpretation could lead to an absurdity. Because of the indemnification provision in § 171, plaintiffs interpretation would ultimately double the liability of the immediate employer, even though the immediate employer is in fact guilty of no misconduct for which he deserves to pay double compensation.
+Affirmed. Costs to defendant-appellee.
+We note at this point, while the Worker’s Disability Compensation Act was not in effect at the time of plaintiff’s injury, the sections relied on by plaintiff are in all material respects the same as prior statutes. Compare MCL 418.161; MSA 17.237(161) and MCL 418.171; MSA 17.237(171) with MCL 411.7; MSA 17.147 and MCL 411.10; MSA 17.150.
+Thus, plaintiff concedes, "In a claim for worker’s compensation benefits against his own father, plaintiff would be entitled to receive only single compensation because the Hittle Act makes legal the employment of minors in a business owned and operated by his parents.” Although in the last part of his brief, plaintiff attempts to show this exclusion does not apply to employments that are "injurious to health or morals or unduly hazardous”, we find that claim to be insubstantial. See MCL 409.2, 409.14; MSA 17.702, 17.714.
