@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "80283"
+decided: "1986-02-04"
+citations: ["148 Mich. App. 821"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P.J., and T. M. Burns and C. W. Simon, Jr., JJ."]
+parties: ["CITY OF HIGHLAND PARK v MICHIGAN LAW ENFORCEMENT UNION, TEAMSTERS LOCAL NO 129"]
+source_url: "https://static.case.law/mich-app/148/cases/0821-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2256137
+cites_cases: ["227 NW2d 500", "242 NW2d 478", "330 NW2d 52", "376 US 543", "377 NW2d 668", "393 Mich 583", "415 Mich 628", "423 Mich 1", "423 Mich 24", "430 US 243", "484 F Supp 130", "5 ALR3d 1008", "6 ALR4th 652", "67 Mich App 637", "93 S Ct 1067"]
+---
+
+# City of Highland Park v. Michigan Law Enforcement Union, Teamsters Local No 129
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals as of right from a Wayne County Circuit Court order granting plaintiffs motion to vacate an arbitration award. We affirm.
+The facts of this case are not in dispute. On August 6, 1982, the union, which represents patrolmen and corporals in the city’s police department, filed a written grievance, contending that the city violated provisons of the collective bargaining agreement which expired on June 30, 1982. This dispute arose following the unexpected resignation or retirement of six command officers on August 5, 1982. As a result of these resignations, the mayor made six appointments from the positions of patrolman or corporal to the positions of sergeant or lieutenant effective August 6, 1982. The union contended that these promotions were not in accordance with the provisions of the collective bargaining agreement. The city denied the grievance and the union demanded arbitration of the dispute. Arbitration hearings were held on August 10 and 22, 1983. The city argued that the dispute was not arbitrable. The union, however, argued that even though the collective bargaining agreement had expired on June 30, 1982, the terms of that agreement still governed the city’s actions on August 5, 1982. In addition to challenging the six appointments, the union orally raised the issue of whether the reorganization of the police department on July 1, 1982, violated the expired collective bargaining agreement.
+Following the hearings, the arbitrator found that the city had violated the terms of the collective bargaining agreement. An award was entered setting aside the six appointments and, in effect, rescinding the July 1, 1982, reorganization of the police department. The city brought an action in the Wayne County Circuit Court to vacate the arbitration award.
+Defendant first argues that the circuit court erred in vacating the arbitration award. Defendant contends that the court went beyond its permissible scope of review by engaging in contract interpretation and in substituting its erroneous interpretation of Nolde Brothers, Inc v Local No 358, Bakery & Confectionery Workers Union, AFL-CIO, 430 US 243; 93 S Ct 1067; 51 L Ed 2d 300 (1977), for the arbitrator’s in finding that a duty to arbitrate did not survive the expiration of the collective bargaining agreement.
+In Michigan, judicial review of an arbitration agreement or an award thereunder is limited to whether the award "draws its essence” from the contract, i.e., whether the award was within the authority conferred upon the arbitrator by the collective bargaining agreement. Kaleva-Norman-Dickson School Dist No 6 v Kaleva-Norman-Dickson School Teachers’ Ass’n, 393 Mich 583; 227 NW2d 500 (1975); Ferndale Education Ass’n v Ferndale School Dist # 1, 67 Mich App 637; 242 NW2d 478 (1976).
+It is equally clear that, as a matter of contract law, a party cannot be required to submit to arbitration any dispute which he has not agreed to submit. Ottawa County v Jaklinski, 423 Mich 1; 377 NW2d 668 (1985); City of Grand Rapids v Grand Rapids Lodge No 97, FOP, 415 Mich 628, 635; 330 NW2d 52 (1982). Thus, the initial question of arbitrability is generally one for the courts to determine. Id., p 644; John Wiley & Sons, Inc v Livingston, 376 US 543; 84 S Ct 909; 11 L Ed 2d 898 (1964).
+The arbitrator, relying on Nolde, supra, determined that the duty to arbitrate in the instant case survived the expiration of the collective bargaining agreement because the grievances were based on rights which had accrued or vested prior to its expiration.
+We agree with the arbitrator that a right to arbitration may survive "the expiration of the collective bargaining agreement when the dispute concerns the kinds of rights which could accrue or vest during the term of the contract”. Ottawa County v Jaklinski, supra, p 21. This determination, however, begs the question presented in the instant case; namely, whether the instant collective bargaining agreement provided for the right to arbitration after termination of the agreement. It was for this reason that the circuit court vacated the arbitrator’s award. We agree.
+Article VII, § 3 of the instant collective bargaining agreement provides:
+"It is mutually agreed that all grievances, arising under and during the life of the Agreement, shall be settled in accordance with the procedure herein provided.” (Emphasis added.)
+The agreement provides for a five-step grievance procedure which includes arbitration.
+The instant grievances were clearly based upon events which occurred after the collective bargaining agreement was terminated on June 30, 1982 (i.e., the reorganization of the police department on July 1, 1982, and the appointment of six officers on August 5, 1982). Although the grievances would have been arbitrable had they arisen during the life of the agreement, under the terms of the agreement they are not arbitrable after expiration. See, e.g., General Warehousemen & Employees Union, Local No 636 v J C Penney Co, 484 F Supp 130 (WD Pa, 1980). Because the grievances were not arbitrable, the circuit court properly vacated the arbitration award.
+We recognize that the circuit court construed the arbitration provison contained in the collective bargaining agreement. This was necessary, however, to determine the initial question of arbitrability.
+In Ottawa County v Jaklinski, supra, the Supreme Court reaffirmed that the question of arbitrability is for the courts. The court additionally recognized that the parties may agree to extend beyond contract expiration certain substantive or procedural rights and "may explicitly agree that accrued and vested rights and the right to arbitrate concerning them also extinguish at contract termination”. 423 Mich 24. Thus, the Supreme Court recognized that, as a prerequisite to deciding the question of arbitrability, a court must, on occasion, determine whether the parties have agreed to terminate arbitration rights upon the expiration of the collective bargaining agreement. As the circuit court in the instant case was confronted with this question, we cannot say that it exceeded the permissible scope of review.
+Our holding obviates the need to address the remaining arguments raised by both plaintiff and defendant. The decision of the circuit court is, therefore, affirmed.
