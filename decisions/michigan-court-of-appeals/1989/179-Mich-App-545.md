@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "96700"
+decided: "1989-06-23"
+citations: ["179 Mich. App. 545"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Beasley, P.J., and Gillis and J. T. Hammond, JJ."]
+parties: ["DENHA v JACOB"]
+source_url: "https://static.case.law/mich-app/179/cases/0545-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2311257
+cites_cases: ["145 Mich App 641", "166 Mich App 483", "169 Mich App 650", "378 NW2d 558", "421 NW2d 213", "427 NW2d 177", "430 Mich 896"]
+---
+
+# Denha v. Jacob
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from (1) an order partially setting aside a judgment and ordering a new trial as to damages, (2) an order granting partial summary disposition to defendants on defendants’ oral motion concerning the parol evidence rule and (3) an order granting summary disposition to defendants.
+The complaint, originally filed on January 19, 1982, alleged breach of contract and tortious interference arising from defendants’ refusal to consent to assignment of a lease by plaintiff to third parties.
+Plaintiff purchased a business and its assets from the defendants on July 3, 1978, and at the same time entered into a five-year lease of the premises on which the business was located. Paragraph 8 of the lease provided that plaintiff could not assign the lease without written consent from defendants and that defendants would not withhold consent to an assignment without just cause. In December, 1981, plaintiff arranged to sell the business. Defendants refused to consent to the assignment unless the purchasers agreed to pay $500 more per month rent. The lease permitted an increase of $100 per month if assigned. The deal fell through and plaintiff sued.
+The purchasers had agreed to pay $265,000 to plaintiff. Although the purchase agreement stated a price of $186,000, plaintiff and the purchasers orally agreed that, at the time of closing, the purchasers would pay an additional $79,000 for the store.
+Plaintiff sought damages for lost profit on the sale, interest on plaintiff’s loan from Community National Bank that the purchasers were to have paid, and interest plaintiff would have earned on the note signed by the purchasers. Plaintiff also sought lost profits from a store plaintiff planned to buy.
+The first trial, held February 20 and February 28, 1985, resulted in a jury verdict for plaintiff in the amount of $277,556. On April 5, 1985, defendants filed a motion to set aside judgment, for judgment notwithstanding the verdict or for remittitur. On July 25, 1985, Judge Roland L. Olzark issued a written opinion granting a new trial on the issue of damages. This new trial began on May 12, 1986. On the second day of the trial, May 14, 1986, defendants moved for mistrial and disqualification of Judge Olzark. Defendants’ motion was granted.
+On July 3, 1986, defendants filed a motion for summary disposition pursuant to MCR 2.116(0(10) which was heard before Judge James A. Hathaway. On July 9 and 10, 1986, the motion was argued during a settlement conference. Judge Hathaway granted partial summary disposition to defendants on an oral motion concerning the parol evidence rule. Plaintiff immediately filed an application for leave to appeal which was denied by this Court by order entered September 5, 1986.
+The trial was rescheduled for September 2, 1986, before Judge Michael J. Talbot. On that date, plaintiff filed a motion in limine, seeking, among other things, an order clarifying that the trial was limited to plaintiffs proof as to the amount of damages and that the issue of mitigation was not to be relitigated. Defendants moved for summary disposition pursuant to MCR 2.116(0(10) based on plaintiffs failure to accept an offer to purchase the business and therefore mitigate his damages. Judge Talbot denied plaintiffs motion and granted defendants’ motion for summary disposition, finding that plaintiff was not entitled to any recovery due to his failure to mitigate his damages.
+Plaintiff claims that the trial court erred in granting a new trial as to damages where the jury’s verdict was well within the proofs presented. A new trial may be granted where excessive or inadequate damages are awarded and it appears that thé award may have been influenced by passion or prejudice or where a verdict is clearly inadequate. MCR 2.611(A)(1)(c) and (d). The decision to grant or deny a motion for new trial is within the sound discretion of the trial court and will not be reversed absent an abuse of discretion. Beasley v Washington, 169 Mich App 650, 655; 427 NW2d 177 (1988).
+Judge Olzark granted defendants’ motion for a new trial for two reasons: (1) testimony elicited by plaintiff improperly appealed to the jury’s passion or prejudice; and (2) evidence of lost profits for plaintiff’s new store was based on speculation and conjecture.
+We agree with the trial court that the clearly excessive award was based improperly on evidence which was introduced originally to support a claim for exemplary damages. However, the claim for exemplary damages was withdrawn following proofs. Moreover, we find that the trial court did not clearly err in finding that the disparaging testimony against defendant influenced the jury’s damage award.
+We further find that the trial court did not err in determining that the nature of the damages for lost profits was speculative. A claim for lost profits must be subject to a reasonable degree of certainty and cannot be based solely on mere conjecture or speculation. Bonelli v Volkswagen of America, Inc, 166 Mich App 483, 511; 421 NW2d 213 (1988), lv den 430 Mich 896 (1988). Uncertainty as to the existence of damages rather than the amount of damages will bar recovery. Id. The only evidence offered at trial regarding lost profits was plaintiff’s relatively brief testimony.
+We find plaintiff’s argument that the trial court was required to grant remittitur rather than a new trial is without merit. MCR 2.611(E), which provides for remittitur, is permissive, not mandatory. A grant of a new trial limited to the issue of damages is allowed where liability is clear. Brewster v Martin Marietta Aluminum Sales, Inc, 145 Mich App 641, 669; 378 NW2d 558 (1985).
+We agree with plaintiff’s claim that Judge Hathaway erred in granting defendants’ motion to bar testimony of a side deal on the basis of the parol evidence rule. We agree with the majority of courts which hold that the parol evidence rule cannot be invoked either by or against a stranger to the contract. 30 Am Jur 2d, Evidence, § 1031, pp 166-167. Thus, the lower court erred in barring the parol evidence as to the true price agreement between plaintiff and the purchasers. Since we have found that the trial court improperly precluded consideration of the side deal, which amounted to $79,000, Judge Hathaway clearly erred when he granted partial summary disposition to defendants, and Judge Talbot clearly erred when he granted summary disposition to defendants.
+We reverse and remand for a new trial limited to the issue of damages. We do not retain jurisdiction.
