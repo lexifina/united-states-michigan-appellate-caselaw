@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "15461"
+decided: "1973-12-06"
+citations: ["50 Mich. App. 733"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J., and Fitzgerald and Car-land,* * JJ.", "All concurred."]
+parties: ["GENERAL ELECTRIC COMPANY v LEVINE"]
+source_url: "https://static.case.law/mich-app/50/cases/0733-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2102883
+cites_cases: ["189 NW 873", "220 Mich 304", "250 NW 285", "262 NW 302", "264 Mich 449", "272 Mich 525"]
+---
+
+# General Electric Co. v. Levine
+
+## Majority (Carland, J.)
+
+Carland, J.
+The present action was brought to recover the sum of $22,640.20 from the defendant Irving Levine. Judgment in that amount and costs was entered against the defendant September 8, 1970. On May 31, 1972, the circuit court appointed a receiver over defendant’s assets.
+Subsequently, question arose as to whether the receiver could execute on certain real estate claimed to be owned by defendant which consisted of two lots and a small office building in Oakland County. By order dated September 6, 1972, the circuit judge held that the real estate was not subject to execution because it was owned by Levine and wife as tenants by the entirety. Plaintiff appeals by leave granted from this order.
+Therefore, the sole question to be decided is whether the estate owned by Irving Levine in the property described as lots 44 and 45, H. Miller’s Garden Homes Subdivision, Royal Oak Township, Oakland County, Michigan, is separable from that of his wife so as to be subject to execution on realty for the judgment debt of Irving Levine only. Resolution of this question depends upon the examination and interpretation of a number of transactions involving the real estate.
+The real property here involved was purchased on land contract by Irving Levine on January 7, 1959. Two years later Levine decided to build an office building on the property and sought a construction loan from James T. Barnes and Company. Barnes agreed to advance the money if Levine would incorporate in order to avoid the statutory seven per cent interest limitation on loans to individuals. Accordingly, Levine formed "S. J. Brooks, Inc’’.
+On January 25, 1961, Levine assigned his vendee’s interest in the land contract to his corporation, S. J. Brooks, Inc., the corporate borrower. On the same date the corporation assigned the land contract interest as security to Barnes and Company for the construction loan. A mortgage was executed by S. J. Brooks, Inc. and personally guaranteed by Levine and wife.
+Four months later on May 4, 1961, the land contract having been paid in full, the vendors conveyed legal title to said property by warranty deed to Levine and wife as "tenants by the entirety”. On July 7, 1961, the construction loan having been repaid, Barnes and Company executed a quit-claim deed to S. J. Brooks, Inc. The deed recited "This deed is to release the interest in the grantor created by the instrument recorded etc.” On the same day S. J. Brooks, Inc. quit-claimed its interest in the property to "Irving L. Levine and Rose B. Levine as tenants in common and not as tenants by the entirety”.
+This last instrument plaintiff claims created a tenancy in common in the property and destroyed any previous tenancy by the entirety thus making Levine’s interest in the property subject to execution in satisfaction of the judgment.
+At the time the defendant determined to construct a building upon the premises here involved, he was advised that the loan sought from Barnes would only be available if the vendee’s interest in the land contract was assigned as security for the loan and if the loan was made to a corporation. To comply with these conditions he formed the suggested corporation and assigned to it his interest in the contract and this corporation in turn assigned to Barnes as security. While no mention of the security aspect is mentioned in the first assignment, it was patently a part of the assignment to Barnes. Thus the only conclusion to be drawn is that the method pursued was only for the purpose of carrying out the intent of Levine to assign to Brooks in order to meet the demand of Barnes for security. Therefore, both assignments were given for security purposes only.
+It is well settled that when land is sold on land contract that the legal title is retained by the vendor and an equitable interest or title is obtained by the vendee. Therefore when a vendee assigns he only assigns what he has, namely, an equitable interest.
+In accord with the Court’s announcement in Gorman v Butzel, 272 Mich 525, 530; 262 NW 302, 304 (1935):
+"By an assignment the vendee conveys to the assignee his present interest in the lands, together with the right to obtain further interest and final title on performance of the contract. It has been said the assignee acquires an equitable right of purchase subject to any equities existing between the original parties to it.’ Clark v Bussard, 220 Mich 304, 309 [189 NW 873, 875 (1922)]. The assignment creates only privity of estate, not privity of contract, between the vendor and the assignee.”
+"But when an assignment is made for security only, even if it be, on its face, unconditional, the vendee still retains an equitable interest in the contract, and, on satisfaction of the obligation secured thereby, he is entitled to a reassignment thereof. In such a case there is no assumption of the contract debt by the assignee, and the neglect to erase the provision therefor on the printed form of the assignment creates no personal liability on his part. He does not thereby become the principal debtor’ and the assignor 'a surety’.” Krueger v Campbell, 264 Mich 449, 452; 250 NW 285, 286 (1933).
+What then was the situation as to the position of the parties or the condition of the title immediately following the two assignments here involved? The vendor was still the holder of the legal title and Barnes the holder of the equitable title subject to the obligation to reassign upon the payment of the secured indebtedness. Therefore the claim of the appellant that on May 4, 1961 the defendant had no contract rights is without merit.
+"The assignment of a land contract operates as a conveyance of the vendee’s equitable title. Indeed, a purchaser of real estate who has not received a conveyance cannot convey a legal title, but only an equity. If the purchaser after an assignment of his interest receives a conveyance from the vendor he will hold legal title in trust for his assignee. Under the circumstances of a particular case, the assignment of a contract to purchase real estate may operate to give the assignee an equitable lien on the property.” 55 Am Jur, Vendor and Purchaser, § 423, p 837.
+On May 4, 1961 the legal title was held by the vendors and upon the conveyance vested in the defendant and his wife as tenants by the entirety and no subsequent conveyance from Brooks could alter or change this fact. It might well be that until the Barnes debt was discharged, it was held in trust for the benefit of the assignee and no other person, but if so, only the assignee could complain as to breach of trust. This it did not do and upon receiving payment, it reassigned. Further, since Brooks never had more than an equitable title, its quit-claim deed of July 7, 1961 only reassigned such title to its assignor. This was. clearly the intention of the parties, since the intention was only to reassign it could in no way affect the title which had already vested.
+Since the interest of husband and wife in entirety property cannot be reached by a creditor of the husband only in the absence of fraud, it follows that the circuit judge reached the right decision.
+We affirm.
+All concurred.
