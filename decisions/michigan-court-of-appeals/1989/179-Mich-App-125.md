@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "110301"
+decided: "1989-08-07"
+citations: ["179 Mich. App. 125"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Wahls, P.J., and Doctoroff and Brennan, JJ."]
+parties: ["SMORCH v AUTO CLUB GROUP INSURANCE COMPANY"]
+source_url: "https://static.case.law/mich-app/179/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2311324
+cites_cases: ["102 Mich App 136", "144 Mich App 750", "163 Mich App 650", "168 Mich App 747", "264 NW2d 122", "264 NW2d 13", "301 NW2d 832", "376 NW2d 400", "41 ALR2d 434", "415 NW2d 230", "425 NW2d 214", "464 So 2d 507", "50 ALR2d 458", "80 Mich App 428", "81 Mich App 63"]
+---
+
+# Smorch v. Auto Club Group Insurance
+
+## Majority (Doctoroff, J.)
+
+Doctoroff, J.
+Defendant Auto Club Group Insurance Company appeals from a July 7, 1988, order denying its motion for summary disposition and requiring Auto Club to defend plaintiff in a pending civil lawsuit alleging assault and battery. Finding that Auto Club has no duty to defend plaintiff, we reverse.
+In a related case, plaintiff was criminally charged with aggravated assault as a result of an incident with his girl friend which occurred on September 20, 1986. He eventually pled guilty to a lesser charge of assault and battery. At his guilty plea hearing, plaintiff admitted grabbing his girl friend’s arm without her consent to obtain his car keys.
+Plaintiff’s girl friend then filed the underlying civil lawsuit alleging that plaintiff "negligently battered” her five times and committed five "negligent” assaults and batteries. As a result, she suffered serious injuries.
+At the time of the alleged assault, plaintiff was a named insured under Auto Club’s homeowner’s insurance policy. Plaintiff tendered the civil complaint to Auto Club. Maintaining that an assault and battery cannot be the result of negligence and that the injuries from an assault and battery were not covered by its policy, Auto Club declined to defend plaintiff.
+Plaintiff filed the instant declaratory action, seeking a ruling that Auto Club was required to defend him. Following Auto Club’s answer, plaintiff moved for summary disposition, maintaining that Auto Club was required to defend him because the incident never occurred and because his girl friend’s lawsuit was groundless, false and fraudulent. Auto Club filed a countermotion for summary disposition, alleging that the assaults and batteries were not an "occurrence” as defined by the policy and that, in any case, the exclusion for "expected or intended” injuries applied to bar coverage.
+Following a hearing on the motions, the trial court concluded that, because a question of fact existed as to whether plaintiff inflicted injuries upon his girl friend, Auto Club was required to defend him. The underlying case was stayed pending this appeal.
+The duty of the insurer to defend the insured depends upon the allegations in the complaint of the third party in his action against the insured. This duty is not limited to meritorious suits and may even extend to actions which are groundless, false or fraudulent, so long as the allegations against the insured even arguably come within the policy coverage. An insurer has a duty to defend, despite theories of liability asserted against any insured which are not covered under the policy, if there are any theories of recovery that fall within the policy. Dochod v Central Mutual Ins Co, 81 Mich App 63; 264 NW2d 122 (1978). The duty to defend cannot be limited by the precise language of the pleadings. The insurer has the duty to look behind the third party’s allegations to analyze whether coverage is possible. In a case of doubt as to whether or not the complaint against the insured alleges a liability of the insurer under the policy, the doubt must be resolved in the insured’s favor. The Detroit Edison Co v Michigan Mutual Ins Co, 102 Mich App 136, 141-142; 301 NW2d 832 (1980); Linebaugh v Berdish, 144 Mich App 750, 762; 376 NW2d 400 (1985).
+The policy involved in this case provided coverage for bodily injury caused by an "occurrence,” and defines "occurrence” as "an accident.” In addition, the policy excludes from coverage "bodily injury . . . which is either expected or intended from the standpoint of the Insured.”
+The complaint filed against plaintiff alleges a "negligent assault and battery.” There is no duty to defend or provide coverage where the complaint is a transparent attempt to trigger insurance coverage by characterizing allegations of tortious conduct under the guise of "negligent” activities. Aetna Casualty & Surety Co v Sprague, 163 Mich App 650, 654; 415 NW2d 230 (1987); Linebaugh, p 763. Assault and battery are intentional acts. People v Bryant, 80 Mich App 428, 433; 264 NW2d 13 (1978).
+We conclude that the complaint filed against plaintiff was a transparent attempt to characterize tortious conduct as negligence. Plaintiff’s girl friend is suing for injuries sustained in an alleged assault and battery. These injuries are not covered by Auto Club’s homeowner’s insurance policy because they did not result from an accident but were, as a matter of law, either intended or expected by the insured.
+Plaintiff claims that his girl friend’s injuries were the result of a beating at someone else’s hands. He argues that, because he denies the incident occurred, he is entitled to insurance defense. This argument is without merit.
+In a case where an insured is sued for tortious conduct and argues self-defense, there is no duty to defend. Century Mutual Ins Co v Paddock, 168 Mich App 747, 753; 425 NW2d 214 (1988). The rationale behind this is that, regardless of the jury’s finding on the self-defense issue, the insurer would be under no duty to pay on behalf of the insured. Where the jury accepted the insured’s version of self-defense, there would be no liability on the part of the insured. If the jury rejected the insured’s version of self-defense, the insured would have committed an intentional act not covered by the policy. Id. Where neither outcome leads to a duty of the insurer to pay on behalf of the insured, we will refuse to impose on the insurer a duty to defend. Id., pp 753-754.
+Likewise, in the instant case, should the jury believe plaintiffs version that the incident did not occur, neither plaintiff nor Auto Club would be liable for damages. Should the jury reject plaintiff’s version, he would have committed an intentional act not covered by the policy. In either case, Auto Club is not liable and, thus, has no duty to defend.
+Plaintiffs creative argument that his girl friend’s act of filing an allegedly fraudulent lawsuit is the "occurrence” for which Auto Club has a duty to defend is also without merit. An accident is "an event occurring by chance; an unexpected happening.” Webster’s New Collegiate Dictionary (1981), p 7. The filing of a lawsuit is not an accident. See Allstate Ins Co v Moulton, 464 So 2d 507 (Miss, 1985).
+Thus, the trial court’s conclusion that it would deny Auto Club’s motion for summary disposition on the basis that a question of fact existed as to whether plaintiff inflicted the alleged injuries was incorrect. That issue is not relevant or material to plaintiff’s claim that Auto Club should be required to defend him. No matter how the assault and battery claim is resolved, Auto Club is not liable and has no duty to defend plaintiff.
+Reversed.
