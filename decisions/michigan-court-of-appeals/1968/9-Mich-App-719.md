@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "4,194"
+decided: "1968-03-21"
+citations: ["9 Mich. App. 719"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lesinski, C. J., and Canham, J., concurred."]
+parties: ["PARR v. LANSING CITY CLERK."]
+source_url: "https://static.case.law/mich-app/9/cases/0719-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2060930
+cites_cases: ["345 Mich 318", "6 Mich App 546"]
+---
+
+# Parr v. Lansing City Clerk
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+On May 8, 1967, the Lansing city council adopted, by what it labelled a resolution, the recommendation of its committee on planning that a 44-acre tract be approved for a so-called “community unit plan”, pursuant to section 36-7 of the Lansing city code. This reclassification or rezoning of the subject tract was for the purpose of effectuating development of public or quasi-public housing on the tract. For reasons that need only be their own, certain groups and individuals undertook a petition drive to submit this particular reclassification to a referendum vote of the electorate, in accord with § 6.9 of the Lansing city charter for referendums on ordinances. After the filing of the petition, the city attorney of Lansing, in response to a request of the city clerk, issued a formal opinion that the action of the city council on this matter was not subject to the referendum procedures because the resolution method was used. The circuit court for Ingham county thought otherwise and, on July 28, 1967, ordered the city of Lansing to honor the referendum petitions and the referendum procedures set out in § 6.11(b) of the city charter; that is, either repeal the council action or submit the action to the electorate at the next general election. Presently, this matter is scheduled to be placed on the ballot in August, 1968. The city in this appeal seeks to obviate the necessity of placing the question on the ballot and to have the May 8th resolution given full effect.
+This Court is aware that this case presents important issues which will vitally affect the development of the city of Lansing. As this writer stated in Biske v. City of Troy (1967), 6 Mich App 546, American cities are changing and they face problems which have not been faced in the past. Often new methods must be tried to solve the perplexing problems that now face city governments. While new solutions to our urban problems must be sought, the solutions must be within the existing legal framework if we are to retain a government of law rather than of men. Our problem is not to determine if the actions of the Lansing city council were good, for that is not our province, but to decide if the council actions were such as to subject those actions to the referendum procedures incorporated in the existing governmental framework. We are indebted to the many amici curiae who have joined in filing supplemental briefs to aid us in our deliberations.
+Nomenclature in the legislative field is in some ways analogous to naming a new-born child. In both areas the given name is important, but not determinative of much. A masculine name applied to the 7th daughter in a family will not change that lovely girl into the anticipated first son. Likewise, the fact that the city council of Lansing chose to label its action of May 8th a resolution is of little moment, if in fact, it was improperly designated.
+The city attorney argues that only ordinances are subject to referendums and for city action to be an ordinance, it must be adopted in the manner prescribed in section 6.3 of the Lansing city charter. That section requires, among other things, that each ordinance begin with the phrase, “The City of Lansing ordains * * While this argument has some appeal, the city council of Lansing is not free to insulate its actions by mislabelling such actions.
+As pointed out in 5 McQuillin, Municipal Corporations, § 15.02 at p 51, the difference between municipal ordinances and resolutions is in what the actions do, rather than in the manner in which they are passed. Resolutions are for implementing ministerial functions of government for short-term purposes. Ordinances are for establishing more permanent influences on the community itself. Kalamazoo Municipal Utilities Association v. City of Kalamazoo (1956), 345 Mich 318, 328. By no stretch of logic can we find that a large-scale rezoning of property for the purpose of providing for public or quasi-public housing and involving the building of multimillion dollar housing complexes, largely with federal grants, is only a ministerial function of government.
+Normally, when faced with the fact of a resolution passed by a city government in an area where an ordinance is required, this Court would respond by declaring the resolution void. 5 McQuillin, Municipal Corporations, § 16.10 at pp 173-177. In this case, however, we believe the better procedure is that followed by the trial court in allowing the resolution to stand as an ordinance, thus subject to the referendum procedures provided in sections 6.9 and 6.11(b) of the Lansing city charter. The technical passage requirements of ordinances are mainly intended to avoid situations of secret government by fiat. The highly organized and successful referendum and petition drive brought about by the city’s action is ample evidence that secret city action was not an evil in this case. This decision is made in light of the city’s action in December, 1967, in a similar circumstance, wherein the city adhered to the principles of the July 28th order of the circuit court and followed the proper formal ordinance adoption procedures in the approval of another community unit plan.
+Affirmed. No costs, as a public question is involved.
+Lesinski, C. J., and Canham, J., concurred.
