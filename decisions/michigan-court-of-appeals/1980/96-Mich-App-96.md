@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-930"
+decided: "1980-01-10"
+citations: ["96 Mich. App. 96"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P.J., and D. C. Riley and E. A. Quinnell, JJ."]
+parties: ["PEOPLE v BROOKS"]
+source_url: "https://static.case.law/mich-app/96/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2203282
+cites_cases: ["192 NW2d 241", "204 NW2d 135", "210 NW2d 884", "213 NW2d 106", "213 NW2d 597", "234 NW2d 415", "234 NW2d 720", "239 NW2d 604", "255 NW2d 733", "265 NW2d 779", "269 NW2d 322", "273 NW2d 856", "280 NW2d 519", "386 Mich 483", "389 Mich 82", "390 Mich 629", "404 Mich 698", "409 Mich 880", "48 Mich App 497", "50 Mich App 487", "63 Mich App 595", "63 Mich App 87", "66 Mich App 333", "75 Mich App 690", "81 Mich App 635", "84 Mich App 1", "89 Mich App 342"]
+---
+
+# People v. Brooks
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted of carrying a concealed weapon contrary to MCL 750.227; MSA 28.424, and was sentenced to 2-1/2 to 5 years in prison on January 5, 1977. In an order dated February 14, 1978, this Court granted defendant’s motion for an evidentiary hearing on plaintiffs failure to produce a res gestae witness, Derrick Cooper. Pursuant to this order, the trial court made factual findings from which we can conclude that the witness’s nonproduction at trial impaired defendant’s rights. Accordingly, we reverse.
+At the time of defendant’s arrest, Cooper told police that they had arrested the wrong man. He gave his driver’s license to the police as identification, but the officers incorrectly recorded his address. The record discloses no efforts by police to locate this witness prior to trial, other than the dispatching of an officer to the wrong address and the checking of police files for a past record.
+Defendant asserts that the failure to endorse and produce the alleged res gestae witness, Derrick Cooper, was reversible error. Persons present at the scene of a crime are presumed to be res gestae witnesses able to testify regarding their observations. People v Abdo, 81 Mich App 635, 642-644; 265 NW2d 779 (1978), People v Hicks, 63 Mich App 595, 597; 234 NW2d 720 (1975). Prosecutors are required to endorse all such persons’ names on the information, MCL 767.40; MSA 28.980, and to produce these witnesses at trial. See People v Hammack, 63 Mich App 87; 234 NW2d 415 (1975). However, if the prosecutor does not comply, it is the defendant’s responsibility to move for a hearing during trial or for a new trial prior to seeking appellate review. People v Robinson, 390 Mich 629; 213 NW2d 106 (1973). The failure to move for either will normally foreclose this issue on appeal, People v Pearson, 404 Mich 698, 722; 273 NW2d 856 (1979), unless, absent review, manifest injustice will result. People v Phillips, 75 Mich App 690, 694; 255 NW2d 733 (1977).
+The instant defendant never moved for a hearing on the issue of Cooper’s endorsement or production during or following trial. Thus, implicit in this Court’s order for the post-trial hearing was a finding that, absent the evidentiary proceeding, manifest injustice would result.
+According to the dictates of Robinson, supra, 634, on remand, a prosecutor must explain why he failed to endorse and produce a particular witness. Normally, a trial court will then determine whether these efforts meet the standard of "due diligence”. See People v Ebejer, 66 Mich App 333; 239 NW2d 604 (1976).
+In the instant case, this determination has been reserved for this Court. Based on a careful review of the record, we conclude that the police did not exercise due diligence in locating Derrick Cooper prior to trial. After failing to find the address listed for that witness, the investigating officer neglected to make inquiries of neighbors, possible employers or the post office. Above all, no effort was made to check with the Secretary of State’s office, although the police had first-hand knowledge that the witness had a driver’s license. By contrast, after the hearing order from this Court, the police diligently investigated several leads to locate the witness and were ultimately successful. The officer’s initial efforts fall far short of "due diligence” and cannot be excused. See People v McIntosh, 389 Mich 82; 204 NW2d 135 (1973), People v Tees, 386 Mich 483; 192 NW2d 241 (1971), People v Starr, 89 Mich App 342; 280 NW2d 519 (1979), People v Hunter, 48 Mich App 497; 210 NW2d 884 (1973).
+Once the lack of due diligence is established, the court must determine if the defendant suffered manifest injustice based on the witness’s nonproduction. See Phillips, supra. These deficiencies will entitle the defendant to a new trial. See People v Hernandez, 84 Mich App 1, 17; 269 NW2d 322 (1978), People v King, 50 Mich App 487, 491; 213 NW2d 597 (1973).
+We conclude that manifest injustice resulted at trial when witness Cooper was not produced. Only two officers testified against the defendant and neither could offer direct proof of his guilt. Although defendant proffered the testimony of a friend who stated that defendant was not carrying a gun at the arrest scene, defendant’s case would have been far more credible if supported by the corroborative testimony of the disinterested witness Cooper.
+The fact that the prosecution failed even to endorse Cooper on the information as a res gestae witness highlights the negligence with which the state conducted this case. Insufficient effort was expended to locate Cooper, despite the full spectrum of resources available to the prosecution. The prosecution must now bear the consequences of its inattention.
+Reversed and remanded for a new trial.
+This analysis corresponds to the order of inquiry as established in People v Pearson, 404 Mich 698; 273 NW2d 856 (1979), which was handed down by the Supreme Court after the evidentiary hearing was conducted in the instant case. Initially, the court must ascertain whether the prosecution has been duly diligent in producing the res gestae witness. If a lack of due diligence is found, then the court must determine if the defendant was prejudiced by the prosecution’s failure to produce the witness at trial. Pearson, supra, 722-723. Under this standard too, we feel that defendant must be accorded a new trial.
