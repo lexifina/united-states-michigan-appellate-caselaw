@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "204980"
+decided: "1998-07-07"
+citations: ["230 Mich. App. 577"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Hood, P.J., and Mackenzie and Doctoroff, JJ."]
+parties: ["PEOPLE v DAVENPORT"]
+source_url: "https://static.case.law/mich-app/230/cases/0577-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1679754
+cites_cases: ["118 Mich App 135", "128 Mich App 453", "176 Mich App 271", "224 Mich App 447", "228 Mich App 684", "324 NW2d 782", "340 NW2d 655", "438 NW2d 895", "440 Mich 178", "452 Mich 231", "487 NW2d 194", "551 NW2d 656", "569 NW2d 641", "580 NW2d 444"]
+---
+
+# People v. Davenport
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was charged with carjacking, MCL 750.529a; MSA 28.797(a). At trial, the defense requested a jury instruction on specific intent, contending that the carjacking statute implicitly required a showing of specific intent (1) to deprive the victim of the automobile, and (2) to put the victim in fear. The trial court initially refused to give a specific intent instruction. Following defendant’s conviction, however, the trial court granted defendant’s motion for a new trial on the basis that it should have instructed the jury on the element of specific intent. The prosecution appeals by leave granted. We vacate the order granting a new trial and remand for sentencing.
+The sole issue before us is whether the statutory offense of carjacking is a specific intent crime. We conclude that it is not. The carjacking statute, MCL 750.529a(l); MSA 28.797(a)(1), provides:
+A person who by force or violence, or by threat of force or violence, or by putting in fear robs, steals, or takes a motor vehicle as defined in [MCL 750.412; MSA 28.644] from another person, in the presence of that person or the presence of a passenger or in the presence of any other person in lawful possession of the motor vehicle, is guilty of carjacking, a felony punishable by imprisonment of life or for any term of years.
+Thus, in order to sustain a carjacking conviction, the prosecution must prove (1) that the defendant took a motor vehicle from another person, (2) that the defendant did so in the presence of that person, a passenger, or any other person in lawful possession of the motor vehicle, and (3) that the defendant did so either by force or violence, by threat of force or violence, or by putting the other person in fear. People v Green, 228 Mich App 684, 694; 580 NW2d 444 (1998).
+From these elements, defendant posits two forms of specific intent necessary to sustain a carjacking conviction. The first, related to the taking element, is the intent to deprive the victim permanently of possession of the vehicle taken. This Court has previously rejected an identical argument, reasoning that the plain language of the carjacking statute does not require an intent to deprive permanently. People v Terry, 224 Mich App 447, 454-455; 569 NW2d 641 (1997); Green, supra, p 696. We agree with that conclusion.
+The second form of specific intent that defendant claims is necessary to sustain a carjacking conviction relates to the coercion element of the offense: the specific intent to put the victim in fear. Neither Terry, supra, nor Green, supra, addressed this particular aspect of the offense.
+Specific intent is defined as a particular criminal intent beyond the act done, whereas general intent is merely the intent to perform the physical act itself. People v Lardie, 452 Mich 231, 240; 551 NW2d 656 (1996). To determine if a criminal statute requires specific intent, this Court looks to the mental state set forth in the statute. People v American Medical Centers of Michigan, Ltd, 118 Mich App 135, 153; 324 NW2d 782 (1982). Read as a whole, the language of the carjacking statute does not support the proposition that the Legislature intended specific intent to be an element of the crime. Words typically found in specific intent statutes include “knowingly,” “willfully,” “purposely,” and “intentionally.” Id., People v Norman, 176 Mich App 271, 275; 438 NW2d 895 (1989). Those words are absent from the carjacking statute.
+Additionally, the legislative history of the carjacking statute indicates that the Legislature did not intend that carjacking prosecutions include the burden of proving specific intent. As explained in the Senate Fiscal Agency Bill Analysis, SB 773, February 17, 1994:
+The bill would make it easier for prosecutors to try carjackers and to show that an offender committed a felony. Robbery and assault offenses typically include elements of intent that can malee it difficult to prosecute individuals on those charges. As a result, many of those initially charged with armed assault or robbery enter into plea bargain agreements and, consequently, are punished for less serious offenses. . . . Carjacking charges would more likely be tried on their merits rather than plea bargained, because the elements of the proposed offense would be easier to prove than those of robbery or assault. [Emphasis added.]
+On the basis of this analysis, it seems clear that the Legislature purposely omitted any element of specific intent in the crime of carjacking in order to make it simpler to convict offenders. Reading a specific intent element into the statute would negate that objective.
+The clear language of the carjacking statute indicates that no intent is required beyond the intent to do the act itself, that is, using force, threats, or putting in fear in order to take a vehicle from a person in lawful possession and in that person’s presence. As such, carjacking is a general intent crime. Lardie, supra, p 240; People v Laur, 128 Mich App 453, 455; 340 NW2d 655 (1983).
+The trial court appears to have believed that, in the absence of a specific intent element, the carjacking statute impermissibly creates a strict liability offense. We disagree. Generally, strict liability statutes are designed to protect the public welfare by placing the burden of protecting society on a person “ ‘otherwise innocent but standing in responsible relation to public danger.’ ” Lardie, supra, p 254, quoting People v Quinn, 440 Mich 178, 187; 487 NW2d 194 (1992). The carjacking statute does not seek to regulate the conduct of a person who is otherwise innocent; instead, it punishes a person’s voluntary act of using force or fear to take another person’s vehicle. Compare Lardie, supra, p 255. Moreover, the penalties for strict liability crimes generally are relatively small. Id. Carjacking is punishable by imprisonment for life or any term of years. We therefore conclude that the statute does not impose strict liability, but requires a general intent or mens rea.
+Vacated and remanded for sentencing. We do not retain jurisdiction.
