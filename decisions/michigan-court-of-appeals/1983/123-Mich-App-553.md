@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "62548"
 decided: "1983-02-25"
-citations: ["123 Mich. App. 553", "129 Mich. App. 622"]
+citations: ["123 Mich. App. 553"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v DAVIS"]
 source_url: "https://static.case.law/mich-app/123/cases/0553-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2229128
-cites_cases: ["10 ALR4th 8", "104 Mich App 411", "108 Mich App 754", "113 Mich App 262", "123 Mich App 553", "123 Mich App 560", "2 ALR4th 27", "202 NW2d 278", "202 NW2d 769", "21 L Ed 2d 905", "211 NW2d 193", "240 NW2d 729", "247 NW2d 547", "269 NW2d 618", "279 NW2d 303", "283 NW2d 773", "304 NW2d 593", "31 NW2d 699", "310 NW2d 868", "317 NW2d 589", "320 Mich 477", "332 NW2d 606", "388 Mich 590", "388 Mich 680", "390 Mich 104", "396 Mich 424", "398 Mich 250", "406 US 715", "407 Mich 938", "407 US 245", "407 US 514", "411 Mich 1081", "429 US 951", "491 F2d 687", "50 L Ed 2d 319", "84 Mich App 408", "88 Mich App 727", "91 Mich App 458", "97 S Ct 370"]
+cites_cases: ["10 ALR4th 8", "104 Mich App 411", "108 Mich App 754", "113 Mich App 262", "2 ALR4th 27", "202 NW2d 278", "202 NW2d 769", "21 L Ed 2d 905", "240 NW2d 729", "247 NW2d 547", "269 NW2d 618", "279 NW2d 303", "283 NW2d 773", "304 NW2d 593", "31 NW2d 699", "310 NW2d 868", "317 NW2d 589", "320 Mich 477", "388 Mich 590", "388 Mich 680", "396 Mich 424", "398 Mich 250", "406 US 715", "407 Mich 938", "407 US 245", "407 US 514", "411 Mich 1081", "429 US 951", "491 F2d 687", "50 L Ed 2d 319", "84 Mich App 408", "88 Mich App 727", "91 Mich App 458", "97 S Ct 370"]
 ---
 
 # People v. Davis
