@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "56672"
+decided: "1982-05-05"
+citations: ["116 Mich. App. 154"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. C. Riley, P.J., and D. E. Holbrook, Jr., and M. J. Kelly, JJ."]
+parties: ["SOUTHEASTERN MICHIGAN TRANSPORTATION AUTHORITY v AMALGAMATED TRANSIT UNION, LOCAL 1564, AFL-CIO"]
+source_url: "https://static.case.law/mich-app/116/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2206022
+cites_cases: ["103 Mich App 165", "227 NW2d 500", "258 NW2d 51", "302 NW2d 631", "363 US 564", "363 US 574", "363 US 593", "393 Mich 583", "401 Mich 398", "7 ALR3d 608"]
+---
+
+# Southeastern Michigan Transportation Authority v. Amalgamated Transit Union, Local 1564
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant represents a bargaining unit for bus operators employed by plaintiff. Plaintiff filed an action in circuit court to set aside an arbitration award allegedly rendered pursuant to a collective-bargaining agreement in effect between plaintiff and defendant. The arbitration award concerned plaintiff’s right to discipline and terminate probationary bus operators for absenteeism without answering to defendant union by way of the grievance procedure or arbitration. The parties filed cross-motions for summary judgment with the circuit court. Argument was heard on the cross-motions on February 4, 1981. The circuit court determined that the arbitrator did not have jurisdiction to render a decision in the dispute and granted plaintiff’s motion for summary judgment. Defendant appeals as of right.
+The stimulus for the grievance which led to the instant arbitration was the discharge of nine probationary employees pursuant to a recently adopted accelerated disciplinary policy applied only to probationary employees. The arbitrator ordered these employees reinstated because he concluded that they had been wrongfully discharged.
+Defendant contends that, in refusing to enforce the arbitration award, the circuit court improperly reinterpreted the collective-bargaining agreement, substituted its judgment for that of the arbitrator and improperly concluded, in direct opposition to the arbitrator, that the grievance was not arbitrable under the provisions of the contract.
+Plaintiff argues that the grievance was not arbitrable and that the arbitrator consequently had no jurisdiction to decide the dispute. While the arbitrator decided that the dispute was arbitrable, plaintiff continued to press this issue and has properly preserved it for appellate review. Elkouri & Elkouri, How Arbitration Works (3d ed), ch 6, p 171.
+Plaintiff contends that the intentions of the parties could not be more lucidly stated than in the language of Article 6, § 2, which became part of the contract as the result of negotiations between the parties. Article 6 provides in part:
+"Section 1. All new operators coming within the scope of this Agreement shall be on probation for a period of ninety (90) calendar days from the date they complete their training requirements. Such probationary period shall constitute a trial period during which the authority judges the ability, competency, fitness, and other qualifications of new operators to do the work for which they were employed. Probationary operators accepted for permanent employment will not have violations accumulated during probationary period used against them' in evaluating subsequent performance.
+"Section 2. During such probationary period, the authority may discharge the operator at any time and its right to do so shall not be questioned by the union; nor shall the union assert or present any grievance on behalf of any such new operator.”
+The question of arbitrability is for the courts. Kaleva-Norman-Dickson School Dist No 6 v Kaleva-Norman-Dickson Teachers’ Ass’n, 393 Mich 583, 587; 227 NW2d 500 (1975). The United States Supreme Court in the Steelworkers trilogy, United Steelworkers of America v American Manufacturing Co, 363 US 564; 80 S Ct 1343; 4 L Ed 2d 1403 (1960); United Steelworkers of America v Warrior & Gulf Navigation Co, 363 US 574; 80 S Ct 1347; 4 L Ed 2d 1409 (1960); United Steelworkers of America v Enterprise Wheel & Car Corp, 363 US 593; 80 S Ct 1358; 4 L Ed 2d 1424 (1960), discussed the role for courts in reviewing arbitration awards. In Warrior & Gulf, supra, 582-583, the Supreme Court established the standard of review to determine whether a grievance was arbitrable. The Court stated:
+"The Congress, however, has by § 301 [29 USC 185] of the Labor Management Relations Act, assigned the courts the duty of determining whether the reluctant party has breached his promise to arbitrate. For arbitration is a matter of contract and a party cannot be required to submit to arbitration any dispute which he has not agreed so to submit. Yet, to be consistent with congressional policy in favor of settlement of disputes by the parties through the machinery of arbitration, the judicial inquiry under § 301 must be strictly confined to the question whether the reluctant party did agree to arbitrate the grievance or did agree to give the arbitrator power to make the award he made. An order to arbitrate the particular grievance should not be denied unless it may be said with positive assurance that the arbitration clause is not susceptible of an interpretation that covers the asserted dispute. Doubts should be resolved in favor of coverage.” (Footnote omitted.)
+Michigan courts have consistently followed the rule established in Warrior & Gulf, supra, when determining whether a dispute is arbitrable under a collective-bargaining agreement. Brown v Holton Public Schools (After Remand), 401 Mich 398, 401; 258 NW2d 51 (1977), KND School Dist, supra, 592, Lanting v Jenison Public Schools, 103 Mich App 165, 169; 302 NW2d 631 (1981).
+Article 6, §2 of the collective-bargaining agreement between plaintiff and defendant states that the union will not assert or present any grievance on behalf of any probationary employee. Article 10, § 1 of the agreement defines a grievance as any matter involving the interpretation or application of the terms of the agreement and any dispute concerning the suspension or discharge of an employee. Under these articles, defendant is prohibited from bringing a grievance to arbitration if it concerns a probationary employee. Because defendant was prohibited from bringing the grievance to arbitration by a specific clause of the collective-bargaining agreement, we can say with positive assurance that the arbitration clause did not cover this agreement.
+The trial court’s grant of summary judgment is affirmed.
