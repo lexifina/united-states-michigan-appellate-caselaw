@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "159802"
+decided: "1995-08-11"
+citations: ["212 Mich. App. 607"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Michael J. Kelly, P.J., and McDonald and Griffin, JJ."]
+parties: ["PEOPLE v WILLIAMS"]
+source_url: "https://static.case.law/mich-app/212/cases/0607-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1873274
+cites_cases: ["101 Mich App 198", "124 Mich App 656", "181 Mich App 722", "196 Mich App 218", "198 Mich App 537", "206 Mich App 61", "272 NW2d 596", "300 NW2d 497", "335 NW2d 116", "380 NW2d 11", "424 Mich 221", "433 Mich 464", "433 Mich 471", "438 US 154", "446 NW2d 140", "449 NW2d 687", "492 NW2d 795", "499 NW2d 404", "520 NW2d 643", "85 Mich App 744"]
+---
+
+# People v. Williams
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Following a jury trial, defendant was convicted of possessing between 225 and 649 grams of cocaine, MCL 333.7403(2)(a)(ii); MSA 14.15(7403)(2)(a)(ii), and of possessing a firearm during the commission of a felony, MCL 750.227b; MSA 28.424(2). The trial court sentenced defendant to consecutive prison terms of twenty to thirty years for the cocaine conviction and two years for the felony-firearm conviction. Defendant appeals as of right. We affirm in part and reverse in part.
+During a search of defendant’s house pursuant to a warrant, police found cocaine locked in a file cabinet in defendant’s bedroom closet and a .32 caliber revolver in a dresser next to the closet. At the time of the search, defendant was not at home.
+Defendant first argues that there was insufficient evidence to support his felony-firearm conviction. In reviewing the sufficiency of the evidence in a criminal case, this Court views all evidence in a light most favorable to the prosecution and determines whether a rational trier of fact could find that the essential elements of the crime have been established. People v Petrella, 424 Mich 221, 268-270; 380 NW2d 11 (1985). A conviction of felony-firearm requires proof that the defendant carried or possessed a firearm during the commission or attempted commission of a felony. MCL 750.227b; MSA 28.424(2); People v Williams (After Remand), 198 Mich App 537, 540-541; 499 NW2d 404 (1993). Thus, defendant may attack the sufficiency of the evidence with respect to two elements: possession and time.
+With respect to the element of possession, defendant argues that, for the purposes of the felony-firearm statute, a person away from home cannot be deemed in possession of a firearm found in his house. We agree. Possession may be actual or constructive and may be proved by circumstantial evidence. People v Hill, 433 Mich 464, 469-471; 446 NW2d 140 (1989). A defendant may have constructive possession of a firearm if its location is known to the defendant and if it is reasonably accessible to him. Id. at 470-471. However, constructive possession of a firearm for use in connection with a felony is not analogous to constructive possession of drugs. The difference lies in the distinctive purpose of the felony-firearm statute.
+By punishing the "possession,” as opposed to the "use,” of a firearm during the commission of a felony, the Legislature was attempting to reduce the possibility of injury to victims, passersby and police officers. Had defendant’s criminal enterprise gone awry, he may well have been tempted to use his firearm to effect an escape. The mere fact that a felon has a ñrearm at his disposal, should he need it, creates a sufficient enough risk to others that it is within the state’s power to punish its possession. Moreover, the statute as written may act to deter the felony itself. [People v Elowe, 85 Mich App 744, 748-749; 272 NW2d 596 (1978). Emphasis added.]
+Punishing a defendant for possession of a firearm that is not accessible or at his disposal, as opposed to being under less immediate dominion or control, does not fulfill the purpose of the felony-firearm statute. Accordingly, the possession requirement of the felony-firearm statute has been described in terms of ready accessibility. See, e.g., People v Becoats, 181 Mich App 722, 726; 449 NW2d 687 (1989); People v Terry, 124 Mich App 656, 661; 335 NW2d 116 (1983), citing People v Davis, 101 Mich App 198, 203, n 2; 300 NW2d 497 (1980). Such accessibility does not exist where, as here, a defendant is far away from the location of the firearm.
+Because there was no possession, a necessary element, we need not address the time element.
+Defendant next argues that the trial court erred in denying his motion to quash the search warrant. Specifically, defendant argues that the affidavit in support of the warrant contained false and misleading information. To prevail on this claim, defendant must show by a preponderance of the evidence that the affiant knowingly and intentionally, or with reckless disregard for the truth, inserted false material into the affidavit and that the false material was necessary to a finding of probable cause. Franks v Delaware, 438 US 154, 171-172; 98 S Ct 2674; 57 L Ed 2d 667 (1978); People v Stumpf, 196 Mich App 218, 224; 492 NW2d 795 (1992).
+Here, defendant claims that all statements in the affidavit regarding his activities were hearsay gathered from an informant who had no prior knowledge of defendant. However, the affiant stated that police used the informant to arrange four drug transactions with defendant, the person whom the informant referred to as Ben Williams; that, during the transactions, this person drove cars registered under defendant’s name; and that, after the transactions, this person returned to a home listed under defendant’s name. There is no indication that the affiant’s and the informant’s claims of knowing defendant to be Ben Williams were false. Police observations of defendant at, as well as going to and from, the drug transactions were sufficient to establish both the credibility of the informant and probable cause for the search of defendant’s house.
+Finally, defendant argues that the mandatory minimum sentence imposed for his conviction of possession of cocaine is unconstitutionally disproportionate to the seriousness of the offense. Defendant has failed to distinguish his argument from the one rejected by this Court in People v DiVietri, 206 Mich App 61, 63-65; 520 NW2d 643 (1994).
+Our holdings concerning defendant’s sentence and the trial court’s denial of defendant’s motion to quash render moot his claim that defense counsel was ineffective for failing to raise these issues below.
+Affirmed with respect to the conviction and sentence for possession of cocaine; reversed with respect to the conviction and sentence for felony-firearm.
+Although these cases predate the Supreme Court’s definitive pronouncement on constructive possession of firearms in Hill, they met with the Court’s explicit approval. 433 Mich 471.
+We distinguish these facts from People v Williams (After Remand), supra, because Williams was found in the basement with the contraband and the safe containing the weapon.
