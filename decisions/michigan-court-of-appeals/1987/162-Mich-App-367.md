@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "91398"
+decided: "1987-08-17"
+citations: ["162 Mich. App. 367"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. E. Holbrook, Jr., P.J., and Gribbs and C. W. Simon, JJ."]
+parties: ["PIERCE v PIERCE"]
+source_url: "https://static.case.law/mich-app/162/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2302222
+cites_cases: ["220 Neb 272", "239 NW2d 409", "27 ALR4th 1038", "27 ALR4th 864", "291 NW2d 183", "409 Mich 893", "471 NYS2d 867", "53 Or App 539", "66 Mich App 463", "679 P2d 1041", "78 ALR3d 712", "79 ALR3d 417", "95 Mich App 728", "99 AD2d 284"]
+---
+
+# Pierce v. Pierce
+
+## Majority (Gribbs, J.)
+
+Gribbs, J.
+Defendant appeals from an order of the Wayne Circuit Court which reduced by fifty percent the child support arrearage which accrued while defendant was incarcerated.
+On August 18, 1975, plaintiff filed for divorce in Wayne Circuit Court. The next day an ex parte interim order was entered giving plaintiff custody of the parties’ two minor children and ordering defendant to pay child support in the amount of $40.50 per week for each child.
+On August 23, 1976, defendant, who had been a Detroit police officer, began serving a prison term for a plea-based conviction of second-degree murder. On October 22, 1976, while defendant was in prison, the judgment of divorce was entered. In the judgment, plaintiff was granted custody of the two children and defendant was ordered to pay child support in the amount of $35 per week for each child. The judgment credited defendant with an advance payment of $3,300 toward his child support obligation in lieu of his equity in the marital home. Defendant apparently had no other assets.
+Defendant made no other payments and plaintiff supported the two children without the assistance of public funds while defendant was in prison. Defendant was released from prison on July 19, 1983, after serving a term of almost seven years. Defendant had no income while in prison. Almost immediately after his release from prison, defendant obtained employment and commenced making his child support payments.
+On May 17, 1984, the Wayne County Friend of the Court issued a petition to show cause alleging that defendant had accumulated an arrearage of $24,555 in his support payments. On October 23, 1984, the friend of the court recommended that the arrearage that accumulated during defendant’s incarceration be cancelled. Defendant filed a petition on February 4, 1986, seeking to cancel the outstanding child support arrearage. After a hearing, the trial court, on March 12, 1986, ordered that the arrearage which had accumulated while defendant was in prison be reduced by fifty percent. It is from this order that defendant brings this appeal.
+This is an issue of first impression in Michigan. Defendant contends that a parent who is imprisoned for a crime other than nonsupport (or for civil contempt for failure to pay the same) should not be required to pay a child support arrearage which accumulated while the parent was incarcerated unless it is affirmatively shown that he or she has the income or assets to make such payments. While plaintiff appears to concede that defendant had no assets or income with which to pay the arrearage while in prison, she contends that defendant’s incarceration was the result of a voluntary act for which he knew the consequences and thus to require defendant to pay less than fifty percent of the arrearage which accrued during his imprisonment would allow defendant to benefit from his own wrongful acts.
+Each party cites to conflicting authority in other jurisdictions. After giving careful consideration to this matter, we adopt the view expressed in In the Matter of the Marriage of Edmonds and Edmonds, 53 Or App 539; 633 P2d 4 (1981), that where a noncustodial parent is imprisoned for a crime other than nonsupport that parent is not liable for child support while incarcerated unless it is affirmatively shown that he or she has income or assets to make such payments. Id., 542. Accord, Foster v Foster, 99 AD2d 284; 471 NYS2d 867 (1984), Clemans v Collins, 679 P2d 1041 (Alas, 1984). See also Heilman v Heilman, 95 Mich App 728, 733; 291 NW2d 183 (1980), lv den 409 Mich 893 (1980). Cf. Ohler v Ohler, 220 Neb 272; 369 NW2d 615 (1985). We note that this rule would not apply where the parent is jailed for civil contempt for failure to pay child support. Edmonds, supra. See Cullimore v Laureto, 66 Mich App 463; 239 NW2d 409 (1976).
+We find persuasive and quote with approval the well-reasoned dissent of the Chief Justice of the Nebraska Supreme Court in Ohler, supra. In urging his colleagues to adopt the reasoning of Edmonds, he stated:
+We obviously recognize that the child support judgment will not be paid during the time that the parent is incarcerated, and therefore the judgment will simply accrue with interest. Such a situation provides little or no benefit to anyone. The children do not receive the benefit of the proceeds during the time they require the funds, and the parent is simply confronted with a large, nondischargeable judgment upon release from prison, at a time when the prospect of paying a large judgment with interest is extremely unlikely. At current interest rates the judgment will double every 6 or 7 years. How this can be in the children’s best interest is difficult for me to imagine.
+I am further persuaded by the reasoning of the Oregon court which concludes that a court should not be permitted to impose a judgment and itself make the payment of that judgment impossible. We would not permit such a result to exist in any other situation.
+In dissenting I do not for a moment ignore the fact that the parent against whom the judgment runs has been convicted of violating a law and has brought the problem into being by reason of his own act. Nevertheless, the violation of the criminal law was a matter which the State addressed, and for which the individual is now paying the penalty. To impose an additional penalty is not appropriate. [Ohler, 277-278.]
+As we indicated previously, if an incarcerated parent with an arrearage has assets or income while in prison, then those assets or the income may properly be applied against the outstanding child support obligation. We conclude that a noncustodial parent’s support arrearage which accrued while the parent was imprisoned should be discharged unless there is some showing that the parent became incarcerated in order to avoid his support obligation. Edmonds, supra, 542-543. There being no such showing in the case at bar, the trial court erred in not granting defendant’s motion to cancel his child support arrearage which had accrued while he was imprisoned.
+Reversed. No costs.
