@@ -1,0 +1,59 @@
+---
+court: "Michigan Court of Appeals"
+docket: "67556"
+decided: "1983-10-12"
+citations: ["129 Mich. App. 717"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Beasley, P.J., and Allen and G. R. Deneweth, JJ.", "Allen, J., concurred."]
+parties: ["PEOPLE v MOFFIT"]
+source_url: "https://static.case.law/mich-app/129/cases/0717-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2253111
+cites_cases: ["163 US 662", "330 NW2d 16", "369 US 141", "395 US 711", "415 Mich 443", "449 US 117", "50 L Ed 2d 830", "78 Mich L Rev 1001"]
+---
+
+# People v. Moffit
+
+## Majority (Beasley, P.J.)
+
+Beasley, P.J.
+Following a preliminary examination held on March 16, 1982, defendant, Robert Lloyd Moffit, Sr., was bound over for trial on charges of second-degree murder and possession of a firearm in the commission of a felony. On August 25, 1982, a Saginaw County Circuit Court jury reported a verdict, which the trial judge declined to accept, in which it found defendant not guilty of second-degree murder but guilty of felony-firearm. After each juror was polled in regard to the second-degree murder acquittal, the trial court addressed the jury:
+"The Court: Members of the jury, there is no way that you can find this man not guilty of Count I — that is, that you found him not guilty of committing a felony —and then return a verdict of guilty of possession of a firearm while committing a felony. So, I’m going to return you to the jury room for further deliberations, as to Count II only, so that you can correct the verdict. You may be excused at this time, and go to the jury room.”
+Shortly thereáfter, the jury returned a verdict of not guilty on the felony-firearm charge. Based on defendant’s having been found not guilty on both counts, the trial court discharged defendant, stating;
+"The Court: With that, Mr. Moffit, the jury having found you not guilty, you will be discharged by the court. Your bondsman will be released, and the jury will be discharged from this case, and I thank you. You may be excused.”
+On appeal, the prosecutor seeks reinstatement of the felony-firearm conviction. Relying on People v Lewis the prosecutor maintains that the trial court erred in refusing to accept the guilty verdict on the felony-firearm charge and holding that the verdicts were inconsistent as a matter of law.
+In Lewis, defendants Lewis and Johnson, in separate jury trials, were acquitted of the underlying felonies but convicted of felony-firearm. On the ground that the verdicts were inconsistent, the trial judges set aside the felony-firearm convictions. In reinstating the defendants’ felony-firearm convictions, the Supreme Court reasoned:
+"Because we see no reason to regard differently for this purpose the express finding of not guilty of the underlying felony and the implicit finding of guilty of the underlying felony, the defendants are not entitled to have their convictions of felony-firearm set aside on the premise that the acquittals of the felony charges were findings that they did not commit the underlying felonies inexorably requiring that the felony-firearm convictions be set aside.
+"The jury, to repeat, either was lenient or compromised. If the former, the defendant has no cause for complaint. But if the jury compromised, the finding that the defendant did not commit the underlying felony was part and parcel of that jury compromise which, in convicting the defendant of felony-firearm, implicitly found that the defendant did commit the underlying felony. A compromise is indivisible. We cannot properly enforce only part of it.
+"It is contended that the language of the felony-firearm statute requires that sentencing for conviction of a felony is a prerequisite for imposition of the sentence for felony-firearm with the consequence that where, as here, the people have not secured a conviction for a felony no sentence can be imposed for felony-firearm.
+"Although the Legislature no doubt contemplated that a person convicted of felony-firearm would also have been convicted of an underlying felony, it made commission or the attempt to commit a felony and not conviction of a felony an element of felony-firearm.
+"Having in mind the legislative purpose to provide separate punishment for carrying a firearm in the commission of or attempt to commit a felony, we are satisfied that it is both within the letter of the statute and the spirit of the legislative purpose to construe the statute as providing for the imposition of sentence in a case where the jury convicts of felony-firearm but acquits of the underlying felony. It would not be consistent with the legislative purpose in enacting the felony-firearm statute to conclude that it intended that a felony-firearm conviction be set aside and no punishment at all be imposed in a case where the jury, extending leniency or compromising, failed to convict of the underlying felony, but did convict of felony-firearm.” (Footnotes omitted.)
+The salient distinction between the instant case and Lewis is that Lewis involved the trial courts’ post-trial dismissals of the felony-firearm convictions, whereas here the jury, at the direction of the trial court, acquitted defendant of the felony-firearm charge.
+While we find that the trial court erred in ruling that defendant’s acquittal of the underlying felony precludes a conviction of felony-firearm, the constitutional prohibition against double jeopardy prevents a retrial on the felony-firearm charge. Any judgment of acquittal bars retrial, regardless of whether its foundation was erroneous. Additionally, this Court is not empowered to reinstate the conviction, since the subsequently rendered verdict of acquittal was final and cannot be reviewed without placing defendant in double jeopardy.
+We are unable to find, nor does the prosecutor cite, a case, a statute, a court rule, or any constitutional provision which authorizes the prosecutor to appeal an acquittal of a defendant in a criminal prosecution. MCL 770.12; MSA 28.1109, which permits appeals by the prosecutor under narrowly defined circumstances, clearly does not entitle the prosecutor to appeal a verdict of not guilty.
+Had the trial court, instead of requesting the jury to redeliberate and return a not guilty verdict on the felony-firearm charge, set aside the conviction after receiving the guilty verdict, we would be empowered, under People v Lewis, supra, to reinstate the conviction of felony-firearm. As this is not the case, we are constrained to affirm defendant’s acquittal of the two charges.
+Affirmed.
+Allen, J., concurred.
+The prosecution stemmed form the fatal shooting of Armando Contreras in the Village of Chesaning, Saginaw County, on September 2,1981.
+415 Mich 443; 330 NW2d 16 (1982).
+Id., pp 452-454.
+US Const, Am V; Const 1963, art 1, §15. The constitutional prohibition of double jeopardy consists of three separate guarantees protecting the accused against (1) a second criminal prosecution for the same offense after acquittal, (2) a second prosecution for the same offense after conviction, and (3) multiple punishments for the same offense. North Carolina v Pearce, 395 US 711, 717; 89 S Ct 2072; 23 L Ed 2d 656 (1969). See, generally, Westen, The Three Faces of Double Jeopardy: Rejections on Government Appeals of Criminal Sentences, 78 Mich L Rev 1001 (1980).
+Fong Foo v United States, 369 US 141, 143; 82 S Ct 671; 7 L Ed 2d 629 (1962); United States v DiFrancesco, 449 US 117, 129; 101 S Ct 426; 66 L Ed 2d 328 (1980).
+Ball v United States, 163 US 662, 671; 16 S Ct 1192; 41 L Ed 300 (1896).
+
+## Dissent (G. R. Deneweth, J.)
+
+G. R. Deneweth, J.
+(dissenting). I must respectfully dissent. The majority finds itself constrained to affirm defendant’s acquittal of felony-firearm because of a legal technicality which offends logic, common sense and justice.
+At trial, the jury convicted defendant of possession of a firearm during the commission of a felony but acquitted defendant of the underlying felony, second-degree murder.
+The trial court told the jury there is no way defendant could be acquitted of the felony but be convicted for possession of a firearm during the commission of that felony and ordered them to return to the jury room to "correct the verdict”. The jury then returned a verdict of not guilty on the felony-firearm charge.
+The trial court’s decision at the time of trial seemed eminently logical. One looking at the statute would think that a jury must find the commission of a felony in order to convict a defendant of possession of a firearm during the commission of the felony. However, the Michigan Supreme Court decided this very question in a case pending before the Supreme Court during defendant’s trial. In People v Lewis, 415 Mich 443; 330 NW2d 16 (1982), the Supreme Court held that "commission” of a felony is an element of the offense of felony-firearm but conviction of a felony is not required. A jury could thus acquit a defendant of the underlying felony while convicting the defendant of felony-firearm. Lewis consisted of three consolidated appeals. In the Lewis and Johnson appeals, the defendants were each charged with a felony and possession of a firearm during the commission of a felony. Separate juries acquitted the defendants of the felonies but convicted them of possession of a firearm. The trial judges in both cases set aside the verdicts because they were inconsistent. The people appealed and the Court of Appeals affirmed. The Supreme Court, however, reversed the trial judges and reinstated the possession of a firearm convictions.
+The only difference between Lewis and Johnson and the present case is that here the trial judge did not set aside the conviction himself but directed the jury to "correct” its verdict.. The correction is no less the action of the trial judge than the activity in Lewis and Johnson. The jury had already returned a verdict of guilty but was told there is "no way” they could do so. Hence, there is no "acquittal” by the jury for double jeopardy purposes.
+In my opinion, it is nonsensical to release defendant from his felony-firearm conviction simply because the trial judge ordered the jury to acquit him rather than do it himself. As the majority frankly admits, if the judge had set aside the conviction himself, defendant’s conviction would be reinstated under Lewis, supra. It is cases like this and the opposite result reached which cause all thinking, law-abiding people to view the law with a suspicious, jaundiced, disrespectful eye. No one can seriously suggest that justice has been done. The trial judge simply made a mistake of law — one that could and should be corrected on appeal.
+The majority also finds no provision allowing the prosecutor to appeal.
+MCL 770.12(b); MSA 28.1109(b) allows the people to appeal:
+"From a decision arresting a judgment of conviction or directing a judgment of acquittal for insufficiency of the indictment, information, or other charging instrument, where the decision is based upon the invalidity or construction of the statute upon which the indictment, information, or other charging instrument is founded.”
+I would submit that the trial court directed a verdict of acquittal for insufficiency of the possession of a firearm information based on the trial court’s construction of the statute. The trial court found the information insufficient as a matter of law because an element of the charged offense was missing — commission of the underlying felony. Further, the people were allowed to appeal in nearly identical circumstances in People v Lewis, supra.
+I would hold that the people may appeal the directed verdict of acquittal and that defendant’s conviction for possession of a firearm during the commission of a felony should be reinstated.
