@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "43631"
+decided: "1980-02-21"
+citations: ["95 Mich. App. 608"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. C. Riley, P.J., and R. B. Burns and D. E. Holbrook, Jr., JJ.", "D. E. Holbrook, Jr., J., concurs in result only."]
+parties: ["PEOPLE v ROBIN FORD"]
+source_url: "https://static.case.law/mich-app/95/cases/0608-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2170414
+cites_cases: ["174 NW2d 605", "198 NW2d 715", "20 Mich App 665", "215 NW2d 695", "237 NW2d 601", "242 NW2d 497", "243 NW2d 703", "244 NW2d 357", "248 NW2d 619", "265 NW2d 31", "266 NW2d 815", "274 NW2d 68", "276 NW2d 878", "285 NW2d 453", "391 Mich 305", "40 Mich App 255", "417 US 40", "65 Mich App 640", "67 Mich App 709", "68 Mich App 635", "69 Mich App 41", "71 Mich App 556", "73 ALR3d 1240", "80 Mich App 737", "82 Mich App 336", "87 Mich App 544", "88 Mich App 203", "9 ALR3d 462", "92 Mich App 766"]
+---
+
+# People v. Ford
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In 1975, defendant was plea convicted of unarmed robbery, contrary to MCL 750.530; MSA 28.798, and sentenced to a term of 6 to 15 years which was suspended, conditioned on his successful completion of a 3-year-long probation. At a hearing held on October 10, 1978, defendant was found to have violated his probation, whereupon the suspended sentence of incarceration was imposed. Defendant now appeals as of right.
+Defendant’s first two issues attack the underlying conviction proceeding. Defendant failed to appeal from that conviction in a timely manner and cannot now question its validity. See People v Pickett, 391 Mich 305, 308; 215 NW2d 695 (1974), People v Johnson, 87 Mich App 544, 545; 274 NW2d 68 (1978).
+Defendant further contends that he was wrongfully found to have violated his probation. Much of his argument is devoted to disputing the validity of the probation conditions originally imposed. As previously noted, this issue cannot be addressed, Pickett, supra, Johnson, supra, except as it is relevant to whether defendant’s probation was lawfully terminated.
+Trial judges have great discretion in designing probation standards, limited only by thé requirement that the conditions be lawful and logically related to rehabilitation. People v Johnson, 92 Mich App 766; 285 NW2d 453 (1979), People v Pettit, 88 Mich App 203, 205; 276 NW2d 878 (1979). After reviewing the conditions which defendant violated, (1) failure to pay child support, (2) failure to pay court costs, (3) failure to do charitable work, (4) failure to report to the probation officer, and (5) leaving State of Michigan without permission, we are convinced that none of the conditions are unlawful per se. The inquiry then becomes whether the conditions were unlawful as applied to defendant, so that his incarceration was improperly imposed.
+Three of the conditions were not challenged on appeal. It is well settled that issues not raised or briefed on appeal will be deemed abandoned. Meshriy v Sun Oil Co, 67 Mich App 709, 711; 242 NW2d 497 (1976), Taylor v Klahm, 40 Mich App 255, 269; 198 NW2d 715 (1972). However, we will review these uncontested conditions to ensure that no manifest injustice results.
+Defendant’s leaving the State of Michigan was a violated condition that was probably not relied upon by the trial judge as it had been dealt with at earlier hearings.
+Failure to report to the probation officer was an alleged violated condition added sua sponte at the hearing by the judge. Many defendants have been successful in getting their probation revocations reversed on appeal when it is proven that a trial judge relied on probation violations mentioned for the first time at the revocation hearing. See People v Givens, 82 Mich App 336, 340; 266 NW2d 815 (1978), People v Acosta, 65 Mich App 640, 641; 237 NW2d 601 (1975). The present defendant has not made this lack of notice assertion on appeal. We believe that no injustice results to defendant by our not reviewing such a claim, as defendant fully explained his failure to report to the probation officer within the context of his "failure to pay costs and child support” arguments, conditions of which he did have notice.
+Defendant asserts on appeal that the trial court erred in not finding him indigent and in imposing sentence for failure to pay child support. Although not raised on appeal, the indigency defense would apply equally as well to the paying of court costs condition.
+There is nothing inherently wrong with imposing child support or costs as probation conditions. See MCL 771.3; MSA 28.1133, Fuller v Oregon, 417 US 40; 94 S Ct 2116; 40 L Ed 2d 642 (1974), People v Emery, 71 Mich App 556; 248 NW2d 619 (1976), People v Hill, 69 Mich App 41; 244 NW2d 357 (1976). These conditions were lawfully imposed following the original conviction considering defendant’s salary at the time.
+Revocation of probation based solely on indigency is a violation of equal protection. People v Lemon, 80 Mich App 737, 745; 265 NW2d 31 (1978), People v Terminelli, 68 Mich App 635, 637; 243 NW2d 703 (1976). In the instant case, the trial court failed to make necessary inquiries into defendant’s present financial condition. This determination of capacity to pay should have been made on the record, Lemon, supra at 744. However, there is sufficient information on the record for us to determine that it was not error for the instant trial judge to revoke probation based on the failure to pay costs and support.
+A sentencing judge has broad authority to alter and amend probation orders upn the petition of the probationer. People v Sattler, 20 Mich App 665, 669-670; 174 NW2d 605 (1969). In this case, despite his claims of being unable to find a new job after being fired and of being unable to pay, defendant did not inform his probation officer, attorney or the trial judge of his circumstances, or petition for modification, unlike the defendant in Lemon, supra. Neither did he attempt to make any minimal token payments as the defendant did in Terminelli, supra, beyond the initial child support payment made in the first month of probation. Thus, we consider it fair for the defendant to have been found to violate his probation based on nonpayment.
+In many probation cases, the emphasis is on merely impressing defendants with the severe consequences of violating probation. While we believe that it is important to stress that the conditions will be enforced exactly as written, we believe that it is equally important to indicate to defendants that the conditions can be altered. We hold that, in future cases, trial judges must inform defendants that if they are unable to comply with probation standards, they have the burden and opportunity to petition the court for modification.
+Finally, the instant defendant contends that sentence was improperly imposed based on his failure to do charitable work. We believe that this lawful condition (requiring 4 hours a month) was rationally tailored to the defendant’s rehabilitation, Johnson, supra, and, therefore, will not reverse on this basis.
+Affirmed.
+D. E. Holbrook, Jr., J., concurs in result only.
+In the instant case, the trial judge somewhat conveyed the spirit of this future requirement to defendant when he stated at defendant’s original sentencing:
+"If you violate the probation — that means if you — look, if you get laid off or something — get some problem like that — you talk to Mr. Panaretos. You talk to your probation officer. You do something.”
+However, the judge did not fully explain the possibility of legal modification to defendant, nor did he ask him if he understood. Both a full explanation of modification options, plus an acknowledgement that a defendant understands, will be necessary at future proceedings involving the suspension of sentence.
