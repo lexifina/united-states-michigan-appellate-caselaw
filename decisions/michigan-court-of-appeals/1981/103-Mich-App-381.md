@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "44701"
+decided: "1981-02-03"
+citations: ["103 Mich. App. 381"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: V. J. Brennan, P.J., and Allen and Beasley, JJ."]
+parties: ["PEOPLE v GOULETT"]
+source_url: "https://static.case.law/mich-app/103/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2191798
+cites_cases: ["1909 PA 17", "195 NW2d 884", "253 NW2d 650", "274 NW 776", "281 Mich 235", "346 Mich 544", "38 Mich App 239", "400 Mich 192", "78 NW2d 273"]
+---
+
+# People v. Goulett
+
+## Majority (V. J. Brennan, P.J.)
+
+V. J. Brennan, P.J.
+Defendant, while a prison inmate, was charged with bringing liquor into a prison, contrary to MCL 800.281; MSA 28.1621. The trial court, after refusing to dismiss or quash the information, accepted defendant’s guilty plea. Defendant appeals as of right. We reverse.
+The only evidence adduced against defendant was that he was caught climbing through a window into his barracks with a plastic jug which smelled of intoxicants. It was stipulated that the jug contained liquor and there was no doctor’s prescription for the liquor. The record was absolutely barren of any proof that the defendant himself or through any agents arranged to bring this liquor from outside of the prison. Rather, according to the defendant’s testimony and consistent with all other evidence, defendant knew that there was a jug of liquor hidden in the prison garden. On the evening in question, he slipped out through the barracks via a window, grabbed the jug from the garden and was reentering the barracks through the same window when he was caught by the prison guard.
+Defendant raises the same issue on appeal that he had repeatedly argued below: that an essential element of the statute under which he was charged and to which he pled guilty requires that the liquor be brought from outside the prison grounds into the prison grounds. He argues that the statute is not aimed at mere possession of liquor by a prison inmate nor the transportation of liquor from within the prison confines. We agree.
+1909 PA 17 (MCL 800.281 et seq.; MSA 28.1621, et seq.) was designed to keep contraband — weapons, liquor and narcotics — out of the state prison system. The act, as amended, was entitled as follows:
+"AN ACT to prohibit the bringing into prisons of all weapons or other implements which may be used to injure any convict or person or in assisting any convict to escape from punishment, or the selling or furnishing of same to convicts; to prohibit the control or possession by a convict of all weapons or other implements which may be used to injure any convict or person or in assisting any convict to escape from punishment; to prohibit the bringing into prisons of all spirituous or fermented liquors, drugs, medicines, poisons, opium, morphine or any other kind or character of narcotics, or the giving, selling or furnishing of spirituous or fermented liquors, drugs, medicines, poisons, opium, morphine or any other kind or character of narcotics to convicts or paroled prisoners and providing a penalty for the violation hereof.”
+1909 PA 17 contains five sections. It is § 1 of this act (MCL 800.281; MSA 28.1621) which is at issue in the instant case.
+As written, § 1 of 1909 PA 17, inter alia, prohibits the following conduct:
+"Sec. 1. No spirituous or fermented liquor * * * shall, on any pretense whatever, be sold or given away in any prison, or in any building appurtenant thereto, or on the land granted to or owned or leased by the state for the use and benefit of the prisoners; nor shall any kind of spirituous or fermented liquor * * * be brought into any prison, or any building appurtenant thereto, on or to the land granted to or owned or leased by the state for the use and benefit of the prisoners, without a written permit signed by the physician or such prison, * * * nor shall any spirituous or fermented liquor * * * be sold, given away or furnished, either directly or indirectly, to any convict either in, or anywhere outside of the prison or be disposed of in such manner or in such a place, that it may be secured by any prisoner or employee of the prison; nor shall any spirituous or fermented liquor * * * be knowingly sold, given away, or furnished to any paroled prisoner, without a written prescription of a duly licensed physician.”
+It is axiomatic that the primary object of statutory construction is to discover and give effect to the legislative intent. Smith v City Comm of Grand Rapids, 281 Mich 235, 240; 274 NW 776 (1937), Melia v Employment Security Comm, 346 Mich 544, 562; 78 NW2d 273 (1956). "All other rules of statutory construction are ancillary to this primary duty, and serve only as guides to assist the courts in determining legislative intent with a greater degree of certainty.” Kizer v Livingston County Board of Comm’rs, 38 Mich App 239, 246; 195 NW2d 884 (1972).
+The Michigan Supreme Court has previously recognized that the legislative intent of 1909 PA 17 was to focus on those people who "sold, gave, furnished or brought” contraband into prisons rather than on those inmates who ultimately received the goods.
+"The original legislation appears to be aimed at the acts of persons other than the convict who 'sold’, 'gave’, 'furnished’, or 'brought’ the designated contraband to a convict in prison. The title of 1909 PA 17 accurately reflects this focus. Indeed, it appears that the acts charged in the information could not have been punished under the statute as it read prior to the 1972 amendment.” People v Stanton, 400 Mich 192, 195; 253 NW2d 650 (1977).
+The Court went on to state that if a convict was to be charged under the statute on the basis that he had "control” or "possession” of a proscribed weapon, both the title and the particular section of the act would have to be amended. Subsequently, the Legislature did amend the title of the act to prohibit control or possession by a convict of all injurious weapons. However, and determinative of the instant case, the Legislature chose not to amend either the title of the act nor § 1 of the act to proscribe the control or possession of liquor by a convict. Its decision not to do so can only be presumed to be evidence of its intention not to enlarge the scope of the act so as to include convicts in ultimate possession or control of liquor. Kizer, supra, 255.
+Also, it probably concluded, as do we, that the authorities within the prison are equipped .with sufficient means to discipline inmates for this behavior if they so choose.
+Further, we find no merit to the prosecution’s argument, raised at the hearing on defendant’s motion to quash the information, that transporting liquor from a place on prison grounds into a building on prison grounds, as was the case here, is sufficient to sustain a conviction under § 1 of the act. It is reasoned by the prosecution that the charge against defendant is supported by the statute’s language, "nor shall any kind of spirituous or fermented liquor * * * be brought into any prison, or any building appurtenant thereto”.
+We find that this narrow reading is formalistic, strained and violative of the true legislative intent. The language should be construed to proscribe bringing liquor into any building on prison grounds from a place outside of prison grounds and not from a place on prison grounds.
+Reversed.
