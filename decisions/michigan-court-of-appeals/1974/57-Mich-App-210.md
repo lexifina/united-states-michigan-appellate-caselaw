@@ -1,0 +1,56 @@
+---
+court: "Michigan Court of Appeals"
+docket: "18663"
+decided: "1974-12-05"
+citations: ["57 Mich. App. 210"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, P. J., and R. B. Burns and Bebeau, JJ.", "All concurred."]
+parties: ["CHURCHILL v PALMER"]
+source_url: "https://static.case.law/mich-app/57/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2129133
+cites_cases: ["101 ALR 532", "106 Utah 560", "11 Mich App 401", "154 ALR 906", "161 NW2d 406", "194 NW2d 42", "198 NW2d 895", "202 NW2d 577", "235 NW 836", "254 Mich 131", "256 NW 486", "264 NW 306", "268 Mich 467", "274 Mich 103", "36 Mich App 632", "387 Mich 755", "40 Mich App 425", "42 Mich App 426", "73 ALR2d 749", "87 Utah 198"]
+---
+
+# Churchill v. Palmer
+
+## Majority (Holbrook, P. J.)
+
+Holbrook, P. J.
+This case arises from the death of plaintiffs husband by gunshot wounds inflicted by defendant Dr. Gene Wallace Fredericks. Plaintiff brought an action as administratrix of her husband’s estate for money damages for wrongful death in the Oakland County Circuit Court. After the commencing of the wrongful death action, defendant Janet Fredericks was granted a divorce from Gene Fredericks pro confesso. Thereafter, certain entireties property belonging to the Fredericks’ was conveyed to Robert Palmer in trust. Palmer later conveyed certain trust property to defendants Mr. and Mrs. Harold Waltman. The conveyance was recorded.
+In March of 1972, plaintiffs attorney received a letter from one of the attorneys for defendant Gene Fredericks informing plaintiff that Dr. Fredericks had no assets or property. Later, plaintiffs wrongful death complaint was amended to add Mrs. Fredericks as co-defendant.
+Plaintiff filed a complaint in Oakland County Circuit Court based upon the Uniform Fraudulent Conveyance Act, MCLA 566.11 et seq.; MSA 26.881 et seq., alleging certain fraudulent conveyances made by defendants Gene and Janet Fredericks to defendant Robert Palmer, as trustee, and grantees of Robert Palmer. Summary judgment was granted to defendants Ted R. Fredericks, Gene Wallace Fredericks, Robert J. Palmer, Harold C. Waltman, Margaret Waltman, Eraldo J. Valle, and Grace Valle, "but without prejudice as to any proceedings permitted by law in aid of execution of any judgment obtained by the Estate of Neil Churchill”. (Emphasis supplied.) Further, an order was entered dismissing plaintiffs second amended complaint as to defendants Valle and Waltman. Plaintiff here appeals as of right and sets out a number of issues, decision in only two of which is necessary for just resolution of the case, at this time.
+I
+Must plaintiff have judgment in her wrongful death action prior to beginning an action under the Uniform Fraudulent Conveyance Act?
+In pertinent part, MCLA 566.11; MSA 26.881 provides:
+" 'Creditor’ is a person having any claim, whether matured or unmatured, liquidated or unliquidated, absolute, fixed or contingent. 'Debt’ includes any legal liability, whether matured or unmatured, liquidated or unliquidated, absolute, fixed or contingent.”
+MCLA 566.20; MSA 26.890 reads as follows:
+"Where a conveyance made or obligation incurred is fraudulent as to a creditor whose claim has not matured, he may proceed in a court of competent jurisdiction against any person against whom he could have proceeded had his claim matured, and the court may,
+"(a) Restrain the defendant from disposing of his property,
+"(b) Appoint a receiver to take charge of the property,
+"(c) Set aside the conveyance or annul the obligation, or
+"(d) Make any order which the circumstances of the case may require.”
+It has been said that the purpose of the legislation was to make available to a creditor, as defined by the act, a remedy which theretofore had not been available until the creditor had first reduced his claim to judgment. Hartford Accident & Indemnity Co v Jirasek, 254 Mich 131, 140; 235 NW 836, 839 (1931). Further, it was said that the act is remedial and should be given a liberal construction. Id at 141; NW 839.
+One with a tort claim is a creditor from the date of the tort; any liabilities are considered as existing from the date the cause of action arose. Ashbaugh v. Sauer, 268 Mich 467, 472; 256 NW 486, 487 (1934). It has been held that a judgment creditor’s bill may precede judgment. Lucking v Barker, 274 Mich 103; 264 NW 306 (1936). By analogy, there seems no viable reason why a uniform fraudulent conveyance proceeding should not precede a wrongful death judgment. See Annot, Right of tort claimant, prior to judgment, to attack conveyance or transfer as fraudulent, 73 ALR2d 749, 751; 37 Am Jur 2d, Fraudulent Conveyances, § 145, pp 818-819; and, 37 CJS, Fraudulent Conveyances, § 331d, p 1164. Cf. 9 Callaghan’s Michigan Pleading & Practice, Creditors’ Suits, § 68.05, p 503. Support to this interpretation is aided by MCLA 566.221; MSA 26.971, which provides:
+"Every conveyance or assignment, in writing or otherwise, of any estate or interest in lands, or in goods or things in action, or of any rents or profits issuing therefrom, and any charge upon lands, goods or things in action, or upon the rents or profits thereof, made with the intent to hinder, delay or defraud creditors or other persons of their lawful suits, damages, forfeitures, debts or demands, and every bond or other evidence of debt given, suit commenced, decree or judgment suffered, with the like intent, as against the persons so hindered, delayed or defrauded, shall be void.”
+Thus, we rule that plaintiff may maintain her action under the Uniform Fraudulent Conveyance Act as one who is a tort claimant and, thus, a creditor. As such, we find that the preferred view, which follows the spirit of the legislation, is to allow an action to be brought prior to the rendering of a judgment in a preceding action.
+II
+Did plaintiff state facts sufficient to state a claim upon which relief could be granted?
+An argument similar to that made by defendants herein was proffered in Zuniga v Evans, 87 Utah 198, 209; 48 P2d 513, 517; 101 ALR 532, 538-539 (1935). The Utah Supreme Court wrote:
+"It ought to be sufficient, we think, in a case of this kind, to allege, in addition to necessary matters of inducement, that at a certain time the defendant accused made the conveyance which is attacked; that he was then insolvent, if such be the fact, or that he was thereby rendered insolvent, if that be the fact; and that such conveyance was made without any consideration passing from the grantee to the grantor therefor, or that a fair consideration was not paid, according to the fact which the pleader intends to prove.”
+See also 37 Am Jur 2d, supra, § 210, p 867. In the author’s comments to GCR 1963, 112.2, 1 Honigman & Hawkins, Michigan Court Rules Annotated, p 238, in pertinent part, it is said:
+"It should not be necessary to have formal allegations expressly covering each technical element of a fraud cause of action, if the facts pleaded show that these elements might be proved. Facts showing the time, place, contents of the misrepresentation or nature of the misleading act, facts misrepresented, and identification of what was obtained thereby, should be sufficient. See 1A Barron & Holtzoff, Federal Practice & Procedure, § 302.”
+As defendant Dr. Fredericks has maintained his right to silence throughout, only the barest facts may have been garnered by plaintiff. Further, as the case was disposed of summarily, no discovery was available to plaintiff in order to gain further facts to substantiate the claim of alleged fraud. Contemporarily, the policy is "to dispose of cases according to their merits, rather than by applying technical rules formalistically to bar meritorious claims”. Crowther v Ross Chemical & Mfg Co, 42 Mich App 426, 430; 202 NW2d 577, 580 (1972). Whether plaintiff has a meritorious claim remains to be seen; however, we rule that plaintiff has stated facts sufficient, at the outset, to avoid summary dismissal. This is consistent with GCR 1963, 111.1(1) which calls for a complaint to contain:
+"a statement of the facts without repetition upon which the pleader relies in stating his cause of action with such specific averments as are necessary reasonably to inform the adverse party of the nature of the cause he is called upon to defend, * * * ” (Emphasis supplied.)
+In Rose v Wertheimer, 11 Mich App 401, 405; 161 NW2d 406, 408 (1968), this writer stated, as concurred in by Judge R. B. Burns of this panel:
+"[T]he rules and practice of pleading have been liberalized greatly pursuant to the equitable consideration that a person should be allowed his day in court if it appears reasonably certain that his pleadings set forth a justiciable question and that, taken in their entirety, they are reasonably adapted to inform the adverse party of the cause which he is called upon to contest.”
+Having found that plaintiff has stated facts sufficient for what may be found to be a meritorious claim, and certainly enough to inform the various defendants of the cause of action, and further that judgment in the wrongful death action is not a condition precedent to filing an action under the Uniform Fraudulent Conveyance Act, we rule that plaintiff may continue her action. Thus, the grant of summary judgment was premature.
+Reversed and remanded for proceedings consistent with this opinion. Plaintiff is to have discovery, but trial on the merits must await the outcome of plaintiff’s wrongful death action. We do not retain jurisdiction. Costs to plaintiff.
+All concurred.
+Dr. Gene Fredericks was found guilty of murder in the first degree, MCLA 750.316; MSA 28.548, affd 36 Mich App 632; 194 NW2d 42 (1971); remanded for consideration 387 Mich 755 (1972); afFd 40 Mich App 425; 198 NW2d 895 (1972). We are informed that the trial court granted a new trial which culminated in a conviction of murder in the second degree (Oakland County Circuit Court, # CR-7063).
+Plaintiff stipulated that defendants Waltman had no knowledge of the alleged fraudulent conveyance.
+Cites Zuniga v Evans, 87 Utah 198; 48 P2d 513; 101 ALR 532 (1935). Zuniga was followed in Cardon v Harper, 106 Utah 560, 567; 151 P2d 99, 102; 154 ALR 906, 911 (1944). Further, we note that in 9 Callaghan’s Michigan Pleading and Practice, Creditors’ Suits, § 68.11, pp 508-509, it is said:
+"Because of the fact that there are half a dozen types of creditors’ suits, all of which are directed to the same end, but none of which stems from the same roots, nothing authoritative can be said, generically, about the complaint or initial pleading in such proceedings. It should be in writing, and clearly present a situation for relief, but need not go into great detail, or strictly avoid multifariousness, but it must make out a case either for equitable relief, or under one of the statutory provisions.” (Emphasis supplied.)
+Counsel for the Fredericks, in oral argument, in response to a question, stated that there was no objection to this conclusion, saying: " . . . that’s exactly what the appellee Fredericks stands for * * * this action is premature at this time, without judgment.”
