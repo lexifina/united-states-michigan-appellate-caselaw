@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "59530"
+decided: "1983-06-07"
+citations: ["126 Mich. App. 385"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. E. Holbrook, Jr., P.J., and J. H. Gillis and M. E. Dodge, JJ."]
+parties: ["GRAHAM v GRATIOT COUNTY"]
+source_url: "https://static.case.law/mich-app/126/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2224527
+cites_cases: ["109 Mich App 254", "196 NW 398", "225 Mich 311", "231 NW2d 653", "312 NW2d 86", "326 NW2d 810", "394 Mich 459", "414 Mich 448", "414 Mich 454", "414 Mich 466", "414 Mich 467", "414 Mich 475", "414 Mich 852", "69 LRA 516", "8 ALR2d 1254"]
+---
+
+# Graham v. Gratiot County
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff’s decedent drowned while swimming in a gravel pit located upon property owned and operated by defendants. Plaintiff filed this action for wrongful death based on theories of negligence, gross negligence and maintenance of an attractive nuisance. Defendants moved for summary judgment pursuant to GCR 1963, 117.2(3). The trial court granted the motion and plaintiff appeals as of right.
+This action is governed by the recreational use statute, MCL 300.201; MSA 13.1485, which provides:
+"No cause of action shall arise for injuries to any person who is on the lands of another without paying to such other person a valuable consideration for the purpose of fishing, hunting, trapping, camping, hiking, sightseeing, motorcycling, snowmobiling, or any other outdoor recreational use, with or without permission, against the owner, tenant, or lessee of said premises unless the injuries were caused by the gross negligence or wilful and wanton misconduct of the owner, tenant, or lessee.”
+Thus, to recover, plaintiff is required to plead and prove that defendants were guilty of "gross negligence” or "wilful and wanton misconduct”.
+In Burnett v City of Adrian, 414 Mich 448; 326 NW2d 810 (1982), the Supreme Court considered the meaning of these terms as they are used in the recreational use statute. Although gross negligence and wilful and wanton misconduct have often been treated as synonyms over the years the Court found that the terms involve two very distinct concepts. The majority, per Justice Ryan, found that gross negligence refers to the defendant’s subsequent negligence, i.e., negligent conduct by the defendant which occurs subsequent to the plaintiffs negligence. 414 Mich 454.
+Wilful and wanton misconduct, on the other hand, is to be measured by the standard set forth in Gibbard v Cursan, 225 Mich 311, 322; 196 NW 398 (1923):
+"According to note, 69 LRA 516, and text, 20 RCL, p 145, the elements necessary to characterize the injury in the case at bar as wilfully inflicted are:
+" '(1) Knowledge of a situation requiring the exercise of ordinary care and diligence to avert injury to another; (2) ability to avoid the resulting harm by ordinary care and diligence in the use of the means at hand; (3) the omission to use such care and diligence to avert the threatened danger, when to the ordinary mind it must be apparent that the result is likely to prove disastrous to another.’ ”
+See Burnett, p 455._
+In Burnett, all seven justices were in essential agreement concerning the traditional standards for gross negligence and wilful and wanton misconduct. However, the late Justice Moody, joined by Justices Williams and Levin, wrote a concurring opinion in which he observed that, in nearly every case involving the construction of the recreational use statute, Michigan courts have utilized the three-part Gibbard test to define a factual threshold which plaintiffs must satisfy to survive a motion for summary judgment. 414 Mich 466. Justice Moody concluded that a plaintiff’s claim should be measured by the Gibbard test regardless of whether it is couched in terms of gross negligence or wilful and wanton misconduct:
+"Accordingly, following Thomas [v Consumers Power Co, 394 Mich 459; 231 NW2d 653 (1975)], we hold that the three-pronged Gibbard formula defines a threshold burden which a plaintiff must satisfy to state a cause of action under the recreational use statute. While Thomas labeled the cause of action 'gross negligence’, in the interest of consistency with the common law from which the concept is derived, we prefer the term 'wilful and wanton misconduct’ to describe the threshold test. In the instant case, however, the specific terminology is less important than the determination of whether plaintiffs’ allegations have satisfied that test.” (Footnote omitted.) 414 Mich 475-477.
+In the case at bar, plaintiff’s claim of gross negligence is clearly not actionable under the traditional definition, because there is no allegation of the defendants’ subsequent negligence. 414 Mich 454.
+Plaintiff has not specifically alleged wilful and wanton misconduct. Notwithstanding, we believe it is proper to apply the Gibbard test to determine whether plaintiff has stated a cause of action under the recreational use statute.
+The complaint alleges that plaintiff’s decedent, a "healthy boy of 17 years of age”, drowned while swimming in defendants’ gravel pit. Plaintiff alleges that the gravel pit was well known by the defendants to be an extremely dangerous swimming hole frequented by persons using illegal drugs and alcohol and that the pit had been the site of a previous drowning death. Plaintiff alleged that defendants negligently left access roads open to public use, neglected to supervise the area and neglected to place warning signs or fences to secure the premises against public access.
+Viewing the pleadings and inferences drawn therefrom in a light most favorable to the plaintiff, and applying the Gibbard test, we hold that plaintiff has failed to state a cause of action under the recreational use statute. Specifically, we believe plaintiff has failed to satisfy part (3) of the Gibbard test. This is not a case in which the risk of drowning was compounded by an artificial condition or hidden defect. The complaint does not sufficiently allege that, as a consequence of defendants’ alleged negligent conduct, it would be apparent to the ordinary person that the result would be "likely to prove disastrous to another”. Gibbard, supra, p 322. (Emphasis supplied.) Summary judgment was properly granted on plaintiff’s claims of negligence and gross negligence._
+Summary judgment was also correctly granted on plaintiffs attractive nuisance claim. In Burnett, the Court unanimously held that, in cases governed by the recreational use act, a concurrent claim based on attractive nuisance is not cognizable. To the extent the facts alleged in the attractive nuisance claim are grounded in negligent conduct on defendants’ part, the claim is barred by the express terms of the statute. To the extent the complaint sets forth facts sufficient to support an allegation of gross negligence or wilful and wanton misconduct, it is duplicative of the cause of action based solely on that form of conduct. 414 Mich 454, fn 1, and 480-481. The trial court correctly granted summary judgment as to plaintiffs claim of attractive nuisance.
+Affirmed.
+Although defendants cited subrule 117.2(3), the motion asserted, inter alia, that plaintiff had failed to allege sufficient facts under the recreational use statute, MCL 300.201; MSA 13.1485. Therefore, we treat the motion as having been brought under subrule 117.2(1), for failure to state a claim upon which relief may be granted.
+The statute has been held applicable to publicly owned lands. Lucchesi v Kent County Road Comm, 109 Mich App 254, 268; 312 NW2d 86 (1981), lv den 414 Mich 852 (1982).
+As noted in the late Justice Moody’s concurring opinion in Burnett v City of Adrian, 414 Mich 448, 461-462; 326 NW2d 810 (1982), the gross negligence standard has been essentially restated in the form of the last clear chance doctrine. See Restatement Torts, 2d, § 479, p 530.
+This is so because, first, plaintiff did not have the benefit of the Burnett decision at the time the complaint was drafted. As observed by Justice Moody in Burnett, prior decisions have applied the Gibbard formula while attaching various labels to the claims involved. In Thomas v Consumers Power Co, 394 Mich 459; 231 NW2d 653 (1975), for example, the Court, faced with a claim governed by the recreational use statute, applied the three elements of wilful and wanton misconduct, but termed the cause of action "gross negligence”. 414 Mich 467.
+Second, plaintiff could ultimately be permitted to amend his complaint to add a claim of wilful and wanton misconduct.
