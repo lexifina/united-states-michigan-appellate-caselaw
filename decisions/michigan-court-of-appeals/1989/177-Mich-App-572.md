@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "105159"
+decided: "1989-02-13"
+citations: ["177 Mich. App. 572"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Doctoroff, P.J., and Sawyer and R. J. Jason, JJ."]
+parties: ["STALZER v SHAPE CORPORATION"]
+source_url: "https://static.case.law/mich-app/177/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2313833
+cites_cases: ["124 Mich App 255", "141 Mich App 356", "157 Mich App 716", "161 Mich App 785", "207 NW2d 316", "335 NW2d 197", "367 NW2d 393", "389 Mich 363", "398 NW2d 882", "403 NW2d 210", "411 NW2d 859", "418 Mich 870", "427 Mich 1", "427 Mich 21", "427 Mich 25", "96 ALR3d 1064"]
+---
+
+# Stalzer v. Shape Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from the trial court’s grant of defendant’s motion for summary disposition pursuant to MCR 2.116(0(10). Plaintiff argues on appeal that the trial court erred when it ruled that the facts as alleged by plaintiff do not rise to the level of an intentional tort. We affirm.
+Plaintiff was employed by defendant as a roll-form machine operator. He alleged that he was required to work in an aisle with his back to a storage rack which held stacked cartons of metal-shelving parts and that there were no stop bars or other protective devices to keep the stacked cartons and parts from falling off the storage rack. He contends that, on several occasions prior to his being injured, other coemployees had complained to defendant that they felt unsafe working underneath the unguarded cartons and parts. Plaintiff alleges that defendant should have placed steel stops on the rack to prevent the material from falling.
+Plaintiff was injured on August 21, 1986, when a fellow employee, a forklift truck driver, attempted to move one of the cartons on the top level of the storage rack opposite where plaintiff was working. He maintains that the truck driver was not properly trained, licensed or otherwise qualified to operate the forklift. This concern had also been conveyed to defendant. As a result of the actions of the forklift driver, one of the cartons on the shelf was pushed off the rack and fell onto plaintiff, severely injuring him, fracturing his legs, breaking his pelvis and his back with resultant paralysis. He has been disabled since the incident.
+By way of his complaint, plaintiff alleged that defendant knew of the dangerous condition of the racks, intended to leave the racks unguarded, and intended that an unqualified forklift operator drive the equipment in the area of the unguarded storage racks. Based on these facts, plaintiff alleged his injuries were substantially certain to occur. Thus, he argued, he should be allowed to sue for damages notwithstanding the exclusive remedy provision of the Workers’ Disability Compensation Act, MCL 418.131; MSA 17.237(131).
+The trial court granted defendant’s motion for summary disposition pursuant to MCR 2.116(0(10) on the ground that plaintiff’s sole remedy was the workers’ compensation act. It is plaintiff’s position on appeal that the trial court erred when it found that the circumstances, as alleged by plaintiff, did not give rise to a cause of action under the "substantial certainty” standard of Beauchamp v Dow Chemical Co, 427 Mich 1; 398 NW2d 882 (1986).
+Summary judgment pursuant to MCR 2.116(0(10) should be granted only when there is no genuine issue as to any material fact and the moving party is entitled to judgment as a matter of law. Spencer v Ford Motor Co, 141 Mich App 356; 367 NW2d 393 (1985); Pauley v Hall, 124 Mich App 255; 335 NW2d 197 (1983), lv den 418 Mich 870 (1983). When passing on a motion under this subrule, the court must consider the pleadings, affidavits, depositions, admissions and other documentary evidence available to it. Rizzo v Kretschmer, 389 Mich 363; 207 NW2d 316 (1973). The trial court must be satisfied that the nonmoving party’s claim cannot be supported at trial because of a deficiency which cannot be overcome. Morganroth v Whitall, 161 Mich App 785, 788; 411 NW2d 859 (1987).
+The trial court correctly ruled that plaintiffs allegations are legally insufficient to constitute a claim of an "intentional tort” within the meaning of Beauchamp, supra. The trial court made this decision after considering all of the pleadings and affidavits as required by the court rule.
+In Beauchamp, the Supreme Court held that actions based upon intentional torts of an employer against an employee are not statutorily barred by the exclusive remedy provision of the workers’ compensation act. The Supreme Court carefully discussed the differences between the so-called true intentional tort test and the substantial certainty test before arriving at its conclusion. The Supreme Court, in adopting the substantial certainty test, stated:
+The "substantial certainty” line of cases defines an intentional tort more broadly. An intentional tort "is not. . . limited to consequences which are desired. If the actor knows that the consequences are certain, or substantially certain, to result from his act, and still goes ahead, he is treated by the law as if he had in fact desired to produce the result.” It does not matter whether the employer wishes the injury would not occur or does not care whether it occurs. If the injury is substantially certain to occur as a consequence of the actions the employer intended, the employer is deemed to have intended the injuries as well. The substantial certainty test tracks the Restatement definition of an intentional tort. [427 Mich 21-22.]
+There is a significant difference between substantial certainty and substantial likelihood. As this Court stated in Boyer v Louisville Ladder Co, 157 Mich App 716, 719; 403 NW2d 210 (1987):
+The Beauchamp Court cautioned, however, that substantial certainty should not be equated with substantial likelihood. Further, a claim that an injury was caused by failure to provide safe working conditions is essentially a claim that the employee was injured by the employer’s negligence. 427 Mich 25.
+A mere knowledge and appreciation of the risk involved in an act is not the same as the intent to cause an injury. Beauchamp, supra. A result is intended if the act is done with the purposes of accomplishing the result or with knowledge that to a substantial certainty such a result will ensue. Id.
+A review of the trial court’s opinion discloses that the trial court considered the Beauchamp language in detail. The trial court concluded that using inexperienced, careless or incompetent forklift drivers to place and remove items from the storage rack created a substantial risk or likelihood of injury. But the court held that these acts did not, as a matter of law, create a "substantial certainty” of injury as required by Beauchamp. We agree.
+We hold that, in this instance, plaintiff merely alleged a negligence cause of action that falls short of an intentional tort as defined in Beauchamp and that his right of recovery is limited to the remedies available under the workers’ compensation act. The trial court properly granted summary disposition.
+Affirmed.
