@@ -1,0 +1,55 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-1744"
+decided: "1978-09-21"
+citations: ["86 Mich. App. 50"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R.M. Maher, P.J., and J.H. Gillis and McGregor, JJ."]
+parties: ["PEOPLE v REESE"]
+source_url: "https://static.case.law/mich-app/86/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2183556
+cites_cases: ["111 NW2d 809", "185 NW 830", "194 NW2d 709", "197 NW2d 121", "217 Mich 74", "223 NW2d 346", "230 NW2d 10", "25 NW 302", "253 NW2d 739", "258 NW2d 517", "266 NW2d 781", "364 Mich 596", "38 Mich App 651", "386 Mich 551", "56 Mich App 22", "58 Mich 321", "59 Mich App 641", "74 Mich App 297", "77 Mich App 456", "82 Mich App 260"]
+---
+
+# People v. Reese
+
+## Majority (Per Curiam:.)
+
+Per Curiam:.
+Defendant was charged with robbery armed in violation of MCL 750.529; MSA 28.797, and possession of a firearm while committing a felony in violation of MCL 750.227(b); MSA 28.424(2). A jury trial resulted in a finding of guilty as to the armed robbery only. Defendant was sentenced to 11 to 25 years in prison.
+An appeal as of right presents us with three issues, only one of which requires discussion.
+The prosecutor’s case in chief included the testimony of the complainant, Mrs. Hall, who stated that on Sunday, February 6, 1977, at 10:50 a.m. she arrived near her church, parked her car, and was exiting the car when she was confronted by the defendant. She testified that the defendant pulled a sawed-off shotgun from his coat, pointed it at her face, and took both her car and her purse containing about $23.
+After the defendant’s arrest, Sergeant Sommers, the officer in charge of the case, conducted a live lineup at which an attorney was present. Mrs. Hall, who had identified defendant at a photo showup, again identified the defendant.
+Defense counsel had announced in his opening statement that the defense would be alibi. A friend of the defendant, Robin Brown, testified that she was with the defendant from 10 p.m. Saturday, February 5 until about 2 p.m. Sunday, February 6.
+Defendant’s sister testified that Brown and the defendant came to her home on Sunday at about 11:30 a.m. Both Brown and the defendant’s sister testified that the Monday immediately following the Sunday they saw and spent time with the defendant he went to the Recorder’s Court building and was arrested.
+The defendant did not testify.
+The prosecutor called Officer Wood in rebuttal who testified that he arrested the defendant twice, once on Sunday, February 6, 1977, at 1:15 p.m., and again on Monday, February 14, 1977. Officer Wood testified that the first arrest was for an unrelated armed robbery and possession of a stolen motor vehicle. The second arrest was for the crime involved in this case.
+Immediately after the officer stated that the defendant was arrested on February 6, 1977, for possession of a stolen motor vehicle and armed robbery, the defendant objected and moved for a mistrial. The court ruled that it would allow the testimony. Following argument on the objection, the trial court stated that it would "reserve a ruling”. When it became apparent that the first arrest was for an incident unrelated to the crime charged the defendant again objected.
+After some discussion on the objection, the jury was excused. The prosecutor argued that he was attempting to rebut the alibi defense by showing that the defendant was arrested for the crime in this case on February 14, not February 7. The prosecutor argued that if the defendant had spent the Saturday night and Sunday morning before his arrest with Robin Brown and his sister as they had indicated, that Saturday and Sunday was the weekend after the robbery, not the weekend of the robbery.
+The defendant contended that the mention of the first arrest and the testimony that it was for the possession of a stolen motor vehicle and an armed robbery of another person, required that a mistrial be granted. After the jury returned, the trial court instructed them to disregard the previous statements of the rebuttal witness. The prosecutor and the court then elicited from the witness the fact that he had arrested the defendant on both February 6 and February 14.
+On appeal defendant asserts that the admission of rebuttal testimony revealing that a defendant was recently arrested for an unrelated crime similar to that which was charged requires a new trial.
+Rebuttal evidence is that which is introduced "by one party to contradict, repel, explain or disprove evidence produced by the other party and tending directly to weaken or impeach the same”. People v Wright, 74 Mich App 297, 300; 253 NW2d 739 (1977), quoting People v Utter, 217 Mich 74, 83; 185 NW 830 (1921). In this case the rebuttal evidence disclosing that the defendant went to Recorder’s Court and was arrested on February 14, 1977, and not on February 7, 1977, fits squarely within the bounds of proper rebuttal. It removes the exculpatory effect of the defense witnesses’ testimony that they were with the defendant the Saturday and Sunday before the Monday on which he was arrested. The rebuttal evidence tends to show that the defendant’s witnesses may have spent the 12th and 13th of February with the defendant and not the 5th and 6th of February, the weekend of the crime.
+That part of the rebuttal testimony which revealed that the defendant was arrested on February 6 at 1:15 p.m. is also proper because it contradicts the testimony of Robin Brown who testified that she was with the defendant until about 2 p.m. that Sunday. It also contradicts the testimony of the defendant’s sister who testified that the defendant and Robin stayed at her home until 2:30 or 3 or 4 p.m.
+Having established those facts regarding the February 6 arrest which were relevant to proper rebuttal, the prosecutor asked specifically what the defendant was arrested for on February 6. The officer testified that he arrested the defendant for an unrelated armed robbery and possession of a stolen car. This testimony does not refute any part of the defendant’s alibi defense; it is not, therefore, proper rebuttal testimony. People v Wright, supra, People v Utter, supra.
+This Court recently discussed the use of evidence of a defendant’s bad acts in People v Wilkins, 82 Mich App 260; 266 NW2d 781 (1978). The general rule stated in that case was that: "evidence of other bad acts may be introduced only when the matter which they tend to prove is disputed”. See also People v Lundberg, 364 Mich 596; 111 NW2d 809 (1961). The Court listed three exceptions to the general rule. The statement in this case could have fallen within that exception which would allow a prosecutor to show identity by showing a common modus operandi, if the statement had been offered in the prosecutor’s case in chief and if a proper foundation could have been laid. People v Wilkins, supra, People v Utter, supra. But even if the requirements of Wilkins were met, the statement would still have to be more probative than prejudicial. Wilkins, supra.
+The prosecutor, on appeal, tacitly admits that the statement which implicated defendant in an unrelated armed robbery and possession of a stolen vehicle was an error. He argues that the error was harmless.
+The standard for harmless error involves a dual inquiry: 1) was the error so offensive to the maintenance of a sound judicial system as to require reversal? and 2) if not, was the error harmless beyond a reasonable doubt? People v Sherman Hall, 77 Mich App 456; 258 NW2d 517 (1977), People v Robinson, 386 Mich 551, 562-563; 194 NW2d 709 (1972).
+The purpose of the first criterion is to deter prosecutorial and police misconduct. People v Swan, 56 Mich App 22; 223 NW2d 346 (1974). In People v White, 38 Mich App 651, 654; 197 NW2d 121 (1972), this Court held that a reference to an officer’s attempt to buy heroin from the defendant was so prejudicial as to require reversal even though the testimony also indicated that she did not sell heroin. A major consideration in the Court’s decision was that the improper testimony was elicited by a question from the prosecutor. In People v Measles, 59 Mich App 641, 642-643; 230 NW2d 10 (1975), the fact that a security officer indicated that he was referring to notes which also contained references to another incident with the defendant was not considered grounds for reversal. In that case, however, the security officer’s statement was not solicited by the prosecutor.
+The prosecutor specifically elicited the information that the defendant was arrested for armed robbery and possession of a stolen motor vehicle in this case. The prosecutor had obtained an answer to the relevant question concerning the time of the arrest but proceeded to ask "What did you arrest him for?” When the witness stated possession of a stolen motor vehicle the prosecutor continued by asking "Anything else?” The witness replied "Armed robbery”. In eliciting these responses and repeating them, the prosecutor improperly used rebuttal to assert new evidence of guilt, People v Utter, supra, and improperly injected evidence of a recent bad act which was nearly identical to that for which the defendant was being tried. People v Measles, supra, People v White, supra.
+Testimony of the fact that the defendant was arrested for an unrelated crime similar to the one charged clearly violated not only the general rule prohibiting evidence of unrelated bad acts but also the rules concerning the use of rebuttal which find their genesis in the 1885 case of People v Quick, 58 Mich 321, 323; 25 NW 302 (1885).
+More significantly, the Michigan Supreme Court in People v Robinson, supra, held that the facts in that case, in which the prosecutor asked questions which revealed a crime unrelated to the charge, required reversal in accord with the first prong of the harmless error rule.
+In Robinson the Court stated:
+"Here, without regard to the result reached in this case, the prosecutor’s deliberate injection of this improper evidence and the trial court’s acquiescence in it are such affront to the integrity of the trial process that we will not countenance it”. 386 Mich at 563.
+The error here was not harmless. It was "so offensive to the maintenance of a sound judicial system” that it requires reversal.
+Reversed and remanded for a new trial.
+
+## Concurrence (J. H. Gillis, J.)
+
+J. H. Gillis, J.
+(concurring). I agree that this
+case should be reversed. However, I have found nothing in the record of the instant case to indicate that the prosecutor deliberately injected the improper evidence knowing it to be prejudicial and without probative value.
+I would also like to note that I do not believe there should be a rule mandating reversal in all instances where improper prior bad acts testimony is elicited by a prosecutor. I think we have to take each case and analyze it in order to determine the effect that the complained of testimony had on the verdict.
+I concur in the reversal of the conviction in the instant case.
