@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "119530"
+decided: "1991-03-07"
+citations: ["189 Mich. App. 325"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Gribbs, P.J., and Mackenzie and Jansen, JJ."]
+parties: ["ANDERSON v CHRYSLER CORPORATION"]
+source_url: "https://static.case.law/mich-app/189/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2328591
+cites_cases: ["106 NW2d 105", "128 Mich App 102", "152 Mich App 451", "164 Mich App 549", "164 Mich App 555", "262 NW2d 629", "267 NW2d 923", "274 NW2d 411", "339 NW2d 705", "361 Mich 577", "394 NW2d 440", "402 Mich 243", "403 Mich 206", "405 Mich 105", "418 NW2d 96"]
+---
+
+# Anderson v. Chrysler Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals by leave granted from an order of the Workers’ Compensation Appeal Board, which found that plaintiff had a continuing partial disability based on a skin condition of his hands. We reverse and remand.
+Plaintiff started working for defendant in September, 1972. For about two years his duties involved applying oil to regulators. While performing this job, plaintiff began experiencing skin problems. According to plaintiff, he experienced skin eruptions whenever he worked with oil or grease, but the eruptions would subside when he was not exposed to these substances. Plaintiff testified that he was unsuccessful in seeking employment sifter being laid off by defendant in 1979. He stated that he could return to work for defendant, but questioned whether he could perform a job entailing exposure to oil.
+In his petition, filed on June 22, 1982, plaintiff alleged disabilities of his back and head, his skin condition, and an "emotional gastro-intestinal” condition. Plaintiff claimed injury dates from exposure to oil or grease of November 1974, September 1976, March 1977, and May 1978.
+The medical testimony regarding plaintiff’s skin condition came from Drs. Jules Altman and Wally Sherman Mahar. Dr. Mahar was plaintiff’s family doctor and treating physician for his skin problem. Dr. Mahar diagnosed plaintiff’s condition as hyperkeratosis palmaris, a skin condition which results in fissures or cracks in the creases of the palms of the hands. He further testified that there would be a "flare-up” of contact dermatitis and plaintiff’s hands would break out in painful lesions or a rash when he was exposed to grease or oil. Dr. Mahar described plaintiff’s symptoms as an "irritating phenomenon, chemical reaction” and described plaintiff’s condition as "birth defect, hereditary condition, congenital hyperkeratosis palmaris.” The doctor stated that the only treatment for plaintiff was to avoid exposure to grease and oil or any other irritating substance which would cause a flare-up.
+Dr. Altman diagnosed plaintiff as having "neuro dermatitis” which was not work-related. Dr. Altman saw plaintiff on three occasions, but plaintiff had been off work preceding each occasion and apparently Dr. Altman did not see plaintiff’s skin in a symptomatic state.
+The hearing referee found that plaintiff had suffered a number of injuries, none of which were disabling. However, the referee found that plaintiff had disabling dermatitis which "flared up” whenever he worked in an area where he handled grease or oil. The referee found plaintiff partially disabled from November 15, 1974, apparently the first date plaintiff showed that he had problems with the skin on his hands. The wcab affirmed the referee’s decision.
+Whether plaintiff suffered a disability and whether that disability was work-related were both questions of fact for the wcab. Dressler v Grand Rapids Die Casting Corp, 402 Mich 243, 250; 262 NW2d 629 (1978). Such factual determinations of the wcab are conclusive and may not be set aside by this Court if they are supported by any competent evidence in the record. Aquilina v General Motors Corp, 403 Mich 206, 213; 267 NW2d 923 (1978); MCL 418.861; MSA 17.237(861). The wcab is the judge of the weight and credibility of witnesses and their testimony, and it may draw inferences from the facts which it finds established. Aquilina, supra; Thomas v Chrysler Corp, 164 Mich App 549, 557; 418 NW2d 96 (1987).
+We conclude that the wcab improperly awarded continuing benefits for a nonwork-related injury which resulted in temporary "flare-ups” of symptoms. Plaintiff is entitled to a closed award only.
+A workers’ compensation claimant must establish by a preponderance of the evidence that there is a relationship between his disabling condition and his workplace. Id., p 555. Where only the plaintiff’s symptoms, and not his underlying condition, have been aggravated by his employment, the plaintiff is entitled to only a closed award of benefits during the period that his condition is symptomatic to a disabling degree. Id.; Carter v General Motors Corp, 361 Mich 577, 594; 106 NW2d 105 (1960). This principle was explained in Kostamo v Marquette Iron Mining Co, 405 Mich 105, 116; 274 NW2d 411 (1979):
+The worker’s compensation law does not provide compensation for a person afflicted by an illness or disease not caused or aggravated by his work or working conditions. Nor is a different result required because debility has progressed to the point where the worker cannot work without pain or injury. . . . Unless the work has accelerated or aggravated the illness, disease or deterioration and, thus, contributed to it, or the work, coupled with the illness, disease or deterioration, in fact causes an injury, compensation is not payable.
+Here, there was no evidence that plaintiff’s congenital condition was in any way aggravated by his work. When he came in contact with oil or grease his hands would break out in a rash, which could be very painful, but when his exposure to oil or grease was terminated his hands went back to their preexisting condition. Dr. Mahar’s testimony, which the wcab relied upon, was entirely clear on the point that plaintiffs condition was one he had from birth and that exposure to certain substances at work caused symptomatic "flare-ups.” This is not a basis for an open award of benefits.
+The plaintiffs situation is very similar to that of the plaintiffs in Thomas v Chrysler Corp, supra, Durham v Chrysler Corp, 128 Mich App 102; 339 NW2d 705 (1983), and Carter v General Motors Corp, supra. Those cases held that work which causes an aggravation of symptoms only, and not an acceleration or aggravation of the underlying condition, entitles a plaintiff to a closed award at most. 164 Mich App 555. Nezdropa v Wayne Co, 152 Mich App 451; 394 NW2d 440 (1986), cited by plaintiff, is distinguishable because once plaintiffs rash and pain subsided he was perfectly capable of working. He admitted as much.
+Defendant argues that the award should be closed as of July 28, 1979, the date Dr. Altman examined plaintiff. This is a factual matter and should be decided by the wcab rather than this Court.
+Reversed and remanded. We retain no further jurisdiction.
