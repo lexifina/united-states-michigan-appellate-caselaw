@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "81780"
+decided: "1986-04-03"
+citations: ["153 Mich. App. 82"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Beasley, P.J., and R. M. Maher and R. L. Tahvonen, JJ."]
+parties: ["PEOPLE v SCOBEY"]
+source_url: "https://static.case.law/mich-app/153/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2282434
+cites_cases: ["102 Mich App 558", "142 Mich App 581", "143 Mich App 433", "212 NW2d 190", "223 NW2d 346", "278 NW2d 304", "292 NW2d 214", "301 NW2d 824", "302 NW2d 232", "329 NW2d 716", "370 NW2d 405", "372 NW2d 588", "384 US 436", "390 Mich 355", "395 Mich 810", "406 Mich 279", "409 Mich 915", "410 Mich 413", "411 Mich 980", "415 Mich 372", "56 Mich App 22", "87 ALR3d 706", "96 Mich App 403", "99 ALR3d 934"]
+---
+
+# People v. Scobey
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+On August 28, 1984, following a two-day jury trial, defendant, George W. Scobey, was convicted of first-degree criminal sexual conduct, in violation of MCL 750.520b(l)(b); MSA 28.788(2)(l)(b). The trial court subsequently sen-. tenced defendant to serve not less than fifteen years nor more than twenty-five years in prison. Defendant appeals his conviction as or right.
+The charge against defendant arose out of a complaint filed on behalf of his thirteen-year-old daughter. At trial, defendant’s daughter testified that, since she had been nine or ten years old, defendant had threatened to take away certain privileges if she did not acquiesce in his touching her in a sexual manner. Defendant also had taken four pictures of his daughter posing in the nude. Specifically, on Friday, March 9, 1984, defendant had told his daughter that, if she wanted to get the ingredients to make a pizza for her home economics class, she would have to allow him to touch her. Defendant then fondled his daughter’s breasts, inserted his finger in her vagina and ejaculated in her pubic area.
+Following this incident with defendant, the daughter left to spend the weekend at a friend’s house. Defendant’s daughter testified that on the Sunday following the incident she told the mother of her friend about defendant’s sexual conduct towards her. The friend’s mother testified that she advised defendant’s daughter to talk to her counselor at school about the matter. On the following Wednesday, defendant’s daughter did talk to her school counselor about the incident. The counselor testified that he contacted a county protective services worker about the incident, and a complaint was filed against defendant.
+At trial, defendant denied that the incident on March 9, 1984, ever occurred. Defendant’s girlfriend also testified, stating that she had been with defendant at the time the incident allegedly occurred, that the incident could not have occurred without her knowledge, and that the incident had not occurred.
+On appeal, defendant first argues that the trial judge erred in admitting certain hearsay evidence. The record reveals that both the friend’s mother and the school counselor testified that defendant’s daughter had told them that defendant had "played around with her” and "abused her.”
+The prosecutor argued, at trial and on appeal, that these statements by defendant’s daughter were not offered to prove the truth of the matter asserted and, thus, were not hearsay under MRE 801(c). The prosecutor asserted that the statements were offered to explain the subsequent actions of the witnesses. This argument is without merit. The subsequent actions of the witnesses were not matters in issue or of consequence at defendant’s trial. Therefore, the statements offered for this purpose were not "relevant evidence” as defined in MRE 401 and were inadmissible under MRE 402.
+The statements were only relevant if offered to prove the truth of the matter asserted (that defendant had sexually abused his daughter) and, thus, constituted hearsay. No exception to the rule barring hearsay evidence applies to the statements of defendant’s daughter in this case. The only plausible exception would be the excited utterance exception under MRE 803(2). However, this exception does not apply in this situation where defendant’s daughter made her statement to her friend’s mother two days after the incident and to her school counselor five days after the incident. Defendant’s daughter did not make her statements concerning the startling incident before she had time to contrive and misrepresent, as required by MRE 803(2).
+Concluding that admission of this hearsay evidence was error, we consider whether the error was harmless. Under People v Gee, the error cannot be considered harmless because, as in most criminal sexual assault cases, the testimony concerning the event was one-to-one, complainant versus defendant. While the testimony of the other witnesses corroborated and made more credible the testimony of defendant’s daughter,, we cannot conclude beyond a reasonable doubt that, if the trial had been free of this error, not one juror would have voted to acquit defendant. Therefore, the error was not harmless.
+Even though our disposition of the first issue raised by defendant on appeal requires reversal of his conviction, we address defendant’s second assertion of error, since the issue may arise when defendant is retried on the charge in this matter. Defendant asserts that his constitutional right to post-arrest silence was violated. The alleged violation occurred when the prosecution questioned one of the arresting oificers concerning the fact that, when informed of the complaint and after receiving his Miranda warnings, defendant "made no verbal response,” "grasped his hands tight to the point where his knuckles were turning white,” "sat with his head hanging,” and "appeared he was acting in a remorseful way.” Also, when cross-examining defendant, the prosecution elicited the fact that defendant was crying while the arresting officer informed him of the complaint. After being completely informed of the complaint and conducting himself as described above, defendant stated, "I can’t believe that she turned me in.”_
+In order to protect the right of post-arrest silence, silence in the face of an accusation of criminal conduct cannot be used as evidence. Two narrow exceptions to this rule exist. First, evidence of a defendant’s post-arrest silence may be used to contradict his assertion at trial that he made a statement. This exception does not apply in the within case because defendant never testified that he made a statement to the arresting officer.
+Second, evidence of a defendant’s silence on certain matters may be presented to elicit the full extent of a defendant’s statement made to the arresting officer. The arresting officer’s testimony in this case was not elicited to explain ommissions in the statement eventually given by defendant. Therefore, the officer’s observations and conclusions concerning defendant’s silence and his conduct during this silence violated defendant’s right to remain silent following his arrest. As noted above, we do not need to decide whether the admission of the officer’s testimony constituted reversible error. However, when defendant is retried on this charge, the evidence surrounding defendant’s post-arrest silence should not be admitted.
+After reviewing defendant’s three remaining assertions of error at trial, we find that they are without merit. The trial judge did not abuse his discretion in admitting evidence of defendant’s prior acts of sexual abuse against his daughter and four nude photographs of his daughter taken by defendant. In addition, the trial judge did not abuse his discretion in denying admission of sexually explicit drawings made by defendant’s daughter offered for the purpose of impeaching her testimony.
+Reversed and remanded for new trial.
+People v McKinney, 410 Mich 413, 418; 301 NW2d 824 (1981).
+People v Gee, 406 Mich 279, 282; 278 NW2d 304 (1979); People v Kreiner, 415 Mich 372; 329 NW2d 716 (1982).
+Gee, supra, p 283.
+See People v White, 142 Mich App 581, 589; 370 NW2d 405 (1985).
+People v Swan, 56 Mich App 22; 223 NW2d 346 (1974), lv den 395 Mich 810 (1975).
+Miranda v Arizona, 384 US 436; 86 S Ct 1602; 16 L Ed 2d 694 (1966).
+People v Bobo, 390 Mich 355; 212 NW2d 190 (1973).
+People v Soles, 143 Mich App 433; 372 NW2d 588 (1985).
+People v Whitty, 96 Mich App 403; 292 NW2d 214 (1980), lv den 409 Mich 915 (1980); People v Gerald Wells, 102 Mich App 558; 302 NW2d 232 (1980), lv den 411 Mich 980 (1981).
