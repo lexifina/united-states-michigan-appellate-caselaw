@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "105714"
+decided: "1989-04-11"
+citations: ["178 Mich. App. 338"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Sawyer, P.J., and Beasley and A. L. Gilbert, JJ."]
+parties: ["MERIDIAN MUTUAL INSURANCE COMPANY v MORROW"]
+source_url: "https://static.case.law/mich-app/178/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2312761
+cites_cases: ["145 Mich App 55", "147 Mich App 600", "149 Mich App 673", "157 Mich App 684", "163 Mich App 646", "172 Mich App 696", "247 NW2d 503", "284 NW2d 256", "377 NW2d 342", "383 NW2d 259", "386 NW2d 640", "397 Mich 614", "403 NW2d 197", "407 Mich 165", "415 NW2d 2", "425 Mich 859", "428 Mich 900", "432 NW2d 404", "65 ALR3d 824"]
+---
+
+# Meridian Mutual Insurance v. Morrow
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from an order denying plaintiffs motion for summary disposition and declaring the rights of the parties under a homeowner’s insurance policy issued by plaintiff to Timothy and Kelly Morrow (hereafter defendants). The trial court found plaintiff obligated to defend the defendants in an action instituted against them by the personal representative of the estate of Robert Alan Edwards and to provide coverage for any liability assessed against defendants in that proceeding. We affirm.
+On November 1, 1985, defendant Timothy Lee Morrow, Edwards, and Daniel Knickerbocker, all minors,, were riding together on , a 250 cc Suzuki motorcycle on VFW Road (M-188) in Eaton County. They were unable to negotiate a curve in the road, struck a mailbox located on private property, and were thrown off the Suzuki. Edwards was killed as a result of the accident.
+The Suzuki was purchased by the defendants in 1981 or 1982 from a third party for $100. The vehicle was stripped of its horn, turn signals, license plate bracket, and rear taillight. Defendants intended to use the vehicle as an off-road vehicle, not to be used on streets or roadways. The driving of the Suzuki on VFW Road immediately prior to the accident was in violation of Timothy Morrow’s instructions to his son that the vehicle’s use be limited to off-road only. No-fault insurance was never obtained for the Suzuki nor was it registered with the Secretary of State.
+The personal liability coverage provision under the basic homeowner’s policy issued by plaintiff to defendants excluded liability coverage arising out of the ownership, maintenance, use or negligent entrustment of "a recreational land motor vehicle, other than a golf cart while used for golfing, owned by an insured, if the bodily injury or property damage occurs away from the residence premises.” The stated exclusion did not apply if the motor vehicle was "designed exclusively for use off public roads and used principally to service the insured premises” or was "kept in dead storage on the residence premises.” However, defendants did not base their entitlement to coverage under the terms of the basic policy.
+In addition to the basic homeowner’s insurance coverage, defendants bought a separate recreational vehicle endorsement for which defendants paid an extra premium to plaintiff. The insurance agent that sold the endorsement to defendants was the same agent that sold defendants their premises and vehicle insurance. The agent was aware that a public road divided defendants’ farm property. The agent knew that defendants wanted insurance coverage for the Suzuki. The purpose of the endorsement was specifically to insure the Suzuki. The endorsement provided, in pertinent part:
+For the additional premium shown on the Declarations, Personal Liability and Medical Payments to Others apply to bodily injury or property damage arising out of the ownership, maintenance, use, loading or unloading of any recreational motor vehicle owned by an insured.
+ADDITIONAL DEFINITION USED THROUGHOUT THIS ENDORSEMENT
+1. Recreational Motor Vehicle means any self-propelled, motorized land or amphibious vehicle, including its equipment designed or used for recreation, vacation or leisure time activities.
+But this insurance does not apply:
+* * *
+c. to any recreational motor vehicle (except mopeds or snowmobiles) subject to motor vehicle registration.
+The Suzuki was an off-road vehicle as defined in MCL 257.1601Q; MSA 9.3300(l)(j). It was exempt from registration with the Secretary of State if operated exclusively on the owner’s land, MCL 257.1604; MSA 9.3300(4), and was exempt from the provisions of the no-fault act, MCL 257.1603; MSA 9.3300(3).
+In moving for summary disposition, plaintiff claimed that insurance coverage for the Suzuki was unambiguously excluded under the terms of the endorsement because the Suzuki was "subject to motor vehicle registration.” Plaintiff argued that the act of driving the Suzuki on VFW Road transformed the vehicle from one which did not have to be registered into one which must be registered and which should be covered under a no-fault policy, not merely a recreational vehicle policy.
+Defendants contended that the exclusionary phrase was ambiguous and should not be construed in the insurance company’s favor to defeat the reasonable expectation of the insureds that the separately bargained-for recreational vehicle endorsement provided insurance coverage for the Suzuki. The trial court agreed with defendants, denied summary disposition for plaintiff, and ordered plaintiff to defend and indemnify defendants in the underlying action under the terms of their homeowner’s insurance policy.
+The issue on appeal is whether the exclusionary language of the recreational vehicle endorsement precludes insurance coverage of the defendants’ motorcycle. We conclude that it does not.
+Insurance policies, like all contracts, are agreements between two or more parties which the courts must interpret. Hagerl v Auto Club Group Ins, 157 Mich App 684, 688; 403 NW2d 197 (1987), lv den 428 Mich 900 (1987). In this case, the insureds wanted insurance coverage for the Suzuki and agreed to purchase a recreational vehicle endorsement for which the insureds paid an extra premium. Plaintiff, through its agent, specifically undertook to provide insurance coverage for the recreational vehicle and received additional premiums in consideration of the additional coverage. Plaintiff now argues that the very vehicle it undertook to insure was excluded from coverage under the terms of the special endorsement.
+We find that the exclusionary phrase "subject to motor vehicle registration” is ambiguous and must be construed against the insurer/drafter and in favor of the insured. Mays v Ins Co of North America, 407 Mich 165, 172; 284 NW2d 256 (1979); Engel v Credit Life Ins, 145 Mich App 55, 61; 377 NW2d 342 (1985). Exclusionary clauses, in particular, are to be strictly construed against the insurer. Farm Bureau General Ins Co of Mich v Riddering, 172 Mich App 696, 704; 432 NW2d 404 (1988); Engel, supra, p 61.
+We specifically reject plaintiff’s argument that the isolated and illegal act of driving the Suzuki on a public road immediately prior to the accident transformed the vehicle from one that was not subject to motor vehicle registration, and therefore insured, into one that was subject to motor vehicle registration, and therefore not insured. A vehicle is either insured or it is not. We believe it makes no difference whether the accident occurred on a public road or private property.
+The purpose of insurance is to insure. Shumake v Travelers Ins Co, 147 Mich App 600, 608; 383 NW2d 259 (1985), lv den 425 Mich 859 (1986). A technical construction of policy language which would defeat a reasonable expectation of coverage is not favored. Crowell v Federal Life & Casualty Co, 397 Mich 614, 623; 247 NW2d 503 (1976); Auto Owners Ins Co v Ellegood, 149 Mich App 673, 676; 386 NW2d 640 (1986). We believe that it was a reasonable belief on the part of defendants, who purchased the insurance endorsement for the motorcycle, that the motorcycle was in fact insured. We hold that the exclusion set forth in the recreational vehicle endorsement does not apply and that coverage under the insurance contract is therefore available.
+The trial court’s final order of declaratory relief entered December 7, 1987, is affirmed.
+Affirmed.
+It is not clear which minor was driving the Suzuki at the time of the accident, however, this fact is immaterial to the issues raised in the declaratory action.
+See Allstate Ins Co v Goldwater, 163 Mich App 646, 648-649; 415 NW2d 2 (1987), where this Court found very similar language contained in a basic homeowner’s insurance policy unambiguously excluded coverage for an accident involving a motorized land vehicle designed for recreational use off public roads, owned by an insured, that occurred away from the residence premises.
