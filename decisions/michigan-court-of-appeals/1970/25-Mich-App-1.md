@@ -1,0 +1,49 @@
+---
+court: "Michigan Court of Appeals"
+docket: "7,836"
+decided: "1970-06-26"
+citations: ["25 Mich. App. 1"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J., and Quinn and Rood, JJ.", "All concurred."]
+parties: ["PEOPLE v. CASPER"]
+source_url: "https://static.case.law/mich-app/25/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2072697
+cites_cases: ["1 Mich App 279", "2 Mich. App 168", "20 Mich App 246", "22 Mich App 396", "238 Mich 332", "253 Mich 321", "264 Mich 83", "291 Mich 46", "4 Mich App 19", "4 Mich App 449"]
+---
+
+# People v. Casper
+
+## Majority (Lesinski, C. J.)
+
+Lesinski, C. J.
+Defendant Robert Casper and another man, David Bunker, were convicted of first-degree murder, MCLA § 750.316 (Stat Ann 1954 Rev § 28.548), following a trial by jury. The codefendants were sentenced to life imprisonment. Defendant Casper appeals as of right.*
+During the late afternoon on December 23, 1966, a red, 1962 Chevrolet convertible with a white top, pulled into the Clark Service Station on Van Dyke Avenue in the City of Utica. One of the station attendants, Alan Pringle, serviced the car. He put $2 worth of gasoline into the car, then went to the driver’s side for payment.
+At this time the station manager came ont of the station to see if he conld give assistance. He observed the pnmp turned off at $2 worth of fuel and started back toward the building while Pringle went to collect from the driver. When the manager was approximately eight to ten feet from the car he heard a loud report. He turned and saw Pringle slumping to the pavement with money falling around him. The red convertible immediately left the station at a high speed.
+Shortly after the incident members of the Sterling Township Police Department observed an automobile matching the description of the car seen at the service station and gave chase. The chase, at speeds up to 110 miles per hour, led through the City of Warren and several subdivisions. The car managed to avoid a police roadblock at one point, but finally went out of control after hitting another vehicle and came to a stop on the median strip of Mound Road.
+David Bunker, the driver of the red Chevrolet, and defendant, the passenger, were immediately placed under arrest. Both were subsequently charged with first-degree murder, following the death of Alan Pringle.
+At trial it was established by the prosecution through the testimony of a qualified ballistics expert that the gun which fired the fatal shot was the same gun which the police found along the chase route shortly after the chase. It was also established that the same gun had shot several bullets found in the basement of Bunker’s home. The bullets from Bunker’s basement were found there during a police search conducted several days after the crime.
+At the joint trial held below, David Bunker testified in his own defense. Both the prosecutor and defendant’s attorney cross-examined Bunker. On appeal defendant challenges the propriety of the scope of the prosecutor’s cross-examination on the grounds that it tended to question defendant’s character, when defendant had not placed his character in issue.
+Our review of the record satisfies us that defendant’s contention is without merit. The thrust of the cross-examination was an effort to show a close friendship between Bunker and defendant. The only questions which might be interpreted as attacking defendant’s character are those establishing that defendant played cards with Bunker and implying that the two may have gotten drunk together. The line of questioning did not extend to unreasonable lengths and was not challenged below by objection until the prosecutor began a different topic by asking Bunker whether he knew if defendant was employed. As soon as defendant did object, the prosecutor ended the line of questioning.
+Defendant also alleges on appeal that there was insufficient evidence adduced below to establish guilt beyond a reasonable doubt. It is defendant’s position that although he was present in the car that he did not know it was a stolen automobile, did not know that David Bunker planned anything other than the purchase of gasoline when they drove into the Clark station, and was not involved in the shooting.
+MCLA § 767.39 (Stat Ann 1954 Bev § 28.979), provides:
+“Every person concerned in the commission of an offense, whether he directly commits the act constituting the offense or procures, counsels, aids, or abets in its commission may hereafter be prosecuted, indicted, tried and on conviction shall be punished as if he had directly committed such offense.”
+However, as stated in People v. Burrel (1931), 253 Mich 321, 323:
+“ ‘Mere presence, even with knowledge that an offense is about to be committed or is being committed, is not enough to make a person an aider or abettor or a principal in the second degree nor is mere mental approval, sufficient, nor passive acquiescence or consent.’ ”
+Thus, if defendant’s allegations regarding his participation are true, he is not guilty.
+On appeal this Court must determine whether evidence exists which, if believed by the jury, warrants the conclusion that defendant was a knowing participant in an armed robbery. The weight to be given testimony is for the sole consideration of the jury. This Court on review does not substitute its judgment for that of the triers of fact who heard the testimony of the witnesses and observed their demeanor. People v. Schram (1965), 1 Mich App 279; People v. Panknin (1966), 4 Mich App 19. As noted in People v. Person (1969), 20 Mich App 246, 248:
+“It is not the function of an appellate court to be a reviewing jury. People v. Eagger (1966), 4 Mich App 449. This Court’s proper role is to examine the record on appeal to determine whether the jury’s finding- of fact is supported by credible evidence. In re Petition of Molisak (1939), 291 Mich 46. Accordingly, this Court will not disturb the verdict unless the evidence fails to support the finding of fact. People v. Floyd (1966), 2 Mich. App 168.”
+The record discloses evidence which, if believed, supports the following facts. Defendant and David Bunker had known each other for approximately six months to a year and had grown to be very close friends. They saw each other several times a week, double dated together and Bunker had loaned defendant money on several occasions.
+During the day of the shooting Bunker had cashed his pay check and still had approximately $65 in cash with him when he and defendant drove into the gas station. Defendant, however, was without money of his own.
+Several witnesses testified that on a number of occasions during November and December of 1966, defendant was seen at Bunker’s home in possession of the automatic pistol which became the murder weapon. The prosecutor’s witnesses did not know, however, whether defendant was the owner of the gun or whether Bunker owned it.
+On the day of the shooting defendant had been with Bunker since before noon. They had been driven to a shopping center by Bunker’s parents. The two spent some time shopping. During this time Bunker stole a car from the parking area and the two used it for transportation. Bunker testified, however, that defendant was not with him when the car was stolen, that defendant was at the commissary eating at the time, that Bunker had told defendant to stay there so he could get a Christmas present for defendant, and that when he appeared with the car he told defendant a friend had loaned the car to him. Bunker and defendant then drove home. Later in the afternoon they left again.
+Evidence was admitted below that the gun was thrown out of the car along the chase route. The gun was found on the right shoulder although Bunker was driving in the left lane at the time. The gun had been wiped free of fingerprints. A live bullet was in the chamber although the pistol’s clip was missing. From this evidence coupled with the testimony that Bunker was driving the car at nearly 100 miles per hour at the time, the jury would have been justified in concluding that defendant had handled the gun during the chase, wiped the fingerprints off and thrown it out of the car.
+Michigan authority appears uniform in holding that actions by the defendant such as flight to avoid lawful arrest, procuring perjured testimony and attempts to destroy evidence, while possibly as consistent with innocence as with guilt, may be considered by the jury as evidence of guilt. People v. Lewis (1933), 264 Mich 83; People v. Bunker (1970), 22 Mich App 396. As noted in People v. Cipriano (1927), 238 Mich 332, 336:
+“ ‘[F] light from the scene of a tragedy may be as consistent with innocence as with guilt;’ but it is always for the jury to say whether it is under such circumstances as to evidence guilt.”
+We conclude that in light of defendant’s close friendship with Bunker, his presence at the scene of the crime, his prior association with the murder weapon, his lack of funds as a possible motive, and the permissible finding that he wiped the murder weapon clean of fingerprints and made every effort to get rid of it, the jury had before it sufficient evidence to believe defendant was an accomplice to David Bunker in the planning and execution of a crime resulting in murder. While evidence does exist (consisting largely of Bunker’s testimony) which is consistent with defendant’s alleged innocence, it is not the function of this Court to second-guess the finder of fact below. Defendant’s arguments were presented to the jury and were rejected. The jury was justified in so doing.
+Affirmed.
+All concurred.
+David Bunker’s conviction was affirmed in a separate opinion by this Court in People v. Bunker (1970), 22 Mich App 396.
+The legality of the search was approved in People v. Bunker, supra.
