@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "8456"
+decided: "1971-01-21"
+citations: ["29 Mich. App. 597"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P. J., and Fitzgerald and Churchill, JJ.", "All concurred."]
+parties: ["PEOPLE v. MOORE"]
+source_url: "https://static.case.law/mich-app/29/cases/0597-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2066306
+cites_cases: ["116 ALR 1104", "120 ALR 205", "15 Mich App 600", "157 ALR 1225", "19 Mich App 359", "256 Mich 131", "3 Mich App 316", "376 Mich 90", "6 Mich App 62"]
+---
+
+# People v. Moore
+
+## Majority (Churchill, J.)
+
+Churchill, J.
+On December 2, 1966, at approximately 8:30 a.m., three men entered a Saginaw grocery store. The owner was beaten and robbed. The robbers escaped and later that morning four men, including Kosciousko Moore, defendant, were arrested in an automobile in Flint, Michigan by Flint police. The defendant was convicted by jury trial of armed robbery* and is now serving a long prison sentence. He appeals from the trial court’s denial of his motion for new trial.
+His allegations of error involved the trial court’s jurisdiction, the trial court’s refusal to order indorsement of a witness, the effect of substitution of appointed trial counsel on his right to a new examination, the sufficiency of identification evidence and the validity of a search of the auto in which the defendant was riding when arrested.
+The complaint, signed by the victim, charged the defendant with having assaulted him with a sawed-off shotgun and with a nickel-plated handgun and with having robbed him of the sum of $4,000 or $5,000, being lawful money of the United States. The warrant contained the same language. At the preliminary examination the complainant testified that the funds taken included checks and that the only weapon involved was a handgun. The defendant’s motion for dismissal because of the variance was countered with the prosecuting attorney’s oral motion to amend the complaint and warrant to comply with the proofs, which was granted.
+Neither a new written complaint nor a new warrant was filed. The municipal judge bound defendant to circuit court for trial on the offense charged in the complaint and warrant. An original information contained the same language as the filed complaint. An amended information contained reference to money and checks and to a nickel-plated gun only. The defendant stood mute to both informations and steadfastly challenged the trial court’s jurisdiction. The reference to the shotgun was surplusage. The amount of money involved was not fundamental to the charge. It is clear that the examining magistrate made the requisite findings to bind the defendant over for trial. His return conferred jurisdiction on the trial court whether his reference was to the original filed complaint and warrant or to them as verbally amended. Although being misled is not an essential element to a complaint of want of jurisdiction, we note that the defendant was in no way misled or handicapped in his defense by the procedure followed.
+At the time of the arraignment on the amended information the trial court denied the defendant’s motion to require the indorsement of defendant’s alleged accomplices as res gestae witnesses. One such person was George Walton who had been driving the motor vehicle in which defendant was riding when arrested. Although it does not appear that this fact was disclosed to the trial court, the case against Walton had been dismissed several months before the time of making the motion, because the prosecuting attorney did not believe the evidence against Walton was sufficient to sustain a conviction.
+The defendant concedes that generally accomplices are excepted from the rule that res gestae witnesses must be indorsed on the information, but the defendant asserts that there is an exception to the exception where, as here, charges against the alleged accomplice have been dismissed.
+The issue was raised in People v. McIntosh (1967), 6 Mich App 62, but in McIntosh one of the reasons for this Court’s ruling was the failure to make a timely motion to indorse, and we have no such failure here.
+The issue would be more squarely presented if either party had brought the fact of the prior dismissal of charges against Walton to the trial court’s attention, but we do not rely on this because it does not appear in the record that either defendant or his trial attorney had knowledge of the dismissal. Rather we look to the reason for the accomplice exception to the res gestae rule. The reason is well expressed in People v. Raider (1931), 256 Mich 131, 135, 136, as follows:
+“Obviously the exceptions were founded upon the recognized inclination or indorsement of those close to the accused, by community of interest in the crime or relationship, to perjure themselves, if they deem it necessary, in his behalf, and the incongruity of requiring the prosecution to make such witnesses its own.”
+The reasons for the exception to the general rule apply with equal force whether or not the witness has been charged, and whether or not the action, if any, against him is still pending. We note that our interpretation of the rule may at times work to the prosecution’s disadvantage because if the alleged accomplice is not required to be indorsed there is no statutory right of impeachment. People v. Virgil Brown (1969), 15 Mich App 600. We hold that the trial court did not err in denying the motion to indorse Walton and our decision would not be otherwise even if the trial court had been timely informed of the dismissal.
+After the arraignment on the amended information the defendant wrote to the trial judge complaining of his court-appointed attorney’s diligence and loyalty. The record is devoid of any evidence to support the complaint. At the attorney’s request substitute counsel was appointed. Substitute counsel’s motion to remand for another examination was denied. The defendant now asserts that this denial was contrary to his rights. The defendant is entitled to effective representation at every critical stage of the proceedings but not necessarily by the same attorney, and we find no error here.
+The defendant asserts that the testimony of eyewitnesses who identified him was unreliable. The weight to be given to their testimony was properly submitted to the jury.
+Incriminating physical objects including money, money bands, a billfold, and a gun were found and seized in a search of the automobile in which defendant was riding when arrested. These objects and testimony concerning them were admitted in evidence at the trial. No motion to suppress the objects was made prior to trial, and the trial court could properly have refused to consider constitutional objections to the evidence at the trial. If the trial court had decided to consider the constitutional issue during the trial the jury should have been sent out and a separate inquiry should have been conducted. People v. Ferguson (1965), 376 Mich 90; People v. Harper (1966), 3 Mich App 316; People v. Smith (1969), 19 Mich App 359.
+Neither procedure was followed. The people’s witnesses gave confusing testimony concerning the reasons the police stopped the auto, and it is unclear whether it was stopped because of a traffic violation or because of a police broadcast identifying it as an auto used in the robbery. In response to an objection by defense counsel the prosecuting attorney said:
+“Your Honor, I didn’t bring any officer in from Mt. Morris. If Mr. Clifford wants one, I’ll bring one in.”
+The trial court allowed the admission of the evidence conditionally, saying:
+“I’m going to rule this way, Mr. Wilson, that you may proceed with this witness but I shall expect you to tie this — this up in a neat little package before we are through with the case.”
+This was never done. The trial court having undertaken to consider the issue, the defendant’s objection may not now be dismissed because it was not timely raised. We remand for a testimonial hearing to determine the validity of the search. If the search is determined to have been lawful, then the conviction and sentence are affirmed because there is no other error. If the search was in violation of the defendant’s rights then a new trial will be required.
+All concurred.
+MCLA § 750.529 (Stat Ann 1970 Cum Supp § 28.797).
+US Const, Am 4; Mich Const 1963, art 1, § 11.
