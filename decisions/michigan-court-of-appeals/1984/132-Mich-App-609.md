@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "65671"
+decided: "1984-03-05"
+citations: ["132 Mich. App. 609"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Hood, P.J., and R. B. Burns and R. M. Shuster, JJ."]
+parties: ["POLITES v FLINT PUBLIC SCHOOLS"]
+source_url: "https://static.case.law/mich-app/132/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2248862
+cites_cases: ["103 Mich App 99", "302 NW2d 608", "88 ALR3d 274"]
+---
+
+# Polites v. Flint Public Schools
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Claimant appeals as of right from an order entered in the Genesee County Circuit Court which affirmed a decision of the Michigan Employment Security Commission (MESC) reducing his unemployment benefit from $97 to $21 each week.
+Claimant was employed by respondent as a teacher for approximately 23 years, retiring on July 1, 1978. During his employment, claimant contributed $14,615.13 to his retirement fund, while respondent contributed $3,223.80. Contributions to claimant’s retirement fund were also made by the State of Michigan by virtue of statutory provisions now embodied in MCL 38.1301 et seq.; MSA 15.893(111) et seq.
+After being penalized the appropriate number of weeks as a consequence of his voluntary retirement, claimant began to receive unemployment benefits. MESC determined that claimant was entitled to a benefit base of $97 per week. However, because claimant was receiving a retirement benefit from a plan to which he had contributed less than half of the cost, MESC reduced his unemployment benefit by $76, representing 50% of claimant’s weekly benefit from his retirement plan.
+Claimant challenged this reduction of his unemployment benefits. The matter progressed to a referee’s hearing, and the referee determined that the reduction was proper. Claimant appealed to the MESC Board of Review, which affirmed the referee’s decision.
+Claimant then sought review of the MESC determination in the circuit court. In April, 1981, the court remanded the matter to the MESC for additional testimony concerning whether claimant’s contributions to his retirement fund constituted at least half of the cost of his retirement benefits.
+On remand, Morris Bogrow, of the Department of Management and Budget, gave testimony before the same referee who had originally determined the propriety of the reduction in claimant’s unemployment benefits. Bogrow testified that claimant receives a monthly retirement benefit of $664.58. He further indicated that $131.13 of this benefit was from an annuity funded entirely out of claimant’s contributions, while the balance, $533.45, was a pension benefit funded entirely by respondent and the State of Michigan.
+Based upon this testimony, the referee reaffirmed his earlier decision. Upon consideration of the supplemented record, the circuit court affirmed the decision of the referee.
+To provide a full understanding of this case, it is necessary to briefly discuss the statutory scheme governing those situations in which a former worker receiving pension benefits also seeks unemployment benefits. For noncontributory pension plans (i.e., no employee contributions) which are financed in part by the employer who is chargeable for unemployment benefits, the claimant’s weekly unemployment benefit rate is reduced by an amount equal to the sum that the claimant receives in weekly retirement benefits. MCL 421.27(f)(1); MSA 17.529(f)(1). However, for contributory pension plans, MCL 421.27(f)(4)(b); MSA 17.529(f)(4)(b) provides:
+"If a benefit such as described in subparagraph (a) is payable or paid to the individual under a plan to which the individual has contributed:
+"(i) Less than half of the cost of the benefit, then only half of the benefit shall be treated as a retirement benefit.
+"(ii) Half or more of the cost of the benefit, then none of the benefit shall be treated as a retirement benefit.”
+Claimant asserts that MESC and the circuit court committed legal error in the method used to determine whether he contributed at least half of the cost of his retirement benefits. Claimant argues that this determination should have been made by a simple comparison of his contributions to his retirement fund to respondent’s contributions to this fund. We disagree.
+A statute which is unambiguous on its face must be applied as written and is not open to further interpretation or construction of its terms. Charter Twp of Pittsfield v City of Saline, 103 Mich App 99, 104; 302 NW2d 608 (1981). We see no ambiguity in. the statute. Reading MCL 421.27(f)(1); MSA 17.529(f)(1) in conjunction with MCL 421.27(f)(4)(b); MSA 17.529(f)(4)(b), it is clear that, if the employer "has contributed” to the retirement plan, unless the employee also contributing to the plan provided more than half of the cost of the benefits, that employee’s unemployment compensation benefits must be reduced. Nothing in the statute suggests that the Legislature intended that the employer’s contributions simply be compared to the employee’s in determining if a reduction is proper.
+Claimant’s reliance on In the Matter of Doris E Baird, MESC Appeal Docket No. B77-6623-55675, released December 7, 1978, and In the Matter of Alice G Shank, MESC Appeal Docket No. B7816306, released January 18, 1979, is misplaced. In those cases, although each claimant had not contributed at least half of the cost of the retirement benefits, the school district employer had contributed nothing to either claimant’s retirement fund. Instead, the State of Michigan had provided the major portion of the funds used to provide each claimant with her' pension benefits. In Baird, the MESC relied upon OAG, 1975-1976, No 5010, p 467 (May 20, 1976). There, the Attorney General determined that no reduction in unemployment benefits is permissible where a school district employer chargeable for unemployment benefits has contributed nothing to a teacher’s retirement fund. This opinion was premised on the finding that the State of Michigan could not be deemed a chargeable employer of public school employees pursuant to MCL 421.27(f)(1); MSA 17.529(f)(1). Shank simply relied upon Baird in reaching the same conclusion.
+We express no opinion on the validity of the Attorney General’s construction of MCL 421.27(f); MSA 17.529(L. Suffice to say that the Attorney General’s opinion, Baird and Shank are easily distinguishable from this matter in that here respondent did contribute to claimant’s retirement fund.
+Affirmed. No costs, a public question of first impression concerning the proper construction of a statute controlling the disposition of this case.
+Following the first hearing, based upon claimant’s life expectancy of 14.78 years as calculated using the mortality table embodied in MCL 500.834; MSA 24.1834, the referee ascertained that claimant, if he lived out the duration of his life expectancy, would receive $117,869.90. No evidence had been adduced to show whether claimant’s contributions to his retirement fund would or would not constitute one-half or more of the costs of these benefits. Based upon the disparity between claimant’s contributions and the retirement benefits he would likely receive, the referee found it impossible to believe that claimant had contributed more than half of the cost of these benefits. Due to the lack of evidence on this issue, the circuit court remanded for further proceedings. We note that MCL 421.27(f)(4)(c); MSA 17.529(f)(4)(c) imposes on the employer the burden of proving the extent of an employee’s contributions to the cost of his retirement fund.
