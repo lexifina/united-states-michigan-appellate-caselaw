@@ -1,0 +1,45 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9364"
+decided: "1972-01-17"
+citations: ["37 Mich. App. 496"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Levin, P. J., and R. B. Burns and J. H. Gillis, JJ.", "All concurred."]
+parties: ["HOWARD V PARK"]
+source_url: "https://static.case.law/mich-app/37/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2086039
+cites_cases: ["12 Mich App 355", "128 P2d 705", "2 L Ed 2d 112", "247 F2d 711", "27 Mich App 459", "277 P 752", "291 P2d 915", "355 US 882", "387 Mich 782", "45 Cal 2d 811", "54 Cal App 2d 141", "69 ALR2d 305", "69 P2d 853", "78 S Ct 148", "9 Cal 2d 172", "98 Cal App 690"]
+---
+
+# Howard v. Park
+
+## Majority (R. B. Burns, J.)
+
+R. B. Burns, J.
+Plaintiff is next friend and guardian of Beverly Howard, a five-year-old girl. Beverly was injured in an automobile accident and taken to Parkvue Medical Center for treatment. Dr. Park testified that he examined Beverly for internal injuries, treated her for superficial wounds, and referred her to Dr. Lawand for the application of a cast. Dr. Park also testified that Dr. Lawand was a surgeon with more expertise in the treatment of fractures.
+Six weeks later Beverly and her mother returned to the medical center to have the cast removed. Dr. Lawand removed the cast with a vibrating wheel. A vibrating wheel, according to Dr. Park, does not turn, but removes easts by vibration. Dr. Park further testified that a person’s finger would not be cut even if placed directly on the wheel.
+Dr. Lawand started to remove the cast and after a few seconds Beverly began to scream. Mrs. Howard told the doctor to stop; the child was being hurt. He continued to remove the cast, insisting Beverly was only frightened.
+When the cast was finally removed, severe, deep cuts were visible, which were bleeding. Dr. Lawand put ointment on the cuts and told Mrs. Howard to bring the child back to the center if she needed' further treatment. The Howards brought Beverly back to the center and Dr. Park continued to treat the cuts.
+Plaintiff’s original suit was brought against Dr. Lawand and Dr. Park, doing business as Parkvue Medical Center.
+Parkvue Medical Center is owned by Dr. Charles Park and employs 27 people. Approximately 33 doctors are associated directly with the center utilizing its services; six of the doctors maintained offices in the center. In many cases the doctors’ patients are billed by the center. In return for the use of the center’s facilities and services, doctors like Dr. Lawand pay the center 50% of their charges. Dr. Lawand, who had an office with his wife, a pediatrician in Wayne, Michigan, was called upon by the center for services in surgery.
+Plaintiff, in his original complaint, joined Dr. Park, doing business as Parkvue Medical Center, as the employer of Dr. Lawand. At the close of the proofs, he moved to amend his pleadings to conform to such proofs, and to hold defendant liable under one of two theories; that of agency or of joint enterprise. The trial judge allowed the amendment and held defendant liable under the theory of respondeat superior, that Dr. Lawand was defendant’s agent and, therefore, the defendant was liable.
+Defendant, on appeal, claims that trial court erred in holding that plaintiff had met the burden of proof as to malpractice against Dr. Lawand and that defendant was liable for the acts of Dr. Lawand.
+The test in determining the distinction between an independent contractor or an agent is the right of control. Kaniewski v Warner, 12 Mich App 355 (1968). However, even though Dr. Lawand is in fact an independent contractor it is still possible that Dr. Park may incur liability for the negligence of Dr. Lawand based on the theory of “ostensible agency” (agency by estoppel). This doctrine is well recognized in Michigan.
+“Not only may a principal be estopped in some circumstances from disputing the scope of the authority of one who admittedly is his agent, but it is also established that, in a proper case, one person may be estopped from denying that another is his agent. Thus, an agency by estoppel is established where it is shown that the principal held the agent out as being authorized, and a third person, relying thereon, acted in good faith upon such representation. # * #
+“Whether or not a person has so held out another as to be estopped to deny that the latter is an agent depends on whether, # # * the acts and conduct of the alleged principal were such as reasonably to lead the third person to believe that an agency in fact existed, * * * .
+“Reliance on the apparent agency is essential to the creation of an agency by estoppel, and so it is held that such an agency does not arise if the third person had notice of the alleged agent’s lack of capacity.” 1 Callaghan’s Michigan Civil Jurisprudence, Agency, § 27, pp 171-173.
+The above theory has been relied upon in a number of cases holding a hospital liable for negligence of a doctor who in fact was found not to be an agent of said institution.
+“Where a hospital can be found to have ‘held out’ to the prospective patient or his relatives that medical treatment is to be administered by a doctor employed therein, liability for its physician’s negligence may be imposed on the hospital under the doctrine of respondeat superior, even though, for other purposes and other contexts, the physician would be regarded as an independent contractor in relation to the hospital.” 69 ALR2d 305, 321.
+In Stanhope v Los Angeles College of Chiropractic, 54 Cal App 2d 141, 146; 128 P2d 705, 708 (1942), the Court said:
+“ ‘An agency is ostensible when the principal intentionally, or by want of ordinary care, causes a third person to believe another to be his agent who is not really employed by him.’ § 2300, Civ Code. In this connection it is urged by appellant that ‘before a recovery can be had against a principal for the alleged acts of an ostensible agent, three things must be proved,' to wit:’ (quoting from Hill v Citizens Nat Tr & Sav Bank, 9 Cal 2d 172, 176, 69 P2d 853, 855): ‘[First] The person dealing with the agent must do so with belief in the agent’s authority and this belief must be a reasonable one; [second] such belief must be generated by some act or neglect of the principal sought to be charged; [third] and the third person in relying on the agent’s apparent authority must not he guilty of negligence. 1 Cal Jur 739; Weintraub v Weingart, 98 Cal App 690, 277 P 752.’
+“An examination of the evidence hereinbefore referred to which was produced on the issue of agency convinces us that respondent has met the requirements enumerated in the Hill case. So far as the record reveals appellant did nothing to put respondent on notice that the X-ray laboratory was not an integral part of appellant institution, and it cannot seriously be contended that respondent, when he was being carried from room to room suffering excruciating pain, should have inquired whether the individual doctors who examined him were employees of the college or were independent contractors. Agency is always a question of fact for the jury. The evidence produced on this issue is sufficient to support the jury’s implied finding that Dr. Joyant was the ostensible agent of appellant college.”
+Turning to the situation in the ease presently before this Court, we find that it was through Dr. Park’s facility and by his own personal referral that Dr. Lawand happened to treat the child in the first place. The treatment took place entirely at the hospital where Dr. Lawand conducted himself as a member of. said clinic. The November 7th visit was billed through Parkvue Medical Center stationery with Dr. Lawand’s name on it. There is nothing in the record to indicate that plaintiff should have been on notice that Dr. Lawand was not an employee of defendant hospital and, in light of the emergency situation, it can not be seriously contended that Mrs. Howard was obligated to inquire whether each person who attended her daughter was an employee or an independent contractor. The trial court did not err in finding that Parkvue Medical Center was liable for the negligence of Dr. Lawand.
+In a malpractice suit the plaintiff must sustain the burden of proof and must submit testimony to the effect that the attending physician did acts that were contrary to the practice in that or similar communities. Mitz v Stern, 27 Mich App 459, (1970).
+The defendant himself testified that a person could place his finger on a vibrating wheel and it would not be cut. Beverly was cut when Dr. Lawand used the wheel to remove her cast. This was sufficient for the trial judge to find Dr. Lawand guilty of malpractice.
+Affirmed. Costs to plaintiff.
+All concurred.
+Before trial Dr. Lawand was dropped as a defendant on the basis of a covenant not to sue.
+Brown v Moore, 247 F2d 711 (CA3 1957), cert den 355 US 882; 78 S Ct 148; 2 L Ed 2d 112 (1957); Seneris v Baas, 45 Cal 2d 811; 291 P2d 915 (1955).
