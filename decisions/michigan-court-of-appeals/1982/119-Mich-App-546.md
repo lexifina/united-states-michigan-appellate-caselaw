@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "53409"
 decided: "1982-09-21"
-citations: ["119 Mich. App. 546", "131 Mich. App. 669"]
+citations: ["119 Mich. App. 546"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v WHETSTONE"]
 source_url: "https://static.case.law/mich-app/119/cases/0546-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2235581
-cites_cases: ["105 NW 1111", "107 Mich App 739", "115 Mich App 656", "118 Mich App 681", "119 Mich App 546", "130 Mich App 1", "142 Mich 528", "172 NW2d 492", "179 NW2d 255", "183 NW2d 360", "189 La 355", "19 Mich App 194", "1964 PA 133", "1980 PA 28", "209 NW2d 832", "212 NW2d 21", "221 NW2d 455", "225 NW2d 691", "23 Mich App 568", "23 NW2d 236", "236 NW2d 489", "242 NW2d 381", "250 NW2d 522", "253 NW2d 726", "261 NW 320", "269 NW2d 641", "27 Mich App 100", "272 Mich 258", "273 NW2d 555", "273 NW2d 925", "275 NW2d 777", "280 NW2d 826", "283 NW2d 790", "287 NW2d 251", "293 NW2d 588", "293 NW2d 787", "297 NW2d 857", "310 NW2d 34", "315 Mich 134", "32 Wash 129", "323 NW2d 176", "325 NW2d 795", "326 NW2d 552", "340 NW2d 805", "343 NW2d 219", "349 US 81", "354 US 298", "37 Mich 544", "383 Mich 803", "390 Mich 383", "395 Mich 367", "396 Mich 700", "396 Mich 803", "405 Mich 482", "406 Mich 1004", "407 Mich 893", "407 Mich 963", "409 Mich 110", "418 Mich 1", "44 Mich 305", "448 US 56", "47 Mich App 669", "54 Mich App 618", "57 Mich App 199", "6 NW 677", "72 Mich App 749", "72 P 1021", "74 Mich App 270", "84 Mich App 460", "86 Mich App 768", "87 Mich App 321", "91 Mich App 542", "93 Mich App 425", "97 Mich App 253", "99 L Ed 905", "99 Mich App 40"]
+cites_cases: ["105 NW 1111", "107 Mich App 739", "118 Mich App 681", "142 Mich 528", "172 NW2d 492", "179 NW2d 255", "183 NW2d 360", "189 La 355", "19 Mich App 194", "1964 PA 133", "1980 PA 28", "209 NW2d 832", "212 NW2d 21", "225 NW2d 691", "23 Mich App 568", "253 NW2d 726", "261 NW 320", "27 Mich App 100", "272 Mich 258", "273 NW2d 555", "293 NW2d 588", "293 NW2d 787", "310 NW2d 34", "32 Wash 129", "325 NW2d 795", "349 US 81", "354 US 298", "37 Mich 544", "383 Mich 803", "390 Mich 383", "409 Mich 110", "44 Mich 305", "448 US 56", "47 Mich App 669", "57 Mich App 199", "6 NW 677", "72 P 1021", "74 Mich App 270", "86 Mich App 768", "97 Mich App 253", "99 L Ed 905"]
 ---
 
 # People v. Whetstone
