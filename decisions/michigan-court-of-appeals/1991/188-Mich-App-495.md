@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "119376"
+decided: "1991-04-15"
+citations: ["188 Mich. App. 495"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Murphy, P.J., and Brennan and Marilyn Kelly, JJ."]
+parties: ["KAISER v SMITH"]
+source_url: "https://static.case.law/mich-app/188/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2330792
+cites_cases: ["115 Mich App 591", "151 Mich App 502", "322 NW2d 718", "391 NW2d 391"]
+---
+
+# Kaiser v. Smith
+
+## Majority (Brennan, J.)
+
+Brennan, J.
+Plaintiff appeals as of right a July 5, 1989, order dismissing with prejudice her claim for noneconomic damages under the no-fault insurance act. MCL 500.3135(1); MSA 24.13135(1). We reverse.
+Plaintiff and defendant were involved in an automobile accident on June 7, 1988. On June 23, 1988, plaintiff filed an action against defendant in the Small Claims Division of the 12th District Court, claiming damage to her motor vehicle under the "mini-tort” provisions of the no-fault act. MCL 500.3135(2)(d)-(5); MSA 24.13135(2)(d)-(5). After a trial on July 20, 1988, judgment was entered in plaintiff’s favor in the amount of $200, plus $15.50 in costs. On April 28, 1989, plaintiff filed suit against defendant in the Jackson Circuit Court, claiming noneconomic loss arising out of the automobile accident for injuries exceeding the serious impairment threshold of MCL 500.3135(1) and (2)(b); MSA 24.13135(1) and (2)(b).
+On May 30, 1989, defendant brought a motion to dismiss the circuit court action on the basis of plaintiff’s failure to join that claim with her previous small claims court action for property damage arising out of the same accident and against the same defendant. Defendant relied upon the compulsory joinder rule of MCR 2.203(A)(1). Although defendant did not state which subsection of MCR 2.116(C) the motion was based on, the motion was presumably made pursuant to MCR 2.116(C)(7). After hearing oral arguments on June 9, 1989, the court agreed with defendant and granted the motion -to dismiss. Plaintiff subsequently brought a motion for reconsideration, which the trial court denied after oral argument in an order dated July 14,1989.
+On appeal, plaintiff argues that the trial court erred in dismissing her claim for noneconomic loss under the no-fault act on the ground that it was barred under the compulsory joinder rule by her failure to join that claim with her previous small claims court action.
+This is a case of first impression involving the interpretation of the so-called "mini-tort” provisions of the no-fault act, enacted by a 1979 amendment and which took effect July 1, 1980. MCL 500.3135(2)(d)-(5); MSA 24.13135(2)(d)-(5). Subsection 2(d) permits claims up to $400 for damages to a motor vehicle, to the extent that the damages are not covered by insurance. Among other implementing provisions for subsection 2(d), subsections 4 and 5 of § 3135 provide:
+(4) Actions under subsection (2)(d) shall be commenced, whenever legally possible, in the small claims division of the district court or the conciliation division of the common pleas court of the city of Detroit or the municipal court. If the defendant or plaintiff removes such an action to a higher court and does not prevail, the judge may assess costs.
+(5) A decision of a court made pursuant to subsection (2)(d), shall not be res judicata in any proceeding to determine any other liability arising from the same circumstances as gave rise to the action brought pursuant to subsection (2)(d).
+From the plain meaning of the statute, it appears that the Legislature intended to create a separate cause of action for these small property damage claims, independent of any other claims arising out of the same motor vehicle accident and intended to provide an informal forum to resolve them. The reference to res judicata in subsection 5 also makes it apparent that the Legislature contemplated successive or even simultaneous actions.
+The trial court, as well as defendant, did not reject this analysis. However, the trial court agreed with defendant and held that there is an obvious conflict between subsection 5 and the compulsory joinder court rule and that because court rules take precedence over statutes on procedural matters, the compulsory joinder rule controls. Therefore, the trial court found that plaintiff’s subsequent circuit court action was barred by her failure to join that claim with her previous small claims court action. Defendant urges this Court to adopt the trial court’s reasoning. Plaintiff, on the other hand, relies on MCR 2.203(A)(2) and asserts that because defendant failed to object to the nonjoinder in the small claims court action, he has waived the defense in plaintiff’s subsequent circuit court action arising out of the same incident.
+MCR 2.203 states:
+(A) Compulsory Joinder.
+(1) In a pleading that states a claim against an opposing party, the pleader must join every claim that the pleader has against that opposing party at the time of serving the pleading, if it arises out of the transaction or occurrence that is the subject matter of the action and does not require for its adjudication the presence of third parties over whom the court cannot acquire jurisdiction.
+(2) Failure to object in a pleading, by motion, or at a pretrial conference to improper joinder of claims or failure to join claims required to be joined constitutes a waiver of the joinder rules, and the judgment shall only merge the claims actually litigated. This rule does not affect collateral estoppel or the prohibition against relitigation of a claim under a different theory.
+We find the arguments regarding the interpretation of MCR 2.203(A) do not apply in this case because MCR 2.203(A) is not applicable to cases brought in the small claims division of a district court. MCR 4.301 provides that actions in the small claims division are governed by the procedural provisions of Chapter 84 of the Revised Judicature Act, MCL 600.8401 et seq.; MSA 27A.8401 et seq., and by súbchapter 4.300 of the Michigan Court Rules. Neither Chapter 84 of the Revised Judicature Act nor subchapter 4.300 of the Michigan Court Rules provides for compulsory joinder of claims. Further, small claims court actions are governed by other applicable court rules after judgment only. MCR 4.301. Finally, chapter 2 of the Court Rules, under which the compulsory joinder rule is found, does not apply where a rule applicable to a specific court or a specific type of proceeding provides a different procedure. MCR 2.001. Therefore, while we acknowledge the well-established rule that court rules take precedence over statutes on procedural matters, we find that no conflict exists and that the two provisions may be read harmoniously. Duplicate litigation in all other small claims court actions will be avoided by application of the concepts of res judicata and collateral estoppel. We note that there is precedent for this Court to interpret and adapt the court rules to accommodate some of the unique provisions of the no-fault act. See Harris v Mid-Century Ins Co, 115 Mich App 591, 598-599; 322 NW2d 718 (1982). We believe that this case presents another such instance.
+Reversed.
+The claim is barred because of release, payment, prior judgment, immunity granted by law, statute of limitations, statute of frauds, infancy or other disability of the moving party, or assignment or other disposition of the claim before commencement of the action.
+In re Norris Estate, 151 Mich App 502, 510-511; 391 NW2d 391 (1986).
