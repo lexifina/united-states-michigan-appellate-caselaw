@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "211755"
+decided: "2000-01-04"
+citations: ["239 Mich. App. 265"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Fitzgerald, P.J., and Hoekstra and Markey, JJ."]
+parties: ["ARIAS v TALON DEVELOPMENT GROUP, INC"]
+source_url: "https://static.case.law/mich-app/239/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1083152
+cites_cases: ["198 Mich App 470", "221 Mich App 526", "227 Mich App 1", "440 Mich 85", "443 Mich 445", "456 Mich 331", "461 Mich 109", "485 NW2d 676", "499 NW2d 379", "506 NW2d 175", "561 NW2d 873", "572 NW2d 201", "574 NW2d 691", "597 NW2d 817"]
+---
+
+# Arias v. Talon Development Group, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from the circuit court’s grant of summary disposition to defendant of her claim for negligence. We reverse.
+Plaintiff slipped and fell on a handicap access ramp outside a credit union on property owned by defendant. Plaintiff claimed that the ramp had been freshly painted during the fifteen minutes that she was inside the credit union. Defendant moved for summary disposition under MCR 2.116(C)(10), arguing that, even if it had been freshly painted, the access ramp was an open and obvious danger and therefore defendant had no duty to warn plaintiff. The circuit court granted defendant’s motion.
+We review a motion for summary disposition de novo. Spiek v Dep’t of Transportation, 456 Mich 331, 337; 572 NW2d 201 (1998). A motion brought under MCR 2.116(C)(10) tests the factual support for the plaintiff’s claim. Id. Where the evidence proffered fails to establish a genuine issue of material fact, the movant is entitled to judgment as a matter of law. Maiden v Rozwood, 461 Mich 109, 120; 597 NW2d 817 (1999).
+In order to establish a negligence cause of action, a plaintiff must show “that the defendant owed a legal duty to the plaintiff, that the defendant breached or violated the legal duty, that the plaintiff suffered damages, and that the breach was a proximate cause of the damages suffered.” Schultz v Consumers Power Co, 443 Mich 445, 449; 506 NW2d 175 (1993); Richardson v Michigan Humane Society, 221 Mich App 526, 528; 561 NW2d 873 (1997). To determine whether the defendant owed the plaintiff a duty, courts examine a number of factors, including the relationship of the parties and the foreseeability and nature of the risk. Schultz, supra at 450. Regarding the duty owed to a business invitee, such as plaintiff, our Supreme Court has stated:
+“A possessor of land is subject to liability for physical harm caused to his invitees by a condition on the land if, but only if, he (a) knows or by the exercise of reasonable care would discover the condition, and should realize that it involves an unreasonable risk of harm to such invitees, and (b) should expect that they will not discover or realize the danger, or will fail to protect themselves against it, and (c) fails to exercise reasonable care to protect them against the danger.” [Riddle v McLouth Steel Products Corp, 440 Mich 85, 93; 485 NW2d 676 (1992), quoting 2 Restatement Torts, 2d, § 343.]
+In detemiining the duty owed a business invitee, the Court also stated, “where the dangers are known to the invitee or are so obvious that the invitee might reasonably be expected to discover them, an invitor owes no duty to protect or warn the invitee unless he should anticipate the harm despite knowledge of it on behalf of the invitee. Riddle, supra at 96.
+This Court has also addressed the duty owed to a business invitee, noting that a landowner “has a duty to exercise reasonable care to protect invitees from an unreasonable risk of harm caused by a dangerous condition that the owner knows or should know the invitees will not discover or protect themselves against.” Hughes v PMG Building, Inc, 227 Mich App 1, 9; 574 NW2d 691 (1997). This Court further observed:
+[E]ven if a danger is open and obvious, a possessor of land may still have a duty to protect invitees against foreseeably dangerous conditions. . . . [E]ven though there may not be an absolute obligation to provide a warning [of open and obvious dangers], this rule does not relieve the invitor from his duty to exercise reasonable care to protect his invitees against known or discoverable dangerous conditions. The rationale behind this rule is that liability for injuries incurred on defectively maintained premises should rest upon the party who is in control or possession of the premises, and, thus, is best able to prevent the injury. [Id. at 10-11 (citations omitted).]
+Once the existence of a duty toward the plaintiff is established, the reasonableness of the defendant’s conduct is a question for the jury. Riddle, supra at 96-97.
+With regard to handicap access ramps specifically, in Novotney v Burger King Corp (On Remand), 198 Mich App 470, 475; 499 NW2d 379 (1993), this Court considered whether the danger posed by an inclined handicap access ramp was open and obvious, and determined the appropriate inquiry:
+Would an average user with ordinary intelligence have been able to discover the danger and the risk presented upon casual inspection? That is, is it reasonable to expect that the invitee would discover the danger? With respect to an inclined handicap access ramp, we conclude that it is.
+In the present case, defendant does not offer evidence disputing plaintiff’s claim that the handicap access ramp, the only entranceway to the front door of the credit union because the sidewalk was barricaded, was painted during the fifteen minutes that she was inside the credit union. Indeed, defendant contends on appeal that the fresh paint itself was an open and obvious danger. While plaintiff may not be able to establish at trial that the ramp was painted while she was inside the credit union or even that it was freshly painted, she has raised an undisputed question of fact sufficient to withstand a motion for summary disposition. Depending on the freshness of the paint, a reasonable factfinder could determine that the paint posed a hazard to pedestrians forced to use the ramp because of the barricade over the sidewalk. Given the state of the lower court record, we find that the trial court erred in ruling that plaintiff could not as a matter of law establish her claim of negligence.
+Reversed.
+Defendant’s representation to the trial court that this Court held in Novotney, supra, that yellow paint on a handicap access ramp is open and obvious as a matter of law is not accurate. In Novotney, this Court rejected the injured plaintiffs allegations that she would have been more likely to discover the existence of a handicap access ramp if warning signs had been posted or the ramp had been painted a contrasting color, and stated that the analysis did not revolve around whether steps could have been taken to make the danger more obvious, but whether the danger as presented was open and obvious. Novotney, supra at 474-475.
