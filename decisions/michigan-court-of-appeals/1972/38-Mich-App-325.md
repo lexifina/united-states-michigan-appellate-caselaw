@@ -1,0 +1,47 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9274"
+decided: "1972-02-22"
+citations: ["38 Mich. App. 325"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: V. J. Brennan, P. J., and J. H. Gillis and T. M. Burns, JJ.", "All concurred."]
+parties: ["BUCKEYE UNION FIRE INSURANCE COMPANY v DETROIT EDISON COMPANY"]
+source_url: "https://static.case.law/mich-app/38/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2087598
+cites_cases: ["13 Mich App 324", "258 A 2d 697", "26 Mich App 549", "26 Mich App 602", "267 A 2d 867", "28 Mich App 466", "332 Mich 447", "370 Mich 1", "375 Mich 85", "381 Mich 217", "439 Pa 501", "54 NJ 585", "9 Mich App 473"]
+---
+
+# Buckeye Union Fire Insurance v. Detroit Edison Co.
+
+## Majority (T. M. Burns, J.)
+
+T. M. Burns, J.
+On April 17,1963, fire destroyed a building at 275 East Ferry Street in the city of Detroit. The building was insured for $45,000 by two insurance companies who paid a total of $40,000 to the owners of the destroyed building.
+Both insurance companies and the owners then brought this action against the defendant. The complaints contained two counts: first, that the fire was caused by defendant’s negligence in supplying electricity to the house; and second, that the fire resulted from defendant’s breach of the implied warranties of fitness and merchantability of the electricity supplied.
+At the close of plaintiffs’ proofs, defendant moved for a directed verdict. The motion was taken under advisement by the court at that time, and it was renewed again at the close of defendant’s proofs. The trial judge then denied the motion as to the count based on negligence and granted the motion as to the count based on the warranty theory.
+In granting the directed verdict for the defendant on the warranty count, the trial court held that because of the properties or character of electricity, it is not a good or commodity to which an implied warranty would attach. The court held that the sale of electricity is a service and, therefore, Article 2 of the Uniform Commercial Code and the implied warranties contained therein do not apply.
+The case went to the jury on the negligence theory, and a verdict of no cause for action was returned. Plaintiffs do not appeal from the jury verdict but do appeal as of right from the decision of the trial court granting defendant’s motion for directed verdict on the count based upon the theory of implied warranty.
+While we are inclined to agree with the trial court that electricity is not a “good” as that term is defined by the Uniform Commercial Code, the product liability of sellers is not restricted to those situations covered in the code.
+“In the judicial development of the consumer’s direct remedy against the manufacturer, several dozen legal theories were coalesced in justification and rationalization of the results which the courts reached. Some of these concepts have been enacted into statutes, such as the Uniform Sales Act, and later the Uniform Commercial Code. But, as the UCC draftsmen acknowledged, the remedy is not statutory, but essentially one fashioned by the courts.” Cova v Harley Davidson Motor Co, 26 Mich App 602, 610 (1970).
+We are of the opinion that the implied warranties, as defined by the courts of this state, should apply to the sale of services as well as to the sale of goods. We see no reason upon which a logical distinction can be based, especially when, as here, we are dealing with the production and sale of a form of energy which, under certain circumstances, can be inherently dangerous.
+There have been very few cases in this country dealing with the question of whether or not the implied warranties of fitness and merchantability should be held applicable to the sale of a service. Two recent cases are, however, helpful in analyzing the instant question.
+In Hoffman v Misericordia Hospital of Philadelphia, 439 Pa 501; 267 A 2d 867 (1970), the court was confronted by an action for damages resulting from' a death which had been allegedly caused by a transfusion of impure blood by the defendant hospital. The trial court had granted the defendant a summary judgment holding that the. implied warranties did not attach to a situation involving essentially a service. The Pennsylvania Supreme Court reversed, however, holding that the implied warranties applied to services, as well as sales of goods.
+In Newark, v Gimbel's Inc, 54 NJ 585; 258 A 2d 697 (1969), a patron of a beauty salon was allegedly injured by the application of a product used in giving the patron a permanent wave. An action was brought based upon both negligence and implied warranty, but the trial court submitted the case to the jury on the negligence issue only. The New Jersey Supreme Court reversed, refusing to apply a highly artificial distinction between the sale of a good and the sale of a service in deciding what situations are covered by implied warranties.
+We are in accord with the approach taken by the New Jersey and Pennsylvania Courts. We see no reason why the concepts of implied warranty should depend upon a distinction between the sale of a good and the sale of a service. We therefore hold that the trial court’s reason for directing the verdict in defendant’s favor is in error.
+However, rather than make any sweeping generalizations by holding that implied warranties attach to the rendering of all services, we prefer to limit the scope of this decision to the sale of electricity. We are sure that sellers of some services, such as here when a dangerous force is involved, should give the warranties, while other should not. For the present, we feel that the expansion of the law in this area should proceed on a case by case basis at least until some general principles can be evolved.
+Although we have held that the trial court’s reason for granting the summary judgment in defendant’s favor was wrong, in a difficult case of first impression, we believe his decision to grant the directed verdict was correct.
+The fact that we have held that the implied warranties of fitness and merchantability do apply to the sale of electricity does not mean the plaintiffs can recover with no showing of fault. Although negligence need not be shown, plaintiffs must still show that there was a defect in the electricity at .the time it left the manufacturer and that the defect was the proximate cause of the plaintiffs’ damages. Piercefield v Remington Arms Co, 375 Mich 85 (1965); Barefield v LaSalle Coca-Cola Bottling Co, 370 Mich 1 (1963); Mattson v General Motors Corp, 9 Mich App 473 (1968).
+In the instant case two eyewitnesses testified that they saw a glow move from defendant’s transformer down to the plaintiffs’ house at which time they heard a “foom” sound. Plaintiffs’ expert witness testified that the phenomenon described by the two eyewitnesses could have been an electrical arc. Plaintiffs’ expert never saw the house in question or the equipment of defendant which serviced the house and testified that there was no theory of any defect in defendant’s equipment.
+There was no direct or circumstantial evidence as to the quality of the electricity which reached the house. The only evidence as to the state of repair of the defendant’s equipment at the time of the fire came from the defendant’s own witnesses.
+The record is lacking in any substantive proof that the fire in plaintiffs’ house was caused by a defect in the manufacture or delivery of the electricity. Had the question been submitted to the jury in order to find defendant liable for breach of warranty, they would have had to find, without substantive proof, that the electricity was defective when it left the manufacturer and that the defect was the proximate cause of the fire. In our opinion, such a finding would have to rest entirely on conjecture.
+It is the rule in Michigan that the finding of causation must not be mere conjecture, but rather it must be the result of a reasonable inference. A reasonable inference must be based upon the evidence. If however there are two' or more equally plausible explanations arising out of the evidence, the selection of one would not be a reasonable inference but would rather be mere conjecture on the part of the trier of fact. Schedlbauer v Chris-Craft Corp, 381 Mich 217 (1968); Cusumano v Stroh Brewery Co, 26 Mich App 549 (1970); Kasten v U S Truck Co, Inc, 28 Mich App 466 (1970).
+Beviewing the evidence in the light most favorable to the plaintiff, it is our conclusion that the evidence presented was not sufficient to remove the case from surmise and speculation. Therefore, the directed verdict, though granted for the wrong reason, was not reversible error. A trial court’s assignment of a wrong reason for reaching a correct result does not affect the disposition of the case on appeal. Draws v Levin, 332 Mich 447 (1952); Pociopa v Olson, 13 Mich App 324 (1968).
+Affirmed.
+All concurred.
+See MCLA 440.2314-15; MSA 19.2314-15.
+Id.
+MCLA 440.2105; MSA 19.2105.
+In the instant case the electricity would not “leave the manufacturer” until it actually passed through the customer’s meter. Until that time, the electricity, when passing along the company’s lines, is still under the control of the manufacturer. Therefore, the crucial point, for purposes of proving when the defect exists, is not until the electricity is purchased, i.e. when it passes through and is recorded in the customer’s meter.
