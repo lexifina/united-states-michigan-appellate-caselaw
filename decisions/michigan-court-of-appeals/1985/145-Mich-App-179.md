@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "80405"
+decided: "1985-08-20"
+citations: ["145 Mich. App. 179"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P.J., and Allen and M. J. Talbot, JJ."]
+parties: ["FEDERAL KEMPER INSURANCE COMPANY v ISAACSON"]
+source_url: "https://static.case.law/mich-app/145/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2261140
+cites_cases: ["136 Mich App 387", "189 NW2d 202", "197 NW2d 465", "258 NW2d 232", "293 NW2d 765", "357 NW2d 51", "385 Mich 474", "39 Mich App 360", "402 F2d 37", "77 Mich App 376", "91 ALR3d 844", "97 Mich App 204"]
+---
+
+# Federal Kemper Insurance v. Isaacson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff commenced this subrogation action on March 21, 1984, seeking to recover uninsured motorist benefits paid to the estate of its insured following an accident which occurred on August 31, 1979. The trial court granted accelerated judgment in favor of defendants on the ground that the three-year period of limitation had expired.
+On August 31, 1979, Deloss Martin Domine, plaintiffs insured, was killed in an automobile accident involving a vehicle driven by defendant Rick E. Isaacson and owned by defendant Janel Stuhr. Stuhr’s vehicle was not covered by any automobile insurance. Ginger A. Domine, personal representative of the estate of the deceased, filed an action in Genesee County Circuit Court on August 27, 1981, against several parties, including defendant Rick E. Isaacson, but not including defendant Janel Stuhr. That lawsuit was ultimately settled and the case was dismissed. Defendant Isaacson apparently paid nothing toward the settlement and the dismissal as to him was without prejudice. Plaintiff alleges that in September, 1983, which was after the settlement, it paid the estate $20,000 in uninsured motorist benefits pursuant to an endorsement in its policy issued to the deceased. Ginger Domine then executed a "Release and Trust Agreement” which plaintiff contends conveyed to it the rights of a successor-in-interest to the estate in the original action. Plaintiff subsequently filed this subrogation action seeking to recover the $20,000 in uninsured motorist benefits.
+Personal service was effected upon defendant Stuhr on March 28, 1984, and upon defendant Isaacson on April 27, 1984. Defendant Stuhr failed to answer and a default was entered against her on June 26, 1984. Defendant Stuhr’s motion to set aside the default was granted by order of August 24, 1984.
+Following a hearing, the trial court granted defendants’ motion for accelerated judgment based on the running of the period of limitation. Plaintiff appeals as of right from the final order entered September 6,1984.
+This case involves a tort action outside the scope of the no-fault insurance act, MCL 500.3101 et seq.; MSA 24.13101 et seq., so that the general three-year statute of limitations applies. MCL 600.5805(8); MSA 27A.5805(8). Plaintiff contends that, as subrogee of the estate, it became the estate’s successor-in-interest in the original action and therefore the period of limitation was tolled during the pendency of that lawsuit. Plaintiff relies on MCL 600.5856; MSA 27A.5856, which states:
+"The statutes of limitations are tolled when
+"(1) the complaint is filed and a copy of the summons and complaint are served on the defendant, or when
+"(2) jurisdiction over the defendant is otherwise acquired, or when,
+"(3) the complaint is filed and a copy of the summons and complaint in good faith, are placed in the hands of an officer for immediate service, but in this case the statute shall not be tolled longer than 90 days thereafter.”
+Plaintiff’s claim of tolling, insofar as it relates to defendant Janel Stuhr, clearly lacks merit. Stuhr was never named as a defendant in the original action and therefore the tolling statute does not apply to her.
+We now turn to plaintiff’s tolling claim as it relates to defendant Isaacson. Defendant Isaacson does not contest plaintiff’s assertion that it is a subrogee of the estate to the extent of the uninsured motorist benefits paid, and therefore we do not address that question.
+As subrogee, plaintiff stands in the shoes of the subrogor and acquires no greater rights than those possessed by the subrogor. Federal Kemper Ins Co v The Western Ins Co, 97 Mich App 204, 210; 293 NW2d 765 (1980), quoting Northwestern Mutual Ins Co v Jackson Vibrators, 402 F2d 37, 40 (CA 6, 1968). Black’s Law Dictionary (4th ed) defines subrogation as "[t]he substitution of one person in the place of another with reference to a lawful claim, demand or right, * * * so that he who is substituted succeeds to the rights of the other in relation to the debt or claim, and its rights, remedies, or securities”.
+The general rule, absent a statute providing otherwise, is that the statutory period of limitation during which a subrogated insurer may bring an action against a third-party tortfeasor begins to run at the time the period would have begun to run on the insured’s action, or that of the insured’s personal representative, against the tortfeasor. See Anno: When does statute of limitations begin to run upon an action by subrogated insurer against third-party tortfeasor, 91 ALR3d 844. In this case the statutory three-year period of limitation commenced to run on the date of the accident, some four years and seven months prior to the date service was effected upon defendant Isaacson.
+We, however, agree with plaintiff that, pursuant to RJA § 5856, the running of the period of limitation was tolled from the time service was effected upon defendant Isaacson in the prior suit brought by the estate to the time the suit against Isaacson was dismissed without prejudice. The tolling statute applies to prior lawsuits between the parties which have not been adjudicated on the merits. Buscaino v Rhodes, 385 Mich 474, 482; 189 NW2d 202 (1971); Stewart v Michigan Bell Telephone Co, 39 Mich App 360; 197 NW2d 465 (1971). A dismissal without prejudice is not considered to be an adjudication on the merits, and therefore the tolling statute applies. Stewart, supra.
+Where a prior action has ended without an adjudication on the merits, the tolling statute is applicable to a renewed action by a different plaintiff who represents the same interest as the original plaintiff. Affiliated Bank of Middleton v American Ins Co, 77 Mich App 376, 379; 258 NW2d 232 (1977). As subrogee of the estate, plaintiff stands in the same position, with all the same rights, as its subrogor with respect to the action brought against defendant Isaacson. Since RJA § 5856 would clearly have tolled the running of the period of limitation had a subsequent suit been brought by the estate, we hold that the tolling statute does apply to the present case.
+Accordingly, we vacate the order of accelerated judgment as to defendant Isaacson and remand the case to the trial court to determine the precise period during which the period of limitation was tolled pursuant to RJA § 5856. If, taking into account the tolled period, the present action was commenced within the three-year period of limitation, plaintiff may proceed with its action against defendant Isaacson. Otherwise, accelerated judgment may properly be entered.
+Finally, we hold that the trial court did not abuse its discretion in setting aside the default against defendant Stuhr pursuant to GCR 1963, 520.4, now MCR 2.603(D). See Cramer v Metropolitan Savings Ass’n (Amended Opinion), 136 Mich App 387, 400; 357 NW2d 51 (1984).
+Accelerated judgment as to defendant Stuhr is affirmed; accelerated judgment as to defendant Isaacson is vacated and the case is remanded for further proceedings.
