@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "158485"
+decided: "1993-06-07"
+citations: ["200 Mich. App. 117"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Griffin, P.J., and Reilly and Fitzgerald, JJ."]
+parties: ["GENERAL MOTORS CORPORATION v STATE TAX COMMISSION"]
+source_url: "https://static.case.law/mich-app/200/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1860171
+cites_cases: ["107 Mich App 186", "108 NC App 514", "260 Ga 824", "309 NW2d 198", "424 SE2d 222"]
+---
+
+# General Motors Corp. v. State Tax Commission
+
+## Majority (Griffin, P.J.)
+
+Griffin, P.J.
+This appeal stems from an attempt by plaintiff General Motors Corporation to avoid a property tax audit. In 1986, the City of Warren, acting under a belief that General Motors had been underreporting its taxable personal property, hired Plante & Moran, an independent accounting firm, to audit General Motors. Later, pursuant to a contractual arrangement with the city, the State Tax Commission hired Plante & Moran to go forward with the audit. At all times, General Motors has refused to submit to the audit, and the matter has ripened into the present action for declaratory judgment.
+Essentially, General Motors maintains that the State Tax Commission has no authority to hire an independent accounting firm to conduct a tax audit. We disagree and hold that the State Tax Commission acted properly and within its statutory authority in hiring Plante & Moran. Accordingly, we affirm the decision of the circuit court granting summary disposition in favor of the tax commission pursuant to MCR 2.116(0(10).
+i
+Before we reach what plaintiff states is the "singular fact driving this litigation,” we must first address plaintiff’s contention that there exists an insufficient factual basis to justify the actions taken by the commission in this case. At issue is § 154 of the General Property Tax Act, MCL 211.154; MSA 7.211, which provides in relevant part as follows:
+(1) If it shall be made to appear to the state tax commission at any time that as a matter of fact any property liable to taxation has been incorrectly reported or omitted for any previous year, but not to exceed the current assessment year and 2 years immediately preceding the date of discovery and disclosure of the incorrect reporting or of the omission, the state tax commission shall place the corrected assessment value for the appropriate years on the then current assessment roll. [Emphasis added.]
+In its first argument on appeal, plaintiff contends that § 154 does not apply to this case because it has never been "made to appear” to the commission that plaintiff was underreporting personal property. Specifically, plaintiff argues that the city has never provided adequate factual support for its claim. We find this argument disingenuous and accordingly reject it. Plaintiff relies on a tax commission bulletin that states that the commission "would like” a notice filed under § 154 to be accompanied by an audit. As noted by the circuit court, however, the city was unable to perform the audit because General Motors refused to cooperate. We, like the circuit court, refuse to sanction the "catch-22” situation created by plaintiffs conduct. In addition, we note that the city’s June 12, 1987, letter to the commission states that the audit was initiated in part because of General Motors’ refusal to provide specific information regarding "fixed building equipment.” We find it significant that plaintiff does not address this portion of the letter in its brief. This Court has observed that MCL 211.154; MSA 7.211 applies where the issue is whether property thought to be taxable has been incorrectly reported or omitted. See Detroit v Norman Allan & Co, 107 Mich App 186, 191; 309 NW2d 198 (1981). After thorough review, we find no merit in plaintiffs argument that the tax commission could not proceed with the audit pursuant to § 154.
+Plaintiffs next three arguments on appeal merit only cursory discussion. We fail to see how it is relevant that General Motors never refused to be audited by "duly authorized city personnel.” Nothing in § 154 prohibits the commission from taking action on an audit performed by private accountants, and plaintiff concedes that it refused to cooperate with Plante & Moran. Furthermore, plaintiffs argument that the circuit court disregarded the time limitations of § 154 is without merit. If in fact no incorrect reporting has been discovered "to this day,” it is because General Motors has refused to allow the audit. Finally, we reject plaintiffs contention that the subpoena power provided in MCL 211.148; MSA 7.206 does not apply to the proceedings at issue in this case.
+ii
+We now turn to the issue at the heart of this appeal. Section 148 of the General Property Tax Act, MCL 211.148; MSA 7.206, provides in pertinent part as follows:
+The commission or any duly authorized representative thereof shall have the right to examine the property, books, papers or accounts of any corporation, firm or individual owning property liable to assessment for taxes, general or specific under the laws of this state .... [Emphasis added.]
+Also relevant is § 2 of the State Tax Commission Act, MCL 209.102; MSA 7.632, which provides in part:
+Said commission may engage the services of such assistants and employees as may be necessary to carry out the provisions of this act, or of any other law of the state affecting the powers and duties of said state tax commission. Such assistants and employees shall receive their actual traveling expenses in the discharge of their duties. All salaries and expenses authorized by this act shall be paid out of the state treasury in the same manner as the salaries and expenses of other state officers are paid. [Emphasis added.]
+Despite plaintiff’s lengthy argument to the contrary, we believe that these provisions plainly authorize the commission to employ the services of a private accounting firm such as Plante and Moran to conduct a tax audit. Furthermore, we fail to see how either the commission’s own rules or MCL 211.22a; MSA 7.22(1) precludes the commission from certifying Plante & Moran as personal-property examiners for purposes of conducting an audit under § 148.
+We are also not persuaded by plaintiffs argument that allowing the commission to hire private auditors encourages "bounty hunting” and therefore violates public policy. As indicated, the language of § 148 provides adequate statutory authority for Plante & Moran to conduct the proposed audit as a duly authorized representative of the commission. Moreover, plaintiffs reliance on Sears Roebuck & Co v Parsons, 260 Ga 824; 401 SE2d 4 (1991), and In re Appeal of Phillip Morris USA, 108 NC App 514; 424 SE2d 222 (1993), is misplaced. Unlike those cases, the present case does not involve a contingent fee arrangement, nor is Plante & Moran afforded the discretion to choose the target of the audit.
+On the basis of the foregoing, we hold that the commission acted properly in retaining Plante & Moran to conduct the audit of General Motors. Accordingly, we conclude that defendant was properly awarded summary disposition on plaintiffs complaint for declaratory relief.
+hi
+In view of our resolution, plaintiffs remaining issue regarding the trial court’s refusal to extend the deadline for completion of discovery is now moot. Nevertheless, we deem it appropriate to grant plaintiff partial relief regarding its concern of confidentiality. Accordingly, pursuant to MCR 7.216(A)(7) and (9), we direct the commission to take the necessary steps to ensure that the audit is conducted so as to preserve the confidentiality of any financial information gathered from General Motors.
+Affirmed.
