@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "4,764"
+decided: "1968-09-25"
+citations: ["13 Mich. App. 449"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quinn, P. J., and J. H. Gtllis, J., concurred."]
+parties: ["SQUIRES v. HAYES."]
+source_url: "https://static.case.law/mich-app/13/cases/0449-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2052999
+cites_cases: ["103 Wash 583", "175 P 187", "24 NYS2d 92", "260 App Div 765", "3 Mich App 478", "348 Mich 531", "35 ALR2d 452", "351 F2d 665", "375 Mich 598", "381 Mich 797", "53 F2d 953", "8 Mich App 708"]
+---
+
+# Squires v. Hayes
+
+## Majority (Fitzgerald, J.)
+
+Fitzgerald, J.
+A writ of garnishment is sought by the plaintiff in the present case, following a jury verdict in his favor against a doctor who was insured by the garnishee defendant, on claims of breach of contract, loss of society, companionship and consortium, and expenses in the lump sum of $14,000. The theory there advanced and accepted by the jury was generally one of breach of implied contract by the doctor to employ the “standard treatments” in treating plaintiff’s wife, and the controlling question to be resolved in this appeal is whether the insurance policy covers claims for this implied breach of contract. The trial court decided that it did not, and granted defendant’s motion for a summary judgment with appeal being taken by plaintiff.
+There is no express provision in the policy of insurance which compels the garnishee defendant company to pay for an implied breach of contract by its insured, nor is there an exclusion. Rather, the policy provides only that the company is obligated :
+“To pay on behalf of the insured all sums which the insured shall become legally obligated to pay as damages because of injury arising out of malpractice, error or mistake in rendering or failing to render professional services.” (Emphasis supplied.)
+This attempt to recover on a malpractice insurance policy for breach of implied contract is new to the courts of this State. It must be remembered that this is a garnishment suit against the insurance company for recovery, and that we are not concerned with the merits, already resolved, of the claim of implied breach. Thus, the few cases available for perusal from other jurisdictions which deny recovery do not offer a ready result, for those cases show that specific contractual obligations were incurred by doctors beyond the minimal professional services to be expected, with an adverse result to the patient upon completion. Difficulty was found in extending the general language of the policies to cover expanded and special obligations made by the doctor which were held not to be contemplated by the company when insuring the medical practice. However, the Supreme Court of the State of Washington permitted the doctor to recover indemnity from the insurance company even where he did undertake to perform a special contract, in the belief that coverage was intended to extend to mistake and error, and to any contract made in the practice of the profession which the doctor had a right to make.
+In the present case, the plaintiff would have us find that the insurance policy was at least intended to insure the doctor against any malpractice liability in those cases involving basic minimal care: i.e., that the doctor is to be held to an implied contract with his patient to provide standard medical treatments. The opinion of the trial court was simply that the policy was not intended to cover a breach of contract, for if it was, the policy would so read to that effect. We note that the policy does state, “Injury arising out of malpractice” without further defining what consists of an “injury”. It may well be physical, as it was with the wife. May it not also be mental and economic injury to the husband? The definition of “injury” as given in Black’s Law Dictionary (4th ed), p 924, is: “Any wrong or damage done to another, either in his person, rights, reputation or property”.
+The jury verdict in favor of the husband is interpreted by this Court as determining that his injury does fall within such a definition.
+When we strictly construe the language of this policy of insurance in favor of coverage for the insured, as we must, we are compelled to reverse the decision of the trial court. It is true this Court is not a rewriter or reformer of contracts and insurance policies by the use of forced or strained interpretations of the language therein. *However, it is also true that in interpreting such language we strive to ascribe to the policy the plain and clear meaning of the words, just as the policy holder must do. The fair application of the policy term “injury” and the term “failing to render professional services” will encompass the damages found to have been suffered by the plaintiff by reason of the malpractice of the physician, and the writ of garnishment against the insurance company should not have been denied.
+The verdict of the jury was silent as to whether any proportion of the award made was divided between the 2 separate claims of the plaintiff, both claims being argued and charged. The requested special verdict to the jury mentioned only breach of contract. No special question of loss of society, companionship and consortium was asked of the jury, although it was argued. This claim of plaintiff was to be considered by the trial court in the present case by means of amended complaint, but then was not mentioned in the opinion granting defendant’s motion for summary judgment. There is no doubt that the policy was intended to insure the physician from damages incurred by reason of his malpractice which resulted in these losses to the plaintiff. Our finding in this regard only serves to supplement and not control or dilute our holding as to the breach of contract issue.
+The risk undertaken by the insurer to provide coverage when the doctor fails to render professional services is not adversely broadened by a finding that the doctor breached an implied contract to provide minimum standard professional treatments to Ms patients.
+Reversed and remanded for trial of tbe statutory issue. Costs to appellant.
+Quinn, P. J., and J. H. Gtllis, J., concurred.
+Safian v. Aetna Life Insurance Co. (1940), 260 App Div 765 (24 NYS2d 92); McGee v. United States Fidelity & Guaranty Co. (CA 1, 1931), 53 F2d 953; 35 ALR2d 452.
+Sutherland v. Fidelity Casualty Company of New York (1918), 103 Wash 583 (175 P 187).
+In Farm Bureau Insurance Company of Michigan v. Pedlow (1966), 3 Mich App 478, 484, this Court stated, “The language providing for coverage in matters of bodily injury liability is all inclusive as to the persons who sustain injury. Any limitation on the coverage under this section must be found in the express exclusions contained in the policy or indorsements made part of the policy.” We are loath to deny reasonable apparent coverage under the policy when it would have been easy for the insurance company to further define the exact limitations of the poliey now alleged to have been intended by adding an additional “exclusion” to that portion of the policy, e.g., Hoehner v. Western Casually & Surety Company (1968), 8 Mich App 708.
+Edgar’s Warehouse, Inc., v. United States Fidelity Guaranty Company (1965), 375 Mich 598.
+Bowman v. Preferred Risk Mutual Insurance Company (1957), 348 Mich 531; McMichael v. American Insurance Company (CA 8, 1965), 351 F2d 665.
