@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "83792"
+decided: "1986-11-04"
+citations: ["156 Mich. App. 68"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: M. J. Kelly, P.J., and Shepherd and M. R. Knoblock, JJ."]
+parties: ["PEOPLE v EVANS"]
+source_url: "https://static.case.law/mich-app/156/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2277844
+cites_cases: ["104 Mich App 1", "104 Mich App 45", "120 Mich App 614", "123 Mich App 500", "124 Mich App 107", "147 Mich App 56", "148 NW2d 501", "149 Mich App 737", "20 ALR2d 1240", "248 NW2d 641", "274 NW2d 16", "289 NW2d 857", "304 NW2d 482", "304 NW2d 9", "327 NW2d 534", "333 NW2d 317", "333 NW2d 596", "339 NW2d 440", "382 NW2d 731", "386 NW2d 657", "417 Mich 523", "553 F2d 8", "6 Mich App 217", "624 F2d 81", "633 F2d 473", "640 F2d 938", "71 Mich App 618", "785 F2d 777", "87 Mich App 192", "94 Mich App 759"]
+---
+
+# People v. Evans
+
+## Majority (M. R. Knoblock, J.)
+
+M. R. Knoblock, J.
+After a bench trial, defendant was convicted of the offense of criminal sexual conduct in the third degree, MCL 750.520d; MSA 28.788(4), and was sentenced to a prison term of from seven to fifteen years. On appeal, defendant asserts he should be resentenced because his court-appointed trial counsel was absent at sentencing and he was forced to proceed to sentencing with substitute counsel. Substitute counsel was appointed for defendant moments before the sentencing hearing.
+It appears from the record that, when trial counsel failed to appear at sentencing, no inquiry was made as to the reason for his nonappearance other than an unanswered telephone call to his office. The sentencing judge then appointed another attorney to "stand in” for defendant’s trial counsel. There is nothing in the record to suggest that defendant procured, or was in any way responsible for, the failure of his trial counsel to appear at sentencing.
+Sentencing is a critical stage of a criminal proceeding and, absent a waiver, counsel’s presence is required. People v Dye, 6 Mich App 217; 148 NW2d 501 (1967). See also, People v Foy, 124 Mich App 107; 333 NW2d 596 (1983). MCR 6.101(G), formerly GCR 1963, 785.8, provides in part:
+Before a sentence is imposed, the court shall:
+(1) require the presence of the defendant’s attorney, unless the attorney’s presence is affirmatively waived by the defendant.
+The rule does not merely require that an attorney be present, but that defendant’s attorney be present. We construe this rule to require the presence of the attorney who has been and is representing the defendant in the case and not merely any lawyer. We, however, decline to hold, as defendant urges, that a criminal defendant has an absolute right to be represented at sentencing by the lawyer who represented him at trial. Although trial counsel will typically continue representing a defendant through sentencing, upon a showing that trial counsel is no longer available to represent the defendant, substitute counsel may be appointed.
+In the present case, the trial court appointed substitute counsel after noting that defendant’s attorney had failed to appear and that the complaintant had been waiting in the courtroom throughout the morning. The trial judge stated on the record that the sentence would be the same irrespective of whether defendant’s trial counsel was present and, after being advised by substitute counsel that he had read the presentence report and psychiatric report and had discussed them with the defendant, proceeded with the sentencing hearing over defendant’s objection that he did not wish to proceed without his trial counsel present. Since no explanation for trial counsel’s failure to appear or a showing that he was unavailable to represent the defendant appears on the record, we conclude it was error to proceed to sentencing with substitute counsel.
+Defendant also claims that resentencing should be before a different judge. Panels of this Court have on numerous occasions ordered that resentencing be before a different judge, without specifying the reasons for so holding. People v Hicks, 149 Mich App 737; 386 NW2d 657 (1986); People v Rivers, 147 Mich App 56; 382 NW2d 731 (1985); People v Crook, 123 Mich App 500; 333 NW2d 317 (1983); People v Casanas, 120 Mich App 614; 327 NW2d 534 (1982); People v Randle, 104 Mich App 1; 304 NW2d 9 (1981); People v Peques, 104 Mich App 45; 304 NW2d 482 (1980); People v Perez, 94 Mich App 759; 289 NW2d 857 (1980); People v Powell, 87 Mich App 192; 274 NW2d 16 (1978); People v Westerfield, 71 Mich App 618; 248 NW2d 641 (1976). Although the Supreme Court has stated that sentencing before a different judge may be appropriate if "warranted by the circumstances,” People v Coles, 417 Mich 523, 536; 339 NW2d 440 (1983), no standard has been articulated which may be referred to in passing upon the propriety of ordering resentencing before a different judge in a particular case.
+Several circuits of the federal Court of Appeals have utilized a three-part test in passing on this question. United States v Robin, 553 F2d 8 (CA 2, 1977); United States v Ferguson, 624 F2d 81 (CA 9, 1980); Bercheny v Johnson, 633 F2d 473 (CA 6, 1980) ; United States v Larios, 640 F2d 938 (CA 9, 1981) ; United States v Sears, Roebuck & Company, Inc, 785 F2d 777 (CA 9, 1986). The three considerations may be stated as follows:
+(1) whether the original judge would reasonably be expected upon remand to have substantial difficulty in putting out of his or her mind previously-expressed views or findings determined to be erroneous or based on evidence that must be rejected, (2) whether reassignment is advisable to preserve the appearance of justice, and (3) whether reassignment would entail waste and duplication out of proportion to any gain in preserving the appearance of fairness. [Id., p 780.]
+Viewing the present case in light of these considerations, we are of the opinion that resentencing should be before a different judge. This ruling should not be viewed as any personal criticism of the trial judge, however, in our view it would be unreasonable to expect him to be able to put out of his mind previously expressed views and findings without substantial difficulty. Additionally, the advancement of the interests of preserving the appearance of justice and fairness outweigh considerations of waste and duplication, neither of which will result from our holding. For these reasons, the matter is remanded for resentencing before a different judge.
+Remanded for resentencing.
