@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "94654"
+decided: "1987-09-10"
+citations: ["163 Mich. App. 109"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and J. H. Gillis and J. P. Swallow, JJ."]
+parties: ["ROBERTS & SON CONTRACTING, INC v NORTH OAKLAND DEVELOPMENT CORPORATION"]
+source_url: "https://static.case.law/mich-app/163/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12122912
+cites_cases: ["143 Mich App 500", "158 Mich App 786", "372 NW2d 348", "405 NW2d 220", "75 ALR3d 132"]
+---
+
+# Roberts & Son Contracting, Inc. v. North Oakland Development Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendants appeal from a June 20, 1986, judgment entered by the Oakland Circuit Court. The judgment awarded plaintiff $25,000, the mediated value of plaintiffs claim, which defendants were "deemed” to have accepted.
+Plaintiff filed the instant action, alleging breach of contract. Plaintiff alleged that defendants had failed to pay $27,293.24, the last payment of a construction contract. Plaintiff prayed for the amount owing, plus interest, costs and attorney fees. The case was duly mediated on April 1, 1986. The mediators found in plaintiffs favor and valued its claim at $25,000. Plaintiff timely accepted the award. Defendants contend that they timely rejected the award. However, the assignment clerk did not receive the rejection. Since no rejection letter was received, the award was deemed to have been accepted. MCR 2.403(L)(i).
+On May 2, 1986, the assignment clerk issued a mediation acceptance notice. Defendants’ attorney waited a full month, until June 2, 1986, to respond to the acceptance notice. His means of response was a brief letter to the clerk asserting that he had mailed a rejection, attaching a copy of the rejection letter. Defendants’ counsel asked the clerk to advise him if it would be necessary to file a motion to correct the alleged error. A copy of this letter was mailed to plaintiffs counsel. On appeal, defendants’ attorney complains that no response communication was received from the clerk.
+On June 6, 1986, plaintiff filed a motion for entry of judgment, based upon the deemed acceptance of the mediation award. Notice was sent to defendants’ attorney and plaintiff duly filed proof of service. The hearing on plaintiffs motion was held on June 18, 1986. Defendants’ attorney did not appear. Relying upon the acceptance notice, the circuit court entered judgment in plaintiffs favor.
+On July 1, 1986, defendants moved to set aside the judgment. A hearing was conducted on July 16, 1986. Defendants’ attorney asserted that either the letter "never actually left my office, it left but was not received, or it was received and 'misread’ by the assignment clerk.” Defendants’ attorney pointed out to the court that a hearing was held on April 23, 1986, the same date as the letter was allegedly mailed, on defendants’ motion to add a third-party defendant. Defendants’ attorney asserted that the fact the motion was brought indicates that an acceptance was not intended. Counsel also asserted that during the prior hearing he indicated on the record that the mediation award had been rejected.
+When questioned about his failure to appear at the June 18, 1986, hearing on plaintiffs motion to enter judgment, counsel responded, "I will only indicate to the court that as far as that it [the motion hearing] was on my calendar for July 2.”
+The trial court held:
+Exercising my discretion under the circumstances, the Court feeling that he’s complied with the proper notice for the entry and no objection being at that time, the Court will deny the motion to set aside the judgment exercising it’s [sic] discretion that it is too late notwithstanding the case law on the subject.
+Defendants first argue that the trial court did not exercise its discretion when ruling upon the motion to set aside the default. The cases upon which defendants rely involve instances where the trial court stated or appeared to indicate that it had no discretion to rule on the matter before it. The court’s statement in the instant case clearly indicates it was aware that it had discretion to exercise. The trial court twice stated that it was exercising its discretion. It is difficult to understand how defendants can contend otherwise. This claim of error is without merit.
+Defendants next argue that the trial court abused its discretion in refusing to set aside the judgment because its entry was based upon mistake, inadvertence or excusable neglect.
+Defendants fail to recognize the full basis of the trial court’s decision. The court denied defendants’ motion largely because defendants’ counsel failed to appear at a hearing to enter judgment. On appeal, defendants have failed to address this basis of the trial court’s decision. All that is before us is counsel’s brief explanation to the trial court, quoted above. Since counsel has failed to address an issue which necessarily must be reached, the relief he seeks, the setting aside of the judgment, may not be granted. However, other issues which have been raised will nevertheless be addressed.
+Defendants complain that plaintiff brought the motion for entry of judgment after having been apprised of defendants’ allegation that they had timely rejected the mediation award. We see nothing wrong with this procedure. The fact that plaintiff noticed the motion for a hearing gave defendants full opportunity to appear and voice their objections. However, defendants failed to do so.
+The fact that the trial court has discretion to set aside a deemed acceptance does not mean the court must set aside such an acceptance whenever an attorney appears before it and recites the words "mistake, inadvertence, or neglect.” The very concept of discretion denotes the absence of a single, correct result. Muntean v Detroit, 143 Mich App 500, 509; 372 NW2d 348 (1985). In order to prevail on a claim that the trial court abused its discretion in refusing to set aside the deemed acceptance, a party must offer some plausible explanation of what transpired, some corroborating evidence, if the explanation is implausible, or a demonstration of a good-faith attempt to investigate the cause of the problem. Compare Busch v Hoffmeyer, 158 Mich App 786; 405 NW2d 220 (1987). None of these occurred here.
+The instant case presents a situation where, at best, there has been neglect upon neglect: failure to follow procedures which would have corroborated defendants’ allegation that a rejection letter was mailed, failure to contest the "deemed acceptance” until one month after it was issued, failure to appear and voice objections at a properly noticed hearing, and failure to fully explain defendants’ failure to appear at the hearing for entry of judgment. Under these circumstances, the trial court acted well within its discretion when it denied defendants’ motion to set aside the judgment it had entered to enforce the mediation award.
+Affirmed.
+We note that the rejection letter which defendants assert was mailed to the assignment clerk contains no indication that a copy was mailed to plaintiffs attorney. Nor have defendants offered a postal receipt as evidence that the rejection was mailed. Proper office procedure would seem to require that postal receipts be obtained for every mailing as important as the instant one and that copies of such rejection letters be mailed to opposing counsel.
+On appeal, counsel makes the same assertion. However, counsel has failed to support this allegation with the transcript of the April 23, 1986, hearing.
