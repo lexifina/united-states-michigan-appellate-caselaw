@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "112716"
 decided: "1989-11-06"
-citations: ["181 Mich. App. 81", "182 Mich. App. 514"]
+citations: ["181 Mich. App. 81"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["ADKINS v ADKINS"]
 source_url: "https://static.case.law/mich-app/181/cases/0081-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2307901
-cites_cases: ["106 Mich App 7", "159 Mich App 762", "163 Mich App 423", "170 Mich App 628", "173 Mich App 826", "175 Mich App 714", "178 Mich App 29", "18 NW2d 883", "181 Mich App 81", "232 NW2d 630", "286 NW2d 892", "307 NW2d 727", "311 Mich 434", "346 Mich 418", "395 Mich 11", "395 Mich 6", "407 NW2d 11", "414 NW2d 906", "428 NW2d 724", "430 Mich 890", "433 Mich 606", "434 NW2d 256", "438 NW2d 355", "443 NW2d 427", "447 NW2d 715", "448 NW2d 741", "93 Mich App 477"]
+cites_cases: ["106 Mich App 7", "159 Mich App 762", "163 Mich App 423", "170 Mich App 628", "173 Mich App 826", "175 Mich App 714", "178 Mich App 29", "18 NW2d 883", "232 NW2d 630", "286 NW2d 892", "307 NW2d 727", "311 Mich 434", "346 Mich 418", "395 Mich 11", "395 Mich 6", "407 NW2d 11", "414 NW2d 906", "428 NW2d 724", "430 Mich 890", "434 NW2d 256", "438 NW2d 355", "443 NW2d 427", "93 Mich App 477"]
 ---
 
 # Adkins v. Adkins
