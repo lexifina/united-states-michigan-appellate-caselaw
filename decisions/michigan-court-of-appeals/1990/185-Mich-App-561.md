@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "109786"
+decided: "1990-05-30"
+citations: ["185 Mich. App. 561"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, Jr., P.J., and Wahls and T. M. Burns, JJ."]
+parties: ["DUBEY v STROH BREWERY COMPANY"]
+source_url: "https://static.case.law/mich-app/185/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2334890
+cites_cases: ["107 S Ct 1375", "158 Mich App 688", "170 Mich App 196", "385 NW2d 586", "405 NW2d 125", "411 US 792", "424 Mich 675", "428 NW2d 26", "450 US 248", "480 US 919", "803 F2d 261", "94 L Ed 2d 690"]
+---
+
+# Dubey v. Stroh Brewery Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from an order granting defendant summary disposition pursuant to MCE 2.116(0(10), dismissing plaintiff’s age discrimination suit brought under the Civil Rights Act, MCL 37.2101 et seq.; MSA 3.548(101) et seq. We affirm.
+Plaintiff argues the trial court erred in utilizing the shifting burden analysis first set forth in McDonnell Douglas Corp v Green, 411 US 792; 93 S Ct 1817; 36 L Ed 2d 668 (1973), and later reiterated in Texas Dep’t of Community Affairs v Burdine, 450 US 248; 101 S Ct 1089; 67 L Ed 2d 207 (1981). The proper test, plaintiff argues, is the determinative factor test enunciated in Matras v Amoco Oil Co, 424 Mich 675; 385 NW2d 586 (1986).
+The McDonnell Douglas shifting burden analysis addresses the proper order and allocation of proofs and burdens in discrimination cases. Initially, plaintiff has the burden of proving a prima facie case of discrimination by a preponderance of the evidence. If the plaintiff is successful in proving a prima facie case, the burden shifts to the defendant to articulate some legitimate, nondiscriminatory reason for its actions. Once the defendant has articulated a legitimate reason for the action, the plaintiff then has the burden of showing by a preponderance of the evidence that the legitimate reason offered by defendant was merely a pretext for discrimination. Burdine, 252-253.
+In Matras, supra, the Michigan Supreme Court addressed the substantive elements and method of proving an age discrimination claim. Though dealing with age discrimination in the context of a discharge from employment, the holdings in Matras are equally applicable to this case involving a claim of failure or refusal to hire due to age discrimination.
+In an age discrimination case, the trier of fact may find that the discharge was because of age even if age was not the sole factor. According to the Court in Matras, age need not be the sole reason or even the main reason for discharge; it does, however, have to be one of the reasons that made a difference in determining whether the plaintiff was discharged or not hired. Matras, 682-683. Plaintiff in the instant case is therefore correct in arguing that the bottom-line requirement of what a plaintiff must establish in any age discrimination case is that age discrimination was a determining factor in the failure or refusal to hire.
+Rather than representing two separate and distinct legal theories of how to prove age discrimination claims, the Matras determining factor test is really a part of establishing a prima facie age discrimination case as required by the McDonnell Douglas shifting burden analysis. The difference between the two approaches lies in the fact that the McDonnell Douglas approach is a more comprehensive means of ordering and allocating proofs in a discrimination case.
+We hold that, by employing the more comprehensive and orderly approach of McDonnell Douglas, the trial court clearly considered whether genuine issues of material fact existed to show that plaintiff’s age was a determining factor in defendant’s decision not to hire plaintiff.
+Plaintiff next argues that the trial court erred in summarily resolving the question of age discrimination in light of genuine issues of material fact. According to plaintiff, reasonable minds could easily differ as to whether plaintiff or James Sheehy, the successful applicant for the position, was the better qualified applicant.
+In an age discrimination claim, the plaintiff must present evidence not only of possession of qualifications comparable to the person ultimately selected, but must also demonstrate that age was a determining factor in the defendant’s refusal to hire plaintiff. Meeka v D & F Corp, 158 Mich App 688, 692; 405 NW2d 125 (1987). Plaintiff in the case before us must therefore present evidence not only that he had skills, experience, background or qualifications comparable to the person defendant selected for the position, but, also, that his age was a determining factor in defendant’s ultimate decision.
+Plaintiff presented extensive evidence of his skills, experience, background and qualifications and defendant presented extensive evidence regarding the successful applicant’s skills, experience, background and qualifications. It is clear that plaintiff has presented evidence sufficient to establish as a genuine material fact that he was as qualified as Mr. Sheehy. Plaintiff fails, however, to present any evidence showing defendant’s tendency to discriminate or to allege direct statements by defendant which would tend to show that youthful age was a job requirement or at least desirable. Plaintiff has failed to produce any type of direct or indirect evidence which would lead to an inference that defendant was harboring any type of age animus. We find there is no genuine material issue of fact regarding whether age was a determining factor in defendant’s decision.
+Plaintiff’s final argument is that the trial court erred in concluding that plaintiff had not demonstrated that defendant’s legitimate, nondiscriminatory reasons for not hiring plaintiff were pretexts under the shifting burden or determinative factor test. We disagree.
+There are three ways a plaintiff can establish that a defendant’s stated legitimate, nondiscriminatory reasons are pretexts: (1) by showing the reasons had no basis in fact, (2) if they have a basis in fact, by showing that they were not the actual factors motivating the decision, or (3) if they were factors, by showing that they were jointly insufficient to justify the decision. The soundness of an employer’s business judgment, however, may not be questioned as a means of showing pretext. Chappell v GTE Products Corp, 803 F2d 261, 266 (CA 6, 1986), cert den 480 US 919; 107 S Ct 1375; 94 L Ed 2d 690 (1987).
+From our review of the record, we find that, at most, plaintiff raises questions about the soundness of defendant’s business judgment and that is insufficient to show a genuine issue of fact regarding pretext.
+To grant a motion for summary disposition pursuant to MCR 2.116(0(10), the lower court must be satisfied that the claim asserted cannot be supported by the evidence at trial because of some deficiency which cannot be overcome. Adell v Sommers, Schwartz, Silver & Schwartz, PC, 170 Mich App 196, 204; 428 NW2d 26 (1988). In the instant case, plaintiff has failed to establish a prima facie case of age discrimination and has failed to create a genuine issue of material fact concerning pretext. Summary disposition was properly granted.
+Affirmed.
