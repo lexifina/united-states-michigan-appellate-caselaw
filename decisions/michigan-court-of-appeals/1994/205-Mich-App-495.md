@@ -1,0 +1,51 @@
+---
+court: "Michigan Court of Appeals"
+docket: "148510"
+decided: "1994-06-06"
+citations: ["205 Mich. App. 495"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: White, P.J., and Michael J. Kelly and W. J. Caprathe, JJ."]
+parties: ["ALLSTATE INSURANCE COMPANY v JOHNSON"]
+source_url: "https://static.case.law/mich-app/205/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1882002
+cites_cases: ["10 ALR2d 782", "184 Mich App 799", "190 Mich App 499", "432 Mich 656", "433 Mich 1202", "442 Mich 56", "443 NW2d 734", "459 NW2d 316", "476 NW2d 453", "499 NW2d 743", "93 ALR3d 420"]
+---
+
+# Allstate Insurance v. Johnson
+
+## Majority (Michael J. Kelly, J.)
+
+Michael J. Kelly, J.
+Defendant Renae Johnson appeals as of right an order of the circuit court granting plaintiff Allstate Insurance Company’s motion for summary disposition in this action for declaratory judgment. We reverse.
+i
+On April 30, 1989, Vernell Johnson was set upon by defendant Michael Charles Edwards, then a minor, and two other teen-agers, who beat Johnson until he was unconscious and threw him head first into a water-filled storm sewer, where he ultimately drowned. Edwards was tried as an adult and convicted of first-degree murder, MCL 750.316; MSA 28.548.
+In January 1991, defendant Renae Johnson, as personal representative of Vernell Johnson’s estate, filed suit against Edwards and his mother and stepfather, Geraldine and Robert Marzette, among numerous other parties. Johnson alleged negligent supervision on the part of the Marzettes.
+After reserving its rights, plaintiff Allstate undertook defense of the suit pursuant to its homeowner’s insurance policy with the Marzettes. The policy covered the Marzettes as named insureds and extended coverage to relatives living in their household.
+On April 1, 1991, Allstate filed the present action for declaratory judgment against Johnson, Edwards, and the Marzettes, seeking a determination of its duty to defend and indemnify the Marzettes and Edwards for any liability. Allstate argued that Edwards’ acts fell within the intentional-acts exclusion of the insurance policy and that this provision applied to exclude the derivative action of negligent supervision against the Marzettes.
+On May 31, 1991, after Edwards and the Marzettes failed to respond to the declaratory action, the plaintiff filed its affidavit and the clerk of the trial court entered a default against them. However, Johnson did respond to the complaint. Allstate moved for summary disposition under MCR 2.116(0(10) on October 1, 1991.
+On October 18, 1991, while the motion for summary disposition was pending, Geraldine Marzette assigned her interest in the insurance policy to Johnson. In exchange for the assignment, Johnson agreed not to attempt any collection from Geraldine Marzette in the event that judgment was entered against her in the underlying action. Under the terms of the assignment, Johnson was to look solely to Allstate for recovery of any judgment.
+At the motion hearing, the parties stipulated that summary disposition was proper for Edwards because his conduct fell within the intentional-acts exclusion. The parties further agreed to dismiss Robert Marzette from the action because he was not Edwards’ parent.
+On December 16, 1991, the circuit court granted Allstate’s motion for summary disposition. The court held that because the exclusionary provision applied to Edwards, coverage for Geraldine Marzette was also excluded in the derivative action for negligent supervision. The court also found that the assignment of the policy was invalid because the terms of the policy prohibited a transfer without Allstate’s consent. Finally, the court held that when the Marzettes defaulted, Johnson lost standing to litigate the coverage issue as a third-party beneficiary.
+ii
+The trial court based its decision regarding coverage on Allstate Ins Co v Freeman, 432 Mich 656; 443 NW2d 734 (1989), modified on other grounds 433 Mich 1202 (1989). We believe the trial court erred in applying Freeman and concluding that the exclusionary provision automatically barred coverage for the derivative action against Geraldine Marzette.
+Allstate had issued a standard homeowner’s policy to the Marzettes, which included "Family Liability Protection.” This section of the policy provided in pertinent part:
+Losses We Cover
+We will pay all sums arising from the same loss which an insured person becomes legally obligated to pay as damages because of bodily injury or property damage covered by this part of the policy.
+If an insured person is sued for these damages, we will provide a defense with counsel of our choice, even if the allegations are not true.
+Exclusions-Losses We Do Not Cover 1. We do not cover any bodily injury or property damage which may reasonably be expected to result from the intentional or criminal acts of an insured person or which is in fact intended by an insured person. [Emphasis omitted.]
+The policy defined "insured person” as follows:
+"Insured Person”-means you and, if a resident of your household, any relative and any dependent person in your care. [Emphasis omitted.]
+While it is undisputed that Edwards’ acts were criminal within the meaning of the policy exclusion, it also is undisputed that a question of fact exists whether Edwards was a resident of the Marzettes’ home and, consequently, an insured person under the policy. Edwards had been thrown out of the house three days before the murder of Vernell Johnson. Allstate argues that Edwards’ status as an insured is immaterial because his original criminal conduct was excluded under the policy, and under Freeman, supra, any derivative liability would be excluded also.
+In Freeman, a husband and wife were the named insureds of a homeowner’s policy similar to the one at issue in this case. The wife took a handgun from the home and shot a neighbor, who subsequently sued the husband for negligent entrustment of the gun. The Supreme Court held that the exclusionary provision applied to the claims against both the husband and the wife:
+"[W]here an insurance policy exclusion precludes coverage for the particular injury, it also excludes coverage for negligent entrustment of the instrumentality that caused the injury. In other words, we look to the underlying cause of the injury to determine coverage and not to the specific theory of liability.” [Id. at 690; citations omitted.]
+Freeman holds that before a claim for negligent entrustment can be excluded, coverage for the underlying injury must be precluded by a policy exclusion. The policy exclusions in both Freeman and this case clearly require that the underlying intentional act be committed by an "insured person.” However, in Freeman the person committing the underlying act and the person derivatively liable were both named insureds. In this case, a question exists whether Edwards was an insured. If Edwards was not an insured at the time of his criminal act, his conduct is not covered by the exclusion and the claim against Geraldine Marzette is not derivative of a claim barred under the exclusionary provision.
+Contrary to plaintiffs contention, Freeman does not impose a blanket exclusion of all claims resulting from any intentional act. Rather, Freeman narrowly holds that where coverage of a particular claim is excluded by virtue of a specific exclusionary clause, derivative claims against co-insureds are also excluded. See also Vanguard Ins Co v McKinney, 184 Mich App 799; 459 NW2d 316 (1990) (holding that an insurance policy provision excluding liability for an intentional act committed by "the insured” did not apply to a derivative claim of negligent entrustment against "an insured” where that insured did not engage in the intentional conduct).
+Here, the exclusionary provision applied only to intentional acts of an insured person. Whether there is any merit to Johnson’s negligent supervision action against Geraldine Marzette was not reached below. Therefore we do not reach it either. Left for determination is whether Edwards was not a resident of the Marzette household and, therefore, not an insured at the time he committed murder and if, at the same time, Geraldine Marzette had a duty to supervise him and negligently performed that duty. We remand to the circuit court for resolution of these issues.
+hi
+Allstate also contends that summary disposition was proper because Johnson lacked standing to continue her suit against Allstate once the Marzettes, the insured parties, defaulted in the declaratory judgment action. Allstate relies on Allstate Ins Co v Keillor, 190 Mich App 499; 476 NW2d 453 (1991), to support its position. There, the insurer commenced a declaratory action to establish rights and obligations under an insurance contract, naming as defendants both the insured and the tort claimant. The insured subsequently defaulted, conceding that there was no coverage under the insurance contract. This Court held that the tort claimant was not a third-party beneficiary of the insurance contract such that he could continue his action for coverage against the insurance company independent of the insured. Although the Keillor decision supports Allstate’s position, it was reversed by the Supreme Court in Allstate Ins Co v Hayes, 442 Mich 56; 499 NW2d 743 (1993). The Supreme Court held that a default judgment entered against the insured did not bind the tort claimant and did not prohibit the trial court from declaring the rights and liabilities of the remaining parties, including the extent of coverage under the insurance contract.
+Accordingly, the entry of default against the Marzettes did not strip Johnson of her standing to pursue an action against Allstate as a tort claimant, "an interested party” to the insurance contract. Id. at 61.
+Allstate also argues that the assignment of interest in the insurance policy between Johnson and Geraldine Marzette was ineffective as a means of avoiding the application of Keillor, supra. However, Keillor has been reversed in Hayes, supra, this issue is moot, and we decline to address it.
+Reversed.
