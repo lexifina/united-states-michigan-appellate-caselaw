@@ -1,0 +1,49 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9539"
+decided: "1971-06-22"
+citations: ["34 Mich. App. 344"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: McGregor, P. J., and Bronson and O’Hara, JJ.", "All concurred."]
+parties: ["McAULIFF v. GABRIEL"]
+source_url: "https://static.case.law/mich-app/34/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2094385
+cites_cases: ["108 Mich 224", "165 Mich 464", "222 Mich 301", "34 Mich App 370", "350 Mich 187", "350 Mich 479", "44 Mich 438", "88 Mich 207"]
+---
+
+# McAuliff v. Gabriel
+
+## Majority (O’Hara, J.)
+
+O’Hara, J.
+In this “slip and fall” case, the plaintiff* filed timely notice of appeal from the jury verdict of no cause of action and from the order denying plaintiff’s motion for a new trial.
+Plaintiff was an employee of Ford Motor Company. On the night of February 4, 1967, he and several of his co-workers held an informal union meeting regarding proposals that would subsequently be submitted to their employer during contract negotiations. The plaintiff arrived at the lounge designated as the meeting place around 9 p.m. Because of the noise which allegedly interfered with their attempted discussion, the plaintiff and several members of the group finally moved to another bar. Eventually, the entourage came to the third stop on their tour, the defendants’ establishment known as the Gabriel Lounge. There, they observed a sign indicating that customers should enter by the rear door. Following these directions, the men proceeded to the rear of the building via the adjacent sidewalk and entered the premises in this manner. None of the group experienced any difficulty in walking or otherwise maintaining their footing at this time. The meeting continued until the “last call” of the evening at approximately 1:20 a.m. Accompanied by other of his fellow unionists, the plaintiff left the lounge via the rear exit, slipped and fell.
+Taken to Mount Clemens General Hospital, plaintiff was administered to for a trimalleolar fracture of the left ankle and other injuries. During the course of treatment, he developed a staphylococcus infection in the ankle and osteomyelitis. As a result, he has undergone several operations and it may prove necessary to amputate the plaintiff’s leg.
+First, allegations are made that the trial court erred reversibly in denying plaintiff’s motion to consolidate the instant case and the pending malpractice action arising out of his hospitalization.
+Consolidation rests in the sound discretion of the trial court and its actions in this regard are subject to reversal only if an abuse of discretion clearly appears. Kelley v. McKay Realty Company (1971), 34 Mich App 370. Under the circumstances herein, we are constrained to agree with the trial court that joinder of the two actions would unduly complicate matters by interjecting issues not germane to the other cause. Nor is there any real likelihood that plaintiff’s interests would be prejudicially affected since the malpractice action does not turn upon the outcome of the instant case. We are unable to discern any abuse of discretion on the part of the trial court.
+Plaintiff next assigns as error the allegedly improper action of the trial court in permitting the jury to become aware of the impending malpractice action against the treating physicians at the hospital.
+Allowing defense counsel to elicit the fact that plaintiff had commenced a malpractice action against the doctors arising out of their ministrations to him finds ready explanation in the not unrealistic belief of the trial judge that the jury, as finder of fact, should be fully informed about the circumstances relating to the injury. Normally, as noted by the trial court, pain and suffering of the magnitude herein are not associated with a broken ankle. Absent some explanation of the apparent inconsistency between the serious injury actually incurred by the plaintiff and the comparatively minor difficulties usually associated with seemingly comparable mishaps, • the jury could not really evaluate testimony concerning the alleged injury.
+Lest the jury be misled as to the limited purposes for which such testimony was admitted, the trial court instructed the jury, as follows:
+“There has been some testimony regarding pend-ency of a malpractice action by the plaintiff. That would relate to a position that perhaps the original injury was worsened or there was a failure to cure. That has nothing to do with this litigation here. That is not to be considered in mitigation whether or not there are or are not damages or what the damages are. Its a rule of law that the original tortfeasor is liable for the consequences of a negligent mistake or lack of skill on the part of a physician or surgeon which treated the original injury. I am not saying that there was or was not negligence or a lack of skill here. That is for your determination.” (Emphasis supplied.)
+An examination of the instruction indicates that it amply comports with the jurisprudence of this state as enunciated in Reed v. City of Detroit (1896), 108 Mich 224, 225:
+“ * * * where a person sustains personal injury through the negligence of another, he is not to be deprived of bis full damages because of tbe failure of his surgeon to administer the best remedies or treatment. There is no obligation to employ the best medical or surgical skill, (citation omitted). It is sufficient if one employs a physician believed to be competent, and reasonable care is used in the selection (citation omitted).”
+Any assignments of error based upon the alleged impropriety of the jury’s acquiring knowledge of the pending malpractice cause could only relate to the belief that the finders of fact willfully ignored the controlling law as outlined in the charge and proportionately reduced the sum otherwise award-able to the plaintiff by an amount equal to whatever it believed plaintiff would ultimately recover from the physicians. The failure of the jury to find any liability whatsoever on the part of defendant clearly negates the latter possibility.
+Plaintiff, further, complains that the trial court improperly permitted defense counsel to examine plaintiff and other witnesses concerning their lack of difficulty in traversing the area where plaintiff fell.
+Admittedly, the policy of this state, as expressed in a considerable body of case law, has evolved limitations on the reception of so-called “negative evidence”. Testimony showing the absence of prior accidents is not competent evidence on the issue of defendants’ alleged lack of negligence. Langworthy v. The Township of Green (1891), 88 Mich 207; Larned v. Vanderlinde (1911), 165 Mich 464; LaDue v. Township of Lebanon (1923), 222 Mich 301. In the instant case though, the trial court carefully limited the testimony of plaintiff and his companions to what they themselves had observed and what, if any difficulties had been encountered in entering or exiting the defendants’ premises. The availability of such relevant, material testimony relating to conditions at the time of the accident should not be denied the fact finders under the rubric of “negative evidence”.
+Even if we were to concede for purposes of argument that some error was committed concerning admission of such evidence, the charge to the jury, viewed in its entirety, correctly states the governing law on the question of what evidence may properly be considered by the fact finders.
+Finally, it is claimed that error was committed by allowing defense counsel to impeach plaintiff by questioning him in regard to statements made during a previous trial of the same cause, which had ended in a mistrial when defendants’ counsel had become ill prior to completing the cross-examination of plaintiff.
+Although plaintiff’s counsel had stipulated that the transcript of the prior proceedings was a “true and correct record”, when plaintiff was confronted with his own inconsistent testimony from the first trial, he either refused to admit having made the statement or indicated an inability to recall it. His constant evasiveness moved the trial judge to state (out of the presence of the jury) :
+“We have had a long proceeding here and this witness has been the most evasive witness I have ever seen in 20 years. He has not answered a question. He will not answer a question. This does not relate to any ambiguity. He simply asked, now, were you. asked this question and did you make this answer. The man wouldn’t answer that he did, and he wouldn’t answer he doesn’t remember. He has to explain.
+“Now I’m warning counsel right now * * * .
+* # #
+“For the record, I’m instructing you now to talk to your client to answer the questions.”
+Whenever defense counsel attempted to bring out an inconsistency between plaintiff’s present testimony and that previously given, he carefully laid a foundation for each question and complied with the technique approved by the Supreme Court in Scholnick v. City of Bloomfield Hills (1957), 350 Mich 187, 195.
+No prejudice having occurred to plaintiff’s substantial rights, we, therefore, affirm entry of the no cause of action judgment and the trial court’s denial of the motion for a new trial.
+Costs to the defendants. Affirmed.
+All concurred.
+The word “plaintiff” is used in the singular because all references are to the husband, although his wife joined in the action as co-plaintiff.
+For a recent ease by tbe Supreme Court espousing a more liberal view on tbe reception of “negative evidence”, see Dalton v. Grand Trunk Western Railroad Company (1957), 350 Mich 479.
+See Misner v. Darling (1880), 44 Mich 438, 440, governing the use of testimony from a previous trial where examination of a party was not completed and the adverse party sought to use said testimony as an admission at the subsequent proceeding.
