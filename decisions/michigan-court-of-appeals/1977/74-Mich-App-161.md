@@ -1,0 +1,53 @@
+---
+court: "Michigan Court of Appeals"
+docket: "26001"
+decided: "1977-03-03"
+citations: ["74 Mich. App. 161"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bashara, P. J., and M. F. Cavanagh and D. C. Riley, JJ."]
+parties: ["PEOPLE v CARRIER"]
+source_url: "https://static.case.law/mich-app/74/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2168984
+cites_cases: ["1 Am D 331", "10 Ind 355", "117 Cal App 2d 698", "148 NW2d 784", "148 NW2d 915", "154 NW2d 615", "172 NW2d 488", "173 NW2d 261", "181 NW2d 56", "19 Mich App 166", "19 Mich App 675", "202 NW2d 575", "216 Ind 663", "220 NW2d 705", "25 Mich App 176", "25 NE2d 995", "256 P2d 586", "267 NW 741", "275 Mich 575", "378 Mich 706", "383 Mich 758", "383 Mich 794", "384 Mich 760", "392 Mich 800", "42 Mich App 400", "44 Utah 18", "54 Mich App 303", "59 Ariz 44", "6 Mich App 247", "8 Mich App 414", "80 NE2d 509", "83 Ohio App 199"]
+---
+
+# People v. Carrier
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The appellant was convicted by a jury of two counts of felonious assault, MCLA 750.82; MSA 28.277, and aiding and abetting in the commission of a crime against nature, MCLA 750.158; MSA 28.355. He appeals as of right.
+The complainant became involved with Patricia Welch. He eventually purchased an automobile which he permitted her to use exclusively. Subsequently, she was involved in an automobile collision. The complainant became apprehensive about her retaining the car. He decided that after the car was repaired, he would resell it.
+Ms. Welch attempted to pick up the car after it had been repaired at a dealership. She was informed that the complainant had placed a "hold” on the automobile.
+Ms. Welsh called the complainant in an effort to recover the car. After the attempt appeared fruitless, Ms. Welch suggested the complainant come over to her residence to discuss the situation.
+Upon entering Ms. Welch’s residence, the complainant was approached by Kenneth Wojnicz, a codefendant. Wojnicz was armed with a gun and pointed it at the complainant. The complainant was instructed to kneel, and his hands were tied behind his back. When he attempted to rise, he was struck on the head with the gun by Mr. Wojnicz.
+Wojnicz ordered the complainant to remove his clothes. Ms. Welch and Mr. Wojnicz left the room with the complainant’s clothes. The complainant heard them going through his pockets and counting his money, which was approximately $215.
+A few minutes later three men, one of whom was the appellant, joined Ms. Welch and Mr. Wojnicz at the scene. The appellant informed the complainant that "nobody treats his old lady that way”. The complainant was repeatedly kicked and beaten by all four men.
+One of the individuals brought in battery booster cables from the complainant’s automobile and attached one of the clamps to his penis. Someone threatened to attach the other end of the booster cable to "something that would give [the complainant] a real shock”. The clamp on the. battery booster cable was removed a few minutes later.
+The complainant was then dragged down to the basement by all four men. He was threatened that his parents and girl friend were also going to be brought there. They requested the name and address of the complainant’s girl friend. He responded with a false name and address. Whereupon, three of the men left leaving the complainant with Wojnicz.
+Subsequently, he was approached by the appellant who held a gun on the complainant and led him upstairs to the bathroom. The appellant ordered the complainant to sit in the bath tub. He hit the complainant a number of times. Then the appellant and Mr. Wojnicz urinated on the complainant.
+The appellant returned to the bathroom a short time later with a gun and fired at the complainant. The bullet hit the wall above the complainant’s head. The appellant then gave the gun to Wojnicz, who also fired at the complainant. The complainant testified that the shots were 5 to 12 inches above his head.
+Later, the appellant returned with a small pair of shears and threatened to cut off the complainant’s penis.
+Finally, the appellant returned with Ms. Welch’s German shepherd. The appellant unsuccessfully attempted to get the dog to attack the complainant. The appellant, while holding a gun on the complainant, ordered him to "suck off the dog”. The complainant lowered his mouth to the dog’s genitals. From that point on, the record is not ^entirely clear as to what occurred. However, the evidence appears to show that complainant’s mouth was directly touching the dog’s penis.
+The first issue raised by the appellant is that the coerced act with the dog is outside the purview of MCLA 750.158; MSA 28.355. Appellant relies upon People v Schmitt, 275 Mich 575; 267 NW 741 (1936), and People v Dexter, 6 Mich App 247; 148 NW2d 915 (1967), for the contention that the statute merely prohibits common-law sodomy, which is only copulation per anum.
+We are of the opinion that the cases cited by the appellant are inapplicable. They deal only with situations involving acts between human beings.
+MCLA 750.158; MSA 28.355 provides:
+"Any person who shall commit the abominable and detestable crime against nature either with mankind or with any animal shall be guilty of a felony.”
+We have been unable to discover any case law in this state dealing with sexual acts between human beings and animals, consequently we may look to other states and sources for guidance.
+At common law a "crime against nature” embraced both sodomy and bestiality. Ausman v Veal, 10 Ind 355, 356; 1 Am D 331 (1858), State v Johnson, 44 Utah 18, 21-22; 137 P 632, 633 (1913), State v Poole, 59 Ariz 44, 47; 122 P2d 415, 416 (1942). In Sanders v State, 216 Ind 663, 664-665; 25 NE2d 995 (1940), the Indiana Supreme Court construed a provision similar to our statute. The Court said:
+"The statute in this state defines the crime as 'the abominable and detestable crime against nature with mankind or beast.’ This court has held in common with the courts of other jurisdictions under similar statutes that the statutory definition includes both common-law sodomy and acts of a bestial character whereby degraded and perverted sexual desires are sought to be gratified contrary to nature.” (Emphasis supplied.)
+There is some doubt as to whether bestiality and sodomy meant the same thing at common law. Miller, Criminal Law, § 141, p 437. This is due to the fact that commentators failed to describe these distasteful acts, but merely characterized them as sodomy or crimes against nature. In any event it has developed, although possibly incorrectly, that sodomy includes acts of bestiality. 2 Wharton’s Criminal Law & Procedure § 756, p 578; Miller, Criminal Law, supra.
+Acts of bestiality have been found to occur in a broader range of conduct than that of common-law sodomy. See People v Smith, 117 Cal App 2d 698; 256 P2d 586 (1953), State v Tarrant, 83 Ohio App 199; 80 NE2d 509 (1948), Ausman v Veal, supra. In other words an act of bestiality is not strictly limited to copulation per anum.
+We have been referred to numerous definitions of bestiality, but adopt the following as the clearest and most concise. An act of bestiality is a sexual connection between a man or a woman and an animal. Clark & Marshall, Crimes (6th ed), § 11.07, p 689.
+We hold that acts of bestiality are expressly prohibited by MCLA 750.158; MSA 28.355. Bestiality is encompassed within the meaning of a "crime against nature” and "sodomy”. An act of bestiality is not limited to copulation per anum, but includes an act of sexual connection between a human being and an animal, such as that alleged to have occurred here.
+In a prosecution for criminal activity in violation of MCLA 750.158; MSA 28.355, "sexual penetration, however slight” is required. MCLA 750.159; MSA 28.356. We note that the trial judge did instruct the jury on both sodomy and the attempt to commit sodomy. However no instruction was given as to penetration, which is an essential element of the completed offense. A remand for a new trial is required where the charge omits an essential element. People v Liggett, 378 Mich 706, 714; 148 NW2d 784 (1967).
+The appellant further claims that the trial court erred in refusing to dismiss the charge of assault with intent to commit murder at the close of appellee’s proofs. Appellant argues the evidence does not disclose an intent to kill since the shots were fired 5 to 12 inches above the complainant’s head. There was more than sufficient evidence to support the inference that the appellant intended to kill the complainant as he assaulted him. See People v Simons, 42 Mich App 400; 202 NW2d 575 (1972), see also People v Johnson, 54 Mich App 303; 220 NW2d 705 (1974), lv den, 392 Mich 800 (1974), People v Parker, 8 Mich App 414; 154 NW2d 615 (1967).
+The next issue raised by the appellant is that the trial judge erroneously admitted into evidence the battery booster cables and a .45-caliber pistol. It appears that they were introduced by the appellee for probative value as to the entire series of events, as well as to corroborate the testimony of the complainant. Appellant’s counsel was specifically asked if there were any objections to the admission of these items. Appellant’s counsel made no objection, but merely requested that the court instruct the jury that the items were not to be considered evidence against the appellant. Such an instruction was given. Under these circumstances the error is waived upon appeal. People v White, 25 Mich App 176, 178; 181 NW2d 56 (1970), lv den, 384 Mich 760 (1970), People v Allar, 19 Mich App 675, 677; 173 NW2d 261 (1969), lv den, 383 Mich 758 (1970).
+Appellant’s final argument is that in conducting a mid-trial voir dire of the jury, the court failed to ascertain whether the incident, giving rise to voir dire, prejudiced the jurors’ ability to render a fair and impartial verdict. There was no objection at trial, and the error is untimely raised for the first time on appeal. People v Costea, 19 Mich App 166, 168; 172 NW2d 488 (1969), lv den, 383 Mich 794 (1970).
+The conviction for aiding and abetting a crime against nature is reversed and remanded for a new trial. The remaining convictions are affirmed.
+MCLA 750.159; MSA 28.356:
+"In any prosecution for sodomy, it shall not be necessary to prove emission, and any sexual penetration, however slight, shall be deemed sufficient to complete the crime specified in the next preceeding section.” (Emphasis supplied.)
+This apparently was not the gun brandished by the appellant.
