@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "102372"
+decided: "1988-05-17"
+citations: ["168 Mich. App. 661"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Beasley, P.J., and H. Hood and R. L. Tahvonen, JJ."]
+parties: ["In re BARBER"]
+source_url: "https://static.case.law/mich-app/168/cases/0661-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2293792
+cites_cases: ["104 Mich App 803", "125 Mich App 482", "133 Mich App 255", "134 Mich App 308", "306 NW2d 358", "336 NW2d 491", "349 NW2d 151", "350 NW2d 871", "412 Mich 913"]
+---
+
+# In re Barber
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondent, Lemmie Barber, appeals from a May 12, 1987, order entered by the Juvenile Division of the Wayne County Probate Court denying his petition for review of his commitment to the Department of Social Services. The petition for review was based upon the allegedly erroneous recommended disposition of respondent’s case by a hearing referee.
+At the hearing on April 30, 1987, fifteen-year-old Lemmie Barber, a special education student, pled guilty to larceny under $100. Lemmie testified and admitted participating in the crime. He acknowledged that he was currently on probation for committing a similar offense.
+During the dispositional phase of the hearing, Lemmie’s probation officer testified that she had recently spoken with officials at his school and had been told that he did not regularly attend school and was, in fact, failing. The probation officer further stated that Lemmie’s parents had indicated that they had no problems with him at home. However, because Lemmie had been on probation such a short time, the probation officer said she had not met with the family. At the hearing, she recommended further evaluation of the situation and counseling for Lemmie in a structured setting. However, in her typed report to the court, she recommended commitment to the state.
+The referee found that Lemmie should be committed to the state because of school concerns and "other problems in the community.” She further indicated that she believed reasonable efforts had been made by the state in terms of Lemmie’s probation and that such efforts had failed. Consequently, on May 6, 1987, she recommended committing Lemmie to the dss.
+At the time of the hearing on the petition for review, respondent’s attorney objected to the use, at the prior hearing, of a social history report which stated that the parents did not want the child in the home and that there were problems with drug use in the family. The parents denied both allegations and asked the court to reconsider intensive probation for Lemmie. The court denied the motion for review, stating that, while commitment normally would not be warranted for the relatively low severity of the crimes committed by Lemmie, the social history report indicated that the family was not capable of maintaining the child on probation and that the sale of drugs was involved.
+On appeal, respondent claims that the court erred in committing him to the custody of the dss on the basis of an allegedly inaccurate social history report. Respondent asserts that the referee erred in relying on inaccurate information in the social history report when recommending commitment to the dss and, thus, the petition for review should have been granted.
+During the dispositional phase of respondent’s hearing, the testimony of the probation officer was the only evidence on the record pertaining to disposition. The record of the dispositional hearing does not indicate whether the hearing referee relied on the social history report nor whether respondent was given the opportunity to examine and refute its contents. However, statements made by the probate judge at the petition for review hearing are enlightening. The judge stated:
+The Court: When the court reviewed this file it was surprised at the type of offenses of which he was committed to the Department of Social Services, because it is rare that we would commit a child with these kinds of offenses to the Department. However, then the court read the social file in this case, and what it found in that social file was a family that was not capable of maintaining this child on probation.
+When we put children on probation we entrust them to the care of their parents to work with the court in an effort to rehabilitate their child. These parents are not capable of doing that, and therefore, the recommendation was made that the child be committed to the Department because at that point we do not rely solely on the parents in efforts to rehabilitate.
+We’re talking about the sale of drugs here, in addition to the deficiency in the family unit. Unless we do something to change this child to turn him around he’s going to be in big trouble, if not getting himself killed.
+If, in fact, the referee relied upon the social history report in recommending the commitment of respondent, as the judge assumed, then it would appear that error occurred.
+In In the Matter of Chapel, we held that juveniles have a right to have the dispositions of their cases reviewed. In that case, we further stated that the evidence relied upon by the lower court in its disposition must be on the record. Unless the evidence is recorded, a remand is necessary. In the within case, no mention of respondent’s social history report appears on the record and, thus, if it was relied upon in determining his disposition, which it seems to have been, it was error not to have put it on the record in some form.
+Because the social history report was not mentioned at the dispositional hearing, it appears that respondent’s first opportunity to object to its contents was at the petition for review hearing. At that point, respondent’s counsel denied that respondent or his parents were involved in the sale of drugs and stated that the parents wanted the child to remain in the home. The judge appeared to ignore these statements and denied the petition for review, relying on the information contained in the report.
+In People v Edenburn, we held that resentencing is necessary where the sentencing court fails to respond to a defendant’s allegations of inaccuracies in reports provided to the judge for sentencing. This is not a case where resentencing is unnecessary because the record shows that the challenged inaccurate information was disregarded in the sentencing decision. We are aware that Edenburn did not involve a juvenile adjudication. However, since Chapel held that a juvenile has a right to appellate review of the disposition of his case, it would be incongruous to find that his due process rights do not also encompass the right to have the court respond to allegations of inaccuracy in probation reports. Thus, we remand this case for further appropriate proceedings.
+Obviously, the procedural differences between the adult and juvenile court systems present difficulties in applying adult criminal law to juvenile adjudications. However, this case is a compelling one for application of the rules pertaining to adults. As previously indicated, this respondent, Lemmie Barber, is a fifteen-year-old, special education student who has committed two shoplifting offenses, has problems in missing school and is on probation. But, as of the date of the dispositional hearing, the probation officer had not interviewed the family. On this record, custodial commitment to the dss does not seem justified. However, the allegations of drug use and family instability, which are apparently asserted in the social history report, may constitute good reason to commit respondent. The social history report is, thus, the key document in this case and (1) the hearing referee never mentioned it, (2) respondent disputes it, and (3) the judge affirmed respondent’s disposition on the basis of it.
+Therefore, for these reasons, we reverse the decision of the juvenile court and remand this case to the juvenile court for further appropriate proceedings.
+Reversed and remanded._
+134 Mich App 308, 313-314; 350 NW2d 871 (1984).
+133 Mich App 255, 257; 349 NW2d 151 (1983).
+For example, see People v Gray, 125 Mich App 482, 487; 336 NW2d 491 (1983), and People v Brown, 104 Mich App 803, 821; 306 NW2d 358 (1981), rev’d on other grounds 412 Mich 913 (1982).
+We note that MCR 5.943(C)(2), effective January 1, 1988, affords juveniles the opportunity to controvert written reports received by the court.
