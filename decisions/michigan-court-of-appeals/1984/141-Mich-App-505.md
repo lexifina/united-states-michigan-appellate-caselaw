@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 63002, 63003, 63010, 63540"
+decided: "1984-08-08"
+citations: ["141 Mich. App. 505"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cynar, P.J., and J. H. Gillis and R. C. Anderson, JJ."]
+parties: ["ATTORNEY GENERAL v PUBLIC SERVICE COMMISSION THE DOW CHEMICAL COMPANY v PUBLIC SERVICE COMMISSION"]
+source_url: "https://static.case.law/mich-app/141/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2267953
+cites_cases: ["133 Mich App 719", "133 Mich App 790", "136 Mich App 515", "209 NW2d 210", "234 NW2d 407", "266 NW2d 665", "287 NW2d 1", "330 NW2d 380", "349 NW2d 539", "350 NW2d 320", "358 NW2d 351", "389 Mich 624", "395 Mich 779", "416 Mich 166", "63 Mich App 69", "82 Mich App 59", "83 ALR3d 933", "93 Mich App 596"]
+---
+
+# Attorney General v. Public Service Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In Docket Nos. 63002, 63003 and 63540, the Attorney General appeals as of right from orders of February 18, 1982, and March 24, 1982, of Ingham County Circuit Court Judge Robert Holmes Bell which affirmed seven Michigan Public Service Commission orders granting rate relief to Consumers Power Company. In Docket No. 63010, Dow Chemical Company appeals as of right from a February 18, 1982, order of Judge Bell which affirmed the July 31, 1978, order of the commission which established an "Other Operations and Maintenance Expense Indexing System” (Other O & M Indexing System). These appeals raise seven issues which will be discussed seriatim.
+The first issue raised by the Attorney General challenges the legality of the "System Availability Incentive Provision” (SAIP). This panel has recently found a similar provision concerning The Detroit Edison Company lawful in Attorney General v Public Service Comm #2, 133 Mich App 790; 350 NW2d 320 (1984). We adopt here what we said there, and affirm.
+The second issue challenges the legality of the Other O & M Indexing System. This issue was also recently addressed by this panel in the case of Attorney General v Public Service Comm #1, 133 Mich App 719; 349 NW2d 539 (1984). We find this issue to be without merit for the reasons given in that opinion.
+In his third issue, the Attorney General contends that the differential monthly service charges for residential customers for "principal” residence and for "alternate” residence established by the commission in its July 31, 1978, final rate order in Case No. U-5331 constitutes unlawful rate discrimination.
+We find this issue to be without merit. The findings of the commission in support of this portion of that order are sufficiently well supported by evidence in the record, as found by Judge Bell. The service charge increase does not violate MCL 460.557; MSA 22.157 because that section only prohibits discrimination between customers receiving "like contemporaneous service rendered under similar circumstances and conditions”. We find record support for the commission’s finding that the providing of electric service to a temporary, alternate or seasonal residence is different from providing service to a permanent resident, with respect to their use of energy, and the yearly amount of energy consumed. We agree with the commission that giving this class of customers different rate treatment in order to equitably apportion the cost of providing electric service does not constitute unlawful discrimination.
+In his fourth issue the Attorney General argues that the commission erred in its final order of Case No. U-5331 of July 31, 1978, by including in the electric rate base a "working capital allowance” of $108,946,000, arrived at by use of a formula involving one-eighth of annual operating and maintenance expenses. He argues that the "allowance” should be based instead on the actual amount of working capital shown on the company’s books for the prior year.
+We find this argument to be without merit for the reasons given in the case of Attorney General v Public Service Comm #2, 136 Mich App 515; 358 NW2d 351 (1984), and for the reasons given by the commission and by Judge Bell in his opinion of February 18, 1982.
+In his fifth issue, the Attorney General argues that the commission acted unlawfully on March 3, 1978, in Case No. U-5331, in granting interim rate relief in the amount of $15,212,000 to Consumers because, he alleges, the order failed to explain why interim relief was granted and why emergency relief was needed. We disagree, and find the order to be both lawful and reasonable. Attorney General v Public Service Comm, 63 Mich App 69; 234 NW2d 407 (1975), lv den 395 Mich 779 (1975); City of Grosse Pointe v Public Service Comm, 93 Mich App 596, 598; 287 NW2d 1 (1979), and Great Lakes Steel Division of National Steel Corp v Public Service Comm, 416 Mich 166; 330 NW2d 380 (1982). The issue is without merit.
+Finally, the Attorney General requests that this Court order refunds to customers to be determined on remand by the Ingham County Circuit Court. We decline to address this issue for the reason that we find the orders appealed from to be lawful and reasonable.
+In summary we affirm Judge Bell’s orders in all respects.
+In Docket No. 63010, Dow Chemical Company argues that the surcharge mechanism incident to the Other O & M Indexing System in MPSC Case No. U-5331, dated July 31, 1978, is unjust and discriminatory in its impact upon "high load factor” ' customers. Dow argues that the indexing system is defective in its impact upon such customers because the commission refused to admit into the record evidence of cost responsibility and because the order fails to explain why its rate design is reasonable, thus violating MCL 24.285; MSA 3.560(185).
+We have elsewhere upheld the Other O & M Indexing System. See above. We agree with the commission that it is vested with complete power to regulate utilities and utility rates, MCL 460.6; MSA 22.13(6) and MCL 460.552; MSA 22.152, and that the uniform kilowatt hour (kwh) surcharge question is clearly a legislative determination, which involves judgment and discretion on the part of the commission. It results in all customers paying the same charge per kwh and is not discriminatory. Legislative policy determinations by the commission, when properly made, as this one was, are not reviewable by the courts. The Detroit Edison Co v Public Service Comm, 82 Mich App 59, 67; 266 NW2d 665 (1978), and the cases cited therein. See, also, Michigan Consolidated Gas Co v Public Service Comm, 389 Mich 624, 644-645; 209 NW2d 210 (1973) (Williams, J., dissenting). Likewise we find that the findings of the commission at pages 114-122 of its opinion and order of July 31, 1978, fully satisfy the requirements of MCL 24.285; MSA 3.560(185). This issue is without merit.
+Affirmed.
