@@ -1,0 +1,45 @@
+---
+court: "Michigan Court of Appeals"
+docket: "144536"
+decided: "1993-06-07"
+citations: ["200 Mich. App. 45"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Marilyn Kelly, P.J., and Mackenzie and Neff, JJ."]
+parties: ["PEOPLE v CHUPP"]
+source_url: "https://static.case.law/mich-app/200/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1860227
+cites_cases: ["175 Mich App 420", "176 Mich App 589", "183 Mich App 203", "194 Mich App 606", "197 Mich App 136", "438 NW2d 305", "440 NW2d 53", "443 Mich 876", "454 NW2d 393", "488 NW2d 464", "494 NW2d 753"]
+---
+
+# People v. Chupp
+
+## Majority (Neff, J.)
+
+Neff, J.
+Defendant pleaded guilty of delivery of less than fifty grams of cocaine, MCL 333.7401(2) (a)(iv); MSA 14.15(7401X2) (a)(iv), for delivering one ounce of cocaine for $1,400 to Rocky Peacock and Richard Waite on November 13, 1990. Waite is a Montcalm County sheriffs deputy and is assigned to the Central Michigan Enforcement Team (cmet). The $1,400 given to defendant was previously recorded as buy money provided by cmet. Defendant was sentenced to five to twenty years’ imprisonment and ordered to pay $1,400 in restitution to cmet and a $30 assessment to the Crime Victim Rights Fund. Defendant appeals his judgment of sentence as of right. We reverse only that portion of defendant’s sentence that requires him to pay $1,400 in restitution. In all other respects, we affirm.
+Defendant claims that the condition of his sentence that he pay $1,400 in restitution to cmet is unlawful because governmental entities are not victims for purposes of any state statute authorizing restitution as a penalty. The people argue that the order requiring defendant to pay restitution for the $1,400 cmet paid him for cocaine is lawful. We agree with defendant that there is no statutory provision that would allow the trial court in this case to order defendant to pay restitution to cmet, a governmental entity.
+MCL 333.7401(2)(a)(iv); MSA 14.15(7401)(2)(a)(iv), the statute under which defendant was convicted, does not provide for payment of restitution and therefore does not support the order of restitution in this case.
+Subsection 1 of MCL 769.1a; MSA 28.1073 provides for court-ordered restitution to the victim or the victim’s estate upon a defendant’s conviction of a felony or misdemeanor. It states in pertinent part:
+In addition to the court’s authority to order restitution as part of a sentence pursuant to chapter, the judge of a court of competent jurisdiction may order, in addition to or in the place of any other penalty authorized by law, a person convicted of any felony or misdemeanor to make full or partial restitution to the victim of the defendant’s course of conduct which gives rise to the conviction or to the victim’s estate. [MCL 769.1a(l); MSA 28.1073(1).]
+Subsection 12 of the same statute defines the term "victim”:
+As used in this section and in section 3 of chapter XI, "victim” means an individual who suffers direct or threatened physical, financial, or emotional harm as a result of the commission of a crime. [MCL 769.1a(12); MSA 28.1073(12).]
+Because the statute, by its own terms, limits the definition of a victim to an "individual,” it cannot be applied to a governmental entity such as cmet, which is not an individual.
+Restitution also may not be ordered pursuant to § 16 of the Crime Victim’s Rights Act, MCL 780.766; MSA 28.1287(766). Subsection 2 of that statute provides:
+The court, when sentencing a defendant convicted of a crime, may order, in addition to or in lieu of any other penalty authorized by law or in addition to any other penalty required by law, that the defendant make restitution to any victim of the defendant’s course of conduct which gives rise to the conviction, or to the victim’s estate. [MCL 780.766(2); MSA 28.1287(766X2).]
+Subsection 10 of the statute states:
+The court shall not order restitution with respect to a loss for which the victim or victim’s estate has received or is to receive compensation, including insurance, except that the court may, in the interest of justice, order restitution to the crime victims compensation board or to any individuals, organizations, partnerships, corporations, or governmental entities that have compensated the victim or victim’s estate for such a loss to the extent of the compensation paid. An order of restitution shall require that all restitution to a victim or victim’s estate under the order be made before any restitution to any other person under that order is made. [Emphasis added. MCL 780.766(10); MSA 28.1287(766X10).]
+For purposes of § 16 of the act, "victim” is defined in subsection 1:
+For purposes of this section only, "victim” means an individual who suffers direct or threatened physical, financial, or emotional harm as a result of the commission of a crime; and for purposes of subsections (2), (3), (4), (7), (9), (10), (11), and (15), "victim” includes a sole proprietorship, partnership, or corporation. [MCL 780.766(1); MSA 28.1287(766X1).]
+A governmental agency such as cmet does not fit within the definition of victim provided in subsection 1 above because it is not an individual, sole proprietorship, partnership, or corporation. Subsection 10 is also inapplicable because cmet is not a victim as that term is defined in the statute or a victim’s estate and it did not compensate a victim or a victim’s estate. Where a statute provides its own glossary, the terms must be applied as expressly defined. Harder v Harder, 176 Mich App 589, 591; 440 NW2d 53 (1989).
+In addition, if the maxim expressio unius est exclusio alterius is applied to the restitution provision of the act, one result is that only the parties expressly granted the right to invoke the provisions of the statute may do so; a governmental entity such as cmet therefore may not receive restitution under the statute. Williams v Coleman, 194 Mich App 606, 613; 488 NW2d 464 (1992). Because governmental entities are not explicitly listed as possible victims, it is presumed that such omission is an exclusion, and a governmental entity may not recover restitution. In essence, cmet may indeed be a "victim” of defendant’s criminal activity because its members decided to expend $1,400 for the drug deal with defendant, but it may not be considered a "victim” under the definition expressly provided in the statute.
+The prosecution relies on . the following language in People v Orweller, 197 Mich App 136, 139; 494 NW2d 753 (1992), in support of its argument that restitution was properly ordered:
+Just as the Legislature intended to include insurance companies as victims for the purposes of restitution when it amended [MCL 780.766(10); MSA 28.1287(766X10), People v Norman, 183 Mich App 203, 206; 454 NW2d 393 (1989)], so too did the Legislature intend to include the state as a victim to whom compensation may be paid for a defendant’s criminal conduct.
+We are not convinced that this language supports the order of restitution in this case. First, the Norman case does not state that the Legislature intended to include insurance companies as "victims.” Rather, it relies on People v Washpun, 175 Mich App 420; 438 NW2d 305 (1989), which held that restitution may be ordered to be paid to a reimbursing insurance company. Id., p 427. Norman, supra, p 206.
+Second, the Orweller opinion is distinguishable from this case because it deals with the state’s right to subrogation. In Orweller, the defendant caused damage to a building while operating a motor vehicle without insurance and while having an unlawful blood alcohol level, and he was ordered to pay restitution. The defendant argued that the trial court was without authority to order restitution because the owner of the building was insured and his carrier had the opportunity to seek reimbursement from an uninsured motorist fund created under the Motor Vehicle Accident Claims Act, MCL 257.1101 et seq.; MSA 9.2801 et seq. The Orweller Court stated:
+We see no reason why the state’s right to subrogation would not include a right to recover any restitution to which the actual victim or insurance company would otherwise have been entitled. [Orweller, supra, p 140.]
+In the instant case, cmet, the governmental entity, would not, like the state entity in Orweller, be reimbursing an insurance company that compensated a victim. It also would not be reimbursing a "victim” — it is itself a "victim” — though not a "victim” as defined by the statute. Thus, the language relied on by the people is inapplicable to this case.
+Because the people have not supplied us with any statutory authority, and we could find none, that would allow a governmental agency such as cmet to receive restitution, we vacate that portion of defendant’s sentence requiring him to pay $1,400 in restitution to cmet. In all other respects, we affirm.
+Sentence vacated in part and affirmed in part.
