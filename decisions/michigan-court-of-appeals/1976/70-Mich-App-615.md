@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "23910"
+decided: "1976-08-09"
+citations: ["70 Mich. App. 615"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P. J., and M. F. Cavanagh and McGregor, JJ."]
+parties: ["PEOPLE v LYONS"]
+source_url: "https://static.case.law/mich-app/70/cases/0615-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2143719
+cites_cases: ["191 NW2d 297", "227 NW2d 511", "230 NW2d 353", "236 NW2d 58", "386 Mich 172", "393 Mich 554", "395 Mich 451", "60 Mich App 154"]
+---
+
+# People v. Lyons
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was charged with delivery of heroin in violation of MCLA 335.341(l)(a); MSA 18.1070(41)(l)(a), MCLA 335.314(b); MSA 18.1070(14)(b). The prosecution’s theory was that defendant had aided and abetted his codefendant in the commission of the crime. On January 14, 1975, he was found guilty by an Oakland County Circuit Court jury, and on February 25, 1975, he was sentenced to a prison term of not less than 5 nor more than 20 years. Defendant now appeals as of right, raising four arguments, which we will deal with seriatim.
+Defendant first argues that his arrest was invalid because it was based on information the arresting officers had acquired while using a transmitting device to monitor defendant’s conversation with an undercover agent. The police had not obtained a warrant prior to engaging in such activity. Thus, defendant contends that that conduct violated People v Beavers, 393 Mich 554; 227 NW2d 511 (1975). A review of the record indicates that defendant did not challenge the validity of his arrest by either a pretrial motion or an objection at trial. Because this Court will not consider a claim raised on appeal that was not properly preserved below, People v Willis, 60 Mich App 154; 230 NW2d 353 (1975), we will not consider this issue.
+Defendant next argues that there was insufficient evidence to support his conviction because he was merely present during the commission of the crime, and "mere presence” is not sufficient to establish aiding and abetting. We believe, however, that the trial testimony of the undercover agent established that defendant was not a mere bystander, but was, instead, an active participant in the crime.
+At trial, the undercover officer explained that on the night of the crime, he went to a motel in Pontiac, Michigan, and knocked on the door to room 7. A male voice asked who was at the door. The officer told the individual that he had been there the night before with another man, Ron (an informant), and because Ron could not be there, he had come to pick up the "spoon”. A man then opened the door slightly, keeping' it chain-locked. After the officer reiterated the reason for his presence, the man opened the door and allowed the officer to enter.
+Inside, the officer saw Deborah Smith, defendant’s codefendant, seated on a bed. He again said he wished to purchase a "spoon”. At that point, defendant looked at Ms. Smith who nodded her head in the affirmative. She next withdrew an envelope from her bra, removed several tinfoil packets from the envelope, and handed one of those packets to the officer. He handed Ms. Smith $25 and thanked defendant for letting him pick up the "spoon”. Defendant told the officer to tell Ron he would see him later that night. The other officers then entered the room, and defendant and Ms. Smith were arrested.
+That testimony shows that defendant actively assisted Ms. Smith by acting as a doorman or "lookout”. Defendant’s activities were similar to those of the defendant in People v Fuller, 395 Mich 451; 236 NW2d 58 (1975), which held that there was sufficient evidence to convict defendant of aiding and abetting a felony murder by acting as a lookout. Thus, we will not reverse on this ground.
+Next, defendant argues that his conviction should be reversed because the prosecution failed to prove an essential element of the crime — defendant’s lack of a license. We find no merit to this argument. The cases cited by defendant do not control the instant situation because they involve construction of a statute that has been repealed. Although the repealed statute included an element of lack of license, the statute under which defendant was convicted neither uses the word "license” nor includes an element of lack of license. It does, however, explain that a defendant is presumed not to hold a registration or order form unless he proves otherwise, MCLA 335.356; MSA 18.1070(56). But, that provision makes it clear that the people need not prove lack of registration or order form.
+Finally, defendant argues that his conviction must be reversed because the statute under which he was convicted is unconstitutionally vague. We believe this issue, too, lacks merit. Apparently, the gravamen of defendant’s argument is that "lack of license”, although not mentioned in the statute, is still an element of the crime of delivery because the statutory terms "registration” and "order form” that the prosecutor points to in support of the notion that the people need not prove "lack of license” cannot necessarily be construed to mean "license”. As we explained earlier, the word "license” is not used in the statute. Thus, there is no statutory requirement regarding proof of either "license” or "lack of license”. The section most similar to that of the prior act’s provision concerning "license” is that referring to the burden of proof regarding "registration” and "order form”, and a reading of the entire statute reveals the meaning of those terms. Thus, finding no ambiguity, we affirm.
+We note that People v Beavers, 393 Mich 554; 227 NW2d 511 (1975), would not control this case because it was given only prospective application, and the police conduct objected to in the case at bar occurred prior to that decision. Furthermore, even if there had been a Beavers violation, defendant’s arrest would have been valid because the undercover agent whose conversation was monitored had spoken directly with defendant at the time of the commission of the crime and, therefore, had probable cause to arrest him.
+See People v Rios, 386 Mich 172; 191 NW2d 297 (1971).
