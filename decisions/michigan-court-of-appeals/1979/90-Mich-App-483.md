@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 78-1249, 78-2705"
+decided: "1979-06-05"
+citations: ["90 Mich. App. 483"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. F. Walsh, P.J., and T. M. Burns and D. E. Holbrook, Jr., JJ."]
+parties: ["PRIDEMORE v WILLIAMS WARDELL v HENRY"]
+source_url: "https://static.case.law/mich-app/90/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2178164
+cites_cases: ["11 NW 280", "232 NW2d 636", "243 NW2d 248", "3 NW 304", "394 Mich 655", "397 Mich 54", "4 NW 509", "42 Mich 141", "43 Mich 37", "44 Mich 388", "47 Mich 481", "6 NW 874", "8 Mich 113", "87 ALR2d 1274", "94 ALR2d 1128"]
+---
+
+# Pridemore v. Williams
+
+## Majority (D. E. Holbrook, Jr., J.)
+
+D. E. Holbrook, Jr., J.
+These cases were consolidated to examine the use of interrogatories in paternity actions filed pursuant to MCL 722.711 et seq.; MSA 25.491 et seq.
+In Pridemore the plaintiff filed a complaint under The Paternity Act alleging that defendant was the father of her son. Defendant served interrogatories upon the plaintiff and the plaintiff served a set of interrogatories upon the defendant. Neither party filed answers to the interrogatories. The trial court granted defendant’s motion to compel plaintiff to answer interrogatories and in the same order denied the defendant’s motion to strike plaintiff’s interrogatories. Defendant appeals the denial of the motion to strike plaintiff’s interrogatories by leave granted.
+In Wardell plaintiff also filed a complaint under The Paternity Act. The defendant submitted interrogatories to the plaintiff who refused to answer the interrogatories. The defendant filed a motion to compel answers to the interrogatories and the trial court held that the plaintiff need not answer the interrogatories since discovery was not equally available to both parties in paternity cases. Defendant appeals the denial of his motion by leave granted and the two cases were consolidated for oral argument and decision.
+Proceedings under The Paternity Act have created a great confusion concerning the nature of the proceedings. They are generally considered to be "quasi criminal” because they combine elements of both civil and criminal cases. Justice Coleman, after analyzing the nature of paternity actions, concluded:
+"In the final analysis, a paternity action under the current statute is primarily civil in nature.” Artibee v Cheboygan Circuit Judge, 397 Mich 54, 67-68; 243 NW2d 248 (1976) (Coleman, J., dissenting).
+It has long been the law in Michigan that actions under The Paternity Act are not criminal actions.
+"Bastardy proceedings, although of a mixed character, involve no indictable offence on which a conviction could be had in their course, and they are not criminal proceedings in the proper sense of the term. It is not pretended that any demand of extradition could be made on such a charge. Our own decisions have settled the character of such proceedings as not criminal. Cross v People, 8 Mich 113; Semon v People, 42 Mich 141 [3 NW 304 (1879)]; Sutfin v People, 43 Mich 37 [4 NW 509 (1880)]; Waite v Washington, 44 Mich 388 [6 NW 874 (1880)].” In the Matter of Frank Cannon, 47 Mich 481, 485; 11 NW 280 (1882).
+The Paternity Act itself further substantiates the civil nature of the matter by requiring that "the alleged father shall not be fingerprinted, photographed or have his name listed on any criminal record”. MCL 722.714(e); MSA 25.494(e).
+Holding as we do, that paternity actions are civil actions, then it necessarily follows that the General Court Rules of 1963, as amended, are applicable to paternity actions. See GCR 1963, 11.1. The Supreme Court has, however, in GCR 1963, 730.1 stated that:
+"The procedure and actions under the Paternity Act shall be in accordance with rule 730, and the general court rules, which are not in conflict with the provisions of the Paternity Act.”
+Thus in the case of a conflict between the General Court Rules and The Paternity Act, The Paternity Act provisions shall prevail.
+In both Pridemore and Wardell interrogatories were served upon the parties pursuant to GCR 1963, 309. These interrogatories were not answered by any of the parties within the applicable time limits. Motions were then made in both cases pursuant to GCR 1963, 313.1(2) to compel answers to the interrogatories. In Pridemore the trial court ordered defendant to answer plaintiffs interrogatories but indicated that such answers could not be admissible in evidence except for impeachment purposes. In Wardell the trial court refused to order plaintiff to answer defendant’s interrogatories because of its recognition that the defendant in a paternity action could not be required to testify and its unwillingness to permit discovery by only one party. Both trial courts erred in their decisions.
+The controlling statute is MCL 722.715; MSA 25.495. It states:
+"Both the mother and the alleged father shall be competent to testify, but the alleged father shall not be compelled to testify, and if either gives evidence he or she shall be subject to cross examination * *
+This provision of The Paternity Act is in direct conflict with GCR 1963, 309 and 313 since those rules would require the defendant to testify by answers to written interrogatories. Accordingly, we hold that GCR 1963, 730.1 requires that the General Court Rules concerning the service and answer of interrogatories are inapplicable to putative fathers in paternity actions. This construction if the General Court Rules requires a reversal in Pridemore and remand to the trial court for entry if an order striking plaintiffs interrogatories.
+Our holding in Pridemore does not dispose of the ssue raised in Wardell. The statutory conflict created by MCL 722.715; MSA 25.495 concerns only the putative father and not the plaintiff mother. While the trial court’s reasoning in War-dell is not clear, it did recognize that the defendant could not be required to answer interrogatories. Incorrectly characterizing the paternity action as criminal in nature, it denied all discovery based upon GCR 1963, 785.1(2) which indicates that depositions or other discovery proceedings shall not be taken in criminal matters. As stated previously, paternity actions are civil actions and GCR 1963, 785 has no applicability.
+Plaintiff in Wardell further argues that it would be a denial of equal protection to permit the defendant to utilize discovery while denying her access to the same procedures. The statute clearly places the plaintiff mother and the defendant putative father in separate classifications and grants them differing access to discovery during litigation. Discovery is a recent creation of the Legislature and the courts and is not a fundamental interest; thus the proper review is the traditional equal protection test. Under this test:
+"The burden is on the person challenging the classification to show that it is without reasonable justification. It has been said that '[a] statutory discrimination will not be set aside if any state of facts reasonably may be conceived to justify it’. A classification will stand unless it is shown to be 'essentially arbitrary’.” Manistee Bank & Trust Co v McGowan, 394 Mich 655, 668; 232 NW2d 636 (1975).
+In a paternity action the only issue is whether the defendant is the father of the child of the plaintiff. The plaintiff mother is, or at least ought to be, fully cognizant of all of the operative facts concerning the conception of the child in question. The defendant on the other hand, especially if he is unjustly accused, requires certain preliminary information in order to prepare a defense, since the plaintiff’s testimony will constitute a prima facie case. When viewed from this perspective, the Legislature’s decision to deny discovery to the plaintiff mother while allowing it to be utilized by the defendant cannot be said to be essentially arbitrary.
+In summary, we find that the use of written interrogatories as a discovery technique in paternity actions is a valid and permissible procedure. However, since a defendant in a paternity action may not be compelled to answer interrogatories pursuant to statutory conflict which overrides the General Court Rules, we prohibit the service of written interrogatories upon a defendant in a paternity action.
+Reversed and remanded for proceedings consistent with this opinion.
