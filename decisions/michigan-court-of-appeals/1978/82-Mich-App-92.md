@@ -1,0 +1,51 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-655"
+decided: "1978-03-20"
+citations: ["82 Mich. App. 92"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: M. F. Cavanagh, P. J., and Bronson and M. J. Kelly, JJ.", "M. F. Cavanagh, P. J., concurs in the result."]
+parties: ["PEOPLE v MARSHALL"]
+source_url: "https://static.case.law/mich-app/82/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2157911
+cites_cases: ["11 ALR2d 607", "155 NW2d 700", "239 NW 341", "243 NW2d 248", "245 NW2d 381", "256 Mich 33", "259 NW2d 563", "297 Mich 115", "297 NW 206", "347 Mich 1", "347 Mich 357", "391 US 145", "395 US 147", "397 Mich 54", "401 US 371", "70 Mich App 1", "78 Mich App 218", "78 NW2d 640", "79 NW2d 869", "9 Mich App 60", "94 ALR2d 1128", "98 ALR2d 292"]
+---
+
+# People v. Marshall
+
+## Majority (Bronson, J.)
+
+Bronson, J.
+Defendant appeals by leave granted a January 10, 1977, order denying his motion for a blood test and jury trial at county expense in a paternity action.
+Defendant’s motion was phrased in constitutional terms. He asserted that he was entitled to a blood test and jury trial at county expense because he had shown indigency for purposes of obtaining appointed counsel and that denying an indigent the requested fee waivers violated the due process and equal protection clauses of the United States and Michigan Constitutions.
+The trial court denied defendant’s motion on two grounds. First, the trial court denied the motion because defendant had "failed to request said jury trial and blood tests under the Michigan Paternity Act and under the Michigan statute dealing with indigency”. The second basis for the trial court’s denial of defendant’s motion was that Artibee v Cheboygan Circuit Judge, 397 Mich 54; 243 NW2d 248 (1976), did not mandate a jury trial or blood test as a matter of constitutional law.
+We hold that the trial court correctly denied defendant’s motion for a jury trial and blood test at county expense.
+First, denial of the motion was proper because defendant had failed to demonstrate indigency for the purpose of obtaining a jury trial or blood test fee waiver. Defendant argues that once he has demonstrated indigency for the purpose of obtaining appointed counsel, he should not be forced to demonstrate inability to pay again for the purpose of a jury trial or blood test fee waiver. Inability to pay for counsel, however, necessarily involves different considerations than inability to pay a $30 jury fee or a blood test fee. It is not a denial of due process to require a showing of indigency or inability to pay as a precondition to a fee waiver. See Artibee v Cheboygan Circuit Judge, supra. As defendant has not demonstrated an inability to pay required costs, it is not a denial of due process or equal protection to deny his motion for a fee waiver. Cf. Boddie v Connecticut, 401 US 371; 91 S Ct 780; 28 L Ed 2d 113 (1971).
+Furthermore, GCR 1963, 120.3 provides:
+"In instances where the person is not receiving public assistance, the court shall order waiver of the payment of all fees and costs as to a person in the action, required to be paid by law or court rule, or shall order the suspension of the payment of those fees or costs until the conclusion of the litigation upon that person submitting to a judge of the court an ex parte affidavit stating facts showing that person’s inability to pay those fees and costs because of indigency.”
+As a procedure insuring defendant’s due process rights is available, it was not unconstitutional to deny a fee waiver where defendant has deliberately avoided utilizing that procedure.
+Defendant’s second argument is that as a paternity action is "quasi-criminal” and, as a defendant could be imprisoned for up to one year for default of payment after being adjudged the father of a child, MCLA 722.719(c); MSA 25.499(c), the criminal jury trial guarantees of Const 1963, art 1, § 20, and US Const, Am VI apply. Implicit in this argument is the assumption that no fee may be imposed for exercise of the criminal jury trial right. See People v Hope, 297 Mich 115; 297 NW 206 (1941). This argument is faulty in two respects. First, even though some criminal procedural protections have been held applicable to paternity actions, it is generally accepted in Michigan that paternity actions are both civil and criminal in nature. People v Martin, 256 Mich 33; 239 NW 341 (1931), McDaniel v Jackson, 78 Mich App 218; 259 NW2d 563 (1977). Unlike a criminal prosecution, the purpose of a paternity action is not to punish a defendant. People v Stoeckl, 347 Mich 1, 8-11; 78 NW2d 640 (1956) (Smith, J., dissenting), Romain v Peters, 9 Mich App 60; 155 NW2d 700 (1967). We cannot say that a paternity action is a "criminal prosecution” for purposes of the constitutional jury trial guarantee. See, also, Romain v Peters, supra.
+Second, a paternity action does not result in imprisonment, but an order of filiation and liability for support. Thus, even if a paternity action is viewed as a criminal prosecution, a criminal jury trial is not constitutionally required; imprisonment is not a direct result of the action. See Frank v United States, 395 US 147; 89 S Ct 1503; 23 L Ed 2d 162 (1969), Duncan v Louisiana, 391 US 145; 88 S Ct 1444; 20 L Ed 2d 491 (1968), Cahill v 15th District Judge, 70 Mich App 1; 245 NW2d 381 (1976). We hold that a defendant in a paternity action is not entitled to the criminal jury trial guarantee under the Sixth Amendment or Const 1963, art 1, § 20. Also, GCR 1963, 120.3 insures a defendant’s rights under the due process clauses of the United States and Michigan Constitutions.
+We need not reach the issue of whether an indigent defendant in a paternity action has a constitutional right to a blood test at county expense. Under Michigan law, a defendant has a statutory right to a blood test, MCLA 722.716(a); MSA 25.496(a), and the required fee must be waived if defendant demonstrates indigency. GCR 1963, 120.3. Defendant in the case at bar has not waived his right to demand a blood test, as the trial has not yet begun. See MCLA 722.716(a); MSA 25.496(a). Thus, he may still request a fee waiver under GCR 1963, 120.3.
+Defendant in the case at bar has not demonstrated indigency for the purpose of obtaining a fee waiver for a jury trial and blood test. For this reason and also for the reason that GCR 120.3 provides for fee waiver or suspension for all indigent parties upon a showing of inability to pay, we dismiss defendant’s constitutional claims. We also note that the jury trial aspect of paternity proceedings is not criminal in nature. We therefore affirm the trial court’s denial of defendant’s motion for a jury trial and blood test at county expense and remand this case for further proceedings. Defendant may demand a jury trial under MCLA 722.715(a); MSA 25.495(a), and may move for a fee waiver or suspension under GCR 1963, 120.3 on remand, but must comply with the requirement that he show inability to pay the required costs.
+The trial court’s denial of defendant’s motion is affirmed and this case is remanded for further proceedings.
+M. F. Cavanagh, P. J., concurs in the result.
+See Artibee v Cheboygan Circuit Judge, 397 Mich 54; 243 NW2d 248 (1976), which guaranteed a due process right to appointed counsel in a paternity action to an indigent defendant.
+The parties have stipulated the grounds upon which the motion was denied.
+We also hold that defendant has not waived his right to demand a jury trial in the case at bar. See MCLA 722.715(a); MSA 25.495(a). GCR 1963, 508.4 provides in part:
+"The failure of a party to file a demand as required by this rule or to deposit the jury fee by the close of the pretrial conference constitutes waiver by him of trial by jury.”
+In this case, defense counsel made an oral demand for a jury trial and fee waiver at the pretrial conference and the trial judge expressly allowed him two weeks to file written motions. Defense counsel did so. Filing the written motions within the time specified by the trial judge satisfied GCR 1963, 508.4. Defendant may therefore still demand a jury trial under MCLA 722.715(a); MSA 25.495(a), and a jury trial fee waiver under GCR 1963, 120.3 on remand.
+MCLA 600.2529(4); MSA 27A.2529(4).
+The trial court fixes the compensation of the expert who conducts the blood test and may apportion the cost between the parties. MCLA 722.716(c); MSA 25.496(c).
+See, also, MCLA 600.2529(12); MSA 27A.2529(12), giving the presiding judge discretionary authority to waive or suspend required fees.
+See, e.g., People v McFadden, 347 Mich 357; 79 NW2d 869 (1956) (notice of alibi required); People v Stoeckl, 347 Mich 1; 78 NW2d 640 (1956) (comment on defendant’s failure to testify held reversible error); McDaniel v Jackson, 78 Mich App 218; 259 NW2d 563 (1977) (double jeopardy applies to paternity action). But see Romain v Peters, 9 Mich App 60; 155 NW2d 700 (1967) (unanimous jury verdict not required in paternity action).
+An action for contempt for violation of a filiation and support order may result in imprisonment, but not the paternity action itself. We express no opinion on the right to a jury trial at a contempt hearing under MCLA 722.719(c); MSA 25.499(c), an issue not raised in the case at bar.
+
+## Dissent (M. J. Kelly, J.)
+
+M. J. Kelly, J.
+(dissenting). I would reverse the trial court’s denial of defendant’s motion for a jury trial and blood test at county expense and remand this case for trial forthwith ordering the trial court to grant defendant’s motions as to blood test and jury trial at county expense. It seems to me uselessly redundant to require two indigency showings; one for appointment of counsel, and another for receiving a blood test at county expense in the same proceeding. I would likewise find the refusal to grant a jury trial in this quasi-criminal proceeding an abuse of discretion. I do not find a constitutional right to a jury trial nor that this is a criminal proceeding. Appellant is entitled to a civil jury but the fee should be at public expense for the same reasons that he’s entitled to an attorney and a blood test at public expense.
+I would reverse.
