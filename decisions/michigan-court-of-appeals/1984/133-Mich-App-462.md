@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "68889"
 decided: "1984-04-02"
-citations: ["133 Mich. App. 462", "135 Mich. App. 777"]
+citations: ["133 Mich. App. 462"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["ROHE SCIENTIFIC CORPORATION v NATIONAL BANK OF DETROIT"]
 source_url: "https://static.case.law/mich-app/133/cases/0462-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2246742
-cites_cases: ["103 NW2d 491", "104 NW2d 360", "109 Mich App 344", "122 P2d 892", "127 Mich App 777", "133 Mich App 462", "17 NW 708", "19 Cal 2d 807", "191 NW2d 313", "253 NW2d 687", "276 NW2d 869", "289 NW 222", "290 NW2d 414", "291 Mich 478", "311 NW2d 776", "329 Mich 506", "339 NW2d 545", "360 Mich 214", "360 Mich 434", "386 Mich 37", "406 Mich 1007", "409 Mich 919", "46 NW2d 361", "52 Mich 87", "74 Mich App 138", "77 ALR2d 1410", "88 Mich App 128", "95 Mich App 213"]
+cites_cases: ["104 NW2d 360", "122 P2d 892", "127 Mich App 777", "17 NW 708", "19 Cal 2d 807", "191 NW2d 313", "253 NW2d 687", "276 NW2d 869", "289 NW 222", "290 NW2d 414", "291 Mich 478", "329 Mich 506", "339 NW2d 545", "360 Mich 434", "386 Mich 37", "406 Mich 1007", "409 Mich 919", "46 NW2d 361", "52 Mich 87", "74 Mich App 138", "77 ALR2d 1410", "88 Mich App 128", "95 Mich App 213"]
 ---
 
 # Rohe Scientific Corp. v. National Bank
