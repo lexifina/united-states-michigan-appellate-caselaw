@@ -1,0 +1,72 @@
+---
+court: "Michigan Court of Appeals"
+docket: "58466"
+decided: "1983-03-08"
+citations: ["123 Mich. App. 752"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and R. M. Maher and C. W. Simon, JJ.", "C. W. Simon, J., concurred."]
+parties: ["PEOPLE v WILLIAMS"]
+source_url: "https://static.case.law/mich-app/123/cases/0752-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2229167
+cites_cases: ["109 Mich App 306", "114 Mich App 773", "124 US App DC 387", "128 US App DC 375", "150 A2d 102", "156 US 237", "178 A 823", "21 NW2d 118", "23 ALR2d 1306", "243 NW2d 248", "243 NW2d 292", "247 P2d 567", "253 NW2d 698", "255 NW2d 171", "296 NW2d 8", "311 NW2d 759", "313 Mich 248", "319 NW2d 390", "319 Pa 65", "329 NW2d 738", "365 F2d 920", "383 US 375", "388 US 14", "389 F2d 545", "39 Cal 2d 496", "395 Pa 199", "397 Mich 163", "397 Mich 54", "400 Mich 352", "410 US 284", "410 US 302", "415 Mich 603", "415 US 308", "546 F2d 177", "74 Mich App 173", "97 Mich App 633"]
+---
+
+# People v. Williams
+
+## Majority (Mackenzie, P.J.)
+
+Mackenzie, P.J.
+After a jury trial, defendant was convicted of two counts of first-degree murder, MCL 750.316; MSA 28.548. Defendant was sentenced to imprisonment for two concurrent life terms and appeals by right.
+I
+A key prosecution witness was Jeffrey Pippins, an accomplice of defendant. On direct examination of Pippins by the prosecutor, the following exchange occurred:
+"Q. And you and your attorney entered into a plea agreement, is that correct?
+"A. That’s correct.
+”Q. Part of that agreement was that you would tell the truth, is that correct?
+"A. Yes, that is correct.
+"Q. And that if you did so and you completely testified, you would be allowed to plead to a charge of manslaughter or unarmed robbery, is that correct?”
+Defendant argues that this reference to a plea agreement containing a promise of truthfulness impermissibly bolstered the credibility of the prosecution witness. However, defendant made no objection to this testimony at trial, and under such circumstances we will reverse only if presented with manifest and serious error resulting in fundamental injustice. See, for example, People v Therrien, 97 Mich App 633, 634; 296 NW2d 8 (1979).
+The prosecution has a duty to disclose promises made to obtain an accomplice’s testimony. People v Atkins, 397 Mich 163, 173; 243 NW2d 292 (1976). This was not a case like People v Lytal, 415 Mich 603; 329 NW2d 738 (1982), in which evidence of an accomplice’s conviction was admitted ostensibly to show that no consideration was given to obtain the testimony. People v Buschard, 109 Mich App 306, 316; 311 NW2d 759 (1981), like the case now before us, involved a plea agreement containing a promise of truthfulness. The Court concluded that whether reversal was required depended on the circumstances of the particular case:
+"[W]e cannot hold that any reference to a plea agreement containing a promise of truthfulness is in itself grounds for reversal. A more accurate statement of the law appears to be that, although such agreements should be admitted with great caution, admissibility of such an agreement is not necessarily error unless it is used by the prosecution to suggest that the government had some special knowledge, not known to the jury, that the witness was testifying truthfully.” (Emphasis in original.)
+Defendant points to the following remarks by the prosecutor in rebuttal to defendant’s closing argument, to which, however, defendant made no objection:
+"You know, he agreed to tell the truth and the truth was he did have that shotgun for a while, did have it and he exchanged, like he said, because Harold Williams had told him he was going to kill them and that is the gun that he was going to use to kill them and that he would handle it, and it would be just like shooting a pheasant or another animal, it wouldn’t bother him.
+"So if Jeffrey Pippins is not telling you the truth and making up this story, I guess he is not a very good story maker, or he at least could have made up another one, because, as I stated to you, the only way we got Mr. Pippins here to testify as to the statement. You heard no other evidence other than after he gave us a statement.”
+In his closing argument, counsel for defendant contended that Pippins should not be believed in view of his plea bargain and suggested that Pippins himself had been the killer. The prosecutor’s rebuttal, argument referred to the promise of truthfulness contained in the plea agreement, but the prosecutor did not suggest that he had some special knowledge, unknown to the jury, that Pippins was testifying truthfully. Instead, the prosecutor emphasized that Pippins’ testimony was consistent with the statement he made to the police and that the statement was against Pippins’ penal interest. No manifest and serious error resulting in fundamental injustice is presented.
+II
+Defendant argues that the trial court erred by declining to admit evidence of the results of a polygraph examination taken by Pippins. Testimony on a separate record showed that the polygraph indicated that Pippins was deceptive in answering in the negative to the following questions: "Did you pull the trigger?”, "Did you help in any way to cause these individuals’ deaths?”, and "Are you deliberately withholding any information?”
+Testimony concerning the results of polygraph examinations is inadmissible because polygraphs are not generally accepted as reliable by the scientific community. People v Barbara, 400 Mich 352, 377; 255 NW2d 171 (1977). Defendant relies on cases such as Washington v Texas, 388 US 14; 87 S Ct 1920; 18 L Ed 2d 1019 (1967); Chambers v Mississippi, 410 US 284; 93 S Ct 1038; 35 L Ed 2d 297 (1972), and Davis v Alaska, 415 US 308; 94 S Ct 1105; 39 L Ed 2d 347 (1974), in which state rules rendering certain types of evidence inadmissible were held to deny criminal defendants the due process of law guaranteed by US Const, Am XIV, because the rules in question prevented defendants from presenting evidence which would have been relevant and material to their defense and prevented defendants from effectively cross-examining and impeaching adverse witnesses. The distinction between those cases and the one now before us is best shown by Chambers. In that case, the confession of another man to the crimes with which defendant was charged was excluded as hearsay under a state rule which recognized an exception to the hearsay rule for declarations against pecuniary interest but not for declarations against penal interest. The Court held, 410 US 302:
+"The testimony rejected by the trial court here bore persuasive assurances of trustworthiness and thus was well within the basic rationale of the exception for declarations against interest. That testimony also was critical to Chambers’ defense. In these circumstances, where constitutional rights directly affecting the ascertainment of guilt are implicated, the hearsay rule may not be applied mechanistically to defeat the ends of justice.”
+Because it was precisely the untrustworthiness of the results of polygraph examinations which led to the rule in Barbara, application of that rule here did not deny defendant due process. Compare People v Paquette, 114 Mich App 773, 776-779; 319 NW2d 390 (1982).
+Ill
+Defendant complains that the trial judge misstated the evidence in response to a question by the jury. The testimony of Jeffrey Pippins contains the following exchange:
+"Q. When you gave the original statement to the police, you didn’t have an attorney, is that correct?
+"A. That is correct.”
+However, during its deliberations, the jury sent two questions to the judge. The following then took place:
+"The Court: The record should reflect this is being done in the presence of the jury, the lawyers on both sides and the defendant.
+"The jury has sent two questions to the court; one reads, 'We would like to know if Pippins acquired a lawyer before talking to the police.’
+"I think it’s been agreed by counsel that the evidence was that he in fact did have a lawyer before talking with the police, is that correct, Mr. Hunter [prosecutor]?
+"Mr. Hunter: Yes, your Honor.
+"The Court: Mr. Ainsworth [defense counsel]?
+"Mr. Ainsworth: That is correct, your Honor.”
+The inadvertent misstatement by the trial judge of testimony regarding an important question of fact has been held to be reversible error in a civil case. See, for example, Hammock v Sims, 313 Mich 248, 256-257; 21 NW2d 118 (1946). Here, however, counsel for defendant agreed that the trial judge had stated the testimony correctly. Moreover, it is difficult to see how the question of whether Pippins had an attorney when he gave his original statement to the police can be regarded as important. Defendant suggests that it might have influenced the jury’s decision as to Pippins’ credibility, but since nothing in the record suggests that the statement given to the police differed in any way from the statements made after appointment of counsel and plea bargaining, we cannot see how it could have such an effect. Any error in this regard was harmless beyond a reasonable doubt.
+IV
+At a pretrial hearing on his competence to stand trial, defendant exercised his right under MCL 330.2030(3); MSA 14.800(1030)(3) to object to the introduction of the report prepared by the Center for Forensic Psychiatry pursuant to MCL 330.2028; MSA 14.800(1028). The prosecution therefore called as a witness the psychologist who prepared the report. The psychologist was not personally present in the courtroom, but was examined and cross-examined, despite defendant’s objection, through a conference telephone call. Defendant argues that this procedure denied him his right, under US Const, Ams VI, XIV, and Const 1963, art 1, § 20, to confront the witnesses against him in a criminal prosecution.
+In Mattox v United States, 156 US 237, 242-243; 15 S Ct 337; 39 L Ed 409 (1895), the Court emphasized the importance of a face-to-face confrontation:
+"The primary object of the constitutional provision in question was to prevent depositions or ex parte affidavits, such as were sometimes admitted in civil cases, being used against the prisoner in lieu of a personal examination and cross-examination of the witness in which the accused has an opportunity, not only of testing the recollection and sifting the conscience of the witness, but of compelling him to stand face to face with the jury in order that they may look at him, and judge by his demeanor upon the stand and the manner in which he gives his testimony whether he is worthy of belief.”
+However, the constitutional right of confrontation does not extend to pretrial hearings on competency to stand trial. See Commonwealth v Iacobino, 319 Pa 65, 69; 178 A 823 (1935):
+"A defendant charged with a crime who invokes a statutory or common law remedy to determine his sanity before trial or after conviction has no constitutional right to be confronted by or cross-examine witnesses or the members of the commission appointed to ascertain that fact. Such inquiries are for the determination of a fact apart, separate and distinct from that of guilt of the crime itself, as to which trial or sentence may or may not be ordered.”
+See also Commonwealth v Novak, 395 Pa 199; 150 A2d 102 (1959), and People v Cook, 39 Cal 2d 496; 247 P2d 567 (1952).
+Due process nevertheless requires that state procedures be adequate to protect a defendant’s right not to stand trial while incompetent. Pate v Robinson, 383 US 375, 386; 86 S Ct 836; 15 L Ed 2d 815 (1966), Martin v Estelle, 546 F2d 177, 179 (CA 5, 1977). Some courts have taken the position that adequate procedures must include, as a minimum, a hearing on the record at which both parties are given the opportunity to examine all the witnesses who testify or report on defendant’s competence. Hansford v United States, 124 US App DC 387, 390, fn 8; 365 F2d 920, 923 (1966); Blunt v United States, 128 US App DC 375, 377; 389 F2d 545, 547 (1967). However, the record here contains no indication that presentation of this witness through a conference telephone call prevented counsel for defendant from conducting a full cross-examination of the witness. We cannot say that a face-to-face confrontation with an expert witness testifying as to defendant’s competence is essential to ensure that a pretrial hearing on competence is adequate to protect defendant’s right not to stand trial while incompetent.
+Affirmed.
+C. W. Simon, J., concurred.
+
+## Dissent (R. M. Maher, J.)
+
+R. M. Maher, J.
+(dissenting). I dissent because I believe due process requires that expert witnesses at a competency hearing testify in person.
+The analysis of what process is due in a particular proceeding considers "the nature of the proceeding and the interests which may be affected by it”. Artibee v Cheboygan Circuit Judge, 397 Mich 54, 56-57; 243 NW2d 248 (1976). The interest that is involved in á competency hearing is fundamental: the right to avoid prosecution while incompetent. See People v Parnay, 74 Mich App 173; 253 NW2d 698 (1977). Thus, greater procedural safeguards are in order.
+Moreover, where the defendant objects to the admission into evidence of the forensic center’s written report, as in this case, the evidence presented at the hearing consists largely of the expert’s testimony. As a result, the court’s determination of competency rests largely on its evaluation of that expert’s testimony. The court cannot perform this function properly without the witness before it. Telephonic communication does not disclose the demeanor of a witness. It lends itself to misunderstandings and lapses of attention that will interfere with effective direct and cross examination. Finally, a witness testifying over the telephone from his office will not be as impresssed with the seriousness of the occasion as one testifying in court. I suspect this will have subtle but important effects on his testimony.
+The trial court cannot vindicate a defendant’s fundamental right to avoid prosecution while incompetent unless the expert witnesses testify in person. Thus, due process requires that the expert witness testify in person at a competency hearing.
+I would reverse defendant’s conviction and order a new competency hearing at which the defendant shall be accorded his full due process rights.
