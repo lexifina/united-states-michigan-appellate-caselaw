@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "80186"
+decided: "1985-08-05"
+citations: ["144 Mich. App. 637"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P.J., and Shepherd and B. A. Jasper, JJ._"]
+parties: ["PEOPLE v BUTTS"]
+source_url: "https://static.case.law/mich-app/144/cases/0637-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2263190
+cites_cases: ["10 ALR4th 8", "105 Mich App 46", "128 Mich App 541", "131 Mich App 313", "142 Mich App 119", "202 NW2d 278", "208 NW2d 504", "298 Mich 75", "298 NW 457", "306 NW2d 387", "339 NW2d 440", "341 NW2d 128", "345 NW2d 703", "369 NW2d 499", "388 Mich 590", "389 Mich 557", "414 Mich 955", "417 Mich 523"]
+---
+
+# People v. Butts
+
+## Majority (Shepherd, J.)
+
+Shepherd, J.
+Defendant was charged with first-degree criminal sexual conduct, MCL 750.520b(l)(a); MSA 28.788(2)(l)(a). He pled guilty to third-degree criminal sexual conduct, MCL 750.520d(l)(b); MSA 28.788(4)(l)(b), in exchange for dismissal of the original charge. On this appeal as of right, he claims that the trial court abused its discretion by sentencing him to from 10 to 15 years’ imprisonment and that the court failed to state adequate reasons for departing from the sentencing guidelines. The guideline sentence range on the Sentencing Information Report was from 24 to 48 months. We affirm and hold that a trial court may use as a basis for departure from the sentencing guidelines the fact that defendant acknowledged committing an offense that carries a higher charge than the offense to which the defendant pled guilty.
+Although defendant has no prior criminal record, we have reviewed the transcript of the plea hearing and the presentence report (to which defendant had no objection) and conclude that the sentencing judge did not abuse his discretion. People v Gistover, 131 Mich App 313; 345 NW2d 703 (1984). The sentence is not "one which far exceeds what all reasonable persons would perceive to be an appropriate social response to the crime committed and the criminal who committed it”. People v Coles, 417 Mich 523, 542-543; 339 NW2d 440 (1983).
+The sentencing judge may depart from the guidelines "for the reasons, and in the manner, presribed by the guidelines”. Administrative Order No. 1984-1, 418 Mich lxxx. In this case, the trial court complied with the Supreme Court’s mandate by stating its reasons for departure both on the record and in the Sentencing Information Report. Sentencing Guidelines Manual, §27; People v Fleming, 142 Mich App 119, 122; 369 NW2d 499 (1985). The court referred to the nature of the offense, characterizing it as "really a first-degree [criminal sexual conduct] case and crime”. The court stated that defendant is "a dangerous person who forced sex acts upon [the] victim at knife point”.
+Defendant argues that the court’s reasons were insufficient because the use of the knife was already covered by application of the guidelines, so that it would be unfair to give extra weight to that factor.
+Defendant’s admissions at the plea hearing show a clear instance of first-degree criminal sexual conduct. The guidelines assign no weight to the degree or severity of the offense actually committed where the defendant pleads guilty to a lesser offense. We believe that the trial court properly considered this aspect of the matter. The guidelines are designed to assist the courts in imposing sentences that are appropriate to the defendant and to the acts committed. By pleading guilty to a lesser charge a defendant receives the benefit of having the maximum penalty limited (in this case, tó 15 years rather than life). If the defendant disputed committing acts which would justify a charge of first-degree criminal sexual conduct his argument in this case might have merit. However, since his statement on the record acknowledges the commission of a higher offense, the court could use the actual facts as a basis for departure from the guidelines.
+We hold here that (a) the guideline range presupposes the commission of the offense to which the defendant pled, and (b) where the undisputed facts show a higher offense, departure is justified on that basis. This holding represents our interpretation of the guidelines. We are fully aware of the impact of our holding on the plea-bargaining process. When a defendant enters a plea to a lesser charge and does not (with the consent of the prosecutor) make the plea conditional upon receiving a sentence within the guidelines range, he or she will neither be able to assume that the trial court will stay within the guidelines range that applies to the reduced charge nor withdraw the plea if the guidelines are exceeded.
+"The modern view of sentencing is that the sentence should be tailored to the particular circumstances of the case and the offender * * People v McFarlin, 389 Mich 557, 574; 208 NW2d 504 (1973). Though the sentencing judge may not make an independent finding of guilt on some other charge, the judge may consider the defendant’s admissions. People v Grimmett, 388 Mich 590, 608; 202 NW2d 278 (1972). The judge may even consider separate criminal activity "for which no conviction resulted, provided the defendant is given an opportunity for refutation”. People v Carter, 128 Mich App 541, 550; 341 NW2d 128 (1983). See, MCR 6.101(E). In People v Collier, 105 Mich App 46; 306 NW2d 387 (1981), lv den 414 Mich 955 (1982), the defendant, charged with first-degree murder, was convicted of murder in the second degree. This Court held that no error occurred when the prosecutor brought the original charge to the sentencing court’s attention, "as defendant was afforded the opportunity for refutations”. Id., p 52.
+In this case, defendant had no objection to the presentence report. The sentencing judge sought "to fit the punishment * * * to the needs of the particular case”. Coles, supra, p 539, quoting In re Southard, 298 Mich 75, 82; 298 NW 457 (1941). Accordingly, defendant is entitled to no relief.
+Affirmed.
