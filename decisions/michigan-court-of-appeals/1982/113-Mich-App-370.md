@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "53990"
+decided: "1982-02-18"
+citations: ["113 Mich. App. 370"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: V. J. Brennan, P.J., and Allen and T. C. Megargle, JJ."]
+parties: ["HERRICK v TAYLOR"]
+source_url: "https://static.case.law/mich-app/113/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2210385
+cites_cases: ["101 NW2d 227", "105 Mich App 539", "106 Mich App 83", "200 NW2d 444", "221 NW2d 328", "232 NW2d 636", "235 NW2d 153", "243 NW2d 24", "271 NW2d 206", "307 NW2d 371", "307 NW2d 736", "359 Mich 33", "388 Mich 793", "392 Mich 566", "394 Mich 655", "395 Mich 793", "41 Mich App 611", "66 ALR3d 532", "68 Mich App 488", "85 Mich App 294"]
+---
+
+# Herrick v. Taylor
+
+## Majority (V. J. Brennan, P.J.)
+
+V. J. Brennan, P.J.
+Defendant appeals by leave granted from the trial court’s order denying his motion for an accelerated judgment.
+On May 1, 1974, plaintiff Ernest Herrick sustained a broken leg in an automobile accident that occurred while he was a guest passenger in an automobile owned and operated by defendant. Ernest Herrick was hospitalized for 18 days. A cast was removed from his leg on July 25, 1974.
+On September 8, 1975, the Supreme Court ruled in Manistee Bank & Trust Co v McGowan, 394 Mich 655; 232 NW2d 636 (1975), that Michigan’s guest passenger statute, MCL 257.401; MSA 9.2101, violated the Equal Protection Clause of the Michigan Constitution.
+Ernest Herrick and his wife, Christine, commenced this action on May 17, 1977. Thereafter, defendant moved for accelerated judgment pursuant to GCR 1963, 116.1(5), on the basis that the statute of limitations had expired.
+Plaintiffs responded to the motion by arguing that their claims did not accrue until September 8, 1975, the decisional date of the Manistee Bank case, or in the alternative, that their claims did not accrue until July 25, 1974, the date the cast was removed from plaintiff Ernest Herrick’s leg and he discovered that he had suffered a serious impairment of a bodily function.
+In Old Reliable Fire Ins Co v Schaub, 85 Mich App 294; 271 NW2d 206 (1978), this Court found that the Manistee Bank decision applies retroactively in accordance with the general rule that unconstitutional statutes are void ab initio. The Court found that it was the Supreme Court’s intention to apply the decision retroactively because of the Supreme Court’s disposition of Dunham v Lowinger, 395 Mich 793; 235 NW2d 153 (1975), where the Supreme Court reversed a 1973 decision of this Court on the basis of Manistee Bank, and Stanfill v Powers, 68 Mich App 488; 243 NW2d 24 (1976), where the Court applied Manistee Bank to a 1970 accident and May, 1975, trial. However, none of the above cases are dispositive of the instant case.
+We are presented here with the question of whether plaintiff’s claims are barred by the statute of limitations because this suit was filed more than three years after the accident, but within three years after the decisional date of Manistee Bank. The parties agree that the applicable statute of limitations is three years. MCL 600.5805(8); MSA 27A.5805(8).
+The trial court found that plaintiffs’ claims did not accrue until September 8, 1975, the decisional date of Manistee Bank, for the reason that plaintiffs should have three years from the time the statutory impediment to sue was removed in which to bring their action. The trial court also found that plaintiffs’ cause of action did not accrue on the date the cast was removed. We agree.
+In the instant case, plaintiffs should have the benefit of three years from the decisional date of Manistee Bank. We hasten to distinguish this case from cases where the Supreme Court has recognized a previously prohibited cause of action. Bauman v Grand Trunk WR Co, 41 Mich App 611; 200 NW2d 444 (1972), lv den 388 Mich 793 (1972). In Bauman, the Court found that the decisional date of an opinion recognizing a cause of action not previously recognized should not change the ordinary accrual time of a cause of action. However, the instant case is distinguishable from Bauman on two bases. First, Bauman involved a loss of consortium claim which had not been recognized by the courts in Michigan prior to Montgomery v Stephan, 359 Mich 33; 101 NW2d 227 (1960), while the present case involves a claim which resulted because a statute was found to be unconstitutional. Also, in Bauman the accident on which plaintiff’s claim was based occurred more than three years prior to the decisional date of Mont gomery. In the present case, the accident occurred one year and four months prior to the Manistee Bank decision. Therefore, the three-year statute of limitations had not expired prior to the decisional date if it would have started running on the date of the injury.
+Statutes of limitations are procedural rather than substantive, and their purpose is to guard against stale claims. Johnson v Children’s Hospital of Michigan, 105 Mich App 539; 307 NW2d 371 (1981). Statutes of limitations should be fairly construed so as to advance the policy they intended to promote and should not be defeated by an overstrict construction. Aldrich v Auto-Owners Ins Co, 106 Mich App 83; 307 NW2d 736 (1981). In Bigelow v Walraven, 392 Mich 566, 576; 221 NW2d 328 (1974), the Court stated the policy interests advanced by limitations statutes:
+"Statutes of limitations are intended to 'compel the exercise of a right of action within a reasonable time so that the opposing party has a fair opportunity to defend’; 'to relieve a court system from dealing with "stale” claims, where the facts in dispute occurred so long ago that evidence was either forgotten or manufactured’; and to protect 'potential defendants from protracted fear of litigation’.”
+By applying these principles to the present case, and in light of Old Reliable’s applying the Manistee Bank decision retroactively, we find that plaintiffs’ cause of action is not barred by the statute of limitations. Where the statute of limitations has not run prior to the decisional date of the opinion finding the statute prohibiting the cause of action unconstitutional, plaintiffs should have the statutory period from the decisional date within which to bring their action. This result prevents the concern that cases many years old would be revived by such a decision, this rule being limited solely to cases where the statute of limitations had not yet run when the overruling decision was made. After the decisional date of Manistee Bank, the defendant could expect claims from accidents that had occurred prior to the decisional date.
+Although retroactivity is often limited to only those cases pending on appeal or where the issue had been raised in the trial court, we believe that since Old Reliable did not limit the retroactivity of Manistee Bank, a more equitable result is achieved under these circumstances by allowing plaintiffs three years from the time the statutory impediment to the suit was removed within which to bring their action. We can find no authority holding to the contrary.
+Therefore, we find that the trial court did not err in denying defendant’s motion for accelerated judgment.
+Affirmed.
