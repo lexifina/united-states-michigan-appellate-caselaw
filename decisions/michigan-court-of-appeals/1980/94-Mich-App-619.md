@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-4438"
+decided: "1980-01-03"
+citations: ["94 Mich. App. 619"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P.J., and D. E. Holbrook, Jr., and B. D. Burdick, JJ."]
+parties: ["VAN LAAR v ROZEMA"]
+source_url: "https://static.case.law/mich-app/94/cases/0619-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2171704
+cites_cases: ["112 NW2d 503", "1956 PA 205", "198 NW2d 451", "20 ALR3d 500", "245 NW2d 100", "246 NW2d 379", "252 NW2d 747", "365 Mich 396", "386 NE2d 1327", "399 Mich 664", "40 Mich App 37", "414 NYS2d 307", "46 NY2d 477", "69 Mich App 480", "70 Mich App 705"]
+---
+
+# Van Laar v. Rozema
+
+## Majority (B. D. Burdick, J.)
+
+B. D. Burdick, J.
+Plaintiff filed a complaint alleging that the defendant was the father of her child and prayed for an order of filiation. In March, 1975, plaintiff and defendant stipulated to a settlement. The record in this case contains neither a transcript of these stipulations nor any written stipulations signed by the parties. Pursuant to a judgment confirming the settlement, defendant was ordered to pay $65 per month child support, to reimburse plaintiff for medical bills incurred by the child’s delivery and medical care, to maintain a $10,000 life insurance policy in favor of the child, and to pay attorney fees, costs, and friend of the court charges. The judgment confirming the compromise agreement did not reflect an acknowledgment of paternity by defendant and defendant does not appear to have made such an acknowledgment elsewhere.
+In August, 1978, plaintiff moved to amend the judgment to increase support. Plaintiff’s motion was denied at the close of a hearing on the motion because the trial court ruled that it was without power to modify this type of consent judgment. Plaintiff appeals as of right.
+The plaintiff argues that the trial court did have the power to modify the compromise agreement for support entered into between the parties to this paternity action even though paternity had not been specifically acknowledged. The issue of whether an order confirming a compromise agreement for child support, which does not specifically acknowledge paternity, may be modified by the court upon a showing of need, is one of first impression in Michigan.
+Section 3 of the Paternity Act, 1956 PA 205, MCL 722.711 et seq.; MSA 25.491 et seq., permits the mother and putative father to reach an agreement or compromise for the support and education of an illegitimate child in lieu of proceeding to trial on the paternity issue:
+"Sec. 3. (a) An agreement or compromise made by the mother or child or by some authorized person on their behalf with the father concerning the support and education of the child shall be binding upon the mother and the child only when the court having jurisdiction to compel support and education of the child shall have determined, that adequate provision is reasonably secured by payment or otherwise and has approved the agreement or compromise.” MCL 722.713(a); MSA 25.493(a).
+MCL 722.713(b); MSA 25.493(b) restricts the mother’s or child’s remedies for support and education once the agreement has been performed:
+"(b) The performance of the agreement or compromise, when so approved, shall bar other remedies of the mother or child for the support and education of the child.”
+The operation of the statute in this case must be determined in light of the legislative intent behind the statute. Frost-Pack Distributing Co v Grand Rapids, 399 Mich 664, 683; 252 NW2d 747 (1977). The easily discernible intent behind this statute is to provide support for illegitimate children. Why- bra v Gustafson, 365 Mich 396, 400; 112 NW2d 503 (1961), Boyles v Brown, 69 Mich App 480; 245 NW2d 100 (1976). This intent is initially expressed in the act’s preamble: "AN ACT * * * to compel and provide support of children born out of wedlock.”
+The case law in this area clearly allows for court ordered increases in child support payments, upon a showing of need, in spite of contrary agreements between the parties in cases involving legitimate children or illegitimate children who are the subject of orders of filiation. Boyles v Brown, 69 Mich App 480; 245 NW2d 100 (1976), MCL 722.720; MSA 25.500, Ebel v Brown, 70 Mich App 705, 709; 246 NW2d 379 (1976).
+This Court need not decide whether support agreements involving illegitimate children, who are not the subject of orders of filiation, are always modifiable by the court upon a showing of need. On the facts of this case, however, the judgment confirming the compromise agreement was subject to modification by the court.
+The trial court, in confirming the agreement in this case, was required to determine that adequate provision for the child was reasonably secured. MCL 722.713(a); MSA 25.493(a). In so doing the court ordered the defendant to pay $65 per month in support until the child attains 18 years of age, or graduates from high school, whichever occurs last, or until further order of the court. The presence of this language in the support agreement gave the court continuing jurisdiction to make modifications in the support agreement and put the parties on notice that such modifications were a possibility. Thus, the trial court was not without power to modify this order upon a showing of need on the part of the child.
+From a policy standpoint, this Court has taken a dim view of agreements purporting to sign away the rights of a child, particularly when the result of such an agreement may be that the child becomes a public charge, as in this case. Ebel v Brown, supra, 709, Ballard v Ballard, 40 Mich App 37; 198 NW2d 451 (1972). The legislative intent to allow compromise agreements for the support of illegitimate children only if adequate provision for the child is secured is evident from the requirements of MCL 722.713; MSA 25.493. In view of these considerations, this Court will not construe the language in the instant order, providing for a further order by the court, as solely providing a limiting factor for the period of support. If this language were read as a limiting factor only for the period of support, the defendant would be able to petition the court for termination of the support payments upon a showing of decreased need on the part of the child, but the court would have no power of modification upon a showing of increased need on the part of the child. Such a decision would not be in keeping with the intent of the Paternity Act in protecting the interests of, and providing support for, illegitimate children.
+Accordingly, it is the opinion of this Court that the trial court had the power to modify this support agreement, as to the period or amount of payments, upon a showing of need. We make no decision, however, as to the merits of the plaintiffs claim for modification. This matter is remanded to the trial court for an evidentiary hearing to determine changed circumstances and the proper level of support.
+Reversed and remanded.
+"The New York Court of Appeals in Bacon v Bacon, 46 NY2d 477, 480; 386 NE2d 1327; 414 NYS2d 307 (1979), discussed a statute similar to ours and stated:
+"the statute does not mandate or prohibit the- inclusion of any particular term in the contract, the parties are free to make the agreement modifiable and thus provide for unforeseen contingencies.”
