@@ -1,0 +1,45 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9896"
+decided: "1971-05-19"
+citations: ["33 Mich. App. 579"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J., and V. J. Brennan and Danhof, JJ.", "All concurred."]
+parties: ["PEOPLE v. DOANE"]
+source_url: "https://static.case.law/mich-app/33/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2092496
+cites_cases: ["1 Mich App 666", "14 Mich App 207", "144 F Supp 669", "21 Mich App 636", "24 Mich App 411", "28 Mich App 190", "29 Mich App 406", "322 F2d 117", "346 F2d 561", "352 P2d 245", "357 US 301", "374 US 23", "383 Mich 820", "385 Mich 783", "391 F2d 384", "391 US 585"]
+---
+
+# People v. Doane
+
+## Majority (V. J. Brennan, J.)
+
+V. J. Brennan, J.
+Defendant was found guilty by a jury of unlawful possession and control of marijuana and sentenced to serve 2 to 10 years in prison. From a denial of his motion for a new trial, defendant appeals.
+On the evening of April 18, 1969, an undercover detective of the narcotics unit of the state police went, in disguise, to defendant’s home. He had in his possession an arrest warrant for defendant’s son, Eay Doane, and a warrant to search defendant’s home. These warrants were issued based upon the detective’s purchase the previous day of narcotics from Eay Doane, who allegedly obtained the narcotics from the Doane residence. Upon his arrival, he was admitted to the Doane home, but Avas informed that Eay Doane was not there. When Eay Doane arrived, he and the detective stepped out into the driveway where negotiations for the sale of marijuana took place. The detective gave Eay Doane $100 in bills whose serial numbers had been recorded. Eay Doane took the money and said that he was going to give it to his father who was waiting at the back door of the house with the marijuana. He went back into the house and came out with the marijuana. At that point the detective announced that he was a police officer and arrested Eay Doane. He then signalled eight other officers to go up to the house.
+The detective knocked on the front door and said: “Police officers — open up.” The police officers observed the defendant and his wife looking at them through the window. When it was apparent that Mr. and Mrs. Doane were not going to open the door, the officers forced the door open, secured the house, and read the search warrant to the defendant. A search of the house and its occupants revealed that the defendant was carrying' $90 of the $100 given to Eay Doane by the detective, that marijuana was hidden in numerous places in defendant’s bedroom, and that Mrs. Doane was carrying marijuana in her purse.
+Defendant raises five issues on appeal, none of which merit reversal.
+Defendant assigns as error the denial of his motion to suppress all the marijuana confiscated by the police as the fruits of an unreasonable search and seizure. Relying chiefly on Sabbath v. United States (1968), 391 US 585 (88 S Ct 1755, 20 L Ed 2d 828), and Miller v. United States (1958), 357 US 301 (78 S Ct 1190, 2 L Ed 2d 1332), defendant contends that the failure of the officers to state their purpose in seeking admittance to the Doane home in accordance with MCLA § 780.656 (Stat Ann 1971 Cum Supp § 28.1259 [6]) rendered the search unreasonable.
+Defendant’s reliance on Sabbath and Miller is misplaced. Not only are those cases distinguishable factually, but they were decided on the basis of a Federal statute rather than on constitutional grounds. See Kerr v. California (1963), 374 US 23, 37-39, (83 S Ct 1623, 10 L Ed 2d 726).
+The relevant Michigan statute provides:
+“The officer to whom a warrant is directed, or any person assisting him, may break any outer or inner door or window of a house or building, or anything therein, in order to execute the warrant, if, after notice of his authority and purpose, he is refused admittance, or when necessary to liberate himself or any person assisting him in execution of the warrant.” MCLA § 780.656 (Stat Ann 1971 Cum Supp § 28.1259 [6]).
+The officer^ in the instant case knocked on the door, announced their authority, and demanded admittance. When they were refused admittance they forced open the door. They did not, however, state that their purpose was to conduct a search of the premises. Although there have been no Michigan cases interpreting the requirement that “purpose” be announced prior to executing a search warrant, it has been held in the analogous situation of a forcible entry to make an arrest that a declaration of purpose is implicit in a declaration of identity. United States v. Alexander (CA6, 1965), 346 F2d 561, 562; see also United States v. Sharpe (CA6, 1963), 322 F2d 117, 120. In United States v. Freeman (DC, 1956), 144 F Supp 669, 670, the Court said:
+“To be sure, he [the police officer] did not specifically state that he was there to execute a search warrant or a warrant of arrest. It seems to the Court, however, that the announcement that the police were seeking to enter would give notice to a reasonable person that the purpose of seeking the entry is either to make an arrest or to make a search and that it was not just a social visit.”
+We feel, therefore, that under the circumstances of this case, the knock on the door, the announcement of the police officers’ identities, the demand to be admitted, and the allowance of a reasonable time for the occupants to answer the door was a substantial compliance with MCLA § 780.656. This holding obviates the need to discuss whether technical non-compliance with the statute would render the evidence inadmissible even though defendant’s 4f£ amendment rights were not violated thereby. See Kerr v. California, supra.
+Defendant next contends that certain photographs of defendant’s home taken after the search was made were inadmissible because they did not represent the home as it was found by the officers. The photographs in question pictured different areas of the house where the various exhibits were found. The officer who took the photographs testified that the pictures were a fair representation of the house after the search.
+The admission of photographs, like the admission of any other demonstrative evidence, lies within the sound discretion of the trial court. People v. Rogers (1968), 14 Mich App 207. Any differences between the house as found (certain objects had to be moved or opened in order to expose the marijuana) and the house as photographed were fully explained to the jury. See People v. Herrell (1965), 1 Mich App 666. As the photographs in question were not open to objection under the test set forth in People v. Krogol (1970), 29 Mich App 406, it was not error to admit them into evidence.
+Defendant also complains that a remark by the prosecutor made in closing argument was prejudicial error. In an attempt to counter the impression that the defendant’s son had hidden the marijuana in defendant’s room without defendant’s knowledge or consent, the prosecutor said: “It is handy, too, because Raymond is not here to defend himself”. No objection was made, nor was the subject mentioned again. In the absence of a showing that the remark was so prejudicial that it could not have been cured by a cautionary instruction, a conviction will not be reversed where the defendant allowed the impact of the prosecutor’s remarks to go to the jury without objection. People v. Bowls (1970), 28 Mich App 190; People v. Humphreys (1970), 24 Mich App 411.
+Finally, defendant alleges error in the court’s charge to the jury. Defendant urges that the lower court committed reversible error by failing to instruct the jury that knowledge of the presence of marijuana is a prerequisite to a finding of possession and by incorrectly instructing the jury on the use of character testimony. Not only are these contentions unsupported in the record, but they were waived by defense counsel’s failure to object to the charge as given. GCE 1963, 516.2; People v. Cardenas (1970), 21 Mich App 636, leave to appeal denied 383 Mich 820.
+For the foregoing reasons, defendant’s conviction is affirmed.
+Affirmed.
+All concurred.
+MCLA § 335.153 (Stat Ann 1957 Rev § 18.1123).
+18 USCA § 3109.
+The refusal of admittance is not limited to affirmative denials. United States v. Karris (CA6, 1968), 391 F2d 384.
+MCLA § 764.21 (Stat Ann 1954 Rev § 28.880) provides:
+“To make an arrest, a private person, if the offense be a felony-committed in his presence, or a peace officer with a warrant or in cases of felony when authorized without a warrant, may break open an inner or outer door of any building in which the person to be arrested is or is reasonably believed to be if, after he has announced his purpose, he is refused admittance.”
+For cases discussing substantial compliance with statutes requiring a statement of purpose prior to a forcible entry see Dagampat v. United States (CA9, 1965), 352 P2d 245, 248; United States v. Sharpe, supra; United States v. Freeman, supra.
