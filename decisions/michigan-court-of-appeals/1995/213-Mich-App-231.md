@@ -1,0 +1,49 @@
+---
+court: "Michigan Court of Appeals"
+docket: "144926"
+decided: "1995-09-01"
+citations: ["213 Mich. App. 231"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Marilyn Kelly, P.J., and Jansen and J. P. Noecker, JJ."]
+parties: ["HOVANESIAN v NAM"]
+source_url: "https://static.case.law/mich-app/213/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1872197
+cites_cases: ["128 Mich App 671", "154 Mich App 537", "164 Mich App 122", "182 Mich App 477", "198 Mich App 675", "341 NW2d 788", "398 NW2d 1", "416 NW2d 334", "439 Mich 370", "452 NW2d 864", "483 NW2d 844", "499 NW2d 419", "63 ALR4th 901"]
+---
+
+# Hovanesian v. Nam
+
+## Majority (Marilyn Kelly, P.J.)
+
+Marilyn Kelly, P.J.
+In this landlord-tenant dispute, plaintiff, Charles Hovanesian, appeals by leave granted from a decision of the Washtenaw Circuit Court. That court affirmed a district court’s grant of summary disposition and award of attorney fees to defendant, Sang Y. Nam.
+On appeal to the Court of Appeals, plaintiff raises several issues. He alleges error in the finding that defendant landlord was not required to give plaintiff written notice of his reasons for retaining plaintiffs security deposit under the Landlord-Tenant Relationships Act, MCL 554.601 et seq.; MSA 26.1138(1) et seq. He asserts that the trial court erred in granting summary disposition on his conversion claim and on his count under the Consumer Protection Act. MCL 600.2919a; MSA 27A.2919(1); MCL 445.903; MSA 19.418(3). Finally, he challenges the court’s award of attorney fees.
+We reverse the ruling on the notice requirement under the Landlord-Tenant Act. We affirm the award of summary disposition to defendant on the Consumer Protection Act and conversion claims. We vacate the award of attorney fees and remand to the trial court for an award consistent with this opinion.
+i
+Plaintiff rented an Ann Arbor apartment from defendant in anticipation of beginning a master’s program at the University of Michigan. He signed a twelve-month lease. After taking occupancy, he discovered that noise from a lighted public basketball court located near the building interfered with his studying. He complained to defendant. The problem disappeared during the winter. In the spring, basketball games resumed, and plaintiff made additional complaints. He did not take action to abandon the premises, later stating that he had been too busy with school and did not believe he was entitled to break the lease.
+In April, following his final examinations, plaintiff sent a letter to defendant announcing that he was terminating the lease and would vacate the premises by the end of the month. He left a forwarding address. MCL 554.611; MSA 26.1138(11).
+Plaintiff’s letter requested a return of his security deposit. Defendant replied by telephoning plaintiff and informing him that he would not refund the deposit. Defendant then rerented the apartment for the summer months at a much reduced rate. Defendant retained the $675 security deposit, applying it against a claimed $880 in lost rent.
+In July, plaintiff filed suit in district court for violations of the Landlord-Tenant and Consumer Protection Acts. MCL 554.601 et seq.; MSA 26.1138(1) et seq.; MCL 445.901 et seq.; MSA 19.418(1) et seq. He also claimed conversion, misrepresentation and breach of the warranties of quiet use and enjoyment. Defendant counterclaimed for the balance of $205 in lost rent.
+Defendant made two offers for entry of judgment pursuant to MCR 2.405. Plaintiff rejected both. Defendant then moved for summary disposition pursuant to MCR 2.116(C)(8) on all but the misrepresentation counts. Plaintiff countered with a motion for summary disposition on the Landlord-Tenant Act claim. The judge granted defendant’s motions and denied plaintiff’s motion. The parties proceeded to trial on plaintiffs misrepresentation claim and defendant’s counterclaim for lost rent. The jury found that plaintiff had no cause of action for misrepresentation. Defendant was awarded $205 for his rent counterclaim plus $2,-731 in costs and attorney fees. The circuit court affirmed on appeal.
+n
+We review summary disposition decisions de novo. Borman v State Farm Fire & Casualty Co, 198 Mich App 675, 678; 499 NW2d 419 (1993). In this case, we find that the trial court erred in granting summary disposition to defendant on plaintiffs Landlord-Tenant Act claim. The language of the act is clear and unambiguous. Judicial construction is neither necessary nor permitted in order to conclude that reversal is required. Lorencz v Ford Motor Co, 439 Mich 370, 376; 483 NW2d 844 (1992).
+Under the Landlord-Tenant Act, a security deposit may be used solely (1) to reimburse a landlord for actual damages to a rental unit, (2) to pay for rent due under the lease, (3) to pay utility bills, or (4) to compensate the landlord for rent lost from a tenant’s premature termination of a lease. MCL 554.607; MSA 26.1138(7).
+A landlord must satisfy certain requirements in order to retain a security deposit. If the tenant leaves a forwarding address within four days of terminating occupancy, the landlord must notify the tenant in writing of his intent to retain the deposit. He must provide an itemized list of damages or other obligations. MCL 554.609; MSA 26.1138(9). The landlord who fails to comply with the notice requirement waives his right to retain the deposit. MCL 554.610; MSA 26.1138(10).
+It is undisputed that defendant notified plaintiff by phone. But he did not send plaintiff written notice of his intention to retain the security deposit or provide the written itemized list of damages or other obligations required by MCL 554.609; MSA 26.1138(9).
+Furthermore, the provisions in § 13 which permit the landlord to sue in certain circumstances are inapplicable here, because the landlord waived his right to the security deposit under § 10. MCL 554.613; MSA 26.1138(13).
+Even if that were not the case, defendant neglected to commence an action for a money judgment on the amount in controversy within forty-five days after plaintiff terminated his occupancy. The act makes failure to comply with the requirement "a waiver of all claimed damages and makes [the landlord] liable to the tenant for double the amount of the security deposit retained.” MCL 554.613(2); MSA 26.1138(13X2).
+Along with our conclusion that plaintiff must prevail on his Landlord-Tenant Act claim, we hold that the landlord retained his common law claims for damages or unpaid rent. Oak Park Village v Gorton, 128 Mich App 671, 679-680; 341 NW2d 788 (1983). Accordingly, while plaintiff was entitled to an award of twice the security deposit, defendant was entitled to the rent money he lost when obliged to rerent at a lower rate. The net result of such a calculation is an award of $470 to plaintiff, i.e. $1,350 (double the security deposit) less $880 (the lost rent).
+m
+Plaintiff also contends that the trial court erred in granting summary disposition pursuant to MCR 2.116(C)(8) on his Consumer Protection Act and conversion claims. We have held that a violation of the Landlord-Tenant Act may also be a violation of the Consumer Protection Act. Lasatz v Standard Green Meadows, 164 Mich App 122, 129; 416 NW2d 334 (1987). However, we agree with the trial court’s conclusion that the latter act was not applicable here.
+The lease was not rescinded, canceled or otherwise terminated in accordance with its terms or provisions of law. In addition, the jury found that defendant did not misrepresent the apartment to plaintiff and that plaintiff violated the lease. Plaintiff has not appealed from the jury verdict. Thus, on the facts, his claim cannot satisfy the requirements of the Consumer Protection Act. MCL 445.903(l)(u); MSA 19.418(3)(l)(u). Summary disposition was properly granted.
+On plaintiffs conversion claim, we find the statute inapplicable. It provides for treble damages if a party is damaged because of
+another person’s buying, receiving, or aiding in the concealment of any stolen, embezzled, or converted property when the person buying receiving, or aiding in the concealment of any stolen, embezzled, or converted property knew that the property was stolen, embezzled, or converted. [MCL 600.2919a; MSA 27A.2919(1).]
+At the time defendant retained plaintiffs security deposit, he did not know that he had wrongfully retained it. Moreover, the act of retaining the security deposit did not amount to buying, receiving or aiding in the concealment of stolen, embezzled or converted property.
+IV
+Finally, plaintiff challenges the award of attorney fees to defendant pursuant to MCR 2.405. We review a decision to award attorney fees for an abuse of discretion. Wojas v Rosati, 182 Mich App 477, 480; 452 NW2d 864 (1990); Century Dodge, Inc v Chrysler Corp, 154 Mich App 537, 544-545; 398 NW2d 1 (1986).
+There was no abuse of discretion in the district court judge’s decision to award attorney fees based on the judge’s resolution of the issues before him. However, because we reverse on the basis of plaintiffs claim under the Landlord-Tenant Act, the verdict no longer favors defendant. He is not entitled to attorney fees under MCR 2.405.
+We instruct the trial court to enter judgment for plaintiff on the Landlord-Tenant Act violation and award him $470. MCR 7.216. Plaintiff is not entitled to attorney fees, as he did not make a counteroffer on the matter in response to defendant’s offer of judgment. MCR 2.405(D)(2). We affirm the trial court’s grant of summary disposition in favor of defendant on plaintiffs Consumer Protection Act and conversion claims. We vacate the award of attorney fees to defendant. We do not retain jurisdiction.
+Affirmed in part, reversed in part.
