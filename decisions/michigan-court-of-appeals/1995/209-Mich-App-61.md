@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "155676"
+decided: "1995-02-22"
+citations: ["209 Mich. App. 61"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Michael J. Kelly, P.J., and Brennan, and J. A. Fullerton, JJ."]
+parties: ["AUTO-OWNERS INSURANCE COMPANY v JOHNSON"]
+source_url: "https://static.case.law/mich-app/209/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1876884
+cites_cases: ["141 Mich App 776", "142 Mich App 1", "179 Mich App 355", "188 Mich App 465", "201 Mich App 167", "206 Mich App 214", "369 NW2d 243", "369 NW2d 896", "442 Mich 368", "445 NW2d 228", "470 NW2d 443", "501 NW2d 155", "505 NW2d 895", "520 NW2d 686", "83 ALR2d 1104"]
+---
+
+# Auto-Owners Insurance v. Johnson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff, Auto-Owners Insurance Company, appeals as of right from an order by Genesee Circuit Judge Valdemar L. Washington denying its motion for summary disposition and declaring that defendant Clyde E. Anderson was entitled to coverage by plaintiff for liability arising out of the claims of estates of defendants John M. Johnson and Bruno B. Valdez. We reverse.
+Plaintiff claims that the trial court erred in determining that it could not rescind and declare void ab initio a no-fault automobile insurance policy that was purchased by defendant Anderson. We agree.
+In January 1991, defendant Anderson received a letter from his no-fault insurer, Aetna Casualty & Surety Company, informing him that Aetna would no longer be writing policies through Diversified Insurance Services, which was his insurance agency. Anderson was advised to contact another Aetna representative or to obtain insurance through another company before his policy expired at midnight on February 28, 1991. Anderson, however, failed to obtain another insurance policy, and the Aetna policy lapsed.
+On March 1, 1991, at approximately 2:30 a.m., Anderson was involved in an automobile accident in which his vehicle struck another vehicle, killing John Johnson and Bruno Valdez, who were occupants of the second vehicle. Later that day, Anderson went to Diversified and applied for insurance coverage. As part of his signed application, Anderson indicated that he had not been involved in any accident or been convicted or paid a fine for any moving violation in the last three years.
+Anderson’s application was accepted by plaintiff, and a policy was issued stating that coverage was effective as of 12:01 a.m. on March 1, 1991. Subsequently, Janet Johnson, as the personal representative of the estate of John Johnson, and Sue Quintanilla, as the personal representative of the estate of Bruno Valdez, commenced wrongful death actions against Anderson. On June 5, 1991, plaintiff brought this declaratory judgment action, seeking a declaration that it was entitled to rescind and declare void ab initio the insurance policy issued to Anderson in light of his material misrepresentation that he had not been involved in an automobile accident within the last three years. Plaintiff moved for summary disposition under MCR 2.116(0(10). This motion was denied by an order entered on February 25, 1992.
+A motion for summary disposition pursuant to MCR 2.116(0(10) tests the factual basis underlying a claim. Radtke v Everett, 442 Mich 368, 374; 501 NW2d 155 (1993). In ruling with regard to such a motion, the trial court must consider not only the pleadings, but also any affidavits, depositions, admissions, or other documentary evidence submitted by the parties. Id.; McClusky v Womack, 188 Mich App 465, 469; 470 NW2d 443 (1991). The court must give the benefit of any reasonable doubt to the opposing party and may grant the motion only if there is no genuine issue regarding any material fact and the moving party is entitled to judgment as a matter of law. Radtke, supra.
+Michigan courts routinely have held that an automobile insurer may rescind an automobile insurance policy and declare the policy void ab initio where it was procured through the insured’s intentional material misrepresentation. Farmers Ins Exchange v Anderson, 206 Mich App 214, 218; 520 NW2d 686 (1994); Katinsky v Auto Club Ins Ass'n, 201 Mich App 167, 170; 505 NW2d 895 (1993); Auto-Owners Ins Co v Comm’r of Ins, 141 Mich App 776, 779-780; 369 NW2d 896 (1985). However, this Court also has held that rescission is not available where innocent third parties are involved. Katinsky, supra; Ohio Farmers Ins Co v Michigan Mutual Ins Co, 179 Mich App 355, 364-365; 445 NW2d 228 (1989); Darnell v Auto-Owners Ins Co, 142 Mich App 1, 9; 369 NW2d 243 (1985). We have stated clearly that basic public policy considerations require that, once an innocent third party is injured in an accident in which coverage is in effect with respect to the automobile, an insurer will be estopped from asserting rescission. Ohio Farmers, supra at 364-365. In the instant case, however, coverage was not in effect with respect to defendant’s automobile at the time the innocent third parties were injured.
+We believe that a distinction exists between a material misrepresentation by an insured regarding a loss that already has occurred in order to purchase insurance coverage for that loss, and a material misrepresentation regarding some other fact that might have led the insurer not to issue a policy if it had been known. We fail to see any reason in law or policy for plaintiff to be the source of recovery in this case where its policy came into effect after the accident already had occurred. Unlike previous cases before this Court in which the automobile insurance policy existed at the actual time of the loss, the loss in this case occurred before the time the insurance policy came into effect with respect to the automobile. We conclude that the trial court erred in denying plaintiff’s motion for summary disposition. In light of this result, this Court will not address plaintiff’s other claim on appeal.
+Reversed.
