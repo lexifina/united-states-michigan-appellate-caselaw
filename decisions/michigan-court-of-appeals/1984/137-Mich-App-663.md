@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "73773"
+decided: "1984-09-18"
+citations: ["137 Mich. App. 663"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and J. H. Gillis and J. B. Sullivan, JJ."]
+parties: ["DOBBS v JOURNAL COMPANY"]
+source_url: "https://static.case.law/mich-app/137/cases/0663-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2241088
+cites_cases: ["116 NW2d 789", "121 Mich App 518", "296 NW2d 174", "30 ALR4th 948", "328 NW2d 430", "330 NW2d 397", "358 Mich 21", "367 Mich 651", "416 Mich 267", "417 Mich 1030", "417 Mich 1043", "97 Mich App 790", "99 NW2d 367"]
+---
+
+# Dobbs v. Journal Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal as of right from a grant of summary judgment in defendant’s favor.
+Plaintiff Virginia Dobbs was employed by Norway Gravure and was injured during the course of her employment there. Norway Gravure is a division of Tempo Communications, Inc. Tempo Communications, Inc., is a wholly owned subsidiary of defendant The Journal Company. Plaintiffs sued defendant, the parent company, alleging that defendant retained control over its subsidiary and did so negligently, resulting in injury to plaintiff Virginia Dobbs. Plaintiff Francis Dobbs sued for loss of consortium. Defendant moved for accelerated judgment on the basis that plaintiffs complaint was barred by the exclusive remedy provision of the Worker’s Disability Compensation Act, MCL 418.131; MSA 17.237(131). The trial court, recharacterizing defendant’s motion as one for summary judgment for failure to state a cause of action, GCR 1963, 117.2(1), granted the motion, citing Wells v Firestone Tire & Rubber Co, 97 Mich App 790; 296 NW2d 174 (1980), lv gtd 417 Mich 1043 (1983), and stating that "the plaintiff should not be permitted in effect to argue on one hand that the Journal Company is for all practical purposes in control of the business operations of her work place at which she was injured and yet on the other hand argue that [defendant is] not entitled to the protection of the Worker’s Disability Compensation Act”. The trial court later granted plaintiffs’ motion for reconsideration on the basis that the necessary factual basis had not been developed so that the court could rule, as a matter of law, that the parent company, under the "economic reality test” adopted in Wells, supra, was plaintiff’s actual employer.
+Shortly thereafter, defendant again moved for summary judgment, GCR 1963, 117.2, subds (1) and (3), or accelerated judgment, GCR 1963, 116.1, citing this Court’s decision in Maki v Copper Range Co, 121 Mich App 518; 328 NW2d 430 (1982), lv den 417 Mich 1030 (1983). The trial court granted defendant’s motion under GCR 1963, 117.2(3) ruling that plaintiffs could not provide factual support for their claim of negligence. Plaintiffs appeal from this order granting summary judgment, arguing that sufficient facts exist to allow plaintiffs to proceed to a jury on their claim of negligence by defendant in its control of the activities of its subsidiary corporation.
+This case raises the question of whether a cause of action exists in favor of an injured worker against the parent corporation of the worker’s . employer where the parent corporation assumes or retains some degree of control over the subsidiary corporation and negligently causes injury through the exercise of that control or whether the exclusive remedy provision of the Worker’s Disability Compensation Act, MCL 418.131; MSA 17.237(131), extends to the parent corporation where the injured worker is employed by a wholly owned subsidiary.
+In Maki v Copper Range Co, supra, the plaintiffs argued that such a closeness of identity existed between the parent and subsidiary that the parent had a duty to provide safe working conditions for the subsidiary’s employees but, on the other hand, argued that the parent and subsidiary were separate entities and, accordingly, plaintiffs were not barred from recovery against the parent company by the immunity provisions of the act. The Court in Maki adopted the following reasoning from Pettaway v McConaghy, 367 Mich 651, 654; 116 NW2d 789 (1962), that “if a corporate veil is pierced because of the almost complete identity between the corporation and the majority shareholder, then the majority shareholder and the corporation would generally be considered one and the same, i.e., the employer, for purposes of the immunity provisions”. Maki, supra, p 526.
+The Supreme Court has recently recognized, in the labor-broker situation, the concept of dual employment where both the labor broker and its customer receive the protection of the exclusive remedy provision. Farrell v Dearborn Manufacturing Co, 416 Mich 267; 330 NW2d 397 (1982). The Court adopted the same economic realities test adopted in Wells, supra, which looks to the totality of the circumstances surrounding the performed work:
+" 'Control is a factor, as is payment of wages, hiring and firing, and the responsibility for the maintenance of discipline, but the test of economic reality views these elements as a whole, assigning primacy to no single one.’ Schulte v American Box Board Co, 358 Mich 21, 33; 99 NW2d 367 (1959).” Farrell, supra, p 276.
+Farrell dealt with a situation involving two separate business entities, unrelated except that one provided temporary employees for the other.
+In the instant situation, involving a parent corporation and its wholly owned subsidiary, the economic realities test is also useful. The proofs supporting plaintiffs’ claim that defendant had enough control over Tempo so that, through defendant’s negligence, plaintiffs suffered damages also support the proposition that both the parent and the subsidiary were plaintiff Virginia Dobbs’s employer and that, thus, both are protected by the exclusive remedy provision. Any further development of the facts to support plaintiffs’ claim would further support this proposition.
+The trial court’s grant of summary judgment is affirmed. As in Maki, supra, any further development of the facts as to the interrelationship between Tempo Communications and defendant The Journal Company would only provide further support for our conclusion that defendant The Journal Company is protected from this type of suit by the exclusive remedy provision of the Worker’s Disability Compensation Act.
+Affirmed.
