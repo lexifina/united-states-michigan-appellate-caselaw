@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "93136"
+decided: "1989-03-15"
+citations: ["178 Mich. App. 273"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, Jr., P.J., and Shepherd and D. L. Sullivan, JJ."]
+parties: ["STEVENS v DREKICH"]
+source_url: "https://static.case.law/mich-app/178/cases/0273-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2312672
+cites_cases: ["131 Mich App 336", "138 Mich App 672", "145 Mich App 431", "148 Mich App 524", "156 Mich App 550", "159 Mich App 265", "16 Mich App 55", "161 Mich App 785", "167 NW2d 471", "178 NW2d 476", "182 NW2d 79", "26 Mich App 164", "336 Mich 457", "345 NW2d 918", "360 NW2d 270", "377 NW2d 393", "383 Mich 630", "385 NW2d 658", "398 NW2d 297", "402 NW2d 486", "406 NW2d 207", "411 NW2d 859", "422 Mich 967", "427 Mich 271", "428 Mich 905", "58 NW2d 144"]
+---
+
+# Stevens v. Drekich
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In this action for personal injuries sustained in a vehicular accident, the circuit court ruled that defendants Daniel G. and Janet Drekich, the owners of land situated adjacent to the scene of the accident giving rise to this suit, had no duty to take precautions so that a tree located in the grassy area between the street curb and the sidewalk, or the berm, would not obstruct a motorist’s view of a yield sign. We affirm summary disposition in favor of defendants.
+In their complaint, plaintiffs alleged that Michael P. Stevens, the minor on whose behalf suit was brought, was a passenger of a motorcycle that collided with a vehicle at or near the intersection of Windsor and Berkshire Road in the City of Detroit on June 2, 1984. In Count hi, liability against the Drekich defendants was premised upon their alleged conduct in "planting, growing, maintaining, and allowing to exist on [their] property,” "a tree to grow so that it effectively blocked, hid, partially hid, or otherwise obstructed the view of travellers [sic] on eastbound Windsor to see that there was a 'yield’ sign at their intersection.”
+By affidavit, defendants established that the berm was six feet in width, measured from the curb to the sidewalk. The tree was situated about four feet from the curb and about two feet from the sidewalk. The street itself was thirty feet in width. The Drekiches averred that they had resided there since December 15, 1981, that the trees in the berm were present at the time that they assumed residence, and that they had not planted, fertilized, or otherwise cared for the trees. These averments were uncontroverted.
+Under the principles of premises liability, the right to recover for a condition or defect of land or for an activity conducted on the land requires that the defendant have legal possession and control of the premises. The defendant’s duty ends at the boundary of his premises. Rodriguez v Detroit Sportsmen’s Congress, 159 Mich App 265; 406 NW2d 207 (1987), lv den 428 Mich 905 (1987); Swartz v Huffmaster Alarms Systems, Inc, 145 Mich App 431, 437; 377 NW2d 393 (1985). Cf. Langen v Rushton, 138 Mich App 672; 360 NW2d 270 (1984), lv den 422 Mich 967 (1985). In keeping with this principle, defendants contend that liability may not be imposed upon them because the tree allegedly causing the accident was located in a public right-of-way abutting their home. We agree. The right-of-way in favor of the public resulting from the establishment of a public highway is presumed to be sixty-six feet in width. Eyde Brothers Development Co v Eaton County Drain Comm’r, 427 Mich 271, 297-299; 398 NW2d 297 (1986); Rigoni v Michigan Power Co, 131 Mich App 336, 343-348; 345 NW2d 918 (1984), MCL 221.20; MSA 9.21. Given that the tree was located about nineteen feet from the center of Windsor, it clearly fell within the sixty-six-foot width. Plaintiffs concede the location of the tree within a right-of-way, but argue that defendants retain sufficient reversionary and incidental property rights to the berm to render them responsible under the principles of premises liability. We conclude that, whatever residual rights to a public right-of-way are retained by an adjacent landowner, they are not possessory in nature, thus precluding plaintiffs’ cause of action against defendants. See Berman v LaRose, 16 Mich App 55; 167 NW2d 471 (1969). See also Eyde Brothers Development Co, supra.
+Plaintiffs also argue that, even if the berm was outside the scope of defendants’ legal possession, defendants’ maintenance of the tree was negligent without reference to premises liability principles. This theory of recovery finds support in Berman, supra, p 57, which acknowledged that a landowner may be liable for conditions in an adjacent area if he has physically intruded into the area or has committed some act which increased the existing hazards or created new hazards. The underlying premise is that the defendant has exercised control over land beyond his boundaries. Rodriguez, supra, p 271. See also Hughes v Detroit, 336 Mich 457, 466-467; 58 NW2d 144 (1953). Since, however, the uncontroverted affidavits here establish that defendants took no affirmative acts with respect to the planting or maintenance of the tree, we conclude that tort liability may not be predicated upon negligent conduct independent of premises liability theory.
+Plaintiffs argue that Count m of the complaint states a legally adequate claim based on a nuisance theory. Nuisance liability is predicated upon a dangerous, offensive, or hazardous condition in the land or an activity of similar characteristics conducted on the land. Buckeye Union Fire Ins Co v Michigan, 383 Mich 630, 636; 178 NW2d 476 (1970). It requires that the defendant liable for the nuisance have possession or control of the land. Attorney General v Ankersen, 148 Mich App 524, 560; 385 NW2d 658 (1986). Thus, the absence of any right of possession on the part of defendants to the berm area defeats liability predicated upon nuisance theory.
+Plaintiffs argue that liability for negligence may be predicated on defendants’ breaches of duties set forth in various provisions of the Detroit ordinances. We disagree. Violation of an ordinance is not negligence per se, but only evidence of negligence. Mills v A B Dick Co, 26 Mich App 164, 168; 182 NW2d 79 (1970). If no duty is owed by the defendant to the plaintiff, an ordinance violation committed by the defendant is not actionable as negligence. Johnson v Davis, 156 Mich App 550, 555-556; 402 NW2d 486 (1986).
+For the reasons stated, we conclude that there is no demonstrated genuine issue of fact as to the ownership and right of possession regarding the berm and that defendants are entitled to judgment as to Count in as a matter of law. Therefore, summary disposition pursuant to MCR 2.116(0(10) was proper. See Morganroth v Whitall, 161 Mich App 785, 788-789; 411 NW2d 859 (1987).
+Affirmed.
+Although other parties were named as defendants in the complaint, their interests are not raised in this appeal. For the sake of convenience, all subsequent references to defendants refer only to the Drekiches.
+
+## Concurrence (Shepherd, J.)
+
+Shepherd, J.
+(concurring). I concur in the result.
+The only city ordinance that could possibly apply is Chapter 57-2-1, which provides as follows:
+All bushes, shrubs or plants, located on any corner lot within the City that obstruct the view of a driver of a vehicle approaching a street intersection shall not be permitted to grow to a height of more than 3 feet above the surface of the roadway.
+This ordinance can only apply to the portion of a corner lot owned by a defendant. In the instant case the tree in question was located on the berm which, as indicated in the majority opinion, is not owned by the defendants and they did not have control over the height of the tree. Accordingly there can be no recovery against the land owners.
