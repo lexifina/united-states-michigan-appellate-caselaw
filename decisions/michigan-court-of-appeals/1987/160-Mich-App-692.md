@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "86789"
+decided: "1987-04-23"
+citations: ["160 Mich. App. 692"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Shepherd, P.J., and Gribbs and R. R. Lamb, JJ."]
+parties: ["PEOPLE v LUCAS"]
+source_url: "https://static.case.law/mich-app/160/cases/0692-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2304928
+cites_cases: ["1 ALR4th 283", "25 ALR3d 537", "289 NW2d 863", "379 NW2d 390", "416 Mich 25", "416 Mich 36", "416 Mich 37", "416 Mich 38", "424 Mich 302", "65 ALR Fed 519", "94 ALR3d 257", "95 Mich App 1", "95 Mich App 10"]
+---
+
+# People v. Lucas
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In a bench trial, defendant was found guilty of two counts of criminal sexual conduct in the third degree, MCL 750.520d; MSA 28.788(4). On July 2, 1985, defendant was sentenced to a prison term of from 44 to 180 months. Defendant appeals by right, raising three issues, one of which requires reversal.
+Defendant’s defense at trial was consent. As of August 31, 1984, defendant and complainant had been boyfriend and girlfriend for approximately six to seven months. Complainant testified that they broke up two weeks before that date. On August 31, 1984, complainant stated that defendant, at knifepoint, forced her to his apartment. Complainant testified that she was physically beaten and forced to perform fellatio and have sexual intercourse and later that night defendant again forced her to have sexual intercourse with him. Complainant, however, did not leave defendant’s home until 10:00 or 10:30 p.m. on September 1, 1984. It was defendant’s position at trial that he and complainant had voluntary consensual sex three or four times and that he did not use a knife or other force.
+At the start of trial, defendant moved for the introduction of evidence of the prior sexual relationship between defendant and complainant. Based solely upon the failure of defendant to comply with the notice provision of subsection 2 of the rape shield statute, MCL 750.520j; MSA 28.788(10), the trial court, without holding an in camera hearing to determine the admissibility of the proposed evidence, denied defendant’s motion. This was clear legal error.
+In People v Williams, 95 Mich App 1, 9-11; 289 NW2d 863 (1980), rev’d on other grounds, 416 Mich 25 (1982), this Court found the ten-day notice provision and any hearing requirement unconstitutional when applied to preclude evidence of specific instances of sexual conduct between a complainant and a defendant. The Court explained:
+The object behind imposition of a notice requirement is to allow the prosecution to investigate the validity of a defendant’s claim so as to better prepare to combat it at trial. This rationale is sound when applied to notices of alibi and insanity defenses. It loses its logical underpinnings however when applied to the instant situation. As stated, the very nature of the evidence sought to be presented, i.e., prior instances of sexual conduct between a complainant and a codefendant, is personal between the parties. As such, it does not involve a subject matter that requires further witnesses to develop. An in camera hearing will necessarily focus on a complainant’s word against the word of a codefendant. Requiring notice in this situation, then, would serve no useful purpose. There would be no witnesses to investigate and, thus, no necessity for preparation time. In view of the foregoing, we find that the trial court’s denial of codefendant Williams’ proffered evidence represents a consideration of form over substance. The evidence should have been admitted despite noncompliance with the notice provision. This ten-day notice provision loses its constitutional validity when applied to preclude evidence of previous relations between a complainant and a defendant. [95 Mich App 10-11.]
+As noted by the Supreme Court in reversing the Court of Appeals, defendants in Williams sought to introduce evidence of prior sexual conduct between defendant Williams and the complainant on the premise that such evidence would be probative to the claim of all four defendants that complainant consented to have group sexual relations with defendant Williams and his three codefendants, one after the other. Williams, 416 Mich 36-37. The Supreme Court found this premise untenable. 416 Mich 37. Thus, any evidence of prior sexual conduct by complainant with Williams was properly excluded as it bore no logical relevance as substantive evidence to the Williams defendants’ defense of consent to group sex. 416 Mich 38.
+The instant case was not one where the defendant sought to introduce the fact of prior sexual conduct between complainant and defendant as substantive evidence that complainant would consent to any type of group sexual encounter. Here, defendant and complainant had a relationship over a considerable period of time in which they saw each other practically every day. The evidence supported the inference that only shortly before the incident in question had their relationship experienced difficulties or ended. Consequently, the issue of consent has considerably more probative validity here than in Williams. We conclude that this Court’s holding in Williams remains valid under the circumstances of this case.
+As was explained in People v Perkins, 424 Mich 302, 307-308; 379 NW2d 390 (1986), while the interests sought to be protected by the rape shield statute are not involved where the proposed testimony relates to sexual activity between the complainant and the defendant, what is left are the usual evidentiary issues of the materiality of the evidence to the issues in the case and the balancing of its probative value with the danger of unfair prejudice. The trial court did not exclude the proposed testimony here on either of those grounds. Nor does the record itself allow us to say it would have been proper for the proposed testimony to be excluded on either of those grounds. Therefore, defendant’s conviction must be reversed.
+Reversed and remanded.
