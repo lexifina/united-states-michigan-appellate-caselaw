@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "71835"
+decided: "1984-06-22"
+citations: ["137 Mich. App. 318"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P.J., and T. M. Burns and N. J. Kaufman, JJ."]
+parties: ["LARKINS v DEPARTMENT OF MENTAL HEALTH"]
+source_url: "https://static.case.law/mich-app/137/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2241076
+cites_cases: ["109 Mich App 429", "121 Mich App 121", "124 Mich App 124", "124 Mich App 144", "124 Mich App 195", "124 Mich App 204", "124 Mich App 291", "128 Mich App 72", "247 NW2d 512", "25 ALR2d 203", "273 NW2d 421", "275 NW2d 268", "276 NW2d 1", "311 NW2d 379", "327 NW2d 293", "328 NW2d 595", "333 NW2d 509", "333 NW2d 513", "333 NW2d 603", "333 NW2d 612", "335 NW2d 481", "339 NW2d 692", "398 Mich 41", "404 Mich 205", "405 Mich 716", "406 Mich 65", "414 Mich 858", "414 Mich 866", "415 Mich 1", "417 Mich 1113"]
+---
+
+# Larkins v. Department of Mental Health
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This case presents yet another addition to this Court’s swelling jurisprudence on governmental immunity.
+Lorrell Williams’ mother filed a petition for his admission to the Detroit Psychiatric Institute on October 28, 1978. The petition was accompanied by statements from two doctors who had examined him and detailed his behavioral problems. According to plaintiffs’ complaint, Williams was examined upon his admission the next day by defendant Dr. Murthy, a psychiatrist with the Institute; five days later, Williams was discharged by defendants Pearlman, a social worker with the Institute, and Jackson, its director. Two days after his discharge, Williams allegedly shot at and injured plaintiff police officers, prompting this lawsuit. Plaintiffs have alleged negligence in discharging Williams and malpractice in failing to diagnose and treat Williams.
+Defendants State Department of Mental Health and Detroit Psychiatric Institute, which is operated by the Department of Mental Health, were dismissed on their motions for accelerated judgment since claims against state agencies are within the exclusive jurisdiction of the Court of Claims. MCL 600.6419; MSA 27A.6419. Defendants Smith and Stehman, directors of the Department of Mental Health, were dismissed on motions for summary judgment, as were defendants Murthy, Pearlman and Jackson, on grounds of governmental immunity. (Hereinafter, references to "defendants” denote the individual defendants, not the department or the Institute.) From the orders granting summary judgment, plaintiffs appeal.
+As plaintiffs point out, the statutory immunity provision, MCL 691.1407; MSA 3.996(107), provides immunity only for government agencies and is silent as to employees of those agencies. It is argued that, since agencies can act only through their employees, it is logical to infer that employees must be immune as well. However, in MCL 691.1408; MSA 3.996(108), the Legislature specifically authorized agencies to defend actions "commenced against an officer or employee of a governmental agency for injuries to persons or property caused by negligence of the officer or employee while in the course of employment and while acting within the scope of his or her authority”. Both provisions have been modified since, but remain essentially unchanged from, their enactment in 1964. It is apparent from these provisions that, at the same time the Legislature immunized governmental agencies, it contemplated negligence actions against their employees.
+The Supreme Court in Pittman v Taylor, 398 Mich 41; 247 NW2d 512 (1976), abolished traditional common law judge-made immunity. But at least some Justices in Bush v Oscoda Area Schools, 405 Mich 716; 275 NW2d 268 (1979), and Lockaby v Wayne County, 406 Mich 65; 276 NW2d 1 (1979), acknowledged immunity for employees acting within the scope of their employment. Since there is no statutory immunity for employees, such immunity as exists must be of necessity a product of judicially-propounded common law. Chivas v Koehler, 124 Mich App 195, 200; 333 NW2d 509 (1983).
+The attempt to glean from the several opinions issued by the Supreme Court a consensus test for determining when public employees are protected from tort liability through governmental immunity "has been both anathema and enigma” to this Court, the trial bench and bar. Chivas v Koehler, supra, p 200.
+Thanks to the late Justice Moody’s swing vote in Perry v Kalamazoo State Hospital, 404 Mich 205; 273 NW2d 421 (1978), it is currently settled that public mental hospitals, as opposed to general hospitals, are immune from tort liability. On that authority, this Court has held that defendant doctors’ employer, Detroit Psychiatric Institute, is immune. Pomilee v Detroit, 121 Mich App 121; 328 NW2d 595 (1982), Mason v Rosen, 124 Mich App 204; 333 NW2d 513 (1983). Several panels of this Court would therefore rule that, as long as defendants were acting within the scope of their employment, they are similarly immune from tort liability. Pomilee, supra, Mason v Rosen, supra, Pope v McIntyre, 124 Mich App 144; 333 NW2d 612 (1983), and cases cited therein.
+The principal criticism of this test, as noted by this Court in Mason v Rosen, supra, is that it results in an unexplained expansion of governmental immunity, contrary to the established policy of the Supreme Court, repeated in Pittman, supra, to curtail common law judge-made immunity. We therefore agree with the well-reasoned approach set forth by this Court in Fisher v Dep’t of Mental Health, 128 Mich App 72; 339 NW2d 692 (1983). If the purpose of the immunity doctrine is to insulate governmental decision- or policy-makers from individual liability, a test too easily passed subverts this purpose and allows all governmental employees absolute protection from individual liability. Since the actions by defendants in this case were neither legislative, executive, nor judicial in nature, defendants are not necessarily immune from tort liability, and a summary judgment on this ground was improper.
+If the defendant doctors had discharged Williams from a private psychiatric facility, they would be subject to a negligence action such as plaintiffs have attempted to bring in this case. Davis v Lhim, 124 Mich App 291, 301; 335 NW2d 481 (1983). We do not think plaintiffs should be denied their day in court solely because their alleged attacker was released from a state rather than a private facility.
+Since we agree with plaintiffs that defendants are not protected by the governmental immunity doctrine, we need not explore whether, by alleging intentional torts in Count II, plaintiffs have avoided governmental immunity. We note, however, that negligence is not transformed into an intentional tort merely by alleging that defendants’ activity was intentional, wilful or wanton. Elliott v Dep’t of Social Services, 124 Mich App 124, 129; 333 NW2d 603 (1983).
+Reversed.
+We have been advised that applications for leave to appeal both these decisions are being held in administrative abeyance pending decisions in Ross v Consumers Power Co, 415 Mich 1; 327 NW2d 293 (1982), reh gtd 417 Mich 1113 (1983), and Bandñeld v Wood, lv gtd 414 Mich 866 (1982).
+
+## Dissent (J. H. Gillis, P.J.)
+
+J. H. Gillis, P.J.
+(dissenting). I dissent. I would affirm the decision of the trial court based on Fuhrmann v Hattaway, 109 Mich App 429; 311 NW2d 379 (1981), lv den 414 Mich 858 (1982), and Mason v Rosen, 124 Mich App 204; 333 NW2d 513 (1983).
