@@ -1,0 +1,46 @@
+---
+court: "Michigan Court of Appeals"
+docket: "165595"
+decided: "1995-07-28"
+citations: ["212 Mich. App. 436"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Fitzgerald, P.J., and Markman and M. F. Sapala, JJ."]
+parties: ["WIECHMANN v WIECHMANN"]
+source_url: "https://static.case.law/mich-app/212/cases/0436-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1873285
+cites_cases: ["209 Mich App 587", "447 Mich 871", "526 NW2d 889", "532 NW2d 205", "67 ALR4th 354"]
+---
+
+# Wiechmann v. Wiechmann
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals that portion of the divorce judgment dated June 2, 1993, granting plaintiff physical custody of two of the parties’ four minor children. We affirm.
+The parties were married in September of 1982 in Saginaw, Michigan. They have four children, Stefan, Loren, and twin boys, Cameron and Chase. Throughout the course of the marriage, the parties, although not always together, moved back and forth between Michigan and Colorado. The children similarly moved back and forth, at times residing with only one parent. Plaintiff filed for divorce in the Saginaw Circuit Court in January of 1992.
+During the divorce trial, the court heard testimony of the parties as well as that of Jill Hogenson, a custody specialist under contract with the Saginaw County Friend of the Court. Hogenson’s testimony focused on her recommendations to the court concerning custody. She testified concerning her analysis of the best interest factors under MCL 722.23; MSA 25.312(3) and recommended that defendant be given custody of all four children. On March 25, 1993, the trial court issued its opinion that addressed custody as well as the parties’ other disputes. The court’s opinion reviewed the factors used to determine the children’s best interests and concluded that the parties would share legal custody of the children, that plaintiff was to have physical custody of Stefan and Loren, and that defendant was to have physical custody of Cameron and Chase. The opinion was followed by the trial court’s judgment of divorce dated June 2,1993._
+Defendant argues that the trial court abused its discretion in failing to grant custody of all four children to her. More specifically, defendant requests that the four children remain together and claims that she is the most fit and suitable person to have custody of the children.
+Findings of fact in child custody disputes are to be reviewed under the great weight of the evidence standard. Fletcher v Fletcher, 447 Mich 871, 878; 526 NW2d 889 (1994). "[A] trial court’s findings on each factor should be affirmed unless the evidence clearly preponderates in the opposite direction.’ ” Id. at 879. Questions of law are reviewed for clear legal error, and what the Michigan Supreme Court has called "discretionary rulings” are reviewed under a palpable abuse of discretion standard. Id. at 879-881.
+In its opinion, the trial court found "nothing sacred in the parties’ insistence that the children be raise[d] together.” The court instead decided that it was in the best interests of each child that the parties share legal custody of the children, with plaintiff retaining physical custody of Stefan and Loren and defendant retaining physical custody of Cameron and Chase. In reaching its decision, the court properly reviewed the factors set forth in MCL 722.23; MSA 25.312(3) for determining the best interests of a child. The court found the parties essentially equal with the exception of factor d, relating to the length of time in which a child has lived in a "stable, satisfactory environment” and the desirability of maintaining continuity, which slightly favored plaintiff.
+This Court appreciates the importance of attempting to keep siblings together. The sibling bond and the potentially detrimental effects of physically severing that bond should be seriously considered in custody cases where the children likely have already experienced serious disruption in their lives as well as a sense of deep personal loss. Ultimately, however, it is the best interests of each individual child that will control the custody decision. MCL 722.25; MSA 25.312(5). "In any custody dispute, our overriding concern and the overwhelmingly predominant factor is the welfare of the child.” Heid v AAASulewski (After Remand), 209 Mich App 587, 595; 532 NW2d 205 (1995). We believe that in most cases it will be in the best interests of each child to keep brothers and sisters together. However, if keeping the children together is contrary to the best interests of an individual child, the best interests of that child will control. We do not find that in this case the trial court palpably abused its discretion or committed legal error in its determination to separate the children. The trial court’s decision, which implicitly rejects Hogenson’s recommendation, correctly recognized its objective and concluded that, despite the separation of the siblings, it was in the best interests of each child for both parties to retain legal custody and for the older children to be in plaintiff’s physical custody and the younger, twin boys to be in defendant’s physical custody.
+Affirmed.
+MCL 722.23; MSA 25.312(3) provides:
+"Best interests of the child” means the sum total of the following factors to be considered, evaluated, and determined by the court:
+(a) The love, affection, and other emotional ties existing between the parties involved and the child.
+(b) The capacity and disposition of the parties involved to give the child love, affection, and guidance and continuation of the educating and raising of the child in its religion or creed, if any.
+(c) The capacity and disposition of the parties involved to provide the child with food, clothing, medical care or other remedial care recognized and permitted under the laws of this state in place of medical care, and other material needs.
+(d) The length of time the child has lived in a stable, satisfactory environment, and the desirability of maintaining continuity.
+(e) The permanence, as a family unit, of the existing or proposed custodial home or homes.
+(f) The moral fitness of the parties involved.
+(g) The mental and physical health of the parties involved.
+(h) The home, school, and community record of the child.
+(i) The reasonable preference of the child, if the court deems the child to be of sufficient age to express preference.
+(j) The willingness and ability of each of the parents to facilitate and encourage a close and continuing parent-child relationship between the child and the other parent.
+(k) Any other factor considered by the court to be relevant to a particular child custody dispute.
+The trial, opinion, and order in the instant case were completed before the November 29, 1993, effective date of the amendment of MCL 722.23; MSA 25.312(3).
+Although the maintenance of the sibling bond is not explicitly mentioned as a factor to be considered in determining the best interest of a child in a custody dispute, we believe that such consideration is appropriate under several of the statutory factors under MCL 722.23; MSA 25.312(3), such as, for example, factor d (length of time in a stable, satisfactory environment, and the desirability of maintaining continuity), factor e (the permanence, as a family unit, of the existing or proposed custodial home), and factor k (any other relevant factor).
+We note that Hogenson’s prior recommendation regarding temporary custody was that Stefan and Loren should be in plaintiffs custody and that Cameron and Chase should be in defendant’s custody.
+Plaintiff contends that this appeal is actually moot. On October 18, 1993, plaintiff advised the friend of the court that defendant had taken Loren, Cameron, and Chase without permission and moved to Colorado. A petition and order to show cause followed plaintiff’s complaint. Following a show cause hearing on November 29,1993, the court found defendant was in contempt of court for removing the children. A bench warrant was issued for her immediate arrest. On January 4, 1994, plaintiff filed a petition for change in custody and for ex-parte temporary custody of Cameron and Chase. Plaintiff advised the court that he had picked up the children following a call from defendant’s sister in Colorado on December 26, 1993, at which time she asked plaintiff to pick up the children. Plaintiff further claimed in the petition that criminal proceedings for bank fraud, kidnapping, and unlawful flight to avoid prosecution on the bank fraud charge had been instituted against defendant and that defendant had been arrested on December 29, 1993, and was being held in jail in Denver on the federal charge of unlawful flight. On January 4, 1994, the trial court issued orders granting plaintiff temporary custody of Cameron and Chase and instructing the Saginaw County Friend of the Court to investigate and make a recommendation concerning permanent custody. However, this Court has no record of a permanent order changing custody of the children. Accordingly, it is not clear that this appeal is moot. On October 31, 1994, a panel of this Court issued an order denying a motion to dismiss this appeal.
