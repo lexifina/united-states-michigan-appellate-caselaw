@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "11461"
+decided: "1973-03-26"
+citations: ["45 Mich. App. 421"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J., and J. H. Gillis and Peterson, JJ.", "All concurred."]
+parties: ["PEOPLE v ATLEY"]
+source_url: "https://static.case.law/mich-app/45/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2113282
+cites_cases: ["10 Mich App 558", "126 Mich 631", "19 Mich App 250", "224 Mich 8", "336 Mich 617", "358 US 307", "386 Mich 204", "387 Mich 167", "387 Mich 91", "390 Mich 753", "41 Mich App 116", "6 Mich App 247"]
+---
+
+# People v. Atley
+
+## Majority (J. H. Gillis, J.)
+
+J. H. Gillis, J.
+Defendant was convicted by a jury of conspiracy to sell marijuana (MCLA 750.157a; MSA 28.354[1]; MCLA 335.152; MSA 18.1122), unlawful possession of marijuana (MCLA 335.153; MSA 18.1123), and unlawful control of marijuana (MCLA 335.153; MSA 18.1123). He was originally sentenced to 20 to 25 years in prison for conspiracy, and concurrent sentences of 8 to 10 years in prison were imposed on the other counts. Prior to submission to this panel, defendant’s convictions for possession and control of marijuana were vacated by the trial judge pursuant to his interpretation of People v Sinclair, 387 Mich 91 (1972). Defendant’s original sentence for conspiracy was vacated by the trial judge pursuant to a similar interpretation of People v Lorentzen, 387 Mich 167 (1972), and defendant has since been resentenced to 1-1/2 to 4 years on that charge.
+On appeal defendant challenges the legality of his arrest without a warrant. Prior to his arrest, defendant approached Michael Conley and asked his assistance in a venture involving transportation of marijuana from Kansas and Missouri to Michigan. Conley contacted police and revealed the plan. Conley then rented a car, and drove defendant and others out of Michigan in search of marijuana fields. They were successful. Before the group returned with seven burlap bags of harvested marijuana, Conley twice called police in Michigan informing them of progress of the venture. Conley told police the color, year, make and model of his rented car, its license number as well as approximately when and on what route they would traverse Van Burén County.
+Police were waiting for them, stopped the car, arrested the occupants for possession of marijuana, and found approximately 127 pounds of freshly harvested marijuana in the car.
+Defendant contends the police had sufficient advance warning of his arrival to allow them to obtain arrest warrants prior to the actual arrest. The law, however, provides a police officer may arrest a person without a warrant when he has probable cause to believe a felony has been committed and probable cause to believe such person has committed it. MCLA 764.15; MSA 28.874; People v Sansoni, 10 Mich App 558 (1968). In this regard, we note MCLA 764.15, supra, also provides a police officer may rely on positive information he receives from police communications which supply elements of probable cause.
+This case presents more than an arrest based on an anonymous tip. See People v Guertins, 224 Mich 8 (1923). The detailed information given police by the identified informant, who himself was a participant in the crime, was verified prior to the arrest. When the sum total of that information was relayed to police in the field and the events, as predicted, occurred, those officers were empowered to make the arrest. We are convinced the arrest was founded on probable cause. Draper v United States, 358 US 307; 79 S Ct 329; 3 L Ed 2d 327 (1959). We reject defendant’s contention that police should have first obtained an arrest warrant. We visualize inherent danger to our concept of ordered liberty in a procedure that would allow police to secure such a warrant based on information that a crime, yet to happen, will be committed, when, and by whom. We approve the practice which allows police to make an arrest without a warrant on information verified by subsequent acts but then requires production of the suspect before a magistrate. (See MCLA 764.26; MSA 28.885.)
+No issue of the search following the arrest is raised on appeal; we decline to discuss it.
+Since defendant now stands convicted of only conspiracy to sell marijuana, we consider his challenge to the validity of prior statutes prohibiting possession and control of marijuana and prescribing punishment for offenders not at issue. Defendant’s challenge that the several counts of the information were misjoined is also without merit since all charges arose out of the same transaction and were so connected in their separate facts that much of the same testimony supported the differing charges. People v Bird, 126 Mich 631 (1901); People v Johns, 336 Mich 617 (1953); People v Dexter, 6 Mich App 247 (1967). The fact that the convictions on two of the counts have been vacated does not, itself, affect the validity of the remaining conviction. See People v Taylor, 386 Mich 204 (1971).
+The evidence supporting the conspiracy charge was sufficient to warrant the finding of guilt. The jury could reasonably find from the evidence at trial that defendant intended to sell at least some of the 127 pounds of marijuana and would pay his confederates with the proceeds. The jury could infer the existence of the agreement necessary to the charge from the prior preparation and planning engaged in by the parties and disregard the denials of defendant’s alleged coconspirators. While it may have been designed that only defendant would sell the marijuana, the prior combination and agreement to receive proceeds by those involved was reasonably established and certainly points to the existence of the charged conspiracy.
+While it is clear the trial judge considered defendant’s juvenile record in imposing the 20-year minimum sentence, that sentence has since been vacated. Defendant has received a substantially reduced penalty, and at resentencing it did not appear that the trial court relied on defendant’s juvenile record but instead noted his marked progress toward rehabilitation as justification for the reduction. In this posture, no interpretation of People v McFarlin, 41 Mich App 116 (1972), and People v Coleman, 19 Mich App 250 (1969), is necessary.
+Affirmed.
+All concurred.
