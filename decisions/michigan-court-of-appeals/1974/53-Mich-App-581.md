@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "17427"
 decided: "1974-05-30"
-citations: ["53 Mich. App. 581", "57 Mich. App. 141"]
+citations: ["53 Mich. App. 581"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,6 @@ parties: ["FAINTUCK v OAKLAND COUNTY TREASURER (FAINTUCK v DOHANY)"]
 source_url: "https://static.case.law/mich-app/53/cases/0581-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2135703
-cites_cases: ["219 NW2d 810", "53 Mich App 581"]
 ---
 
 # Faintuck v. Oakland County Treasurer
