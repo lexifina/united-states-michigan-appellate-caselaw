@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "18439"
+decided: "1975-03-10"
+citations: ["59 Mich. App. 316"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P. J., and D. E. Holbrook and M. J. Kelly, JJ."]
+parties: ["CITY OF LANSING v JURY ROWE REALTY COMPANY"]
+source_url: "https://static.case.law/mich-app/59/cases/0316-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2126410
+cites_cases: ["1 Mich App 147", "134 NW2d 828", "175 NW2d 899", "182 NW 140", "187 NW2d 481", "190 NW2d 288", "195 NW2d 894", "199 NW2d 838", "209 NW2d 302", "21 Mich App 546", "213 Mich 448", "220 NW 808", "220 NW2d 416", "223 NW2d 637", "243 Mich 517", "289 NW 201", "291 Mich 426", "31 Mich App 263", "33 Mich App 527", "38 Mich App 150", "385 Mich 766", "392 Mich 159", "394 Mich 819", "41 Mich App 601", "47 Mich App 100", "56 Mich App 162"]
+---
+
+# City of Lansing v. Jury Rowe Realty Co.
+
+## Majority (T. M. Burns, P. J.)
+
+T. M. Burns, P. J.
+On April 11, 1973, plaintiff instituted a condemnation proceeding to acquire defendants’ land for an urban renewal project. The property in question is located in Lansing, Michigan, and is intended to be part of Urban Renewal Project No. 2, which emphasizes rejuvenation and beautification of the river fronts. Defendants’ property adjoins the river in part and, therefore, was included as land to be taken for the project.
+Defendants contested the condemnation petition by filing on May 14, 1973, a motion to review the necessity of taking their land. A hearing on defendants’ motion was held in circuit court at which various planners and experts were examined. After viewing the property in question, the court on September 11, 1973, issued an oral opinion in which it concluded that it was not reasonably necessary to include defendants’ property within the urban renewal project. This being the case, the court held that it was an abuse of discretion on the part of the plaintiff to include defendants’ land in the project. Judgment was entered in conformance with that opinion on September 27, 1973. It is from this judgment that plaintiff appeals; the defendants having also cross-appealed.
+Plaintiff claims that the trial court erred in admitting new evidence at the hearing on defendants’ motion to review the necessity for taking. Plaintiff argues that the circuit court erred in conducting a trial de novo since its power to review condemnation proceedings is limited to making a determination as to whether or not fraud and/or abuse of discretion has occurred.
+In Michigan the condemning authority is legislatively empowered to condemn property for public purposes upon a proper showing of necessity. Any landowner affected by this action may obtain judicial review of "necessity” by filing a petition in circuit court alleging that the proposed condemnation is either fraudulent or an abuse of discretion. MCLA 213.368; MSA 8.261(8), Highway Commission v Vanderkloot, 392 Mich 159, 176; 220 NW2d 416 (1974), Livingston County Road Commissioners v Herbst, 38 Mich App 150; 195 NW2d 894 (1972). The landowner has the burden of proving that there is no "necessity”. State Highway Commission v Taylor, 41 Mich App 601, 603; 199 NW2d 838 (1972), Herbst, supra, Kalamazoo Road Commissioners v Dosca, 21 Mich App 546, 548; 175 NW2d 899 (1970).
+As mentioned previously, plaintiff maintains that the trial court abused its discretion by accepting testimony and conducting a new hearing for the purpose of gathering new evidence. We disagree. In City of Muskegon v Irwin, 31 Mich App 263, 269; 187 NW2d 481 (1971), lv den 385 Mich 766 (1971), this author concurred with Judge Munro when, in establishing a general guideline for this type of problem, he wrote:
+"We believe that trial courts should in the future liberally allow the property owner to present such evidence as is relevant to the issue of necessity in determining fraud or abuse of discretion up to the time condemnation is authorized restricting such evidence, however, to prevent jeopardizing the success of such urban renewal projects in revealing negotiations with developers and others who insist on secrecy until contracts have been completed.” (Emphasis supplied.)
+Commenting on the admissibility of testimony in condemnation cases, Judge Munro pointed out that the trial court’s discretion is somewhat broader in this area of the law than in others when he stated that:
+"[I]t is a well-recognized legal principle in condemnation or eminent domain cases that strict rules as to the admissibility of testimony are not and should not be strictly enforced. City of Detroit v Fidelity Realty Co, 213 Mich 448, 454; 182 NW 140 (1921). The party whose property is being taken by eminent domain is entitled to the utmost protection of the courts since the exercise of such power is drastic and should be construed in favor of the displaced landholder. State Board of Education v von Zellen, 1 Mich App 147; 134 NW2d 828 (1965); In re Petition of Rogers, 243 Mich 517; 220 NW 808 (1928).” 31 Mich App at 269; 187 NW2d at 484.
+We hold, therefore, that the trial court did not commit reversible error in admitting evidence other than that presented at the condemnation hearing.
+Plaintiff also contends that the trial court erred in ruling that plaintiff had abused its discretion in declaring necessity. We disagree.
+Our review of the evidence presented below indicates that the trial court’s conclusion was reasonable and proper. The evidence produced at the trial was restricted to the question of the "necessity” of taking defendants’ property to fulfill the goals of the urban renewal project. The trial court concluded orally:
+"I am unable to find here any reason or basis for the taking here in question, except that it would be nice and aesthetically pleasing to take the property in question and demolish the warehouse, a warehouse valued by the city at $185,000. The court having found that there is no such necessity in this matter based on reason, that there has in turn therefor been within the meaning of the statute an abuse of discretion on the part of the city in declaring necessity, that therefor the property taking must fail, this court having found such an abuse of discretion pursuant to the statute.”
+This conclusion was based upon the exhibits produced at trial and the testimony of the numerous witnesses that were examined. Findings of fact will not be set aside by appellate courts unless found to be clearly erroneous. GCR 1963, 517. Analysis of the lengthy trial record strongly supports the lower court’s conclusions and, therefore, we will not disturb that finding on appeal.
+Since we affirm the lower court judgment, we find it unnecessary to consider defendants’ equal protection and due process arguments raised on their cross-appeal. It has long been held that the appellate courts of this state will not reach constitutional questions when the case under consideration can fairly be disposed of on other grounds. Ryan v Ore Lake, 56 Mich App 162; 223 NW2d 637 (1974), Stanek v Secretary of State, 33 Mich App 527; 190 NW2d 288 (1971), In re Fjerstad Estate, 47 Mich App 100; 209 NW2d 302 (1973), Township of Warren v Raymond, 291 Mich 426; 289 NW 201 (1939).
+Affirmed.
