@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 176105, 176110"
+decided: "1996-05-17"
+citations: ["216 Mich. App. 648"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: O’Connell, P.J., and Hood and C. L. Horn, JJ."]
+parties: ["PEOPLE v RIVERA"]
+source_url: "https://static.case.law/mich-app/216/cases/0648-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 480640
+cites_cases: ["177 Mich App 306", "178 Mich App 526", "187 Mich App 344", "192 Mich App 501", "194 Mich App 424", "198 Mich App 537", "200 Mich App 586", "206 Mich App 204", "355 NW2d 592", "419 Mich 458", "437 Mich 188", "441 NW2d 85", "444 NW2d 228", "446 Mich 643", "467 NW2d 818", "468 NW2d 504", "481 NW2d 773", "487 NW2d 479", "499 NW2d 404", "504 NW2d 907", "520 NW2d 693", "521 NW2d 557"]
+---
+
+# People v. Rivera
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In Docket No. 176105, defendant pleaded guilty to charges of assault with intent to do great bodily harm, MCL 750.84; MSA 28.279, and of being an habitual offender, second offense, MCL 769.10; MSA 28.1082. In Docket No. 176110, stemming from an unrelated incident, defendant was convicted by a jury of assault with intent to commit murder, MCL 750.83; MSA 28.278, discharging a firearm from a vehicle with intent to commit harm, MCL 750.234a; MSA 28.431(1), and two counts of possession of a firearm during the commission of a felony (felony-firearm), MCL 750.227b; MSA 28.424(2).
+A claim of appeal was filed with respect to each proceeding below. Despite the fact that the two lower court proceedings dealt with distinct criminal episodes, these two appeals were consolidated upon appellate defense counsel’s motion. This apparent error likely stems from, first, the fact that the sentences in the two proceedings were imposed at one hearing, and, second, the fact that the judgment of sentence appealed in Docket No. 176105 reflects a conviction of felony-firearm that properly should have been reflected in the judgment of sentence appealed in Docket No. 176110. However, this procedural oversight has no effect on our resolution of the issues raised on appeal.
+In Docket No. 176105, we affirm. Appellate defense counsel has raised no allegations of error pertaining to Docket No. 176105.
+With respect to Docket No. 176110, defendant raises three issues. First, defendant contends that his convictions of both assault with intent to commit murder and discharge of a firearm from a vehicle with intent to commit harm violate his constitutional protections against double jeopardy. The purpose of the double jeopardy protection against multiple punishment for the same offense is to protect the defendant’s interest in not enduring more punishment than was intended by the Legislature. People v Whiteside, 437 Mich 188, 200; 468 NW2d 504 (1991). Thus, we must consider the legislative intent underlying the two statutes under which defendant was convicted. See People v Robideau, 419 Mich 458, 485; 355 NW2d 592 (1984). When determining legislative intent in the present context, this Court looks to whether each statute prohibits conduct violative of a social norm distinct from that protected by the other, the amount of punishment authorized by each statute, whether the statutes are hierarchical or cumulative, and the elements of each offense. People v DeLeon, 177 Mich App 306, 308; 441 NW2d 85 (1990); People v Crawford, 187 Mich App 344, 349; 467 NW2d 818 (1991).
+We find no double jeopardy violation. The social norms protected by the respective statutes differ markedly. See People v Warren (After Remand), 200 Mich App 586, 588; 504 NW2d 907 (1993); People v Cortez, 206 Mich App 204, 206; 520 NW2d 693 (1994). Assault with intent to commit murder carries a maximum sentence of life imprisonment, MCL 750.83; MSA 28.278, while intentional discharge of a firearm from a vehicle carries a maximum sentence of four years, MCL 750.234a; MSA 28.431(1). The statutes are not hierarchical or cumulative, being in separate chapters of the Penal Code. See People v Harrington, 194 Mich App 424, 428; 487 NW2d 479 (1992). Finally, the respective statutes involve different elements. Therefore, finding no legislative intent to the contrary, we conclude being convicted of both assault with intent to commit murder and intentional discharge of a firearm from a vehicle with intent to commit harm does not implicate double jeopardy concerns.
+Second, defendant argues that prosecutorial misconduct deprived him of his right to a fair trial. However, because defense counsel failed to object to any of the alleged improprieties at trial, our review of the issue is precluded absent a miscarriage of justice. People v Stanaway, 446 Mich 643, 687; 521 NW2d 557 (1994). A miscarriage of justice will not be found if the prejudicial effect of the prosecutor’s comments could have been cured by a timely curative instruction. People v Gonzalez, 178 Mich App 526, 535; 444 NW2d 228 (1989). We have reviewed defendant’s allegations of prosecutorial misconduct. We find that any misconduct that may have occurred was not so egregious that a prompt curative instruction could not have cured any resulting prejudicial effect. Thus, we do not find a miscarriage of justice.
+Finally, defendant challenges the proportionality of the twenty- to forty-year sentence imposed for his conviction of assault with intent to commit murder. Defendant’s minimum sentence of twenty years falls within the guidelines range and is, thus, presumptively proportionate. People v Williams (After Remand), 198 Mich App 537, 543; 499 NW2d 404 (1993). Defendant has presented no evidence of “unusual circumstances” rendering this presumptively proportionate sentence disproportionate. See People v Sharp, 192 Mich App 501, 505; 481 NW2d 773 (1992). Therefore, we find no abuse of discretion in the sentence imposed.
+We affirm in both Docket Nos. 176105 and 176110.
+Because neither party has challenged on appeal the mistaken judgments of sentence, we do not address the issue further.
