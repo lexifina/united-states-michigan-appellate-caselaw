@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "275"
+decided: "1965-07-19"
+citations: ["1 Mich. App. 290"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Watts, P. J., and J. H. G-illis, J., concurred."]
+parties: ["WELSH v. OHANESIAN."]
+source_url: "https://static.case.law/mich-app/1/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1192766
+---
+
+# Welsh v. Ohanesian
+
+## Majority (Quinn, J.)
+
+Quinn, J.
+Plaintiff was a tenant in a rooming house at 3459 Cass avenue, Detroit, owned by defendant and built around 1900. The stairway to the front porch of the rooming house had only one handrail. June 13, 1960, plaintiff fell while using this stairway and was injured. In his action to recover damages for these injuries, plaintiff contended, among other things, that the statutes of the State of Michigan and the ordinances of the city of Detroit required handrails on both sides of a stairway. In addition, he contended lack of two handrails violated defendant’s common-law duty to maintain the premises in a safe and prudent manner. Defendant denied violation of any duties owed by him to plaintiff.
+The case was tried in the Wayne circuit before Honorable George E. Bowles and a jury. At the close of plaintiff’s case, defendant moved for directed verdict and the judge reserved decision. Plaintiff agreed to go to the jury solely on the question of violation of statutory duty with respect to handrails and the court charged violation of this duty was negligence as a matter of law. The jury returned a verdict for plaintiff in the amount of $3,000. Subsequently, Judge Bowles granted defendant’s motion for judgment notwithstanding the verdict for the reason that the statute relied on by plaintiff did not apply to buildings erected prior to its enactment and defendant’s rooming house fell in this category.
+Plaintiff raises two questions on this appeal; vie, does the statute relied on apply to defendant’s building, and is the judgment notwithstanding the verdict valid when there are still justiciable issues for the jury to decide. On this record, the latter question is more accurately stated by appellee as follows: “Where plaintiff-appellant agreed at the time of trial that the case should go to the jury solely on the basis of a lack of handrail on the stairs in question, and made no objection to the charge, can plaintiff-appellant claim error in the charge?”
+The first question raised by appellant requires an interpretation of Michigan’s housing law. It was originally passed as PA 1917, No 167; presently it is CL 1948, § 125.401 et seq. (Stat Ann 1958 Rev § 5.2771 et seq.). Of particular concern here is article 2 of the act, being CL 1948, § 125.411 et seq. (Stat Ann 1958 Rev § 5.2782 et seq.). As originally enacted, article 2 was entitled “Dwellings Hereafter Erected”. Each section of the article contained the words “in dwellings hereafter erected”. Section 42 (CL 1948, §125.442 [Stat Ann §5.2813]) relied on by plaintiff, as originally enacted, read: “Every multiple dwelling, three stories or more in height, hereafter erected shall have at least one flight of stairs.” This language clearly placed defendant’s building outside the scope of the act. In 1919, by Act No 326, the legislature amended the housing act; as amended, section 42 read: “All multiple dwellings more than one story in height shall have at least one flight of stairs.” In 1923, section 42 was again amended by Act No 274 to read as follows: “All stairs in multiple dwellings shall be continuous from the floor nearest the grade to the highest floor used for habitation. # * * Handrails shall be provided on both sides of all stairs.” The words “hereafter erected” do not appear, nor do they appear in an amendment to this section by PA 1939, No 303. The entitling of article 2 has remained “Dwellings Hereafter Erected” and it is still so entitled.
+Appellant’s argument that by the elimination of the words “hereafter erected”, the legislature intended to make section 42 applicable to all multiple dwellings, regardless of when built, is untenable. In view of the title of the article in which these words appear, their removal merely eliminated a redundancy. The trial court properly held section 42 did not apply to defendant’s rooming house.
+In the stipulated' statement of facts appears the following: “Plaintiff agreed that the matter should go to the jury solely on the basis of the lack of a handrail on the stairs in question”. Near the beginning of the charge, the trial judge stated: “I tell you at the outset of my charge that the plaintiff is going to you in your deliberations on the theory of the breach of the statutory duty, as opposed to the • breach of the so-called common-law duty, of a landlord to a tenant”. Later the charge stated the statutory duty of providing two handrails, and that this duty applied to defendant’s building, and failure to' provide the required handrails was negligence as a matter of law. The statement of facts contains the following: “Since the plaintiff’s counsel was" satisfied with the charge on the statute, he did not object to the charge as given”. On this record, if there were further justiciable issues for the jury to decide, the conduct of appellant’s counsel has eliminated them. The case was submitted to the jury in a manner favorable to and acceptable to appellant; he is in no position to urge on appeal the invalidity of the judgment notwithstanding the verdict for the reason that by granting it, the trial judge prevented the jury from passing on the common-law liability of defendant.
+We find no error. The trial court is affirmed, with costs to appellee.
+Watts, P. J., and J. H. G-illis, J., concurred.
+See GCR 1963, 516.2.
