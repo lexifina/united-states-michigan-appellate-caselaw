@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "s. 58336, 59547"
 decided: "1983-06-22"
-citations: ["126 Mich. App. 640", "142 Mich. App. 529"]
+citations: ["126 Mich. App. 640"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["CHRISTENSEN v CHRISTENSEN"]
 source_url: "https://static.case.law/mich-app/126/cases/0640-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2224464
-cites_cases: ["10 Mich App 23", "100 NW 750", "101 Mich App 170", "104 Mich 180", "108 Mich App 133", "119 Mich App 476", "126 Mich App 611", "126 Mich App 640", "137 Mich 522", "156 NW2d 606", "158 NW2d 809", "2 ALR2d 857", "213 NW 202", "238 Mich 354", "28 NW 818", "282 NW 909", "287 Mich 79", "300 NW2d 485", "310 NW2d 301", "325 Mich 199", "326 NW2d 414", "337 NW2d 611", "345 Mich 201", "38 NW2d 313", "417 Mich 1100", "62 Mich 252", "62 NW 371", "75 NW2d 860", "9 Mich App 215"]
+cites_cases: ["10 Mich App 23", "100 NW 750", "101 Mich App 170", "104 Mich 180", "108 Mich App 133", "119 Mich App 476", "137 Mich 522", "156 NW2d 606", "158 NW2d 809", "2 ALR2d 857", "213 NW 202", "238 Mich 354", "28 NW 818", "282 NW 909", "287 Mich 79", "300 NW2d 485", "310 NW2d 301", "325 Mich 199", "326 NW2d 414", "345 Mich 201", "38 NW2d 313", "417 Mich 1100", "62 Mich 252", "62 NW 371", "75 NW2d 860", "9 Mich App 215"]
 ---
 
 # Christensen v. Christensen
