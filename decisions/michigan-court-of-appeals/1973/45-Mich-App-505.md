@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 12588, 12767, 12700"
+decided: "1973-03-26"
+citations: ["45 Mich. App. 505"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P. J., and Bashara and O’Hara, JJ.", "All concurred."]
+parties: ["PEOPLE v HERBERT BROWN PEOPLE v HICKS PEOPLE v ALLENSWORTH"]
+source_url: "https://static.case.law/mich-app/45/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2113335
+cites_cases: ["111 Mich 663", "15 Mich App 244", "151 US 303", "165 Mich 388", "17 Mass R 161", "18 Wayne L Rev 101", "2 Mich 415", "22 Mich App 528", "294 Mich 699", "339 Mich 209", "359 Mich 251", "369 Mich 618", "374 Mich 194", "385 Mich 1", "42 Mich App 301", "7 Mich App 258"]
+---
+
+# People v. Brown
+
+## Majority (O’Hara, J.)
+
+O’Hara, J.
+These are appeals of right by defendants from jury convictions of first-degree felony murder, MCLA 750.316; MSA 28.548. The cases have been joined here for review.
+We have examined the many assignments of error and those which we believe control may thus be characterized:
+To what extent if any did the rulings of the trial judge as to the people’s examination of their witness Larry Kent offend against the holding in People v Thomas, 359 Mich 251 (1960)?
+In substance Thomas, supra, held that refreshing the recollection of a witness by reference to a prior statement cannot by extension become an actual impeachment without laying a proper foundation for such impeachment.
+In the case at bar there is no doubt that the prosecuting attorney sought to expose the difference between Kent’s trial testimony and his previous statement to the police. He attempted to do the same thing with the witness’s testimony at the preliminary examination. The witness contended he could not remember either clearly or that he was not sure. At this point it was the prosecution’s right and obligation to bring out the inconsistency. Under ample case precedent and eminent textbook authority he was entitled to do so. As far back as 1852 our Supreme Court put the matter very succinctly. First, the Court discusses the prior rule that there must be an express denial by the witness of the statements imputed to him. Our Court then observed:
+“In Paine v Beeston, 1 Mood & Rob, Tindal, C. J., held at nisi prius, there must be an express denial by the witness of the statements imputed to him, before they can be proved to discredit him. But some seven years later, Parke, B., held directly the contrary in Crowley v Page, 7 Car & P 787, and he says, it has always been his practice to admit the evidence where the witness said he did not remember. Prior to the Queen’s case, 2 Brod & Bing 284, it does not seem to have been well established, that it was necessary to lay any foundation for evidence of previous contradictory statements of the witness, by first interrogating the witness specifically in relation to them. See Tucker v Welch, 17 Mass R 161. The reason assigned for requiring it is, that as the direct tendency of the evidence is to impeach his veracity, common justice requires that by first calling his attention to the subject, he should have an opportunity to recollect the facts, and, if necessary, to correct the statements already given, as well as by a reexamination to explain the nature, meaning, and design of what he is proved elsewhere to have said. 1 Green Ev §§ 462-463. It is essentially a rule of protection to the witness sought to be discredited, and ought not to be extended so far as to become a convenient shield for his iniquity. If he answers that he does not recollect having made the statements imputed to him, they may still be susceptible of such proof as, if received, would make this very answer more effective to discredit him, than the contradictory statements themselves. And there is no great hardship, to an honest witness, in allowing the evidence to he gone into after such a reply, for he has an ample opportunity to explain on his reexamination. We do not therefore think it either necessary or safe to require in all cases an express denial. If we do, a witness can never be discredited when he says he does not remember.” Smith v People, 2 Mich 415, 417-418 (1852).
+Later cases strengthen this holding, Higdon v Kelley, 339 Mich 209, 217 (1954), quotes with approval Hickory v United States, 151 US 303, 309; 14 S Ct 334, 336; 38 L Ed 170, 174 (1893).
+"When a party is taken by surprise by the evidence of his witness, the latter may be interrogated as to inconsistent statements previously made by him for the purpose of refreshing his recollection and inducing him to correct his testimony; and the party so surprised may also show the facts to be otherwise than as stated, although this incidently tends to discredit the witness.” See also Higgins v Monroe Evening News, 42 Mich App 301 (1972).
+For the effect of very recently decided Hileman v Indreica, 385 Mich 1 (1971), and illuminating comments on the distinction between impeachment and "jogging memory” the interested may refer to 18 Wayne L Rev 101, 108-112 (1971).
+We deem it unwise in this case to write extensively to this point. Kent was a res gestae witness and could have been impeached by the prosecution in any event.
+The other substantial error claimed is the admissibility of hearsay testimony. It would prolong this opinion unduly to review the whole fact situation which gave rise to the remark which was admitted. It was ascribed to a witness who did not testify, and what she was supposed to have said was repeated by another witness. The witness testifying claimed that after the double killing when all of the involved people reassembled at a different location, defendant Brown, without saying anything, held up three fingers. The witness Harris asked another woman present what the gesture or sign meant. The third person is supposed to have said "three of them were dead”. If there is such a thing as triple hearsay this would be a prime example thereof. It was error. The prosecution should not have asked the question. Too often overzealousness on the part of the prosecution can give rise to error that vitiates an otherwise well prepared and presented case. The trial court should not have admitted it, although objection thereto was made only by counsel for one defendant.
+The error is not reversible. As to two defendants it was waived for failure to object. As to the effect of its admission on the total case it could not have been particularly damaging. Two people had been deliberately killed, perhaps executed is the better word.
+It is the settled public policy of this state by legislative enactment and the judicial policy by court rule that no judgment of conviction shall be set aside for the erroneous admission of evidence, absent a miscarriage of justice. We add, of course, that there can be instances when such an error can rise to the stature of denial of due process by denying the defendant a fair and impartial trial. The whole record in this case suggests neither. The other indicia of guilt were so strong we are not moved to hold this error reversible.
+We have reviewed the other assignments of error and find none which would support a reversal of the jury verdict.
+Affirmed.
+All concurred.
+Smith v People, 2 Mich 415 (1852).
+We are not unaware of the dicta in People v Durkee, 369 Mich 618 (1963), cited by the majority in Hill v Harbor Steel & Supply Corp, 374 Mich 194 (1965). However, the considered weight of authority is to the contrary. See Pringle v Miller, 111 Mich 663 (1897); Anthony v Cass County Home Telephone Co 165 Mich 388 (1911); Rodgers v Blandon, 294 Mich 699 (1940); Osberry v Watters, 7 Mich App 258 (1967); People v Graves, 15 Mich App 244 (1968); People v Dozier, 22 Mich App 528 (1970); 1 Gillespie, Michigan Criminal Law & Procedure (2d ed), § 438, p 540; McCormick, Evidence (2d ed), § 37, p 72; 4 Jones, Evidence (5th ed), § 937, p 1766; 3A Wigmore, Evidence (Chadbourne rev 1970), § 1037, p 1043.
+MCLA 769.26; MSA 28.1096; GCR 1963, 529.
