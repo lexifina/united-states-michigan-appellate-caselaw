@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "15588"
 decided: "1973-11-29"
-citations: ["50 Mich. App. 630", "53 Mich. App. 399"]
+citations: ["50 Mich. App. 630"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v HABEL"]
 source_url: "https://static.case.law/mich-app/50/cases/0630-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2102875
-cites_cases: ["10 L Ed 2d 1052", "190 NW2d 701", "202 NW2d 450", "210 NW 2d 336", "210 NW2d 336", "213 NW2d 822", "220 NW2d 76", "241 NW 144", "257 Mich 297", "287 US 435", "313 F2d 641", "34 Mich App 45", "346 F2d 861", "356 US 369", "374 US 829", "390 Mich 7", "411 US 423", "42 Mich App 492", "50 Mich App 630", "53 Mich App 443", "83 S Ct 1870"]
+cites_cases: ["10 L Ed 2d 1052", "190 NW2d 701", "202 NW2d 450", "210 NW2d 336", "241 NW 144", "257 Mich 297", "313 F2d 641", "34 Mich App 45", "346 F2d 861", "374 US 829", "390 Mich 7", "411 US 423", "42 Mich App 492", "83 S Ct 1870"]
 ---
 
 # People v. Habel
