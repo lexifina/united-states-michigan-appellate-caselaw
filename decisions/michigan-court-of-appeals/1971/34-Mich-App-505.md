@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "10262"
+decided: "1971-06-24"
+citations: ["34 Mich. App. 505"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Y. J. Brennan, P. J., and J. H. Gillis and T. M. Burns, JJ.", "All concurred."]
+parties: ["MICHIGAN RURAL DEVELOPMENT, INC., v. EL MAC HILLS RESORT, INC."]
+source_url: "https://static.case.law/mich-app/34/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2094427
+cites_cases: ["241 Mich 446", "263 Mich 371", "271 Mich 304", "366 Mich 313"]
+---
+
+# Michigan Rural Development, Inc. v. El Mac Hills Resort, Inc.
+
+## Majority (V. J. Brennan, P. J.)
+
+V. J. Brennan, P. J.
+This suit arises out of an action to rescind a certain contract. From an order denying their motion for accelerated judgment, defendants bring this appeal.
+On March 25, 1970, plaintiff, a Michigan corporation, commenced the present action seeking recision, damages, and other relief against defendants. At the time the cause of action arose and at the time suit was commenced, the plaintiff was a corporation in good standing and was current in filing its annual reports and paying its annual privilege fees. On July 30, 1970, defendants moved for accelerated judgment on the ground that plaintiff lacked the legal capacity to maintain the action, because it had been delinquent for a period of more than ten days in paying its annual privilege fees and in filing its annual report, both being due May 15th. The court announced that it had not had an opportunity to review the motion and that it intended to adjourn the hearing for one week. At the same time plaintiff requested an adjournment because of the unavailability of plaintiff’s principal counsel. Defendants vigorously objected to an adjournment on the ground that plaintiff was attempting to correct its defective standing, and with an adjournment, might avoid the impact of defendants’ motion. The court granted the adjournment.
+At the hearing on the motion, plaintiff submitted proof that all reports had been filed and all fees had been paid. The motion for accelerated judgment was denied and the defendants were granted leave to file this interlocutory appeal.
+The key to decision of the present case lies in the proper interpretation of § 87 of the corporation code. MCLA § 450.87 (Stat Ann 1963 Rev § 21.87), provides:
+“(1) If any corporation neglects or refuses to make and file the reports and/or pay any fees required by this act within the time herein specified, and shall continue in default for 10 days thereafter, unless the secretary of state shall for good cause shown extend the time for the filing of such report or the payment of such fee, as the case may be, as provided in section 91 of this act, and (2) if such corporation shall continue in default for 10 days after the expiration of such extension, its corporate powers shall be suspended thereafter, until it shall file such report, and it shall not maintain any action or suit in any court of this state upon any contract entered into during the time of such default. (Emphasis supplied.)
+Since plaintiff was in good standing at the time that the contract which was the subject of the suit was made, we are concerned only with that part of § 87 which suspends corporate powers until compliance.
+It has been held that one of the corporate powers which is suspended by this section is the power to sue, and it has been further held that the power to sue includes as well the power to continue legal proceedings to conclusion. Motor City Engineering Co. v. Fred E. Holmes Co. (1928), 241 Mich 446. The question thus becomes: once the opposing party files a timely motion seeking judgment in a pending lawsuit based upon suspension of a corporation’s powers under § 87, is that corporation entitled to cure the default prior to the hearing on the motion and proceed with the trial?
+In effect, defendants argue that the purpose of suspending a corporation’s powers is penal in nature and that to allow the corporation to cure the defect after a timely motion is filed is to impose no penalty at all. Plaintiff argues that the purpose of the statute is to motivate a reluctant corporation to comply with its statutory duties and that where this is done prior to a dismissal of a suit, the purpose of the statute has been accomplished and there is no longer any need to penalize the corporation. We agree with the plaintiff.
+Although the language of the statute does not answer our question directly, we feel that the portion relevant to our case is aimed more at persuading a corporation to comply with its reporting and privilege fee duties than at penalizing it. In § 87, the Legislature has set forth two consequences which flow from failure to pay privilege fees or file an annual return: 1.) all corporate powers are suspended; 2.) any contract entered into while the default continues is thereafter unenforceable by the corporation. The contrast between these two consequences is significant. The latter punishes a particular corporate act regardless of later compliance. It is strictly a punitive provision. Industrial Coordinators, Inc. v. Artco, Inc. (1962), 366 Mich 313. The former is an all-inclusive reference to the powers of a corporation; its effect lasts only until the corporation acts to cure it. It follows, we think, that the provision suspending the powers of a corporation was intended by the Legislature merely to enforce payment of fees and compel compliance with statutory duties. As a result, where a corporation has cured its default, whether due to pressure caused by inability to proceed with a lawsuit or by inability to exercise some other corporate power, the purposes of the statute have been fulfilled and no further sanction is necessary. We hold, therefore, that a corporation is entitled to proceed with a pending lawsuit if it cures its default at any time prior to actual dismissal of the suit. This holding appears to be in accord with a majority of the jurisdictions which have passed on the subject. See 9 Fletcher Cyclopedia Corporations (1964 Rev), §4272, and cases cited therein.
+Contrary to defendants’ contentions, the case of Industrial Coordinators, Inc. v. Artco, Inc., supra, does not require a different result. In that case, the Court had before it the situation where the motion to dismiss was made after the corporation had cured its default. Furthermore the language in that case relied on by defendants does not answer the problem presented here. The statement that a motion to dismiss made before cure would be “within the terms of the statute” does not indicate what result would flow if the corporation cured the default prior to an actual dismissal.
+For the foregoing reasons, the judgment of the cir cuit court is affirmed.
+Affirmed.
+All concurred.
+GCR 1963, 116.
+“The suspension here intended is to deny to the corporation the benefit of the use of its powers until the default is cured. So, a corporation cannot carry on a suit while it is in default if the defense is raised (Meldman Cartage Co. v. Fruehauf Trailer Co. [1935], 271 Mich 304), but once the default has been corrected, there is no bar to the action. Eagle Oil Corp. v. Cohassett Oil Corp. [1933], 263 Mich 371.
+“If defendant’s motion to dismiss had been filed between June 7, 1960, and June 20, 1960, it would have been within the terms of the statute.” (p 317.)
