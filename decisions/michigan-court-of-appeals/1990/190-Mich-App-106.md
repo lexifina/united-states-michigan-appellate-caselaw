@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "115768"
+decided: "1990-12-27"
+citations: ["190 Mich. App. 106"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, Jr., P.J., and Cynar and Weaver, JJ."]
+parties: ["MAIZE v STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY"]
+source_url: "https://static.case.law/mich-app/190/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2327525
+cites_cases: ["160 Mich App 728", "167 Mich App 672", "168 Mich App 619", "292 NW2d 880", "408 Mich 579", "408 NW2d 536", "423 NW2d 311", "425 NW2d 480"]
+---
+
+# Maize v. State Farm Mutual Automobile Insurance
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right an order of the Macomb Circuit Court granting defendant’s motion for summary disposition pursuant to MGR 2.116(0(10). In a written opinion and order, the trial court found that plaintiffs claim that an implied contract prevented defendant from terminating plaintiffs employment except for good cause could not be supported at trial. Further, even if such a contract could be found, the court found that defendant had produced ample evidence that it had cause to discharge plaintiff. We affirm-
+Plaintiff’s complaint alleged, among other things, that contrary to defendant’s oral and written representations that plaintiff would be discharged only for just cause, defendant terminated plaintiff’s employment on September 7, 1984. Defendant moved for summary disposition pursuant to MCR 2.116(C)(8), (10). In support of its motion, defendant offered plaintiff’s deposition testimony that, while duck hunting in the late 1960s, plaintiff asked his supervisor if turning down a promotion would hurt his job security with defendant. His supervisor stated that as long as plaintiff did his job, he could stay in the field and have a job with defendant.
+Plaintiff’s duties as a claims specialist included preparing a preliminary bodily injury report within five days of an accident and preparing a claim liability report within thirty days of assignment. Although plaintiff was aware that failure to process claims in a timely manner could subject defendant to liability, his reports were periodically late, and this problem was noted by and discussed with his supervisor. Plaintiff also received memoranda from his supervisor concerning the lateness of his reports and was warned that he could be disciplined for this problem. The problem was noted on plaintiff’s performance evaluations.
+In July 1984, plaintiff was warned to bring his work up to the expected standard or his job would be in jeopardy, and on August 10, 1984, he received a memorandum from his supervisor concerning problems with certain files and his late reports. Defendant was given thirty days to bring his files up to the expected level. Plaintiff failed to achieve this goal. Between August 10 and September 7, 1984, plaintiff failed to submit twenty or thirty reports to his supervisor by the date specified. Although plaintiff was aware he could be fired immediately for insubordination, he was given at least two warnings by his supervisor before termination.
+The sole issue presented in plaintiff’s appeal is whether the trial court improperly granted defendant’s summary disposition motion by failing to take every inference in plaintiff’s favor and improperly deciding factual issues in defendant’s favor. We find that summary disposition was properly granted.
+A summary disposition motion under MCR 2.116(0(10), lack of a genuine issue of material fact, tests whether there is factual support for the claim. The court must consider the pleadings, affidavits, depositions, admissions, and other documentary evidence available to it. Dumas v Auto Club Ins Ass'n, 168 Mich App 619, 626; 425 NW2d 480 (1988). Giving the benefit of any reasonable doubt to the nonmoving party, the court must determine whether the type of record which might be developed would leave open an issue upon which reasonable minds might differ. Fulton v Pontiac General Hosp, 160 Mich App 728, 735; 408 NW2d 536 (1987).
+The plaintiff argues that, pursuant to Toussaint v Blue Cross & Blue Shield of Michigan, 408 Mich 579; 292 NW2d 880 (1980), rights enforceable in contract arose as a result of his supervisor’s statements while duck hunting. Plaintiff argues that the trial court improperly characterized the supervisor’s statement as "vague reassurance given in a social conversation,” urging this Court to hold that MCR 2.116(0(10) would require the trial court to infer that these statements were more than casual conversation. This we cannot do.
+A provision that an employee shall not be discharged except for cause may become part of an employment contract "either by express agreement, oral or written, or as a result of an employee’s legitimate expectations grounded in an employer’s policy statements.” Toussaint, supra, p 598.
+While we agree with plaintiff that a trial court, when deciding a motion under MCR 2.116(0(10), is obligated to give the nonmoving party the benefit of any reasonable doubt, it is highly unlikely that any reasonable person would have a "legitimate expectation” of an employment contract terminable only for just cause arising out of a few words of encouragement uttered while duck hunting.
+Moreover, if it were reasonable to find such a legitimate expectation, plaintiff’s own deposition testimony established that he knew his work was subject to deadlines and that failure to meet these deadlines would result in disciplinary action. The record further evidences the warnings given plaintiff that he had failed to meet deadlines and had thirty days to bring his work up to date. Yet, despite such warnings, between August 10 and September 7, 1984, plaintiff failed to meet the specified deadlines. Although plaintiff attempts to raise a question of fact by showing that his reports were dictated before the due dates specified in his supervisor’s memos, the record shows his supervisor wrote the memos after the reports were already overdue. Furthermore, plaintiff freely concedes that on two occasions the reports were not dictated by the specified due dates.
+Therefore, there was no genuine issue of material fact that plaintiffs employment was terminated because of his repeated failure to meet deadlines. Further, there was no genuine issue of material fact that repeated failure to meet deadlines constituted just cause for dismissal.
+Plaintiff also attempts to raise a question of fact by positing that he was in fact terminated for complaining to his supervisor’s superior about his increased work load. Plaintiff did not, however, raise this issue before the trial court, and issues never decided by the trial court are not preserved for appeal. Joe Dwyer, Inc v Jaguar Cars, Inc, 167 Mich App 672, 685; 423 NW2d 311 (1988).
+Affirmed.
