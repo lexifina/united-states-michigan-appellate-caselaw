@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "6,733"
+decided: "1970-01-28"
+citations: ["21 Mich. App. 172"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: V. J. Brennan, P. J., and B. B. Burns and T. M. Burns, JJ."]
+parties: ["ROSE v. FULLER"]
+source_url: "https://static.case.law/mich-app/21/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2079629
+cites_cases: ["2 Mich App 614", "331 Mich 49", "348 Mich 8", "363 Mich 354", "376 Mich 167", "384 Mich 751", "4 Mich App 52", "6 Mich App 283", "8 Mich App 439"]
+---
+
+# Rose v. Fuller
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff instituted this action in circuit court, alleging that title to Lot # 56 of St. Hubert’s Subdivision belonged to her through adverse possession. Plaintiff is the undisputed owner of a rectangular 80 acres of land immediately adjacent to the disputed Lot # 56. The complaint sets forth that plaintiff and her predecessors in title have been in exclusive possession of these premises (Lot # 56) under a continuous chain of title since 1902; that they have fenced, enclosed, farmed and grazed said premises since that date, thereby vesting in plaintiff a title in fee to said lands, which is superior to any right or title claimed by any defendant or any other person. Defendants are the legal title holders to the land and deny that plaintiff has fulfilled the necessary and legal elements to gain title through adverse possession. After a trial on the merits, and personal inspection of the premises, the trial court, acting without a jury, found that a portion of Lot # 56, the center cleared area, belonged to plaintiff in fee, through adverse possession. Defendants appeal, contending that plaintiff failed to prove by a preponderance of evidence any occupancy which was actually open, notorious, exclusive, continuous with hostile intent, under a claim of right, and that such occupancy had existed for the statutory period of 15 years.
+This Court is asked whether there was, in fact, sufficient and credible evidence to sustain the findings of fact made by the trial court.
+Adverse possession must be established by clear and cogent proof of possession that is actual, visible, open, notorious, exclusive, continuous, and uninterrupted for the statutory period of 15 years, hostile and under cover of a claim of right. Burns v. Foster (1957), 348 Mich 8.
+In order to support a claim of title by adverse possession, acts of possession must be open and of a hostile character, but it is sufficient if the acts of ownership are of such character as to indicate openly and publicly an assumed control or use such as is consistent with the character of the premises in question. Monroe v. Rawlings (1951), 331 Mich 49; Denison v. Deam (1967), 8 Mich App 439.
+The land in this case was, for the most part, wild and wooded, except a cleared center part. As to this portion, evidence was produced at trial which, if believed, would satisfy the required elements of actual, visible, open and notorious acts of ownership and of occupancy, sufficient to notify the title owner of an adverse claim. Testimony of witnesses estab; lishes that the disputed parcel had been fenced by plaintiff’s predecessors in title, cattle and horses were pastured thereon, crops had been raised and harvested, and, more recently, gravel had been mined up to, and possibly including part of, the disputed area by a lessee of the plaintiff. These are all acts of ownership which are inconsistent with the possessory interests of the title owner and disclose an intent and claim to use and occupy the land as an adverse owner. All of these activities were plainly visible, open, notorious and hostile; circumstances from which the owners ought to have known or could have known of the adverse possession.
+There is ample record support for the trial court’s determination that plaintiff had sustained the burden of proof necessary on the questions of adverse occupancy and available notice in perfecting a valid adverse possession claim.
+Defendant contends that plaintiff’s adverse holding was less than the required 15 years. There is evidence that defendant Syers received a deed to the disputed land on September 9, 1965; that he entered the land thereafter; and that, having title and also being a lessee of the premises, he could not hold adversely against himself for the period from September 9, 1965, to September 28, 1965, when the necessary 15 years would have expired. On the other hand, there is evidence which discloses that the deed to Syers was not recorded until December, 1965, and that no entry on the premises was made by S3mrs until after September 28, 1965. The court held, as a matter of fact, that the statutory 15 years had run.
+The defense of laches for nonassertion of adverse title, from 1902 to 1965, is unpersuasive. Laches is an affirmative defense which depends not merely on lapse of time but principally on the requisites of intervening circumstances, which would render inequitable any grant of relief to a dilatory plaintiff. Lewis v. Poel (1965), 376 Mich 167. No significant change of position to the detriment of defendant is in evidence. In instituting this action within a few months of defendant Syers’ entry, plaintiff was not dilatory. Under these circumstances, there are insufficient facts upon which to found an equitable defense of laches.
+Determination of what acts or uses are sufficient to constitute adverse possession depends upon the facts in each case, and to a large extent upon the character of the premises. Whitehall Leather Company v. Capek (1966), 4 Mich App 52. Where evidence is disputed and conflicting, the court is required to make separate findings of fact based upon the testimony, credibility of the witnesses, and apply the law. The record here discloses a detailed separate findings of fact by the trial court.
+Findings of fact shall not be set aside unless clearly erroneous. G-CR 1963, 517.1. An appellate court does not ordinarily disturb the findings of a trial judge in an equity case unless, after an examination of the entire record, the reviewing court concludes that it would have arrived at a different result, had it been in the position of the trial judge, who is in a better position to test the credibility of the witnesses by observing and hearing them in court. Johnson v. Johnson (1961), 363 Mich 354; Wait v. City of Sturgis (1966), 2 Mich App 614; Township of Fruitport v. Baxter (1967), 6 Mich App 283.
+The decision of the trial court, according to the record before us, is based upon sufficient and credible evidence. We do not find the judgment clearly erroneous nor are we convinced that this Court would have reached a different determination if placed in the position of the trial court.
+Affirmed.
+MCLA § 600.5801 (Stat Ann 1962 Rev § 27 A.5801).
