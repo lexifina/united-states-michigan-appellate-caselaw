@@ -1,0 +1,59 @@
+---
+court: "Michigan Court of Appeals"
+docket: "4,366"
+decided: "1968-12-02"
+citations: ["14 Mich. App. 706"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quinn, P. J., and Holbrook, J., concurred."]
+parties: ["ADVANCE DRY WALL COMPANY v. WOLFE-GILCHRIST, INC."]
+source_url: "https://static.case.law/mich-app/14/cases/0706-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2048836
+cites_cases: ["3 Mich App 396", "348 Mich 165"]
+---
+
+# Advance Dry Wall Co. v. Wolfe-Gilchrist, Inc.
+
+## Majority (Vander Wal, J.)
+
+Vander Wal, J.
+Plaintiff filed a bill of complaint on September 11, 1961, in chancery, against Wolfe-Gilchrist, Inc., a Michigan corporation, and Leonard H. Wolfe, Barbara Wolfe, and Julius M< Grossbart, as officers and directors of said Wolf e-Gilchrist, Inc., alleging performance of certain work and labor from January 25, 1957, to March 1, 1958, for the defendant Wolf e-Gilchrist, Inc., and an amount due thereon of $9,339.71. Plaintiff claimed this work was done as a subcontractor under the provisions of the Builders Trust Fund Act, CL 1948, § 570.151 et seq. (Stat Ann 1953 Rev § 26.331 et seq.) and that as such the defendants were charged as trustees for the payment of the account due the plaintiff from the defendant corporation with respect to monies received from the sale of the houses involved. As the court below did not base his judgment on this statute, no further consideration need be given to that part of the case in this opinion.
+In the alternative, plaintiff pleaded that the defendant corporation was insolvent after December 31,1955 and had surrendered its corporate franchise as of December 31, 1956 by the provisions of CLS 1961, § 600.3615 (Stat Ann 1962 Rev § 27A.3615) and that as a result, the individual defendants were accountable to plaintiff as trustees of the remaining assets of the corporation under the provisions of CL 1948, §§450.47, 450.74a, 450.75; CLS 1961, § 450.74 (Stat Ann 1963 Rev §§ 21.47, 21.74, 21.74(1), 21.75).
+After commencement of this action, the court appointed a receiver of the assets of Wolf e-Gilchrist, Inc., and the receiver filed a report on June 14,1965, which report, among other documents, was admitted in evidence at the time of the trial.
+On February 23, 1967, the circuit judge rendered a judgment in favor of the plaintiff corporation against the defendants Leonard H. Wolfe and Barbara Wolfe, his wife, jointly and severally, in the sum of $13,639.99, together with costs in the amount of $88.
+The individual defendants were the officers and directors of the defunct corporation and plaintiff claims that the defendants held funds in trust for it under CL 1948, §§ 450.74a and 450.75a (Stat Ann 1963 Rev §§ 21.74[1] and 21.75[1]).
+The record shows that the defendants Leonard H. Wolfe and Barbara Wolfe entered their appearance by attorney George J. Fulkerson, and an answer was filed on their behalf; that on September 14, 1965, the defendants Leonard H. Wolfe and Barbara Wolfe were served copies of a petition filed by George J. Fulkerson to withdraw from the case; that on the 20th day of September, 1965, an order to withdraw as attorney for the defendants Leonard H. Wolfe and Barbara Wolfe was signed by the circuit judge, and that in the same order the trial court set the case for trial for October 21, 1965, at 9 o’clock in the forenoon. The order further provided that any further notice of proceedings in this case, with respect to Leonard H. Wolfe and Barbara Wolfe, be by service upon Leonard H. Wolfe and Barbara Wolfe at 30821 Franklin Rd., Franklin, Michigan, their residence. After that time neither defendant, Leonard H. Wolfe nor Barbara Wolfe, entered an appearance in propria persona. The case was not heard on October 21, 1965.
+The case did come on for trial February 16, 1967. No written notice of trial was mailed to the defendants, but notice was given to them by telephone to appear on February 16, 1967, for trial. On February 16, 1967, Leonard H. Wolfe, Julius Grossbart, and plaintiff’s attorney were present. Defendant Barbara Wolfe did not appear.
+After some discussion with the court in chambers, the following took place in open court:
+“The Court: But, Mr. Wolfe, I told you in chambers and I tell you here in the open court that you ought to give very careful consideration to employing counsel to represent you. You have a right, under the constitution, to represent yourself, but you can’t represent your wife. You must know that, and I am telling you that.
+I believe that you expressed to me in chambers that as you viewed the situation now you want counsel. Is that right?
+Mr. Wolfe: Yes, sir.
+The Court: But I cannot allow any long adjournment for that purpose. This case has been pending-far, far, too long in courts.
+Now the court on its own motion is going to continue this case until Tuesday morning; at which time, if it isn’t settled, we will begin the trial without fail, because the trial was supposed to have begun today.
+You can tell him that you are already committed to this court, that this case was continued until Tuesday morning.
+You had better get yourself a lawyer.
+Mr. Wolfe: I was going to say the fact that the case is so complicated, it doesn’t give me very much time. Also I have a commitment to be in New York.
+The Court: You will have to let that go. Now gentlemen, this isn’t a request, I am ordering- you to be back here Tuesday morning at 9:00 o’clock for this trial.
+This case now stands adjourned until Tuesday morning at 9:00 o’clock.” (2/21/67)
+On February 21, 1967, neither Leonard H. Wolfe nor Barbara Wolfe appeared and a default judgment was entered pursuant to GCR 1963, 506.6(2). On March 13, 1967, attorney George J. Fulkerson filed a motion for a new trial on behalf of Leonard Ii. Wolfe, which motion was denied.
+The defendants’ grounds for appeal may be reduced to 4 issues:
+1. Did the lower court have authority to grant the relief sought by the plaintiff?
+2. Was there sufficient evidence to sustain the judgment?
+3. Did the lower court err in granting judgment when plaintiff’s proofs failed to conform with its complaint?
+4. Did the lower court fail to comply with the Michigan Court Rules as to proper notice to be given defendants, thereby depriving them of due process of law?
+At the hearing held on February 21,1967, plaintiff presented the following proofs on the record: that the work was done for and on behalf of the defendants by Advance Dry Wall’s predecessor, a co-partnership ; that the amount unpaid thereon was $9,339.71. The 1959 annual report of WolfeGrilchrist, Inc. was received in evidence. This report shows that both Barbara and Leonard H. Wolfe were directors and that the corporation had assets of $43,022.98 and liabilities of $154,148.18 on March 31, 1959.
+The receiver’s report was received in evidence; it is dated June 11, 1965, and stated that the receiver, “ * * * is unable to determine the exact amount of the assets of the corporation.”, but his report expressly states that Wolf e-Gilchrist, Inc. either had a large interest in land or $47,000 coming from the officers and directors. This report showed the corporation had assets of $132,107.46 and liabilities of $197,747.86 as of March 31, 1959. There was also testimony given by the president of the plaintiff substantiating the claim of the plaintiff.
+Therefore, in answer to the first 2 issues, whether the lower court had the authority, and whether there was sufficient evidence to sustain the judgment, the record is clear that the court had the authority to grant the relief under CLS 1961, § 450.74 and CL 1948, §§ 450.74a, 450.75, and 450.75a and that there was substantial evidence to sustain the judgment.
+This Court further finds that the granting of the judgment was consistent with the prayer for relief because in its complaint the plaintiff asks that the defendants account for all monies, property, or other assets received by them from any transactions by and in the name of Wolf e-Gilchrist, Inc., and asks for a complete accounting’ of the same and that the plaintiff may have such other and further relief that would be agreeable to equity and good conscience. The shape of relief in equity is not of necessity controlled by the prayer, but is formed by the court according to the g'ermane conditions and equities existing at the time decree is made. Carlson v. Williams (1957), 348 Mich 165.
+The only question that remains is, did the lower court fail to give to these defendants proper notice of the proceedings and thus deprive them of due process of law.
+GCR 1963, 501.4 does not require a 10 days notice for trial as claimed by the defendants. There may be some question as to whether the defendants were entitled to further notice because they did not enter an appearance in propria persona after their attorney had withdrawn. See Rhoades v. Rhoades (1966), 3 Mich App 396. However, it is unnecessary to determine that. By appearing on February 16, 1967, the defendant Leonard H. Wolfe waived any further notice requirement. He was informed by the court on that day that the trial was continued until the following Tuesday, February 21, 1967, and that he should return at that time for the tidal. He-did not appear as ordered and entry of his default' was a proper sanction under GCB» 1963, 506.6(2).
+Defendants claim that the judgment is invalid because they were not given a 7-day notice as required by GrCE, 1963, 520.2 pertaining to default judgments. However, this rule cannot apply to this situation. The defendant Leonard H. Wolfe had direct notice from the court of the continuance of the trial from the 16th to the 21st. The provisions of 520.2 have no application to this type of default; their application to this type of situation would completely nullify the sanction under the provisions of 506.6(2).
+The record is clear that defendant Leonard H. Wolfe had proper notice of the proceedings, that he appeared in court, that he was ordered to return on the following Tuesday, February 21, 1967, and that he did not appear; that he refused to attend, therefore he must suffer the consequences under rule 506.6(2). As to defendant Leonard H. Wolfe, the judgment is affirmed.
+The record shows that the defendant Barbara Wolfe was not in court on February 16, 1967. The record fails to show that she received any notice of any kind of the proceedings to be held February 21,1967, and therefore her position is much different than that of her husband. The lower court expressly indicated that Leonard H. Wolfe could not represent her, but only himself. There is no evidence that she was either represented or received any notice of the adjournment of the case from February 16 to February 21. The rules as to notice were not properly fulfilled and to allow .the judgment to stand against her would be to deny her due process.
+The judgment against defendant Barbara Wolfe is void and is hereby set aside. Plaintiff may recover its costs.
+Quinn, P. J., and Holbrook, J., concurred.
+Later amended by PA 1966, No 104.
+“Upon the sale of all or substantially all of the assets of any corporation, or the expiration of the term of any corporation by limitation or annulment by forfeiture, or the voluntary dissolution of any corporation, the directors then in office and the survivors of them shall be trustees of the properties of such corporation for the benefit and in behalf of the creditors and shareholders as their respective interests may appear, for the purpose of distributing the same as permitted by law to the creditors and shareholders of such corporation,
+“If the person who fails to attend * * * is a party to the action the court may * * * enter a judgment by default against that party.”
