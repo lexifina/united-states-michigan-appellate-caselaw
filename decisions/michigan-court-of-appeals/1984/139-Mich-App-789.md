@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "73704"
+decided: "1984-12-18"
+citations: ["139 Mich. App. 789"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Beasley, P.J., and Cynar and Shepherd, JJ."]
+parties: ["PEOPLE v DZIUBA"]
+source_url: "https://static.case.law/mich-app/139/cases/0789-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2271267
+cites_cases: ["100 ALR3d 431", "137 Mich App 429", "191 NW2d 355", "1953 PA 232", "1982 PA 314", "1982 PA 458", "358 NW2d 602", "386 Mich 119"]
+---
+
+# People v. Dziuba
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant pled guilty to second-degree murder, MCL 750.317; MSA 28.549, as part of a plea bargain. Defendant was sentenced to life imprisonment. He now appeals his sentence to this Court as of right.
+Defendant claims that he must be resentenced because the trial court erred in interpreting the relevant statutes and concluded that defendnt would be eligible for parole consideration under the lifer law, MCL 791.234(4); MSA 28.2304. Defendant relies in large part on an opinion by the Attorney General which held that 1978 Initiative Proposal B to amend 1953 PA 232, § 33, MCL 791.233; MSA 28.2303, in effect repealed the "lifer law”, MCL 791.234(4); MSA 28.2304(4). See, OAG, 1979-1980, No 5,583, p 438 (October 16, 1979). Defendant contends that he must be resentenced because the trial judge indicated he expected defendant would be considered for parole under the "lifer law”, MCL 791.234(4); MSA 28.2304(4). Defendant suggests that because OAG, 1979-1980, No 5,583 bars consideration for parole when a life term is imposed, he must be remanded to the trial court to be sentenced to a term of years so that he can be considered for parole in the future.
+Defendant’s reliance on the Attorney General’s opinion to support his appeal for resentencing is misplaced. In People v Waterman, 137 Mich App 429; 358 NW2d 602 (1984), this Court found the Attorney General’s opinion to be in error. This Court held that Proposal B did not repeal the "lifer law”, 1953 PA 232, § 34; MCL 791.234; MSA 28.2304. Therefore the defendant’s case did not need to be remanded for resentencing the defendant to. a term of years. The Waterman panel states that principles of statutory construction required the conclusion that Proposal B did not repeal the lifer law. The express purpose of Proposal B was to amend 1953 PA 232, § 33, being MCL 791.233; MSA 28.2303. The language of Proposal B makes clear that there was no intention to amend the lifer law. Proposal B only amended § 33 so that the allowances for good time, special good time and special parole in subsection (b) of § 33 were repealed. We agree with the Waterman panel that repeal of the lifer law by implication cannot be found here. The trial court reached the same conclusion:
+"I make the statement for the record so any reviewing court will know, in my opinion, a person now sentenced to a life sentence other than for first-degree murder or a major controlled substance offense is eligible for parole after ten calendar years. It wouldn’t make sense now that there are sentence credits available under what used to be Proposal B offenses, it wouldn’t make sense * * * to use the reasoning that the Attorney General used * * * in analyzing the affect [sic] of Proposal B * * *. So, I think the reasoning would no longer apply.
+"But I think it more appropriate to impose a life sentence with the understanding that — not that Mr. Dziuba ought to be paroled in ten years at all but at least that the department would have the opportunity to look at it and to make — parole board would have an opportunity to make some judgments on his conviction at that time.
+"I’ll also indicate that if the — if a reviewing court believes that I am wrong in my analysis of the effect of the — of a life sentence in terms of eligibility for parole, if I thought I was wrong, I would right now impose a — a sentence with a minimum of 20 years and a maximum of 165 years.”
+We agree with the trial court that defendant’s life term does not bar later consideration for parole under the "lifer law”, MCL 791.234; MSA 28.2304.
+Our conclusion is buttressed by considerations other than those stated in Waterman, supra. First, we note that § 33 and § 34 were both enacted as part of 1953 PA 232. Thus the sections must be harmonized if possible and each word given effect. Stowers v Wolodzko, 386 Mich 119; 191 NW2d 355 (1971); 2A Sutherland, Statutory Construction (3d ed), § 46.06, p 63. The original enactment of § 33 stated that no prisoner shall be granted parole "until he has served the minimum term”. Nonetheless § 34 of the same enactment contemplates consideration for parole after 10 calendar years when a life sentence was imposed (excluding life sentences for first-degree murder). This by inference negates the Attorney General’s opinion that the minimum term of a life séntence is, in effect, life imprisonment. To give the words the effect proposed by the Attorney General would result in an interpretation of the statute which would imply an inconsistency in the statute at the statute’s inception.
+We also note that MCL 791.233; MSA 28.2303 was amended after Proposal B went into effect by 1982 PA 458. The amendment made by 1982 PA 458 suggests that a defendant sentenced to life imprisonment, except for first-degree murder or a major drug offense, may become eligible for parole consideration under the lifer law, MCL 791.234; MSA 28.2304, after ten calendar years of imprisonment. A third point is that the lifer law, MCL 791.234; MSA 28.2304, was amended after Proposal B was passed and the lifer law was left essentially intact. See 1982 PA 314. This fact leads us to conclude that the lifer law was, indeed, unaffected by Proposal B because the Legislature had the opportunity to change the lifer law and eliminate consideration for parole after ten years but declined to do so. We thus conclude for these reasons and for the reasons advanced by the Waterman panel that defendant need not be resentenced because he will be eligible for parole consideration, as the trial court believed, under the lifer law after serving ten calendar years. Defendant’s sentence is therefore affirmed.
+Affirmed.
