@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "24393"
+decided: "1976-01-08"
+citations: ["66 Mich. App. 616"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: McGregor, P. J., and T. M. Burns and N. J. Kaufman, JJ."]
+parties: ["PEOPLE v ADAMS"]
+source_url: "https://static.case.law/mich-app/66/cases/0616-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2149554
+cites_cases: ["15 Mich App 600", "167 NW2d 107", "202 NW2d 450", "211 NW 23", "211 NW2d 51", "218 NW2d 655", "219 NW2d 792", "221 NW2d 452", "227 NW2d 228", "236 Mich 595", "327 Mich 718", "391 Mich 618", "396 Mich 849", "42 Mich App 492", "42 NW2d 834", "48 Mich App 622", "53 Mich App 407", "54 Mich App 678", "58 Mich App 60"]
+---
+
+# People v. Adams
+
+## Majority (McGregor, P. J.)
+
+McGregor, P. J.
+Defendant, Robert Neil Adams, was convicted by a jury of both robbery armed (MCLA 750.529; MSA 28.797) and assault with intent to commit gross indecency (MCLA 750.85; MSA 28.280). He was subsequently sentenced to a term of 40 to 60 years in prison on the first charge and to a concurrent term of 6 to 10 years on the second. He now appeals both convictions as a matter of right.
+Defendant’s first claim on appeal relates to the alibi instruction given by the trial court. Preliminarily, we note that the defense counsel at trial did not object to the instruction in question and, in fact, expressed satisfaction with it. Thus, the giving of an erroneous instruction would not warrant reversal, absent a showing of manifest injustice. People v Spaulding, 42 Mich App 492; 202 NW2d 450 (1972). The trial court’s instruction was as follows:
+"As to alibi. One of the defenses raised in this case is what the law considers as an alibi. That is that the defendant was at another place at the time of the commission of the crime.
+"I instruct you that such defense is as proper and as legitimate as any other and all of the evidence and burden upon that point should be carefully considered by the jury.
+"If in view of the evidence, the jury has a reasonable doubt as to whether the defendant was at some other place at the time the crime was committed, they should give the defendant the benefit of any doubt and find him not guilty.
+"Now, the defendant is not required to prove that defense beyond a reasonable doubt.”
+Defendant claims that this instruction mandates reversal for two reasons: First, it is contended that the instruction was erroneous based upon People v Erb, 48 Mich App 622; 211 NW2d 51 (1973), in that it failed to inform the jury of both avenues of relief offered by the alibi defense. In Erb, p 630, we stated:
+"An instruction to the jury concerning the defense of alibi must clearly explain that this defense offers two avenues of relief for the defendant. First, if the alibi is established, a perfect defense has been shown and the defendant should accordingly be acquitted. Alternatively and, perhaps, more importantly, the instruction must clearly indicate that if any reasonable doubt exists as to the presence of the defendant at the scene of the crime then, also, the defendant should be acquitted. People v Virgil Brown, 15 Mich App 600, 605-606; 167 NW2d 107, 110 (1969), People v Loudenslager, 327 Mich 718, 726; 42 NW2d 834, 837 (1950).”
+In the present case, the court did instruct on the "reasonable doubt” aspect of the defense but did not mention the "perfect defense” avenue. This second avenue, in effect, informs the jury that if they believe a defendant’s evidence, then the alibi defense is absolute and they must find the defendant not guilty. Viewed in this light, the "perfect defense” avenue can be considered as a logical extension of the "reasonable doubt” standard, since a jury’s finding that a defendant was somewhere else would by necessity also raise a reasonable doubt as to his presence at the scene of the crime. Contrariwise, if the jury found that the evidence did not establish the "perfect defense”, they could nevertheless still find the evidence sufficient to raise a reasonable doubt as to the defendant’s whereabouts at the time in question.
+Applying these factors to the present case, we find that the above instruction, albeit erroneous, does not warrant a reversal on this ground.
+As previously noted, a jury finding that the greater "perfect defense” aspect existed would by definition also require a finding that the lesser "reasonable doubt” standard existed, but not vice versa. Thus, a jury instruction which stresses only the lesser standard does not prejudice a defendant to the same degree as would an instruction stressing only the greater standard, since a finding by a jury of the lesser is all that is necessary in order to reach a verdict of not guilty. Consequently, the failure to instruct on the greater, at least in the absence of an objection, does not result in sufficient prejudice to constitute a showing of manifest injustice.
+Secondly, defendant directs our attention to the last sentence of the above quoted instruction and contends that it erroneously suggests that the burden is on the defendant to prove his alibi by a preponderance of the evidence, when all that he need do is raise a reasonable doubt thereof. In so contending, the defendant ignores the clear impact of the immediately preceding paragraph. This announcement of the trial court correctly advised the jury that, should any reasonable doubt exist as to the presence of the defendant at the scene of the crime, they should return a verdict of not guilty.
+The Supreme Court was faced with a similar "shifting of the burden” argument in People v Lee, 391 Mich 618, 641; 218 NW2d 655 (1974). There, Justice Williams stated:
+"In the continuation of the instruction, after the statement objected to, the court pointed out that 'the benefit of any doubt’ (emphasis added) should be accorded to the defendant. Therefore, the charge properly indicated that the defendant need not fully establish an alibi to have the beneñt thereof, in rebuttal of the proofs of the prosecution. Testimony in support of an alibi need accomplish no more than raise a reasonable doubt of defendant’s presence at the time and place of the commission of the crime charged. See People v Marvill, 236 Mich 595, 597; 211 NW 23 (1926).
+"The issue presented to the jury was one of credibility. Taking the charge as a whole, we are persuaded that the jury understood that its task was to determine whether the alibi testimony created sufficient doubt that it could not ñnd the defendant guilty of the robbery charged 'beyond a reasonable doubt’. The jury elected to believe the testimony of the complaining witness. We find that there was sufficient evidence in the record upon which the jury could reasonably have based its judgment of guilt.” (Emphasis added.)
+So, also, we find that in spite of the awkward language, the present instruction, when viewed in its totality, adequately informed the jury of their task and did not have the effect of shifting the burden of proof to the defendant. Moreover, we further note that the Lee court held that, since the defendant’s counsel had failed to object to the given instruction, the issue was not properly preserved on appeal and, therefore, could not furnish reversible error. The same reasoning can be applied to the facts in the instant case. Thus, for all the reasons above stated, we hold that the trial court’s instruction on the alibi defense in the present case does not justify the reversal of defendant’s conviction.
+We have carefully examined the other two issues raised by the defendant and have found neither to be reversible error.
+Affirmed.
+People v McShan, 53 Mich App 407; 219 NW2d 792 (1974), People v William Johnson, 54 Mich App 678; 221 NW2d 452 (1974), and People v John Johnson, 58 Mich App 60; 227 NW2d 228 (1975), are distinguishable in that those cases involved alibi instructions which informed the jury of the greater standard but failed to mention the lesser and more important "reasonable doubt” standard.
