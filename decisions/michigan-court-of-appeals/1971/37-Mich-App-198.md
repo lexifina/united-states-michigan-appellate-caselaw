@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9741"
+decided: "1971-11-24"
+citations: ["37 Mich. App. 198"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J., and Holbrook and Van Valkenbtjrg, JJ."]
+parties: ["FISCHER v. LINCOLN TOOL & DIE COMPANY"]
+source_url: "https://static.case.law/mich-app/37/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2086087
+cites_cases: ["172 Neb 609", "177 A2d 186", "182 Mich 20", "1954 PA 175", "2 Mich App 564", "24 Mich App 258", "264 A2d 204", "294 Mich 460", "350 Mich 104", "350 Mich 92", "372 Mich 125", "383 Mich 235", "387 Mich 755", "48 Wis 2d 328", "56 NJ 7", "94 RI 3"]
+---
+
+# Fischer v. Lincoln Tool & Die Co.
+
+## Majority (Pee Cubiam.)
+
+Pee Cubiam.
+This appeal is brought by the employer and its insurance carrier from the decision of the Workmen’s Compensation Appeal Board, which affirmed the award of compensation to an employee injured upon a public sidewalk while on his way to work.
+Defendant’s place of business was located in a substantially residential area and consisted of a small factory and an adjoining residential structure in which patterns were stored. The defendant’s entire business property occupied three adjoining lots fronting upon Trumbull Avenue in Detroit, Michigan. Along the front of this property ran a public sidewalk, while another paved walk connected this passageway with a side entrance to the factory which employees were requested to use. The rear of the lot upon which the residential structure stood was apparently used on occasion for the parking of delivery trucks. No parking facilities were provided for employees, and those who drove to work were expected to park upon the street. On March 3, 1967, plaintiff, an employee of the defendant, drove to work and parked on Trumbull Avenue opposite and slightly to the north of the defendant’s property. The roads and sidewalks were apparently in the typical condition for that time of the year in Michigan, being covered with patches of snow, ice, and slush. Plaintiff alighted from his car, crossed Trumbull, and at some point along the public sidewalk abutting the defendant’s property slipped and fell, severely injuring his leg and hip. The injuries so sustained have apparently disabled plaintiff from further work of like kind to that which he had been performing for the defendant.
+The referee found that plaintiff’s injuries arose out of and in the course of his employment and awarded compensation. The appeal hoard affirmed, partially relying upon Lasiewicki v Tusco Products Co, 372 Mich 125 (1963), and its own interpretation of recent appellate decisions in this area. In affirming the referee, the appeal board found that plaintiff was upon a public sidewalk at the time of his injury. We are bound by this finding. Maki v Hanna Iron Ore Division, 24 Mich App 258 (1970); MCLA 418.861; MSA 17.237(861). Thus the question on appeal is a question of law: Does an employee injured upon a public sidewalk while on his way to work and while within close proximity to the place where he works suffer an injury which is compensable as arising out of and in the course of his employment?
+In 1940 our Supreme Court denied compensation to the widow of a 77-year-old man who injured himself by falling upon an icy sidewalk while his hand crossed over his employer’s property line reaching for the doorknob. Simpson v Lee & Cady, 294 Mich 460 (1940). Obviously if plaintiff’s award is to be upheld in this case, this compelling precedent must be overcome.
+Falls on icy sidewalks are not uncommon occurrences in workmen’s compensation law. In general such accidents are not compensable, as the general rule is that injuries sustained while going to or coming from work do not arise out of or in the course of one’s employment. Some recent cases from other jurisdictions support Michigan’s Simpson decision. Acton v Wymore School District No 114, 172 Neb 609; 111 NW2d 368 (1961); Tromba v Hardwood Mfg. Co., 94 RI 3, 177 A2d 186 (1962); Halama v Dept. of Industry, Labor do Human Relations, 48 Wis 2d 328; 179 NW2d 784 (1970).
+However there are exceptions to this general going to and coming from work rule. One of the most important is recognized in Michigan by statute, MOLA 418.301(2); MSA 17.237 (301 [2]), which provides:
+“Every employee going to or from his work while on the premises where his work is to be performed, and within a reasonable time before and after his working hours, shall be presumed to be in the course of his employment.”
+This language was added to our workmen’s compensation law in 1954, long after the decision in Simpson and substantially before the 1967 accident now under our consideration.
+There has been a sufficient number of cases construing this statute to indicate clearly an intent to interpret its provisions liberally. Freiborg v Chrysler Corporation, 350 Mich 104 (1957); Dyer v Sears, Roebuck & Co, 350 Mich 92 (1957); Lasiewicki v Tusco Products Co, 372 Mich 125 (1963); Jean v Chrysler Corporation, 2 Mich App 564 (1966). Of particular interest is the construction to be given the word “premises” as contained in this act. “Premises” does not equal “property”, and land owned by an employer may or may not be part of the premises, just as land owned by another than the employer might still be considered part of his premises. In Lasiewicki, supra, a portion of a city-owned roadway used and maintained by the employer as a parking lot for its employees was determined to be part of its premises. When, as in this case, the employer espects his workers to park upon the public streets we can see no reason why, by analogy, these two should not be determined to be part of his premises. In Jean, supra, an injury upon a public roadway lying between the employer-owned parking lot and its place of business was held to be compensable. There a workmen’s compensation appeal board opinion awarding compensation to one who slipped and fell upon an icy sidewalk between a parking lot and place of business was cited with approval. Again, by analogy, this present case is indistinguishable. We believe that it would be a poor public policy which would make liable an employer who accommodates his employees by providing them with a parking lot while relieving from liability an employer less concerned with the welfare of his workmen.
+Both Lasiewicki and Jean, supra, quoted with approval the language of Hills v Blair, 182 Mich 20, 27 (1914), that:
+“A workman might be on the premises of another than his employer, or in a public place, and yet be so close to the scene of his labor, within its zone, environments, and hazards, as to be in effect at the place and under the protection of the act.”
+From an analysis of present case law we conclude that “zone, environments and hazards” is substantially what is meant by the word “premises” as contained in the workmen’s compensation act.
+From the above, we can conclude that an employee is protected by the act when he is within said “zone, environments, and hazards”, while arriving at, departing from, or during the time of his employment by travelling his usual, customary and direct route.
+The appellee herein qualifies under the above rule as he was injured on the icy sidewalk abutting his employer’s place of business. This was the conclusion of the appeal board below, which we now affirm.
+This interpretation of the 1954 amendment embraces the liberal spirit previously accorded the workmen’s compensation act.
+Affirmed. Costs to appellee.
+1954 PA 175.
+See Whetro v Awkerman, 383 Mich 235 ((1970), a recent example of the liberal construction given to the workmen’s compensation act in the area, of causality. For a parallel case to the present decision from another state see Hammond v Great Atlantic & Pacific Tea Co, 56 NJ 7; 264 A2d 204 (1970).
