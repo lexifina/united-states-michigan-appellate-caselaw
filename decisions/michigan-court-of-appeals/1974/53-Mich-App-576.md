@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "17385"
+decided: "1974-05-30"
+citations: ["53 Mich. App. 576"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, P. J., and Allen and Van Valkenburg, JJ.", "All concurred."]
+parties: ["PEOPLE v MOOMEY"]
+source_url: "https://static.case.law/mich-app/53/cases/0576-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2135731
+cites_cases: ["104 NW2d 191", "198 NW2d 417", "209 NW2d 693", "212 NW2d 609", "360 Mich 430", "40 Mich App 316", "47 Mich App 548", "49 Mich App 540"]
+---
+
+# People v. Moomey
+
+## Majority (Van Valkenburg, J.)
+
+Van Valkenburg, J.
+Defendant was convicted on his plea of guilty of assault with intent to rob being unarmed, MCLA 750.88; MSA 28.283, was sentenced to a prison term of from 7-1/2 to 15 years and appeals as of right. The sole question on appeal is whether the trial court erred in denying defendant’s request to withdraw his guilty plea, where said request was made prior to the imposition of sentence.
+On March 12, 1973, defendant appeared before the trial court and indicated his desire to enter a plea of guilty to the added count of assault with intent to rob being unarmed, he being charged with assault with intent to rob being armed. The prosecutor indicated his willingness to add the unarmed count and to nolle prosequi the armed count upon acceptance of the plea to the lesser count. After an exemplary explanation of the various rights which defendant would waive by offering his plea and an inquiry as to the voluntariness of the plea, the trial court inquired as to the factual basis of the plea. Defendant made a number of unsuccessful attempts to explain the factual basis of his plea to the satisfaction of the trial court. Despite defense counsel’s attempts to "aid” defendant in establishing á factual basis for his plea, the trial court indicated that he would not accept the plea. While at one point in the plea defendant emphatically stated that he was telling the truth, he later indicated, in answer to a question by defense counsel, that he did not know what he was doing. Defendant also indicated that he was very drunk at the time of the offense.
+Three days later, the day set for trial, defendant again appeared before the trial court and indicated his desire to enter a plea of guilty. The trial court again explained in a most exemplary manner the rights which the plea would waive. The factual basis given by the defendant on this date differed little in terms of content from that given three days earlier, except this time defendant’s statement was concise and devoid of some of the extraneous comments that punctuated the first plea. The defendant did, however, mention that he had been drinking prior to the offense. This time the trial court accepted the plea.
+At the sentencing hearing, prior to the imposition of sentence, the trial court asked defendant if he wished to say anything, to which defendant replied:
+"Yes, there is, your Honor. If the, with the Court’s permission, I would like to change my plea of guilty because I don’t believe in my own mind that I am guilty; I don’t remember doing any of this. The only reason I did plead guilty was because of my lawyer’s, my lawyer’s suggestion, which I don’t feel is right. I know he’s — maybe he was only trying to do right for me, but I don’t feel the decision was right on my part and I should have thought before I consented to pleading guilty, your Honor.”
+The defendant further indicated that the statements he made at the plea were made "because that’s — my lawyer suggested I say that, your Honor”. Defense counsel indicated to the court that he "had never at any time suggested to Mr. Moomey to tell anything that wasn’t the truth”. The court then indicated that he would not permit defendant to withdraw his plea because "I don’t think you’ve given me sufficient grounds”. The court then proceeded to sentence defendant despite the fact that defendant reiterated, that he wished to change his plea because he could not remember doing any of this.
+It is the well established law of this state that a motion to withdraw a guilty plea is addressed to the discretion of the trial court. It is, however, equally well established that when the motion to withdraw is made prior to sentencing and is accompanied by an assertion of innocence and based upon a reason not frivolous in nature, great liberality should be exercised by the trial court in the exercise of this discretion. People v Stockard, 49 Mich App 540; 212 NW2d 609 (1973); People v Boone, 47 Mich App 548; 209 NW2d 693 (1973); People v Cochrane, 40 Mich App 316; 198 NW2d 417 (1972); People v Bencheck, 360 Mich 430; 104 NW2d 191 (1960).
+In the instant case the defendant asked to withdraw the plea prior to the imposition of sentence, and he asserted his innocence. Further, since the reason for wishing to withdraw the plea was based upon defendant’s asserted inability to, in fact, remember what had happened, it cannot be said that the reason was frivolous. Clearly defendant’s statement that he could not, in fact, remember the events that gave rise to the charge, when coupled with his prior indications that he had been drinking and was drunk at the time of the offense, presented the real possibility that the defense of intoxication was a viable defense. Under these circumstances, and particularly in light of the trial court’s misgivings at the time of the attempted plea, we hold that the trial court unduly restricted its exercise of its discretion.
+We would take this opportunity to offer a word of caution. While we have no reason to doubt defense counsel’s statement that he never suggested to defendant that he should tell anything other than the truth, it is clear that defendant felt that his attorney had suggested that he plead guilty even if what he stated was not the truth as defendant viewed it. In order to avoid such misunderstandings, counsel would be well advised to affirmatively state to their clients that they should answer all questions truthfully, and that they should under no circumstances lie or tell a half-truth merely to secure a guilty plea. Only when the acceptance of guilty pleas is based upon completely candid statements will the ends of justice be fully served.
+Reversed and remanded for entry of an order granting defendant’s motion to withdraw his plea.
+All concurred.
