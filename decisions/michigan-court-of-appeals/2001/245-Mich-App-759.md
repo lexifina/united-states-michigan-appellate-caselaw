@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "219449"
+decided: "2001-03-16"
+citations: ["245 Mich. App. 759"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Smolensk, P.J., and Jansen and Fitzgerald, JJ."]
+parties: ["VESTEVICH v WEST BLOOMFIELD TOWNSHIP"]
+source_url: "https://static.case.law/mich-app/245/cases/0759-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 233532
+cites_cases: ["178 Mich App 365", "195 Mich App 153", "240 NW2d 252", "396 Mich 185", "443 NW2d 509", "452 Mich 568", "489 NW2d 166", "550 NW2d 772"]
+---
+
+# Vestevich v. West Bloomfield Township
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from the trial court’s order granting intervention and setting aside a consent judgment. We affirm.
+Plaintiff, owner of a piece of property zoned for residential purposes, commenced this action in 1988, challenging defendant’s continued enforcement of its zoning ordinance as unconstitutional. The trial court upheld the ordinance, this Court affirmed that decision on appeal, and the Supreme Court denied leave to appeal. In the years that followed, plaintiff filed, but did not notice, a motion for reconsideration, and, citing that motion as pending litigation, plaintiff and defendant persuaded the trial court to enter a consent judgment in 1998, according to which plaintiff would be allowed to develop his parcel commercially in exchange for certain concessions. Several owners of adjacent or otherwise nearby property objected to this development, however, and sought to intervene. The trial court entertained arguments, granted intervention, and set aside the consent judgment.
+On appeal, plaintiff argues that the trial court erred in granting intervention and in setting aside the consent judgment. We will address each issue in turn.
+i
+This Court reviews for abuse of discretion a trial court’s decision on a motion to intervene. Precision Pipe & Supply, Inc v Meram Constr, Inc, 195 Mich App 153, 156-157; 489 NW2d 166 (1992). Under MCR 2.209(B)(2), a person may intervene in an action when the applicant’s claim or defense and the main action have a question of law or fact in common. Further, intervention is properly allowed where the inter-venor’s interests “may be” inadequately represented by one of the existing parties. D Agostini v Roseville, 396 Mich 185, 188-189; 240 NW2d 252 (1976) (emphasis in the original); see also Precision Pipe, supra at 156. The key words quoted above, with original emphasis, indicate that the concern of inadequate representation of interests need only exist; inadequacy of representation need not be definitely established. Where this concern exists, the rules of intervention should be construed liberally in favor of intervention. Id.
+In this case, even though the consent judgment does include terms that are obviously intended to address the concerns of nearby landowners, this does not mean that defendant could not have failed to address all concerns of all affected landowners. In light of defendant’s agreement to allow commercial development of the subject property, where the nearby landowners had obtained their parcels in reasonable expectation that the residential zoning of that property would be maintained, defendant’s representation of the intervenors’ interests might well have been inadequate.
+This applies not only to abutting landowners, but also those in nearby neighborhoods. There is no dispute that the more distant of the intervening homeowners were close enough to the subject property to be concerned that their interests would be affected by the commercial development of the residentially zoned parcel, by way of neighborhood character, property values, traffic patterns, and the like. The main action in this case concerned the commercial development of a residential parcel, a matter very much of interest to all applicants in this case. Consequently, permissive intervention was proper under MCR 2.209(B)(2).
+For these reasons, the trial court’s decision to permit intervention was not an abuse of discretion.
+n
+This Court reviews for abuse of discretion a trial court’s decision on a motion to set aside a consent judgment. Trendell v Solomon, 178 Mich App 365, 369-370; 443 NW2d 509 (1989).
+The trial court treated plaintiff’s motion for reconsideration as a motion for relief from judgment. We agree with the trial court that plaintiff’s postjudgment motion, filed and acted on years after the underlying case was closed, did not revive that litigation for purposes of providing a basis for a consent judgment. In the matter of their consent judgment, plaintiff and defendant were parties to a case only in a fictional sense.
+The underlying judgment, long ago affirmed on appeal, rebuffed a constitutional challenge to defendant’s zoning ordinance and allowed defendant to continue to enforce the ordinance against plaintiff’s property. Citing changed circumstances in the real estate situation in the area, plaintiff relies on MCR 2.612(C)(1)(e), which permits relief from judgment where “it is no longer equitable that the judgment should have prospective application,” where the motion is made in a “reasonable time.” MCR 2.612(C)(2). However, there was no injunction in place under the underlying judgment, and nothing in it precluded new petitioning or, if need be, litigation concerning the zoning of the subject property in light of changed circumstances. Thus, the underlying judgment engendered no “prospective application” to challenge. Nor was plaintiffs motion timely. We agree with the trial court that if changed circumstances warranted departure from the residential zoning of plaintiffs parcel, those circumstances supported not a reopening of the earlier litigation, but a new application to defendant to change the zoning scheme or grant a variance.
+What took place in this instance was no timely motion for relief from judgment, but a fictional revival of old litigation through which the parties hoped to modify the zoning constraints attendant to the subject property without going through the notice and hearing procedures that are statutorily prescribed for zoning controversies within the enabling legislation, the city and village zoning act, MCL 125.581 et seq. “A challenge to the validity of a zoning ordinance ‘as applied’... is subject to the rule of finality.” Paragon Properties Co v Novi, 452 Mich 568, 576; 550 NW2d 772 (1996). The legislatively established authorities for enacting zoning ordinances, and for granting variances, must render a final decision on a zoning request before the issue is ripe for judicial review. Id. at 573-583.
+In this case, it is apparent that defendant agreed to settle with plaintiff by way of a consent judgment, not to avoid the risks and rigors of litigation over plaintiff’s motion to reopen the case, but to avoid the uncertainties and burdens attendant to revising its zoning ordinance or considering a variance. Thus, the trial court properly recognized that the consent judgment brought to court ostensibly to settle plaintiff’s renewal of his long-settled claim was, in effect, an attempt by the parties to circumvent the legislatively prescribed processes for raising and deciding zoning issues.
+For these reasons, we agree with the trial court that it should not have entered the consent judgment in the first instance and that the proper remedy was to set aside the consent judgment.
+Affirmed.
+The three parties designated as plaintiffs-appellants are Thomas Vestevich himself plus two business entities evidently under his control. It is thus convenient to speak of plaintiff in the singular.
+Vestevich v West Bloomfield Twp, unpublished memorandum opinion of the Court of Appeals, issued February 18, 1994 (Docket No. 137350).
+By plaintiffs reasoning, any judgment concerning land uses would forever be subject to modification, in that the circumstances attendant to any parcel of land must be expected to change eventually.
