@@ -1,0 +1,49 @@
+---
+court: "Michigan Court of Appeals"
+docket: "2,054"
+decided: "1966-12-22"
+citations: ["5 Mich. App. 479"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quinn P. J., and T. GL Kavanagh, J., concurred."]
+parties: ["PEOPLE v. SIMPSON."]
+source_url: "https://static.case.law/mich-app/5/cases/0479-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2026873
+cites_cases: ["216 Mich 133", "25 ALR2d 1396", "295 Mich 353", "342 US 165", "380 US 202"]
+---
+
+# People v. Simpson
+
+## Majority (Fitzgerald, J.)
+
+Fitzgerald, J.
+Defendants in this case were charged with having broken into a commercial building in the nighttime in the city of Pontiac with intent to commit the crime of larceny therein under the provisions of CL 1948, § 750.110 (Stat Ann 1962 Rev § 28.305). All were found guilty by a jury and defendant Simpson was sentenced to 4 to 10 years, defendant Griffin to 3 to 10 years, and defendant Carson to 1 to 10 years.
+On appeal, counsel for defendants urges among his allegations of error a question of first impression, the others being more familiar to the criminal jurisprudence of this State.
+The novel question presented revolves around the inquiries submitted by counsel for defendants to the trial court upon that court’s refusal to permit counsel for defendants to conduct the voir dire of prospective jurors. The court, in electing to conduct the voir dire examination, declined to propound inquiries' to the jurors in the following areas:
+a. Questions as to the religion, if any, of the jurors,
+b. Questions as to the familiarity of the jurors with the meaning and roles of established Negro organizations and other organized groups, and
+c. The question of whether each candidate for jury duty felt himself or herself the peer of each of the defendants.
+Counsel makes the further allegations that the prosecution acted systematically and deliberately to remove from the panel all persons who had “even the remotest contact with Negro persons in their past” and further alleges that defendants were required to accept a jury they deemed unsatisfactory after exhausting all of their peremptory challenges, and after a denial by the court of their claim of entitlement to challenge for cause.
+Since these questions arose prior to trial and .are fundamental to the entire proceedings, we examine them first. That the trial court may permit attorneys to conduct the examination of prospective jurors or may itself conduct the examination is' established by GrCR 1963, 511.3. This being a discretionary matter with the trial court, it is difficult to discern any error by the trial court’s election to conduct the voir dire. Error, if any, must arise in the manner of conducting that voir dire and whether discretion was abused in refusal to ask proper and relevant questions submitted to the court. In assaying the questions, the overriding consideration must be whether the answers thereto were essential to counsel for an intelligent exercise of his challenges in his effort to obtain a fair and impartial jury.
+The questions proffered to the court by counsel in this case contain overtones that do not impress us as being indispensable in securing a proper panel.
+It should be noted at the outset that the trial court’s conduct of the voir dire, by any standard assigned, was thorough, competent, and far-reaching. The issue before us is whether these specific questions should have been asked to insure these defendants a fair and impartial panel.
+A reading of the record impresses us that the trial court conducted this voir dire in an extremely fair and judicious manner. Following the usual questions asked in a criminal case concerning prior jury duty, acquaintanceship with or relation to law enforcement officers, whether prospective jurors have been the victim of any type of crime of violence or had their property broken into, the court asks the following question:
+“Do any of you have any reason in your background or anything in your life, which would preclude you from rendering a fair and impartial verdict in this case?”
+There continues 81 pages of transcript of special questions asked on behalf of defendants and exercise of challenges. Counsel for defendants complains because the court refused to remove prospective jurors for cause where they showed no contact with negroes socially or informally, read no negro publications and expressed no familiarity with negro institutions, tying these qualifications in with the point that defendants were all negroes and could only be tried fairly by a jury which met all of the tests propounded by defense counsel in the questions, supra.
+With this we cannot agree. No authority is offered as to a religious qualification for jury duty, nor does the single authority which defense counsel cites, Swain v. Alabama (1965), 380 US 202 (85 S Ct 824, 13 L ed 2d 759), stand for the propositions asserted. Further, we can find neither authority nor logic for the contention that a juror must be familiar with, or sympathetic to a given defendant. Impartiality rather than empathy is the true test.
+No showing of actual prejudice concealed by a juror is made and a thoughtful and contemplative reading of the record does not indicate that the court abused its discretion by refusing to ask tbe specific questions set forth.
+Further, the record indicates that the trial court allowed a wide latitude of special questions directed along the same avenues which were more than ample to allow counsel to intelligently or even arbitrarily exercise his challenges.
+We cannot so readily reject the next allegation of error regarding whether the court erred in refusing to instruct on lesser included offenses embraced within the general charge of breaking and entering. For this assertion, defense counsel cites CL 1948, § 768.32 (Stat Ann 1954 Rev § 28.1055) as follows:
+“Upon an indictment for any offense consisting of different degrees, as prescribed in this chapter, the jury may find the accused not guilty of the offense in the degree charged in the indictment and may find such accused person guilty of any degree of such offense, inferior to that charged in the indictment or of an attempt to commit such offense.”
+Counsel contends that the defendants were entitled to an instruction on what counsel claims to be lesser included offenses, specifically, (a) entering a building, without breaking, in either the night or daytime, with intent to commit larceny, under CL 1948, § 750.111 (Stat Ann 1962 Rev § 28.306) and (b) entering a building without breaking, and without permission, under CL 1948, § 750.115 (Stat Ann 1962 Rev § 28.310). Timely request for such charges was made and refused. People v. Allie (1921), 216 Mich 133.
+It is first necessary to dispose of the prosecution’s contention that the two offenses cited are not necessarily lesser included offenses. Indeed, the area of what constitutes a lesser included offense has frequently caused confusion in criminal prosecutions.
+The general rule is succinctly set forth in 4 Wharton’s Criminal Law and Procedure, § 1888, pp 753, 754, wherein it is stated, “If the greater of two offenses includes all the legal and factual elements of the lesser, the greater includes the lesser; but if the lesser offense requires the inclusion of some necessary element not so included in the greater offense, the lesser is not necessarily included in the greater.” Under this test, it is not difficult to perceive from this record that the two previous recited offenses are lesser and included in the instant case.
+We must examine for a moment the proposition that the evidence adduced in the trial of the cause be susceptible to proper inclusion of an instruction on the lesser offense. People v. Netzel (1940), 295 Mich 353.
+A review of this record convinces us that such is the situation here. By the admission of all parties, the evidence adduced here was circumstantial. Over and above this, however, it is hazy and inconclusive as to the breaking and entering. The proofs are vague on the point of entry and questions are left unanswered as to whether there might have been an entry without breaking. No proof was adduced that anything was taken from the building, nor an attempt made to take anything, leaving the question of intent indistinct. Evidence was adduced that could have been compatible with the lesser included offenses and hence we hold that defendants were entitled to an instruction on these offenses.
+Two further assignments of error merit brief consideration. Defendants seek to equate the taking of paraffin tests, the results of which ultimately proved inconclusive, with testimonial compulsion. We cannot subscribe to this view. The paraffin test to detect the presence of nitrate on the hands is a recognized process, requiring no invasion of the body or its substances and is not in pari causa with stomach-pumping (Rochin v. California [1952], 342 US 165 [72 S Ct 205, 96 L ed 183, 25 ALR2d 1396]). The process more nearly equates with finger-printing or photographing, both sanctioned procedures.
+The further objection to the introduction of defendant Simpson’s spontaneous and volunteered statement, “Well, if I go ahead and say I shot the gun, do I have to take it?” (referring to the paraffin test), does not create reversible error. Such a hypothetical statement, neither inculpatory nor exculpatory, has little bearing, particularly in view of adequate instructions relative to nonconsideration so far as other defendants were concerned.
+Other questions raised by defendants relative to procedure will not be considered in view of our holding requiring an instruction on lesser included offenses.
+Reversed and remanded for new trial.
+Quinn P. J., and T. GL Kavanagh, J., concurred.
