@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-2434"
+decided: "1979-11-21"
+citations: ["94 Mich. App. 40"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P.J., and Bronson and A. E. Moore, JJ."]
+parties: ["DETROIT AUTOMOBILE INTER-INSURANCE EXCHANGE v FELDER"]
+source_url: "https://static.case.law/mich-app/94/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2171681
+cites_cases: ["237 NW2d 322", "242 NW2d 509", "253 NW2d 646", "260 NW2d 112", "272 NW2d 689", "276 NW2d 499", "356 Mich 641", "400 Mich 184", "42 ALR3d 229", "65 Mich App 349", "67 Mich App 736", "78 Mich App 409", "86 Mich App 473", "88 Mich App 8", "97 NW2d 804"]
+---
+
+# Detroit Automobile Inter-Insurance Exchange v. Felder
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant American Bankers Insurance Company of Florida (American) appeals as of right the trial court’s grant of summary judgment in favor of plaintiff, Detroit Automobile Inter-Insurance Exchange (DAIIE).
+Defendants William Mack Felder and Robert D. Felder were insured by plaintiff DAIIE with a policy that included uninsured motorist coverage when, on September 15, 1975, they were involved in an auto accident with a car owned by Phyllis Murphy, insured by defendant American, and driven by Willie Terrill. American has denied coverage on the ground that Terrill was an excluded driver. The Felders sought arbitration against DAIIE on the ground that they were hit by an uninsured motorist, Terrill. DAIIE responded by filing this declaratory judgment action to determine whether Terrill was an excluded driver, and, as such, an uninsured motorist. The trial court held that Terrill was not effectively excluded from American’s policy covering the car he was driving, and that as a result he was not an uninsured motorist. We agree and affirm.
+The Michigan Legislature has authorized a narrow exception to the general rule of comprehensive coverage in Michigan, which allows certain persons to be excluded from coverage while operating an automobile covered in a no-fault policy. Detroit Automobile Inter-Ins Exchange v Comm’r of Ins, 86 Mich App 473; 272 NW2d 689 (1978). The language is highly specific and detailed requirements must be met before a named individual is deemed excluded:
+"When authorized by the insured, automobile liability or motor vehicle liability coverage may be excluded when a vehicle is operated by a named person. Such exclusion shall not be valid unless the following notice is on the face of the policy or the declaration page or certifícate of the policy and on the certifícate of insurance referred to in subsection (3) of section 4 of Act No. 198 of the Public Acts of 1965, as amended, being section 257.1104 of the Compiled Laws of 1948: Warning — when a named excluded person operates a vehicle all liability coverage is void — no one is insured. Owners of the vehicle and others legally responsible for the acts of the named excluded person remain fully personally liable.” MCL 500.3009(2); MSA 24.13009(2). (Emphasis added.)
+American admits that it did not comply with this statutory mandate, but instead argues that it has complied with the spirit of the law, and that literal application of the statute would yield an absurd result. This argument is based on the fact that Phyllis Murphy signed a form titled "Notice and Authorization”, which states:
+"As the owner of a motor vehicle you may be liable, under Michigan’s Motor Vehicle Code, for any injury caused by the negligent operation of your vehicle, including when it is driven by any other person with your express or implied consent or knowledge.
+"If your vehicle is driven by your father, mother, brother, sister, son, daughter, or other immediate member of your family, it is presumed in law that such a person is driving with your consent and knowledge.
+"Normally, automobile liability insurance protects the owner against all legal liability arising from the use of his vehicle. However, if you authorize your insurance company to exclude a specific named individual, you have no automobile liability coverage when the named excluded individual operates your vehicle.
+"If the named excluded individual drives YOUR VEHICLE AND HAS AN ACCIDENT, YOU MAY BE LIABLE BUT YOU WILL NOT HAVE INSURANCE COVERING your liability.” (Emphasis in original.)
+The form goes on to name Willie Terrill as a "Named Excluded Person” and bears the signature of Phyllis Murphy.
+We cannot accept American’s position that this form satisfies the statute. To begin, a statute that is clear on its face and unambiguous is not open to interpretation by the courts. City of Lansing v Twp of Lansing, 356 Mich 641; 97 NW2d 804 (1959), Stover v Retirement Board of the City of St Clair Shores Firemen & Police Pension System, 78 Mich App 409; 260 NW2d 112 (1977). We find no ambiguity in this statute. It is clear and to the point. It sets out the Legislature’s approved method of excluding a person from a policy’s coverage, and must be deemed the only way in which such an exclusion may be accomplished. Expressio unius est exclusio alterius. See Citizens Mutual Ins Co v Central National Ins Co of Omaha, 65 Mich App 349; 237 NW2d 322 (1975).
+Invoking other maxims of statutory construction, American notes that the primary function of the courts when interpreting statutes is to give effect to the intent of the Legislature. Spartan Asphalt Paving Co v Grand Ledge Mobile Home Park, 400 Mich 184; 253 NW2d 646 (1977), Flint Board of Education v Williams, 88 Mich App 8; 276 NW2d 499 (1979). From this they argue that even a clear and unambiguous statute should not be construed in an absurd manner that defeats the legislative intent. Scholten v Rhoades, 67 Mich App 736; 242 NW2d 509 (1976). Accepting this principle does little to aid American’s position. In this statute, the intent of the Legislature is to provide a strongly worded notice to the insured that a specific driver is excluded from coverage. To carry out this intent, the Legislature required the notice to be placed in carefully designated places, and required the use of stern and specifically mandated language. The form which American would rely on does not comport with this intent. In this regard it is helpful to note that the statute contemplates prior authorization to exclude a driver before the notice, requirements come into play. American’s form accomplishes that authorization, but would have the form go further and satisfy the notice requirements as well. American has only completed half the task; we cannot excuse them from finishing the job.
+To avoid engaging in literalism, courts should not read statutes without regard to legislative intent. The clear words of an unambiguous statute such as MCL 500.3009(2); MSA 24.13009(2) have direct bearing on the intent of the Legislature, however, and a court is not practicing literalism when it refuses to give the words of the Legislature a meaning they cannot bear.
+Affirmed.
