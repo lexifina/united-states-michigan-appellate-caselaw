@@ -1,0 +1,62 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 8048, 8049"
+decided: "1971-03-22"
+citations: ["31 Mich. App. 416"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Fitzgerald, P. J., and Holbrook and Bronson, JJ.", "All concurred."]
+parties: ["PEOPLE v. GILLEYLEN PEOPLE v. JOHNSON"]
+source_url: "https://static.case.law/mich-app/31/cases/0416-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2095845
+cites_cases: ["1 Mich App 557", "10 Mich App 558", "13 Mich App 178", "17 Mich App 277", "17 Mich. App 4", "18 Mich App 14", "19 Mich App 553", "20 Mich App 264", "20 Mich App 639", "22 Mich App 619", "24 Mich App 509", "25 Mich App 211", "25 Mich App 535", "25 Mich App 62", "26 Mich App 321", "27 Mich App 633", "28 Mich App 190", "299 Mich 358", "30 Mich App 275", "30 Mich App 298", "30 Mich App 43", "300 Mich 463", "307 Mich 743", "338 Mich 559", "338 US 160", "359 Mich 539", "365 Mich 494", "367 US 643", "379 US 89", "385 Mich 768", "388 US 218", "5 Mich App 543", "6 Mich App 46", "7 Mich App 1", "8 Mich App 239", "93 L Ed 1879"]
+---
+
+# People v. Gilleylen
+
+## Majority (Fitzgerald, P. J.)
+
+Fitzgerald, P. J.
+Defendants, in separate jury trials, were convicted of the crimes of carrying concealed weapons without a license and robbery armed. Sentences of 2 to 5 years and 10 to 20 years were imposed. Defendants appeal both convictions.
+On November 8, 1968, Roosevelt Saffore, a resident of the City of Grand Rapids, called the police to report two men who were sitting in a vehicle bearing Ohio license plates and acting in a suspicious manner. Two police officers were dispatched to investigate. After stopping their police car, they approached the vehicle on foot to make routine inquiries. The officers testified they heard the door on the passenger side of the automobile open and close and heard something hit the ground with a dull thud. With the aid of a flashlight, one of the officers discovered a .38 caliber revolver on the grass between gutter and sidewalk within a foot or so of the passenger door. The gun was loaded, dry, and rust-free.
+Defendants Gilleylen and Johnson were ordered out of the car and Gilleylen was arrested for carrying a concealed weapon. With the alleged permission of Johnson, the officers then searched the interior of the automobile.
+Upon request, defendant Johnson handed the trunk key to one of the officers. A loaded sawed-off 16-gauge shotgun was found in the vehicle trunk. Defendant Johnson was then arrested for carrying a concealed weapon in an automobile. A timely motion was made to suppress the introduction of the shotgun and ammunition which had been taken from the vehicle as exhibits. Defendants were subsequently found guilty of the crime with which they were charged.
+The second offense and trial stems from an armed robbery on October 10,1968, when four men entered the Fairview Pharmacy in Walker, Michigan. Defendants, while in custody on the concealed weapons charge, were placed in a series of jail line-ups and identified as participants by the Fairview Pharmacy robbery witnesses. Following identification, the defendants were charged with armed robbery and the subsequent jury trial resulted in conviction.
+On appeal, defendants question the sufficiency of the evidence to convict and allege several procedural and trial errors.
+Case No. 8048
+Defendants contend that the officers, on the basis of the complaint, lacked probable cause to arrest.
+The officers were lawfully present to make a routine inquiry based upon a citizen’s complaint. It is a policeman’s job and duty to investigate such matters. The officers had no reason to arrest anyone on the basis of the complaint alone. The arrest was based upon facts and circumstances obvious and discernable to the officers’ senses of hearing and sight. The facts available to the officers at the moment of the arrest of defendant Grilleylen would warrant the belief that an offense had been committed. Beck v. Ohio (1964), 379 US 89 (85 S Ct 223, 13 L Ed 2d 142); People v. Sansoni (1968), 10 Mich App 558; People v. Wolfe (1967), 5 Mich App 543. The arrest was a result of practical considerations of everyday life on which reasonable and prudent men, not legal technicians would act. Brinegar v. United States (1949), 338 US 160 (69 S Ct 1302, 93 L Ed 1879); People v. Harper (1962), 365 Mich 494; People v. Alexander (1970), 26 Mich App 321.
+Looking at the facts available to the policeman in this case, the officer had reasonable cause to believe that there was a concealed weapon violation and probable cause to make the arrest.
+Defendant’s motion to suppress the shotgun and ammunition found in the vehicle trunk on the ground of unlawful search and seizure was denied.
+There was sufficient and probable cause to arrest defendant Gilleylen. The arrest was lawful. The officers, therefore, had the right and duty to search the interior of the automobile incident to this arrest. People v. Harris (1942), 300 Mich 463, 465. People v. Ritholz (1960), 359 Mich 539, 551; People v. Otis Dumas (1970), 25 Mich App 535, 538.
+At the hearing on the motion to suppress, testimony indicates that defendant Johnson voluntarily produced his trunk key from his pocket and handed it to the officer following the officer’s request to look into the trunk. One may waive the issuance of a search warrant and by consent permit the search of his premises. People v. Cope (1969), 18 Mich App 14.
+The trial court’s finding that Johnson had consented to the search and voluntarily without police duress or coercion handed the trunk key to the officer, is not, on the record, clearly erroneous. GOB 1963, 517.1; People v. Castelli (1967), 7 Mich App 1, 4.
+Although one of the reasons the trial judge admitted the seized evidence was on a false impression of prevailing law (Const 1963, art I, § 11) instead of the rule in Mapp v. Ohio (1961), 367 US 643 (81 S Ct 1684, 6 L Ed 2d 1081), no reversal or remand is necessary because in this case the arrests were lawful and the search of the trunk was both with consent and reasonable.
+Defendants claim that the prosecutor must prove that the defendants did not have a license to carry a concealed weapon in some other state. There is no such requirement. The burden of establishing any exception, excuse, proviso, or exemption contained in any such act is upon the defendant. MCLA §776.20 (Stat Ann 1970 Cum Supp § 28.1274[1]); People v. Jiminez (1970), 27 Mich App 633.
+Defendant Gilleylen claims the court erred in permitting the prosecutor to question him concerning a previous arrest which did not result in a conviction.
+This trial was commenced on March 10, 1969. At this time, established procedural guidelines allowed such cross-examination. People v. Hoffman (1965), 1 Mich App 557; People v. Foley (1941), 299 Mich 358. People v. Brocato (1969), 17 Mich App 277, held that no reference could be made to arrests not resulting in convictions. But Brocato was decided on May 5,1969.
+In People v. Ruppuhn (1970), 25 Mich App 62, this Court held:
+“Hoffman was the law before Brocato and was relied on by the trial court. Brocato affects trial procedure and will apply only to those trials which commenced after the date of this Court’s decision in the case.”
+No objection was made to this question and answer. The defendant further explained that he had not been convicted of the crime for which he had been arrested. Taking into consideration the entire record, we determine that there has been no miscarriage of justice. MCLA § 769.26 (Stat Ann 1954 Rev § 28.1096).
+Roosevelt Saffore, the original complainant, was not indorsed on the original information. Defendant contends because of this there was interference with his right to a fair trial.
+The record discloses that this witness was indorsed on the information some time after the original filing. The purpose of res gestae indorsement is to allow time to prepare for trial. People v. Lee (1943), 307 Mich 743. Any claim of error must be measured by the extent to which this right is impaired. People v. Rowls (1970), 28 Mich App 190.
+Defendant was cognizant of Roosevelt Saffore’s identity, but made no motion to require indorsement or trial production of this alleged res gestae witness, People v. Rasmus (1967), 8 Mich App 239; People v. Bowen (1968), 13 Mich App 178; or for a continuance, and on the record waived the calling and eliciting of testimony from this witness.
+Defendants have made no showing that they were in any way hindered in preparing their defense. Their right to a fair trial was adequately protected.
+The complaint was signed by a city police officer instead of complaining witness Saffore. Defendants challenge the jurisdiction of the court.
+“A complaint which, upon its face purports to be made upon the knowledge of the affiant, is a sufficient compliance with the statute, pud it is incompetent for a defendant, upon arraignment, to impeach the complaint by showing a lack of knowledge by the complaining witness. # * * Jurisdiction having attached for the issuance of the warrant, it could not be later impeached.” People v. Mosley (1953), 338 Mich 559, 564; People v. Campbell (1971), 30 Mich App 43.
+Arrest, illegal or without warrant, followed by a complaint and warrant on which defendant is held for trial, cannot be considered at the trial. People v. Nawrocki (1967), 6 Mich App 46, 53, 54. People v. Drummonds (1971), 30 Mich App 275. The trial court had jurisdiction over the case even though the complaint was based upon the knowledge and belief of the police officer.
+A witness, after defendants’ arrest, looked into the police cruiser and identified Gilleylen as having been in his drug store earlier. Defendants’ claim that this identification show-up without the presence of an attorney was contrary to United States v. Wade (1967), 388 US 218 (87 S Ct 1926, 18 L Ed 2d 1149). This question has not been preserved for review because there was no objection to the in-court identifications. People v. Childers (1969), 20 Mich App 639; People v. Matthews (1970), 22 Mich App 619, 632; People v. McLaughlin (1970), 25 Mich App 211.
+Case No. 8049
+Defendants contend that forcing them to participate in a line-up in connection with the Fairview Pharmacy armed robbery while in jail for the concealed weapons charge and without the aid of counsel was a violation of their constitutional rights.
+There is no law or decision which says that a man, free or incarcerated, has a constitutional right not to be observed and possibly identified as the perpetrator of a crime even though no formal charges have been made. People v. Hall (1970), 24 Mich App 509, 514, 515.
+Defendants did not object to the in-court identification of them by the Fairview Pharmacy robbery witnesses. Childers, Matthews, and McLaughlin cited and discussed in the previous issue obviates further discussion.
+Defendants claim a violation of prosecutorial duty for failing to establish during direct examination that the fingerprints from the robbery cash box were not proved to be those of the defendants. This fact was brought out through defense counsel’s cross-examination of the investigating officer. It was, therefore, before the jury for purposes of weight and credibility. No obvious reversible prejudice is developed on such a record.
+The record indicates that defendants had ample time to prepare their alibi defense. With one exception, defendants’ alibi witnesses had returned to Ohio. Defendants’ requested continuance to recall these out-of-state witnesses would have resulted in an unreasonable delay of the trial. We find no abuse of discretion and do not reverse. People v. Ciatti (1969), 17 Mich. App 4; People v. Rastall (1969), 20 Mich App 264.
+Reviewing the totality of circumstances leading to conviction, we do not find the court’s refusal to delay the trial resulted in injustice.
+Finally, defendants were identified as being participants in the Fairview Pharmacy hold-up by witnesses. We find there was sufficient evidence, if believed by the jury, to justify a finding of guilt beyond a reasonable doubt. People v. Weems (1969), 19 Mich App 553, 557; People v. Graham (1971), 30 Mich App 298.
+Both convictions are affirmed.
+All concurred.
+MCLA § 750.227 (Stat Ann 1962 Rev § 28.424).
+MCLA § 750.529 (Stat Ann 1954 Rev § 28.797).
