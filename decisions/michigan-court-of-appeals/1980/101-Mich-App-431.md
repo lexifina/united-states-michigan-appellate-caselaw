@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "47823"
+decided: "1980-11-05"
+citations: ["101 Mich. App. 431"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: M. F. Cavanagh, P.J., and D. E. Holbrook, Jr., and J. H. Piercey, JJ."]
+parties: ["STOKUS v THE WALLED LAKE SCHOOL DISTRICT BOARD OF EDUCATION"]
+source_url: "https://static.case.law/mich-app/101/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2194767
+cites_cases: ["182 NW2d 54", "26 Mich App 177", "268 NW2d 828", "277 Mich 103"]
+---
+
+# Stokus v. Walled Lake School District Board of Education
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff filed a complaint for mandamus under the Michigan Freedom of Information Act (FOIA) seeking the production of the employment contract for the superintendent of schools of the defendant school district as well as reasonable attorney fees, costs and disbursements, and punitive damages as provided under the FOIA, MCL 15.231 et seq.; MSA 4.1801(1) et seq. A judgment granting mandamus in favor of the plaintiff was entered below and defendant was ordered to provide plaintiff with a copy of the requested document. The judgment as entered below contained no reference to any award of attorney fees, costs, disbursements or actual compensatory or punitive damages. Twenty-one days after entry of the judgment, however, plaintiff filed a motion requesting the award of these additional items. The trial court denied this motion as well as a motion for reconsideration. This appeal follows as of right from the lower court’s denial of reasonable attorney fees, costs and disbursements, and actual compensatory and punitive damages.
+Plaintiff first asserts that, since the FOIA entitles a prevailing party to attorney fees, his request for attorney fees and punitive damages should have been granted pursuant to GCR 1963, 528.1, which provides for correction of clerical mistakes. Alternatively, he asserts that GCR 1963, 528.3(1), which provides for relief from a final judgment based upon mistake, inadvertence, surprise or excusable neglect, should relieve plaintiff in this instance for his inadvertence in failing to have these items included in the original judgment.
+A careful reading of GCR 1963, 528.1 reveals that its purpose is to make the lower court record and judgment accurately reflect what was done and decided at the trial level. When the alleged error is in the court’s action itself, as distinguished from the record made of the court’s action, the alleged error is not a clerical mistake under this rule. R C Mahon Co v R S Knapp Co, 277 Mich 103; 268 NW2d 828 (1936), 3 Honigman & Hawkins, Michigan Court Rules Annotated (2d ed), pp 177-178. Plaintiff here is not attempting to change the original judgment rendered below to more accurately reflect that which was actually done and decided by the trial court. His motion is attempting to add something to the original judgment which was neither discussed nor decided. We therefore affirm the trial court’s ruling that plaintiffs motion was not a motion designed to correct clerical mistakes in the original judgment. Nor do we find the trial court committed reversible error in ruling that plaintiffs motion was one to alter or amend the judgment under GCR 1963, 527.5 and not a motion under GCR 1963, 528.3(1). We will not disturb the trial court’s finding that plaintiff made a conscious decision sometime subsequent to the date of the original hearing and, thus, this decision cannot be termed to have been truly inadvertent. The motion was filed 21 days after the judgment had been entered; therefore, it was properly denied by the trial court as being untimely. It is apparent that the trial court only intended that the original judgment order the defendant to provide the requested document to the plaintiff. The trial court heard no arguments concerning attorney fees, costs and disbursements, or punitive damages and cannot be said to have intended to award those items. The award of such in this instance cannot be termed to be a mere ministerial act. Evidence would have to be taken to adduce the correct amount of money owing under plaintiffs motion. This is not contemplated by GCR 1963, 528.1.
+Plaintiff next urges that this is a proper case for this Court to exercise its power under GCR 1963, 820.1(1) and (7) to grant plaintiffs motion and relies upon the case of Bliss v Carter, 26 Mich App 177; 182 NW2d 54 (1970), as authority for us to do so. The fact that the relief rendered in Bliss was wholly warranted by the proofs distinguishes that case from this one. Here, there are no proofs as to the reasonable attorney fees or any actual compensatory punitive damages. There would be nothing of record upon which this Court could exercise its power under GCR 1963, 820.1. Nor do we deem it appropriate to act under GCR 1963, 820.2, as there has been no good cause shown for the delay in filing the motion in question nor any showing that such delay was not due to plaintiffs own culpable negligence.
+Lastly, we find no merit to plaintiffs contention that GCR 1963, 526.10(2) automatically entitles him to costs. Since plaintiff failed to present to the clerk a bill of costs certified or verified as required by subrule 526.11, plaintiff must be deemed to have waived his right to such costs pursuant to the last sentence of GCR 1963, 526.10(2) which states:
+"Failure to present a bill of costs within the time prescribed shall constitute a waiver of the right to such costs.”
+We affirm the decision of the trial court.
