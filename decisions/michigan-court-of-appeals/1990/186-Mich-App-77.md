@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "116431"
+decided: "1990-08-15"
+citations: ["186 Mich. App. 77"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Reilly, P.J., and Michael J. Kelly and H. E. Deming, JJ."]
+parties: ["PEOPLE v DANIELS"]
+source_url: "https://static.case.law/mich-app/186/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2332880
+cites_cases: ["100 L Ed 2d 565", "160 Mich App 614", "166 Mich App 428", "173 Mich App 429", "378 NW2d 451", "395 US 752", "408 NW2d 398", "421 NW2d 191", "424 Mich 42", "435 Mich 1", "435 NW2d 12", "446 US 544", "457 NW2d 623", "460 US 491", "486 US 567", "488 A2d 1380"]
+---
+
+# People v. Daniels
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The people appeal as of right from the trial court’s order quashing the information and suppressing the firearm as evidence on the basis that defendant had been subjected to an illegal seizure. Defendant had been charged with felonious assault, MCL 750.82; MSA 28.277, and possession of a firearm during the commission of a felony, MCL 750.227b; MSA 28.424(2). We reverse and remand for trial.
+On September 25, 1988, at approximately 4:00 a.m., Detroit Police Officer Nathaniel Coleman and his partner were in uniform and on routine patrol in a marked police vehicle when they observed defendant and three other men standing in the middle of a residential street blocking traffic. Coleman got out of his vehicle and approached the group to ask them to disperse. Before Coleman could speak to them, defendant started running toward a nearby alley. Coleman then chased defendant into the alley. Defendant "turned and knelt down and pointed what appeared to be a long-barreled weapon” at Coleman. No shots were fired. Defendant then ran into a house. Coleman followed, placed him under arrest and retrieved the weapon from an undisclosed location.
+Defendant moved to quash the information or, in the alternative, to suppress the firearm as evidence. The trial court, relying primarily on People v Shabaz, 424 Mich 42; 378 NW2d 451 (1985), and the Court of Appeals decision in People v Mamon, 173 Mich App 429; 435 NW2d 12 (1988), granted defendant’s motion to suppress the evidence and dismissed the case. Mamón has since been reversed. 435 Mich 1; 457 NW2d 623 (1990).
+On appeal, the prosecutor contends that the trial court erred in suppressing the evidence. The prosecutor maintains that, given defendant’s participation in a street gathering and his unexplained flight at the sight of approaching police, the officers were justified in pursuing him. The prosecutor argues that, because defendant was not unlawfully "seized” as contemplated by the Fourth Amendment when the police initially approached defendant or during the ensuing foot chase, the police had sufficient cause to justify whatever minimal intrusion was necessary to investigate the reason for defendant’s flight.
+A trial court’s ruling on a motion to suppress, evidence will not be reversed by this Court on appeal unless the decision is clearly erroneous. People v Payton, 166 Mich App 428, 430; 421 NW2d 191 (1988). A ruling is clearly erroneous when this Court is left with a definite and firm conviction that a mistake has been made. People v Daniels, 160 Mich App 614, 617; 408 NW2d 398 (1987).
+The Fourth Amendment to the United States Constitution guarantees "[t]he right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures . . . .” US Const, Am IV. A person is "seized” within the meaning of the Fourth Amendment if, "in view of all of the circumstances surrounding the incident, a reasonable person would have believed that he was not free to leave.” Michigan v Chesternut, 486 US 567, 573; 108 S Ct 1975; 100 L Ed 2d 565 (1988); United States v Mendenhall, 446 US 544, 554; 100 S Ct 1870; 64 L Ed 2d 497 (1980) (opinion by Stewart, J.). In order to justify a "seizure” as defined in Chesternut, or an "investigative pursuit and stop” as described in Shabaz, the police must have had a particularized suspicion, based on objective observations, that the person "seized” or "stopped” has been, is, or is about to be engaged in some type of criminal wrongdoing. Whether or not the police conduct violates the Fourth Amendment and amounts to an unlawful seizure must be evaluated in light of all the circumstances surrounding the incident in each case. Shabaz, supra at 59; Chesternut, supra at 572; Mamon, supra.
+We first conclude that the action of the police officers in approaching defendant, who was among a group of several people standing in the middle of a residential street blocking traffic, did not amount to a seizure under the Fourth Amendment. There is no objective basis upon which we can find that a reasonable person would have considered such police conduct to be so intimidating as to instill a belief that he or she was not free to leave. Chesternut, supra at 573; Florida v Royer, 460 US 491, 497-498; 103 S Ct 1319; 75 L Ed 2d 229 (1983). Indeed, defendant’s actions indicated that he believed he was free to leave.
+We further conclude, without evidence of more threatening police action, that a reasonable person would have believed that he or she was free to leave and disregard the police presence when being chased on foot by a uniformed police officer into an alley. Mamon, supra. Therefore, the police pursuit of defendant into the alley did not amount to a seizure under the Fourth Amendment. Id.
+Moreover, upon observation of defendant’s apparent felonious act, Coleman had probable cause to continue chasing defendant, to enter the house following defendant, and to arrest him without a warrant. A reasonable person would have believed that defendant had committed at least two felonies in the presence of Coleman, felonious assault and possession of a firearm during the commission of a felony. MCL 764.15(d); MSA 28.874(d). Coleman was therefore entitled to search defendant’s person as well as the area within defendant’s immediate control for weapons or other contraband. Chimel v California, 395 US 752, 763; 89 S Ct 2034; 23 L Ed 2d 685 (1969). Even if we had concluded that the police pursuit of defendant into the alley constituted an illegal seizure under the Fourth Amendment, we are convinced that the exclusionary rule does not act to bar the introduction of evidence of independent crimes directed at police officers as a reaction to an illegal arrest or search. State v Boilard, 488 A2d 1380, 1386-1387 (Me, 1985). Any other conclusion would effectively give a person who has been the victim of an illegal seizure the right to employ whatever means available, no matter how violent, to elude capture.
+The trial court’s decision to suppress the firearm as evidence on the basis of the chase was clearly erroneous. Reversed and remanded for trial.
+
+## Concurrence (Michael J. Kelly, J.)
+
+Michael J. Kelly, J.
+(concurring). I concur in the result reached because People v Mamon, 435 Mich 1; 457 NW2d 623 (1990), dictates such a result. The fact that Mamón hypothecates a reasonable person I do not recognize does not warrant departure from the rule of stare decisis.
