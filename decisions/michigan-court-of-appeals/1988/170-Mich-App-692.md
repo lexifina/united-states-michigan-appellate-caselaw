@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "98585"
+decided: "1988-08-16"
+citations: ["170 Mich. App. 692"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and Mackenzie and P. R. Joslyn, JJ."]
+parties: ["SCHMITZ v CANNONSBURG SKIING CORPORATION"]
+source_url: "https://static.case.law/mich-app/170/cases/0692-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2291009
+cites_cases: ["155 Mich App 484", "1962 PA 199", "1981 PA 86", "275 NW2d 511", "400 NW2d 653", "405 Mich 638", "406 Mich 1119", "428 Mich 864", "55 ALR4th 632"]
+---
+
+# Schmitz v. Cannonsburg Skiing Corp.
+
+## Majority (Mackenzie, J.)
+
+Mackenzie, J.
+Plaintiff’s decedent died as the resuit of injuries incurred when he struck, while downhill skiing, the lone tree growing on a ski slope operated by defendant. Plaintiff appeals as of right from an order granting summary disposition in favor of defendant pursuant to MCR 2.116(C)(8). The trial court ruled that plaintiff’s claims of negligence and intentional nuisance were barred by the Ski Area Safety Act, MCL 408.321 et seq.; MSA 18.483(1) et seq. We agree and affirm.
+Section 22(2) of the Ski Area Safety Act, MCL 408.342(2); MSA 18.483(22)(2), provides:
+Each person who participates in the sport of skiing accepts the dangers that inhere in that sport insofar as the dangers are obvious and necessary. Those dangers include, but are not limited to, injuries which can result from variations in terrain; surface or subsurface snow or ice conditions; bare spots; rocks, trees, and other forms of natural growth or debris; collisions with ski lift towers and their components, with other skiers, or with properly marked or plainly visible snow-making or snow-grooming equipment. [Emphasis added.]
+The Ski Area Safety Act was enacted, among other reasons, "to provide for certain presumptions relative to liability for an injury or damage sustained by skiers [and] to prescribe the duties of skiers and ski area operators.” Preamble, 1962 PA 199, as amended by 1981 PA 86, § 1.
+The Legislature perceived a problem with respect to the inherent dangers of skiing and the need for promoting safety, coupled with the uncertain and potentially enormous ski area operators’ liability. Given these competing interests, the Legislature decided to establish rules in order to regulate the ski operators and to set out ski operators’ and skiers’ responsibilities in the area of safety. MCL 408.340 et seq.; MSA 18.483(20) et seq. As part of this reform, the Legislature has decided that all skiers assume the obvious and necessary dangers of skiing. This is a rational solution for limiting ski area operators’ liability and promoting safety. [Grieb v Alpine Valley Ski Area, Inc, 155 Mich App 484, 488-489; 400 NW2d 653 (1986), lv den 428 Mich 864 (1987).]
+Plaintiff contends that the language of the Ski Area Safety Act sets up a scheme of codified negligence using the common-law standards of reasonable behavior under the circumstances. This contention is supported by the language of MCL 408.342(1); MSA 18.483(22)(1) which states that a skier must "[m]aintain reasonable control of his or her speed and course at all times.” Plaintiffs contention is further supported by MCL 408.344; MSA 18.483(24), which states that a skier or ski area operator who violates the act is "liable for the portion of loss or damage resulting from that violation,” and which suggests a comparative negligence principle such as that articulated in Placek v Sterling Heights, 405 Mich 638; 275 NW2d 511 (1979), reh den 406 Mich 1119 (1979). Indeed, the Senate’s own analysis of the amended act notes that it was intended to coincide, rather than conflict, with the existing comparative negligence law by reiterating that each person is liable for his own actions and encouraging skiers to seriously accept responsibility for their own safety and that of others. Senate Legislative Analysis, SB49, April 17, 1981.
+We have no quarrel with plaintiff’s interpretation of the act, as far as it goes. However, the Senate Analysis also speaks of the Legislature’s concern with making the skier, rather than the ski area operator, bear the burden of damages from injuries:
+By clearly defining the extent to which skiers and ski area operators are liable for damages and injuries sustained in skiing accidents, the bill would help reduce the number of lawsuits in which skiers recover large sums of money for injuries that are primarily their own fault. This, in turn, should stabilize the constantly increasing insurance costs for ski area operators, which have been passed on to skiing enthusiasts through price hikes for ski lift tickets, rental equipment, waxing services, etc. [id.]
+Under many circumstances, the question of whether the skier or ski area operator has violated the statute would be measured by a negligence standard. For example, the question of whether a skier had maintained reasonable control of his speed and course as directed by MCL 408.342(1); MSA 18.483(22)(1) would usually be a question for the trier of fact. In such a case, common-law negligence principles of "reasonable under the circumstances” and comparative negligence would be applicable.
+However, it is clear from the plain and unambiguous wording of §22(2) that the Legislature intended to place the burden of certain risks or dangers on skiers, rather than ski resort operators. Significantly, the list of "obvious and necessary” risks assumed by a skier under the statute involves those things resulting from natural phenomena, such as snow conditions or the terrain itself; natural obstacles, such as trees and rocks; and types of equipment that are inherent parts of a ski area, such as lift towers and other such structures or snow-making of grooming equipment when properly marked. These are all conditions that are inherent to the sport of skiing. It is safe to say that, generally, if the "dangers” listed in the statute do not exist, there is no skiing. Therefore, it is logical to construe this section of the statute as an assumption of the risk clause that renders the reasonableness of the skiers’ or the ski area operator’s behavior irrelevant. By the mere act of skiing, the skier accepts the risk that he may be injured in a manner described by the statute. The skier must accept these dangers as a matter of law.
+Affirmed.
