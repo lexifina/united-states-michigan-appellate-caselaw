@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-2865"
+decided: "1979-08-07"
+citations: ["91 Mich. App. 624"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P.J., and Bronson and A. E. Moore, JJ."]
+parties: ["PEOPLE v BROOKS"]
+source_url: "https://static.case.law/mich-app/91/cases/0624-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2176088
+cites_cases: ["245 NW2d 566", "248 NW2d 695", "249 NW2d 114", "250 NW2d 751", "258 NW2d 535", "265 NW2d 128", "279 NW2d 598", "29 ALR2d 1074", "399 Mich 431", "411 US 778", "70 Mich App 204", "72 Mich App 7", "72 Mich App 710", "77 Mich App 496", "81 Mich App 303", "89 Mich App 124", "97 ALR2d 549"]
+---
+
+# People v. Brooks
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals as of right an order revoking his probation and sentencing him to a prison term of from two to five years.
+Defendant argues that reversal is required because he was not advised of his due process right to a contested hearing before he pled guilty. While the rights of a defendant at a revocation hearing are limited, they do include the right to a contested hearing. Gagnon v Scarpelli, 411 US 778; 93 S Ct 1756; 36 L Ed 2d 656 (1973). This Court has held that before a defendant may knowingly and voluntarily waive this right by pleading guilty, he must be informed of the right. People v Radney, 81 Mich App 303; 265 NW2d 128 (1978), People v Hardin, 70 Mich App 204; 245 NW2d 566 (1976). This does not mean that the defendant must be directly informed by the court of his right to a contested hearing; it is sufficient that the defendant is in some manner made aware of the right. See People v Rial, 399 Mich 431, 440-441; 249 NW2d 114 (1976) (Levin, J., concurring), People v Hooks, 89 Mich App 124; 279 NW2d 598 (1979), People v Darrell, 72 Mich App 710; 250 NW2d 751 (1976). The record must disclose, however, that defendant was indeed aware of the right. The fact that the notice of probation violation or the bench warrant charging the defendant refers to the fact that a hearing will be held, or that the defendant may present witnesses, or have an attorney present is not sufficient unless the record also discloses that the defendant has received and read the notice and was aware of the right to a contested hearing and understood what the right entailed. People v Hooks, supra, 133 (Bronson, J., dissenting)
+In the present case, th record includes a written "Notice of Probation Violation”. The notice is addressed to the court from the probation officer, and informs the court that the defendant is believed to have violated his probation. Near the bottom of the form, the following language appears:
+"Wherefore this court is requested to issue a warrant for probationer’s apprehension and detention pending a hearing and to set a date for a hearing on said alleged violation.
+"Defendant to be notified by a service of a copy of the petition and of this order, to present witnesses if he desires.”
+The back of the form contains a section to be filled in by the person who served the notice on the defendant, and a section where defendant can acknowledge service. Neither of these sections is completed. The back of the form also contains the following language, apparently addressed to the defendant:
+"The Probation Officer has informed me I am entitled to an attorney at the violation hearing. He also informed me that if I cannot afford my own attorney the Court will appoint one for me, and that I am not required to make a statement without counsel being present.”
+This passage is followed by a blank, apparently to be filled with defendant’s signature. The blank is not signed. The transcript of the revocation hearing makes no reference to the notice, nor does it in any other fashion reflect that defendant knew of his right to a contested hearing. Instead, it reveals that immediately after the charge was stated by an officer of the probation department, the court requested a plea and the defendant’s attorney offered a plea of "guilty with extenuating circumstances”.
+The record in this case is totally silent as to whether defendant was aware of his right to a contested hearing. There is no indication that he ever received the notice, much less that he had read and understood it. The transcript does not reflect that he had knowledge of this right from any other source. Since we cannot say that defendant made a knowing and voluntary waiver of the right, we reverse the order revoking probation and remand for a revocation hearing. The fact that defendant admitted violating his probation does not relieve the court of the duty to ensure that the waiver is knowing and voluntary. People v Hardin, supra, People v Michael Brown, 72 Mich App 7; 248 NW2d 695 (1976).
+The problem of ascertaining whether defendants have knowingly and voluntarily waived the minimal rights that due process affords them in probation revocation hearings has confronted this Court on several occasions. We have avoided requiring the sort of "check list” format that is involved when guilty pleas are taken in normal criminal proceedings, and we do not deviate from that position today. See People v Rial, 399 Mich 431; 249 NW2d 114 (1976), People v Hooks, supra, 130, People v Darrell, supra, 715 (Bronson, J., dissenting), People v Michael Brown, supra, 14-15, People v Hardin, supra, 208. Prosecutors, probation officers, and courts would be well-advised, however, to insure that the record in some manner adequately reflects that the defendant knew of his or her due process rights, and made a knowing and voluntary waiver before pleading guilty.
+Defendant’s other assignment of error is not properly before the Court at this time. At defendant’s revocation hearing, he may present his confrontation claim if necessary.
+Reversed and remanded for proceedings not inconsistent with this opinion.
+This Court has at times found that statements in the notice of probation violation or in the bench warrant referring to a "pending violation hearing” may provide sufficient notice to the defendant of his or her right to a contested hearing, even without support in the record that the papers were received, read, or understood by the defendant. People v Hooks, supra, People v Darrell, supra. Other cases have rejected this rationale. People v Gaudett, 77 Mich App 496, 500-501; 258 NW2d 535 (1977). In appropriate circumstances, we may infer that the defendant read and understood the rights outlined in these writings sufficiently to knowingly and voluntarily waive them. Where the record does not even disclose that the writings were received, however, we cannot infer that the writings supplied the notice that Hardin, supra, requires.
