@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "72194"
+decided: "1986-02-03"
+citations: ["148 Mich. App. 564"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cynar, P.J., and M. J. Kelly and R. L. Evans, JJ.", "R. L. Evans, J., concurred."]
+parties: ["THEOPHELIS v LANSING GENERAL HOSPITAL (ON REHEARING)"]
+source_url: "https://static.case.law/mich-app/148/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2256173
+cites_cases: ["10 ALR3d 1330", "125 Mich App 612", "138 Mich App 121", "141 Mich App 199", "141 Mich App 205", "210 NW2d 137", "337 NW2d 20", "358 NW2d 904", "366 NW2d 249", "48 Mich App 67"]
+---
+
+# Theophelis v. Lansing General Hospital
+
+## Majority (Cynar, P.J.)
+
+On Rehearing
+Before: Cynar, P.J., and M. J. Kelly and R. L. Evans, JJ.
+Cynar, P.J.
+Defendant Lansing General Hospital applied for a rehearing, which was granted. Upon reconsideration of our decision in Theophelis v Lansing General Hospital, 141 Mich App 199; 366 NW2d 249 (1985), we vacate that decision and set aside the jury verdict against defendant hospital. Our decision is based on the fact that the trial court erroneously submitted to the jury the question of defendant hospital’s vicarious liability for the negligent acts of Nurse Palmer and Dr. Gilmore. The valid release of Nurse Palmer and Dr. Gilmore released the hospital from any liability based on a theory of respondeat superior. Drinkard v William J Pulte, Inc, 48 Mich App 67, 76-78; 210 NW2d 137 (1973). The language of the two releases, however, did not protect the hospital from liability for its independent and concurrent acts of negligence. Drinkard, supra; Willis v Total Health Care of Detroit, 125 Mich App 612, 617; 337 NW2d 20 (1983).
+Defendant hospital’s brief on appeal states that there was never a request to strike from the complaint the allegations of independent acts of negligence committed by the hospital. Defense counsel asserted for the first time in their brief in support of motion for rehearing that, at the close of plaintiffs’ proofs, the trial court granted the hospital a directed verdict on all but one of plaintiffs’ independent claims against the hospital. Defense counsel’s failure to accurately describe, in their brief on appeal, the status of plaintiffs’ independent claims against the hospital obstructed our initial review of this case.
+Our reconsideration of the record indicates that the one independent allegation against the hospital which was not stricken from plaintiffs’ complaint was the claim that the hospital negligently failed to "ascertain that in all pediatric cases a precordial stethoscope shall be used”. The trial court found that defendant hospital was not entitled to a directed verdict on this claim because there was competent evidence and/or expert testimony to support the allegation.
+Viewing the evidence in a light most favorable to plaintiffs, granting them every reasonable inference and resolving any conflict in the evidence in their favor, Rushing v Wayne County, 138 Mich App 121; 358 NW2d 904 (1984), we find that there was no competent evidence or expert testimony concerning the hospital’s breach of the standard of care as it relates to the use of precordial stethoscopes in pediatric cases. We acknowledge that plaintiffs’ expert, Dr. Zsigmond, testified that failure to use a stethoscope, in this case, was a "very severe major deviation from the good standard of practice”. However, the record indicates that when plaintiffs’ counsel asked Dr. Zsigmond his opinion on this matter, plaintiffs’ counsel was speaking specifically in terms of Nurse Palmer. Dr. Zsigmond did not express an opinion on whether the hospital had breached any standard of care by failing to ascertain that a precordial stethoscope should be used in all pediatric surgical cases. Dr. Smith, the hospital’s expert, stated that in his opinion the hospital complied with the applicable standards in the management of the operating room procedures in this case. Hence, there was insufficient evidence presented at trial to submit to the jury the question of the hospital’s breach of the standard of care regarding the use of precordial stethoscopes.
+We disagree with the dissenting opinion. Our review of the record convinces us that the evidence introduced at trial does not support the jury verdict.
+This Court’s prior opinion in this case is vacated, the jury verdict is set aside and the case remanded for new trial.
+R. L. Evans, J., concurred.
+
+## Dissent (M. J. Kelly, J.)
+
+M. J. Kelly, J.
+(dissenting). I respectfully dissent and continue to adhere to the analysis set forth in Theophelis v Lansing General Hospital, 141 Mich App 199; 366 NW2d 249 (1985).
+The majority vacates our earlier opinion and sets aside a jury verdict on the basis of issues raised by defendant hospital for the first time on appeal by way of a motion for rehearing. In its original brief on appeal, defendant hospital never argued that allegations of independent and concurrent acts of the hospital’s negligence had been struck from the complaint on defendant hospital’s motion after the close of proofs and prior to submission of the case to the jury. To the contrary, defendant hospital expressly and repeatedly asserted in its brief that it had never moved to strike allegations of independent and concurrent negligence:
+"It is not disputed that plaintiffs’ complaint, while it did allege separate, independent acts of negligence against defendant Lansing General Hospital, also premised liability on the allegation that Lansing General Hospital was vicariously liable for the separate acts of its agents, Palmer and Gilmore. It must be made clear that defendant moved to have stricken only those claims against Palmer and Gilmore. It, of course, could not have any claims based on alleged independent tortious acts against the hospital stricken.”
+Moreover, defendant hospital never argued in its original brief on appeal that plaintiffs’ proofs were insufficient on the hospital’s standard of care. Defendant hospital challenged only the trial court’s refusal to strike certain allegations from the amended complaint regarding the acts of nurse anesthetist Jana Palmer and anesthesiologist Dr. Jack Gilmore. We interpreted this issue for its evidentiary implications and held that the acts of the settling tortfeasors may be introduced where "critical to the ability of plaintiffs to prove their independent claims against the hospital”. 141 Mich App 205.
+On rehearing, the majority concludes that the only allegation properly before the jury with regard to defendant hospital’s liability was whether it had been negligent in failing to require the use of the precordial stethoscope as standard operating procedure. The majority finds that the record is insufficient as to the standard of care required by hospitals in delivering anesthesiology services.
+I note initially that while the trial court did strike certain allegations of independent hospital negligence from plaintiffs’ complaint upon defendant hospital’s motion at the close of plaintiffs’ proofs, the trial court at the same time granted plaintiffs’ motion to amend their complaint to conform to the proofs. I am thus most concerned on rehearing with whether the record supports the jury’s finding of independent hospital negligence. Plaintiffs’ expert witness, Dr. Zsigmond, testified about breaches of the standard of care by the respiratory therapy department and by the intensive care unit in the treatment of the deceased, Gene Christopher Schneider. Dr. Zsigmond also testified about the standard of care in anesthesiology required of the nurse-anesthetist and the anesthesiologist. Plaintiff introduced into evidence a bulletin of the American Osteopathic Association as to the responsibility of a hospital to supervise and oversee its department of anesthesiology and staff. I believe that, when viewed in its entirety, the evidence introduced at trial does support the jury’s vierdict. I would affirm.
