@@ -1,0 +1,50 @@
+---
+court: "Michigan Court of Appeals"
+docket: "20963"
+decided: "1976-01-26"
+citations: ["66 Mich. App. 710"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, P. J., and Quinn and D. E. Holbrook, Jr., JJ."]
+parties: ["CHESLEK v GILLETTE (HESSEL-CHESLEK FUNERAL HOME v GILLETTE)"]
+source_url: "https://static.case.law/mich-app/66/cases/0710-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2149600
+cites_cases: ["116 NW2d 816", "12 LRA 601", "138 NW2d 545", "2 Mich App 82", "204 Mich 164", "215 NW 331", "216 NW2d 455", "240 Mich 327", "248 NW 869", "263 Mich 466", "296 Mich 375", "296 NW 294", "303 Mich 161", "330 Mich 436", "350 Mich 685", "367 Mich 508", "392 Mich 760", "47 NW2d 679", "48 NW 582", "5 NW2d 737", "52 Mich App 143", "85 Mich 316", "86 NW2d 816", "93 ALR 1170"]
+---
+
+# Cheslek v. Gillette
+
+## Majority (Danhof, P. J.)
+
+Danhof, P. J.
+On April 27, 1973, the plaintiffs brought the present action to enjoin the defendants from interfering with an easement claimed by the plaintiffs. In an opinion filed February 20, 1974, the trial court declared a prescriptive easement in favor of the plaintiffs and concluded that the defendants should be permanently enjoined from interfering with the easement. The defendants now appeal as of right.
+The parties in the instant case are owners of adjoining buildings and property in Sparta, Michigan. The plaintiffs operate a funeral home and the defendants operate a grocery store. The disputed easement involves a strip of land approximately ten feet wide, referred to as the east driveway, which runs between the two buildings. Most of the ten-foot strip is on property titled to the defendants.
+At the nonjury trial on February 6, 1974, the former owner of the plaintiffs’ property from 1947 to 1970, Bernard R. Hessel, testified as to the subject driveway:
+"When I bought the place from George Bettis, George Bettis said that he had paid for ah easement on it so far as the cars coming in and going and as far as life of the funeral business, there was never no question.”
+While George Bettis is deceased, the deposition of his wife, Greta D. Bettis, was admitted into evidence. Mrs. Bettis testified that in 1931 she and her husband purchased an easement for $100 from the previous owners of the defendants’ property, the McGowans. While no deeds or written grants appear to have survived, a letter, dated December 10, 1931, evidencing receipt of half the purchase price on the driveway was admitted into evidence. Mrs. Bettis also testified that the parties to the sale contemplated the property would be used for a funeral home and that "the driveway was necessary for the funeral business”.
+It further appears from the record that an overhang above the driveway, constructed on the plaintiffs’ building sometime before 1931, prevented what the trial court termed "uninhibited” use of the driveway by the defendants and their predecessors.
+Dunk v Brighton Township, 52 Mich App 143, 146; 216 NW2d 455 (1974), lv den, 392 Mich 760 (1974), states the applicable standard of review for the present equitable action:
+"Equity cases are reviewed de novo on the record on appeal. However, this Court will not ordinarily disturb the findings of the trial court unless, after an examination of the entire record, it reaches the conclusion that it would have arrived at a different result had it been in the position of the trial court. Christine Building Co v City of Troy, 367 Mich 508; 116 NW2d 816 (1962).”
+The first issue raised on appeal is whether there was sufficient evidence to establish the element of adverse user for a driveway easement.
+Outhwaite v Foote, 240 Mich 327, 329; 215 NW 331 (1927), sets forth some of the elements of an easement by prescription, particularly adverse user:
+"Prescription is founded upon the supposition of a grant. The use or possession to support it must be adverse, or of such a nature as indicates that it is claimed as a right. Permission is insufficient.
+" 'Adverse user is defined as such a use of the property as the owner himself would exercise, disregarding the claims of others entirely, asking permission from no one, and using the property under a claim of right.’ 9 RCL pp 776, 777.
+"It must be exclusive in the sense that the right does not depend upon a like right in others. First National Bank v Vanden Brooks, 204 Mich 164.”
+As to the claim of right element, the Outhwaite Court adopted the following:
+" 'The rule that a permissive user will not ripen into an easement by prescription does not, however, apply where there has been an attempt to grant the easement which is void because of the statute of frauds.’ 9 RCL p 779.” 240 Mich at 332.
+In order to establish the above, the "evidence of adverse user must be clear”. Hopkins v Parker, 296 Mich 375, 380; 296 NW 294 (1941). Further, "the burden of proving the existence of an easement is upon the claimant thereof’. Stewart v Hunt, 303 Mich 161, 163; 5 NW2d 737 (1942).
+After reviewing the record in the instant case, it appears the plaintiffs upheld the burden of showing adverse use of the driveway in question under a claim of right. While the testimony of Mrs. Bettis may not satisfy the statute of frauds for the grant of an easement, it is sufficient to show an attempted grant, thereby dispelling the argument that the use of the driveway was permissive. Outh-waite v Foote, supra. It also appears the plaintiffs and their predecessors used the driveway as if they did, in fact, have the right to do so under the grant. The best example of the adverse use has been the overhang, which prevented free and uninhibited use of the driveway by the defendants and their predecessors. Accordingly, under the principles set forth above, there was sufficient evidence to establish the element of adverse user.
+The defendants’ argument that there was "mutual use” of the driveway does not apply in the instant case. The driveway herein was neither owned half and half by the adjoining lots nor was it maintained for the joint benefit of both properties, as is evident from the presence of the overhang. See Banach v Lawera, 330 Mich 436; 47 NW2d 679 (1951), and the cases cited therein pertaining to "mutual use”.
+The next issue on appeal is whether the evidence established a permanent driveway easement.
+Delaney v Pond, 350 Mich 685, 687; 86 NW2d 816 (1957), defines the permissible scope of an easement:
+"The use of an easement must be confined strictly to the purposes for which it was granted or reserved. A principle which underlies the use of all easements is that the owner of an easement cannot materially increase the burden of it upon the servient estate or impose thereon a new and additional burden. See 17A Am Jur, Easements, § 115, p 723.”
+Lee v Fidelity Life & Income Mutual Insurance Co, 2 Mich App 82, 87; 138 NW2d 545 (1965), further states:
+"The rights of the owner of the easement are paramount to the extent of the grant, Harvey v Crane, 85 Mich 316 [48 NW 582] (1891), (12 LRA 601), but what may be a reasonable and proper use of the fee and what may be necessary to the beneficial use and enjoyment of the easement by its owner are questions of fact to be determined upon a trial. Hasselbring v Koepke, 263 Mich 466 [248 NW 869] (1933), (93 ALR 1170); Harvey v Crane, supra. ”
+It is clear from the deposition testimony of Greta D. Bettis, an original grantee of the easement, that she and her husband obtained the easement because it was necessary for their funeral business. The subsequent grantee or purchaser, Bernard R. Hessel, further testified that George Bettis informed him that he, Mr. Bettis, had purchased the easement "as far as life of the funeral business”. From this evidence, the easement should have been strictly confined to the purpose for which it was granted, the funeral business. Delaney v Pond, supra. Thus, had we sat in the position of the trial court, we would have arrived at a different result. Dunk v Brighton Township, supra. Therefore, the judgment of the trial court is hereby modified to enjoin the defendants, their heirs, successors, assigns, agents, and employees, from interfering with the plaintiffs’ easement only so long as the plaintiffs or their successors continue to use their adjoining property for the funeral business.
+The defendants next contend the trial court erred in allowing the plaintiffs to maintain a new, front overhang. The funeral home has had a rear overhang to cover the east driveway since the Bettis’s owned the property. It is not clear the new overhang will materially increase the burden on the defendants’ property. Delaney v Pond, supra. The trial court concluded the defendants should be enjoined from interferences with the plaintiffs’ overhangs. After reviewing the entire record, we cannot state that we would have reached a different result. Dunk v Brighton Township, supra.
+The last issue raised is whether the legal description of the easement in the trial court’s judgment is erroneous.
+The trial court directed "that special care be used in drafting the legal description of the easement” in its opinion filed February 20, 1974. On April 22, 1974, the plaintiffs filed a motion for a determination of the exact description of the easement herein. On April 26, 1974, the trial court entered a judgment which included an exact legal description. The defendants subsequently filed a motion for a new trial which prayed for a modification of the legal description. The trial court denied the defendants’ motion for a new trial on May 31,1974.
+The trial court has considered and reconsidered the legal description of the easement in the present case. It included what it deemed to be the correct description in its judgment. As the record has not convinced this Court on appeal that we would reach a different result, we will not disturb the findings of the trial court. Dunk v Brighton Township, supra.
+Affirmed, except as modified herein. No costs, neither party prevailing in full.
