@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "18356"
+decided: "1974-11-26"
+citations: ["56 Mich. App. 699"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P. J., and J. H. Gillis and Mc-Gregor, JJ.", "All concurred."]
+parties: ["ULICHNIE v DAVIS"]
+source_url: "https://static.case.law/mich-app/56/cases/0699-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2131049
+cites_cases: ["174 NW2d 35", "1972 PA 345", "20 Mich App 367", "200 NW2d 784", "201 NW2d 786", "201 NW2d 795", "388 Mich 464", "388 Mich 482", "41 Mich App 635", "79 ALR2d 1252"]
+---
+
+# Ulichnie v. Davis
+
+## Majority (J. H. Gillis, J.)
+
+J. H. Gillis, J.
+This appeal arises out of a motor vehicle accident which occurred on August 30, 1970. A pickup truck, owned by defendant Davis and driven by defendant Slappy, struck and killed plaintiffs decedent, Robert A. Ulichnie, as he sat astride his minibike. Plaintiff sued individually for personal injuries sustained as a result of his viewing the accident; he also sued as administrator of his son’s estate.
+Because defendant Slappy was uninsured, plaintiff joined his own insurer, Auto-Owners Insurance Company as a defendant. Plaintiff then moved for summary judgment against Auto-Owners, alleging that he was entitled to recover from it under the uninsured motorist’s coverage contained in the policy. Defendant Auto-Owners denied liability, pointing to a restrictive endorsement added to the original policy. The trial judge ruled that although the endorsement was not violative of public policy, it nonetheless did not apply to plaintiff since it was not bargained for. Before we decide the propriety of this ruling, it is necessary to examine the insurance policy itself.
+The insurance policy in issue was first issued on December 8, 1967. It was renewable every six months. The policy contained provisions protecting the insured against injury and death caused by an uninsured motorist. Under the terms of the original policy, both plaintiff and defendant admit that defendant insurance company would have been liable. But on December 8, 1968, defendant claims to have sent plaintiff the following endorsement with its renewal offer:
+"In consideration of the premium at which this policy is written, it is agreed that Coverage D — Uninsured Motorist shall not apply to any bodily injury to an insured sustained while in, upon, entering or alighting from any motor vehicle not described in the Declarations attached to this policy and that is owned by the named insured, spouse or relatives of either who are residents of the insured’s household; nor to any described motor vehicle unless a premium charge is shown under Uninsured Motorist for such vehicle.” (Emphasis supplied.)
+Since deceased was a resident of the Ulichnie household, and since the minibike was not listed on the insurance policy, defendant insurance company denies any liability. Plaintiff contends that the endorsement was ineffective for three reasons: first, he never received it; second, he did not bargain for the additional restrictions set forth in the renewal; and, third, the endorsement violates MCLA 500.3010; MSA 24.13010 and public policy. Without examining plaintiff’s first two contentions, we hold that the endorsement did violate MCLA 500.3010; MSA 24.13010.
+MCLA 500.3010; MSA 24.13010, in effect at the time the policy was issued held that:
+"No automobile liability or motor vehicle liability policy insuring against loss resulting from liability imposed by law for bodily injury or death suffered by any person arising out of the ownership, maintenance or use of a motor vehicle shall be delivered or issued for delivery in this state with respect to any motor vehicle registered or principally garaged in this state unless coverage is provided therein or supplemental thereto in limits for bodily injury or death set forth in section 504 of Act No. 300 of the Public Acts of 1949, as amended, being section 257.504 of the Compiled Laws of 1948, under provisions approved by the commissioner of insurance, for the protection of persons insured thereunder who are legally entitled to recover damages from owners or operators of uninsured motor vehicles, including owners or operators insured by an insolvent insurer, because of bodily injury, sickness or disease, including death, resulting therefrom, unless the named insured rejects such coverage in writing as provided herein. All such policies shall contain a notice, displayed prominently on the front page of the pohcy, in at least 8-point type that such protection coverage was explained to him and that he can reject such coverage by notice in writing. Unless the named insured requests such coverage in writing, it need not be provided in or supplemental to a renewal policy where the named insured has rejected the coverage in connection with a policy previously issued to him by the same insurer.” (Emphasis supplied.)
+The language of the statue is plain, unambiguous, and mandatory. Blakeslee v Farm Bureau Mutual Insurance Co of Michigan, 388 Mich 464, 473; 201 NW2d 786, 791 (1972); Boettner v State Farm Mutual Insurance Co, 388 Mich 482, 487; 201 NW2d 795, 798 (1972). It requires that the "named insured” reject "in writing” his statutory right to uninsured motorist coverage. No such writing is shown here.
+Defendant insurance company claims that its original coverage of plaintiff exceeded that required by the statute, and that the endorsement merely narrowed the coverage to that called for by the statute. Thus, defendant argues that no written waiver was required in this situation. While this may be true, we cannot accept defendant’s first premise. The statute does not so limit the scope of the insurer’s duty. The purpose of the statute is to "place the victim of an uninsured motorist in the same position he would have occupied had the tortfeasor been insured”. Hopkins v Auto-Owners Insurance Co, 41 Mich App 635, 638; 200 NW2d 784, 786 (1972). The statute focuses on the tortfeasor’s liability and not on the ownership of the motor vehicle driven by the victim. There can be no question that defendant’s endorsement attempted to limit their liability to something less than the statute requires.
+While this statute indicates the Legislature’s desire to have insurance companies bear the burden of protecting against uninsured motorists, it did allow for waiver of liability by the insured. The written notice requirement served "to place the burden of guaranteeing a knowledgable rejection on the insurance company”. Oatis v Dairyland Insurance Co, 20 Mich App 367, 372; 174 NW2d 35, 37 (1969). The defendant insurance company has not met its burden,
+Affirmed. Costs to appellee.
+All concurred.
+Repealed by 1972 PA 345, January 9,1973.
