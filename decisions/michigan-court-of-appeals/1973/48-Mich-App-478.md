@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "14467"
+decided: "1973-07-24"
+citations: ["48 Mich. App. 478"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, P. J., and Danhof and Adams, JJ.", "All concurred."]
+parties: ["PEOPLE v RUSH"]
+source_url: "https://static.case.law/mich-app/48/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2106592
+cites_cases: ["172 NW2d 831", "175 NW2d 860", "19 Mich App 407", "197 NW2d 51", "204 NW2d 263", "21 Mich App 312", "371 US 471", "383 Mich 796", "387 Mich 294", "387 Mich 368", "394 US 721", "43 Mich App 500"]
+---
+
+# People v. Rush
+
+## Majority (Holbrook, P. J.)
+
+Holbrook, P. J.
+On February 25, 1972, defendant was found guilty by the trial judge sitting without a jury of armed robbery, MCLA 750.529; MSA 28.797. He was sentenced on March 31, 1972, to 5 to 15 years in prison.
+Defendant was accused of participating with another in the armed robbery of three men, Walter Sharpe, Gary W. Yanik, and Clare N. Hume, III, on an Ann Arbor street around 11 p.m., November 5, 1970. The three victims said they were stopped as they were walking down the street, ordered at gun point into a yellow Cougar car with a black top and Ohio license plates, relieved of their wallets, and ordered out of the car after a two or three block ride. Defendant was arrested three days after the incident by the Ann Arbor police who at the time of the arrest were in the process of investigating another crime in which it had been reported that a black and yellow Mercury Cougar with Ohio license plates had been involved. After determining that the auto belonged to Richard Damon and after locating the auto behind the Barton Shore apartments, the police secured an arrest warrant for Damon. They proceeded to the apartment and placed Damon under arrest. Defendant was found in the apartment and he also was placed under arrest because, according to the arresting officer, "Mr. Rush, of course, did answer partially the physical description we had on the armed robbery”. At the preliminary examination the arresting officer said he found a revolver in defendant’s tennis shoe, but this evidence was excluded as a collateral matter at trial. Defendant was removed to the police station, fingerprinted and photographed, and then was released because the officers said they lacked sufficient evidence to hold him. The victim Yanik examined over 100 mug shots at the request of the Ann Arbor police on November 24, 1970, and identified the defendant from the pictures. Defendant was thereafter returned from Wisconsin for trial on the basis of this photo identification.
+While being cross-examined at trial Yanik positively identified the defendant as the armed robber, saying at one point in response to defense counsel’s inquiry whether he could be making a mistaken identification:
+"I don’t consider sending somebody to jail a light thing. I wouldn’t say yes if I didn’t believe it was true. I one hundred percent believe it is true. That’s what I feel. If you say, 'Could it be possible?’, yes, I could be crazy, but I believe it is true.”
+On recross-examination Yanik also stated:
+“A. I sat back there and looked at him at least 45 minutes while this court case was on, and I was trying to decide if I was positive it was him, and I decided it was.
+”Q. [Mrs. Burgoyne, defense counsel]: You made that decision today?
+'A. How can I know until I see him? I didn’t even consider the pictures until I saw the person. I reserved final decision until I saw him in the . courtroom because sometimes pictures can change a person’s appearance also.”
+On appeal defendant first asserts that his arrest November 8, 1970, was without probable cause and therefore illegal. Therefore, the defendant contends, both the in-court and photo identification by Yanik must be excluded from the consideration of the trier of fact since they were "tainted” as products of the illegal arrest. Defendant’s argument is derivative from Davis v Mississippi, 394 US 721; 89 S Ct 1394; 22 L Ed 2d 676 (1969), wherein the United States Supreme Court held that fingerprints obtained from a defendant when he was illegally detained should have been excluded as a product of that illegal detention, and Wong Sun v United States, 371 US 471; 83 S Ct 407; 9 L Ed 2d 441 (1963), wherein the Supreme Court excluded narcotics as evidence seized from another because the police were led to the seizure through statements made after an illegal arrest. Thus, defendant seeks to apply the "fruit of the poisonous tree” doctrine recited in Wong Sun to delete the main piece of incriminating evidence from his trial, that of the in-court identification by Yanik. Assuming without deciding that the November 8, 1970 arrest of the defendant here was illegal, the test we must apply as stated in Wong Sun, p 488 (83 S Ct, p 417; 9 L Ed 2d, p 455), is:
+"[W]hether, granting establishment of the primary illegality, the evidence to which instant objection is made has been come at by exploitation of that illegality or instead by means sufficiently distinguishable to be purged of the primary taint.”
+See this Court’s adoption of the Wong Sun rationale in People v Hutton, 21 Mich App 312; 175 NW2d 860 (1970), lv den, 383 Mich 796 (1970). In People v Harper, 43 Mich App 500; 204 NW2d 263 (1972), we applied the Hutton rationale to hold that a subsequent in-court identification will not be deemed inadmissible or prejudicial if it had an independent basis even though it was preceded by a prior illegal confrontation. Yanik’s positive identification testimony quoted above adequately demonstrates to us its independent character, severable from the photo identification. Even if the arrest was illegal, Yanik’s in-court identification need not be excluded.
+Defendant also claims on appeal that there was insufficient evidence to find him guilty beyond a reasonable doubt. His argument is based on the trial judge’s statement in convicting him:
+"The one witness, Yanik, definitely did identify this defendant. The other two witnesses were not able to do so. If it was only a case of identification by the witness Yanik, the court would feel there had not been proof beyond a reasonable doubt of the defendant’s guilt, but when you couple up that with the finding of the defendant in the home of the person that owned this yellow car with the black top, bearing the same license number that had been reported by the witness Yanik to the police department, the court feels that that is sufficient substantiating evidence to justify the finding that the defendant is guilty beyond all reasonable doubt.”
+The Court of Appeals in reviewing a nonjury criminal case is required to review the entire record to determine whether the trial judge clearly erred. People v Hubbard, 19 Mich App 407; 172 NW2d 831 (1969), aff'd, 387 Mich 294 (1972). Since the trial judge was not required to make findings of fact under GCR 1963, 517.1 according to the Supreme Court’s decision in People v James L Thomas, 387 Mich 368; 197 NW2d 51 (1972), we are unwilling to test the evidence on sufficiency grounds by a limited review of the trial judge’s statements. Our review of the whole record demonstrates that there was sufficient evidence which when taken together supports defendant’s conviction.
+Affirmed.
+All concurred.
