@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "222820"
+decided: "2002-01-18"
+citations: ["249 Mich. App. 282"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Saad, P.J., and Sawyer and O’Connell, JJ."]
+parties: ["PEOPLE v TOMASOVICH"]
+source_url: "https://static.case.law/mich-app/249/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1091227
+cites_cases: ["1978 PA 368", "249 Mich App 1", "365 NW2d 74", "421 Mich 93", "447 Mich 93", "451 Mich 129", "452 US 576", "454 Mich 489", "460 Mich 230", "461 Mich 147", "523 NW2d 310", "545 NW2d 642", "563 NW2d 233", "596 NW2d 11", "599 NW2d 102", "641 NW2d 252", "804 F Supp 925"]
+---
+
+# People v. Tomasovich
+
+## Majority (Sawyer, J.)
+
+Sawyer, J.
+Defendant appeals by leave granted from an order of the circuit court denying his motion for certification of eligibility for early parole consideration under MCL 791.234(10). We reverse.
+Defendant was convicted following a 1989 jury trial of conspiracy to possess with intent to deliver over 650 grams of cocaine, MCL 333.7401(2)(a)(i), and was sentenced to the mandatory term of life in prison. In 1998, the Legislature passed various statutory amendments that had the effect of removing the mandatory life in prison sentence for this offense. Specifically, those sentenced to life in prison for violation of MCL 333.7401(2)(a)(i) would be eligible for parole consideration after serving 17V2 years if they have been convicted of no other serious crime. MCL 791.234(6). Furthermore, if the sentencing judge, or his successor in office, finds that the defendant has cooperated with law enforcement, the defendant may be considered for parole after fifteen years. MCL 791.234(10).
+In 1999, defendant moved before the judge who succeeded his sentencing judge for a determination that he had cooperated with law enforcement and, therefore, was eligible for parole consideration after fifteen years. The trial court denied the motion, concluding that, while defendant had cooperated with federal law enforcement, he had only attempted to cooperate with state law enforcement. The trial court concluded that the statute requires actual cooperation with state law enforcement to be eligible for early parole consideration.
+Defendant’s only issue on appeal is that the trial court erred in determining that he was not eligible for early parole consideration. We agree.
+MCL 791.234(10) provides as follows:
+If the sentencing judge, or his or her successor in office, determines on the record that a prisoner described in subsection (6) sentenced to imprisonment for life for violating or conspiring to violate section 7401(2)(a)(i) of the public health code, 1978 PA 368, MCL 333.7401, has cooperated with law enforcement, the prisoner is subject to the jurisdiction of the parole board and may be released on parole as provided in subsection (6), 2'h years earlier than the time otherwise indicated in subsection (6). The prisoner is considered to have cooperated with law enforcement if the court determines on the record that the prisoner had no relevant or useful information to provide. The court shall not make a determination that the prisoner failed or refused to cooperate with law enforcement on grounds that the defendant exercised his or her constitutional right to trial by jury. If the court determines at sentencing that the defendant cooperated with law enforcement, the court shall include its determination in the judgment of sentence.
+In denying defendant’s motion for reconsideration, the trial court opined as follows:
+Finally, it does appear that shortly after commencing his life sentence in this case, the defendant cooperated with federal law enforcement officials in the trial of [United States] v Patrick Rugiero, et at [804 F Supp 925 (1992)]. However, it is clear that defendant’s cooperation with federal law enforcement was in exchange for an immunity agreement with the U.S. Attorney’s office. Defendant received the benefit of his cooperation with the U.S. Attorney’s office by receipt of the immunity agreement. He is not entitled to an additional benefit under MCL 791.234(9) [sic], because he did not cooperate with state law enforcement officials in his state drug case.
+We agree with defendant that the trial court erred.
+The trial court read into the statute two requirements that simply do not exist: (1) that the cooperation be in a state, not federal, prosecution and (2) that the defendant receive no benefit for his cooperation other than the early parole consideration. There was no justification for reading those requirements into the statute.
+The Supreme Court explained the primary rule for statutory interpretation in Sun Valley Foods Co v Ward, 460 Mich 230, 236; 596 NW2d 11 (1999):
+The rules of statutory construction are well established. The foremost rule, and our primary task in construing a statute, is to discern and give effect to the intent of the Legislature. Murphy v Michigan Bell Telephone Co, 447 Mich 93, 98; 523 NW2d 310 (1994). See also Nation v W D E Electric Co, 454 Mich 489, 494; 563 NW2d 233 (1997). This task begins by examining the language of the statute itself. The words of a statute provide “the most reliable evidence of its intent. . . United States v Turkette, 452 US 576, 593; 101 S Ct 2524; 69 L Ed 2d 246 (1981). If the language of the statute in unambiguous, the Legislature must have intended the meaning clearly expressed, and the statute must be enforced as written. No further judicial construction is required or permitted. Tryc v Michigan Veterans’ Facility, 451 Mich 129, 135; 545 NW2d 642 (1996). Only where the statutory language is ambiguous may a court properly go beyond the words of the statute to ascertain legislative intent. Luttrell v Dep’t of Corrections, 421 Mich 93; 365 NW2d 74 (1984).
+See also People v McIntire, 461 Mich 147, 152-153; 599 NW2d 102 (1999).
+MCL 791.234(10) refers to whether the defendant “has cooperated with law enforcement” without modifiers regarding local, state, or federal law enforcement. The phrase is clear and unambiguous and judicial construction is neither required nor permitted. The Legislature did not see fit to put in a requirement that the cooperation be with local or state authorities; therefore, it was improper for the trial court to read such a requirement into the statute. Simply put, law enforcement is law enforcement, whether it be local, state, or federal.
+The trial court also denied defendant’s motion because defendant received a use immunity agreement from the United States attorney for his cooperation with federal authorities. However, nothing in the statute precludes receiving the benefits of early parole consideration merely because the defendant’s cooperation also resulted in other benefits, such as federal immunity. Again, the trial court read into an otherwise clear and unambiguous statute a requirement that the Legislature did not place there. There simply was no basis for the trial court to refuse to apply the statute merely because defendant received additional benefits from the United States attorney for his cooperation.
+Simply put, once the trial court determined that defendant had, in fact, cooperated with federal law enforcement, the requirements of MCL 791.234(10) were met and the trial court should have certified defendant as eligible for early parole consideration.
+In light of our conclusion, it is unnecessary to determine whether the trial court also erred in concluding that defendant’s attempted cooperation with state authorities was insufficient because the statute requires actual cooperation.
+We should also briefly comment on the prosecutor’s arguments. The prosecutor devotes none of his brief to the statutory interpretation issue raised by defendant and on which this Court granted leave. Rather, the prosecutor raises a constitutional challenge to the statute, an issue neither addressed below nor on which we have granted leave. Accordingly, that issue is not properly before us.
+The trial court’s denial of defendant’s motion for early parole eligibility under MCL 791.234(10) is reversed and the matter is remanded to the trial court for entry of an order certifying early parole eligibility under MCL 791.234(10). We do not retain jurisdiction.
+Those who have been convicted of another serious crime must serve an additional 2% years before becoming eligible for parole.
+Or after 1772 years if the defendant has been convicted of another serious crime.
+We do note that a similar argument was addressed in People v Matelic, 249 Mich App 1; 641 NW2d 252 (2001).
