@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "169106"
+decided: "1995-04-03"
+citations: ["209 Mich. App. 514"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Connor, P.J., and Wahls and Saad, JJ."]
+parties: ["MASON v ROYAL DEQUINDRE, INC"]
+source_url: "https://static.case.law/mich-app/209/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1876879
+cites_cases: ["183 Mich App 265", "204 Mich App 1", "205 Mich App 137", "418 NW2d 381", "429 Mich 495", "444 Mich 441", "454 NW2d 145", "506 NW2d 857", "514 NW2d 486", "517 NW2d 286"]
+---
+
+# Mason v. Royal Dequindre, Inc.
+
+## Majority (Saad, J.)
+
+Saad, J.
+Defendant Royal Dequindre, Inc., appeals as of right from a September 20, 1993, order of judgment for plaintiff Steven Mason following a jury trial in this premises liability action. The jury found that Royal, a business establishment, was responsible in tort for injuries sustained by Mason, a customer, due to the intentional misconduct of defendant Thomas Geoffrey, another customer. We . vacate the judgment against Royal because it had no duty, as a matter of law, to protect plaintiff from the intentional misconduct of defendant Geoffrey.
+The relevant facts are as follows. Royal Dequindre, Inc., operates the Royal Lanes bowling alley and the Dazzles lounge. On the evening of March 3, 1990, Mason was injured by Geoffrey during an abbreviated altercation in Royal’s parking lot. Geoffrey earlier had been ejected from the lounge after he fought with plaintiff’s friend, Dan Kanka. The earlier scuffle did not include Mason. After the Geoffrey-Kanka fight, Royal’s employees ejected Geoffrey from the bar and asked Kanka to remain in the lounge so as to allow Geoffrey sufficient timé to vacate the premises. Because Kanka remained in the lounge, Mason waited in an automobile in the parking lot to pick up his friend, Kanka. While in the parking lot, Mason was approached by Geoffrey; Geoffrey and Mason exchanged words regarding Geoffrey’s earlier altercation with Kanka, and then Geoffrey struck and injured Mason.
+Plaintiff filed suit and claimed that defendant Royal should be held responsible for damages arising out of the injuries inflicted upon him by Geoffrey in Royal’s parking lot. Plaintiff’s primary contention in support of his claim is that Royal failed to ensure that the assailant (Geoffrey) left the parking lot, as well as the bar, consistent with its general practice in handling similar disturbances. The jury awarded judgment for plaintiff in the amount of $90,000, finding Royal to be seventy-five percent at fault and Geoffrey twenty-five percent at fault.
+On appeal, Royal claims that the trial court erred in denying its motions for summary disposition and a directed verdict. Royal contends that Scott v Harper Recreation, Inc, 444 Mich 441; 506 NW2d 857 (1993), requires summary dismissal. In Scott, the owner of a night club advertised lighted and secured parking, and provided security guards. The plaintiff in Scott was injured in the parking lot by an unidentified gunman. Our Supreme Court in Scott refused to hold the owner of the business liable for the criminal acts of the third-party assailant. Because Scott, supra at 452, clearly holds that "[s]uit may not be maintained on the theory that the safety measures are less effective than they could or should have been,” we vacate the judgment against Royal.
+Because plaintiff’s only claim against Royal is that Royal’s failure to follow its own general procedure for ejecting unruly patrons caused plaintiff’s injuries, we find that plaintiff’s claims must fail as a matter of law in light of Scott, supra.
+The Supreme Court’s decision in Scott teaches two things that are instructive and dispositive of plaintiff’s claims here: (1) Scott reaffirms the central holding of Williams v Cunningham Drug Stores, Inc, 429 Mich 495; 418 NW2d 381 (1988), that merchants ordinarily are not responsible for the criminal acts of third persons; and, equally important, (2) a merchant that undertakes safety measures for the benefit of its patrons will not be held responsible for injuries because those measures were "less effective than they could or should have been.” Scott, supra at 452. Accordingly, where, as here, a merchant employs specific practices in an effort to improve its patrons’ safety, it will not be responsible for negligence simply because it may not have conformed its conduct to its usual practice. In brief, Royal owed no duty to protect Mason from the intentional misconduct of Geoffrey and we reject this effort to shift blame from wrongdoers to innocent merchants.
+We acknowledge that the recent cases of Jackson v White Castle System, Inc, 205 Mich App 137; 517 NW2d 286 (1994), and Schneider v Nectarine Ballroom, Inc (On Remand), 204 Mich App 1; 514 NW2d 486 (1994), provide some authority for the proposition that a merchant may be held liable for a patron’s injuries that result from the criminal acts of a third party. However, those cases are distinguishable from this case because the merchants therein had specific knowledge of a substantial danger to their patrons. In this case, the employees of defendant Royal attempted to defuse the situation by ejecting Geoffrey from the building; and there was no reason to believe that Geoffrey posed a threat to Mason (because the earlier dispute had been with Kanka). In other words, Royal had no reason to believe that Mason was "in peril,” Jackson, supra at 142, or faced "a known, obvious, and imminently dangerous situation.” Schneider, supra at 7.
+We view the facts in this case to be similar to those in Perez v KFC Nat'l Management Co, Inc, 183 Mich App 265, 270-271; 454 NW2d 145 (1990), wherein this Court refused to impose upon a merchant a duty to protect a patron because it was not foreseeable "that an irate customer would attack another patron where no indication of tension between them existed.”
+In accordance with Scott and Perez, we vacate the order of judgment and remand this case to the trial court with directions that it enter a judgment for defendant Royal Dequindre, Inc. The remaining issues raised on appeal are moot in light of our decision.
+Vacated and remanded.
