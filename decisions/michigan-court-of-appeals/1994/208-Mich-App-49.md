@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "161575"
 decided: "1994-12-06"
-citations: ["208 Mich. App. 49", "210 Mich. App. 422"]
+citations: ["208 Mich. App. 49"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["INTERNATIONAL RECOVERY SYSTEMS, INC v GABLER"]
 source_url: "https://static.case.law/mich-app/208/cases/0049-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1878281
-cites_cases: ["100 ALR3d 792", "13 NW2d 252", "204 Mich App 329", "208 Mich App 49", "210 US 230", "24 NW2d 547", "308 Mich 178", "316 Mich 37", "46 Mich 447", "514 NW2d 255", "662 F Supp 139", "745 F Supp 1266", "9 NW 525"]
+cites_cases: ["100 ALR3d 792", "13 NW2d 252", "204 Mich App 329", "24 NW2d 547", "308 Mich 178", "316 Mich 37", "46 Mich 447", "514 NW2d 255", "662 F Supp 139", "745 F Supp 1266", "9 NW 525"]
 ---
 
 # International Recovery Systems, Inc. v. Gabler
