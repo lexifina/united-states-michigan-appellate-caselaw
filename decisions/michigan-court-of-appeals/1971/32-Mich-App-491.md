@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "8554"
+decided: "1971-04-21"
+citations: ["32 Mich. App. 491"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, P. J., and McGregor and T. M. Burns, JJ.", "All concurred."]
+parties: ["AXTELL v. CITY OF PORTAGE"]
+source_url: "https://static.case.law/mich-app/32/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2097963
+cites_cases: ["22 Mich App 358", "358 Mich 447", "363 Mich 483", "383 Mich 216"]
+---
+
+# Axtell v. City of Portage
+
+## Majority (T. M. Burns, J.)
+
+T. M. Burns, J.
+Plaintiffs filed suit July 23,1968, against the City of Portage and its treasurer, Donald Gage, seeking a circuit court judgment declaring a special assessment to improve Kilgore Road unlawful, and an injunction against both defendants from collecting such special assessment. The City of Kalamazoo petitioned to intervene as a party defendant, and the petition was granted on October 11, 1968. After a six-day nonjury trial, judgment was entered November 7, 1969, dismissing plaintiffs’ complaint. Plaintiffs appeal to this Court as of right.
+Sometime in 1966, the Kalamazoo County Road Commission approached the cities of Portage and Kalamazoo with the idea of widening and improving the most westerly section of Kilgore Road. The strip in question runs from Westnedge Avenue on the east to Oakland Drive on the west where Kilgore Road ends, a distance of about one mile.
+Kilgore Road is a straight east-west one, largely residential in character, separating the City of Kalamazoo on the north from the City of Portage on the south. Presently the road is two-lane with a bituminous surface and is 22 feet wide. The road is in very poor condition due to large cracks caused by water damage. The visibility is poor due to frequent hills and the road shoulders are presently in very poor condition. Complaints have also been registered about dust and drainage problems by abutting property owners.
+Due to the above problems, the three governmental units (Kalamazoo County, City of Portage, and City of Kalamazoo) decided to improve the road by widening it to four lanes; repaving with reinforced concrete; regrading; and installing curbs, gutters, and a storm sewer to prevent further damage from water drainage. The total cost of the project, to be shared by all three governmental units, was estimated to be about $411,481.93. About one-fourth of this cost was to be borne by the property owners abutting Kilgore Road.
+Plaintiffs contended below that the special assessment is void because no special benefit will be conferred upon them as abutting property owners due to the widening and improving of Kilgore Road. Plaintiffs cite the fact that all of the old trees lining both sides of the road will have to be removed and replaced with young small ones. They also contend that living next to a new four-lane road rather than the present two-lane road with the consequent increase in traffic is a detriment rather than an improvement. Plaintiffs also contend that the proposed changes in Kilgore Road will have a detrimental effect on property values.
+Defendants’ position at the trial was that traffic would not significantly increase because Kilgore Road “dead-ends” at Oakland Drive; and, therefore, the function of the road would remain a “collector” road rather than an “arterial” road. Defendants also pointed out several other nearby artery routes which would continue to service the through traffic.
+Defendants cited several presently existing safety hazards which would he cured by the proposed improvements and introduced expert testimony to establish that property values would actually increase rather than decrease as a result of the proposed changes.
+Municipal corporations may, of course, levy special assessments upon property “abutting upon and adjacent to” an improvement MCLA § 104.1 (Stat Ann 1949 Rev § 5.1825), based upon the theory that a special benefit, over and above the general benefit conferred upon the city as a whole, is being conferred upon such property. Although the benefit must be peculiar to them because of their proximity to the improvement, the benefit may exist in a number of forms:
+“Special benefits require an increase in value, relief from a burden, or the creation of a special adaptability in the land. 63 CJS, Municipal Corporations, § 1371, p. 1128.” Sconcoff v. City of Inkster (1970), 22 Mich App 358, 361.
+The Michigan Supreme Court has held that the widening of a residential street into a four-lane main artery would not confer the type of benefit which would subject the abutting owners to a special assessment. Brill v. City of Grand Rapids (1970), 383 Mich 216; Fluckey v. City of Plymouth (1960), 358 Mich 447. However, both of the Supreme Court cases cited dealt with the situation where a residential street was converted, more or less, into a highway. The whole character of the street and the neighborhoods had been changed as a result of the improvements, causing a great deal of deterioration in the quality of life experienced by abutting land owners.
+In the instant case, Kilgore Road is hardly capable of being transformed into a through highway since it “dead-ends” at Oakland Drive. There are also in existence other thoroughfares in the Kilgore Road area which presently accommodate through traffic traveling east and west. We therefore find Brill and Fluckey distinguishable on the facts from the situation presented here.
+The trial judge found that the improvements would make Kilgore Road safer, give the abutting land owners easier ingress and egress, and also that the value of the homes would increase due to the improvements. Our review of the record leads us to the conclusion that the trial court’s findings of fact are fully supported by the evidence.
+The benefits which the trial court found will be conferred upon the abutting land owners by the improvement of Kilgore Road are the type which would be subject to a special assessment. The abutting land owners will benefit the most from having a safer road. Easier ingress and egress is also a special benefit to the abutting owners as would be any increase in property value. Therefore, since the abutting land owners will be the recipients of special benefits as a result of the improvements, the trial court was correct in upholding the special assessment.
+Plaintiffs also contend that the formula used by the cities to arrive at the amount of the special assessment is improper. Defendants have one formula for all special assessment situations based upon the theory that any street is of about equal benefit to the frontage owner. It is plaintiffs’ position that the assessors must employ a “balancing test”, i.e., weighing special benefits against special detriments, to compute the amount of the assessment.
+We cannot agree with the plaintiffs’ position. Plaintiffs rely upon Fluckey v. City of Plymouth (1960), 358 Mich 447, as standing for the proposition that a balancing test must be employed:
+“The assessors * * * weigh the benefits, if, in truth, there are benefits to be weighed.” Fluckey v. City of Plymouth, supra, p 454.
+However, the quoted sentence has been taken out of context. The Supreme Court in that case had found that the proposed improvement had, in fact, conferred a detriment rather than a benefit upon the abutting land owners. The court, in affirming the trial court’s ruling that the assessment was void, stated at page 454:
+“It must be stressed that the facts before us do not involve a mere error in judgment on the part of assessing authorities. We do not trifle with such. Nor do they involve the substitution of the judgment of the court upon the worth of special benefits conferred. The assessors, not the court, weigh the benefits, if in truth, there are benefits to be weighed. The point here is more fundamental: where, viewed in its entirety, no benefit upon abutting property owners has been conferred by the improvement, but rather a detriment suffered, a special assessment based upon the enhancement of the value of the property is a fraud in law upon such property owners.”
+In the instant case the trial court found that the proposed improvement would confer a special benefit on the abutting land owners. Our review of the evidence leads us to the same conclusion. We will not, therefore, substitute our judgment for that of the assessors upon the worth of the benefits conferred. Absent some showing that the assessment is unreasonable or out of proportion to the benefits conferred, we will not set aside the assessor’s judgment.
+Affirmed.
+No costs, since a public question is involved.
+All concurred.
+See Fluckey v. City of Plymouth (1960), 358 Mich 447; Knott v. City of Flint (1961), 363 Mich 483.
