@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "84706"
+decided: "1987-04-17"
+citations: ["161 Mich. App. 92"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cynar, P.J., and J. H. Gillis and D. F. Walsh, JJ."]
+parties: ["COCORA v GENERAL MOTORS CORPORATION"]
+source_url: "https://static.case.law/mich-app/161/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2303187
+cites_cases: ["112 NW 739", "121 Mich App 397", "143 Mich App 319", "149 Mich 112", "151 Mich App 399", "233 NW2d 811", "328 NW2d 643", "372 NW2d 537", "390 NW2d 727", "62 Mich App 500"]
+---
+
+# Cocora v. General Motors Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal as of right from a jury verdict of no cause of action. Plaintiffs’ suit against defendant alleged that defendant had defectively designed a turbocharged engine and failed to warn of the dangers involved in servicing the engine with the air inlet pipe removed.
+Plaintiff Nicholas Cocora was working as a mechanic for Bill Wink Chevrolet on November 1, 1978. A fellow employee, Maynard Nitz, asked Cocora to help work on a Chevrolet Titan truck. The engine in the truck was an 8V92T engine designed by Detroit Diesel, a division of General Motors. Nitz took off the air pipe above the turbo inlet so he could gain access to the valve cover and tied the governor stop lever to what he thought was the shutoff position, inadvertently tying the wrong lever. Cocora was standing with his right foot on the battery and his left foot on the linkage for the steering arm. Nitz was turning the engine over while Cocora was leaning over to make adjustments to the engine. The engine unexpectedly started up. Cocora lost his balance and his right hand was sucked into the engine. Nitz helped Cocora pull his hand out, but a portion of the tip of Cocora’s first finger was severed.
+Plaintiffs began this action against defendant claiming that the engine was defectively designed and that defendant had failed to warn of the danger involved in servicing the engine when the air inlet pipe has been removed. After trial, the jury returned a verdict, finding that General Motors was not liable to plaintiffs.
+On appeal plaintiffs contend that the trial court erred by not excusing for cause a proposed juror employed by Detroit Diesel, German Williams. The trial court refused to excuse Williams after questioning him in chambers and deciding that he would not be biased by his employment. Plaintiffs then used a peremptory challenge to excuse Williams and eventually exhausted their peremptory challenges.
+We agree that perhaps Williams should have been excused for cause. The court rules list thirteen grounds for challenges due to cause, MCR 2.511(D)(10), formerly GCR 1963, 511.4(10). Two panels of this Court have held that grounds four through thirteen are mandatory and, thus, once it is established that the grounds exist a judge has no discretion and must excuse the juror. Bishop v Interlake, Inc, 121 Mich App 397, 401; 328 NW2d 643 (1982); McNabb v Green Real Estate Co, 62 Mich App 500, 506-507; 233 NW2d 811 (1975). Prejudice must be inferred from the existence of one of the listed grounds for cause. One such ground for cause is employment with a party, MCR 2.511(D)(10). Following Bishop and McNabb, Williams would have to be excused.
+Furthermore, during in-chambers examination Williams showed some equivocation in his answers about whether he feared retaliation from his employer if the jury returned a large damage award. Thus, even if bias were not inferred, some evidence of bias was present.
+Williams did not sit on the jury, however, since plaintiffs used a peremptory challenge to remove him from the panel. The question before us is whether error requiring reversal occurs when a trial court fails to excuse a juror for cause but the juror is removed by use of a peremptory challenge. A case decided by our Supreme Court dating back to 1907 held that no error occurred in this situation because the trial was heard by an impartial jury. Pearce v Quincy Mining Co, 149 Mich 112, 116-117; 112 NW 739 (1907). The Court stated:
+We think that, when the parties have obtained a competent and impartial jury, there is no good reason in setting that verdict aside and granting a new trial, because the judge erred in retaining upon the jury one who was in fact disqualified, but who was afterwards peremptorily challenged. An impartial jury is all that a party is entitled to, and when he has obtained that he has no valid ground for complaint.
+More recently a similar issue has been decided by a panel of this Court. In Bishop the party wanting the juror excused used his last peremptory challenge to do so. The Court noted the importance of the unfettered use of the peremptory challenge, then held:
+Here, the record shows that plaintiffs’ counsel desired to excuse another juror but was unable to do so because his peremptory challenges had been exhausted. The failure to excuse [the juror] for cause thus constitutes reversible error. [Bishop, supra, p 403.]
+In the instant case the plaintiffs did not indicate on the record that they desired to excuse another juror but were unable to do so. Thus, this case is distinguished from Bishop, and we find, as did the Supreme Court in Pearce, that plaintiffs obtained an impartial jury and that, as a result, the trial court’s error was harmless.
+Plaintiffs also allege that the trial court erred by permitting cross-examination of plaintiff Flora Có-cora regarding the dismissal of her husband from Wink Chevrolet on theft charges. We disagree.
+During direct examination Mrs. Cocora testified that before the accident her husband was outgoing and sociable, but after the accident he did not care to go out or be seen in public. His activities at their church dwindled down considerably. She also testified that nothing else happened during this time which could be responsible for this personality change. Defendant was then allowed to ask her whether the change might have been due to Mr. Cocora’s dismissal from Wink Chevrolet for allegedly taking four quarts of oil without authorization. Defendant then asked her if she was aware that those accusations were eventually dismissed. Mrs. Cocora replied that no charges were brought against her husband and that he was innocent. It was her opinion also that Mr. Cocora’s personality change was not due to these false accusations.
+Plaintiffs argue that the testimony was improper character evidence under MRE 404 and 608. The testimony was not, however, admitted to prove the character of Nicholas Cocora as forbidden by MRE 404. Nor was the testimony about instances of prior acts of Flora Cocora, which may have violated MRE 608.
+The evidence was properly admitted for impeachment. Mrs. Cocora testified that no other event in her husband’s life could have caused his personality change. She was properly impeached on this issue by questions regarding a false accusation of theft aimed at Mr. Cocora which would naturally have been traumatic and possibly have caused his reluctance to be involved in church activities and social events. Determining the admissibility of evidence is within the sound discretion of the trial court. Hadley v Trio Tool Co, 143 Mich App 319, 328; 372 NW2d 537 (1985).
+Plaintiffs raise other issues as well, but in many of the issues plaintiffs have not offered any law to support their position. A statement of position without a supporting citation is insufficient to bring an issue before this Court; a party may not leave it to this Court to search for authority to sustain or reject its position. Wojciechowski v General Motors Corp, 151 Mich App 399; 390 NW2d 727 (1986).
+We have reviewed plaintiffs’ remaining issues and find that they do not constitute error requiring reversal.
+Affirmed.
