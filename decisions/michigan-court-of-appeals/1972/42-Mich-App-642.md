@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9535"
+decided: "1972-08-30"
+citations: ["42 Mich. App. 642"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Fitzgerald, P. J., and Holbrook and T. M. Burns, JJ."]
+parties: ["STATE HIGHWAY COMMISSION v REDMON"]
+source_url: "https://static.case.law/mich-app/42/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2118369
+cites_cases: ["19 Mich App 90", "1966 PA 295", "1967 PA 206", "21 Mich App 430", "22 ALR2d 599", "22 Mich App 238", "26 Mich App 549", "27 Mich App 446", "30 Mich App 669", "322 Mich 313", "347 Mich 1", "374 Mich 667", "4 Mich App 38", "5 Mich App 711", "7 Mich App 93", "9 Mich App 540"]
+---
+
+# State Highway Commission v. Redmon
+
+## Majority (Per Curiam)
+
+Per Curiam
+Condemnation proceedings were brought by the State Highway Commission against defendant’s land pursuant to the authority granted by 1966 PA 295, as amended by 1967 PA 206; MCLA 213.361 et seq; MSA 8.261(1) et seq. The commission appraised the property at $21,000 while defendant claimed $50,000 as compensation. A trial was had on the question of just compensation on May 11, 1970, and a jury verdict was returned in the amount of $24,000 and judgment entered accordingly.
+In its pretrial summary statement filed April 8, 1969, the commission listed Guy Caspary and Earl Closser as witnesses to appear in its behalf. The pretrial summary filed by the trial court limited pretrial discovery to July 1, 1969, and the period for mutual disclosure of witnesses between the parties to June 1, 1969. After motion by defendant, disclosure of witnesses was extended to January 30, 1970, and discovery was extended to the day of trial.
+On February 10, 1970, the commission’s expert real estate appraisal witness was stricken with a heart attack and rendered unable to testify in the series of related condemnation cases including the present one. Counsel for defendant received actual notice of witness Closser’s incapacitation on February 11, 1970, in connection with one of the earlier condemnation trials in the series. On March 16, 1970, Mr. Closser’s illness continuing, counsel for the commission notified defendant’s counsel by letter that Mr. Keith Semenak would be substituted for Mr. Closser at trial set for May 11, 1970.
+At trial, the jury having been sworn and the first witness examined, defendant moved to exclude testimony by Mr. Semenak on the grounds that his name had not appeared as a witness on the commission’s pretrial summary statement or any amendment thereto, that defendant had been informed of the commission’s intent to use Mr. Semenak only after the period for such disclosure had expired. The motion was denied, and defendant then moved for a continuance, alleging surprise and the fact that he had not been afforded the opportunity to obtain a discovery deposition from the witness. The second motion was also denied. Defendant appeals from these rulings. She claims that the court’s pretrial summary governs the subsequent course of litigation. She further claims that the parties are limited to witnesses listed in their pretrial statements or disclosed within the period set out in the pretrial summary filed by the court under GCR 1963, 301.3.
+Having examined the trial record and court files in this case we find ourselves in agreement with the trial court. Defendant delayed 56 days after receiving formal notice of the substitution of witnesses and five months after learning of the disability of the commission’s original witness. The commission could not have informed defendant of the change of witnesses by the final January 30 disclosure date because the event necessitating the change did not occur until after that date had passed.
+It is true the commission would have been better advised to seek formally the court’s leave to substitute witnesses beyond the disclosure period after discovering the difficulty. Nevertheless, the commission exhibited good faith in notifying defendant of the substitution, and if there was any error on the commission’s part, it was merely technical and not one of substance.
+On the contrary, the trial court carefully pointed out that at no time did counsel for defendant voice any objection to the court or opposing counsel on the subject of the substitution before trial. It is difficult to believe defendant raised objection at trial in good faith. By failing to raise timely objection to the proposed new expert witness, defendant gave the commission every reason to believe that the substitution had been accepted and waived her right to object at trial.
+While the court’s pretrial summary usually controls the subsequent course of litigation, the trial court is allowed discretionary power under GCR 1963, 301.3 to modify the pretrial summary at or before trial so as to avoid manifest injustice. We have, consistently upheld this discretion of the trial court in the exclusion and admission of witnesses and evidence not listed at pretrial in the absence of clear abuse. Defendant’s counsel did not challenge the technicality of substituting witnesses after the time for disclosure had passed in timely fashion, but rather sat back to raise the issue at trial. To paraphrase Justice Butzel in People v Elliott, 322 Mich 313, 316 (1948), counsel cannot sit idly by and then for the first time interpose objections at trial. The commission informed defendant "of the expert’s name as soon as it was determined he would be a witness and in sufficient time so that plaintiff [defendant in this case] could have prepared to meet his testimony, no matter what it might have been”. The facts justified denial of defendant’s motion. We therefore affirm the trial court’s ruling.
+As to defendant’s request for a continuance to obtain a discovery deposition of the substituted witness, this issue is answerable on the same grounds of timeliness as the earlier motion. A continuance may be granted by the trial court pursuant to GCR 1963, 503.1. However, counsel must establish good cause, while lack of diligence, fault or negligence may be grounds for denial. GCR 1963, 503.2 provides in part:
+"A motion to postpone or continue a trial due to the unavailability of a witness or evidence must be made as soon as possible after ascertaining the facts.”
+The motion under consideration concerned a substitution arising from then unavailability of the witness originally scheduled by the highway commission. The motion was made a full five months after the extenuating facts were known to defendant and 56 days after written notice was received. Motion at that late date was certainly not within the admonition of the rule.
+The granting of a continuance rests with the discretion of the trial court. People v Logue, 30 Mich App 669 (1971); McKay v Black, 5 Mich App 711 (1967); People v Stoeckl, 347 Mich 1 (1956). No abuse of the trial court’s discretion has been found. Rather, defendant failed to establish the elements for her motion. Actual notice negates counsel’s claim of surprise, and absent any adequate explanation for the delay, failure to have the witness deposed before trial negates any claim to diligence or freedom from fault or negligence.
+Accordingly, we affirm.
+Commercial Construction Co v Elsman Enterprises, Inc., 22 Mich App 238 (1970).
+Tait v Nash, 27 Mich App 446 (1970); Jackson v Sabuco, 21 Mich App 430 (1970); Thomas v Gray, 19 Mich App 90 (1969); Bednarsh v Winshall, 374 Mich 667 (1965).
+Cusumano v Stroh Brewery Co, 26 Mich App 549 (1970); King v Partridge, 9 Mich App 540 (1968).
+Jackson v Sabuco, 21 Mich App 430 (1970); Coles v Galloway, 7 Mich App 93 (1967); Snyder v New York Central Transport Co, 4 Mich App 38 (1966).
+Snyder, fn 4, supra.
+Id, p 44.
+"|T]t is the policy of this rule to encourage the diligent preparation and trial of cases. Continuance for any cause shall not be granted unless a showing is made and the court finds that the grounds for continuance do not arise out of the fault or negligence of the moving party and the court finds that substantial justice more nearly will be obtained.” GCR 1963, 503.1.
