@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "97728"
+decided: "1988-10-18"
+citations: ["172 Mich. App. 450"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Sullivan, P.J., and Mackenzie and G. Schnelz, JJ."]
+parties: ["ESTABROOK v LINCOLN NATIONAL LIFE INSURANCE COMPANY"]
+source_url: "https://static.case.law/mich-app/172/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2321325
+cites_cases: ["10 ALR4th 996", "152 Mich App 200", "194 NW2d 158", "1984 PA 65", "36 Mich App 561", "387 Mich 753", "394 NW2d 136"]
+---
+
+# Estabrook v. Lincoln National Life Insurance
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from an order granting summary disposition in favor of defendant pursuant to MCR 2.116(0(10), no genuine issue of material fact. We affirm.
+On August 9, 1985, plaintiff was injured when the motorcycle he was riding collided with a pickup truck driven by Terry Huffman. Pursuant to subsection 3114(5) of the no-fault act, MCL 500.3114(5); MSA 24.13114(5), Huffman’s insurer, Valley Forge Insurance Company, paid to plaintiff no-fault benefits including medical expenses.
+At the time of the accident, plaintiff was covered through his employer by a group disability insurance policy issued by defendant. Plaintiff also applied to defendant for payment of medical expense benefits under this group policy. Defendant rejected plaintiff’s claim, based on the group policy’s coordination of benefits clause, which provides:
+SECTION 4 — COORDINATION OF BENEFITS (COB)
+Cob may limit benefits when an individual is entitled to benefits from more than one source. It does this by relating an individual’s total benefits from various sources to his or her total expenses. The cob provision is widely used in the insurance industry. Its purpose is to keep the cost of insurance down by limiting benefits to no more than 100% of his or her eligible expenses. Therefore, the benefits payable under this policy may be reduced, as appropriate under the rules set out below, so that from all sources, an insured individual should not be paid for more than 100% of his or her eligible expenses.
+Cob takes into consideration benefits from many sources, but cob does not apply to individual policies. CExcept that, Lincoln National does coordinate with individual no-fault auto insurance policies, by whatever name called, as shown below.)
+Following is a list of the sources (plans) with which this policy coordinates:
+* * *
+13. Individual no-fault auto insurance, by whatever name called. Except that, this will not apply to the extent that any auto insurance policy issued pursuant to the Automobile No-Fault Insurance Act of the State of Michigan contains a deductible or is by its terms secondary to (or excess over) the benefits provided under this policy. [Emphasis added.]
+When defendant continued to reject plaintiffs repeated demands for payment, plaintiff commenced the instant action for benefits under the group policy issued by defendant. On defendant’s motion for summary disposition, the trial court concluded that, as a matter of law, plaintiff was not entitled to medical benefits in light of the coordination of benefits provision of the policy.
+On appeal, plaintiff first argues that the coordination of benefits provision contained in defendant’s group policy is invalid under §3(2) of the Coordination of Benefits Act, MCL 550.253(2); MSA 24.13673(2). That statute provides:
+(2) Any such ¡group disability benefít] policy or certifícate which contains a coordination of benefits provision shall provide that benefits under the policy or certificate shall not be reduced or otherwise limited because of the existence of another nongroup contract which is issued as a hospital indemnity, surgical indemnity, specified disease, or other policy of disability insurance as defined in section 3400 of the insurance code of 1956, Act No. 218 of the Public Acts of 1956, being section 500.3400 of the Michigan Compiled Laws. [Emphasis added.]
+Plaintiff maintains that since a no-fault policy insures against accidental bodily injury, see MCL 500.3105; MSA 24.13105, such a policy falls within the definition of "policy of disability insurance” set forth at MCL 500.3400; MSA 24.13400 ("any policy or contract of insurance against loss resulting from . . . bodily injury ... by accident . . .”). Plaintiff thus concludes that, under the Coordination of Benefits Act, defendant is prohibited from coordinating its group disability policy with a nongroup no-fault policy such as Huffman’s policy with Valley Forge.
+The flaw in plaintiff’s argument is that the Legislature expressly made enactment of the Coordination of Benefits Act contingent upon the enactment of SB 562, enacted as 1984 PA 65, MCL 500.3610a; MSA 24.13610(1). See MCL 550.255; MSA 24.13675. MCL 500.3610a; MSA 24.13610(1) provides in relevant part:
+(1) A group disability insurance policy may contain provisions for the coordination of beneñts otherwise payable under the policy with beneñts payable for the same loss under other group insurance; automobile medical payments insurance; or coverage provided on a group basis by hospital, medical, or dental service organizations, by union welfare plans, or employee or employer benefit organizations. [Emphasis added.]
+Since the Legislature specified that enactment of this provision was necessary before the Coordination of Benefits Act could become effective, we think it clear that the Legislature intended § 3610a to control the coordination of group disability policies with nongroup no-fault policies notwithstanding the more general provisions of the Coordination of Benefits Act. This conclusion is consistent with the well-settled rule of statutory construction that, when there is an apparent conflict between two statutes, the specific statute controls and must be viewed as an exception to the general statute. In re Johnson Estate, 152 Mich App 200; 394 NW2d 136 (1986). Since § 3610a is an exception to the Coordination of Benefits Act’s prohibition against coordination provisions in group disability policies, the group policy issued by defendant could properly coordinate with a non-group no-fault automobile policy.
+Plaintiff alternatively argues that the policy issued by defendant does not coordinate with Huffman’s no-fault policy under the express language of defendant’s coordination of benefits provision. According to plaintiff, the language in the coordination of benefits provision that defendant "does coordinate with individual no-fault automobile insurance policies” creates an ambiguity as to the meaning of the word "individual.” Plaintiff argues that the word should be construed to mean "the insured” and that the policy language should be read to mean that defendant "does coordinate with the group disability policyholder’s no-fault automobile insurance policies.” Plaintiff reasons that, had defendant intended coordination with no-fault policies purchased by third parties, it would have made that intent explicit, citing American & Foreign Ins Co v Allied Plumbing & Heating Co, 36 Mich App 561; 194 NW2d 158 (1971), lv den 387 Mich 753 (1972).
+Plaintiff’s contention that the use of the word "individual” is ambiguous is without merit. It is clear when reading both the policy at issue in the present case and the insurance code itself that, in the juxtaposition of the terms "individual” and "group,” "individual” is intended to indicate "non-group.” Had the term "individual” been intended to indicate the named insured, it seems likely that the policy would refer to "the individual’s,” "the insured individual’s,” or "the named insured’s” no-fault auto insurance if seeking to limit coordination of benefits in that manner, especially given the standard rules of construing policies against the insurer.
+A fair reading of this coordination of benefits clause leads inexorably to the conclusion that any no-fault benefits, by whatever name called and regardless of their source, payable to plaintiff, were subject to coordination of benefits payable under his coverage by defendant’s policy. Accordingly, we find no error in the trial court’s order granting summary disposition in favor of defendant.
+Affirmed.
