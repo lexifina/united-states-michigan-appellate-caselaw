@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "95751"
+decided: "1987-09-24"
+citations: ["165 Mich. App. 238"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and G. R. McDonald and E. M. Thomas, JJ."]
+parties: ["ANTAL v PORRETTA"]
+source_url: "https://static.case.law/mich-app/165/cases/0238-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2298666
+cites_cases: ["113 Mich App 630", "149 Mich App 148", "150 Mich App 386", "153 Mich App 592", "156 Mich App 405", "1986 PA 178", "318 NW2d 503", "385 NW2d 627", "389 NW2d 99", "396 NW2d 448", "402 NW2d 23", "52 ALR Fed 780", "70 ALR3d 82", "80 ALR2d 368"]
+---
+
+# Antal v. Porretta
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal as of right from an order dismissing their medical malpractice claim under MCR 2.116(C)(7). Plaintiffs argue on appeal that their action was filed within two years of the date of last treatment or within six months after discovery of the basis of a malpractice action. We affirm.
+Plaintiff Ludwig Antal sought treatment with defendants on November 2, 1982, for a knee injury. Defendant Porretta was the treating physician. Surgery was performed on February 16, 1983. Plaintiff continued to see Dr. Porretta for postoperative care until July 26, 1983. About three days after his July 26, 1983, appointment with defendant, plaintiff decided to seek a second opinion. He was concerned because his knee was painful and seemed to be getting worse. Plaintiff said he decided then that he did not want defendant to treat him any longer. Plaintiff went to the emergency room at St. John’s Hospital. He was admitted to the hospital on August 1, 1983, and remained in the hospital until September 14, 1983. He was not treated by defendant while in the hospital.
+Plaintiff’s last appointment with defendant occurred on July 26, 1983. On September 6, 1983, defendant mailed a prescription for physical therapy to Pipp & Gilboe, Assoc., P.C. The prescription was dated June 26, 1983, and was for physical therapy that had been completed as of July 1, 1983. The prescription was apparently mailed for purposes of receiving insurance payment. Plaintiffs’ medical malpractice suit was filed on August 30, 1985.
+Summary disposition was properly granted to defendants because the statute of limitations period had passed. According to MCL 600.5838; MSA 27A.5838, a malpractice action accrues when a licensed professional "discontinues treating or otherwise serving the plaintiff.” An action may be commenced within two years of accrual of the. cause of action or within six months after plaintiff discovers or should have discovered the existence of the claim. By plaintiff’s own admission, the physician-patient relationship ceased on July 29, 1983, when he went to the emergency room at St. John’s and decided he did not want defendant to treat him any longer.
+Plaintiff argues that defendant was "otherwise serving” him on September 6, 1983, by mailing the prescription for physical therapy. However, the two-year period of limitations begins to run when the ongoing physican-patient relationship ceases. Heisler v Rogers, 113 Mich App 630, 633; 318 NW2d 503 (1982). This Court has consistently held that the relationship is terminated when the treating physician’s efforts prove unsuccessful and plaintiff is referred to another physician. While a resumption or continuation of treatment could conceivably occur, the mere transmission of records or reports to facilitate the referral or a subsequent incidental contact between plaintiff and the physician will not constitute treating or otherwise serving. Bosel v Babcock, 153 Mich App 592; 396 NW2d 448 (1986); Pendell v Jarka, 156 Mich App 405; 402 NW2d 23 (1986). Since the mailing of the prescription in the present case was merely to facilitate insurance payment, it did not extend the physician-patient relationship beyond July 29, 1983. Thus, when the suit was filed on August 30, 1985, the statute of limitations period had already expired.
+Plaintiffs sought leave to amend the complaint pursuant to MCR 2.118(A)(2) to allege that the complaint was filed within six months after they knew or should have known of the existence of a claim. The decision to grant or to deny leave to amend a pleading is within a trial court’s discretion, and this Court will not reverse that decision absent an abuse of discretion. In re Yeager Bridge Co, 150 Mich App 386; 389 NW2d 99 (1986). A medical malpractice claim is discovered when (1) the act or omission of defendant becomes known, and (2) the plaintiff has reason to believe that the medical treatment either was improper or was performed in an improper manner. Juravle v Ozdagler, 149 Mich App 148; 385 NW2d 627 (1985). Plaintiff said in his deposition that in March, 1983, he suspected something was wrong. He also said that he decided to sue defendant in early 1984, but no later than June, 1984. However, the motion to amend the complaint was supported by an affidavit stating that the first time plaintiff was advised by anyone that he had a valid malpractice claim was in June, 1985. At that time, his attorney advised him that suit should be filed.
+We find no abuse of discretion by the trial court in denying leave to amend the complaint. Plaintiff need only have "reason to believe” that his treatment was improper. This does not require the advice of an attorney, but merely requires a subjective belief that a malpractice claim is possible. According to plaintiffs testimony, he had such a subjective belief in June, 1984, which was more than six months prior to filing suit. Therefore, the trial court did not abuse its discretion in denying the motion for leave to amend the complaint.
+Affirmed.
+Effective July 7, 1986, the statute was amended to delete the words "treating or otherwise.” However, the amendment only applies to causes of action arising on or after October 1, 1986, and is therefore inapplicable to the present case. 1986 PA 178.
