@@ -1,0 +1,52 @@
+---
+court: "Michigan Court of Appeals"
+docket: "2,727"
+decided: "1967-09-07"
+citations: ["7 Mich. App. 561"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lesinski, C. J., and Fitzgerald, J., concurred."]
+parties: ["JONES v. BOUZA."]
+source_url: "https://static.case.law/mich-app/7/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2023656
+cites_cases: ["10 Ill 2d 167", "115 NE2d 99", "139 NE2d 222", "279 Mich 789", "351 Ill App 329", "352 Mich 494", "367 Mich 651", "367 Mich 675", "369 Mich 314", "376 Mich 321", "381 Mich 299"]
+---
+
+# Jones v. Bouza
+
+## Majority (J. H. Gillis, J.)
+
+J. H. Gillis, J.
+On April 16, 1964, plaintiff, Hoyt Jones, sustained a derangement of a lumbar disc while performing heavy manual labor on the assembly line at the Ford Motor Company. At the direction of his employer plaintiff presented himself to the defendant, Manuel A. Bouza, M.D., for treatment.. Defendant, a full time staff physician of Ford Motor Company, treated plaintiff and advised him that he could return to work. Plaintiff returned to work and later in the day had to be taken to the hospital because of severe pain in his lower back. Plaintiff alleges that defendant’s negligence was the proximate cause of an aggravation of the deranged lumbar disc and that as a result thereof, he developed severe spinal difficulties.
+Ford Motor Company paid plaintiff workmen’s compensation benefits at the rate of $45 a week from the date of injury to the present time.
+Plaintiff instituted the present action on April 12, 1966 in the Wayne county circuit court alleging that defendant’s malpractice was the proximate cause of his injury.
+On September 8, 1966, the trial court filed an opinion in which it granted defendant’s motion for summary judgment on the theory that the workmen’s compensation act barred plaintiff’s suit.
+Section 15 of part 3 of the workmen’s compensation act provides:
+“Where the injury for which compensation is payable under this act was caused under circumstances creating a legal liability in some person other than a natural person in the same employ or the employer to pay damages in respect thereof, the acceptance of compensation benefits or the taking of proceedings to enforce compensation payments shall not act as an election of remedies, but such injured employee or his dependents or their personal representative may also proceed to enforce the liability of such third party for damages in accordance with the provisions of this section.” (Emphasis supplied.)
+The trial court reasoned that the defendant was a “natural person in the same employ” and was therefore immune from suit.
+Plaintiff’s first contention on appeal is that the legislature in enacting PA 1952, No 155, amending part 3, § 15 of the workmen’s compensation act (CLS 1956, § 413.15 [Stat Ann 1960 Eev § 17.189]) did not intend to abolish the common-law right of an injured person to recover from an employer’s staff physician whose malpractice aggravated an injury which is compensable under the workmen’s compensation act.
+This section of the act was interpreted by the Court in Pettaway v. McConaghy (1962), 367 Mich 651, 655, where it held:
+“It would appear that the legislature intended, by the amendatory act of 1952 (CLS 1956, § 413.15), not only a continuation of the exemption of employers from liability provided for by section 4 of part 1 of the workmen’s compensation act (CL 1948, § 411.4), but also to exempt from liability under such amendatory act all natural persons who are carrying on the activities of the employer, regardless of what those activities may be.”
+Section 7 of the workmen’s compensation act defines the term employee to mean, “every person in the service of another under any contract of hire, express or implied.”
+The Michigan Supreme Court has repeatedly held that the workmen’s compensation act bars an action by an injured worker against a negligent co-worker. The co-worker need not be working on the same job or in the same department. He need only be working for the same employer. Plaintiff asserts that since defendant is a doctor that these cases should not apply to him. We can find no basis for this distinction. While it is true that a doctor is a professional person, and that as such, the Ford Motor Company cannot directly control his every action in the performance of his professional expertise, this does not prevent him from becoming an employee of that company.
+In the case before us defendant worked regular hours at a place designated by Ford Motor Company for a fixed salary. Furthermore, his professional practice was exclusively at Ford Motor Company.
+In this situation plaintiff’s exclusive remedy is under the workmen’s compensation act. The present suit is barred because of the immunity given “natural persons in the same employ.”
+Plaintiff next contends that the trial court’s interpretation of part 3, § 15 of the act is unconstitutional because it violates the equal protection clause of the 14th amendment to the United States Constitution and article 1, § 2, of the Michigan Constitution of 1963.
+Plaintiff reasons that this interpretation of part 3, § 15 of the act would put staff physicians, in regard to liability for malpractice, in & different classification than other doctors. He argues that had he gone to a doctor who was not employed full time by Ford Motor Company, he could maintain an action for malpractice. ■ However, since the doctor is by definition an employee of Ford Motor Company, he is immune from liability by virtue of part 3, § 15 of the workmen’s compensation act. The plaintiff contends that this classification created by the legislature is arbitrary and unreasonable.
+“In order for a particular legislative classification to be valid, it must appear that it is based upon some real and substantial difference in kind, situation, or circumstance in the persons or objects .on which the classification rests, and it must bear a rational relation to the evil to be remedied and the purpose to be obtained by the statute. * . * * It has long been held that the regulation of employer-employee relationship is a proper exercise of the police power and will be upheld unless wholly unreasonable and arbitrary in nature.” O’Brien v. Rautenbush (1956), 10 Ill 2d 167, 173 (139 NE2d 222, 226).
+In Pettaway v. McConaghy, supra, at p 654, the Court stated:
+“Under the workmen’s compensation law, the common-law theories of negligence, contributory negligence, negligence of a fellow employee, and assumption of risk, were virtually done away with in return for speedy compensation to an injured employee and practically exclusive liability under the statute of the employer.” (Footnote omitted.)
+The purpose of the workmen’s compensation act is to pass on to industry the burden of industrial injuries so that they are not borne by the individual employees. Any injury received in the course of employment, whether it is caused by the negligence of the employer or by the negligence of a co-worker or is merely an.accident for which no one is legally responsible, is compensable under the workmen’s compensation act. In return for the swift and sure relief the act affords, the employer is given immunity from common-law suits for injuries he may cause through his own negligence. This immunity from common-law suits is also granted to co-workers in many jurisdictions including Michigan. Without the act court dockets would be booming with litigation involving co-workers. Relief for injured workers would be slow and harmonious relationships which exist between co-workers would be disturbed. For these reasons, it is our opinion that the classifications created by the workmen’s compensation act are reasonable and not arbitrary.
+The plaintiff does not dispute the above reasoning. He does contend that a doctor cannot be treated as an ordinary co-worker. He asserts that while an action against an ordinary co-worker is properly barred; an action against a doctor, who is a co-employee, should not be barred.
+While this precise question has not been presented to an appellate court of this State heretofore,- it has been ruled on in other jurisdictions.® It should be noted that workmen’s compensation laws vary among the States and therefore interpretations of that law are bound to be different. In most cf the cases studied by this Court the doctor involved was not a staff physician. Rather, he was a private practitioner who treated private patients as well as injured workers whom the employer would send to him.
+The Illinois case of Hayes v. Marshall Field & Company (1953), 351 Ill App 329 (115 NE2d 99), is factually on point with the situation presented here. The Illinois workmen’s compensation act is similar to our own in that it immunizes a worker from common-law liability. In the Hayes Case plaintiff received an eye injury while in the course of her employment. She was sent to a staff physician of the defendant. Plaintiff alleged that he negligently treated her causing the loss of sight of the eye. The trial court granted a motion to dismiss on the basis that plaintiff’s action against the employer and the doctor was barred by the workmen’s compensation act. In affirming this decision the Illinois court of appeals considered the staff physician to be in the same category as any other co-worker, and therefore barred the action against him.
+We agree with the Illinois appellate court and hold that a staff physician is a co-employee, and as such, is immune from suits by his fellow employees pursuant to part 3, § 15 of the workmen’s compensation act.
+Affirmed. Costs to appellee.
+Lesinski, C. J., and Fitzgerald, J., concurred.
+CL 1948, § 411.7, as amended hy PA 1963, No 231 (Stat Ann 1963 Cum Supp § 17.147).
+Helmic v. Paine (1963), 369 Mich 314; Pettaway v. McConaghy (1962), 367 Mich 651; Ayers v. Genter (1962), 367 Mich 675; Ladner v. Vander Band (1965), 376 Mich 321; and Sergeant v. Kennedy (1958), 352 Mich 494.
+Pettaway v. McConaghy (1962), supra.
+See CL 1948, § 411.1 et seq., as amended (Stat Ann 1960 Bey find gtfit Ann 1P63 Cum Supp § 17.141 et seq.},
+See 2 Larson’s Workmen’s Compensation Law, §§ 72.61 and 72.64; 3 Schneider, Workmen’s Compensation Text (Perm ed), § 841; Annotations:, 82 ALE 932, 139 ALE 1010; 101 CJS Workmen’s Compensation, § 1043; 41 Am Jur, Physicians and Surgeons § 136.
