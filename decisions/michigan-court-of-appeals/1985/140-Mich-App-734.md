@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "72968"
+decided: "1985-01-04"
+citations: ["140 Mich. App. 734"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: E. M. Maher, P.J., and Bronson and G. McDonald, JJ."]
+parties: ["IN THE MATTER OF MASON"]
+source_url: "https://static.case.law/mich-app/140/cases/0734-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2269906
+cites_cases: ["125 Mich App 522", "129 Mich App 499", "134 Mich App 586", "134 Mich App 678", "137 Mich App 152", "22 ALR4th 774", "336 NW2d 499", "342 NW2d 82", "351 NW2d 615", "352 NW2d 295", "354 Mich 97", "357 NW2d 840", "79 ALR3d 417", "92 NW2d 604"]
+---
+
+# In re Mason
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondent Sandra Lou Mason appeals as of right from the probate court’s order terminating her parental rights in her minor child pursuant to MCL 712A.19a(e); MSA 27.3178(598.19a)(e). Respondent Michael Leroy Mason has not appealed the order terminating his parental rights.
+Section 19a(e) authorizes termination if the probate court finds that the "parent or guardian is unable to provide a fit home for the child by reason of neglect”. The state bears the burden of proving by clear and convincing evidence that termination of parental rights is warranted. In the Matter of Bidwell, 129 Mich App 499, 504; 342 NW2d 82 (1983). To justify termination of parental rights based on neglect, "real evidence of long-term neglect or serious threats to the future welfare of the child” must be shown. Fritts v Krugh, 354 Mich 97, 116; 92 NW2d 604 (1958); In the Matter of Moore, 134 Mich App 586, 593; 351 NW2d 615 (1984). Panels of this Court have applied both a de novo and a clearly erroneous standard of appellate review in termination cases. In the Matter of Bailey, 125 Mich App 522, 527; 336 NW2d 499 (1983); Moore, supra, pp 593-594. Cf., In the Matter of Irving, 134 Mich App 678; 352 NW2d 295 (1984); In the Matter of Jones, 137 Mich App 152; 357 NW2d 840 (1984).
+This Court has carefully reviewed the record and finds that the probate court’s order terminating respondent’s parental rights is not supported by clear and convincing evidence of neglect. The child was made a temporary ward of the court in June, 1982, about three months after respondent first contacted protective services requesting help because she was having difficulty with the child. A "parent-agency agreement” was signed and a treatment program was set up which required the parents to complete parenting classes, to visit the child on a regular basis, and to attend and invest in therapy sessions. Termination of respondent’s parental rights was based primarily on her alleged failure to adequately comply with the treatment program and on the testimony of a clinical psychologist who had counseled with respondent.
+A parent’s failure to fully comply with a Department of Social Services treatment plan does not alone establish neglect, at least in the absence of clear and convincing evidence that the treatment plan was necessary to improve the parent’s alleged neglectful behavior. See Moore, supra, p 598. As to respondent’s failure to regularly attend parenting classes, there was no clear and convincing evidence that the classes in which respondent was enrolled would have aided her in caring for the minor child. With regard to the visitation sessions, it appears from the evidence that respondent’s failures in keeping visitation appointments were essentially due to circumstances beyond her control rather than to wilful failure on her part to keep the appointments. Furthermore, as to the counseling sessions, the evidence shows that respondent did regularly attend and invest in therapy sessions and, at least in her opinion, was benefiting from them. We believe the evidence establishes that respondent did make a legitimate effort to comply with the treatment program and to improve her ability to care for the child. Her shortcomings were due primarily to ignorance and circumstances beyond her control rather than to wilful neglect.
+This Court also finds that the testimony of clinical psychologist Wood does not constitute clear and convincing evidence of neglect. At the time the petition for termination was filed in June, 1983, the counseling sessions had been held for only eight months, with one 50-minute session per week. Mr. Wood felt that very little had been accomplished in resolving respondent’s emotional problems and that an additional period of six months or one year of therapy would probably not produce any significant progress. We note, however, that respondent did regularly attend the sessions and testified that she believed she was making progress. In this Court’s opinion, the brief period of therapy involved in this case was insufficient to warrant a finding that respondent would be unable to make significant progress in the near future. Respondent was simply not given adequate time to improve her condition to the point where she could care for the minor child.
+Applying either the clearly erroneous or the de novo standard of review, we hold that the record does not establish clear and convincing evidence that there has been long-term neglect or there are serious threats to the future welfare of the minor child. The order of termination is reversed and the case is remanded to the probate court for further proceedings. The child is to continue as a temporary ward of the court until a final resolution of the matter is made by the probate court.
+Reversed and remanded.
