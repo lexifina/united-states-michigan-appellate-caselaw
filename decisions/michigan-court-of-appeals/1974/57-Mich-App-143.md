@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "17656"
+decided: "1974-12-05"
+citations: ["57 Mich. App. 143"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, P. J., and R. B. Burns and Bebeau, JJ.", "All concurred."]
+parties: ["HOME INSURANCE COMPANY v COMMERCIAL & INDUSTRIAL SECURITY SERVICES, INC."]
+source_url: "https://static.case.law/mich-app/57/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2129068
+cites_cases: ["1 Mich App 235", "103 NW2d 494", "135 NW2d 572", "137 NW2d 151", "186 NW2d 875", "209 NW2d 444", "30 Mich App 617", "322 Mich 1", "33 NW2d 637", "359 Mich 571", "376 Mich 360", "47 Mich App 434"]
+---
+
+# Home Insurance v. Commercial & Industrial Security Services, Inc.
+
+## Majority (Bebeau, J.)
+
+Bebeau, J.
+On June 20, 1973, Genesee County Circuit Court Judge, Thomas C. Yeotis, trying the case without a jury, rendered a verdict of no cause of action against plaintiff, Home Insurance Company. Plaintiff’s motion for reconsideration of the judgment was denied on July 13, 1973. Plaintiff appeals as of right.
+Plaintiff is the subrogee of Summerfield Chevrolet Company, which in December 1964 had entered into an oral contract with defendant. Although no formal written contract was ever executed by Summerfield and defendant, terms of the security services to be provided by defendant were determined by the parties on an ad hoc basis until January 1968 when the arrangement was terminated. Defendant provided a man to patrol the automobile dealership and to guard primarily against vandalism and theft during the times when Summerfield employees were not on the premises. Defendant’s responsibility also included watching for and reporting any fire on the premises.
+At about 3:30 a.m. on October 22, 1967, while defendant’s employee, Lawrence Pagel, was scheduled to be patrolling the premises, a fire destroyed two of the buildings and their contents. As a result of this destruction, plaintiff insurer paid Summer-field $210,616.78 and was subrogated to Summer-field’s rights.
+Testimony at trial showed that, on the afternoon of the fire, Summerfield employees discovered a smoldering fire in the insulation of the parts building, one of the structures which later burned. They removed the insulation and believed they had extinguished the fire. When defendant’s guard, Pagel, came on duty that evening, he was given keys to the parts building by a Summerfield supervisor, and told to check the parts building every thirty minutes. This instruction was a change in his usual patrol which normally covered a seven-acre lot. It was shown at trial that Pagel left the premises without permission at about 1:30 a.m. and did not return until about 5:30 a.m., by which time the buildings were destroyed.
+The parties stipulated that, if defendant were held liable, the amount of loss to plaintiff was $210,616.78, the amount paid by plaintiff to Summerfield, and it was further stipulated that plaintiff was subrogated to rights of Summerfield. At trial, plaintiff presented little evidence to show a causal link between defendant’s alleged negligence and Summerfield’s damage. The trial judge stated, "There was no proof or expert testimony offered of where, when, or how the fire started or whether it smoldered for a long time or burst into flames and spread rapidly”.
+Although he found defendant negligent, the trial judge ruled for defendant because "the plaintiff has not sustained the burden of proof requisite with a finding of damages for the plaintiff”, which was the direct and proximate result of the negligence.
+Plaintiff claims on appeal, that the trial court made erroneous application of the law in two instances: (1) it applied the measure of proof used in tort cases instead of that required in contract cases; and (2) it placed the burden of proving damages on plaintiff where defendant’s negligence had made the proof impossible. We find that the trial court committed no error and affirm.
+The standard of proof used by the trial court was whether the loss sustained by Summerfield was a "direct and proximate result” of defendant’s breach. Plaintiff claims that "proximate result” is a tort standard and that damage liability in contract actions is gauged by the amount of injury which "defendant had reason to foresee as a probable result of his breach when the contract was made”. Restatement Contracts, § 330, p 509.
+The law in Michigan is clear, and the trial court correctly applied it. The test is one of proximate cause as modified by the foreseeability standard. Damages recoverable are those which are a "direct and proximate result” of a party’s breach and were "within the contemplation of the parties” when the contract was made. Huler v Nasser, 322 Mich 1, 8; 33 NW2d 637, 640 (1948); Sattler v Fisher Contracting Co, 30 Mich App 617, 622; 186 NW2d 875, 878 (1971). The trial court was not constrained to reach the foreseeability issue since plaintiff put in no evidence to satisfy the proximate result test. A trial court’s determination as finder of facts as to whether plaintiff has sustained his burden of proving that the contract breach caused damage must be affirmed' unless it is clearly erroneous. Wheelmakers, Inc v Flint, 47 Mich App 434; 209 NW2d 444 (1973). The trial court’s determination here was not clearly erroneous.
+Plaintiffs second claim of error is equally without merit. It is true, as plaintiff notes, that damages need not be fixed with precision to be recovered and that a defendant cannot escape liability by making the determination of damages impossible. Godwin v Ace Iron & Metal Co, 376 Mich 360; 137 NW2d 151 (1965); Purcell v Keegan, 359 Mich 571; 103 NW2d 494 (1960). However, while some uncertainty as to the amount of damages is allowable, uncertainty as to the fact of the amount of damage caused by the breach of contract is fatal, Wolverine Upholstery Co v Ammerman, 1 Mich App 235; 135 NW2d 572 (1965). The court’s finding that "the fire loss was not a direct and proximate result of the breach of contract” is affirmed.
+Plaintiff introduced no evidence which would causally link defendant’s negligence to all of Summerfield’s damages. There was no evidence which would have shown how quickly the guard could have seen the fire during his oversight of the seven-acre lot and reported it, or how extensive the fire was at its inception, or how quickly the fire department could have responded and then extinguished it. Nor was there a claim that acts of the defendant caused the fire. With such a dearth of evidence before us, we cannot characterize as erroneous the trial court’s finding that the stipulated amount of fire loss damages was not caused by defendant’s negligence.
+Affirmed, with costs to defendant.
+All concurred.
