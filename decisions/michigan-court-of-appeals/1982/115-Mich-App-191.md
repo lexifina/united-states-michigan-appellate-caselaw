@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "55977"
+decided: "1982-04-08"
+citations: ["115 Mich. App. 191"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P.J., and R. B. Burns and J. H. Gillis, JJ."]
+parties: ["LOCKE v MACH"]
+source_url: "https://static.case.law/mich-app/115/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2207342
+cites_cases: ["112 Mich App 122", "15 Mich App 158", "166 NW2d 486", "179 Cal App 2d 522", "220 NW2d 641", "248 NW2d 663", "3 Cal Rptr 832", "315 NW2d 558", "392 Mich 91", "71 Mich App 714"]
+---
+
+# Locke v. Mach
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The present litigation arose out of injuries received by plaintiff when a gas tank owned by defendant exploded while it was being repaired by plaintiff’s friend. Plaintiff’s claim for damages and medical expenses was based upon defendant’s alleged negligence in entrusting the repair of the gas tank to an inexperienced person. Plaintiff appeals from the jury verdict of no cause of action in favor of defendant, finding that defendant had not been negligent.
+On the date of the accident plaintiff told defendant he knew of someone who might be able to repair defendant’s defective gas tank. Plaintiff’s friend, a person with some limited experience in welding, agreed to perform the required repairs. Defendant himself had no experience in welding and was also unfamiliar with the repair of gas tanks; however, he did realize that gasoline fumes were potentially explosive and attempted to eliminate any potential risks by flooding the gas tank with water for eight hours. Before initiating the repair, defendant and plaintiff emptied the gas tank of all water. Both plaintiff and his friend were aware that a repair should not be attempted while the gas tank was empty of water. When plaintiffs friend started to weld the gas tank it exploded, injuring plaintiff.
+At trial, plaintiff proposed several jury instructions regarding the proper standard of care. Plaintiff contended that defendant was engaged in an inherently dangerous activity the performance of which he could not delegate to plaintiffs friend. Plaintiff also contended that defendant was strictly liable for injury which occurred as a result of the repair. The trial court refused to give plaintiff’s proposed jury instructions. Plaintiff assigns the trial court’s ruling as reversible error.
+Plaintiff cites Funk v General Motors Corp, 392 Mich 91; 220 NW2d 641 (1974), and Vannoy v City of Warren, 15 Mich App 158; 166 NW2d 486 (1968), for the proposition that defendant owed plaintiff a nondelegable duty of care based upon the alleged inherently dangerous activity of repairing a gas tank. Plaintiff contends that these cases establish that defendant could not delegate to an independent contractor liability for injuries arising out of the contractor’s negligence. However, the Supreme Court in Funk expressly eschewed imposing vicarious liability upon "mere owners” for injuries sustained by third persons, that is, upon those contracted who retain no significant control over the contracted-for work.
+"This analysis would not ordinarily render a 'mere’ owner liable. In contrast with a general contractor, the owner typically is not a professional builder. Most owners visit the construction site only casually and are not knowledgeable concerning safety measures. See, e.g., Gonzales v Robert J Hiller Construction Co, 179 Cal App 2d 522; 3 Cal Rptr 832, 835 (1960), where the owner was held not liable for the negligence of his contractor. He had been around the construction site daily to watch its progress and was as familiar with construction work as 'any layman is who has seen a number of them built, and who has invested in them.’ Supervising job safety, providing safeguards, is not part of the business of the typical owner.” Funk, supra, 104-105. (Footnote omitted.)
+Imposition of vicarious liability based on the "nondelegable” duty of care is a matter of judgment and policy. Funk v General Motors Corp, supra. As the Court there recognized, the risks inherent in large-scale construction work justify imposing complete enterprise responsibility on the owner, in view of the supervisory control retained by the owner.
+However, the circumstances of this case do not justify imposition of vicarious liability. Defendant’s inexperience and lack of significant control over the repair excludes him from the parameters of the Funk Court’s analysis. This Court has recently held, in Miller v Great Lakes Steel Corp, 112 Mich App 122; 315 NW2d 558 (1982), that an employer’s mere retention of the right to order the work stopped is insufficient as a matter of law to constitute control for purposes of vicarious liability under the inherently dangerous activity doctrine. The general rule that the employer of an independent contractor is not liable for injuries caused to third persons by the negligent acts of the contractor is applicable to this case. It was thus proper for the jury to consider the negligence of a non-party as the sole proximate cause of plaintiffs injuries. Substantial evidence was presented from which the jury could conclude that plaintiffs friend was the sole proximate cause of the accident. Cody v Marcel Electric Co, 71 Mich App 714; 248 NW2d 663 (1976).
+In the present case, the trial court’s original instructions were adequate and were addressed to the allocation of fault between defendant and the third party contractor. Plaintiff has adduced no evidence to support his theory that defendant should be held strictly liable for injuries arising out of the repair. Although plaintiff asserts defendant was engaged in an ultrahazardous activity, plaintiff has not borne his burden of proof on this issue. 3 Restatement Torts, 2d, § 520, p 36. Accordingly, the trial court did not err in refusing to instruct the jury on strict liability.
+Affirmed.
