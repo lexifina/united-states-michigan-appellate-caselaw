@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "125004"
+decided: "1991-06-18"
+citations: ["190 Mich. App. 30"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Reilly, P.J., and Gillis and Michael J. Kelly, JJ."]
+parties: ["PEOPLE v ACKELS"]
+source_url: "https://static.case.law/mich-app/190/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2327512
+cites_cases: ["181 Mich App 185", "1988 PA 31", "266 NW2d 824", "272 NW2d 513", "378 NW2d 384", "403 Mich 676", "423 Mich 427", "423 Mich 450", "448 NW2d 774", "82 Mich App 403"]
+---
+
+# People v. Ackels
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant, who had been charged with operating a vehicle while under the influence of intoxicating liquor, third offense, MCL 257.625(6); MSA 9.2325(6), pleaded guilty to a reduced charge of ouil, second offense, MCL 257.625(5); MSA 9.2325(5). He was then sentenced to one year in jail, to be served consecutively to another sentence he was already serving. Defendant now appeals his sentence as of right, claiming that the trial court improperly imposed a consecutive sentence. He also claims that he was denied his right to meaningful allocution. We affirm.
+Defendant was charged in the instant case on July 20, 1987. Sometime in 1989, while the instant case was still pending, defendant was once again arrested and charged with ouil, third offensé. He was subsequently convicted of that offense and sentenced to a term of 2 Vi to 5 years of imprisonment. Defendant then pleaded guilty in the instant case of ouil, second offense, and consecutive sentencing was ordered pursuant to MCL 768.7b; MSA 28.1030(2). This statute, as amended by 1988 PA 31, provides in pertinent part:
+(1) Beginning April 1, 1988, and through December 31, 1991, if a person who has been charged with a felony, pending the disposition of the charge, commits a subsequent offense that is a felony, upon conviction of the subsequent offense or acceptance of a plea of guilty, guilty but mentally ill, or nolo contendere to the subsequent offense, the sentences imposed for the prior charged offense and the subsequent offense shall run consecutively.
+The amended statute is substantially the same as its predecessor, with the exception that consecutive sentencing was made mandatory rather than permissible.
+Initially, we disagree with defendant that, to the extent the statute is found applicable, the preamendatory version controls. Rather, because the initial ouil offense was pending at the time the statute was amended, and because the subsequent ouil offense was not committed until after the amendment, the amended version is controlling. Brinson v Genesee Circuit Judge, 403 Mich 676, 684-685; 272 NW2d 513 (1978). Accordingly, to the extent the consecutive sentencing statute applies, consecutive sentencing is mandatory rather than permissible. People v Reynolds, 181 Mich App 185, 189; 448 NW2d 774 (1989).
+Turning to the applicability of the statute, defendant argues that consecutive sentencing may be imposed only where the prior charged offense results in a conviction of an offense that is either designated a felony or treated as a felony for purposes of the Code of Criminal Procedure. We disagree.
+Under the Code of Criminal Procedure, a felony is defined as a violation of a penal law of this state for which the offender, upon conviction, may be punished by death or by imprisonment for more than one year, or an offense expressly designated by law to be a felony. MCL 761.1; MSA 28.843. Pursuant to the Vehicle Code, a person convicted of ouil, third offense, is guilty of a felony, MCL 257.625(6); MSA 9.2325(6). However, a person who commits ouil, second offense, is guilty only of a misdemeanor, punishable by imprisonment for not more than one year, MCL 257.625(5); MSA 9.2325(5).
+In People v Smith, 423 Mich 427, 450; 378 NW2d 384 (1985), our Supreme Court noted that the purpose of MCL 768.7b; MSA 28.1030(2) is "to deter those charged with one felony from committing another prior to final disposition of the first. . . . [otherwise] a person could be assured of 'one free crime’ because of the usual policy of concurrent sentencing.” In construing this statute, the Smith Court held that a person need not be convicted of the actual prior charged offense in order for consecutive sentencing to apply:
+Such a reading places undue emphasis upon one word in the statute and ignores others. The statute requires 1) that a person be "charged” with a "felony,” 2) that pending the "disposition of the charge” the person commit a subsequent offense which is a felony, and 3) that the person be eventually convicted of the "prior charged offense.” The word "offense” as used in the third clause is broad enough to encompass more than the specific felony originally charged. The phrase "disposition of the charge” is also broad enough to encompass more than just conviction of the specific felony originally charged.. . .
+... To hold that consecutive sentencing is permissible only when the conviction matches the precise initial charge on the first felony would be to emasculate the statute. [423 Mich 450-451.]
+Accordingly, the Court held that consecutive sentencing was proper where, at the time an original felony charge was pending, the defendant committed a subsequent felony, and the prior felony charge was eventually disposed of by the acceptance of a plea to a lesser misdemeanor offense.
+While it is true that the defendant in Smith pleaded guilty of a two-year misdemeanor offense, which is considered a felony for purposes of the Code of Criminal Procedure, we do not believe that consecutive sentencing is limited only to those convictions of offenses either designated a felony or considered a felony under the Code of Criminal Procedure; nor do we read Smith as imposing such a limitation. By its own terms, it is the commission of a felony while a prior felony charge is pending that the statute addresses. We believe that a construction of the statute in accordance with the language employed, its purpose, and the recognition in Smith that a conviction need not match the precise initial charge, requires the conclusion that the nature of the offense of which a person is ultimately convicted is immaterial to the applicability of the consecutive sentencing provisions of MCL 768.7b; MSA 28.1030(2).
+Accordingly, because the instant conviction arose from a prior felony charge that was pending when defendant committed a subsequent felony, we conclude that the trial court did not err in ordering consecutive sentencing pursuant to MCL 768.7b; MSA 28.1030(2).
+Finally, we disagree with defendant that he was denied his right to meaningful allocution. Former MCR 6.101(G)(2), see MCR 6.425(D)(2). The record clearly shows that immediately before imposing sentence, the trial court provided defendant with an opportunity to address the court. Moreover, we find no merit to defendant’s claim that the trial court improperly imposed sentence before allocution where it merely announced its intentions to impose a consecutive sentence, without stating the actual sentence it intended to impose.
+Affirmed.
+Additional charges of driving with a revoked license, driving without registration, driving without insurance, and possession of marijuana were also dismissed.
+See Judge Bashara’s dissenting opinion in People v Glenn Jones, 82 Mich App 403, 407-408; 266 NW2d 824 (1978). The majority’s holding in Jones, i.e., that conviction of the "prior charged offense” is a prerequisite for imposing consecutive sentences, was overruled in Smith, supra at 450.
