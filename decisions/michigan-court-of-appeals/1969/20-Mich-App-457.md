@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "6,471"
+decided: "1969-12-04"
+citations: ["20 Mich. App. 457"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Quinn, P. J., and Bronson and T. M. Burns, JJ.", "All concurred."]
+parties: ["PARCELLS v. BURTON"]
+source_url: "https://static.case.law/mich-app/20/cases/0457-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2077606
+cites_cases: ["16 Mich App 324", "19 ALR2d 1274", "233 Mich 227", "245 Mich 65", "283 Mich 304", "345 Mich 48", "362 Mich 535", "366 Mich 31", "375 Mich 605", "5 Mich App 160", "84 ALR2d 780"]
+---
+
+# Parcells v. Burton
+
+## Majority (T. M. Burns, J.)
+
+T. M. Burns, J.
+Plaintiffs filed this action to enjoin defendants Robert and Betty Costello from constructing a residence on property they purchased from defendant Alyce H. Burton, and to enjoin the latter from permitting such construction. The theory of plaintiffs’ action was that the residence, if built, would violate a restriction on the property limiting construction to one house per lot. Plaintiffs had relief below and Alyce H. Burton appeals. Defendants Costello do not appeal.
+The land in question is one of five parcels along the north side of Peach Tree Lane, north of Rochester, Michigan. Title to each of the five parcels originated with George Knorr, a land developer and builder. Some time before 1946, Mr. Knorr acquired 240 acres of land which included the five parcels. The trial court found that in developing this land, it was Knorr’s original intent to meet a market demand for large-acreage parcels with a rural atmospliere. To that end he developed Peach Tree Lane, an nndedicated street, and conveyed by metes and bounds description the five parcels above referred to, which vary in size from 3.58 acres to 5.91 acres.
+Pour of the five deeds by which Knorr conveyed these parcels contained a restriction limiting construction to one residence per parcel. Although the other deed to defendant’s predecessor in title, Johns, did not have the restrictions attached, it did indicate that it was “subject to restrictions of record.” This deed indicated, however, that it was given to correct an erroneous description in a prior unrecorded deed. When Johns conveyed to Webber, the deed contained the same restriction that appears in the other four deeds from Knorr. Plowever, when Webber conveyed to IT. E. Burton and Alyce H. Burton on September 6, 1958, the deed recited only “subject to restrictions of record”.
+On January 11, 1966, H. E. Burton conveyed to defendant, his wife, approximately one and one-half acres of the three and one-half acres owned by the Burtons. Early in 1967, defendant agreed to sell this one and one-half acres to the Costellos for a residence site which is adjacent to plaintiffs’ property.
+Although the balance of the Knorr property that has been developed does not follow- the original intent of the developer, the restriction he placed in effect as to the five parcels north of Peach Tree Lane created a neighborhood that made it apparent that a plan was being carried out in the area. Defendant and her predecessors in title had notice of the restriction from the physical layout of the residences on Peach Tree Lane.
+The first issue which this Court must consider is whether a valid negative reciprocal easement was created on. the property owned by defendant. The case of Sanborn v. McLean (1925), 233 Mich 227, is the touchstone case in Michigan law of reciprocal negative easements. In Sanborn, defendants attempted to erect a gas station on a lot which contained no restrictions in the chain of title prohibiting such use. The Supreme Court, however, held that under the theory of reciprocal negative easements, such use could be enjoined. Important to the Court’s decision was the fact that a portion, at least, of the subdivision was owned by the grantor, who had a general plan of residential development, as was evidenced by restrictive covenants in some, but not all, deeds from this grantor to others. Of course, the easement remained effective at the time of the purchase by defendants, said the Court, only if they had knowledge, actual or constructive, thereof.
+It is true that Michigan applies a strict construction upon restrictions placed upon the alienation of property. Sampson v. Kaufman (1956), 345 Mich 48. However,
+“Restrictions for residence purposes, if clearly established by proper instruments are favored by definite public policy. The Courts have long and vigorously enforced them by specific mandate. This Court has expressly recognized that the right of privacy for homes is a valuable right.” Johnstone v. Detroit, Grand Haven & Milwaukee Railway Co. (1928), 245 Mich 65, 74.
+Cases involving equity jurisdiction are reviewed in the Court of Appeals de novo, but ordinarily the Court of Appeals will not reverse the lower court where there is evidence and testimony to support the finding of the lower court, unless justice demands or the evidence preponderates the other way. Osius v. Dingell (1965), 375 Mich 605, 611, 612; Tobia v. Johns (1969), 16 Mich App 324.
+We find that the evidence supports the conclusion reached by the lower court that the mandates of Sanborn have been adequately satisfied and that the intent of the common grantor was to create a general plan upon at least the five parcels in question and that defendant had constructive notice of this plan.
+Turning to the second issue which is whether there have been changes in the neighborhood which are so material and extensive as to render the general plan unenforceable, we find that, under the particular circumstances of this case, the changes in the neighborhood are not so extensive as to render the general plan unenforceable. See Feldman v. Court (1966), 5 Mich App 160.
+The law is clear that a change in the character of the neighborhood to be so extensive as to make the restrictions unenforceable must destroy the value of the restrictions to the particular plaintiff. Taylor Avenue Improvement Ass’n v. Detroit Trust Co. (1938), 283 Mich 304, and cases cited therein.
+Although the size of lots later sold by the common grantor were smaller than those envisaged by bim when the original five tracts were conveyed, the land across the street from plaintiffs’ home remains undeveloped and there are no signs of abandonment of the residential plan as established by the five tracts in question except for defendant’s effort to divide the Burton property. Morgan v. Matheson (1961), 362 Mich 535. For, as the lower court said:
+“[T]he character of the neighborhood has not changed in the case at bar particularly as it affects the immediate neighborhood. The parcels here are screened and protected and removed in distance and view from other areas. Moreover, the diminution in lot size is not so severe as to be oppressive and the construction throughout has been of exceptionally high standards.”
+Further, in response to defendant’s claim that no benefit inures to plaintiffs, this Court adopts the lower court opinion to the extent that it finds that plaintiffs purchased their property relying on multiacreage development.
+“Their home is designed to take advantage of their land. They wish to retain the natural state and are dismayed by the prospect of a view of the rear of another residence though their family-room windows. In addition, the allowance of divided parcels could well result in leaving them as an isolated, solitary large acreage parcel, with great difficulty because of the terrain if they attempted division. These aesthetic and economic factors provide a benefit of appreciable proportions.”
+Finally, defendant relies heavily on Gomah v. Hally (1962), 366 Mich 31, which she contends is directly in point. However, review of the Gomah case reveals that it is distinguishable, as the plaintiff there was estopped from enforcing the restrictions by his own conduct. We find no basis for estoppel here.
+Affirmed, with costs to plaintiffs.
+All concurred.
