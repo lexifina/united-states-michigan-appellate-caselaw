@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 54, 55"
+decided: "1965-09-20"
+citations: ["1 Mich. App. 421"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lesinski, C. J., and Watts, J., concurred."]
+parties: ["DEES v. L. F. LARGESS COMPANY."]
+source_url: "https://static.case.law/mich-app/1/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1192815
+cites_cases: ["286 Mich 228", "33 Cal App 2d 287", "347 Mich 377", "371 Mich 667", "38 ALR 403", "69 ALR2d 160", "69 ALR2d 93", "91 P2d 231"]
+---
+
+# Dees v. L. F. Largess Co.
+
+## Majority (Burns, J.)
+
+Burns, J.
+The plaintiffs, Earnest and Elfrieda Dees, instituted suit against the individual and corporate defendants seeking damages for injuries Dees sustained when a crane which he was working about came in contact with a power transmission line carrying 24,000 volts of electricity.
+Early in 1958, the defendant L. F. Largess Company, as general contractor, entered into a contract with the defendant Detroit Coil Company for the construction of an addition to existing facilities of Detroit Coil on Hilton road in the city of Fern-dale. The Largess Company thereupon contracted with the defendant Arrow Steel Company to supply the required steel, and the Arrow Company, in turn, hired the Argo Steel Company, the plaintiff-appellant’s employer, to erect the steel.
+The individual defendants, Cleverdon, Jencks, and Cleverdon, are owners of real estate upon which the construction took place, and were lessors to the Detroit Coil Company.
+The defendant Detroit Edison Company owned and operated overhead power transmission lines across the Wayne-Oaldand county border, and along Hilton road. The particular lines in question ran on the westerly side of Hilton road along the frontage of the Detroit Coil Company. The transmission lines were copper wire of several strands without a dielectric covering, elevated to a height of approximately 37 feet and carried 24,000 volts of electricity.
+On the day of the accident, June 12, 1958, Argo’s crew went to work putting steel joists into place. Plaintiff Dees was a hook-up man on the ground, with the duty to hook the end of the “choker” through the steel joists lying upon the bed of the trailer truck which brought the steel to the construction site. Part of the bed of the trailer was beneath the overhead Edison lines. The boom of the crane with jib attached to it was about 55 feet in length. Somehow, while one of the joists was about to be lifted into position from the trailer truck, the whip-line (the cable attached to the crane) came into contact with the Edison lines, thus transmitting electricity to the steel rim of the trailer bed which plaintiff was leaning against and the “choker” which plaintiff had in his hand, severely injuring him, and then, upon termination of the electrical contact, throwing Dees to the pavement.
+The trial court, after hearing testimony in regard to liability and determining no negligence on the part of the defendants, granted defendants’ motion for a directed verdict, and on March 3, 1964, judgment of no cause of action was entered. From these orders the plaintiffs have appealed.
+The plaintiff-appellants lay before this Court the question of the propriety of the trial court’s action in directing a verdict of no cause of action in favor of the defendants Vernon William Cleverdon, Alice Jencks and Joseph Kenneth Cleverdon, individual defendants; Detroit Coil Company, a Michigan corporation; L. F. Largess Company, a Michigan corporation; and Detroit Edison Company, a New York corporation. As to the other two defendants named in the record, W. W. White Company, a Michigan corporation, and Arrow Steel Company, a Michigan corporation, no question is raised as to the directed verdict in their favor.
+The law of this State binds this Court to view the evidence in the light most favorable to the plaintiff. Humenik v. Sternberg (1963), 371 Mich 667. Reviewing the record, we find no evidence therein that would warrant presenting to a trier of facts the question of the defendants’ negligence.
+The responsibility of the defendant L. F. Largess Company is the responsibility of a general contractor for the injuries suffered by an employee of a subcontractor.
+The record discloses that the steel erection was contracted to plaintiff’s employer, a specialty firm in steel erection. A day prior to the performance of the work, the site was examined and the conditions reviewed, including the presence of overhead wires and all conditions of which plaintiff complains.
+The trial court did not err in directing a judgment of no cause of action for defendant Largess even though it was shown the superintendent was within 15 feet of the site of the accident causing plaintiff’s injuries. See Munson v. Vane-Stecker Company (1956), 347 Mich 377, 391, 392; 57 CJS, Master and Servant, §§ 600, 602.
+Neither the Largess Company nor its superintendent were required to substitute their judgment for that of plaintiff or his employer who were contracted with specifically because of their special skills in the field of steel erection and holding out of expertise in this area.
+Plaintiffs’ claims against the owners, Vernon William Cleverdon, Alice Jencks, and Joseph Kenneth Cleverdon; the lessee, Detroit Coil Company; and the supplier, Arrow Steel Company are all predicated on the theory that the general contractor, Largess Company, was negligent. As the court has determined that Largess was not negligent, there is no liability against the aforementioned defendants.
+Appellants’ brief and record disclose' that Detroit Edison’s alleged negligence is based solely on maintaining power transmission lines without dielectric covering, which carry 24,000 volts of electricity, are elevated to a height of 37 feet at the poles and sag to a height of 35 feet between the poles where Argo’s crane was operating.
+Plaintiff-appellants rely on Lamb v. Consumers Power Co. (1938), 286 Mich 228, to establish Edison’s duty to have had dielectric covering on the wire at the point of the accident. We cannot subscribe to the proposition that the facts surrounding the elecLocution of a boy climbing an untrimmed tree whose branches touched exposed power lines can be compared to a situation involving a skilled workman on a construction site who had full knowledge of the high voltage wire above.
+The transmission of electricity in this State is governed by CL 1948, § 460.553 (Stat Ann § 22.153). This statute requires each transmission line to have insulation or conductivity in 'accordance with its voltage, though insulation is not defined in the act. However, under the power vested in the Michigan public service commission, CL 1948, §§ 460.552, 460.554 (Stat Ann §§ 22.152, 22.154), “insulated” has been defined and spelled out as meaning:
+“separated from the other conducting surfaces by a dielectric substance or air space permanently offering a high resistance to the passage of current and to disruptive discharge through substance or space.” (Emphasis added.) Michigan Administrative Code (1954), § R 460.521(38), p 5799.
+It is clear that the Edison Company had a right to maintain transmission lines in the area of the construction, and it is also clear these wires were insulated within the meaning of the public service act. The high voltage wires were insulated by 35 feet of air space from any foreseeable contact. It therefore cannot be construed as negligence that the Edison Company did not also add a dielectric insulator in anticipation of construction in the area. We would require additional facts to allow the trial court to submit the question for a test as to negligence to a trier of fact. The law does not require those maintaining power transmission lines to. anticipate every possible fortuitous circumstance that might cause injurious contacts with those power lines. See Hayden v. Paramount Productions, Inc. (1939), 33 Cal App 2d 287 (91 P2d 231); 18 Am Jur, Electricity, § 48.
+We find no error in this case. Judgment affirmed. Costs to appellees.
+Lesinski, C. J., and Watts, J., concurred.
