@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-2614"
+decided: "1979-03-19"
+citations: ["89 Mich. App. 66"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P.J., and R. M. Maher and J. T. Letts, JJ."]
+parties: ["LEWIS v YELLOW FREIGHT SYSTEM, INC."]
+source_url: "https://static.case.law/mich-app/89/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2179619
+cites_cases: ["252 NW2d 842", "268 NW2d 534", "268 NW2d 703", "269 NW2d 311", "269 NW2d 570", "273 NW2d 829", "279 NW2d 48", "404 Mich 524", "73 Mich App 602", "83 Mich App 225", "83 Mich App 505", "84 Mich App 292", "84 Mich App 75", "88 Mich App 710"]
+---
+
+# Lewis v. Yellow Freight System, Inc.
+
+## Majority (R. M. Maher, J.)
+
+R. M. Maher, J.
+Plaintiffs bring this appeal as of right from the trial court’s order granting defendants’ motion for summary judgment.
+The six named plaintiffs are all employees of defendant Yellow Freight System, Inc. Plaintiffs Lewis, Ammon, Judd and Stewart were injured in separate truck collisions in 1976. Plaintiffs Bianchi and Daugherty were injured while alighting from their trucks in 1975 and 1976 respectively. It is undisputed that all plaintiffs’ injuries were suffered in the course of their employment; nor is it disputed that plaintiffs’ accidents were within the scope of the no-fault insurance act. Plaintiffs brought this action to recover personal protection benefits under the no-fault auto insurance act from Yellow Freight as the self-insured pwner of the vehicles which plaintiffs were operating or from which they were alighting when injured. Alternatively, plaintiffs sought recovery of personal protection benefits from defendant insurance companies under policies of no-fault insurance covering plaintiffs’ personal automobiles.
+On appeal, plaintiffs claim that they are entitled to personal protection benefits from either Yellow Freight or their own insurance companies. Yellow Freight reiterates its claim, successful in the trial court, that plaintiffs are barred from seeking personal protection benefits by the exclusive remedy provision of the Worker’s Disability Compensation Act, MCL 418.131; MSA 17.237(131). Defendant insurance companies argue that plaintiffs, if they are entitled to benefits at all, must seek such benefits from Yellow Freight under the priority provision of the no-fault act, MCL 500.3114; MSA 24.13114.
+The issue of an employee’s right to recover personal protection benefits for injuries suffered in an auto accident occurring in the course of his employment has been raised in other cases, with varying success. In Mathis v Interstate Motor Freight System, 73 Mich App 602; 252 NW2d 842 (1977), a panel of this Court held in a brief per curiam opinion that worker’s compensation benefits were plaintiff’s exclusive remedy against his employer. In Hawkins v Auto-Owners Ins Co, 83 Mich App 225; 268 NW2d 534 (1978), Chief Judge Danhof, distinguishing Mathis, held that an employee was entitled to recover personal protection benefits from his employer’s no-fault insurance carrier, on grounds that MCL 418.131 barred recovery only from the employer, not from the employer’s insurer. Judge Kelly concurred in the result only, while Judge T. M. Burns concurred on different grounds.
+Subsequently, in Ottenwess v Hawkeye Security Ins Co, 84 Mich App 292; 269 NW2d 570 (1978), two members of the Mathis panel expressly rejected Chief Judge Danhof’s reasoning in Hawkins, supra, and held that the liabilities of insurers and self-insurers under the no-fault act are coextensive. The Ottenwess panel based its conclusion on MCL 500.3101(4); MSA 24.13101(4), which provides that a self-insurer "has all the obligations and rights of an insurer” under the no-fault act. Noting that the no-fault insurer "must be considered the alter ego of the employer”, the Court held that the exclusive remedy provision of the Worker’s Disability Compensation Act barred recovery from the insurer as well as from the employer, Ottenwess, supra, 296.
+Judge Allen agreed with the conclusion of the majority in Ottenwess that the liabilities of insurers and self-insurers under the no-fault act are coextensive. He disagreed, however, that the exclusive remedy provision barred recovery of personal protection benefits under no-fault. Citing the legislative history of the no-fault act and relying on "a common sense reading” of MCL 500.3114(3); MSA 24.13114(3), he concluded that "the Legislature intended to allow an employee to sue the employer’s no-fault carrier in situations where the employee was injured while occupying a vehicle owned by the employer”. Ottenwess, supra, 302 (dissent by Allen, J.).
+We find the reasoning of Judge Allen’s dissent persuasive, and expressly adopt it. Accord, Hubert v Citizens Ins Co of America, 88 Mich App 710; 279 NW2d 48 (1979). Plaintiffs are entitled to personal protection benefits as authorized by the no-fault insurance act. Yellow Freight, as owner and self-insurer of the vehicles involved, is required to pay those benefits, MCL 500.3114; MSA 24.13114. We note that Yellow Freight is entitled to deduct from no-fault personal protection benefits any amounts it has paid in worker’s compensation benefits as self-insurer under the Worker’s Disability Compensation Act, O’Donnell v State Farm Mutual Automobile Ins Co, 404 Mich 524; 273 NW2d 829 (1979). Greene v State Farm Mutual Automobile Ins Co, 83 Mich App 505; 268 NW2d 703 (1978).
+Because of our disposition of this issue, we do not reach the question of the liability of defendant insurance companies to pay benefits under policies issued to plaintiffs.
+Reversed and remanded for proceedings consistent with this opinion. No costs, a public question being involved.
+That section provides:
+"The right to the recovery of benefits as provided in this act shall be the employee’s exclusive remedy against the employer. As used in this section and section 827 'employee’ includes the person injured, his personal representatives and any other person to whom a claim accrues by reason of the injury to or death of the employee, and 'employer’ includes his insurer, a service agent to a self-insured employer, and the accident fund insofar as they furnish, or fail to furnish, safety inspections or safety advisory services incident to providing workmen’s compensation insurance or incident to a self-insured employer’s liability servicing contract.”
+Defendants rely on subsections (3) and (4), which provide:
+"(3) An employee, his spouse, or a relative of either domiciled in the same household, who suffers accidental bodily injury while an occupant of a motor vehicle owned or registered by the employer shall receive personal protection insurance benefits to which the employee is entitled from the insurer of the furnished vehicle.
+"(4) Except as provided in subsections (1) to (3), a person suffering accidental bodily injury while an occupant of a motor vehicle shall claim personal protection insurance benefits from insurers in the following order of priority:
+"(a) The insurer of the owner or registrant of the vehicle occupied.
+"(b) The insurer of the operator of the vehicle occupied.”
+See also Arnold v Auto-Owners Ins Co, 84 Mich App 75; 269 NW2d 311 (1978), where Chief Judge Danhof, writing for the Court, reversed a summary judgment denying recovery of no-fault benefits to an employee injured while loading a truck, without discussing the exclusivity of remedies issue. The lower court had granted summary judgment on grounds that the injury did not arise out of the ownership, operation, maintenance or use of a motor vehicle.
+Judge Burns rested his opinion on the grounds that the exclusive remedies provision bars only those suits against insurance companies which are based on furnishing or failing to furnish safety services or inspections.
+The Court, however, held that Ottenwess was entitled to recover from the insurer of his own automobile.
