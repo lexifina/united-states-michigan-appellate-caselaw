@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "21009"
 decided: "1978-04-04"
-citations: ["82 Mich. App. 424", "86 Mich. App. 537"]
+citations: ["82 Mich. App. 424"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v GOODARD"]
 source_url: "https://static.case.law/mich-app/82/cases/0424-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2157909
-cites_cases: ["10 Mich 212", "132 NW2d 106", "148 NW2d 784", "152 NW 944", "186 Mich 510", "187 NW2d 434", "202 NW2d 450", "218 NW2d 136", "220 NW2d 65", "221 NW2d 336", "224 NW2d 867", "226 NW2d 730", "234 NW2d 176", "247 NW2d 317", "248 NW2d 589", "248 NW2d 613", "252 NW2d 564", "257 NW2d 673", "261 NW2d 27", "266 NW2d 832", "31 Mich App 301", "347 F2d 425", "35 Mich 16", "374 Mich 430", "378 Mich 706", "391 Mich 578", "392 Mich 553", "393 Mich 342", "399 Mich 885", "42 Mich App 492", "53 Mich App 329", "58 Mich App 1", "58 NW 328", "63 Mich App 129", "70 Mich App 629", "71 Mich App 491", "71 Mich App 543", "73 Mich App 660", "77 Mich App 52", "78 Mich App 636", "82 Mich App 424", "99 Mich 336"]
+cites_cases: ["10 Mich 212", "132 NW2d 106", "152 NW 944", "186 Mich 510", "187 NW2d 434", "202 NW2d 450", "220 NW2d 65", "221 NW2d 336", "224 NW2d 867", "226 NW2d 730", "234 NW2d 176", "247 NW2d 317", "248 NW2d 613", "252 NW2d 564", "257 NW2d 673", "261 NW2d 27", "31 Mich App 301", "347 F2d 425", "35 Mich 16", "374 Mich 430", "392 Mich 553", "393 Mich 342", "399 Mich 885", "42 Mich App 492", "53 Mich App 329", "58 Mich App 1", "58 NW 328", "63 Mich App 129", "70 Mich App 629", "71 Mich App 543", "73 Mich App 660", "77 Mich App 52", "78 Mich App 636", "99 Mich 336"]
 ---
 
 # People v. Goodard
