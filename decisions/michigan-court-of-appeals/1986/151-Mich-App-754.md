@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 71772, 76163"
+decided: "1986-05-20"
+citations: ["151 Mich. App. 754"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P.J., and R. B. Burns and G. R. Deneweth, JJ."]
+parties: ["CURRY v JACKSON CIRCUIT COURT GRASFEDER v JACKSON CIRCUIT JUDGE"]
+source_url: "https://static.case.law/mich-app/151/cases/0754-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2285756
+cites_cases: ["12 ALR2d 757", "142 Mich App 785", "142 NW2d 866", "215 NW2d 195", "23 ALR Fed 611", "251 NW2d 288", "290 NW2d 58", "3 Mich App 501", "371 NW2d 450", "408 Mich 892", "477 F2d 1116", "51 Mich App 408", "51 Mich App 413", "51 Mich App 414", "73 Mich App 276", "94 Mich App 703"]
+---
+
+# Curry v. Jackson Circuit Court
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+We are called upon to determine whether under § 10(1) of the Michigan Freedom of Information Act (foia), MCL 15.240(1); MSA 4.1801(10)(1), a prisoner in the State Prison of Southern Michigan in Jackson County is, as a matter of law, a resident of Jackson County or a resident of the last county in which he resided before he was imprisoned.
+Pursuant to the foia, plaintiffs Curry and Grasfeder, inmates at the Jackson State Prison, made written requests for documents to the Allegan County Sheriff and the Highland Park Police Department, respectively. Their requests were denied. Thereafter, each plaintiff filed a complaint in the Jackson Circuit Court. Curry’s papers were returned to him, along with a letter from the deputy court clerk informing him that the proper place to file the complaint was the Allegan County Circuit Court. Grasfeder’s papers were returned to him along with a note from a circuit court judge informing him that he had to file his complaint in the Wayne Circuit Court.
+On June 3, 1983, Curry filed a complaint for superintending control with this Court. Curry’s complaint was originally dismissed on November 16, 1983, but upon Curry’s motion for rehearing, this Court issued an order to show cause why the relief sought should not be granted. However, because review by appeal was available, the complaint for superintending control should have been dismissed. GCR 1963, 711.4(b), now MCR 3.302(D). Nevertheless, we shall treat this case as if leave to appeal was applied for and granted. GCR 1963, 820.1(7), now MCR 7.216(A)(7).
+On March 9, 1984, Grasfeder filed a complaint for superintending control. This Court treated the complaint as an application for leave to appeal and on July 30, 1984, leave was granted.
+Section 10(1) of the Michigan foia provides in pertinent part:
+If a public body makes a final determination to deny a request or a portion thereof, the requesting person may commence an action in the circuit court to compel disclosure of the public records. If the court determines that the public records are not exempt from disclosure, the court shall order the public body to cease withholding or to produce a public record or a portion thereof wrongfully withheld, regardless of the location of the public record. The circuit court for the county in which the complainant resides or has his principal place of business, or the circuit court for the county in which the public record or an office of the public body is located shall have jurisdiction to issue the order. [Emphasis supplied.]
+The issue in these cases is whether inmates at the State Prison of Southern Michigan are Jackson County residents for purposes of suit under the foia. The answer to the issue raised depends upon the meaning assigned to the term "resides” in § 10(1).
+In Kubiak v Steen, 51 Mich App 408; 215 NW2d 195 (1974), this Court recognized that the term "resides” has two different meanings. In its "legal” or technical sense, the term "reside” means
+legal domicile as distinguished from mere residence or place of actual abode. In this sense the word "reside” means legal residence; legal domicile, or the home of a person in contemplation of law; the place where a person is deemed in law to live, which may not always be the place of his actual dwelling, and thus the term may mean something different from being bodily present, and does not necessarily refer to the place of actual abode. When employed in this sense, the word "reside” includes not only physical presence in a place, but also the accompanying intent of choosing that place as a permanent residence. [51 Mich App 413.]
+In its "popular” sense, "reside” means
+the personal, actual, or physical habitation of a person; actual residence or place of abode; and it signifies being physically present in a place and actually staying there. In this sense the term means merely residence, that is, personal residence, and it does not mean legal residence or domicile. [51 Mich App 414.]
+In Paprocki v Jackson County Clerk, 142 Mich App 785, 789-790; 371 NW2d 450 (1985), a panel of this Court held that the term "resides” as used within § 10(1) of the foia means a person’s legal residence and refers to the place where a prisoner last lived before being sent to prison.
+We agree with the Paprocki panel that the term "resides” as used within the statute should be given its legal meaning. Section 10(1) is not a venue provision, but, rather, confers jurisdiction upon particular circuit courts. When used in statutes conferring jurisdiction, residence is interpreted to mean domicile. Paprocki, supra, p 790, citing Leader v Leader, 73 Mich App 276, 280; 251 NW2d 288 (1977), and In re Fox Estate, 3 Mich App 501, 507; 142 NW2d 866 (1966). We are persuaded, as was the Paprocki panel, that the term "resides” as used in § 10(1) of the foia must be interpreted to mean a person’s legal residence.
+We disagree, however, with the Paprocki panel’s conclusion that as a matter of law a prisoner "resides” in the county where he last lived before being sent to prison. The issue of a person’s domicile is principally a question of intent, and is resolved by reference to all the facts and circumstances of the particular case. Choike v Detroit, 94 Mich App 703, 707; 290 NW2d 58 (1980), lv den 408 Mich 892 (1980); In re Fox Estate, supra. Proof of domicile does not depend on any particular fact, but on whether all the facts and circumstances taken together tend to establish it. All acts indicative of purpose must be carefully scrutinized. In re Fox Estate, supra, p 509.
+There is a presumption that a prisoner cannot establish a new domicile in the county or state in which he is imprisoned because the relocation is involuntary. See, e.g., 2 Restatement Conflicts of Law, 2d, § 17c, p 66. We find persuasive, however, the Sixth Circuit Court of Appeals decision in Stifel v Hopkins, 477 F2d 1116 (CA 6, 1973), which recognized that an inmate could adopt an intent to remain in a particular state even though the inmate had moved there only as a result of incarceration. The sixth circuit declined to adopt a per se rule that an inmate retained his former domicile for purposes of diversity jurisdiction. Rather, the court held that factors such as the possibility of parole, the manner in which the inmate has ordered his personal business transactions, and any other factors relevant to corroboration of the inmate’s stated intentions should be considered.
+We agree with the reasoning in Stifel and believe that complaints filed by inmates pursuant to § 10(1) of the foia in the county of imprisonment should not be dismissed where the inmate has alleged sufficient facts of legal residence to sustain the jurisdiction of the circuit court.
+In the instant cases, the complaints are void of allegations of residence in Jackson County. Neither the public records nor the public bodies are located in Jackson County. Therefore, the Jackson Circuit Court lacked jurisdiction over the causes of action and the trial court did not err in refusing to accept the complaints for filing.
+Affirmed.
+See also MCL 168.11(1); MSA 6.1011(1) which provides that, for voting purposes, no elector shall be deemed to have gained or lost a residence while confined in any public prison.
+An allegation of imprisonment in the county in and of itself is insufficient to establish residence in that county.
