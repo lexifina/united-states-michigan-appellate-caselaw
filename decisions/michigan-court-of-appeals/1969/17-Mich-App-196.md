@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "5,068"
+decided: "1969-04-23"
+citations: ["17 Mich. App. 196"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BEFORE: Holbrook, P. J., and T. Gr. Kavanagh and McIntyre, JJ.", "All concurred."]
+parties: ["PEOPLE v. CHISM"]
+source_url: "https://static.case.law/mich-app/17/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2047688
+cites_cases: ["13 Mich App 596"]
+---
+
+# People v. Chism
+
+## Majority (McIntyre, J.)
+
+McIntyre, J.
+Defendant was arrested in connection with an explosion which caused the death of Ñola Puyear. The court appointed counsel at públic expense for the limited purpose of representation at the preliminary examination, without deciding defendant’s right to counsel for trial.' After preliminary examination, the defendant was bound over for trial on a charge of murder in the first degree and stood mute upon arraignment. Before arraignment, defendant requested the court to appoint an attorney to represent him at public expense and three formal hearings were held concerning whether the accused was financially unable to provide counsel for .himself within the meaning of GrCR 1963,. 785.3 (1). At -these hearings testimony was taken from the defendant, his wife, and an officer of a savings and loan association. It developed that at the time of the alleged offense the defendant and his wife held real estate as tenants by the entireties with a market value of approximately $14,000, subject to a mortgage indebtedness of $2,000, and that he owned-jointly Avith his wife Iavo automobiles Avorth about $3,200, that he was a joint tenant with his wife in 30 shares of stock worth about $3,100, that he had title to a Honda motorcycle which was actually a gift to the- minor son of the parties, and that the Avife of th.e- defendant had about $1,500, in cash in- a sailings account.;
+A divorce action had been filed by the defendant’s wife well before the date of the alleged offense but little progress had been made towards the disposition of that cause.
+Between the first hearing and the second hearing relating to the ability of defendant to retain counsel at his own expense, the defendant had conveyed whatever interest he may have had in all of the above-described property to his wife. The wife together with a notary public had brought the papers already prepared to the county jail, and defendant executed them there. At the second hearing it was established that the defendant’s wife refused to contribute to his defense or seek counsel for him on the basis that all of the joint property which was now held in her own right as a feme sole, since she considered herself judicially separated from her husband, was necessary for the future support of her 14-year-old son. The defendant testified that he sought to retain counsel but was advised that he must have a $5,000 retainer fee which he was unable to provide, which his wife was unwilling to give him, and that he was therefore financially unable to provide counsel for his defense.
+The court filed an extensive finding in which it was stated that the court had no reason to believe that the wife of the defendant would cooperate in any way in the hiring of an attorney for the defendant and that further'hearing would develop no additional facts to clarify the position of the various parties. Obviously anticipating appeal the court seeks a guideline to determine such questions as what effect joint ownership of property has on the determination of indigency, what consideration should be given to a deliberate transfer of property interest while standing charged with a crime, and what consideration should be given to an absolute refusal on the part of a husband and wife to use their joint assets to obtain the services of an attorney. The findings of the court determined that the defendant was not an “indigent person”, and denied the appointment of counsel at public expense.
+Defendant appealed to this Court through counsel appointed at public expense for the purpose of perfecting this appeal. Briefs have been filed by the attorney for the defendant, the prosecuting attorney, and a brief amicus curiae was filed by the Prosecuting Attorneys Association of Michigan asking for the affirmance of the trial judge’s finding.
+At the outset, this Court must affirmatively declare that no one charged with the crime of murder in this State who demands counsel for assistance in his defense may be forced to trial in propria persona. We read Am VI of the amendments to the United States Constitution, made applicable to the various States by Am XIV, to mean exactly what it says. Questions relating to financial ability to provide counsel, effect of refusal of a spouse to cooperate in obtaining counsel, deliberate transfer of property to effect indigency, are all subsidiary to the' prime principle, i.e., one on trial for murder who wants a lawyer shall have one.
+We need not go further than this, and we do not go further than this in the present opinion. It is not within the province of an appellate court, nay it would be impossible for an appellate court, to lay down specific and intricate rules defining standards of indigency in each case.
+As this court stated in People v. Rocha (1968), 13 Mich App 596, 597:
+“The problem presented by this appeal has been, is and will be one of the most recurrent and troublesome that the trial bench must face. Any attempt by this Court to furnish guide lines in this area would create more problems than it would solve. Each case is a separate problem, and adequate review is opjy 'possible, on an adequate record. Trial of a criminal defendant without counsel always entails risk.”
+Defendant Chism is at this moment financially unable to provide counsel for his defense. Whether this resulted from a deliberate transfer of property, his. neglect to enforce an equitable property settlement with his wife in the pending divorce case, or his wife’s unwillingness to cooperate in obtaining an attorney for his defense, are all beside the point. Testimony was taken under oath with regard to these matters and if perjury or fraud exists appropriate criminal penalties can be applied. If the county advances funds for defense and later discovers hidden assets certainly appropriate civil remedies exist. These are matters of consideration for. the executive branch of the county government and not. for the- trial bench.
+Reversed and remanded for action not inconsistent with this opinion.
+All concurred.
