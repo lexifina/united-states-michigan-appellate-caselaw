@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "25390"
+decided: "1976-06-15"
+citations: ["69 Mich. App. 485"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. F. Walsh, P. J., and J. H. Gillis and R. M. Maher, JJ."]
+parties: ["AUTO-OWNERS INSURANCE COMPANY v HIGBY"]
+source_url: "https://static.case.law/mich-app/69/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2145018
+cites_cases: ["150 NW2d 788", "195 NW2d 367", "198 NW 719", "201 NW2d 786", "201 NW2d 795", "226 NW2d 580", "227 Mich 104", "228 Cal App 2d 391", "29 ALR 2d 636", "379 Mich 280", "388 Mich 464", "388 Mich 482", "39 Cal Rptr 437", "57 Mich App 604"]
+---
+
+# Auto-Owners Insurance v. Higby
+
+## Majority (J. H. Gillis, J.)
+
+J. H. Gillis, J.
+Defendants appeal from a circuit court decision holding that defendants are not entitled to arbitrate certain claims against the plaintiff insurance companies. The circumstances leading up to this appeal are as follows:
+Defendant Rosemary Higby was severely injured in an automobile accident in August, 1966, while she was a passenger in a motor vehicle, driven by her daughter, which collided with an uninsured motor vehicle. Defendants, Floyd and Rosemary Higby, were the owners of four motor vehicles insured under one policy with plaintiff, Auto-Owners, and upon which they paid four distinct premiums for uninsured motorist coverage. Osborn Auto Sales owned the vehicle in which Rosemary Higby was riding at the time of the accident. Auto-Owners insured the Osborn Auto Sales car; this policy also included uninsured motorist coverage. Defendants’ daughter was the owner of a motor vehicle insured by plaintiff, Michigan Mutual, which contained uninsured motorist coverage providing benefits thereunder to defendant Rosemary Higby. The insurance coverage provided by the Auto-Owners and Michigan Mutual policies is similar, but not identical. Both policies provide uninsured motorist coverage and both policies require arbitration in the event that there is a dispute over liability.
+After repeated attempts to settle the claims with both plaintiff companies proved useless, defendants retained counsel in 1968. Demand for arbitration against both insurance companies was filed with the American Arbitration Association in February, 1969. Plaintiff Michigan Mutual commenced an action August 24, 1970, in circuit court seeking a restraining order against arbitration and a declaratory judgment that there was nothing to arbitrate. This suit was decided against Michigan Mutual on October 11, 1972, and the matter was ordered to arbitration. This decision was not appealed. While arbitration was pending, the statute of limitations was rapidly running against defendants and they commenced suit in circuit court to protect their claim against the uninsured motorist.
+After the filing of arbitration demands and prior to decisions permitting the "stacking” of uninsured motorist coverages, defendants and their daughter settled with plaintiff Auto-Owners for a total of $10,000. Auto-Owners was given a release by defendants. However, the arbitration proceedings against both plaintiffs were never dismissed. Subsequent to the Supreme Court decisions permitting "stacking”, defendants demanded payment under the terms of the policy covering the four vehicles and requested that the matter be set for prompt hearing before an arbitrator. Plaintiff Auto-Owners commenced an action to stay arbitration and for declaratory judgment that the claims had been settled and that there was nothing further to arbitrate. This fiction was commenced January 5, 1973, and was decided March 22, 1974, against Auto-Owners. This Court affirmed the circuit court’s ruling. Auto-Owners Insurance Co v Higby, 57 Mich App 604; 226 NW2d 580 (1975).
+In the meantime, the Higbys’ action against the uninsured motorist had gone to trial after many delays and adjournments. In December of 1974, some five years after this litigation began, a jury rendered a verdict of no cause of action against the Higbys. Auto-Owners’ attorneys had appeared "of counsel” at this trial, but withdrew the morning the actual trial began.
+Both Auto-Owners and Michigan Mutual then filed this action seeking a declaratory judgment barring arbitration on the grounds of res judicata. Although the circuit court judge sympathized with the Higbys’ plight, he felt that the doctrine of res judicata compelled the granting of the declaratory judgment. The Higbys now appeal, and we reverse.
+To begin with, we find the doctrine of res judicata inapplicable because two lawsuits are not involved here. We are concerned here with the effect of a lawsuit on contractual rights, rather than the effect of one lawsuit on another lawsuit.
+It is argued, however, that even if the doctrine of res judicata does not control, the Higbys have waived their contractual right to arbitration because of their suit against the uninsured motorist. In the context of this case, we disagree.
+In Michigan, it is clear that both the insured and the insurance company may act in such a manner so as to waive contractual rights to arbitration. See, Bielski v Wolverine Insurance Co, 379 Mich 280; 150 NW2d 788 (1967), Schwier v Atlas Assurance Co, 227 Mich 104; 198 NW 719 (1924). Indeed, in the instant case, the insurance companies’ first venture into court probably constituted a waiver of their right to arbitration. Bielski, supra. An issue that is left undecided in Michigan, however, is whether a suit by the insured against the uninsured motorist, without consent of the insurance company, constitutes a knowing waiver of that insured’s right to arbitrate. Other jurisdictions are split on this issue. See, Widiss, A Guide to Uninsured Motorist Coverage, §§ 7.13-7.15, pp 264-269 (W H Anderson Co, 1969), Mizer v State Automobile & Casualty Underwriters, 195 NW2d 367 (Iowa, 1972), Loscalzo v Federal Mutual Insurance Co, 228 Cal App 2d 391; 39 Cal Rptr 437 (1964). We need not fashion an "across the board” rule here.
+Today, we decide only that the insurance companies’ actions in stalling the Higbys’ attempts to arbitrate forced the Higbys to proceed with their suit against the uninsured motorist in order to avoid the statute of limitations. Because of this, we hold that, in the instant case, the Higbys’ suit did not constitute a knowing waiver of their right to arbitration. Loscalzo, supra.
+Reversed. Costs to appellants.
+Blakeslee v Farm Bureau Mutual Insurance Co, 388 Mich 464; 201 NW2d 786 (1972), Boettner v State Farm Mutual Insurance Co, 388 Mich 482; 201 NW2d 795 (1972).
