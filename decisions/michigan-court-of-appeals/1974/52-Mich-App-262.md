@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "15112"
+decided: "1974-03-26"
+citations: ["52 Mich. App. 262"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J., and Holbrook and Bashara, JJ.", "All concurred."]
+parties: ["PEOPLE v THOMPSON"]
+source_url: "https://static.case.law/mich-app/52/cases/0262-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2137382
+cites_cases: ["146 US 370", "185 NW2d 94", "194 NW2d 320", "196 NW2d 824", "204 NW2d 734", "209 NW2d 436", "211 NW2d 56", "28 Mich App 624", "291 US 97", "344 Mich 108", "38 Mich App 417", "383 US 375", "386 Mich 540", "397 US 337", "43 Mich App 746", "47 Mich App 385", "48 Mich App 657", "73 NW2d 537"]
+---
+
+# People v. Thompson
+
+## Majority (Lesinski, C. J.)
+
+Lesinski, C. J.
+The defendant was found guilty by a jury of unarmed robbery, MCLA 750.530; MSA 28.798. He was sentenced to incarceration for 3-1/2 to 5 years, and appeals as of right.
+The sole meritorious issue presented by this appeal concerns the effect of the defendant’s absence from hearings purporting to determine his competency to stand trial. At the first hearing, the prosecution and defense counsel concurred that the defendant was not competent to stand trial and the court found the defendant incompetent to stand trial, contrary to the recommendation of the psychiatric report. At a second hearing, brought upon motion of the prosecutor, the court, in the absence of the defendant, found him fit to stand trial. Through an evidentiary hearing, the court below found that defendant was not present at either hearing conducted to determine competency.
+The statute governing competency hearing procedures by clear implication requires the defendant’s presence. It provides:
+"(4) Upon receipt of the diagnostic report and recommendations the sheriff shall immediately return the defendant to the committing court and the court shall immediately hear and determine the issue of competence to stand trial. The diagnostic report and recommendations shall be admissible as evidence in the hearing, but not for any other purpose in the pending criminal proceedings.” (Emphasis supplied.) MCLA 767.27a(4); MSA 28.966(11)(4).
+This implication is supported judicially by the decision in People v Lucas, 47 Mich App 385; 209 NW2d 436 (1973). The Court concluded that the trial court’s independent consideration of psychiatric testimony with defense counsel waiving a formal hearing did not satisfy the statute. The Court made the following pertinent statements about the defendant’s presence:
+“Defendant was neither confronted by the forensic report nor given the benefit of a hearing in his presence. In this context, we find the defendant was denied the intended protections of the above statute.” 47 Mich App at 390.
+Requirement of the defendant’s presence is further supported by constitutional considerations. The right of the accused to be present at critical stages of the proceedings against him has long been recognized by the United States Supreme Court. See, e.g., Lewis v United States, 146 US 370; 13 S Ct 136; 36 L Ed 1011 (1892). In Snyder v Massachusetts, 291 US 97, 105-106; 54 S Ct 330, 332; 78 L Ed 674, 678 (1933), although a divided Court held that the defendant did not always have to be present at a jury view of the scene of a crime, Justice Cardozo for the majority enunciated the following well-reasoned test:
+"We assume in aid of the petitioner that in a prosecution for a felony the defendant has the privilege under the Fourteenth Amendment to be present in his own person whenever his presence has a relation, reasonably substantial, to the fullness of his opportunity to defend against the charge.”
+In Michigan, it has been held that Const 1963, art 1, § 20, assures a defendant the right to be present at every stage of his trial where his substantial rights might be affected. People v Palmer, 28 Mich App 624; 185 NW2d 94 (1970). A defendant thus has the right to be present at hearings on undue influence of a juror. Palmer, supra; People v Medcoff, 344 Mich 108; 73 NW2d 537 (1955); People v Harris, 43 Mich App 746; 204 NW2d 734 (1972) . The defendant’s general right to be present at his trial is guaranteed by state statute, MCLA 768.3; MSA 28.1026, and by the U S Const, Am VI, as interpreted by the United States Supreme Court. Illinois v Allen, 397 US 337, 338; 90 S Ct 1057, 1058; 25 L Ed 2d 353, 356 (1970). See People v Ewing, 48 Mich App 657, 659; 211 NW2d 56, 58 (1973).
+Applying these principles to presence at competency hearings, we conclude that the defendant’s presence both has a reasonably substantial relation to the fullness of his opportunity to defend the charge and affects his substantial rights. The statutory purpose of a competency hearing is to determine whether the defendant is "incapable of understanding the nature and object of the proceedings against him, of comprehending his own condition in reference to the proceedings, or of assisting in his defense in a rational or reasonable manner”. MCLA 767.27a(1); MSA 28.966(11)(1). The presence of the defendant allows him to shed light on the reliability of the psychiatric competency report and possibly cast doubt on its validity. The defendant becomes available to testify personally or to at least allow the trial court to observe his demeanor. In People v Chase, 38 Mich App 417, 421; 196 NW2d 824, 826 (1972), it was said with emphasis in the original:
+"The weight to be accorded to findings made, and the legal effect of such findings, must be the subject of a judicial determination and order.”
+Given this independent judicial duty to make findings, the opportunity for further input which the presence of the defendant can supply to the ultimate decision should be required as a potential supplement to the psychiatric report. The presence of the defendant thus clearly relates to the fullness of his opportunity to defend the charge and affects his " 'substantively justiciable right’" to a competency hearing.
+Having established the defendant’s right to presence at his competency hearing, and given the clear finding below that he was not present, the question of the effect of the error on the conviction must be treated. The state appears to urge that defendant has waived his right to be present at the hearing through his counsel’s appearance and failure to contest defendant’s lack of competency. As the Court said in Pate v Robinson, 383 US 375, 384; 86 S Ct 836, 841; 15 L Ed 2d 815, 821 (1966):
+"But it is contradictory to argue that the defendant may be incompetent, and yet knowingly or intelligently 'waive’ his right to have the court determine his capacity to stand trial.”
+Waiver of right to be present cannot be presumed from a silent record, or from the silence of the defense counsel, or even from an express waiver by the defense counsel. See Pate v Robinson, supra, and Lucas, supra.
+A more serious question is raised by the prosecutor’s contention that the defendant need show some prejudice before his conviction should be reversed. No prejudice is asserted on appeal, and there is no contention that the defendant was incompetent at the time of his last hearing.
+The Michigan cases finding error in the absence of the defendant from hearings on undue influence of jurors require no showing of prejudice. Medcoff, Harris and Palmer, supra. Even though the defendant does not allege incompetency in fact, the gravity of the error precludes presumption of lack of prejudice from a silent appellate record.
+But, on the other hand, we do not believe that the error is so serious as to warrant automatic reversal of the trial conviction. We feel that the remedy adopted in People v Lucas, supra, is also appropriate here. Thus, we remand for a new competency hearing. If the defendant is found to have been competent to stand trial at the time of his second competency hearing on January 31, 1972, then his conviction is affirmed. However, if the defendant is found to have been incompetent to stand trial at that time, or if the court is unable to adequately determine his competency to stand trial at the time of his trial, his conviction shall be set aside and a new trial granted.
+Remanded for further proceedings consistent with this opinion.
+All concurred.
+People v Lucas, 47 Mich App 385, 388; 209 NW2d 436, 438 (1973), quoting from People v Gomolak, 386 Mich 540, 549; 194 NW2d 320, 323 (1972).
