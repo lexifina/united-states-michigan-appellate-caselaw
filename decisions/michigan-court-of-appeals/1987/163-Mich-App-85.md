@@ -1,0 +1,46 @@
+---
+court: "Michigan Court of Appeals"
+docket: "92178"
+decided: "1987-09-10"
+citations: ["163 Mich. App. 85"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cynar, P.J., and Sawyer and J. S. Thor-burn, JJ."]
+parties: ["DenHEETEN v DenHEETEN"]
+source_url: "https://static.case.law/mich-app/163/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12122343
+cites_cases: ["123 Mich App 472", "124 Mich App 491", "133 NW2d 129", "148 NW2d 259", "261 NW2d 254", "28 ALR4th 9", "298 Mich 491", "299 NW 158", "333 NW2d 311", "335 NW2d 16", "375 Mich 85", "418 Mich 884", "6 Mich App 26", "79 Mich App 189"]
+---
+
+# DenHeeten v. DenHeeten
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals as of right from an order denying his petition to amend the judgment of divorce to allow defendant to take his minor children flying in a noncommercial airplane. We reverse.
+The parties were married on March 21, 1970. During the marriage, two children were born, Charles Leonard DenHeeten and Keri Lynne Den-Heeten. On May 17, 1978, plaintiff filed a complaint for divorce. A judgment of divorce was entered by stipulation on June 18, 1979. Custody of the children was awarded to plaintiff. Defendant received reasonable visitation. The judgment provided that defendant could not fly with the children in a noncommercial airplane until further order of the court.
+Defendant filed a petition to amend the divorce judgment on April 23, 1985, seeking court permission to allow the children to fly in a private plane piloted by him. The minor children had expressed a desire to fly with defendant. Plaintiff objected. The Friend of the Court submitted a report in which it recommended that defendant be allowed to take his children flying.
+The hearing on defendant’s modification petition took place on December 6, 1985. At the hearing, defendant presented much support for modification of the prior judgment of divorce. He testified regarding his relationship with the children. He stated that he is a good father and he and the children enjoy spending time together.
+Defendant indicated that he agreed to the prohibition in the divorce judgment against his children flying with him because he could not at that time financially afford to fight that provision.
+Since 1979, the defendant’s financial status has slowly improved. He has resumed flying on a limited basis. He is licensed to fly and has been flying for two years on a cost-share basis. This is an arrangement whereby a passenger shares the costs with the pilot.
+After the parties presented their evidence for and against modification of the divorce judgment, the trial court made findings of fact from the bench and incorporated them into an order denying defendant’s petition to amend the judgment of divorce. The court denied the petition on the basis that the judgment of divorce required the consent of the custodial parent before the children would be permitted to fly with the defendant. The judge concluded that this consent judgment could not be modified under any circumstances.
+Defendant raises three issues on appeal. First, he argues that the lower court’s refusal to modify the judgment of divorce was against the great weight of the evidence. Next, defendant argues that the trial court improperly delegated its discretionary authority by holding that the children could not fly with defendant in the absence of the mother’s consent. Finally, defendant argues that the trial court’s decision was contrary to its April 12, 1979, ruling.
+In his first claim of error, defendant argues that the lower court’s decision was against the great weight of the evidence. Defendant argues that he presented ample evidence to justify modification of the divorce judgment. We agree.
+MCL 552.17; MSA 25.97 provides:
+Sec. 17. The court may, from time to time after-wards, on the petition of either of the parents, revise and alter such decree concerning the care, custody and maintenance of the children, or any of them, and make a new decree concerning the same, as the circumstances of the parents, and the benefit of the children, shall require.
+Jurisdiction over children of divorced parents remains in the court which granted the divorce until the youngest child attains the age of eighteen. Eigner v Eigner, 79 Mich App 189, 196; 261 NW2d 254 (1977). The court also retains jurisdiction over the question of visitation and is empowered to make further orders as changes in the circumstances may justify. Kanser v Kanser, 6 Mich App 26, 28; 148 NW2d 259 (1967). Lower court orders modifying divorce judgments are reviewed by this Court de novo. Great consideration is afforded to the findings of the trial court. Its position should not be reversed unless this Court would have reached a different conclusion had it been in the trial court’s place. Villadsen v Villadsen, 123 Mich App 472, 476; 333 NW2d 311 (1983), lv den 418 Mich 884 (1983).
+Where the parties consent to a visitation provision in a judgment of divorce, the provision may be modified where there is a change of circumstances or new facts arising since the original decree was entered which warrant the modification. Sims v Sims, 298 Mich 491, 496-497; 299 NW 158 (1941). When determining visitation rights, as with child custody matters, the best interests of the children involved are of paramount importance. Casbergue v Casbergue, 124 Mich App 491, 494; 335 NW2d 16 (1983); Sims, supra, p 496.
+We find that the lower court erred in concluding as a matter of law that the divorce judgment could not be modified without the parties’ consent. The provision which prohibited the children from flying states:
+Further, that Defendant John G DenHeeten, shall not fly with the minor children in a noncommercial airplane until further Order of this Court.
+The trial court was incorrect in its decision because the very language in the prohibition indicates otherwise.
+The language does not require consent from the custodial parent. Instead, the language empowers the court to render a decision. Moreover, Sims permits modification of visitation rights upon a showing of a change in circumstances. We hold that defendant established the requisite change in circumstances to justify modification of the judgment of divorce. Defendant showed that he can afford to pursue the petition seeking modification. He successfully completed all the requirements for flying and the children are now older and expressed a desire to fly with their father. The lower court’s decision against modification is against the great weight of the evidence. Given the abundant testimony as to the safety of flying and to defendant’s capability as a pilot, we conclude that defendant may take his children flying.
+Plaintiff’s reference to MCL 722.28; MSA 25.312(8) is inapposite to our conclusion. That statute provides:
+To expedite the resolution of a child custody dispute by prompt and final adjudication, all orders and judgments of the circuit court shall be affirmed on appeal unless the trial judge made findings of fact against the great weight of evidence or committed a palpable abuse of discretion or a clear legal error on a major issue. [MCL 722.28; MSA 25.312(8).]
+The statute is inapplicable to the instant case since this is not a custody dispute. Rather, this case involves a question of visitation rights. Even if the statute were to apply, the lower court’s decision is nonetheless against the great weight of the evidence and the trial judge committed a clear legal error on the issue of whether a provision in a consent judgment may be changed without the consent of the parties.
+We do not agree with defendant’s contention that the trial court improperly delegated its discretionary authority to plaintiff. The trial judge did exercise discretion when he concluded that the children should not be able to fly unless plaintiff consented. Our disagreement with the trial judge is in the conclusion he reached based on the judgment of divorce. As we discussed earlier in our opinion, the trial judge should have decided this issue on the evidence presented.
+Finally, we conclude that the court’s ruling in this case was not contrary to its April 12, 1979, ruling. Before the divorce judgment was entered, a hearing took place in which the parties discussed the provisions to be included in the judgment.
+A portion of the hearing transcript indicates that the children were not to fly in a private plane piloted by defendant. However, the divorce provision reads otherwise.
+In Piercefield v Remington Arms Co, Inc, 375 Mich 85, 90-91; 133 NW2d 129 (1965), our Supreme Court held that courts speak through their orders and decrees, not through colloquy between judge and counsel. In our case, the trial court’s decision was not contrary to the April 12, 1979, ruling based on the language of the divorce decree. The decision was contrary to what the parties intended at the time of the divorce decree. However, as we discussed and concluded in the earlier portion of this opinion, based on the overwhelming evidence indicating a change in circumstances, the trial court erred in not modifying the divorce judgment to permit the children to fly with defendant.
+Reversed.
