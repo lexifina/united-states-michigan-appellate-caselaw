@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "57314"
+decided: "1982-09-24"
+citations: ["121 Mich. App. 312"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P.J., and Mackenzie and L. C. Root, JJ."]
+parties: ["In Re JOHNSON ESTATE"]
+source_url: "https://static.case.law/mich-app/121/cases/0312-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2232552
+cites_cases: ["218 NW2d 5", "228 NW2d 419", "391 Mich 558", "58 Mich App 455"]
+---
+
+# In re Johnson Estate
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+On August 27, 1980, the appellants filed a petition in the probate court seeking a determination of the rights of heirs to property held in joint ownership by Thelma Johnson, the deceased, and Kenneth Kitchen, Thelma’s nephew. The petition was amended on October 6, 1980, to allege that a confidential relationship had existed between Thelma Johnson and Kenneth Kitchen or Rosanna Kitchen, Kenneth’s mother. The petition further alleged that Kenneth or Rosanna Kitchen had exerted undue influence upon Thelma, which caused her to establish certain joint bank accounts. The petition also alleged that Thelma Johnson was mentally incompetent at the time the accounts were established.
+A jury trial was held on January 8, 1981, in the probate court. At the conclusion of all of the evidence, the jury returned a verdict in favor of the respondents. The petitioners moved for a judgment notwithstanding the verdict or, in the alternative, a new trial. The trial court denied the petitioners’ motion. The petitioners appeal of right from the order denying their motion for a new trial.
+The petitioners contend that the trial court erred in allowing the respondents to read only a portion of Ralph Kitchen’s deposition to the jury. We disagree. GCR 1963, 302.4(4) states:
+"(4) If only part of a deposition is offered in evidence by a party, an adverse party may require him to introduce all of it which is relevant to the part introduced, and any party may introduce any other parts.” (Emphasis added.)
+The reasoning behind this rule is obvious. It is designed to prevent unfairness which could result if a statement is taken out of context. 2 Honigman & Hawkins, Michigan Court Rules Annotated (2d ed), p 59; Hanlon v Firestone Tire & Rubber Co, 391 Mich 558; 218 NW2d 5 (1974). The portion of the deposition which the petitioners wanted read in this case was not relevant to the portion introduced by the respondents. The trial record reveals that the petitioners did not want the statements introduced to clarify or qualify statements introduced by the respondents. The portion of Ralph Kitchen’s deposition which was read to the jury contained an admission by him to the effect that Kenneth Kitchen was the favorite nephew of the decedent. This statement is contrary to allegations filed by the petitioners, including Ralph Kitchen, in the probate court. The part of the deposition which the petitioners sought to have read to the jury, immediately after the respondent’s reading of the above-referenced portion, related to Ralph Kitchen’s opinion that Kenneth Kitchen did not hold the deceased in very high esteem. While perhaps admissible and relevant in its own right, that part of the deposition was not relevant to the part introduced by the respondents. Given that fact, as well as the fact that the respondents did not quote from the deposition out of context so as to unfairly present its content, there was no error in not requiring the respondents to read to the jury that portion urged by the petitioners. In addition, pursuant to GCR 1963, 302.4(3), the probate judge specifically ruled that the respondents could introduce any part of the deposition, or the deposition it its entirety, to the jury. For reasons known only to them, the petitioners chose not to exercise that right and cannot now be heard to complain that they were prejudiced.
+The petitioners next contend that the trial court erred in excluding from evidence a portion of the decedent’s medical records. Again, we disagree. The records which the petitioners sought to introduce describe the decedent’s condition as it existed in June of 1980. At that time the decedent was suffering from the apparently advanced stages of terminal cancer. The issue at trial was whether the decedent was competent or subject to undue influence when she established the joint accounts in 1974, 1975, and 1978. Since the report which the petitioners sought to introduce could not supply the jury with any useful information concerning the decedent’s mental abilities during the relevant time period, the report was properly excluded.
+The petitioner’s final contention is that the trial court erred by admitting into evidence certain writings through the testimony of Rosanna Kitchen, who was familiar with the decedent’s handwriting. Thus, the respondents did satisfy the authentication requirement of MRE 901. Of course, the writings must also have been relevant to be admissible. The trial court determined that the writings were appropriate to refute the petitioner’s contention that the decedent was retarded since birth and had only the writing ability of a first grader. Decisions with respect to materiality and relevance of evidence are within the sound discretion of the trial court and are reversible only upon a showing of an abuse of discretion. Jones v Morgan, 58 Mich App 455, 462; 228 NW2d 419 (1975). We find no such abuse. Petitioners also argue that the writings should not have been admitted because respondents failed to establish that the writings were the independent work product of the decedent. There appears to be no such rule of evidence requiring such a showing. The fact that the decedent may have had help in composing the writings went to their weight and not their admissibility.
+Affirmed.
