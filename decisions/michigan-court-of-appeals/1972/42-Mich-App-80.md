@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "11446"
+decided: "1972-07-24"
+citations: ["42 Mich. App. 80"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Quinn, P. J., and V. J. Brennan and Targonski, JJ.", "All concurred."]
+parties: ["DAVIDSON V STATE OF MICHIGAN"]
+source_url: "https://static.case.law/mich-app/42/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2118284
+cites_cases: ["372 Mich 285", "381 Mich 572"]
+---
+
+# Davidson v. State
+
+## Majority (Targonski, J.)
+
+Targonski, J.
+This appeal raises the question of the plaintiffs’ compliance with the verified pleading requirements of the Court of Claims Act.
+Lester Davidson and Virnie Davidson operated a copartnership under the name of L. A. Davidson. Eisenhower Construction Company is a Michigan corporation. These two firms joined in a joint venture and as such entered into a contract with the Michigan State Highway Commission for the construction of 7.16 miles of expressway work in Macomb County, Michigan. The contract with the Michigan State Highway Commission was signed on behalf of L. A. Davidson by Richard A. Davidson, its attorney in fact, and on behalf of Eisenhower Construction Company by an officer of that corporation.
+Certain disputes developed between the defendants and the plaintiffs. Final payment of the contract referred to above was made on January 10, 1969. The statement of claim was mailed to the Court of Claims on October 30, 1969, and filed with the Court of Claims. Said statement of claim was signed by "Lester A. Davidson and Virnie Davidson, co-partnership, d/b/a L. A. Davidson Company and Eisenhower Construction Company, a Michigan corporation (a joint venture) by Richard A. Davidson, its attorney in fact”.
+A subsequent complaint was mailed to the Court of Claims on February 23, 1970, and an amended complaint was mailed to the Court of Claims on June 5, 1970. All three of the complaints were signed in exactly the same manner as quoted above.
+Defendants ultimately filed motion for accelerated judgment. The basis for this motion was the contention that the amended complaint filed by the plaintiffs shows upon its face that the pleadings do not comply with the mandatory jurisdictional requirements of the Court of Claims Act, in that claim and notice shall be signed and verified by the claimant as required by MCLA 600.6431; MSA 27A.6431. It was the state’s contention that no representative of Eisenhower Company had signed and verified the complaint, and therefore, that the party was not properly within the jurisdiction of the Court of Claims. It was further contended that the Court of Claims had no choice but to dismiss the suit as to the plaintiff Eisenhower. Although admitting that Davidson had complied with all of the requisite requirements, the state argued that if one party was to be dismissed from the suit the other party also had to be dismissed as the subject matter arose out of a joint venture. The circuit judge sitting in the Court of Claims on this matter filed an opinion in which he held that the Court of Claims Act was in derogation of the common law and had to be strictly construed. He also held that Eisenhower could bring suit through an attorney, but only if there was a written document evidencing the authority of the attorney to act. This appeal followed.
+It is important to dispose of the first portion of the court’s finding in order to intelligently discuss the balance of the issues. Under the circumstances of this case, the plaintiffs proceeding under the Court of Claims Act was not in derogation of the common law. The state never had and does not have immunity from suit in actions arising out of contracts to which it is a party, Zynda v Aeronautics Commission, 372 Mich 285 (1964). As the state has no immunity in contract actions, the procedure set up by the Court of Claims Act is not in derogation of the common law, but is merely a new procedure in form whereby claimants can litigate their disputes. Consequently, the action here not being in derogation of the common law, we need not apply the strict construction suggested by the trier below.
+The state also makes the argument that if they had a counterclaim against Eisenhower they would be in danger of losing it if it should turn out that the latter, in fact, gave Davidson no authority to act in behalf of the corporation and the state would lose their rights to a counterclaim. This argument is fallacious. Davidson is properly in court by the state’s own admission. Any order of the court as to Davidson would be binding. It is a fundamental precept that one member of a joint venture can be bound by the actions of the other member.
+"Members of a joint adventure in general are liable on contracts with third persons which have duly been entered into on behalf, and for the purposes, of the joint adventure, and for debts arising out of such contracts. There is an individual liability on the part of a person liable as a joint adventurer.” 48 CJS, Joint Adventures, § 14B, p 866.
+Thus, Davidson could properly have been proceeded against for any counterclaim possessed by the state. Another factor belying the defendants’ position is the fact that Eisenhower could easily have been made a party to the suit through the third-party practice authorized by GCR 1963, 204 which would allow the defendant to implead Eisenhower.
+It also appears that the General Court Rules now allow one joint venturer to sue in his own name. GCR 1963, 201.3(3) says as follows:
+"A partnership, partnership association or any unincorporated association having a distinguishing name may sue or be sued in its partnership or association name, or in the names of any of its members designated as such or both.”
+It was a fundamental precept of common law that one partner could not maintain a suit without joining the other partners. Crane on Partnership (2d ed), § 57, p 300 (1952). It would appear that the above-quoted rule is a very liberal one, designed to change the common-law result. 1 Callaghan’s Michigan Pleading & Practice (2d ed), § 15.17, p 391. Under this new rule, it appears that one individual partner may sue in his own name. The rules relating to joint adventurers are the same as those for partners. Thus, it would appear that one venturer should be able to maintain a suit for both. 48 CJS, Joint Adventures, § 15, p 871; 47 Am Jur 2d, Joint Ventures, § 57, p 76.
+The requirements of MCLA 600.6431; MSA 27A.6431 are being construed very liberally. See Meredith v City of Melvindale, 381 Mich 572 (1969). In fact, in 1 Honigman & Hawkins, Michigan Court Rules Annotated (2d ed), Committee Comments to Rule 114, p 271, the author states that the requirement of verifying a complaint "is a useless formality”. This is also recognized by GCR 1963, 114.3 where all that is required is verification "of the party or someone having knowledge of the facts pleaded”. Beyond all doubt Richard A. Davidson has personal knowledge of the facts of this suit.
+The judge’s dismissal of the. Davidsons’ actions forecloses Davidson from asserting a valuable property right to the extent of $413,829.18 in contract damages even though it is admitted by the defendants that Davidson complied with all of the requirements of the Court of Claims Act. This fact, coupled with the previously discussed bases and Court Rules, offers compelling reasons for reversal.
+Reversed and remanded.
+All concurred.
