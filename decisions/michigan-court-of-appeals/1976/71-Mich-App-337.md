@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "25045"
 decided: "1976-09-27"
-citations: ["71 Mich. App. 337", "72 Mich. App. 477"]
+citations: ["71 Mich. App. 337"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v SAMS"]
 source_url: "https://static.case.law/mich-app/71/cases/0337-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2142174
-cites_cases: ["16 Mich 507", "177 NW2d 694", "186 NW2d 872", "195 NW2d 328", "207 NW2d 200", "22 Mich App 528", "29 Mich 195", "30 Mich App 490", "37 Mich App 657", "45 Mich App 614", "71 Mich App 337"]
+cites_cases: ["16 Mich 507", "177 NW2d 694", "186 NW2d 872", "195 NW2d 328", "22 Mich App 528", "29 Mich 195", "30 Mich App 490", "37 Mich App 657"]
 ---
 
 # People v. Sams
