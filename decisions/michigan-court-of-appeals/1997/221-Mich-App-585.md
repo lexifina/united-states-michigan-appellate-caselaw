@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "192796"
+decided: "1997-02-18"
+citations: ["221 Mich. App. 585"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cavanagh, P.J., and Fitzgerald and Markey, JJ."]
+parties: ["ABDUR-RA’OOF v DEPARTMENT OF CORRECTIONS (ON REMAND)"]
+source_url: "https://static.case.law/mich-app/221/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 484829
+cites_cases: ["105 NW2d 42", "192 Mich App 92", "208 Mich App 626", "360 Mich 621", "374 US 398", "406 US 205", "450 Mich 1018", "480 NW2d 598", "49 F3d 1476", "494 US 872", "528 NW2d 840", "65 F3d 489"]
+---
+
+# Abdur-Ra'oof v. Department of Corrections
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This case is before us for the second time. Previously, we concluded that a prison policy directive that prohibited prisoners from leaving work assignments for Friday afternoon Juma’ah prayer services and two congregational services, Eid-al-Fitrah, and Eid-al-Adha, was neither arbitrary nor irrational and did not violate plaintiffs’ rights under the Free Exercise Clause of the First Amendment of the United States Constitution. Abdur-Ra’oof v Dep’t of Corrections, 208 Mich App 626; 528 NW2d 840 (1995). The Supreme Court, in lieu of granting leave to appeal, remanded the case for consideration as on rehearing granted. The Supreme Court further ordered that, on rehearing, this Court address plaintiffs’ belated claim that the Religious Freedom Restoration Act (rfra), 42 USC 2000bb et seq., is applicable in this case. 450 Mich 1018 (1996). We again reverse. The RFRA provides:
+(a) In general
+Government shall not substantially burden a person’s exercise of religion even if the burden results from a rule of general applicability, except as provided in subsection (b) of this section.
+(b) Exception
+Government may substantially burden a person’s exercise of religion only if it demonstrates that application of the burden to the person—
+(1) is in furtherance of a compelling governmental interest; and
+(2) is the least restrictive means of furthering that compelling governmental interest. [42 USC 2000bb-l.]
+The rfra was enacted to reestablish the Supreme Court’s holdings in Sherbert v Verner, 374 US 398; 83 S Ct 1790; 10 L Ed 2d 965 (1963), and Wisconsin v Yoder, 406 US 205; 92 S Ct 1526; 32 L Ed 2d 15 (1972). 42 USC 2000bb(b)(l). In Sherbert and Yoder, the Supreme Court held that government regulation of acts prompted by religious beliefs or principles must be based on a compelling governmental interest. Sherbert, supra at 403; Yoder, supra at 214. Congress expressly found that the Supreme Court’s decision in Employment Division, Dep’t of Human Resources of Oregon v Smith, 494 US 872; 110 S Ct 1595; 108 L Ed 2d 876 (1990), “virtually eliminated the requirement that the government justify burdens on religious exercise imposed by laws neutral toward religion.” 42 USC 2000bb(a)(4). Congress further found that the compelling interest test, as set forth in Sherbert and Yoder, “is a workable test for striking sensible balances between religious liberty and competing prior governmental interests.” 42 USC 2000bb(a)(5). Although the rfra was enacted after plaintiffs’ claim arose, the act is applied retroactively. 42 USC 2000bb-3(a).
+In its appellate brief on remand, defendant relies on the decision of the Sixth Circuit Court of Appeals in Abdur-Rahman v Michigan Dep’t of Corrections, 65 F3d 489 (CA 6, 1995). In Abdur-Rahman, the court held that the refusal to release prisoners from work detail to attend Juma’ah prayer services did not violate the rfra. The court, relying on testimony that the Islamic religion expressly excuses individuals who are in prison from attending the Friday services, ruled that because the services are not fundamental to the Islamic faith, the rfra does not apply. Id. at 491-492.
+Michigan adheres to the rule that a state court is bound by the authoritative holdings of federal courts' on federal questions when there is no conflict. Schueler v Weintrob, 360 Mich 621, 633-634; 105 NW2d 42 (1960); Kocsis v Pierce, 192 Mich App 92, 98; 480 NW2d 598 (1991). In the present case, where Abdur-Rahman involved a decision by a federal appellate court involving the same Department of Corrections, the same religion, and the same challenged policy, we consider the ruling highly persuasive and deserving of great deference.
+In Abdur-Rahman, the Sixth Circuit Court of Appeals stated:
+Finally, Rahman contends that the district court failed to consider the Religious Freedom Restoration Act, 42 USC § 2000bb. Although the district court did not consider the Act, the statute is not applicable to this case. . . . Not all regulations affecting religious activity fall within the Act. Only regulations which substantially burden a prisoner’s capacity to exercise his beliefs of faith are governed by the Act. Werner [v McCotter, 49 F3d 1476, 1480 (CA 10, 1995)]. Reasonable time, place, or manner restrictions upon communal religious gatherings do not necessitate the identification of a compelling state interest. Id. at 1480. The testimony of Chaplain Mardini [a religious leader and teacher of the Islamic religion] establishes that the Islamic religion expressly excuses individuals who are in prison for good cause. Given that the Friday services are not fundamental to Rahman’s religion and that the prison denied Rahman’s pass to attend such services based on security reasons, the district court did not err in granting summary judgment for the defendants. We note, however, that there are two weekly religious services available to plaintiff at said prison. [Abdur-Rahman, supra at 492.]
+The federal magistrate in Abdur-Rahman took extensive testimony of various witnesses in October 1993. We have reviewed the transcripts of those proceedings, and we conclude that the testimony adduced completely encompasses the matter at hand and allows for resolution of plaintiffs’ claim in the present case. We find, as did the Sixth Circuit Court of Appeals, that because Chaplain Muhammad Mardini’s testimony establishes that “Muslims may be legitimately excused from Friday services for reasons such as sickness and work activities,” Abdur-Rahman, supra at 491, attendance at the services is not fundamental to plaintiffs’ religion. Thus, because the regulation at issue does not substantially burden plaintiffs’ exercise of their religion, the rfra is inapplicable.
+Furthermore, this holding is desirable from a policy standpoint. Any contrary result could well lead to relitigation of this issue by inmates in different correctional facilities, with the possible outcome being that the policy directive is enforced at some facilities but not at others. .
+Reversed.
+Eid-al-Fitrah and Eid-al-Adha are the two major holy days of the Islamic faith.
+Senate Report No. 103-111 (July 27, 1993), which accompanied Senate Bill 578, the bill that became the rfra, states in pertinent part:
+The committee expects that the courts will look to free exercise cases decided prior to Smith for guidance in determining whether the exercise of religion has been substantially burdened and the least restrictive means have been employed in furthering a compelling governmental interest.
+Pie-Smith case law malees it clear that only governmental actions that place a substantial burden on the exercise of religion must meet the compelling interest test set forth in the act. The act thus would not require such a justification for every government action that may have some incidental effect on religious institutions. And, while the committee expresses neither approval nor disapproval of that case law, pre-Smith case law makes it clear that strict scrutiny does not apply to government actions involving only management of internal Government affairs or the use of the Government’s own property or resources.
+. . . This bill is not a codification of the result reached in any prior free exercise decision but rather the restoration of the legal standard that was applied in those decisions. Therefore, the compelling interest test generally should not be construed more stringently or more leniently that it was prior to Smith.
