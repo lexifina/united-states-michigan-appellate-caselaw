@@ -1,0 +1,54 @@
+---
+court: "Michigan Court of Appeals"
+docket: "25710"
+decided: "1977-10-10"
+citations: ["78 Mich. App. 745"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Beasley, P. J., and V. J. Brennan and J. R. McDonald, JJ."]
+parties: ["PEOPLE v HARLESS"]
+source_url: "https://static.case.law/mich-app/78/cases/0745-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2163662
+cites_cases: ["1 Mich App 666", "137 NW2d 755", "168 NW2d 642", "17 Mich App 16", "187 NW2d 434", "190 NW2d 259", "194 NW2d 314", "220 NW2d 393", "221 NW2d 336", "225 NW2d 733", "241 NW2d 233", "246 NW2d 403", "246 NW2d 6", "248 NW2d 613", "31 Mich App 301", "33 Mich App 579", "385 Mich 775", "386 Mich 586", "392 Mich 370", "392 Mich 553", "57 Mich App 289", "67 Mich App 433", "70 Mich App 382", "71 Mich App 543", "71 Mich App 95"]
+---
+
+# People v. Harless
+
+## Majority (V. J. Brennan, J.)
+
+V. J. Brennan, J.
+Defendant Jack E. Harless was charged with the first-degree murder of Thomas Champagne and Tom Tillinger, contrary to MCLA 750.316; MSA 28.548. Defendant was tried on June 2, 1975, in Recorder’s Court for the City of Detroit, and found guilty by jury verdict on June 9, 1975. Defendant was sentenced to life in prison on June 23, 1975. Defendant appeals as of right under GCR 1963, 806.1.
+The charges against defendant arose out of an incident which occurred on July 12, 1974. At that point, an argument arose between defendant and Gerald Champagne and Tom Tillinger. Shortly afterward, Thomas Champagne became involved in the argument. Although testimony at trial was in conflict, the fact seems clear that Thomas Champagne, Gerald Champagne and Tom Tillinger followed defendant to his home. Defendant entered his home and gunshots subsequently were fired from an upper window in the house. Thomas Champagne and Tom Tillinger were struck by the gun fire and fatally wounded.
+At trial, certain photographs of the shooting scene were offered and admitted into evidence over defense objection by the trial court. The prosecutor later referred to these photographs in delivering his closing argument.
+Upon conclusion of prosecution and defense arguments to the jury, the court gave instruction on the elements of first-degree murder, including the element of malice. The court phrased its charge in the following way:
+"Malice is implied from the nature of the act which caused the death. Malice can be implied from using the weapon on another person. You are not obligated to reach the conclusion, but you must imply malice if you find death was implied by the use of a gun against another. The doing of a cruel act without excuse or justification.”
+The court also instructed on the difference between first-degree murder and second-degree murder. In distinguishing between the two, the court made the following statement:
+"If you find there was intentional killing of a human being without malice, but you find no contrivance, then you may find the Defendant guilty of Second Degree.”
+The court concluded its instructions by charging the jury on the lesser included offense of manslaughter. He also instructed on possible finding of self-defense. After its deliberation, defendant was found guilty of first-degree murder.
+On appeal defendant raises several, allegations of error.
+Defendant first contends that the trial court committed reversible error by instructing the jury incorrectly on the implication of malice that might be drawn from defendant’s use of a deadly weapon, the effect of which was to remove the possible finding of manslaughter.
+The trial court in its instruction to the jury provided them with a definition of malice in the following statement:
+"Malice is implied from the nature of the act which caused the death. Malice can be implied from using the weapon on another person. You are not obligated to reach the conclusion, but you must imply malice if you find death was implied by the use of a gun against another. The doing of a cruel act without excuse or justification.”
+Defendant claims that this instruction was erroneous under People v Martin, 392 Mich 553, 560-562; 221 NW2d 336 (1974). The Court in Martin held that the law does not imply malice where a deadly weapon is used.
+No objection was made to this instruction at the trial level. Consequently, we have held that a similar instruction will "not warrant reversal * * * absent a showing of manifest injustice”. People v Rosemary Gibson, 71 Mich App 543, 552; 248 NW2d 613 (1976). See also People v Cain, 67 Mich App 433, 438; 241 NW2d 233 (1976). However, we also noted in Gibson that this standard "does not foreclose our reversal on an uncorrected instruction on a material matter * * * [i]f we find Martin error”. People v Gibson, supra, at 552.
+What Martin intended to prevent was the possibility that the trial court would eliminate jury discretion concerning the fact question whether malice appeared simply by defendant’s use of a deadly weapon. The Court found that whether malice arose from defendant’s use of a deadly weapon was a permissible inference to be drawn from the evidence by the jury and not a legal presumption to be imposed }on the jury by the trial court. Thus, where such presumption is raised as a matter of law, the Court found the jury effectively was precluded from consideration of a verdict of manslaughter. People v Martin, supra at 561.
+We do not believe in this case that the instruction given to the jury prevented their factual determination of whether malice existed or, consequently, whether manslaughter was a proper verdict. The court did not charge the jury that they must necessarily find malice from defendant’s use of a deadly weapon. The instructions stated that malice "can be implied from using a weapon on another person. You are not obligated to reach the conclusion”. Consequently, whether malice could be implied from defendant’s use of a weapon was left to the jury to decide on the basis of the facts presented. They were not ordered to find malice simply because a deadly weapon was used. We do not believe the instruction given eliminated the jury’s discretion to find an absence of malice, even though a weapon was used.
+On the other hand, the charge in Martin conclusively removed the element of malice from jury consideration. The court charged as a matter of law that the use of a deadly weapon implies malice. Under these circumstances, no matter what the facts indicated to the jury, they were required to find malice. The court left no discretion, which simply meant that the jury was legally prevented from considering a verdict of manslaughter. The situation in this case is clearly different. By leaving to the jury the freedom to determine from the facts that malice would not necessarily be implied from the use of a deadly weapon, the trial court did not remove possible consideration of a manslaughter verdict from the jury. See People v Rosemary Gibson, supra, at 551-554.
+Defendant next contends that the trial court failed to properly instruct the jury on the elements of second-degree murder.
+In charging the jury, the trial court at one point instructed in the following manner regarding the offense of second-degree murder:
+"If you find there was intentional killing of a human being without malice, that you find no contrivance, then you may find the Defendant guilty of Second Degree.”
+No objection to this instruction was made at trial. Consequently, we will reverse defendant’s conviction on the basis of this alleged error only where manifest injustice appears. People v Embree, 70 Mich App 382, 383; 246 NW2d 6 (1976), People v Snow, 386 Mich 586, 591; 194 NW2d 314 (1972).
+Though the trial court incorrectly characterized the offense of second-degree murder at this point in the instructions, he gave correct instruction on second-degree murder immediately afterward. He charged the jury there:
+"The difference between First and Second Degree Murder has to do with the presence of any premeditation in a contrived or advance plan for such action.
+The difference between First Degree Murder and Second Degree Murder is the difference in premeditation. They both require killing, malice aforethought, the difference being the element of premeditation.”
+Instructions were also given which clearly emphasized that the difference between second-degree murder and manslaughter is the element of malice.
+Though the trial judge by obvious inadvertence incorrectly characterized second-degree murder as being accomplished "without malice”, his clear and accurate instruction immediately afterward indicating malice as necessary to any finding of second-degree murder avoided the kind of distortion in the instructions fatal to informed consideration by the jury. See People v Gray, 57 Mich App 289, 297; 225 NW2d 733 (1975). On the full instructional record, we do not believe defendant was denied a fair trial. People v Goldsby, 17 Mich App 16, 17; 168 NW2d 642 (1969). We find no manifest injustice.
+Defendant contends that insufficient evidence existed to justify the jury in finding defendant guilty of first-degree murder.
+We believe the record indicates ample evidence to warrant the jury verdict for first-degree murder in this case. People v Palmer, 392 Mich 370, 376-377; 220 NW2d 393 (1974). The evidence at trial fairly supported an inference of premeditation and deliberation. People v Morrin, 31 Mich App 301, 331; 187 NW2d 434 (1971), lv den, 385 Mich 775 (1971). See also the similar situation in People v Folkes, 71 Mich App 95, 99-100; 246 NW2d 403 (1976).
+Defendant argues that the trial court committed reversible error by ruling admissible certain photographs of the scene over defense counsel’s objection.
+Like other demonstrative evidence, admission of photographs lies within the sound discretion of the trial court. People v Doane, 33 Mich App 579, 584; 190 NW2d 259 (1971). In this case, the trial court fully explained to the jury the differences in the condition of the house when photographed and the house when defendant was apprehended. Further, these changes did not destroy the substantial identity of the room. People v Herrell, 1 Mich App 666, 668; 137 NW2d 755 (1965). We find no error here.
+Of defendant’s claim that we should entertain a motion for new trial under MCLA 770.1; MSA 28.1098, we would only respond that the language of the statute allowing a court to grant a new trial to a defendant is manifestly limited to the trial court. As defendant made no motion in the trial court for a new trial, we will not consider whether to grant the motion for new trial. People v Folkes, supra, at 100.
+Having reviewed defendant’s allegations of error and finding none persuasive, we sustain the jury conviction.
+Affirmed.
