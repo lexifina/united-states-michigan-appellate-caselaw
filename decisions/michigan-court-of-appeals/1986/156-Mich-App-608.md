@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "89555"
+decided: "1986-10-17"
+citations: ["156 Mich. App. 608"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Sullivan, P.J., and R. M. Maher and M. G. Harrison, JJ."]
+parties: ["In re JOHANSON"]
+source_url: "https://static.case.law/mich-app/156/cases/0608-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2277796
+cites_cases: ["138 Mich App 184", "140 Mich App 594", "144 Cal App 3d 786", "193 Cal Rptr 40", "360 NW2d 868", "364 NW2d 754"]
+---
+
+# In re Johanson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondent Joann Johanson appeals as of right from a probate court order terminating her parental rights with regard to her son Lee Ryan Johanson. Although the order also terminated the parental rights of Joseph Neff, the natural father, he has not joined in appealing the order.
+Lee Ryan was born on August 23, 1983. On March 15,1984, a petition was filed by the Isabella County Department of Social Services alleging that Lee Ryan was a neglected child and came within the provisions of MCL 712A.1 et seq.; MSA 27.3178(598.1) et seq. An adjudicative hearing was held on August 15, 1984, after which the probate court found that respondent had neglected Lee Ryan and had provided an unfit home due to her excessive drinking. Lee Ryan was made a temporary ward of the court.
+A dispositional hearing was held on August 16, 1984. Lee Ryan remained a temporary ward of the court. A review hearing was held on November 15, 1984.__
+A petition to terminate respondent’s parental rights was filed on February 15, 1985. A hearing was held on March 13, 1985. In an opinion dated June 20, 1985, the probate court stated that it found clear and convincing evidence that Lee Ryan had been neglected due to respondent’s drinking problem. An order terminating parental rights was entered on July 10, 1985.
+On July 30, 1985, respondent filed a petition for rehearing alleging that she had applied for membership with the Cherokee Indians. At a hearing held on September 10, 1985, respondent established that she and Lee Ryan had become members of the Cherokee Nation of Oklahoma on August 28, 1985. Respondent claimed that a rehearing was necessary because the termination of parental rights proceedings did not meet the minimum federal requirements of the Indian Child Welfare Act. 25 USC 1901 et seq.
+On October 15, 1985, the probate court issued an opinion and order denying respondent’s motion for rehearing. The court stated:
+Unquestionable [sic], Lee Ryan Johanson was not a member of an Indian Tribe until after the Order Terminating his mother’s parental right had been entered. Equally without question, in the light of Petitioner’s Exhibits 1-3, it is obvious that he was eligible for membership in the Cherokee Nation, or at the very least could become eligible once his mother established her tribal membership. Unfortunately, it appears that she [Joann Johanson] did not become a certified tribal member until August 21, 1985, while the Order Terminating her legal rights was issued on July 10, 1985. Therefore, it appears that while Lee Ryan Johanson may well have been eligible for Tribal membership on July 10, 1985 and earlier, he was not yet the biological child of "a member of an Indian Tribe.” The Court is forced to the reluctant conclusion that Joann Johanson waited too long to establish her tribal membership had she wanted the Indian Child Welfare Act to apply at that stage of the proceedings. [Emphasis supplied.]
+The only issue on appeal is whether the probate court erred in denying respondent’s motion for rehearing. MCL 712A.21(1); MSA 27.3178(598.21)(1) provides in part:
+An interested person, at any time while the child is under the jurisdiction of the court, may file a petition, in writing and under oath, for a rehearing upon all matters coming within the provisions of this chapter, and upon the rehearing the court may affirm, modify, or set aside any order so reviewed.
+MCR 5.909(C) provides:
+The court may grant a petition for rehearing, filed in writing while the child is under the jurisdiction of the court. MCL 712.21; MSA 27.3178(598.21). A petition for rehearing will not be considered unless it presents a matter not previously presented to the court which, if true, would cause the court to reconsider the disposition.
+The probate court’s decision whether or not to grant a petition for rehearing is discretionary and will not be reversed absent an abuse of discretion. In the Matter of Bell, 138 Mich App 184; 360 NW2d 868 (1984).
+The Indian Child Welfare Act provides minimum federal standards for the removal of Indian children from their families and their placement in foster or adoptive homes. 25 USC 1902; In the Matter of Morgan, 140 Mich App 594; 364 NW2d 754 (1985). The act was enacted in 1978 to "protect the best interests of Indian children and to promote the stability and security of Indian tribes and families . . . 25 USC 1902. There are two prerequisites to invoking the requirements of the act. First, it must be determined that the proceeding is a "child custody proceeding” as defined by § 1903(1). Second, it must be determined that the child is an Indian child as defined by § 1903(4). Assuming that an Indian child is involved in an involuntary proceeding, the Indian tribe must be notified of the proceeding and its right to intervene. Section 1912(a) provides in part:
+In any involuntary proceeding in a State court, where the court knows or has reason to know that an Indian child is involved, the party seeking the foster care placement of, or termination of parental rights to, an Indian child shall notify the parent or Indian custodian and the Indian child’s tribe, by registered mail with return receipt requested, of the pending proceedings and of their right of intervention. [25 USC 1912.]
+Violation of the notice provision may be cause for invalidation of the proceedings. 25 USC 1914. See, also, In re Junious M, 144 Cal App 3d 786; 193 Cal Rptr 40 (1983).
+In the instant case, nothing in the record evidences that the trial court knew or should have known that Lee Ryan was an Indian child. Respondent cites the following statement by the probate court in support of her claim that the probate court knew that Lee Ryan was an Indian child:
+As to disposition, it is the considered judgment of the Court that consideration should be given to the child’s Indian heritage. Federal law requires that when adoption of an Indian child occurs, the extended family of the child has first priority. Because of the inability of the subject of the petition and his respondent-mother to establish the necessary Tribal affinity said Federal law apparently does not directly apply in this case.
+The record contains several references to the Saginaw Tribe of Chippewa Indians. It appears, however, that the reference to the Chippewa Indians had to do with the fact that respondent at one time had rented a home on the Chippewa reservation. There is nothing in the record to suggest that respondent was a member of that tribe. In fact, respondent admits that she unsuccessfully attempted to obtain membership in that tribe during the child custody proceedings. In any event, the trial court was assured that neither respondent nor Lee Ryan was a member of the Chippewa Indians.
+Only after the order terminating parental rights was entered did respondent seek membership in the Cherokee nation. She cláims that the possibility of membership in that nation arose only through posttermination discussions with her father, who evidently is a member of the Cherokee nation. To suggest then that the probate court knew or had reason to know prior to terminating parental rights that Lee Ryan was a member of the Cherokee nation is illogical. The record is void of any reference to the Cherokee Indians. We are convinced that the probate court would have applied the provisions of the Indian Child Welfare Act had it any inclination that Lee Ryan was an Indian child as defined by the act. The fact that Lee Ryan may have Indian heritage does not qualify him as an Indian child under § 1903(4).
+Since the probate court did not know and had no reason to know that Lee Ryan was an Indian child, we find no abuse of discretion in the denial of respondent’s motion for rehearing.
+Affirmed.
+We note that the Indian Child Welfare Department of the Cherokee Nation of Oklahoma was informed of the termination proceedings and declined intervention. The requirements of the Indian Child Welfare Act are being followed with regard to the placement and adoption proceedings.
