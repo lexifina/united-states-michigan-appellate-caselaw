@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "64155"
+decided: "1983-09-26"
+citations: ["129 Mich. App. 94"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P.J., and Gribbs and H. R. Gage, JJ."]
+parties: ["PEOPLE v KINARD"]
+source_url: "https://static.case.law/mich-app/129/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2253076
+cites_cases: ["104 Mich App 73", "109 Mich App 702", "110 Mich App 606", "194 NW2d 718", "227 NW2d 763", "227 NW2d 767", "288 NW2d 909", "304 NW2d 485", "311 NW2d 835", "313 NW2d 350", "37 Mich App 391", "393 Mich 501", "393 Mich 522", "407 Mich 632"]
+---
+
+# People v. Kinard
+
+## Majority (H. R. Gage, J.)
+
+H. R. Gage, J.
+After a nonjury trial, defendant was found guilty but mentally ill of second-degree murder, MCL 750.317; MSA 28.549, and of possession of a firearm during the commission of a felony, MCL 750.227b; MSA 28.424(2). Defendant was sentenced to imprisonment for consecutive terms of 3 to 40 years and 2 years.
+I
+Defendant argues that the trial court erred by allowing him to waive the right to trial by jury without first determining whether he was competent to make such a waiver. Defendant executed the waiver on the record in open court on August 27, 1981. The trial court did not accept the waiver until it had questioned defendant and ascertained that defendant understood what he was waiving. Defendant’s trial began on October 22, 1981.
+The record shows that, in the year before defendant was tried, questions concerning his competence arose repeatedly. On December 17, 1980, defendant was referred to the Center for Forensic Psychiatry for an evaluation of his competence. On January 14, 1981, the court found defendant to be competent. On April 1, 1981, defendant was again referred to the Center for Forensic Psychiatry, and on May 8, 1981, the court found defendant to be incompetent. The record shows that, on July 14, 1981, the court received a report from the center indicating that defendant was competent. At the hearing on August 27, 1981, the record shows that the necessity for another hearing on competence was discussed. At the court’s suggestion, defendant’s counsel agreed to postpone that hearing until shortly before trial. There is no indication in the record that the hearing ever took place.
+In People v Lucas, 393 Mich 522, 528-529; 227 NW2d 763 (1975), the Court explained the prerequisites for appellate review of an issue such as that which defendant seeks to raise in this case:
+"Evidence substantiating incompetency-in-fact must establish that there is a violation of rights before a new trial will be ordered. Here, as in [People v Blocker, 393 Mich 501; 227 NW2d 767 (1975)], no evidence of incompetence was adduced at trial and no offer of such evidence is now made.
+"At this juncture, the only way an issue respecting competency can be determined is by a motion for new trial with supporting affidavits or evidence showing substance to the claim that defendant was incompetent at the time of the original trial. If such duly-supported motion is filed, the trial court is obligated to hold a hearing on the motion.
+"It is our view that this Court should not function in cases such as the present as a never-resolving, ever-revolving door when evidentiary presentation at the trial court level will permit determination of the substantiality of claimed error and avoid the 'playing of the appellate game’. Henceforth it is incumbent upon a defendant claiming error for noncompliance with the statutory, court rule, or constitutional provisions respecting competency to stand trial to present a motion for new trial, or delayed motion for new trial, seeking an evidentiary hearing at the trial court level before claimed error will be considered upon appeal.” (Footnote omitted.)
+Defendant’s arguments concerning his competence will not be considered because he has failed to make the record which Lucas requires.
+II
+At the close of trial, the court stated on the record its findings of fact and conclusions of law. Those findings plainly indicate that the defendant had a firearm in his possession when he committed the crime; however, the trial court failed to expressly render a decision at that time on the charge of possession of a firearm during the commission of a felony. It was not until about three months later, at sentencing, that the trial court formally announced that defendant was guilty of that charge.
+Defendant argues that public policy and the Double Jeopardy Clause require finality in verdicts and that the procedure adopted by the trial court poses dangers of abuse and violates the ban against double jeopardy. Because the findings of fact stated at the close of trial supported the decision eventually announced, no danger of abuse is presented. Moreover, while finality of verdicts may be required by the Double Jeopardy Clause and desirable as a. matter of policy, see People v Rushin, 37 Mich App 391; 194 NW2d 718 (1971), these interests have no relevance here because the trial court did not change its finding but merely delayed in announcing it.
+In two related cases involving trial delays resulting in claims of violation of the Double Jeopardy Clause, panels of this Court concluded that where a trial was stayed during an interlocutory appeal of the dismissal of a charge, double jeopardy rights were not violated upon continuation of the case on the reinstated charge before the original jury. People v Wolfe, 110 Mich App 606; 313 NW2d 350 (1981); People v Conte, 104 Mich App 73; 304 NW2d 485 (1981). This Court reasoned that the defendants were not placed twice in jeopardy be-. cause only a single trial took place. Here, as in Conte and Wolfe, only a single, trial took place, despite the three-month delay in completing that trial. Further, here, in contrast to the Conte and Wolfe cases, no decision favorable to defendant was ever rendered on the charge at issue. We conclude that the trial court’s delay in rendering a decision on the charge of possession of a firearm during the commission of a felony does not require that defendant’s conviction on that charge be reversed.
+Ill
+Defendant argues that the verdict of guilty but mentally ill, authorized by MCL 768.36(1); MSA 28.1059(1), denied him due process. Defendant claims that the availability of the verdict increases the possibility of improper compromises by the trier of fact. Appellate courts of this state have rejected numerous constitutional challenges to the verdict of guilty but mentally ill, e.g., People v McLeod, 407 Mich 632; 288 NW2d 909 (1980); People v Rone (On Second Remand), 109 Mich App 702; 311 NW2d 835 (1981), but no reported decision expressly addresses the argument raised here. However, on the record presented, we cannot say that the argument has merit. Defendant has not cited, and we cannot find, any authority indicating that compromise by the trier of fact is inconsistent with due process. Moreover, in a recent study, researchers were unable to discern any effect whatever of the availability of the verdict on the success of insanity defenses. See Evaluating Michigan’s Guilty But Mentally Ill Verdict: An Empirical Study, 16 Mich J L Ref 77, 100-101 (1982). Absent evidence indicating that, despite the foregoing study, the guilty but mentally ill verdict leads to compromise verdicts, the merits of defendant’s constitutional argument cannot be reached.
+Affirmed.
