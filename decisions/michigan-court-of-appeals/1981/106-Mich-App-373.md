@@ -1,0 +1,65 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 47118, 47119"
+decided: "1981-05-19"
+citations: ["106 Mich. App. 373"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and T. M. Burns and Bashara, JJ.", "Mackenzie, P.J., concurred."]
+parties: ["PEOPLE v BRADLEY"]
+source_url: "https://static.case.law/mich-app/106/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2187011
+cites_cases: ["10 ALR3d 974", "103 Mich App 571", "132 NW2d 87", "14 Mich App 139", "165 NW2d 319", "173 NW2d 317", "19 Mich App 702", "194 NW2d 709", "221 NW2d 357", "229 NW2d 913", "247 NW2d 547", "248 NW2d 589", "256 NW2d 578", "263 NW2d 586", "266 NW2d 661", "299 NW2d 304", "303 NW2d 240", "374 Mich 331", "384 US 436", "386 Mich 551", "392 Mich 404", "398 Mich 250", "403 Mich 835", "409 Mich 672", "42 L Ed 2d 843", "420 US 912", "440 US 964", "59 L Ed 2d 779", "59 Mich App 745", "6 L Ed 2d 1037", "71 Mich App 491", "76 Mich App 197", "80 Mich App 16", "82 Mich App 44", "95 S Ct 835", "96 L Ed 872", "99 S Ct 1512"]
+---
+
+# People v. Bradley
+
+## Majority (Bashara, J.)
+
+Bashara, J.
+Defendant appeals from jury convictions of first-degree murder, MCL 750.316; MSA 28.548, and breaking and entering an occupied dwelling with intent to commit larceny therein, MCL 750.110; MSA 28.305.
+The body of Kenneth Smith was found lying in a driveway in Cass County, Michigan, on the afternoon of November 25, 1978. Medical examination revealed that multiple blows, including a severe crushing injury to the head, had caused Mr. Smith’s death.
+The home where the body was found had been robbed. Parts of an automobile belonging to Daniel Alexander were found at the scene. The investigation focused on Alexander. However, an eyewitness informed police that the defendant may have been involved.
+The Walker hearing transcript establishes the following chronology. On November 29, defendant voluntarily went to the police station at the request of the sheriffs department. No incriminating statements were made at that time. He returned on November 30 for the purpose of taking a polygraph examination. He was arrested and booked on an open murder charge at 6:00 p.m. that day.
+While in an identification room, the police guard conversed with the defendant under circumstances as follows:
+"Mr. Bradley was sitting in a chair across from me and the desk. I was sitting there, and he advised me that he didn’t understand how he could be charged with murder, he didn’t kill anyone. He was advised what they normally do is charge everyone until determinations are made and who had actually committed the murder. He sat there for a minute. He then said, 'let’s say a guy was there and the guy he was with killed somebody, would he be charged with murder and would he have to go to prison?’ I advised him that it was, as far as prison, that was up to the Judge in the determination there, and as far as if he could be charged with murder, it would depend on his involvement. He sat there for another minute and he said — refresh my memory here — 'let’s say someone was there. Could something be worked out as far as charges?’ He was advised that this was up to the Prosecutor to make a decision on something like that, and that I was unqualified to answer his question when it got to that. At this point he was asked if he would be willing to talk to the Prosecutor, who could answer his questions better than I could. He said yes, he would.”
+Subsequently, Detective Bannow came into the room and spoke with defendant. Detective Bannow testified in pertinent part as follows:
+"A I went back in there and Detective Atkinson asked him if he would tell me what he just told him, and he said, 'yes’.
+”Q. And, what, if anything, did he say?
+"A. The part was that he wanted to know that, he couldn’t understand why he could be arrested for murder when he didn’t do it, and I told him that if a person was along with another person when they did something, they could be charged with it. He says, 'wonder if a man was there and didn’t actually participate in it, what would happen then?’ And, I told him, I said I cannot make no deal with him, that — that would have to be talked with the Prosecutor. I asked him if he would talk with a Prosecutor, and he said, 'yes.’
+”Q. Did he ask you about making any kind of a deal?
+"A. Just the part that — what would happen if a man was there?”
+At the request of Detective Bannow, an assistant prosecuting attorney interviewed the defendant that evening. Defendant was fed and received Miranda warnings. Defendant asked the prosecutor if a person could be charged with murder even if he had not actually committed the killing. He was informed that he could be charged with felony murder in that case. Defendant stated that he did not want to discuss it further. He was taken to his cell for the remainder of the evening.
+At 8:00 the next morning, defendant was again informed of his Miranda rights, which he waived. Defendant denied any involvement in the homicide. After about 30 minutes of questioning, he was returned to his cell at his request.
+About 9:30 a.m., another officer interviewed defendant. Defendant again waived his Miranda rights. The officer informed the defendant that the prosecutor’s office had decided to extend an offer to him. The officer described the offer as follows:
+"[I]t was indicated to me that if Mr. Bradley was not involved in the actual homicide, the actual hitting with the cement block, that he gave a statement on tape or typed, and also testified against Mr. Alexander, that there would be a reduced charge of breaking and entering lodged against him and the original murder charge would be dropped.”
+Defendant asked about the possibility of bail. The detective informed him that there is no bail for murder but that bail could be set for breaking and entering, although he did not promise it would be.
+Defendant’s recollection of the above conversation differed from that of the officer. He testified at the hearing that he never agreed to testify against Alexander. He also claimed that the police had tampered with the tape. Finally, he contended that he was on LSD when the confession was given. The officer denied the defendant’s allegations.
+The confession was transcribed into the Walker hearing record. Defendant was read his rights. The defendant stated, in essence, that he and Danny Alexander robbed a house. The car, driven by Alexander, got stuck in the driveway. The deceased drove up and offered assistance. Alexander and the deceased attempted to push the car by hand. When that method was unsuccessful, Alexander struck the decedent and entered his car. While the victim remained motionless on the ground, Alexander pushed his own car out of the snow using the deceased’s auto. Alexander resumed his position behind the wheel of his car and they left.
+Defendant was arraigned within an hour of the confession. The murder charge was dismissed and bond was set on the breaking and entering charge.
+It was subsequently learned from defendant’s attorney that he would not testify against Alexander. Consequently, the defendant was recharged with murder and ultimately convicted.
+Initially, defendant alleges that the trial court erred in ruling that his confession was voluntary and admissible at trial. He asserts that he was induced to confess in exchange for promises of leniency. We agree with the trial court’s conclusion that it was the defendant who initiated the chain of events leading to the agreement. For that reason, we find the case cited by defendant, People v Pallister, 14 Mich App 139; 165 NW2d 319 (1968), inapposite.
+People v Langford, 76 Mich App 197; 256 NW2d 578 (1977), lv den 403 Mich 835 (1978), cert den 440 US 964; 99 S Ct 1512; 59 L Ed 2d 779 (1979), more closely addresses the facts presented. In affirming the trial court’s ruling that the confession was voluntary, this Court held:
+"The record reveals that defendant initiated discussions concerning the 'plea bargain’. Defendant even demanded that the agreement be in writing. Defendant was fully informed of his Miranda rights several times. Defendant was represented and advised by counsel. There is no claim that defendant was illiterate, of unsound mind, was under coercion or duress, or in any other way deprived of the exercise of free will. Defendant was able to weigh all the circumstances involved. He freely chose to confess and reveal the facts herein. Defendant, however, later changed his mind and refused to live up to his end of the plea bargain and justifiably these charges were then brought. Defendant now argues that his confession was per se inadmissible. Based on the record below, we disagree.” (Footnotes omitted.) Id., 199-200.
+Also see, People v Coppernol, 59 Mich App 745, 751; 229 NW2d 913 (1975), and People v Sparks, 82 Mich App 44, 51; 266 NW2d 661 (1978).
+Our review of the record does not lead us to conclude that the trial court erred in holding that the defendant confessed voluntarily. People v Robinson, 386 Mich 551; 194 NW2d 709 (1972).
+At oral argument, this Court requested that the parties brief the issue of the applicability of MRE 410 to this scenario. Rule 410 states:
+"Except as otherwise provided in this rule, evidence of a plea of guilty, later withdrawn, or a plea of nolo contendere, or of an offer to plea guilty or nolo contendere to the crime charged or any other crime, or of statements made in connection with any of the foregoing pleas or offers, is not admissible in any civil or criminal proceeding against the person who made the plea or offer. However, evidence of a statement made in connection with, and relevant to, a plea of guilty, later withdrawn, a plea of nolo contendere, or an offer to plea guilty or nolo contendere to the crime charged or any other crime, is admissible in a criminal proceeding for perjury or false statement.”
+After careful review of the rule, briefs and record, we conclude that MRE 410 is not applicable to this case because the possibility of a guilty plea was never discussed nor was one offered or accepted. The Supreme Court could have stated that the rule was to apply to cases of reduced charges had the Justices so intended.
+We are also in disagreement with defendant’s assertion that he was prejudiced by the delay in arraignment. In view of the circumstances, we find that he was arraigned within a reasonable time. In addition, any delay in arraignment was not for the purposes of "extracting” a confession. People v White, 392 Mich 404; 221 NW2d 357 (1974), cert den 420 US 912; 95 S Ct 835; 42 L Ed 2d 843 (1975).
+Finally, defendant alleges the trial court erred in instructing the jury that malice could be inferred solely from an intent to commit the underlying felony of burglary. Recently, the Supreme Court held that such an instruction is erroneous. People v Aaron, 409 Mich 672; 299 NW2d 304 (1980). However, the opinion explicitly applies only to "trials in progress and those occurring after the date of this opinion”. Id., 734. Since the trial occurred in 1979, Aaron does not require reversal.
+Prior to Aaron, the members of this Court have differed as to whether the above instruction was erroneous. We agree with the opinion in People v Till, 80 Mich App 16, 23-37; 263 NW2d 586 (1977), which approved of the instruction. Also see, People v Heard, 103 Mich App 571; 303 NW2d 240 (1981).
+Defendant’s remaining allegation of error is totally without merit. People v Garcia, 398 Mich 250; 247 NW2d 547 (1976), People v Degraffenreid, 19 Mich App 702; 173 NW2d 317 (1969).
+Affirmed.
+Mackenzie, P.J., concurred.
+People v Walker (On Rehearing), 374 Mich 331; 132 NW2d 87 (1965).
+Miranda v Arizona, 384 US 436; 86 S Ct 1602; 16 L Ed 2d 694; 10 ALR3d 974 (1966).
+
+## Concurring in part and dissenting in part (T. M. Burns, J.)
+
+T. M. Burns, J.
+(concurring in part and dissenting in part). I cannot agree with the majority opinion insofar as it would affirm the defendant’s felony-murder conviction. The Supreme Court opinion in People v Aaron, 409 Mich 672; 299 NW2d 304 (1980), as I read it, does not preclude us from following a substantial body of case law approving of the 1976 opinion of this Court in People v Fountain, 71 Mich App 491; 248 NW2d 589 (1976).
+I have always been persuaded that the reasoning of Fountain was correct and that that of People v Till, 80 Mich App 16; 263 NW2d 586 (1977), was incorrect. Therefore, because the Supreme Court opinion in Aaron is not applicable to this case, I would rely generally on the status of Michigan law as it stood on the date of Aaron and specifically on the opinion of this Court in Fountain. I would not hesitate to apply Fountain here.
+I concur in the affirming of defendant’s conviction of breaking and entering an occupied dwelling with intent to commit larceny, but I dissent and would reverse defendant’s first-degree felony-murder conviction.
