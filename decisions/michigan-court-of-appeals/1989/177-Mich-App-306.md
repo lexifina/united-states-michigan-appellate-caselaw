@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "102770"
+decided: "1989-06-05"
+citations: ["177 Mich. App. 306"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Michael J. Kelly, P.J., and Mackenzie and S. B. Miller, JJ.", "S. B. Miller, J., concurred."]
+parties: ["PEOPLE v DeLEON"]
+source_url: "https://static.case.law/mich-app/177/cases/0306-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2313815
+cites_cases: ["171 Mich 602", "1982 PA 343", "289 NW2d 674", "296 NW2d 46", "355 NW2d 592", "397 NW2d 783", "408 Mich 79", "419 Mich 458", "427 Mich 392", "430 NW2d 794", "97 Mich App 411"]
+---
+
+# People v. DeLeon
+
+## Majority (Mackenzie, J.)
+
+Mackenzie, J.
+Following a jury trial, defendant was convicted of carrying a concealed weapon, MCL 750.227; MSA 28.424, and being an inmate in possession of a weapon, MCL 800.283(4); MSA 28.1623(4). He subsequently pled guilty to being an habitual offender, third offense, MCL 769.11; MSA 28.1083. Defendant was sentenced to two to six years imprisonment for each underlying conviction, to be served consecutively to the prison sentences he was serving at the time of the instant offenses. Defendant appeals as of right, asserting that his convictions of carrying a concealed weapon and being an inmate in possession of a weapon violate the double jeopardy clause of the Michigan Constitution, Const 1963, art 1, § 15. We disagree and affirm.
+This case involves the double jeopardy clause’s protection against multiple punishment for the same offense. This form of double jeopardy protection addresses the defendant’s interest in not having more punishment imposed than that intended by the Legislature. People v Robideau, 419 Mich 458, 485; 355 NW2d 592 (1984). The issue whether two convictions involve the same offense for purposes of the protection against multiple punishment, therefore, is solely one of legislative intent. People v Sturgis, 427 Mich 392, 400; 397 NW2d 783 (1986).
+Under Robideau, this Court must use traditional means to determine whether the Legislature intended to permit multiple punishment and examine the subject, language, and history of the statutes involved. See Robideau, supra, p 486. Statutes prohibiting conduct that is violative of distinct social norms can generally be viewed as separate and amenable to permitting multiple punishment. Robideau, supra, p 487. A further source of legislative intent can be found in the amount of punishment expressly authorized by the Legislature. Where the Legislature has taken conduct from a base statute and increased the penalty for aggravated conduct, it in all likelihood did not intend punishment under both statutes. Robideau, supra, pp 487-488.
+The statutes before us have distinct social purposes. The prohibition against carrying a concealed weapon was enacted to prevent the possibility that quarrelling persons would suddenly draw a hidden weapon without notice to other persons. People v Wright, 97 Mich App 411; 296 NW2d 46 (1980). The thrust of the statute is the prevention of "carrying” and "concealing” one of several listed weapons by any person regardless of the intent with which the weapon is carried. See Sturgis, supra, p 408. The conduct made punishable by the concealed weapon statute is not the possession of a weapon, but the carrying of a weapon, concealed. Sturgis, supra, p 409. The inmate in possession of a weapon statute, on the other hand, was specifically intended to prohibit the control or possession of weapons by prisoners. See 1982 PA 343, § 3. Unlike the concealed weapon statute, the inmate in possession statute addresses the social evil of possession of a weapon in a correctional facility. Because the statutes are directed at separate distinct social harms, it may be concluded that the Legislature intended to permit multiple punishment for concealment of a weapon and being an inmate in possession of a weapon even where there is only one possession of a weapon. Compare Sturgis, supra, p 409.
+The punishments authorized by the Legislature under the two statutes also suggest the intent to impose dual convictions. Carrying a concealed weapon carries a maximum penalty of five years imprisonment. MCL 750.227; MSA 28.424. Being an inmate in possession of a weapon also carries a maximum penalty of five years imprisonment. MCL 800.285(1); MSA 28.1625(1). There is no legislative indication that carrying a concealed weapon is an aggravation of being an inmate in possession of the same weapon. The implication is that the Legislature intended separate punishments for the two crimes.
+Moreover, we note that the Legislature has seen fit to specify that when an inmate is in possession of a controlled substance, he or she may be prosecuted either as an inmate in possession of a controlled substance pursuant to MCL 800.281; MSA 28.1621 or pursuant to the controlled substances act, MCL 333.7401 et seq.; MSA 14.15(7401) et seq. See MCL 800.285(2); MSA 28.1625(2). No analogous provision was made for inmate weapons offenses, although inmate possession of both controlled substances and weapons is governed by the same act. Again, the implication is that the Legislature intended multiple punishment for inmates possessing and concealing weapons.
+Since it appears that the Legislature intended to authorize dual penalties for carrying a concealed weapon and being an inmate in possession of a weapon, defendant’s convictions on both counts did not violate the prohibition against double jeopardy. Accordingly, defendant’s convictions are affirmed.
+Affirmed.
+S. B. Miller, J., concurred.
+
+## Dissent (Michael J. Kelly, P.J.)
+
+Michael J. Kelly, P.J.
+(dissenting). I do not believe that the Legislature intended to provide for multiple punishment under both the statutes in question. The main inquiry to determine whether the Legislature intended to provide for multiple punishment for one act under two statutes is whether the conduct prohibited under each statute violates a social norm distinct from that norm protected by the other statute. People v Robideau, 419 Mich 458, 487; 355 NW2d 592 (1984); People v Allay, 171 Mich 602, 607; 430 NW2d 794 (1988). However, if the two statutes in question do no more than prohibit violations of the same social norm, although in somewhat different ways, we should conclude a legislative intent to allow only one punishment. Robideau, supra at 487; Allay, supra at 607. Here each statute seeks to prevent violation of the same social norm: the possession or carrying of a lethal weapon which could be used to inflict harm upon others. Although the conduct prohibited under each statute differs slightly, the harm sought to be prevented is the same. I would infer a legislative intent to permit only one conviction for this act.
+I am not convinced that the absence of an analogous exclusionary provision such as contained in MCL 800.285(2); MSA 28.1625(2) necessarily implies a legislative intent to allow simultaneous conviction for both carrying a concealed weapon and being an inmate in possession of a weapon when the predicate factual basis is one single offense, i.e., the knife in the garbage can. Absence of a specific statutory provision should not necessarily imply the contrary in this situation. As noted by the Court in Robideau:
+If no conclusive evidence of legislative intent can be discerned, the rule of lenity requires the conclusion that separate punishments were not intended. [Robideau, supra at 488.]
+I would conclude that defendant’s convictions violate double jeopardy and vacate one of his convictions and sentences. See People v Jankowski, 408 Mich 79, 96; 289 NW2d 674 (1980).
