@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "157313"
 decided: "1994-11-07"
-citations: ["207 Mich. App. 364", "209 Mich. App. 511"]
+citations: ["207 Mich. App. 364"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["UNIVERSAL GYM EQUIPMENT, INC v VIC TANNY INTERNATIONAL, INC"]
 source_url: "https://static.case.law/mich-app/207/cases/0364-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1879737
-cites_cases: ["143 Mich App 319", "174 NW2d 797", "182 Mich App 301", "190 Mich App 57", "203 Mich App 616", "207 Mich App 364", "214 NW2d 63", "231 NW2d 46", "282 NE2d 288", "30 NY2d 143", "331 NYS2d 382", "372 NW2d 537", "383 Mich 314", "394 Mich 401", "433 Mich 755", "437 Mich 876", "444 Mich 535", "449 NW2d 669", "451 NW2d 608", "475 NW2d 418", "50 Mich App 703", "510 NW2d 900", "513 NW2d 428", "526 NW2d 5", "583 NYS2d 957", "593 NE2d 1365", "692 F Supp 629", "79 NY2d 540", "79 NY2d 558", "92 ALR2d 533"]
+cites_cases: ["143 Mich App 319", "174 NW2d 797", "182 Mich App 301", "190 Mich App 57", "203 Mich App 616", "214 NW2d 63", "231 NW2d 46", "282 NE2d 288", "30 NY2d 143", "331 NYS2d 382", "372 NW2d 537", "383 Mich 314", "394 Mich 401", "433 Mich 755", "437 Mich 876", "444 Mich 535", "449 NW2d 669", "451 NW2d 608", "475 NW2d 418", "50 Mich App 703", "510 NW2d 900", "513 NW2d 428", "583 NYS2d 957", "593 NE2d 1365", "692 F Supp 629", "79 NY2d 540", "79 NY2d 558", "92 ALR2d 533"]
 ---
 
 # Universal Gym Equipment, Inc. v. Vic Tanny International, Inc.
