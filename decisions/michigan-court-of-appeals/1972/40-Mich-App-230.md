@@ -1,0 +1,49 @@
+---
+court: "Michigan Court of Appeals"
+docket: "11385"
+decided: "1972-04-26"
+citations: ["40 Mich. App. 230"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J., and Bronson and Targonski, JJ.", "All concurred."]
+parties: ["ROSE v LURVEY"]
+source_url: "https://static.case.law/mich-app/40/cases/0230-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2084376
+cites_cases: ["153 SE 659", "154 Va 428", "230 Mich 381", "254 Mich 545", "35 SE 529", "57 SC 280", "71 Or 451"]
+---
+
+# Rose v. Lurvey
+
+## Majority (Lesinski, C. J.)
+
+Lesinski, C. J.
+Plaintiffs Robert and Barbara Rose brought this action against defendants Wyman and Sally Lurvey to set aside and cancel a quitclaim deed and land contract assignment made to defendants of property on which plaintiffs resided. Plaintiffs also sought damages from defendants for certain changes made in the residence during defendants’ occupancy of it. At the close of plaintiffs’ proofs, defendants made a motion to dismiss which the trial judge took under advisement. Following the presentation of all of the proofs in the case, the trial court granted defendants’ motion to dismiss the complaint for failure to establish a basis for relief by their proofs. In the alternative, the trial court, sitting as trier of fact, found in favor of the defendants. From the judgment in favor of defendants, plaintiffs appeal as of right.
+Plaintiffs originally purchased the house and property in question on a land contract dated May 19, 1965, for $17,000. The house served as a residence for plaintiffs and their eight children. On May 28, 1970, the date of plaintiffs’ assignment of the land contract to defendants, there remained a balance owing of $13,226.64.
+On May 18, 1970, Barbara Rose temporarily left her husband Robert Rose. Robert Rose was emotionally upset by his wife’s action and sought the help of his sister, Norma Lurvey. She advised plaintiff to seek a divorce. In his consultation with the attorney his sister had advised him to see, plaintiff learned that the attorney also represented plaintiff’s land contract vendor. Plaintiff was informed that his wife had failed to make the last five payments on the land contract and consequently plaintiffs were in default in the amount of $775. In addition, plaintiffs owed back taxes and had failed to maintain the insurance on the premises which they were required to do under the contract.
+Norma Lurvey had been present when her brother was informed that the land contract was in default. As a possible solution to his financial difficulties, she suggested that her son, defendant Wyman Lurvey, might be interested in purchasing the property. Discussions were held between Robert Rose and Wyman Lurvey over such a transfer but no price was ever mentioned. Wyman Lurvey did agree that following such a transfer he would pay up the back payments and taxes which were owing. On Robert Rose’s request, Norma Lurvey’s attorney drew up the necessary documents for the assignment.
+On May 28, 1970, Robert Rose met with his wife and they reconciled their differences. At that time plaintiffs agreed that the house should be sold. The instruments were accordingly executed in spite of the fact that they failed to state a definite sale price. The only money mentioned in them was $1.05 recited consideration. On May 29, 1970, the instruments were delivered to defendant Wyman Lurvey.
+Defendants paid the back payments and taxes on June 3, 1970. Plaintiffs, however, continued to occupy the premises in anticipation of receiving additional consideration. Plaintiffs were subsequently served with a notice to quit which they ignored. At that time plaintiffs were informed that defendants viewed the $1.05 recited consideration as the entire purchase price.
+In July, Robert Rose entered the hospital. During the short time the house was unoccupied, defendants moved in and began remodeling the interior. The defendants were subsequently ordered removed from the house by the trial judge pending the decision in this case.
+Plaintiffs contend that the gross inadequacy of consideration mandated the cancellation of the assignment of the land contract and the accompanying quitclaim deed. The trial court found that:
+"The evidence clearly establishes that the plaintiffs had acquired an equity in the contract of $3,863. An appraiser testified that the property had a minimum market value of $25,000. The defendants at most paid directly to the plaintiffs the sum of $1.05. * * *
+"Plaintiffs contend that this was all the consideration which they received. This argument does not stand up to the test. The land contract contained in its terms an acceleration clause permitting the seller to accelerate the balance due under the contract, declare a default, and claim a deficiency. Plaintiff Robert Rose himself admitted that he was worried that he might lose his job if the contract were forfeited. * * *
+"Under the circumstances, the consideration may be deemed to be inadequate, it cannot be held to be so grossly inadequate as to shock the conscience of the court and entitle plaintiffs to relief by virtue of the inadequacy itself.”
+It is a general principle of contract law that courts will not ordinarily look into the adequacy of the consideration in an agreed exchange. Equity will, however, grant relief where the inadequacy of consideration is particularly glaring. Thus in Hake v Youngs, 254 Mich 545, 550 (1931), the Michigan Supreme Court stated the rule that:
+"Mere inadequacy of consideration, unless it be so gross as to shock the conscience of the court, is not ground for rescission.”
+In Gerycz v Zagalski, 230 Mich 381, 384 (1925), the only consideration moving to plaintiffs for a deed of their home was an assignment of a land contract for the purchase of a farm which was at the time in default. The Michigan Supreme Court in setting aside the deed of plaintiffs’ home stated:
+"Plaintiffs traded their home for a farm, not for a prospective lawsuit with Holeva over a defaulted contract, the successful outcome of which was very doubtful. We think there was such a failure of consideration as justified a court of equity in granting plaintiffs relief.’.’
+In the case at bar, the trial judge found that plaintiffs received more than just the $1.05 recited consideration from defendants. This additional consideration was said to have been the peace of mind plaintiffs obtained from knowing that they did not have to worry about the ramifications of defaulting on the land contract. This Court believes that this finding of additional consideration was erroneous. What the trial court mistakenly referred to as consideration was in actuality nothing more than the inducements and motives which influenced plaintiffs into making the contract. Inducements and motives are merely the subjective manifestation of plaintiffs’ own desires. They are not that bargained for exchange or legal detriment to defendants which is necessary to establish a legally valid contract.
+"The motive which prompts one to enter into a contract and the consideration for the contract are distinct and different things. Parties are led into agreements by many inducements, such as the hope of profit, the expectation of acquiring what they could not otherwise obtain, the desire of avoiding a loss, etc. These inducements are not, however, either legal or equitable consideration, and actually compose no part of the contract.” 17 Am Jur 2d, Contracts, § 93, pp 436-437.
+In light of the fact that $1.05 represented the entire consideration for the transfer of an equity in the property worth approximately $12,000, we find ourselves called upon to decide whether such consideration was so grossly inadequate as to "shock the conscience of the court”. We believe it was.
+In McGhee v Wells, 57 SC 280, 285; 35 SE 529, 531 (1900), the South Carolina Supreme Court approved a charge which stated:
+" 'Grossly inadequate consideration does not mean simply less than the actual value of the property. It means a consideration so far short of the real value of the property as to shock a correct mind.’ ”
+In Texas Co v Northrop, 154 Va 428, 443; 153 SE 659, 663 (1930), the Virginia Supreme Court of Appeals cited with approval Lord Thurlow’s definition of grossly inadequate consideration as:
+" 'An inequality so strong, gross and manifest that it must be impossible to state it to a man of common sense without producing an exclamation at the inequality of it,’ * * * Gwynne v Heaton, 1 Bro, Ch 1, 9; 28 Rep 949.”
+This Court reaches the conclusion that the transfer of an equity in property worth $12,000 for $1.05 exhibited an inequality so strong as to amount to a gross inadequacy of consideration.
+In Sherman v Glick, 71 Or 451, 461; 142 P 606, 609 (1914), it was said:
+"Inadequacy of price paid for real property is not sufficient alone to authorize a court of equity to set aside a deed of conveyance, unless it is so gross as to shock a conscientious person; but if the inadequacy is so great as to shock a conscientious person, it alone may furnish sufficient ground for annulling the conveyance.”
+In the case at bar the gross inadequacy of consideration mandates the cancellation of defendants’ quitclaim deed and land contract assignment. Accordingly, the trial court is reversed and the cause remanded for the cancellation of the land contract assignment and quitclaim deed. At such time the trial court is instructed to make a determination as to whether plaintiffs are entitled to damages for defendants’ unauthorized occupation of the premises. The trial court is also instructed to determine whether defendants are entitled to be reimbursed for the back payments and taxes they made on the land contract.
+Reversed and remanded. Costs to plaintiffs.
+All concurred.
