@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "73205"
 decided: "1984-11-07"
-citations: ["138 Mich. App. 807", "141 Mich. App. 403"]
+citations: ["138 Mich. App. 807"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["ROSSI v TRANSAMERICA CAR LEASING COMPANY"]
 source_url: "https://static.case.law/mich-app/138/cases/0807-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2238838
-cites_cases: ["105 Mich App 25", "130 Mich App 104", "135 NW 1063", "138 Mich App 117", "138 Mich App 807", "170 Mich 611", "182 NW2d 739", "222 NW 84", "229 NW2d 338", "245 Mich 41", "26 Mich App 655", "284 NW2d 488", "30 ALR2d 944", "306 NW2d 378", "340 Mich 510", "341 Mich 55", "343 NW2d 249", "358 NW2d 902", "360 NW2d 307", "59 Mich App 117", "65 NW2d 760", "67 NW2d 471", "92 Mich App 62"]
+cites_cases: ["105 Mich App 25", "130 Mich App 104", "135 NW 1063", "170 Mich 611", "182 NW2d 739", "222 NW 84", "229 NW2d 338", "245 Mich 41", "26 Mich App 655", "284 NW2d 488", "30 ALR2d 944", "306 NW2d 378", "340 Mich 510", "341 Mich 55", "343 NW2d 249", "59 Mich App 117", "65 NW2d 760", "67 NW2d 471", "92 Mich App 62"]
 ---
 
 # Rossi v. Transamerica Car Leasing Co.
