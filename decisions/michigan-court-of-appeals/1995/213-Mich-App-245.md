@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "159605"
+decided: "1995-09-05"
+citations: ["213 Mich. App. 245"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Doctoroff, C. J., and Neff and Connor, JJ."]
+parties: ["PEOPLE v JACKSON"]
+source_url: "https://static.case.law/mich-app/213/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1872178
+cites_cases: ["156 Mich App 615", "161 Mich App 296", "184 Mich App 302", "195 Mich App 267", "197 Mich App 372", "1994 PA 110", "200 Mich App 9", "207 Mich App 560", "210 Mich App 162", "210 Mich App 295", "212 NW2d 922", "240 NW2d 722", "390 Mich 436", "396 Mich 408", "402 NW2d 773", "409 NW2d 813", "435 Mich 228", "441 Mich 916", "445 Mich 535", "446 Mich 374", "446 Mich 587", "457 NW2d 145", "458 NW2d 17", "489 NW2d 192", "495 NW2d 808", "503 NW2d 682", "520 NW2d 123", "521 NW2d 312", "521 NW2d 531", "526 NW2d 33", "532 NW2d 918", "533 NW2d 339"]
+---
+
+# People v. Jackson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted by a jury of criminal sexual conduct in the first degree, MCL 750.520b; MSA 28.788(2). Defendant was also convicted of being an habitual offender, fourth offense. MCL 769.12; MSA 28.1084. Because defendant previously had been found guilty by a jury of being an habitual offender, fourth offense, the trial court found that the doctrine of res judicata precluded relitigation of that issue. Defendant was sentenced to life imprisonment. Defendant appeals as of right. We remand for proceedings consistent with this opinion.
+i
+Defendant first argues that the affidavits in support of the search warrants used to obtain semen and body hair samples were insufficient. Specifically, defendant alleges that the affidavits failed to set forth probable cause on which to issue the warrants and that the affiant intentionally misrepresented the information in the affidavits in order to obtain the search warrants.
+We decline to review this issue because defendant has waived it by failing to move below to suppress the evidence and by failing to object to the testimony based on that evidence. People v Carroll, 396 Mich 408, 411-412; 240 NW2d 722 (1976); Michigan Up & Out of Poverty Now Coalition v Michigan, 210 Mich App 162, 167; 533 NW2d 339 (1995).
+However, because defendant’s arguments against the affidavits in support of the warrants appear to have some validity, we remand this case for a Ginther hearing to determine whether defendant was denied effective assistance of counsel by his counsel’s failure to move to suppress the evidence or object to the testimony below. MCR 7.216(A)(7).
+n
+Defendant next raises various claims of error in the trial court’s conduct of the trial and evidentiary rulings. We find no error requiring reversal.
+First, we disagree with defendant that the deoxyribonucleic acid (dna) evidence at trial was inadmissible. This Court, as defendant concedes, has already considered defendant’s arguments and nonetheless upheld the validity of this type of dna evidence in People v Adams, 195 Mich App 267; 489 NW2d 192 (1992), modified on other grounds 441 Mich 916 (1993).
+Next, no error requiring reversal arose from Charlotte Word’s testimony regarding the statistical probabilities involved in dna matching. That testimony was a volunteered and unresponsive reply to an otherwise proper question by defense counsel on cross-examination. Therefore, it cannot form the basis of error requiring reversal. See People v Barker, 161 Mich App 296, 305-306; 409 NW2d 813 (1987); People v Von Everett, 156 Mich App 615, 622; 402 NW2d 773 (1986). In any event, defendant waived this issue by failing to object to Word’s testimony on this basis. MRE 103(a)(1); People v Grant, 445 Mich 535, 545; 520 NW2d 123 (1994).
+Defendant has also waived his complaint that the prosecution failed to provide an endorsed witness for trial. Defendant did not move for a new trial on this issue. People v Simpson, 207 Mich App 560, 561-562; 526 NW2d 33 (1994).
+iii
+Finally, defendant argues that the trial court improperly applied the doctrine of res judicata to bar relitigation of defendant’s habitual offender, fourth offense, status. We disagree.
+Res judicata bars a subsequent action between the same parties when the facts or evidence essential to the action are identical to those essential to a prior action. Ozark v Kais, 184 Mich App 302, 307; 457 NW2d 145 (1990). The purpose of the doctrine of res judicata is to avoid relitigation of claims; the doctrine recognizes that endless litigation leads to vexation, confusion, and chaos for litigants and inefficient use of judicial resources. Id. at 308. And although res judicata may not be invoked to establish an essential element of a crime, People v Goss (After Remand), 446 Mich 587; 521 NW2d 312 (1994), its use in criminal proceedings is not entirely banned, see People v Goss, 200 Mich App 9, 12; 503 NW2d 682 (1993), affirmed by Goss, supra, 446 Mich 587. Res judicata requires that (1) the prior action was decided on the merits, (2) the decree in the prior action was a final decision, (3) the matter contested in the second case was or could have been resolved in the first, and (4) both actions involved the same parties or their privies. Kosiel v Arrow Liquors Corp, 446 Mich 374, 379; 521 NW2d 531 (1994); Old Kent Bank of Holland v Chaddock, Winter & Alberts, 197 Mich App 372, 379; 495 NW2d 808 (1992).
+Here, we conclude that the trial court properly employed res judicata to bar relitigation of defendant’s habitual offender conviction. First, defendant’s prior habitual offender conviction was decided by a jury on its merits. Second, the jury verdict constitutes a final decision. Third, the question of his guilt as an habitual offender, fourth offense, was decided in the prior case. And finally, this action involves the same parties as the previous one.
+We conclude that our Supreme Court’s opinion in Goss, supra, does not require a different result, because that case is distinguishable from this case on its facts. There, both opinions establishing the majority considered the applicability of res judicata and collateral estoppel in the context of a defendant’s constitutional right to trial, or to a fair trial, in a proceeding involving a crime.
+With an habitual offender trial, however, these concerns are not at issue. The habitual offender statute does not create a substantive offense; rather, it merely provides a means to enhance a defendant’s sentence. People v Anderson, 210 Mich App 295; 532 NW2d 918 (1995). Also, the right to a jury trial for an habitual offender conviction, such conviction being a sentencing matter, is not constitutionally mandated. See People v Eason, 435 Mich 228, 239; 458 NW2d 17 (1990). Thus, Goss, supra, is distinguishable because defendant’s constitutional right to a jury trial was not implicated, and his habitual offender proceedings did not involve a crime.
+This Court’s opinion in Anderson, supra, supports our conclusion that res judicata may be applied to subsequent habitual offender proceedings. There, this Court held that it is permissible, from a double jeopardy standpoint, to use the same prior felonies to support subsequent habitual offender convictions. Anderson, supra. Thus, it would be a waste of precious judicial resources to allow a jury to determine conclusively a defendant’s status as an habitual offender for purposes of sentence enhancement, only to have to relitigate the same issue in a subsequent proceeding.
+Accordingly, because the issue of defendant’s guilt as an habitual offender, fourth offense, was conclusively determined in a prior proceeding, and the interest in finality and judicial economy outweighs any possible prejudice to defendant, we conclude that the trial court properly used the doctrine of res judicata to bar relitigation of this issue.
+This case is remanded for proceedings consistent with this opinion. If, on remand, defendant is found to have been provided with effective assistance of counsel, his convictions and sentence are affirmed. We do not retain jurisdiction.
+People v Ginther, 390 Mich 436; 212 NW2d 922 (1973).
+At the time of defendant’s trial, MCL 769.13; MSA 28.1085 provided a statutory right to a jury trial for habitual offender convictions. That act subsequently has been amended by 1994 PA 110, and the statutory right to a jury trial in these matters has been done away with. We express no opinion regarding the applicability of the statute as amended to this case.
+See n 2, supra.
