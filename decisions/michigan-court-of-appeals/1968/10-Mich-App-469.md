@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "783"
 decided: "1968-03-29"
-citations: ["10 Mich. App. 469", "14 Mich. App. 620"]
+citations: ["10 Mich. App. 469"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v. BERRY."]
 source_url: "https://static.case.law/mich-app/10/cases/0469-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2059336
-cites_cases: ["10 Mich App 469", "240 US 251", "260 US 482", "270 Mich 240", "288 Mich 417", "304 US 458", "332 US 174", "336 Mich 325", "354 US 156", "355 US 155", "366 Mich 609", "369 US 506", "377 Mich 37", "378 Mich 733", "380 Mich 686", "380 Mich 693", "380 Mich 704", "380 Mich 719", "381 Mich 766", "387 US 1", "8 Mich App 375"]
+cites_cases: ["240 US 251", "260 US 482", "270 Mich 240", "288 Mich 417", "332 US 174", "336 Mich 325", "354 US 156", "366 Mich 609", "369 US 506", "377 Mich 37", "378 Mich 733", "381 Mich 766", "387 US 1", "8 Mich App 375"]
 ---
 
 # People v. Berry
