@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "70094"
+decided: "1984-06-04"
+citations: ["135 Mich. App. 76"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P.J., and R. B. Burns and R. L. Borsos, JJ."]
+parties: ["FEDERAL KEMPER INSURANCE COMPANY, INC v HEALTH INSURANCE ADMINISTRATION, INC"]
+source_url: "https://static.case.law/mich-app/135/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2244000
+cites_cases: ["131 Mich App 103", "131 Mich App 98", "175 NW2d 413", "219 Or 110", "249 Or 471", "250 NW2d 404", "269 NW2d 687", "301 NW2d 775", "345 NW2d 655", "410 Mich 173", "84 Mich App 589"]
+---
+
+# Federal Kemper Insurance v. Health Insurance Administration, Inc.
+
+## Majority (R. B. Burns, J.)
+
+R. B. Burns, J.
+Plaintiff appeals from a circuit court order denying plaintiffs motion for summary judgment and granting defendant’s motion for summary judgment pursuant to GCR 1963, 117.2(3), based on the parties’ "stipulated set of material facts”.
+Duane Forsyth was injured in an automobile accident. Plaintiff was Forsyth’s no-fault insurance carrier at the time of the accident, while defendant provided Forsyth with health insurance under a group policy through Forsyth’s employer. Forsyth had elected to "coordinate” his no-fault insurance with his health insurance by checking a box on his insurance application. MCL 500.3109a; MSA 24.13109(1) requires no-fault insurance carriers to offer "coordinated benefits” coverage at reduced premium rates to those individuals who coordinate their no-fault benefits with "other health and accident coverage”:
+"An insurer providing personal protection insurance benefits shall offer, at appropriately reduced premium rates, deductibles and exclusions reasonably related to other health and accident coverage on the insured. The deductibles and exclusions required to be offered by this section shall be subject to prior approval by the commissioner and shall apply only to benefits payable to the person named in the policy, the spouse of the insured and any relative of either domiciled in the same household.” (Emphasis added.)
+Plaintiff has paid Forsyth’s medical bills and , defendant has refused to reimburse plaintiff for these payments. Both plaintiff and defendant claim that they are secondary insurers relative to the other. Defendant relies on the following language in provision (d) of the "Effect on Benefits” section of its health policy:
+"Under 'No Fault’ legislation the benefits of this plan shall be determined after the benefits provided by 'No Fault’ legislation in those states where such legislation is in force and allowable by law.”
+Plaintiff relies on the language in its Michigan Personal Injury Protection Endorsements (Medical Expense Amendment) Form No. AUTO 523A:
+"This insurance does not apply to the extent that any amounts are paid or payable for allowable expenses to or on behalf of such named insured or relative under the provisions of any other insurance, service, benefit or reimbursement plan providing similar direct benefits, without regard to fault, for bodily injury sustained as a result of the operation, maintenance, or use, including the loading or unloading, of a motor vehicle.”
+The circuit court held there was no conflict between these "escape clauses” because no money was "paid or payable” by defendant by reason of defendant’s escape clause.
+Plaintiff argues that, under the terms of the policy issued by defendant, defendant is liable for all or part of the medical and hospital expenses incurred by Duane Forsyth.
+Defendant argues that its "escape clause” relieves it from liability. Furthermore, defendant contends that, even if its policy can be construed to provide Forsyth with insurance coverage, the Commissioner of Insurance has ruled that the no-fault carrier is primarily liable in a case such as the present one. According to defendant, public policy dictates that group health plans should not be construed to duplicate primary no-fault coverage.
+In Nyquist v Aetna Ins Co, 84 Mich App 589; 269 NW2d 687 (1978), this Court held that an insured could coordinate his no-fault insurance benefits with his Blue Cross and Blue Shield health and accident insurance coverage. In LeBlanc v State Farm Mutual Automobile Ins Co, 410 Mich 173; 301 NW2d 775 (1981), the Supreme Court held that an insured could also elect to coordinate his no-fault benefits with benefits provided under the Medicare program. Both cases pointed out that the legislative intent in providing for coordinating benefits was to reduce the premiums for those who have duplicate insurance, i.e., both health and no-fault insurance. Here, however, Forsyth’s no-fault insurance policy purports to exclude insurance coverage for amounts "paid or payable” under Forsyth’s health policy, and defendant’s health insurance policy does not provide for the payment of benefits until Forsyth’s no-fault benefits are exhausted.
+This case presents the same dilemma that was discussed in Farm Bureau Mutual Ins Co v Horace Mann Ins Co, 131 Mich App 98; 345 NW2d 655 (1983). That panel recognized the absurdity of assuming that, where "other insurance” provisions conflict, one policy must yield to the other. Instead, the Farm Bureau panel adopted a minority position and "rejected in toto” both "other insurance” clauses. The Court stated:
+"The majority view has been criticized as circular. Union Ins Co (Mutual) v Iowa Hardware Mutual Ins Co, [175 NW2d 413 (Iowa, 1970)] p 417. The present case provides an apt illustration of that criticism. Both policies provide primary coverage. Reading the Horace Mann policy first, one could argue that the Farm Bureau policy is a 'valid policy’ under the escape clause with the result that, pursuant to that clause, Horace Mann has no liability. However, a different result is produced by reading the Farm Bureau policy first. Under its pro-rata clause, one might argue that the Horace Mann policy applies to the loss and, thus, under that clause both insurers are responsible for their proportionate share of the loss. As the Court said in Union Ins Co (Mutual), supra, p 417:
+" 'To solve the problem by picking up one policy, and reading it with a result which would be opposite to that reached if the other policy were first in order, is at best a pseudo-solution in that it only aggravates a circular riddle.’
+"The majority view attempts to resolve an intractable conflict. That is not possible. We recognize 'the absurdity of attempting to assume that where conflicting "other insurance” provisions exist by reason of overlapping coverages of the same occurrence the provisions of one policy must yield to the provisions of the other’. Lamb-Weston, Inc v Oregon Automobile Ins Co, 219 Or 110, 128; 341 P2d 110, 118-119 (1959). Courts which have arrived at that conclusion represent the minority view. See Union Ins Co (Mutual), supra; Westhoff v American Inter-Ins Exchange, 250 NW2d 404 (Iowa, 1977); Sparling v Allstate Ins Co, 249 Or 471; 439 P2d 616 (1968). Under that approach, the conflicting 'other insurance’ clauses are declared 'repugnant’ and are 'rejected in toto’. Lamb-Weston, Inc v Oregon Automobile Ins Co, supra, p 129. Once the conflicting clauses are disregarded, both policies clearly provide coverage. Each insurer’s liability is then prorated based on the proportion of the combined policy limits represented by the limits of each insurer’s policy.
+"We adopt the minority view. The escape clause of the Horace Mann policy and the pro-rata clause of the Farm Bureau policy conflict and must be rejected. Liability for the insured’s claim must be prorated between the insurers.” 131 Mich App 103-104.
+We agree with the reásoning in Farm Bureau and adopt such reasoning.
+Each insurer’s liability will be prorated based on the proportion of the combined policy limits represented by the limits of each insurer’s policy.
+Reversed.
