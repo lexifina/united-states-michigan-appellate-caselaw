@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78390"
+decided: "1985-05-21"
+citations: ["143 Mich. App. 215"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Shepherd, P.J., and D. E. Holbrook, Jr. and M. F. Sap ala, JJ."]
+parties: ["SHUBERT v SCHELLIE"]
+source_url: "https://static.case.law/mich-app/143/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2264465
+cites_cases: ["114 Ariz 226", "123 Mich App 592", "287 NW 439", "290 Mich 215", "332 NW2d 623", "46 Mich 131", "7 ALR4th 1268", "8 NW 699"]
+---
+
+# Shubert v. Schellie
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Barbara Weiss, personal representative of the estate of Stanley V. Shubert, deceased, appeals as of right from a judgment granting defendants the proceeds from an escrow account. This case arose when Stanley V. Shubert (hereinafter plaintiff) conveyed by quit claim deed a certain farm and the personal property located on the premises, including a herd of cattle, to himself and defendants, his niece and her then husband, in July of 1974, creating a joint tenancy in that property between himself and defendants. Plaintiff reserved a life estate, including rents and profits, for himself. The relationship between plaintiff and defendants deteriorated, and in 1978 plaintiff brought suit to set aside the deed. Plaintiff was denied relief by the trial court and appealed to this Court.
+While the appeal was pending, the parties entered into an agreement to sell some of the cattle in the herd located on the subject premises and to place the profits from that sale into an escrow account to be distributed upon further order of the court or upon resolution of the appeal. On January 8, 1981, in an unpublished decison, Shubert v Schellie, Docket No. 45889, we affirmed the order denying plaintiff relief. Plaintiff died on January 10, 1981, and his estate, through the personal representative of the estate, claimed an interest in the escrow money and any personal property owned by plaintiff. On August 24, 1981, an order was entered delaying the release of the escrow funds until a final determination as to what property had passed by deed. An evidentiary hearing was held and on May 1, 1984, judgment was entered in favor of defendants. The personal representative of plaintiff’s estate contends that this ruling was in error.
+Plaintiff deeded the subject property jointly to himself and the defendants, reserving also a life estate in himself. This is commonly known as the "poor man’s will” and is used to avoid probate. This device carries some risk as the grantor relinquishes his ability to later change his mind.
+This particular situation is one of first impression in Michigan. The grantor, in a deed creating a joint tenancy, reserved a life estate, inlcuding, all rents and profits from and exclusive use and control of the premises during his lifetime. Due to pending litigation, monies from the sale of cattle were placed in escrow. Plaintiff died in the interim. Shall these monies pass through his estate or to the defendants as joint tenants with rights of survivorship?
+At the time of the conveyance of the deed, the herd consisted of 17 cows and a bull. The agreement to sell cattle which was executed by the parties during the pendancy of the prior appeal contained a provision which provided that the herd should not be reduced below 30 head. As plaintiff had reserved his exclusive use and control of all rents and profits, we believe that he was entitled to the monies realized from that sale. Utilizing the standard enumerated in Amator v Amator, 114 Ariz 226; 560 P2d 410, 414 (1977), we find that the defendant’s rights were adequately protected.
+As long as the herd size did not fall below its size as of the date the 1974 deed was executed, we cannot say that defendants were harmed. Plaintiff’s reservation of all rents and profits necessarily included the ability to sell the beef cattle, as that is the nature of the business. Indeed, we are hard pressed to determine what, if any, profits could accumulate from a herd of beef cattle if they were not sold. As plaintiff had reserved exclusive use and control, it was his decision as to the amount and time of the sale of any cattle during his lifetime, as long as the herd size did not decrease from its original level.
+We agree with Amator, supra, where it was held that it is the overall number of animals, and not whether the original animals from the date of the creation of the interest are still alive, that is important.
+Accordingly, when the cattle were sold in 1979, it is clear that plaintiff intended those funds to be utilized within his exclusive control. The escrow account was merely created due to pending litigation. Therefore, we award the funds in the escrow account to plaintiff’s estate.
+Reversed. Cost to appellant.
+We do not address those situations where a decrease in the herd size may be through no fault of the life tenant.
+
+## Concurrence (Shepherd, P.J.)
+
+Shepherd, P.J.
+(concurring). I agree with the conclusion reached by the majority and join in its opinion. I write separately only to clarify the legal underpinnings of oúr analysis. I feel that the result is not only fair and reasonable, but also is consistent with what little authority exists in this area.
+The general rule with respect to tame and domestic animals is that the brood belongs to the owner of the dam or mother. Kellogg v Lovely, 46 Mich 131, 133; 8 NW 699 (1881). The general rule applies "in the absence of an agreement to the contrary”. 4 Am Jur 2d, Animals, § 10, p 257. Thus, if the grantor in the present case had not reserved exclusive use and control and the profits to himself, we would hold in defendants’ favor. That result would follow from the creation by the deed of the joint tenancy. Defendants had a present interest as joint tenants in the herd when the gift was made. "Where property stands in the name of joint tenants with the right of survivor-ship, neither party may transfer the title to the premises and deprive the other of such right of survivorship.” Ames v Cheyne, 290 Mich 215, 218; 287 NW 439 (1939); see also Fuller v Fuller, 123 Mich App 592, 596; 332 NW2d 623 (1983). As joint owners of the herd, defendants would also have joint ownership of the offspring. Kellogg, supra.
+There was no separate agreement contrary to the general rule in this case. Instead, the conveyance itself was qualified by the grantor’s retention of a life estate and the profits. As noted in the majority’s opinion, the only possible source of "profits” where beef cattle are concerned is sale of part of the herd. Therefore, the language of the deed takes the conveyance beyond the scope of the general rule.
+This leaves us with two remaining inquiries, namely: What rights did the defendants have? and What were the plaintiff’s obligations, if any, to the defendants with respect to the herd? Again, I agree with the majority’s conclusion that plaintiff’s sole obligation as life tenant was to maintain the number of animals in existence at the time of the conveyance, i.e., 18 head of cattle. "[I]t is incumbent upon the life tenant to keep up the original number.” 4 Am Jur 2d, Animals, § 11, p 258. Any funds realized from the sale of any increase in the size of the herd beyond that number constituted the profits referred to in the deed.
+The agreement to sell cattle provided that the herd not be reduced below 30 head. Therefore, we need not decide whether plaintiff could have sold 12 more animals and kept that additional profit as well. The plaintiff’s death has prevented him from obtaining any further profit from the herd. All animals remaining in the herd passed to defendants, as joint owners with rights of survivorship, by operation of law, whether they were among the original 18 or the offspring thereof. Kellogg, supra. The agreement not to reduce the herd to less than 30 head provided more than adequate protection of defendants’ rights.
