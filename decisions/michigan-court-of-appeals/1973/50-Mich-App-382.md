@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "14843"
 decided: "1973-11-01"
-citations: ["50 Mich. App. 382", "54 Mich. App. 282"]
+citations: ["50 Mich. App. 382"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PONTIAC POLICE OFFICERS ASSOCIATION v CITY OF PONTIAC"]
 source_url: "https://static.case.law/mich-app/50/cases/0382-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2102778
-cites_cases: ["190 NW2d 97", "200 NW2d 722", "213 NW2d 217", "214 NW2d 803", "242 NW 814", "258 Mich 698", "258 NW 627", "270 Mich 256", "385 Mich 519", "391 Mich 44", "391 Mich 814", "392 Mich 812", "41 Mich App 723", "50 Mich App 382"]
+cites_cases: ["190 NW2d 97", "200 NW2d 722", "242 NW 814", "258 Mich 698", "258 NW 627", "270 Mich 256", "385 Mich 519", "41 Mich App 723"]
 ---
 
 # Pontiac Police Officers Ass'n v. City of Pontiac
