@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "21626"
+decided: "1975-10-14"
+citations: ["65 Mich. App. 155"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P. J., and V. J. Brennan and D. E. Holbrook, Jr., JJ."]
+parties: ["OSMENT v CHARNLEY"]
+source_url: "https://static.case.law/mich-app/65/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2150761
+cites_cases: ["159 NW2d 839", "169 NW 943", "186 NW 719", "204 Mich 9", "217 Mich 318", "232 NW2d 154", "246 NW 196", "261 Mich 156", "381 Mich 105", "394 Mich 485"]
+---
+
+# Osment v. Charnley
+
+## Majority (V. J. Brennan, J.)
+
+V. J. Brennan, J.
+This case concerns the interpretation of MCLA 418.827; MSA 17.237(827), of the Michigan Workmen’s Compensation Act. Defendant Ford Motor Company appeals the order of the Wayne County Circuit Court that invalidated Ford’s statutory lien on the $20,000 settlement of plaintiff Charles Osment’s malpractice suit against defendant Dr. Charnley.
+Plaintiff Charles Osment (hereinafter "plaintiff”) injured his back May 16, 1968 while working at Ford Motor Company’s Michigan Truck Plant. Dr. Charnley, a private physician, treated plaintiff in hospital emergency room that day and saw plaintiff four subsequent times, prescribing medication and bed rest.
+Plaintiff began receiving weekly disability benefits under workmen’s compensation September 17, 1968. He received medical and hospital benefits and, in addition, $50,000. Plaintiff presently receives disability retirement benefits through Ford Motor Company.
+In October of 1968, and again in June of 1969, plaintiff, upon the advice of a second doctor, was operated on for the correction of his back condition. In May of 1970, plaintiff and his wife filed a malpractice suit in the Wayne County Circuit Court against Dr. Charnley alleging negligence in diagnosis and treatment. Charles Osment sought disability, pain and suffering, and mental anguish damages; Virginia Osment sought damages for care and nursing, medical expenses and loss of consortium. On December 2, 1971, Ford Motor Company, pursuant to MCLA 418.827, gave notice of its intention to exercise subrogation rights and seek a statutory lien against any proceeds that might be received by Mr. Osment.
+The plaintiff’s action against Dr. Charnley was settled for $20,000 with Judge Blair Moody, Jr., dismissing the case May 4, 1973. At a later date, Judge Moody granted plaintiff’s motion requesting the invalidation of Ford Motor Company’s statutory lien. Judge Moody concluded that the alleged malpractice of Dr. Charnley constituted an independent injury from the original injury on the job and as such was not " 'an injury for which compensation is payable’ under the act”.
+Ford Motor Company has appealed, asserting that its lien on the $20,000 settlement is authorized by statute. We agree and thereby reverse the Wayne County Circuit Court.
+Plaintiff’s argument on appeal is a curious one. While acknowledging that an employer may be subrogated to the rights of an employee against a third-party tortfeasor for damages for which workmen’s compensation is payable, plaintiff contends that Dr. Charnley was not a tortfeasor and was not liable for any injuries. All injury to plaintiff, it is now alleged, was complete upon his May 16, 1968 fall and the treatment of Dr. Charnley neither aggravated the plaintiff’s injury nor gave rise to a second independent injury. The settlement does not result from any negligence liability of Dr. Charnley, it is argued, but rather from "allegations lacking in factual support”. Because the settlement does not arise out of any negligence, but rather arises out of thin air, plaintiff alleges he is entitled to retain the benefits of Dr. Charnley’s kind endowment.
+We are reluctant to accept the plaintiffs present contention that the malpractice suit was totally unfounded. It strains credulity to assert that allegations lacking in factual support warrant $20,000 in settlement. Rather, the settlement is more properly viewed as compensation for aggravation, despite the fact that Dr. Charnley’s liability was, in fact, quite remote.
+Because we view the settlement of the malpractice suit as a recovery for aggravation of on-the-job injuries, we find Oleszek v Ford Motor Co, 217 Mich 318; 186 NW 719 (1922), controlling. Under Oleszek, an employer is liable for all damages which flow directly from the original injury:
+"Where there is a right of recovery due to the original injury and the disability at the time of the hearing is directly traceable thereto, the intervention of other and aggravating causes by which such disability has been increased * * * is no bar to his recovery.” 217 Mich 318, 321-322.
+Because the employer must pay compensation for that aggravation directly flowing from the original injury, the employer is subrogated to the employee’s rights against the third party who causes the aggravation. Overbeek v Nex, 261 Mich 156; 246 NW 196 (1933). Even if the subsequent third-party aggravation is merely increased pain and suffering, and does not reach the level of an additional physical impairment, the employer is subrogated to the rights of the employee against the third party. That this is true is evidenced by the recent case of Pelkey v Elsea Realty & Investment Co, 394 Mich 485; 232 NW2d 154 (1975), which allowed the employer to recover from the employee monies received from a settlement with a third-party tortfeasor for pain and suffering arising out of the original injury. The Pelkey case, when applied in conjunction with Overbeek, supra, allows the employer to recover settlement sums that represent pain and suffering damages from aggravation subsequent to the original injury.
+Even if we were to accept plaintiffs’ claim that the settlement is essentially a gratuity, not a result of any negligence by Dr. Charnley, defendant Ford Motor Company is entitled to reach the settlement. While it is true that Smith v Battjes Fuel & Building Material Co, 204 Mich 9; 169 NW 943 (1918), has been interpreted by Overbeek, supra, 261 Mich 156, 160, as allowing the employee to retain settlement sums that arose out of an unwarranted malpractice claim, the more recent case of Gamble v American Asbestos Products Co, 381 Mich 105; 159 NW2d 839 (1968), is the better rule. In that case, the parties on appeal stipulated that liability in a settled third-party action was "extremely doubtful, and the settlement was essentially what is determined to be a nuisance settlement”. 381 Mich 105, 108. Nonetheless, the Court invoked MCLA 413.15, the predecessor to the present MCLA 418.827, and allowed the employer to be reimbursed for benefits paid.
+Even a windfall settlement arises out of the initial harm for which the employer must pay compensation; the settlement in the present case would not have been recovered but for the initial compensable injury.
+We remand to the trial court for a reinstatement of defendant Ford Motor Company’s statutory lien.
