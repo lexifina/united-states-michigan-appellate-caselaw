@@ -1,0 +1,51 @@
+---
+court: "Michigan Court of Appeals"
+docket: "15090"
+decided: "1973-07-25"
+citations: ["48 Mich. App. 559"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, P. J., and McGregor and Miles, JJ.", "All concurred."]
+parties: ["RAY v MASON COUNTY DRAIN COMMISSIONER"]
+source_url: "https://static.case.law/mich-app/48/cases/0559-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2106643
+cites_cases: ["135 NW2d 420", "15 Mich App 618", "166 NW2d 123", "207 NW2d 187", "375 Mich 683", "45 Mich App 564"]
+---
+
+# Ray v. Mason County Drain Commissioner
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+At the center of this dispute is the Drain Code of 1956, MCLA 280.1 et seq.; MSA 11.1001 et seq., an exceedingly complex statute, the provisions of which apparently are known by few in the profession and understood by far fewer.
+All residents of the Black Creek Watershed in Mason County, the plaintiffs instituted this action in circuit court, seeking to enjoin defendant from proceeding with an extensive construction plan for drains in the watershed and from assessing residents of the watershed any part of the cost of the project.
+From a judgment in favor of defendant, plaintiffs appeal.
+Plaintiffs Zaggars, Miller, and Falconer own property which has been specially assessed to pay a portion of the project’s cost. The three remaining plaintiffs reside in the watershed but have not been assessed, since they do not live in the special assessment district. At trial, 73 additional parties plaintiff were joined, 67 of whom are landowners in the watershed.
+The first two counts of plaintiffs’ six-count amended, complaint, dealing with alleged violations of state and Federal environmental protection acts, are not involved in this appeal, plaintiffs apparently conceding their failure to establish such violations.
+In counts III through V, plaintiffs alleged that the board of determination of necessity and the commissioner, in adopting and financing the project, failed to comply with certain provisions of the Drain Code; that if the defendant’s actions were in accord with the code, the code is unconstitutional as applied to them; and that the commissioner and those acting in concert with him were guilty of fraud and misrepresentation in the procurement of rights of way for the project and in securing signatures on the petition for determination of necessity.
+Count VI alleged that the plaintiffs were specially assessed for a portion of the cost of the project when, in fact, they would not benefit from it and further, that it would be detrimental to their plans.
+Trial was held in June, 1972, and the court found in defendant’s favor.
+Regarding counts III, IV, and V, and the claim that the defendant had failed to comply with the Drain Code, that the code was unconstitutional, and that the defendant was guilty of misrepresentation and fraud, the trial court found that there was substantial compliance with the Drain Code and that the plaintiffs had failed to make a timely challenge of the alleged procedural defects. The court upheld the constitutionality of the Drain Code and held that, even exercising its equity jurisdiction rather than relying on the statutory time limits, the plaintiffs had not challenged the drain proceedings within a reasonable time. As to the allegations of fraud and misrepresentation, the court found that fraud and misrepresentation did not exist in this case.
+As to count VI, predicated upon a charge that there would be no benefit to the parties, the court said that the benefit was in the land use and resale value of the land, even though the owners might not farm or resell the land.
+The first issue presented on appeal is whether the trial court erred in finding that the defendant substantially complied with the Drain Code in approving the project.
+Plaintiffs claim that the board of determination of necessity failed to consider the cost of the project to the people in the watershed, contrary to MCLA 280.2; MSA 11.1002, and MCLA 280.72; MSA 11.1072.
+"Drains may be located, established, constructed and maintained, the drains and watercourses may be cleaned out, straightened, widened, deepened, extended * * * whenever the same shall be conducive to the public health, convenience and welfare.” MCLA 280.2; MSA 11.1002.
+MCLA 280.72; MSA 11.1072 provides that after a three-member board of determination of necessity is appointed by the drain commissioner, the board shall meet:
+" * * * and proceed to determine the necessity of said proposed drain and whether the same is necessary and conducive to the public health, convenience and welfare.”
+Plaintiffs, without citation of specific authority, argue that the cost of any proposed project must be considered by the board in determining whether a proposed drain project is in the public welfare.’
+We note, however, that there is no provision in the statute which makes available to the board data on the cost of the drain. As defendant points out, the costs involved cannot be known until bids are received from potential contractors. In addition, MCLA 280.154; MSA 11.1154 provides that, after bids are received, a public meeting shall be held to review the apportionment of benefits and the total cost of the project shall be made available to public inspection. Thus, the cost of the drain project is not a necessary factor in the initial determination of necessity.
+The second issue is whether the trial court erred in finding that the plaintiffs had failed to establish that the defendant and those working in concert with him had procured rights of way and signatures on the petition for determination of necessity fraudulently.
+Testimony indicates that the petition circulators and the defendant did, in fact, make false and misleading statements to certain landowners in the watershed in connection with securing rights of way and signatures on the petition for determination of necessity. The statements were to the effect that the landowners would have a subsequent opportunity to vote on the project if the cost proved to be excessive. Although it seems certain that the statements were relied upon, there is no indication that the petition circulators or defendant knew that they were false. Rather, it appears that the statements were made in good faith with no intent to deceive. The lack of knowledge that the statements were false or of any intent to deceive vitiates against any finding of fraud.
+In this connection we also note that plaintiffs failed to follow statutory review procedures within the time periods specified in the code. See MCLA 280.88; MSA 11.1088: MCLA 280.155; MSA 11.1155: MCLA 280.161; MSA 11.1161. Although defendant squarely raised this issue below by moving for an accelerated judgment, the trial court denied the motion and afforded plaintiffs a trial on the merits in light of their allegations of fraud. Since the court later found that plaintiffs had failed to establish fraud, the court, in its opinion, ruled that the action was not commenced within either the statutory period or a reasonable time. We consider the actions of the trial court in this regard as manifestly just and fair, and will not disturb the court’s finding that no fraud was established and that the action was therefore not timely brought.
+Plaintiffs’ remedy was to pursue the statutory review procedures set forth in the Drain Code. As we stated in Battjes Builders v Kent County Drain Commissioner, 15 Mich App 618, 624; 166 NW2d 123, 126 (1969):
+"The drain code of 1956, as amended, provides a full and complete procedure for reviewing the drain proceedings and, in the absence of fraud, the statutory procedures and the reviews provided are exclusive.”
+The third and final issue to be decided is whether the trial, court erred in holding the Drain Code constitutional as applied to plaintiffs.
+It is plaintiffs’ position that the code denies them due process of law, since cost is not a factor in the determination of necessity, and once such necessity is found, an individual landowner’s only recourse is to review his individual assessment, after construction bids have been received by the drain commissioner. It is contended that this procedure effectively denies landowners the right to a hearing on the issue of cost. Although this argument hás merit, it disregards the theory underlying nearly all special assessments, namely that those persons assessed are peculiarly benefitted by the improvement in proportion to the amount of the assessment. As noted in 14 McQuillin, Municipal Corporations (3d ed), § 38.02, p 19:
+"Special assessment or special taxation, therefore, is lawful and constitutional only when founded upon special benefits accrued from the improvement for which the tax or assessment is laid. In other words, the test in all special taxation or assessment proceedings which is constantly invoked by the courts, is that the assessment should not exceed the special benefit to the property.”
+This constitutionally mandated requirement, that special assessments be predicated upon a finding of special benefits, is expressly embodied in the drain code. See MCLA 280.151; MSA 11.1151 and MCLA 280.152; MSA 11.1152, and Blades v Genesee County Drain District No. 2, 375 Mich 683; 135 NW2d 420 (1965).
+Thus, plaintiffs’ attack on the constitutionality of the drain code, as applied to them, depends for its validity on their assertion that the trial court erred in finding that their land was benefitted by the project in question.
+A review of the record brings to light a wealth of conflicting testimony on the question of whether plaintiffs’ land would benefit from the expanded drainage system. Although the present suit is equitable in nature, and our review de novo, we accord the trial court’s findings of fact great weight, and will not overturn them unless convinced we would have reached a different result. De Hollander v Holwerda Greenhouses, 45 Mich App 564, 566; 207 NW2d 187, 188 (1973). The trial court’s finding that plaintiffs’ land would be benefitted was made after hearing a substantial volume of testimony; we are not convinced that our conclusion would have differed from his.
+Affirmed.
+All concurred.
