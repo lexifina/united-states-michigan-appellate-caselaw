@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "243942"
+decided: "2004-03-30"
+citations: ["261 Mich. App. 412"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: SAWYER, EJ., and SAAD and BANDSTRA, JJ."]
+parties: ["SHENKMAN v BRAGMAN"]
+source_url: "https://static.case.law/mich-app/261/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1400754
+cites_cases: ["1998 PA 386", "236 Mich App 443", "444 Mich 638", "464 Mich 149", "467 Mich 873", "513 NW2d 799", "600 NW2d 439", "627 NW2d 247"]
+---
+
+# Shenkman v. Bragman
+
+## Majority (BANDSTRA, J.)
+
+BANDSTRA, J.
+This matter has been remanded to us from the Supreme Court for consideration as on leave granted. 467 Mich 873 (2002). Plaintiff is the personal representative of his grandfather’s estate and brought this wrongful death action against defendant without employing an attorney to do so. The lower court concluded that plaintiff was thus engaged in the unauthorized practice of law and, as a result, dismissed the complaint without prejudice. The sole issue before us is, therefore, whether plaintiff was engaged in the unauthorized practice of law under these facts. We conclude that he was and affirm the lower court order dismissing his complaint.
+This case involves the construction of a statute, the wrongful death act, MCL 600.2922. Thus, it involves a question of law that we review de novo. In re Kubiskey Estate, 236 Mich App 443, 447-448; 600 NW2d 439 (1999). When construing a statute, this Court must consider the object of the statute and apply a reasonable construction that best accomplishes the purpose of the statute. Marquis v Hartford Accident & Indemnity (After Remand), 444 Mich 638, 644; 513 NW2d 799 (1994). Moreover, in doing so we must read each statutory provision in the context of the entire statute, so as to produce a harmonious whole. Macomb Co Prosecutor v Murphy, 464 Mich 149, 159; 627 NW2d 247 (2001).
+Plaintiff relies heavily on language from the statute indicating that a wrongful death action “shall be brought by, and in the name of, the personal representative” of the decedent’s estate. MCL 600.2922(2). This language has never been construed in any precedent considering the question or facts at issue here. Further, we find totally inapposite the few cases that the litigants claim are analogous or otherwise helpful.
+Instead, we find some guidance in the statutory scheme into which this language fits:
+(1) Whenever the death of a person or injuries resulting in death shall be caused by wrongful act, neglect, or fault of another, and the act, neglect, or fault is such as would, if death had not ensued, have entitled the party injured to maintain an action and recover damages, the person who or the corporation that would have been liable, if death had not ensued, shall be liable to an action for damages, notwithstanding the death of the person injured, and although the death was caused under circumstances that constitute a felony.
+(2) Every action under this section shall be brought by, and in the name of, the personal representative of the estate of the deceased person. Within 30 days after the commencement of an action, the personal representative shall serve a copy of the complaint and notice as prescribed in subsection (4) upon the person or persons who may be entitled to damages under subsection (3) in the manner and method provided in the rules applicable to probate court proceedings.
+(3) Subject to sections 2802 to 2805 of the estates and protected individuals code, 1998 PA 386, MCL 700.2802 to 700.2805, the person or persons who may be entitled to damages under this section shall be limited to any of the following who suffer damages and survive the deceased:
+(a) The deceased’s spouse, children, descendants, parents, grandparents, brothers and sisters, and, if none of these persons survive the deceased, then those persons to whom the estate of the deceased would pass under the laws of intestate succession determined as of the date of death of the deceased.
+(b) The children of the deceased’s spouse.
+(c) Those persons who are devisees under the will of the deceased, except those whose relationship with the decedent violated Michigan law, including beneficiaries of a trust under the will, those persons who are designated in the will as persons who may be entitled to damages under this section, and the beneficiaries of a living trust of the deceased if there is a devise to that trust in the will of the deceased. [MCL 600.2922.]
+Under these provisions, a person or corporation who would otherwise be liable for a death remains so even though the “party injured” is no longer able to “maintain an action,” being deceased. MCL 600.2922(1). That person or corporation is liable to the heirs of the decedent’s estate who suffer damages as a result of the death. MCL 600.2922(3). However, subsection 2922(3) does not authorize those heirs to themselves bring an action. Instead, subsection 2922(2) states that the action “shall be brought by, and in the name of, the personal representative of the estate . . . .”
+Viewed in this context, the subsection 2922(2) language appellant relies on is best understood as merely establishing the process by which liability for damages, preserved notwithstanding the death that gives rise to the operation of the statute, must be pursued. The estate, not the heirs, may bring an action and, as with other matters involving the estate, the duly appointed personal representative acts for, or represents, the estate. See, e.g., MCL 700.3703(1) (a personal representative is a fiduciary who must act to advance the best interests of the estate). It is in that sense that the estate’s action is “brought by, and in the name of,” the personal representative. That the estate’s cause of action is “brought by, and in the name of,” the personal representative does not mean, however, that the cause of action transfers over to, or becomes the right of, the personal representative.
+We note that this analysis comports with MCR 2.201. Although actions must generally be “prosecuted in the name of the real party in interest,” MCR 2.201(B), a “personal representative ... may sue in his or her own name without joining the party for whose benefit the action is brought,” MCR 2.201(B)(1). These provisions more clearly state what the statute contemplates, albeit less clearly, that a personal representative is a separate entity from the estate served and that the estate, not the personal representative, remains “the real party in interest... for whose benefit the action is brought.” MCR 2.201(B), MCR 2.201(B)(1).
+And this presents the fatal flaw in appellant’s argument. That argument is premised on his constitutional right as a nonlawyer to represent himself “in his own proper person .. . .” Const 1963, art 1, § 13. We acknowledge that right. However, under the statute as we analyze it, appellant is not the true plaintiff here; the estate is. Appellant is not, in other words, representing himself in this litigation. Instead, he is representing a client, the estate. Thus, he is engaged in the unauthorized practice of law. MCL 600.916. The trial court did not err in so concluding.
+We affirm.
