@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "67767"
+decided: "1984-07-24"
+citations: ["137 Mich. App. 684"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Wahls, P.J., and R. M. Maher and C. W. Simon, Jr., JJ."]
+parties: ["LAWRENCE v STA-RITE REINFORCING, INC"]
+source_url: "https://static.case.law/mich-app/137/cases/0684-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2241061
+cites_cases: ["125 Mich App 245", "135 Mich App 758", "227 NW2d 543", "248 NW2d 576", "275 NW2d 243", "279 NW2d 322", "335 NW2d 671", "356 NW2d 258", "393 Mich 689", "400 Mich 808", "405 Mich 458", "49 ALR3d 128", "71 Mich App 439", "89 Mich App 38"]
+---
+
+# Lawrence v. Sta-Rite Reinforcing, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal from a jury verdict of no cause of action in a negligence action heard in the Wayne County Circuit Court. We are asked to decide whether the trial court committed reversible error by giving the jury the following instruction:
+’’[The Court]: Now, in deciding whether you should believe a witness, you may consider the fact that at some earlier time he said or did something that does not agree with what he — he testified to here on an important point.
+"What he said or did — yes, what he said earlier may be considered only in deciding whether you should believe him, and may not be considered as proof of the facts in his earlier statement; unless he testified that his earlier statement was true, in which event it may be considered as proof of the facts in the statement.
+"Let me distinguish this for you between — between such statements of witnesses who are only witnesses and witnesses who are parties.
+"In deciding whether you should believe a party who has testified, you may consider that at some earlier time he said or did something that does not agree with what he testified to here on an important point.
+"Because he is a party, what he said or did earlier may be considered not only in deciding whether you should believe him, but also may be considered as evidence of the facts in the case.”
+The instructions above were taken from the Standard Jury Instructions, SJI 5.01 and 5.02. The plaintiffs objected at trial to the instruction on impeachment of a party and argue on appeal that the instruction was improper because neither party requested it and was prejudicial because plaintiff Robert E. Lawrence was the only party witness to testify and was not impeached.
+The record establishes that on August 31, 1976, plaintiff Robert E. Lawrence was injured when unsecured steel bars and cables, used by defendant to reinforce concrete, allegedly caused him to fall off a retaining wall. Plaintiff landed on concrete approximately seven feet below. He incurred an injury to the left leg that required surgery. Within a few months, plaintiff injured his hip, pelvis and wrist in a fall which he attributed to the instability of his left leg.
+The record further reveals that at trial, Mr. Lawrence was the only party witness to testify. His testimony was not impeached. At the close of the proofs, the parties discussed their proposed jury instructions. Plaintiffs requested, inter alia, the Standard Jury Instruction on impeachment of a witness, SJI 5.01. Defendant did not request any instruction concerning impeachment of a witness or party. After instructing the jury, the trial judge told counsel for both parties why he gave the instruction on impeachment of a party witness:
+''[The Court]: Okay, let me first of all explain for the record why I included 5.02, which is the impeachment of a party by prior inconsistent statements or conduct.
+"Giving 5.01, as I was bound to do, because there was something on the record — in the record about possible— that is the way I think of it, 'possible’ impeachment of a witness who was not a party but a witness, gives the jury a formula or a standard by which to — they are to evaluate possible impeachment of a witness.
+"But, in order to get a full understanding of that, I think it is appropriate in given circumstances to distinguish for them that section from the way the same principle applies to a witness’s testimony who is a party. And you will recall that I said, 'Let me distinguish this for you * * I did not indicate that — that there was any such impeachment.
+"Moreover, in looking at the Note on Use, I think it is clearly contemplated that in appropriate cases these instructions should be given together. And I’m sorry if I appear to go contrary to what was previously indicated, but I think in the context of these instructions and in the context of this case, it was entirely appropriate to give 5.02, as well as 5.01.”
+Plaintiffs asked for a curative instruction. The trial court did not reinstruct the jury. After the jury returned a verdict, plaintiffs moved for a new trial. The motion was denied.
+The court rules require that pertinent portions of the Standard Jury Instructions must be "given in each civil case in which jury instructions are given if (a) they are applicable and (b) they accurately state the applicable law”. GCR 1963, 516.6(2). When a party alleges error in the giving of a Standard Jury Instruction the nature of the error determines the standard of review on appeal. Where there is a deviation from or omission of an applicable and accurate SJI "prejudicial error will be presumed; provided that the erroneously omitted SJI was properly requested at trial; and, provided that in those cases where error is charged as a result of a deviation from a SJI, said deviation was brought to the attention of the trial court prior to the commencement of jury deliberations”. Javis v Ypsilanti School Dist, 393 Mich 689, 702-703; 227 NW2d 543 (1975). Where an alleged instructional error "concerns an instruction in the SJI which is either inapplicable or inaccurate or both, the general requirements of subrule 516.2 govern”. Scalabrino v Grand Trunk W R Co, 135 Mich App 758, 764; 356 NW2d 258 (1984). The latter standard governs the present case. On review, the jury instruction must be read as a whole. Groth v DeGrandchamp, 71 Mich App 439; 248 NW2d 576 (1976), lv den 400 Mich 808 (1977). This Court will not find reversible error unless "an unlawful, erroneous, contradictory or conflicting instruction is given to a jury on an issue material to the case”. Scalabrino, supra, p 766. See also Getman v Mathews, 125 Mich App 245, 247-248; 335 NW2d 671 (1983).
+In the present case, we cannot affirm the conduct of the trial court. The instruction was inapplicable and the rationale given therefor unsatisfactory. The instruction suggested to the jury that the plaintiffs had at some earlier time made contradictory statements. The credibility of the plaintiffs was, therefore, called into question, not by testimony or argument of counsel, but by the admonition of the court. We need not decide whether the jury considered the instruction to find the error reversible. Berlin v Snyder, 89 Mich App 38, 49; 279 NW2d 322 (1979). Moreover, applicability is the sole standard for determining whether to give a requested instruction. Socha v Passino, 405 Mich 458, 467; 275 NW2d 243 (1979). It is neither necessary nor appropriate to take a pedagogical approach to the giving of instructions. The instruction in this case was straightforward and did not require elucidation, particularly with the hazards attendant in so doing. Indeed, the current SJI is so tailored that "it is enough to tell jurors what they should do”. 2 Honigman & Hawkins, Michigan Court Rules Annotated (2d ed), 1984 Supp, p 213.
+Reversed and remanded._
+GCR 1963, 516.2 provides:
+"Objections. No party may assign as error the giving or the failure to give an instruction unless he objects thereto before the jury retires to consider the verdict, stating specifically the matter to which he objects and the grounds of his objection. Opportunity shall be given to make the objection out of the hearing of the jury.”
