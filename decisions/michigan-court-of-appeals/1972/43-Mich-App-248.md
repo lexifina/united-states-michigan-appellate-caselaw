@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 8055; 10488-10501"
+decided: "1972-10-24"
+citations: ["43 Mich. App. 248"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, P. J., and T. M. Burns and Danhof, JJ.", "All concurred."]
+parties: ["FORD MOTOR COMPANY v CITY OF DETROIT THE BUDD COMPANY v CITY OF DETROIT"]
+source_url: "https://static.case.law/mich-app/43/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2114832
+cites_cases: ["11 ALR2d 946", "336 Mich 519"]
+---
+
+# Ford Motor Co. v. City of Detroit
+
+## Majority (Danhof, J.)
+
+Danhof, J.
+These consolidated cases present a question regarding the method of computing the value of inventory on tax day, i.e., December 31, MCLA 211.2; MSA 7.2. The problem arises when a taxpayer wishes to claim an exemption for inventory stored in a public warehouse designated as in transit in interstate commerce, and at the same time averages inventory over a 12-month period rather than using the tax-day valuation. The statute governing averaging inventory is MCLA 211.13; MSA 7.13, which provides in part:
+"Inventories of goods, wares, materials, merchandise and supplies such as are commonly used in trade or commerce or manufacture shall, upon the filing by the owner thereof of a sworn statement with the assessing officer showing the total of such inventories for each of the preceding 12 months ending December 31, be assessed on the basis of the average monthly inventory for such 12-month period.”
+The statute governing the exemption for goods in a warehouse is MCLA 211.9; MSA 7.9, which provides in part:
+"All products, materials and/or goods processed or otherwise and in whatever form but expressly excepting alcoholic beverages, located in a public warehouse, dock or port facility on December 31 of each year, if such products, materials and/or goods have been designated as in transit to destinations out of state pursuant to the published tariffs of any railroad or common carrier by the filing of the freight bill covering such products, materials and/or goods with the agency designated by such tariffs, so as to entitle the shipper to transportation rate privileges: Provided, That to obtain exemption the owner shall be required to file a sworn statement with, and in the form required by the assessing officer, of the tax district in which the warehouse, dock or port facility is located, at a time between the tax day, December 31, and before closing of the assessment rolls by the assessing officer, describing the products, materials and/or goods and reporting their cost and value as of December 31 of each year: Provided, That the status of persons, and products, materials and/or goods for which exemption is requested shall be determined as of December 31, which shall be the tax day. The assessment on the basis of average monthly inventory shall not apply in valuing products, materials and/or goods for which exemption is requested: ” (Emphasis added.)
+When the assessment is made on the basis of the average monthly inventory the figures for each month are added together and then divided by 12. The defendants’ original contention was that the value of the exemption must be subtracted from the inventory before it is divided by 12. The plaintiffs contended that it must be subtracted after the division. In his brief Amicus Curiae, which was requested by this Court, the Attorney General has argued that the Legislature intended the statutes to be mutually exclusive, and, therefore, a taxpayer may either (1) accept the valuation of his inventory on tax day and claim the warehouse exemption where applicable, or (2) average his inventory, but he may not combine inventory averaging with the warehouse exemption. The defendants and plaintiff The Budd Company have now adopted the Attorney General’s argument and only Ford Motor Company continues to dispute the question.
+We are also persuaded by the Attorney General’s argument and we hold that the provisions for averaging and the warehouse exemption are incompatible. The Legislature has not provided a specific method for computing the valuation when both statutes are applied, and the reason for this is that the Legislature intended that the taxpayer have the option of proceeding under either statute but not under both. Neither of the methods of computation suggested by the parties gives full effect to both statutes. We read the statutory language of the provision forbidding the use of the assessment on the basis of average monthly inventory in the valuation of goods stored in a public warehouse as a further legislative recognition of the incompatibility of the statutes. Since neither of the trial courts resolved this question correctly both judgments must be reversed and the parties given the option of proceeding under either statute. The remaining issues involve only the Ford Motor Company’s appeal.
+The statute, MCLA 211.9; MSA 7.9, provides for the recapture and taxation of exempted inventory in the following words:
+"[G]oods not shipped to a point or points outside the state of Michigan shall be assessed upon the next succeeding assessment roll, or on any subsequent assessment roll by the assessing officer and taxed at the same rate of taxation as other taxable properties for the year or years for which such property was exempted.”
+The defendants contend that if goods are exempted from the tax because they are in a public warehouse awaiting shipment out of state, they must be recaptured at the end of the year if they have not been shipped. We do not agree. The statute clearly contemplates recapture in a subsequent year.
+The defendants contend that the trial court erred in awarding interest. This contention lacks merit. See Ready-Power Co v Dearborn, 336 Mich 519 (1953).
+The plaintiff Ford Motor Company has filed a cross appeal contending that the trial court erred in holding that exemption for special tools, MCLA 211.9b; MSA 7.9(2), did not apply to the year 1965. The statute provides in part:
+"Every city or villáge assessor or township supervisor who assessed special tools as defined in this section and spread taxes against them on the 1964 tax roll of his unit shall certify, not later than January 20, 1965, the valuation of said property subject to the approval of the state tax commission. The auditor general shall draw his warrant upon the state treasurer on July 1, 1966 in the amount of 100%, on July 1, 1967 in the amount of 75%, on July 1, 1968 in the amount of 50%, on July 1, 1969 in the amount of 25% of the taxes so certified. The auditor general shall immediately forward the warrant to the treasurer of the city, village or township on whose behalf the certificate was filed. The treasurer receiving the warrant shall disburse its proportionate share to each local unit for which taxes were spread on the 1964 tax roll. ” (Emphasis added.)
+The fact that reimbursement was to be based on the 1964 tax roll, together with the fact that the effective date of the act was January 1, 1965, lead us to the conclusion that the exemption was in effect in 1965. Therefore, this portion of the judgment must be reversed.
+Reversed and remanded for further proceedings not inconsistent with this opinion.
+All concurred.
+Neither the State of Michigan nor the State Tax Commission is a party to this action.
