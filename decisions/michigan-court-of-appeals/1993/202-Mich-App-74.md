@@ -1,0 +1,49 @@
+---
+court: "Michigan Court of Appeals"
+docket: "135168"
+decided: "1993-09-21"
+citations: ["202 Mich. App. 74"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Weaver, P.J., and McDonald and Neff, JJ."]
+parties: ["ATTORNEY GENERAL v CONSUMERS POWER COMPANY (ON REHEARING)"]
+source_url: "https://static.case.law/mich-app/202/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4370506
+cites_cases: ["127 Mich App 777", "135 Mich App 571", "271 US App DC 95", "324 NW2d 9", "339 NW2d 545", "355 NW2d 282", "382 F2d 666", "396 US 803", "414 Mich 160", "485 US 495", "496 US 72", "657 F Supp 989", "850 F2d 788", "862 F2d 580"]
+---
+
+# Attorney General v. Consumers Power Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In 1969, the Federal Power Commission, now Federal Energy Regulatory Commission (ferc), granted defendants a license to construct and operate a hydroelectric plant on the shore of Lake Michigan, pursuant to the Federal Power Act (fpa), 16 USC 791a, et seq. On July 1, 1970, the State of Michigan executed a fifty year lease with defendants for ninety-eight acres of Lake Michigan bottom lands to accommodate construction of the plant. The hydroelectric plant commenced operation in 1973. On the basis of defendants’ own studies, the federal courts have recognized that a "substantial number” of fish are killed and discharged into Lake Michigan as a result of the plant’s operation. (See footnote 1.)
+On September 3, 1986, plaintiff commenced the instant suit. Plaintiff alleged that defendants had violated the terms of the federal license and the lease with the State of Michigan. Plaintiff further alleged that defendants had unlawfully destroyed fish resources of the State of Michigan and had maintained a public nuisance by discharging fish parts into Lake Michigan. Plaintiff sought compensation for the fish destroyed by the plant. Plaintiff also sought to have the lease declared void for defendants’ alleged violations of law. In an order entered on November 8, 1990, the court granted defendants’ motion for summary disposition pursuant to MCR 2.116(C)(8), finding that plaintiff’s claims were preempted by the fpa. Plaintiff now appeals as of right. We affirm in part, reverse in part, and remand for further proceedings. We do not retain jurisdiction.
+i
+The first issue is whether plaintiffs state-law claims for damages were preempted by the fpa.
+We initially note that plaintiff properly pleaded a cause of action for negligent destruction of state property or for conversion. See Attorney General v Hermes, 127 Mich App 777; 339 NW2d 545 (1983). Because the fish resources destroyed by the plant are held in trust by the state for the people, the state is empowered to bring a civil action to protect those resources. Id.
+State law may be preempted by federal law in three ways: (1) Congress may expressly do so through statutory language; (2) the state law may regulate conduct in a field that Congress intended for the federal government to exclusively occupy; or (3) the state law may conflict with federal law. English v General Electric Co, 496 US 72, 78-79; 110 S Ct 2270; 110 L Ed 2d 65 (1990). The presumption is that powers historically belonging to the states are not preempted by federal legislation unless that is the clear and manifest purpose of Congress. Puerto Rico Dep’t of Consumer Affairs v Isla Petroleum Corp, 485 US 495; 108 S Ct 1350; 99 L Ed 2d 582 (1988).
+The trial court found plaintiffs damage claim for destruction of fish resources was preempted because it was not the type of action that § 27 of the fpa, 16 USC 821, preserved from preemption. That section reads as follows:
+Nothing contained in this chapter shall be construed as affecting or intending to affect or in any way to interfere with the laws of the respective States relating to the control, appropriation, use, or distribution of water used in irrigation or for municipal or other uses, or any vested right acquired therein.
+However, § 10 of the fpa, 16 USC 803(c), preserves the right to bring an action for damages, reading in pertinent part:
+Each licensee hereunder shall be liable for all damages occasioned to the property of others by the construction, maintenance, or operation of the project works or of the works appurtenant or accessory thereto, constructed under the license, and in no event shall the United States be liable therefor.
+Thus, the question is whether § 821 limits the actions that can be brought under § 803(c). We find that it does not.
+In South Carolina Public Service Authority v Federal Energy Regulatory Comm, 271 US App DC 95; 850 F2d 788 (1988), the court held that Congress did not grant the ferc the authority to encroach upon state tort law, and held that the liability of the commission’s licensees for damages caused by their projects is a matter left by Congress to state law. In Public Utility Dist No 1 of Pend Oreille Co v Seattle, 382 F2d 666 (CA 9, 1967), cert den 396 US 803 (1969), the court noted that "it is § 10(c) [16 USC 803(c)] of the Act which requires compensation for the taking of state-created property rights, and § 27 [16 USC 821] serves simply to bring water rights clearly within the scope of § 10(c) [16 USC 801(c)].” Seattle, supra at 670, n 6.
+We conclude that § 10 of the fpa expressly allows an owner of property damaged by a federal licensee to recover for all damages incurred, including those expressly saved by § 27, subject to the limitations of state tort laws.
+Accordingly, we hold that plaintiffs state-law claim against defendants for negligent destruction or conversion of the fish destroyed by the Ludington hydroelectric plant has not been preempted by the fpa.
+ii
+The second issue raised by plaintiff is whether the claims under the lease between the state and Consumers Power have been preempted by the FPA.
+Before the plant was constructed, the parties entered into a lease whereby defendants had the exclusive use of the Lake Michigan bottom lands for the construction and operation of the plant. Plaintiff alleged in counts n and m of the complaint that defendants had breached certain covenants contained in the lease, and plaintiff asked that the lease be declared void.
+The parties have not presented any part of the fpa that expressly prohibits a lessor from bringing a declaratory action with regard to its lease with a federal licensee. Nor have we found any authority for the proposition that Congress intended the fpa to exclusively occupy the field regarding a licensee’s contractual relationships. Accordingly, plaintiffs claims are preempted only if the law of Michigan regarding leases conflicts with the fpa. English v General Electric Co, 496 US 72; 110 S Ct 2270; 110 L Ed 2d 65 (1990).
+If a state court were to find that defendants had breached the lease terms and declared the lease void, the state, as lessor, could either allow the plant to operate under a month-to-month tenancy or bring summary proceedings to evict defendants under MCL 600.5701 et seq.; MSA 27A.5701 et seq.
+A state law conflicts with federal law when it "stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.” English, supra at 79.
+Plaintiff has conceded that the fpa prevents him from enjoining defendants’ operation of the plant. Evicting defendants while the defendants have a valid license from the Federal Power Commission to operate the plant would accomplish the same purpose. We conclude the declaratory relief requested by the plaintiff, that the lease be declared void, would conflict with the fpa. Thus, the court did not err in granting defendants’ summary disposition with regard to plaintiff’s lease claims. We are not holding that no action under the lease can be brought in state court, only that the plaintiff cannot bring an action asking that the lease be declared void.
+hi
+Finally, plaintiff argues that the trial court erred in finding that his claims for damages would be limited to those damages incurred no more than three years before the institution of this action. Plaintiff argues defendants should be es-topped from asserting the statute of limitations.
+Defendants raised the three-year statute of limitations, MCL 600.5805(8); MSA 27A.5805(8), to plaintiff’s claim for damages (see issue i). Plaintiff countered by claiming that defendants were es-topped from raising the statute of limitations because they made representations to plaintiff that they would correct the fish-kill problem and would compensate the state for its losses.
+There is no question that a defendant may, by its conduct, be estopped from asserting a statute of limitations as a defense. Lothian v Detroit, 414 Mich 160; 324 NW2d 9 (1982). However, as the court found, there was nothing to show that defendants had either concealed the cause of action, misrepresented the length of the statute of limitations, or induced the plaintiff into not bringing the action at an earlier time. Robinson v Associated Truck Lines, Inc, 135 Mich App 571; 355 NW2d 282 (1984). A review of the record convinces us that there was insufficient evidence to support plaintiffs claim of estoppel. The court did not err in granting summary disposition on this ground.
+Affirmed in part, reversed in part, and remanded.
+For a detailed explanation of the plant and its operation see Nat’l Wildlife Federation v Consumers Power Co, 862 F2d 580 (CA 6, 1988), and Nat’l Wildlife Federation v Consumers Power Co, 657 F Supp 989 (WD Mich, 1987).
+We note that we see no such impediment to allowing plaintiffs to obtain a prospective declaration voiding the lease upon (1) the expiration of the current license, (2) the revocation or annulment of the current license, or (3) the abandonment of the project by Consumers, whichever of the three occurs first.
