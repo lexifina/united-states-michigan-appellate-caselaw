@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "163568"
+decided: "1995-03-07"
+citations: ["209 Mich. App. 297"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Michael J. Kelly, P.J., and McDonald and Griffin, JJ."]
+parties: ["PASCOE v SOVA"]
+source_url: "https://static.case.law/mich-app/209/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1876821
+cites_cases: ["113 Mich App 423", "114 ALR 279", "138 Mich App 196", "138 Mich App 200", "317 NW2d 870", "350 Mich 511", "350 Mich 523", "360 NW2d 175", "87 NW2d 192"]
+---
+
+# Pascoe v. Sova
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant Michael Sova appeals as of right an order of the circuit court denying his motion to set aside a default judgment for plaintiffs under MCR 2.612(C)(1)(f). We reverse.
+The default judgment was entered after defendant failed to present any evidence at trial to rebut testimony by plaintiffs that defendant had violated a restrictive covenant on his property. At the beginning of trial, defendant’s attorney, Stephen Morgan, asked to withdraw as counsel because he had not talked with defendants in the last three years. Morgan also stated that he had sent defendant notice of the trial date but had received no response. The circuit court granted the motion, noting defendant’s lack of cooperation with Morgan’s attempt to prepare for trial. The court then allowed the trial to proceed in the absence of defendant and defense counsel. A default judgment for plaintiffs was subsequently entered. Defendant promptly filed a motion for relief from the default judgment under MCR 2.612(C)(1) (f), which the circuit court denied.
+Defendant argues that the circuit court erred in granting defense counsel’s oral motion to withdraw and subsequently entering a default judgment for plaintiffs. In support of his position, defendant relies on Bye v Ferguson, 138 Mich App 196; 360 NW2d 175 (1984). Although plaintiffs have not filed a brief on appeal, they argued below that the proper course of action was a malpractice suit or grievance procedure against Morgan.
+While we agree with the general proposition invoked by plaintiffs, see White v Sadler, 350 Mich 511, 525; 87 NW2d 192 (1957) (holding that a lawyer’s negligence is attributable to the client and does not normally constitute grounds for setting aside a default judgment); American Way Service Corp v Comm’r of Ins, 113 Mich App 423, 435; 317 NW2d 870 (1982), this case involves special circumstances specifically addressed by this Court in Bye, supra, which plaintiffs have failed to distinguish. In Bye, the defendant’s attorney requested to withdraw because the defendant had failed to pay his legal bills. 138 Mich App 200. The attorney noted that he had notified the defendant of the trial and had unsuccessfully attempted to communicate with the defendant several times before trial. Id. at 199-200. On the evening before the trial, a business associate of the defendant notified counsel that the defendant would not be able to attend the trial. Id. at 200. The trial court permitted the attorney to withdraw, attributing the attorney’s problems entirely to the neglect of the defendant. Id. at 201. The court then allowed the plaintiff to present his proofs. Judgment was subsequently entered against the defendant. This Court reversed, stating at 206-207:
+Regardless of whether [the attorney’s] withdrawal was justified, e.g., for nonpayment of legal fees, his client was entitled to notice of that withdrawal. . . . [T]he fact that [the defendant] had notice of the trial does not deny the fact that he had no notice of [the attorney’s] withdrawal. Even if [the defendant’s] absence made it difficult for [the attorney] to defend the case, the Disciplinary Rules do not permit withdrawal without notice.[]
+There is no requirement that a defendant in a civil case appear at trial. The fact that [the defendant] chose not to appear, thereby risking a judgment, does not change the attorney-client relationship. The Michigan Constitution allows the party to proceed through his attorney.[]
+Similarly, in White, supra, the Supreme Court recognized a distinction between negligent legal representation and abandonment of representation altogether. 350 Mich 523. Specifically, the Court quoted the following excerpt from 114 ALR 279, 280.
+"An attorney’s negligence or mistake is distinguishable, as regards the right to reopen a default judgment, from his abandonment of the case, which may be in effect a fraud on his client. So that from the mere fact that the attorney’s negligence may be imputable to his client and prevent . the latter from relying on that ground for vacating or opening a default judgment, it does not necessarily follow that the same rule will apply in the event of the attorney’s abandonment of the case.” [350 Mich 523.]
+Here, while the parties seem to dispute whether defendant had actual notice of the trial date, it is apparently undisputed that defendant did not receive notice of Morgan’s intention to withdraw. This is the key factor in Bye and, by analogy, in this case. Despite defendant’s apparent lack of interest in participating in his own defense, he was entitled to assume that he would be represented at trial. The case authority cited by plaintiffs and the circuit court, e.g., White, supra, is inapposite because Morgan’s action here constituted complete abandonment of representation. In addition, once the circuit court approved Morgan’s request to withdraw, Morgan’s failure to notify defendant of his withdrawal was no longer a point of contention strictly between Morgan and defendant. Rather, the circuit court effectively gave its approval and allowed the trial to proceed in the absence of defense counsel. In doing so, the court abused its discretion. Under these circumstances, the subsequent default judgment for plaintiffs was unwarranted. Defendant’s motion to set aside the default judgment was improperly denied under MCR 2.612(C)(1)(f).
+Moreover, we cannot deem defense counsel’s withdrawal harmless. In a prior order denying plaintiffs’ motion for summary disposition, the court noted that plaintiffs may have lacked equitable grounds for specific enforcement of the restrictive covenant because some of them may have breached the terms of the covenant themselves. Had such information been elicited by defense counsel at trial, or had defense counsel presented some other defense, no default would have been entered and a fact issue would have been presented.
+Reversed.
+Throughout this opinion, "defendant” will be used to refer to defendant-appellant Michael Sova.
+The Bye Court was referring to DR 2-110(A)(2). The substance of that disciplinary rule, including the notice provision, has been incorporated into MRPC 1.16(d).
+The Bye Court was referring to Const 1963, art 1, § 13.
+Plaintiffs failed to dispute defendant’s alleged lack of notice below and, by not filing a brief with this Court, on appeal. Under these circumstances, there is no reason to consider defendant’s alternative request for an evidentiary hearing regarding his motion to set aside the default judgment. Defendant filed a motion for such a hearing below, which the circuit court denied.
+The Bye Court reviewed the defendant’s motion to set aside the default judgment under GCR 1963, 528.3. The substance of that court rule is virtually the same as MCR 2.612(C).
