@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "43798"
 decided: "1980-10-08"
-citations: ["100 Mich. App. 617", "113 Mich. App. 642"]
+citations: ["100 Mich. App. 617"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["BARKAU v RUGGIRELLO"]
 source_url: "https://static.case.law/mich-app/100/cases/0617-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2196399
-cites_cases: ["100 Mich App 617", "117 NW2d 181", "145 Mich 574", "178 NW2d 536", "221 NW2d 569", "228 NW2d 843", "23 Mich App 279", "232 NW2d 278", "271 NW2d 284", "278 NW2d 653", "282 NW2d 273", "286 NW 612", "289 Mich 272", "300 NW2d 342", "344 Mich 693", "348 Mich 680", "367 Mich 689", "392 Mich 511", "59 Mich App 88", "61 Mich App 6", "75 NW2d 25", "83 NW2d 587", "85 Mich App 482", "88 Mich App 519", "90 Mich App 179"]
+cites_cases: ["117 NW2d 181", "145 Mich 574", "228 NW2d 843", "232 NW2d 278", "271 NW2d 284", "278 NW2d 653", "282 NW2d 273", "286 NW 612", "289 Mich 272", "348 Mich 680", "367 Mich 689", "59 Mich App 88", "61 Mich App 6", "83 NW2d 587", "85 Mich App 482", "88 Mich App 519", "90 Mich App 179"]
 ---
 
 # Barkau v. Ruggirello
