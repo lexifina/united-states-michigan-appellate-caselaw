@@ -1,0 +1,50 @@
+---
+court: "Michigan Court of Appeals"
+docket: "6146"
+decided: "1970-12-30"
+citations: ["29 Mich. App. 301"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P. J., and Levin and Borradaile, JJ."]
+parties: ["PEOPLE v. GRAY"]
+source_url: "https://static.case.law/mich-app/29/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2066254
+cites_cases: ["12 Mich App 186"]
+---
+
+# People v. Gray
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The defendant, Carl Randall Gray, was originally charged with rape. He offered a plea of guilty to an added count of assault with intent to commit rape. His plea was accepted and on February 26, 1968, he was sentenced to serve a term of three to ten years.
+Two months later, through a newly retained lawyer, he filed a motion for a new trial which was treated as a motion to withdraw his guilty plea. The motion alleges that defendant’s trial lawyer promised that if he pled guilty he would be placed on probation.
+On August 2, 1968, a testimonial hearing was held. At the judge’s request the trial lawyer attended the hearing and took the stand. He testified that on the day the original charge was scheduled to be tried he negotiated the charge reduction with the prosecutor after first obtaining the defendant’s approval. He said that he told the defendant he thought there was a chance he would receive probation since he had no previous record, and that he hoped for probation, but that he did not promise probation.
+The defendant then took the stand and testified that his former lawyer told him that if he was convicted of rape he could be sentenced to life in prison, but that if he pled guilty to the reduced charge of assault with intent to commit rape he would be placed on probation.
+After oral argument in our Court we entered an order remanding this case to the trial court for the making of a more complete record and of additional findings of fact on that record.
+At the hearing on remand on August 31, 1970, the defendant’s parents testified and his trial attorney again testified. The defendant’s father testified that the trial lawyer promised that if the defendant pled guilty “he would get parole”. His mother said that the lawyer had told her that her son would “get probation and possibly a fine”.
+The attorney testified that, “I told him, naturally, as I had done to dozens and dozens of clients, that I couldn’t guarantee anything, that it was up to the court; but I did tell him I hoped to have probation. I felt that his not having any previous record would go toward that end. I told him that I thought there was a reasonable chance for probation.”
+At the conclusion of the hearing the judge found that the lawyer had not promised probation. He declared that in his opinion the claim of a promise of probation was an afterthought both by the defendant and his parents. He said he had no basis for changing his previous ruling denying the motion to withdraw the defendant’s guilty plea.
+We have carefully reviewed the transcript and, having due regard, as the court rule provides, “to the special opportunity of the trial court to judge the credibility of those witnesses who appear before it” (GCR 1963, 517.1), we conclude that the judge’s finding that the defendant’s trial lawyer did not promise him probation is not clearly erroneous.
+Affirmed.
+MCLA § 750.520 (Stat Ann 1954 Rev § 28.788).
+MCLA § 750.85 (Stat Ann 1962 Rev § 28.280).
+
+## Concurrence (Levin, J.)
+
+Levin, J.
+{concurring). Now, again, as in People v. Byrd (1968), 12 Mich App 186, a defendant claims that his trial lawyer promised him that if he pled guilty he would be placed on probation. The attorney responds that he only predicted that the defendant might be placed on probation and that he was almost as disappointed as the defendant when the judge did not sentence as expected.
+The attorney in the Byrd case was an experienced practitioner in the recorder’s court of the city of Detroit, where Byrd was convicted; the sentencing practices of the sentencing judge might have been known to him. The lawyer who represented the defendant in this case has his offices in Washtenaw County; Carl Randall Gray was convicted and sentenced in the Wayne circuit court. What did Gray’s lawyer know about the sentencing practices of the sentencing judge? On what did he base his prediction or hope that Gray would be placed on probation?
+It seems to me that once a lawyer concedes that he has made some representation, whatever the form of words used, regarding probation or the length of sentence, the burden should not be upon his client but upon the lawyer to convince the court that the lawyer told his client everything that should have been said in order to make wholly true what was said. The lawyer should be required by the court to disclose the basis of his prediction so that its bona fides can be thoroughly scrutinized.
+I concur because I cannot properly dissent; I have no basis for concluding that higher authority would require the kind of inquiry which I think appropriate.
+In People v. Byrd, supra, p 229, I suggested that in claims of this kind the test should not be whether the defendant establishes the truth of his claim by a preponderance of the evidence but whether the judge entertains a reasonable doubt that the plea was encouraged by a false promise of lieniency in sentencing; I observed that under existing precedent the judge must decide whether to believe the convicted criminal or a member of the profession, but that under a reasonable doubt standard he would not be put to that choice and could, if in doubt, give the defendant the benefit of the doubt. But that standard has not been adopted; present law places upon the defendant the burden of preponderating, of proving that the lawyer made a false promise. Indeed, there is even doubt whether a false promise by a defendant’s lawyer, in contradistinction to a false promise by a prosecutor, warrants setting aside a guilty plea.
+In countless cases we have noticed that the accused person was represented by a lawyer when he píed guilty in expressing our satisfaction that his plea was properly taken. This reliance upon the lawyer as an assurance that an accused person’s rights were protected requires, as a corollary, that the proof burden imposed on a guilty pleading defendant who claims his lawyer misled him not be insurmountable; the standard should be reflective of the reliance placed on the relationship and of its intimacy and confidentiality.
+Some such claims might be avoided if, in cases like this one, where it is apparent that the defendant might have been influenced to plead guilty because he expected or hoped to be placed on probation, the judge would ask the defendant and his lawyer both whether there has been any discussion whatsoever about the possibility of the defendant being placed on probation, and if the matter was assiduously pursued from there. Far too frequently claims of this kind are made and, while many, perhaps most, are baseless, as long as we permit, indeed encourage by the plea-bargaining process, lawyers to “merely predict” to their clients that they may be placed on probation, we must expect that accused persons facing, as in this case, a possible life sentence, grasping for straws, will not stop to scrutinize with lawyer-like care the words used by a trusted representative and confidant, an officer of the court, and will share their lawyer’s mere “hope” and act on it.
+To the extent we condone by inaction this subtle form of persuasion to plead guilty on less than complete and, therefore, on false information, we cannot avoid a share of the responsibility for what occurs. It may very well be that no direct promise in so many words was made to Carl Randall Gray that he would be placed on probation. But the issue is not whether particular words were used; the true question is, was Gray led to believe that he would be placed pn probation? If there is a reasonable doubt whether his lawyer impressed upon him the belief that he would be placed on probation, then, in my opinion, we should regard that as tantamount to a promise of probation for the purpose of determining whether his guilty plea should be set aside and a trial on the merits ordered.
+The line between a promise and an expression of hope, expectation or a mere prediction, can be most subtle. Few things are certain. Relatively few promises are absolutely unconditional. Yet at various times in our lives we all justifiably rely and act upon assurances which could not technically be called unconditional promises.
+Here the expression was by a seasoned lawyer to his youthful client. In such a case, I would think that a strong disclaimer by the lawyer should be required to avoid misleading the client; not a mere incantation of words: “It is, of course, up to the judge”. The law should require the lawyer to make a clear statement to his client of the basis of the lawyer’s “hope” for probation and of his belief that there is “a reasonable chance for probation”, and a clear statement recognizing the negative as well as the positive factors in the defendant’s background which might, as in this case, lead the judge to conclude that a prison sentence was necessary and unavoidable.
+Coincidentally, both here and in Byrd, the defendant was charged with rape and was allowed to plead guilty to a lesser offense, indecent liberties in Byrd, assault with intent to commit rape in this ease.
+See People v. Byrd (1968), 12 Mich App 186, 226, fn 56, et seq. It is, indeed, remarkable that there should be any doubt that a conviction procured by a misrepresentation made by the defendant’s lawyer may not stand. As appears from the authorities collected in People v. Byrd, civil judgments have been set aside when the judgment debtor’s lawyer has been guilty of neglect or mistake, even though the judgment creditor was blameless; a lesser standard in criminal cases is indefensible.
+Gray was 19 years old at the time.
