@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "97302"
+decided: "1988-08-01"
+citations: ["170 Mich. App. 459"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Kelly, P.J., and Holbrook, Jr., and J. D. Pay ant, JJ."]
+parties: ["CITY OF SAGINAW v CHWALA"]
+source_url: "https://static.case.law/mich-app/170/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2291021
+cites_cases: ["126 Mich App 228", "205 NW2d 167", "227 NW2d 500", "330 NW2d 52", "336 NW2d 899", "363 US 564", "389 Mich 123", "393 Mich 583", "415 Mich 628", "52 ALR Fed 591"]
+---
+
+# City of Saginaw v. Chwala
+
+## Majority (Kelly, P.J.)
+
+Kelly, P.J.
+Defendant appeals as of right from the trial court’s grant of plaintiffs motion for summary disposition in this declaratory judgment action. We reverse and remand.
+Defendant was employed by plaintiff as an equipment serviceman from October, 1973, until March 1, 1982, when defendant was laid off. Defendant was subject to a collective bargaining agreement at the time of his layoff. That agreement provided in part:
+Layoffs and recalls will be based upon seniority within classification within the division, provided the senior employee possesses the present ability to do the work required in the division. An employee in a higher related classification may enter in any lower classification within the division, the duties of which he is capable of performing or he may displace any other junior employee in a classification in the same pay range or any employee in a lower classification on a department-wide basis provided he has the present ability to do the work required, or he may displace any other junior employee in a lateral or lower classification within the bargaining unit provided he has the present ability to do the work.
+Defendant became aware that employees whom he believed had less seniority than he were back to work. Defendant then requested that he be returned to work. However, this request was denied. Defendant then filed a suit in circuit court, alleging violation of the layoff and recall provision of the collective bargaining agreement. The court found no reason to assume jurisdiction over the dispute and ordered the matter set for a Step Two grievance hearing, or alternatively for a hearing at any stage mutually agreeable to the parties. The collective bargaining agreement provided a grievance procedure of four levels or steps. The purpose of the procedure was to provide equitable solutions to the problems of the parties.
+Pursuant to the court order a Step Three (disposition by the City Manager) grievance hearing was conducted on March 12, 1985. On March 18, 1985, a ruling unfavorable to defendant was rendered, the city finding no violation of the recall provision of the collective bargaining agreement.
+Defendant then notified the city that he wás invoking his right to self-representation and demanded that his grievance be submitted to arbitration pursuant to Step Four of the collective bargaining agreement’s grievance procedure. The city then filed this action, contending that no individual had the right to initiate, demand or pursue arbitration under the collective bargaining agreement. The trial court granted summary disposition to the city on this issue.
+On appeal defendant argues that the collective bargaining agreement gives an individual employee the right to compel submission of his grievance to arbitration, independent of his union. On that basis, defendant contends the trial court erred in its determination.
+Section 2.10 of the collective bargaining agreement provides:
+Unit: Defined
+For the purpose of collective bargaining with respect to rates of pay, wages or salary, hours of work, and other terms and conditions of employment, the City recognizes the Union as the exclusive representative and agent for all permanent full time non-clerical, non-technical, non-supervisory, non-professional employees of the following City divisions: Property Management, Cemeteries, Parks, Motor Equipment, Streets, Water and Sewer Maintenance, Environmental Improvement, Wastewater Treatment, Public Housing Commission, and other related job classifications as identified in Appendix A. Nothing herein contained shall abridge the right of the individual employee to process his own grievance in the manner prescribed in subsequent provisions of this Agreement.
+In support of his argument, defendant relies on that part of § 2.10 that states: "Nothing herein contained shall abridge the right of an individual employee to process his own grievance in the manner prescribed in subsequent provisions of this Agreement.”
+The collective bargaining agreement provided a complete grievance procedure. That procedure is a four-step process, Step Four being arbitration. Step One provides that an employee shall orally submit the grievance to the employee’s immediate supervisor. Step Two provides that if the grievance is not resolved at Step One, the employee should submit the grievance in writing to the department head. If there is still no acceptable resolution, Step Three provides that the employee may. submit the grievance to the City Manager or the City Manager’s designated representative. Step Four provides that, if the grievance is still not resolved, the union may submit the grievance for arbitration.
+If a grievance arises under a collective-bargaining agreement, including a dispute concerning its construction, there is a duty to bargain over the grievance. If the agreement provides a method or procedure for addressing a grievance, it must be observed. [Grand Rapids v Grand Rapids Lodge No 97, Fraternal Order of Police, 415 Mich 628, 635; 330 NW2d 52 (1982).]
+Plaintiff contends that pursuant to Step Four, only the union could invoke the right to arbitration. The Supreme Court has held that a union has considerable latitude in determining whether a grievance should be pursued, and that an employee does not have the right to demand that his grievance be pursued to the uppermost level. Lowe v Hotel & Restaurant Employees Union, Local 705, 389 Mich 123, 146-147; 205 NW2d 167 (1973).
+However, this case can be distinguished from Lowe because of the provision in the collective bargaining agreement that defendant relies on, to-wit: "Nothing herein contained shall abridge the right of the individual employee to process his own grievance in the manner prescribed in subsequent provisions.”
+Pursuant to § 15 of the public employment relations act, MCL 423.215; MSA 17.455(15), the parties to a collective bargaining agreement must meet and negotiate in good faith regarding grievance procedures, since these procedures are mandatory subjects of collective bargaining. Grand Rapids, supra at 634. "The statute is, however, neutral regarding the means of resolving a grievance.” Id. While there is no requirement that grievances be resolved by arbitration, the intent of the parties prevails. Id. at 635.
+The Supreme Court, in determining the applicability of arbitration in a collective bargaining agreement, has quoted with favor the following language, taken from United Steel Workers of America v American Mfg Co, 363 US 564; 80 S Ct 1343; 4 L Ed 2d 1403 (1960):
+An order to arbitrate the particular grievance should not be denied unless it may be said with positive assurance that the arbitration clause is not susceptible of an interpretation that covers the asserted dispute. Doubts should be resolved in favor of coverage. [Emphasis in original. Kaleva-Norman-Dickson School Dist v Kaleva-Norman-Dickson Teachers’ Ass’n, 393 Mich 583, 592; 227 NW2d 500 (1975).]
+The contract here provides in § 2.10 that an individual has the right to process his own grievance in the manner prescribed in § 14.00. We believe that because of the failure to address in § 2.10 the limiting and narrowing interpretation urged by the plaintiff, that the employee has the right to process his own grievance but that that right stops short of arbitration, the effect was to allow the individual employee to proceed to arbitration.
+Because we also find that the agreement here is at the very least ambiguous, we resolve this issue in favor of defendant’s right to have his grievance resolved through arbitration.
+Defendant also claimed an alternative theory of recovery based on breach of contract. However, because defendant has not demonstrated that his union breached its duty of fair representation, this claim cannot be maintained. Pearl v Detroit, 126 Mich App 228, 238; 336 NW2d 899 (1983).
+Reversed and remanded.
