@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "80847"
+decided: "1985-10-08"
+citations: ["146 Mich. App. 337"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. E. Holbrook, Jr., P.J., and T. M. Burns and W. Caprathe, JJ."]
+parties: ["PEOPLE v YOUNG"]
+source_url: "https://static.case.law/mich-app/146/cases/0337-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2259716
+cites_cases: ["126 Mich App 374", "126 Mich App 399", "127 Mich App 587", "131 Mich App 429", "14 ALR3d 31", "14 ALR3d 831", "148 NW2d 220", "205 NW2d 461", "26 FRD 409", "275 NW2d 243", "337 NW2d 68", "337 NW2d 79", "339 NW2d 489", "346 NW2d 333", "389 Mich 155", "405 Mich 458", "405 Mich 471", "419 Mich 860", "49 ALR3d 128", "6 Mich App 62"]
+---
+
+# People v. Young
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Following a jury trial, defendant was convicted of armed robbery, MCL 750.529; MSA 28.797, and felony-firearm, MCL 750.227b; MSA 28.424(2). Defendant was sentenced to a term of from 10 to 25 years imprisonment for armed robbery and the mandatory consecutive 2-year term for felony-firearm. Defendant appeals as of right.
+Defendant first argues that the trial court should have supplemented the standard jury instruction, CJI 7:7:01, since it is biased in favor of the prosecution. We feel that CJI 7:7:01 in proper cases properly states the law and is not biased in favor of the prosecution. This instruction adequately informs the jury of the problems with eyewitness identification testimony and the factors that may affect an eyewitness’s identification of defendant. People v Anderson, 389 Mich 155, 172-180; 205 NW2d 461 (1973). The instruction also emphasized that the prosecutor has the burden of proof on this issue. Since the instruction is accurate, there is no need to supplement it to make it more favorable toward defendants.
+Defendant next argues that the trial court erred in declining to instruct the jury pursuant to paragraph 3 of CJI 3:1:12. The failure to read CJI 3:1:12(3) is not by itself error requiring reversal. The crucial question is whether the instruction as a whole adequately informed the jury of its responsibilities. See People v Hatch, 126 Mich App 399, 404-405; 337 NW2d 79 (1983); People v Stewart, 126 Mich App 374, 377; 337 NW2d 68 (1983). The instructions given by the trial court adequately informed the jury of the burden of proof, the elements of the crime charged, and the jury’s responsibilities and duties. Therefore, the trial court’s failure to give CJI 3:1:12(3) is not error requiring reversal. Hatch, supra.
+We next consider whether the trial court erred by permitting a juror to take notes during trial and use those notes during deliberations. After the trial court instructed the jury, defense counsel noted that one of the jurors had been taking extensive notes during jury instructions and writing on other occasions during trial. Defense counsel argued that it might be unfair to allow the juror to take the notes into the jury room for deliberations. The trial court indicated that it had the discretion to allow jurors to take notes. The court indicated that it would allow note-taking.
+The criminal jury instructions indicate that "[n]ote-taking appears to be within the sound discretion of the trial judge in Michigan, whose decision will largely be determined by consideration of the nature and the length of the case being tried”. Commentary, Michigan Criminal Jury Instructions, "Note-Taking by Jurors”, p 2-22. The majority of jurisdictions subscribe to this view. See Anno: Taking and Use of Trial Notes by Jury, 14 ALR3d 831. Moreover, in Socha v Passino, 405 Mich 458, 470, fn 7; 275 NW2d 243 (1979), the Supreme Court indicated that the propriety of note-taking is an issue which is similar to the question of whether it is proper to admit typewritten deposition transcripts which would be taken to the jury room. The Court stated that the old rule that deposition transcripts were not admissible has evolved, in our case law, "into a general proposition that admission of evidence and taking of exhibits to the jury room lies within the discretion of the trial judge, apparently without regard to the testimonial or non-testimonial nature of the items at issue”. 405 Mich 471 (footnote omitted).
+We join the majority of jurisdictions and hold that it is within the sound discretion of the trial judge to decide whether jurors may take notes and use them during their deliberations. We believe that the advantage of note-taking outweighs the dangers of that practice. See, The Jury System in the Federal Courts, 26 FRD 409 (1961). The record in this case does not reflect that the trial judge abused his discretion in allowing a juror to take notes and use them in deliberation. In addition, there has been no showing of prejudice. People v McIntosh, 6 Mich App 62, 73; 148 NW2d 220 (1967). Defendant therefore has failed to support his claim of jury misconduct.
+We next consider whether there was sufficient evidence to support defendant’s conviction for felony-firearm. While defendant’s accomplice held the pistol throughout most of the robbery, defendant’s accomplice handed the pistol to defendant. The criminal activity involved in this case was a continuum from the time the defendant approached the victim to the time he fled. Defendant held the pistol during a portion of the robbery and, therefore, there was sufficient evidence to convict him of felony-firearm. People v Robbins, 131 Mich App 429; 346 NW2d 333 (1984).
+Affirmed.
+We note that paragraph 3 of the former CJI 3:1:12 is not included in the present standard instruction, but is proposed to be included within the instruction on the burden of proof. We also note that one panel of this Court found that paragraph 3 of the former CJI 3:1:12 did not accurately state the law. People v Vernon Johnson, 127 Mich App 587; 339 NW2d 489 (1983), lv den 419 Mich 860 (1984).
