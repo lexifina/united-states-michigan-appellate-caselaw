@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 43655, 44467"
+decided: "1983-01-10"
+citations: ["122 Mich. App. 314"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P.J., and Beasley and D. C. Riley, JJ."]
+parties: ["PEOPLE v JOSEPH LeFLORE (AFTER REMAND) PEOPLE v FRANK LeFLORE (AFTER REMAND)"]
+source_url: "https://static.case.law/mich-app/122/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2231104
+cites_cases: ["112 Mich App 631", "210 NW2d 501", "213 NW2d 106", "231 NW2d 649", "236 NW2d 473", "242 NW2d 32", "273 NW2d 856", "288 NW2d 622", "293 NW2d 628", "317 NW2d 201", "390 Mich 629", "394 Mich 434", "395 Mich 408", "404 Mich 698", "48 Mich App 295", "67 Mich App 688", "94 Mich App 323", "96 Mich App 557"]
+---
+
+# People v. LeFlore
+
+## Majority (D. C. Riley, J.)
+
+After Remand
+Before: Bronson, P.J., and Beasley and D. C. Riley, JJ.
+D. C. Riley, J.
+On November 29, 1978, following a bench trial in Detroit Recorder’s Court, defendants Frank and Joseph LeFlore were convicted of unarmed robbery. Defendant Joseph LeFlore was also convicted of assault with intent to murder. Defendant Frank LeFlore was sentenced to from 7 to 15 years in prison and Joseph LeFlore was sentenced to from 10 to 15 years in prison for the unarmed robbery conviction and to life in prison for the assault with intent to murder conviction. Defendants appealed as of right and on April 2, 1980, this Court remanded the case to the trial court to inquire into the allegation of missing res gestae witnesses pursuant to the procedure set forth in People v Pearson, 404 Mich 698, 722-723; 273 NW2d 856 (1979). See People v LeFlore, 96 Mich App 557; 293 NW2d 628 (1980). Additionally, the trial court was directed to make specific findings of fact as to whether defendants possessed a larcenous intent at the time of the assault as required by People v Chamblis, 395 Mich 408, 424; 236 NW2d 473 (1975). LeFlore, supra.
+Accordingly, the trial court made specific findings of fact with regard to the issue of defendants’ intent and concluded that defendants did in fact possess a larcenous intent at the time that they assaulted the complainant. The trial court also conducted a Robinson hearing (People v Robinson, 390 Mich 629; 213 NW2d 106 [1973]) on the issue of the allegedly missing res gestae witnesses and, after taking testimony, the court concluded that although one Oliver White was a res gestae witness, the prosecution exercised due diligence in its efforts to locate and subpoena him. The court also found that White’s testimony would have been cumulative.
+At the Robinson hearing, it was discovered that a "meat clerk” at the store where the incident began may have been a res gestae witness. The owner of the store testified that the meat clerk was probably his brother-in-law. The trial court recessed the evidentiary hearing for several days in order to bring the meat clerk to the court to testify. The meat clerk testified that he had no recollection of whether he had worked on the day of the incident, no recollection of the incident, did not see a fight and was never questioned by the police. From that testimony, the court concluded that the meat clerk was not a res gestae witness and that no prejudice to the defendants could possibly have resulted from the failure to produce him at the trial.
+Defendants now continue their appeals after completion of the remand ordered by this Court, raising several issues for our consideration.
+First, defendants herein claim that the prosecutor failed to produce the individual who was the meat clerk on the day of the incident and that under the rule of People v Pearson, supra, it must be presumed that defendants were prejudiced by the prosecution’s failure to produce that witness.
+A res gestae witness has been defined as "an eyewitness to some event in the continuum of a criminal transaction and whose testimony will aid in developing a full disclosure of the facts surrounding the alleged commission of the charged offense”. People v Hadley, 67 Mich App 688, 690; 242 NW2d 32 (1976).
+Assuming, without deciding, that the clerk was a res gestae witness, it is clear that defendants suffered no prejudice as a result of the prosecution’s failure to endorse his name on the information or produce him at the trial. The testimony taken at the Robinson hearing revealed that, at best, the meat clerk may have witnessed certain events which occurred inside the store. It is clear that the meat clerk would have been unable to witness the actual crimes because they occurred in a parking lot across the street from the store. Here, the prosecution established that the testimony of the meat clerk would have been of no assistance to the defendants. Thus, the absence of said testimony constituted harmless error; therefore, defendants’ convictions need not be reversed on that basis. People v Pearson, supra, pp 725-726.
+Similarly, we reject defendants’ contentions that the prosecution’s failure to endorse or produce Oliver White necessitates reversal. The trial court found that due diligence had been shown with respect to this witness. Such a finding will not be reversed absent a clear abuse of discretion. People v Bersine, 48 Mich App 295, 302; 210 NW2d 501 (1973). A police officer’s attempts to locate Mr. White included several visits to both his place of employment and his home address, only to discover that no one named Oliver White was at either address. Due diligence is defined as doing everything reasonable, not everything possible, People v Moreno, 112 Mich App 631; 317 NW2d 201 (1981). Based upon those facts, we find no abuse of the trial court’s discretion in determining that the prosecution exercised due diligence.
+Further, we reject defendants’ contentions that the trial court’s finding that they possessed a larcenous intent at the time of the assault was clearly erroneous. Findings of fact are clearly erroneous where the reviewing court, on the entire evidence, is left with the definite and firm conviction that a mistake has been committed. William C Reichenbach Co v State of Michigan, 94 Mich App 323; 288 NW2d 622 (1979). With respect to this issue, the trial court made specific findings of fact and concluded that the defendants committed an assault upon the complainant with the intent to take her money. Based upon a review of the record, we are not left with the conviction that a mistake has been committed.
+Finally, we note that defendant Joseph LeFlore has raised several issues for the first time on appeal in his brief after remand. Inasmuch as these issues are outside the scope of our order of remand, they are not properly before this Court. People v Jones, 394 Mich 434; 231 NW2d 649 (1975).
+Affirmed.
