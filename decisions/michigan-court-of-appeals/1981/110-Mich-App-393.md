@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 53701, 53702"
+decided: "1981-10-19"
+citations: ["110 Mich. App. 393"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P.J., and T. M. Burns and Allen, JJ."]
+parties: ["PEOPLE v VON EVERETT"]
+source_url: "https://static.case.law/mich-app/110/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2214796
+cites_cases: ["104 Mich App 159", "282 NW2d 168", "282 NW2d 262", "292 NW2d 466", "301 NW2d 803", "304 NW2d 513", "309 NW2d 170", "407 Mich 857", "407 Mich 96", "410 Mich 363", "411 Mich 523", "90 Mich App 144", "96 Mich App 365"]
+---
+
+# People v. Von Everett
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant pleaded guilty to attempted uttering and publishing a forged instrument, MCL 750.92, 750.249; MSA 28.287, 28.446, and, in a separate proceeding on the same day, to violating two conditions of his probation, MCL 771.4; MSA 28.1134. He was sentenced on both convictions in a single proceeding, receiving a sentence of two and one-half years in prison on the uttering and publishing conviction and 5 to 15 years for breaking and entering, the offense for which he had been placed on probation. He appealed by right. The uttering and publishing conviction is now Court of Appeals No. 53702, and the probation violation conviction is No. 53701, and the two cases have been consolidated.
+Defendant first argues that his guilty plea to uttering and publishing in case No. 53702 was illusory. The plea was made in return for the prosecutor’s promise not to file a supplemental information. Defendant argues that the prosecutor had not filed the supplemental information when the information charging uttering and publishing was filed, so under the rule of People v Fountain, 407 Mich 96; 282 NW2d 168 (1979), he was barred from filing the supplemental information and an agreement not to file was meaningless. We do not agree. While Fountain suggested that a prosecutor knowing of a defendant’s prior conviction should file a supplemental information at the same time the information on the latest offense is filed, the holding in Fountain was more limited. A prosecutor must file the supplemental information promptly, People v Young, 410 Mich 363, 366; 301 NW2d 803 (1981). At the time the prosecutor entered plea negotiations in this case, defendant was a potential subject for supplementation. The agreement to forego filing habitual offender charges was therefore not illusory. People v Hutcherson, 96 Mich App 365, 370; 292 NW2d 466 (1980).
+Defendant also argues that he is entitled to a resentencing when he did not personally participate in the in-chambers sentencing conferences and when his attorney was not present when the sentencing judge conferred with the prosecutor. Defendant has not shown on the record that he was prejudiced by his own absence when the sentencing judge conferred with his attorney, and we see no reason to assume that defendant’s counsel prejudiced his client during the conference. We do, however, find that error occurred when neither the defendant nor his attorney was present during the judge’s discussion with the prosecutor.
+We believe that defendant had a right at least to have his attorney present at the sentencing conference. The Supreme Court recently underscored the importance of the defendant’s presence at that stage of the proceedings. In People v Pulley, 411 Mich 523; 309 NW2d 170 (1981), the Court proposed a rule that a defendant is entitled to be present at the conference to protect a meaningful right of allocution and to assure the appearance of fairness. In the cases at bar, the defendant not only was personally absent from the discussion, his representative also was excluded. The danger of prejudice in this situation is even greater than that presented in Pulley.
+In Pulley, the Court declined to reverse, absent a showing of prejudice on the record. Had defendant’s attorney been present at the conference, he could seek to establish a record of what occurred there. Here, however, defendant is unable to determine what transpired in the judge’s chambers, so he and his attorney were not alerted to any questionable allegations. We therefore decline to require a showing of prejudice on the record in this case.
+We also believe that the separate conferences deprived defendant of his right to counsel. In People v Oliver, 90 Mich App 144; 282 NW2d 262 (1979), rev’d on other grounds 407 Mich 857 (1979), this Court held that a presentence conference between the judge and the probation officer who prepared the presentence report, held without defendant or his attorney being present, violated defendant’s right to counsel at a critical stage of the proceedings. The Court observed that such a practice allowed inaccurate information to creep into the proceedings, as a defendant would be unable to rebut information conveyed privately to the judge. In People v Beal, 104 Mich App 159; 304 NW2d 513 (1981), this holding was limited to situations where a trial judge was given information that was not equally available to the defendant. Oliver and Beal involved private conferences between a judge and a presentence investigator.
+We believe that an even greater danger of prejudice exists when the prosecutor is permitted to confer privately in chambers with the sentencing judge. The prosecutor, unlike a presentence investigator, plays an adversarial role in the judicial system. Moreover, he may have information about a defendant’s links to other crimes that might not be available to a presentence investigator. The danger of prejudice is great. Accordingly, we hold that a sentencing judge’s private conference with the prosecutor in this case violated the defendant’s right to counsel.
+Defendant’s convictions are affirmed. The case is remanded for resentencing.
