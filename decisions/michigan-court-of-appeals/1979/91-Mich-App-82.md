@@ -1,0 +1,48 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-931"
+decided: "1979-07-09"
+citations: ["91 Mich. App. 82"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: N. J. Kaufman, P.J., and V. J. Brennan and Bashara, JJ.", "Bashara, J., concurred."]
+parties: ["PEOPLE v TRIPLETT"]
+source_url: "https://static.case.law/mich-app/91/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2176130
+cites_cases: ["173 NW2d 205", "202 NW2d 486", "208 NW2d 504", "216 NW2d 770", "224 NW2d 38", "243 NW2d 665", "258 NW2d 737", "261 NW2d 225", "383 Mich 82", "389 Mich 557", "391 Mich 426", "393 Mich 174", "42 Mich App 629", "68 Mich App 531", "77 Mich App 402", "79 Mich App 100"]
+---
+
+# People v. Triplett
+
+## Majority (V. J. Brennan, J.)
+
+V. J. Brennan, J.
+Defendant was originally charged with first-degree murder, MCL 750.316; MSA 28.548. On December 15, 1971, Recorder’s Court Judge Henry Heading accepted the defendant’s plea to second-degree murder, MCL 750.317; MSA 28.549, and defendant was sentenced to 45 to 60 years in prison.
+On May 22, 1972, Judge Heading vacated the plea and granted defendant’s motion for a new trial. Defendant was then convicted of second-degree murder by a Recorder’s Court jury and was sentenced to life imprisonment by the late Judge John R. Murphy. On appeal to this Court defendant’s conviction was affirmed but the case was remanded for resentencing. People v Triplett, 68 Mich App 531; 243 NW2d 665 (1976).
+At resentencing before Judge Dalton A. Roberson, defendant objected to the use of the original presentence report which had been prepared in 1972 and had not been updated to include his prison conduct. Defendant also objected to the consideration of 11 Youth Bureau contacts (which were not convictions) listed in the presentence report and to consideration of certain prior convictions asserted to have arisen from a denial of defendant’s constitutional right to counsel. Defendant was resentenced to 40 to 60 years in prison and appeals by right.
+Defendant first contends that error requiring resentencing occurred when the lower court relied on a stale presentence report which did not delineate defendant’s prison conduct and progress toward rehabilitation.
+The defense counsel’s initial objection concerned the claim that there was no "fresh presentence report”. The lower court responded that the proper procedure on resentencing where the defendant has been incarcerated is to "update” the report. (The update in the present case concerned an explanation of the above-mentioned Court of Appeals disposition.) Defense counsel furnished the lower court with two letters delineating the defendant’s conduct while in prison and stated "[t]he presentence report, does not indicate that anyone at the institution (Jackson) has been contacted as far as Mr. Triplett’s progress or about his record while in an institution”. The lower court responded: "Well, I’ve got these two letters and they indicate something”. Defense counsel then contested the propriety of the presentence report because it gave no additional information on the defendant since 1971 (the date of the original conviction). The lower court replied that normally a presentence report delineates conduct in the "community environment” and reflects upon the possibility of a sentence of probation. The lower court did not consider Jackson Prison as part of the community.
+The prosecution relies on People v Allen, 79 Mich App 100; 261 NW2d 225 (1977), which held that a trial court upon resentencing may not properly consider the defendant’s prison behavior subsequent to his initial sentencing because such consideration would amount to a usurpation of the executive power to commute sentences. In Allen the Court intimated that a defendant’s progress made in prison is under the purview of the Department of Corrections and is not a proper consideration for the resentencing court. We decline to follow Allen.
+The goal of our penal system is the rehabilitation of the criminal. As a first step toward achieving this objective, the sentencing courts are required to fit the punishment to the needs of the particular case. See People v Earegood, 383 Mich 82; 173 NW2d 205 (1970). It is incumbent upon the sentencing court to fully acquaint itself with the background and character of the case and of the defendant. People v Brown, 393 Mich 174; 224 NW2d 38 (1974), citing with approval People v Amos, 42 Mich App 629; 202 NW2d 486 (1972).
+The sentencing court should make every effort to individualize sentences in order to further the goal of rehabilitation. In this regard a defendant’s conduct while in prison may shed considerable light on the prospect of rehabilitation. An updated presentence report which includes prison conduct would describe the defendant’s most recent behavior and would be a valuable tool in resentencing. Such a procedure would not be a burden on the probation department since records are kept at prison which could easily be made available.
+Although we decline to follow Allen a review of the record in this case does not warrant a remand for resentencing. The lower court was apprised of the defendant’s prison conduct and he indicated the weight to be given thereto. The failure to include the conduct in the presentence report wqs thus not prejudicial.
+Next defendant claims that the presentence report as furnished contained inaccurate information, and in addition thereto the report contained references to juvenile contacts as well as adult convictions obtained when defendant did not have counsel and was not informed of his constitutional rights.
+As to defendant’s claim of inaccurate information in the presentence report, we point out that such an objection was not specifically raised below. The defendant merely pointed out that the juvenile contacts listed in the report did not result in conviction, thus precluding their consideration at sentencing. The trial court properly ruled that the defendant’s juvenile record could be taken into account at sentencing. People v McFarlin, 389 Mich 557; 208 NW2d 504 (1973).
+We next address defendant’s assertion that the trial court erred in considering constitutionally invalid juvenile dispositions and adult convictions. Convictions obtained in violation of defendant’s right to counsel may not be considered at sentencing. People v Moore, 391 Mich 426; 216 NW2d 770 (1974). To remove such a conviction from the lower court’s consideration, the defendant must present (1) prima facie proof that the previous conviction was constitutionally defective, such as a docket entry showing the absence of counsel or a transcript evidencing the same or (2) evidence that he has requested such records and has not received them. People v Moore, supra, 440-441. The record in the present case is barren of either of the above factual situations. The failure of the defendant to present such evidence below precludes appellate review.
+The defendant frames the next issue as follows:
+"Where the sentencing judge had indicated long before sentencing and before he had a presentence report or any other background information on defendant that he was going to impose a 45 to 60 year sentence upon defendant and that he was not going to change his mind, it was error for him to deny defendant’s motion to disqualify.”
+The statement is factually inapplicable to the case at bar. The record clearly establishes that the lower court based its decision upon a reading of the presentence report, the transcript and the court file.
+There was no showing that the sentencing judge based his decision on personal bias or prejudice against the defendant.
+Affirmed.
+Bashara, J., concurred.
+
+## Dissent (N. J. Kaufman, P.J.)
+
+N. J. Kaufman, P.J.
+(dissenting). I would remand for resentencing and direct the trial judge to secure an updated presentence report prior to resentencing. The majority accurately state my reasoning when they say:
+"The sentencing court should make every effort to individualize sentences in order to further the goal of rehabilitation. In this regard a defendant’s conduct while in prison may shed considerable light on the prospect of rehabilitation. An updated presentence report which includes prison conduct would describe the defendant’s most recent behavior and would be a valuable tool in resentencing. Such a procedure would not be a burden on the probation department since records are kept at prison which could easily be made available.”
+Our Supreme court made a similar statement in People v McFarlin, 389 Mich 557, 574; 208 NW2d 504 (1973):
+"The modern view of sentencing is that the sentence should be tailored to the particular circumstances of the case and the offender in an effort to balance both society’s need for protection and its interest in maximizing the offender’s rehabilitative potential. While the resources allocated for rehabilitation may be inadequate and some persons question whether rehabilitation can be achieved in the prison setting, this view of sentencing is the present policy of the state. A judge needs complete information to set a proper individualized sentence.”
+I would also direct the resentencing judge to give defense counsel an opportunity to review the updated report and discuss it with defendant. After discussing the report, both defense counsel and the defendant should be given an opportunity for allocution. GCR 1963, 785.12; see also Judge Bashara’s dissent in People v Horace Williams, 77 Mich App 402, 406; 258 NW2d 737 (1977), rem’d 402 Mich 950j (1978).
