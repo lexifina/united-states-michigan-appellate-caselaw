@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "17964"
+decided: "1974-09-11"
+citations: ["55 Mich. App. 445"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P. J., and J. H. Gtt.t.ts and Van Valkenburg, JJ.", "All concurred."]
+parties: ["PEOPLE v ALEMAN"]
+source_url: "https://static.case.law/mich-app/55/cases/0445-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2132661
+---
+
+# People v. Aleman
+
+## Majority (Van Valkenburg, J.)
+
+Van Valkenburg, J.
+Defendant was originally charged with breaking and entering of an occupied dwelling with intent to commit a larceny and injury to a safe. On the date set for trial the prosecutor indicated to the trial court that as a result of discussions with all the parties concerned the people intended to add a count of larceny in a building. Defendant thereafter pled guilty to this added count and was sentenced to two to four years in prison. Defendant now appeals as of right.
+On appeal defendant raises a number of alleged infirmities with respect to the plea, all of which have been considered, but only one of which merits discussion. Defendant through appellate counsel, who was also counsel for defendant at the plea, alleges that since the plea was the result of an agreement, and GCR 1963, 785.7(2) requires that the agreement be stated on the record and affirmatively acknowledged by defendant, his lawyer and the prosecutor, the failure to do so in the present case mandates reversal pursuant to the provisions of GCR 1963, 785.7(5).
+Since defendant’s plea was entered subsequent to the adoption of the general revision of GCR 1963, 785, the provisions of the new rule control. GCR 1963, 785.7(2) provides:
+"The Court shall not accept a plea of guilty or nolo contendere without personally addressing the defendant and determining that the plea is freely, understandingly and voluntarily made. If the tendered plea is the result of an agreement between the prosecutor and the defendant or his lawyer regarding the entry of a plea, the agreement shall be stated on the record and affirmatively acknowledged by the defendant, his lawyer and the prosecutor.”
+It should first be noted that the rule does not require the trial court to inquire whether there was an agreement, although it is suggested that such an inquiry by the trial court would be wise, but rather the rule mandates that if there was an agreement it shall be stated and acknowledged on the record. It is clear that in the instant case the added count was the result of plea negotiations that resulted in an agreement, as illustrated by the opening remarks by the prosecutor, wherein he advised the court:
+"The people have discussed this case with all parties concerned and the People at this time would make a motion to the court to add a second count of larceny in a building, this being a violation of Michigan Statutes Annotated 28.592, a four-year felony.
+"Because of the negotiations up until the last minute here I have not prepared the formal information and therefore cannot even formally read it, but I could advise Mr. Aleman of what the charge would be, and it would be larceny in a building, which would be 1211 Balmoral located in the City of Mount Clemens, and ask the defense counsel if he waives both the formal presentation and the formal reading of the information at this time.”
+Defendant does not assert that the agreement that resulted from the plea negotiations was anything more than what was, in fact, stated by the prosecutor: that being that the prosecutor would add the count of larceny in a building. Thus, we find that the "agreement” was stated on the record within the meaning of GCR 1963, 785.7(2).
+GCR 1963, 785.7(2) also requires that the agreement be "affirmatively acknowledged by defendant, his lawyer and the prosecutor”. The rule itself offers no indication what constitutes affirmative acknowledgment. It would however appear that the purpose and intent of this portion of the rule was to insure that the trial court, along with all of the parties, is apprised of any concessions given by either side to secure the guilty plea. Clearly the rule would appear to be primarily directed to those situations where the agreement involves matters which are not otherwise apparent from the record of the plea itself, i.e. dismissal of charges against defendant which are unrelated to the charge pled to, dismissal of charges against other persons, a prosecutor’s recommendation of probation or leniency, etc. It is thus against this underlying purpose of the rule that the meaning of what constitutes affirmative acknowledgment must be measured.
+Clearly the statement by the prosecutor that the people intended to add the new count and that said addition was the result of discussions and negotiations constitutes an affirmative acknowledgment by the prosecutor of his willingness to accept a plea to that count, particularly in light of the absence of any objection to the court’s taking and receiving the guilty plea to that count. Since the prosecutor affirmatively added the new count, would be bound by the accepted plea in the absence of an objection to the proffered plea, and could not thereafter prosecute on the greater offenses arising out of the same transaction, we do not feel that affirmative acknowledgment under the rule requires that the prosecutor mouth some pointless phrase to the effect that he acknowledges that what he has said is what he intended to say.
+As to defense counsel, we hold that counsel’s affirmative indication that he has no objection to adding the new count, coupled with the indication that he discussed the disposition of the matter with defendant and that defendant now wished to offer a plea of guilty to the added count, constitutes an affirmative acknowledgment on the part of defense counsel to the agreement to add the extra count in exchange for the plea.
+As to defendant, we hold that the mere act of offering his plea of guilty after being fully informed of his rights with respect to the nature and effect of his guilty plea is sufficient to constitute an affirmative acknowledgment of the agreement to add the extra count in exchange for the plea.
+We do not believe that in situations such as that found in the instant case wherein it appears that the only "agreement” was that a count would be added to which defendant would be willing to plead guilty necessitates some particular vocalization in order to be "affirmatively acknowledged” on the record. Since it is patently clear from the record before us what the agreement was, and it is further patently clear that the prosecutor, defense counsel and defendant by their respective actions indicated their willingness to undertake this "compromise” whereby the prosecutor would add the new count in exchange for defendant’s guilty plea, we hold that the underlying purpose and intent of the rule has been complied with. We do not believe that the Supreme Court intended when they promulgated GCR 1963, 785.7(2) to require some ritualized incantation by the parties for the benefit of the trial court, but rather we feel they intended that the rule be applied in such a manner as would effectuate the underlying purpose of apprising the trial court of the nature of the plea agreement. Since that end was met, we hold that no error resulted.
+Affirmed.
+All concurred.
+MCLA 750.110; MSA 28.305.
+MCLA 750.531; MSA 28.799.
+MCLA 750.360; MSA 28.592.
+To the extent that a defendant seeks to assert that there was an "agreement” which is not stated upon the record, we feel that such a claim should, like a claim of involuntariness, be first raised before the trial court. It is only in this fashion that this Court will have a proper record upon which to evaluate the legitimacy of the claim.
