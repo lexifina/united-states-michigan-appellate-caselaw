@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "69517"
+decided: "1984-07-25"
+citations: ["137 Mich. App. 695"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Wahls, P.J., and R. M. Maher and C. W. Simon, JJ."]
+parties: ["AUTO-OWNERS INSURANCE COMPANY v LOMBARDI FOOD SERVICE, INC"]
+source_url: "https://static.case.law/mich-app/137/cases/0695-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2241064
+cites_cases: ["107 Mich App 173", "113 Mich App 572", "18 ALR4th 632", "213 NW2d 134", "247 NW2d 349", "293 NW2d 594", "309 NW2d 192", "315 NW2d 413", "317 NW2d 344", "390 Mich 649", "409 Mich 231", "412 Mich 505", "412 Mich 515", "71 Mich App 200"]
+---
+
+# Auto-Owners Insurance v. Lombardi Food Service, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In this action, plaintiff sought to recoup no-fault automobile insurance benefits it paid to its insured. The circuit court granted summary judgment for defendant pursuant to GCR 1963, 117.2(1), holding that plaintiff had failed to state a claim on which relief could be granted. Plaintiff’s motion to amend its complaint was denied, and plaintiff appeals as of right.
+Plaintiff was the insurer for Michael Fincannon’s personal automobile. Defendant was Fincannon’s employer. Fincannon suffered a personal injury while riding in a truck owned or leased by defendant. Defendant had failed to obtain insurance for the truck. MCL 500.3114; MSA 24.13114 provides in part:
+"(1) Except as provided in subsections (2), (3), and (5), a personal protection insurance policy described in section 3101(1) applies to accidental bodily injury to the person named in the policy, the person’s spouse, and a relative of either domiciled in the same household, if the injury arises from a motor vehicle accident.
+"(3) An employee, his or her spouse, or a relative of either domiciled in the same household, who suffers accidental bodily injury while an occupant of a motor vehicle owned or registered by the employer, shall receive personal protection insurance benefits to which the employee is entitled from the insurer of the furnished vehicle.”
+Had defendant obtained insurance for the truck, defendant’s insurer would have been liable to Fincannon pursuant to subsection (3) for payment of benefits. Because no such insurance was obtained by defendant, plaintiff instead was liable to Fincannon for payment of benefits pursuant to subsection (1). See Lee v DALLE, 412 Mich 505; 315 NW2d 413 (1982), and Becker v Wolverine Ins Co, 113 Mich App 572; 317 NW2d 344 (1982).
+When plaintiff sought to amend its complaint to state a claim for recoupment of benefits it paid to Fincannon, plaintiff relied on MCL 500.3177; MSA 24.13177, which provides:
+"An insurer obligated to pay personal protection insurance benefits for accidental bodily injury to a person occupying an uninsured motor vehicle or to the spouse or relative resident in the household of the owner or registrant of an uninsured motor vehicle may recover such benefits paid and appropriate loss adjustment costs incurred from the owner or registrant of the uninsured motor vehicle or from his estate. Failure of such a person to make payment within 30 days is a ground for suspension or revocation of his motor vehicle registration and operator’s license. An uninsured motor vehicle for the purpose of this section is a motor vehicle with respect to which security as required by sections 3101 and 3102 is not in effect at the time of the accident.”
+Because plaintiff is "an insurer obligated to pay personal protection insurance benefits * * * to a person occupying an uninsured motor vehicle”, and because defendant is "the owner or registrant of the uninsured motor vehicle”, this section appears on its face to authorize the action which plaintiff sought to bring.
+Defendant makes two arguments to avoid the apparent plain meaning of the section. Defendant first points to language in Lee, supra, 412 Mich 515, to the effect that an injured person’s personal insurer is "primarily liable” for payment of benefits to its insured. However, Lee involved the insured suing the insurer for payment of benefits. The statement concerning primary liability appears in the context of a discussion of the sections governing priority among insurers, MCL 500.3114, 500.3115; MSA 24.13114, 24.13115. By calling the injured person’s personal insurer "primarily liable”, the Court meant merely that such an insurer is first in the order of priority unless one of the statutory exceptions applies, such as MCL 500.3114(3); MSA 24.13114(3). There is no reason why the insurer’s primary liability to its insured should prevent the insurer from subsequently recouping benefits it paid from the uninsured motorist. Recoupment was not at issue in Lee, and no "uninsured motor vehicle” as that term is defined in MCL 500.3177; MSA 24.13177 was involved in Lee. In short, this argument by defendant is based on a phrase taken out of context from an opinion in which the problem at issue here was not considered.
+Defendant’s second argument is based on the structure of the no-fault statute. The six sections immediately preceding the section at issue here, MCL 500.3171-500.3176; MSA 24.13171-24.13176, expressly deal with assigned claims. Defendant argues that MCL 500.3177; MSA 24.13177 must be read as limited to assigned claims, even though no such limitation appears in the language of the section. This argument would have more force if the section at issue appeared in the middle of the sections dealing with assigned claims, but instead it follows those sections. The same argument could be made in an attempt to show that MCL 500.3179; MSA 24.13179 applies only to assigned claims. That section provides:
+"This act applies to motor vehicle accidents occurring on or after October 1,1973.”
+Of course, this section cannot be sensibly limited to assigned claims.
+That Auto-Owners Ins Co v Biddis, 107 Mich App 173; 309 NW2d 192 (1981), a case construing MCL 500.3177; MSA 24.13177, happened to involve an assigned claim is mere coincidence. Nothing in that opinion suggests that MCL 500.3177; MSA 24.13177 is limited to assigned claims.
+The policy basis for MCL 500.3177; MSA
+24.13177 is explained in Belcher v Aetna Casualty & Surety Co, 409 Mich 231, 240-241; 293 NW2d 594 (1980):
+"Owners and registrants of motor vehicles required to be registered in Michigan must maintain security for payment of benefits under personal protection insurance, property protection insurance and residual liability insurance. MCL 500.3101(1); MSA 24.13101(1). The Legislature has thus designated owners and registrants of such vehicles as the group responsible for contributing to the insurance scheme from which no-fault benefits are payable. To ensure that this segment of the driving public obtain the requisite security the Legislature enacted the following measures:
+"(4) An insurer who is obliged to pay personal protection insurance benefits may be able to recover the amounts paid from owners and registrants of uninsured motor vehicles or from their estates. MCL 500.3177; MSA 24.13177.” (Footnotes omitted.)
+See also McKendrick v Petrucci, 71 Mich App 200, 206-207; 247 NW2d 349 (1976). This policy would not be served by construing MCL 500.3177; MSA 24.13177 as limited to assigned claims.
+The rules governing motions to amend pleadings are stated in Ben P Fyke & Sons, Inc v Gunter Co, 390 Mich 649, 655-657; 213 NW2d 134 (1973). A motion to amend ordinarily should be granted, and such a motion may be denied only for particularized reasons such as undue delay, bad faith or dilatory motive, repeated failure to cure deficiencies by amendments previously allowed, undue prejudice to the opposing party, or futility of amendment. A denial of a motion to amend must be supported by specific findings as to the reasons for denial. Here, the circuit court’s stated reason for denial of the amemdment was futility. The court’s specific findings indicate acceptance of defendant’s arguments concerning the construction of MCL 500.3177; MSA 24.13177. The court therefore erred by denying plaintiffs motion to amend its complaint.
+Our resolution of this issue makes it unnecessary for us to determine whether the circuit court erred by granting summary judgment on plaintiff’s original complaint.
+Reversed and remanded for further proceedings consistent with this opinion. We retain no jurisdiction.
