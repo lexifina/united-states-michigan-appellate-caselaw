@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "129708"
+decided: "1992-07-21"
+citations: ["195 Mich. App. 192"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Neff, P.J., and Gribbs and Murphy, JJ."]
+parties: ["DOWNRIVER PLAZA GROUP v CITY OF SOUTHGATE"]
+source_url: "https://static.case.law/mich-app/195/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1867259
+cites_cases: ["134 NW2d 214", "173 NW2d 230", "19 Mich App 664", "375 Mich 229"]
+---
+
+# Downriver Plaza Group v. City of Southgate
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Following a two-day bench trial, on May 21, 1990, the Wayne Circuit Court granted a judgment of no cause of action against plaintiffs, Downriver Plaza Group, a Michigan copartnership, and Lewis George, personal representative of the estate of Nicholas Géorge, deceased, in favor of defendant City of Southgate. Plaintiffs now appeal as of right from the judgment of the trial court. We reverse and remand.
+i
+Plaintiffs filed this class action on behalf of themselves and those individuals who reside in defendant city and were billed on their 1988 and 1989 city tax bills for user charges for the South-gate-Wyandotte Drainage District (swdd). Plaintiffs alleged that the user charges for operation and maintenance were invalid and sought recovery of any monies paid for the user charges on their 1988 and 1989 city tax bills. The swdd services the City of Wyandotte and sixty percent of the population of defendant.
+In 1975, defendant, through Wayne County, received a federal grant in the amount of $40,793,-250 for the construction of pollution control devices within the swdd. On April 17, 1975, the Southgate City Council adopted Resolution No. 551-75, in which it agreed "to 'implement a system of User Charges’ ” to assure that all users would pay a proportionate share of the operating and maintenance costs of the system.
+From 1980 through 1987, operation and maintenance fees were assessed against defendant but were paid by the Wayne County Drainage Board out of excess construction funds. Because the excess construction funds had been depleted, on or about March 17, 1988, the county drainage board sent defendant notice of the user charges for which it was responsible.
+On April 13, 1988, the Southgate City Council conducted a public hearing regarding the establishment of user charges for the swdd. On April 27, 1988, Resolution No. 94-88 was adopted at a public hearing. Under that resolution, defendant resolved to apportion the costs of operating, maintaining, and replacing facilities of the swdd as proposed by the county drainage board and set forth the geographic area responsible for the operation and maintenance costs.
+Pursuant to Resolution No. 94-88, defendant included the operation and maintenance costs for the drainage district on the tax bills for the summer and winter of 1988 and on the summer 1989 tax bill.
+By resolution adopted at a public hearing on January 3, 1990, the Southgate City Council resolved, among other things, that the individual user formula presented on April 13, 1988, would be readopted and that any objections to the user-charge formula should be filed within twenty-eight days of the annual adoption of the user charge. Under that resolution, defendant also resolved to affirm or reaffirm the costs of operating and maintaining the swdd for fiscal years December 1, 1987, through November 30, 1991, and to assess annual costs in compliance with the user-charge formula.
+The trial court limited the discussion in its opinion to two issues. First, it found that defendant had the authority to impose a user fee for the operation and maintenance of the swdd. Second, it concluded that defendant had rectified the defects in its original efforts to assess a user charge, and, in adopting the resolution dated January 3, 1990, defendant had properly implemented the user charges. Specifically, the trial court found that the January 3, 1990, resolution had retroactive effect from December 1, 1987, and, accordingly, entered a judgment of no cause of action in favor of defendant and against plaintiffs.
+Plaintiffs now appeal as of right from the trial court’s judgment.
+ii
+Plaintiffs first argue that the trial court erroneously found that the January 3, 1990, resolution retroactively created user charges for the years 1988 and 1989. Plaintiffs claim that giving that resolution retroactive effect was in violation of their rights of due process. We agree.
+In Metro Homes, Inc v City of Warren, 19 Mich App 664; 173 NW2d 230 (1969), the facts indicated that on January 13, 1959, the Warren City Council adopted a resolution that attempted to impose "sewer tap charges” on structures built after the date of the resolution; however, the council exempted existing structures from the charges. In Beauty Built Construction Corp v City of Warren, 375 Mich 229; 134 NW2d 214 (1965), our Supreme Court had decided with regard to the same resolution that, by exempting the previously built structures from the charge, the city denied those who built after the date óf the resolution equal protection of the law. In an attempt to cure the invalid resolution, on April 20, 1965, the Warren City Council had enacted an ordinance that retroactively extended the fee requirement to all structures. Nevertheless, this Court held that the 1965 ordinance could not be givén retroactive effect. Metro Homes, supra at 667. In refusing to give the newer legislation retroactive effect, this Court stated that considerations of due process limit the reach of retroactive legislation that would otherwise impair vested rights. Id. at 670. Further, the right to due process prohibits a municipal corporation from imposing a liability for payment of charges for a past act if an enforceable obligation was not in place when the act occurred. Id. at 671. However, this rule is limited to cases where the reason underlying the immunity from liability compels the continuance of the immunity. Id. at 671-672.
+In this case, the trial court’s opinion in response to the parties’ cross motions for summary disposition declared that Resolutions Nos. 94-88 and 551-75 were unenforceable because they failed to set forth a rate for imposing a service charge as required by the city charter. Plaintiffs’ immunity from liability for the user charges was not a mere technicality. We believe that it would be a violation of plaintiffs’ rights of due process to allow the municipality to keep the money gained through violation of the city charter. Moreover, property owners cannot be expected to anticipate the amount of taxes to be assessed at some future date merely because they were put on notice several years previously that a special charge would be assessed.
+We hold that the January 3, 1990, resolution should be given prospective effect only. In light of the possibility that some of the property has changed hands, plaintiffs are entitled to a refund of whatever monies were paid in violation of their rights of due process. Our holding reaffirms the principles set out in Metro Homes.
+hi
+Plaintiffs next argue that Resolution No. 206-89, adopted August 30, 1989, did not validly establish user charges for operation and maintenance costs.
+The trial court determined that the January 3, 1990, resolution established a rate for implementing user charges and that the assessments had retrospective effect from December 1, 1987. It made no finding regarding whether the August 30, 1989, resolution validly established a user charge. If the August 30, 1989, resolution creates an enforceable obligation, plaintiffs could be assessed user charges beginning on that date. We remand to the trial court for a finding with regard to whether the August 30, 1989, resolution validly implemented a user charge.
+IV
+We reverse the trial court’s judgment and remand to the trial court for a determination with regard to the prospective validity of the August 30, 1989, resolution establishing user charges. We direct the city to refund the monies collected in violation of plaintiffs’ rights of due process. We do not retain jurisdiction.
