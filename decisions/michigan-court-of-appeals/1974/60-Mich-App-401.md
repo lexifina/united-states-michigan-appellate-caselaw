@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "s. 16910, 16911"
 decided: "1974-05-30"
-citations: ["60 Mich. App. 401", "53 Mich. App. 505"]
+citations: ["60 Mich. App. 401"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["FOREST v PARMALEE (ON REHEARING) MILLS v PARMALEE (ON REHEARING)"]
 source_url: "https://static.case.law/mich-app/60/cases/0401-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2124330
-cites_cases: ["104 NW2d 767", "116 NW 376", "12 Mich App 393", "124 Mich 157", "134 NW2d 726", "152 Mich 582", "163 NW2d 20", "169 NW2d 361", "17 F2d 15", "17 Mich App 219", "189 NW2d 125", "189 NW2d 202", "190 F Supp 880", "199 NW2d 295", "216 NW2d 458", "219 NW2d 806", "226 NW2d 52", "255 NW 179", "267 Mich 136", "32 Mich App 664", "337 Mich 8", "359 F2d 521", "360 Mich 634", "375 Mich 413", "385 Mich 474", "385 Mich 765", "388 Mich 758", "40 Mich App 515", "412 F2d 583", "489 F2d 1057", "52 Mich App 80", "53 Mich App 505", "57 Mich App 190", "59 ALR2d 169", "59 NW2d 60", "8 ALR2d 6", "82 NW 841"]
+cites_cases: ["104 NW2d 767", "116 NW 376", "12 Mich App 393", "124 Mich 157", "134 NW2d 726", "152 Mich 582", "163 NW2d 20", "169 NW2d 361", "17 F2d 15", "17 Mich App 219", "189 NW2d 125", "189 NW2d 202", "190 F Supp 880", "199 NW2d 295", "219 NW2d 806", "226 NW2d 52", "255 NW 179", "267 Mich 136", "32 Mich App 664", "337 Mich 8", "359 F2d 521", "360 Mich 634", "375 Mich 413", "385 Mich 474", "385 Mich 765", "388 Mich 758", "40 Mich App 515", "412 F2d 583", "489 F2d 1057", "53 Mich App 505", "57 Mich App 190", "59 ALR2d 169", "59 NW2d 60", "8 ALR2d 6", "82 NW 841"]
 ---
 
 # Forest v. Parmalee
