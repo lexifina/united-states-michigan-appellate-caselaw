@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-446"
+decided: "1979-09-05"
+citations: ["92 Mich. App. 234"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and V. J. Brennan and H. R. Carroll, JJ."]
+parties: ["WADE v STATE HIGHWAY COMMISSION"]
+source_url: "https://static.case.law/mich-app/92/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2174981
+cites_cases: ["220 NW2d 641", "222 NW2d 59", "275 NW2d 511", "298 NY 313", "392 Mich 91", "405 Mich 638", "55 Mich App 131", "83 NE2d 133"]
+---
+
+# Wade v. State Highway Commission
+
+## Majority (V, J. Brennan, J.)
+
+V, J. Brennan, J.
+Plaintiff, Sandra K. Wade, administratrix of the estate of David E. Hawkins, appeals by right a judgment of no cause of action rendered by the Court of Claims in a negligence suit brought against the State Highway Department. After trial, the Court of Claims found that the highway at the scene of decedent’s death had been improperly designed. However, plaintiff was denied recovery when the court also found that the decedent had acted in a contributorily negligent manner.
+Plaintiffs decedent died as a result of injuries sustained when he was struck by a semi-trailer truck on the River Rouge bridge on 1-75 in the City of Detroit on November 14, 1974. The decedent had been driving on one of the four northbound lanes of 1-75 when his automobile developed trouble. Thereupon, the decedent drove his automobile onto the refuge lane on the extreme right-hand side of the freeway on the bridge.
+The decedent did not use the entire width of the refuge lane, nine feet six inches, when driving his automobile onto it. His automobile, which was approximately six feet four inches wide, came to rest with its left wheel approximately 6 to 8 inches into the travel lane of the highway.
+After stopping the automobile, the decedent got out of it, opened its hood and examined the engine. As to decedent’s actions immediately before being struck, the lower court found:
+"* * * I Wni so find that Mr. Hawkins, after putting the hood down, moved directly into the traffic lane and was in the traffic lane to the extent of at least four feet into the travel lane, if not more, when he was struck, and that he, at that time when both Mr. Kadar and Mr. Hall, the truck driver, passed him, he was in a position of safety in front of the car putting down the hood of the car; that he thereafter left the front of the car, moved at least four feet into the travel lane at which time he was struck either by the front portion or by the side of the truck. But the important fact, the significant fact, was that he was in a position of safety, and almost immediately thereafter moved into the travel lane and was struck by the truck, causing the injuries eventually resulting in his death.”
+The primary issues at trial were whether the highway refuge lane was negligently designed to be too narrow and whether the plaintiff’s decedent was contributorily negligent. The lower court answered both of these questions in the affirmative finding that the highway refuge lane should have been at least 12 feet wide and that plaintiff’s decedent was guilty of contributory negligence:
+"I think therefore that there is no question in this case but what the plaintiff decedent was guilty of contributory negligence in going into that road immediately after putting down the hood, and I think there is no question but what that contributory negligence of the plaintiff in going four feet into the road immediately after putting down the hood is a proximate cause of the injury here. So even though I find that the State of Michigan did not maintain this highway in a reasonable manner and fit for travel because of the lack of adequate refuge, not constructed in a manner reasonably safe and fit for travel because of the inadequate refuge lanes, I think the plaintiff is clearly guilty of contributory negligence and that that contributory negligence was clearly a proximate cause of the injury and subsequent death, and therefore, for that reason, I will have to order a judgment of no cause for action in the matter.”
+The sole issue on appeal is the applicability of the doctrine of contributory negligence to the instant action.
+First, plaintiff invites us to extend the holding in Funk v General Motors Corp, 392 Mich 91; 220 NW2d 641 (1974), to the facts in the present case. We decline to do so.
+In Funk, supra, the Court held that the defense of contributory negligence is inapplicable where a defendant employer breaches its duty to provide safety equipment resulting in injury to a plaintiff employee. The rationale behind this decision is evident from the following quote:
+"'Workmen such as the present plaintiff, who ply their livelihoods on ladders and scaffolds, are scarecely in a position to protect themselves from accident. They usually have no choice but to work with the equipment at hand, though danger looms large. The legislature recognized this and, to guard against the known hazards of the occupation, required the employer to safeguard the workers from injury caused by faulty or inadequate equipment. If the employer could avoid this duty by pointing to the concurrent negligence of the injured worker in using the equipment, the beneficial purpose of the statute might well be frustrated and nullified.’ Koenig v Patrick Construction Corp, 298 NY 313, 318-319; 83 NE2d 133, 135 (1948).” Id., at 113-114.
+The plaintiff contends that the breach of the statutory duty to maintain highways in a reasonably safe condition, MCL 691.1402; MSA 3.996(102), is in the same category as above thus rendering the doctrine of contributory negligence inapplicable. We disagree.
+Initially we point out that a motorist who misuses a highway is answerable for his own negligence which could operate to bar recovery. Detroit Bank & Trust Co v Dep’t of State Highways, 55 Mich App 131; 222 NW2d 59 (1974). Moreover, the critical factor in Funk, supra, was the employee’s lack of choice in undertaking hazardous on-the-job activity. Here that factor is absent. The decedent could have used an emergency phone which was located some 500 feet away or could have waited for traffic to clear before moving from his position of safety. The record supports the lower court’s finding that the decedent’s injuries were caused by his own negligence.
+We next must ascertain whether the doctrine of comparative negligence adopted by the Supreme Court in Placek v Sterling Heights, 405 Mich 638; 275 NW2d 511 (1979), applies retroactively to the case at bar.
+The limited retroactive effect of Placek is set forth as follows:
+"Therefore, we hold the rule announced today applicable to the instant case and all appropriate cases in which trial commences after the date of this opinion including those in which a retrial is to occur because of remand on any other issue. Further, we ñnd comparative negligence applicable to any case presently pending on appeal in which application of the doctrine was requested at the trial court and the issue preserved for appeal. Finally, comparative negligence shall be the applicable rule in any case commenced but not submitted to the trier of fact prior to the date of this decision, but in no case shall it apply unless there is an appropriate request by counsel prior to submission to the trier of fact. ” Id., at 667-668. (Emphasis added.)
+An examination of the lower court record and transcript in the case at bar indicates that plaintiff did not request the lower court to apply the doctrine of comparative negligence at trial. The applicability of the doctrine was raised in plaintiff’s motion for new trial, however, this does not operate to preserve the issue for appeal where it was not first raised prior to submission to the trier of fact. Accordingly, Placek does not apply retroactively to the present case.
+Affirmed.
+Our review of the record indicates the contrary. A nine foot six inch refuge lane does not amount to negligent design and construe tion by the Highway Department.
