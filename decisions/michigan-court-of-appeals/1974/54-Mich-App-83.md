@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "16951"
+decided: "1974-06-25"
+citations: ["54 Mich. App. 83"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bashara, P. J., and McGregor and Van Valkenburg, JJ.", "All concurred."]
+parties: ["C. R. MECHANICAL, INC. v TEMP-SAN CORPORATION"]
+source_url: "https://static.case.law/mich-app/54/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2134182
+cites_cases: ["209 NW 116", "229 NW 514", "234 Mich 675", "249 Mich 647", "251 NW 565", "265 Mich 389", "274 NW 803", "281 Mich 307", "82 ALR2d 668"]
+---
+
+# C. R. Mechanical, Inc. v. Temp-San Corp.
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+On February 22, 1971, plaintiff filed summons and complaint against the principal defendant, Temp-San Corporation. On the same day, two writs of garnishment were issued; one ✓against the Huron Valley National Bank, and the other against George Glover, the garnishee defendant herein. Proofs filed indicate that service was obtained on Huron Valley National Bank on February 22, 1971, and against George Glover on February 25, 1971. As a result of this writ, Huron Valley Bank made disclosure; Glover did not.
+On November 10, 1971, judgment was granted against the defendant Temp-San Corporation. On January 11, 1972, a default judgment was entered against George Glover for failure to file a disclosure to the garnishment.
+On June 2, 1972, Glover filed a motion to set aside the default judgment. This motion conceded service of the writ of garnishment, but contended that there was no liability on the part of Glover to the defendant Temp-San. On June 21, 1972, the motion to set aside the default judgment was denied. On June 28, 1972, Glover filed a motion for rehearing.
+On December 11, 1972, a hearing was held. After testimony, the trial judge ruled that there had not been service of the writ of garnishment on Glover and ordered that the default judgment be set aside. Plaintiff filed a motion for rehearing to present additional testimony; this motion was denied.
+The first issue on appeal is whether the evidence adduced at the hearing was sufficient to support the trial judge’s finding that the writ of garnishment had not been served.
+At the hearing, defendant testified that he was not served with the writ of garnishment nor given a check for $1. He also testified that, on February 25, 1971, the alleged date of service of the writ, he had moved into a new office building. Defendant identified the process server in court because he had been served papers by him previously, but testified that in all his years in the construction business he had never failed to answer a writ. He also testified that he had had a conversation with the process server about seven or eight weeks prior to the hearing, at his office. He testified that the process server wanted to borrow $500 to go to Alabama, and had remarked that he would stay there for six or eight weeks and would not be able to appear at the hearing on the writ. Glover testified that he refused the loan request because it might be misinterpreted.
+Daniel Glover, son of the defendant, testified that he had met the process server at a meeting seven or eight weeks before the hearing, that the purpose of this meeting was to try to determine if service had actually taken place. He testified that the server had said that service was accomplished in a trailer and that a check had been given; that he was then asked to leave the room and that the server had told him that proof of service would be delivered to him at a later time; and that, in addition, he had been with his father most of the day and that his father was not served.
+The process server testified to the usual procedure in serving a writ, authenticated his signature on the proof of service, and that of the notarization; further, that he would never have completed the proof of service if the service of the writ had not been completed. In addition, testified the process server, he received a call from Glover’s attorney who indicated that he wanted to talk about the service. The process server testified that he took his lunch hour to see Glover’s attorney, but the attorney did not have time to see him. A few days later, the server received a call from Glover; he went to see Glover, and they discussed the service. The server told Glover that he believed the service had been performed on the first floor of the building, that he remembered giving a check, but had been unable to locate it for the hearing because an accountant had the books. He further told Glover that if he could get $500 he was going to Alabama for five or six weeks.
+In Schlussel v Ruhf, 249 Mich 647; 229 NW 514 (1930), a very similar fact situation was before our Supreme Court, which reversed a trial judge’s finding that service of process had not been made on the defendant. There, the defendant was an attorney who swore that he never received a summons. The process server testified that he had made service upon the defendant, that he had kept an accurate record of such service. The trial judge stated that he did not believe the defendant was the kind of man who would make a misstatement or neglect a summons. The Supreme Court acknowledged that the trial judge was in a superior position to pass on the credibility of the witnesses, but held that a careful review of the record required that it find that service had been had. The Court stated that the defendant did not sustain the burden of showing that he was not served.
+In Alpena National Bank v Hoey, 281 Mich 307; 274 NW 803 (1937), defendants claimed that they had not been served with a summons in a foreclosure suit. Trial was held some nine years after the alleged service and the process server could not remember the details of the particular service, but did testify as to his usual practice in serving papers. The Supreme Court stated:
+"The security of judicial proceedings demands that the showing to impeach an officer’s return of service of process shall be clear and convincing, Garey v Morley Brothers, 234 Mich 675; 209 NW 116 (1926), and with substantial corroboration of a defendant’s denial of service, August v Collins, 265 Mich 389; 251 NW 565 (1933).” Alpena National Bank v Hoey, supra, 312.
+The Court found that the defendant’s testimony was not convincing and that circumstances impeached it, stating:
+"Moreover, a mere recollection of family visits of nine years before without convincing corroboration would be a dangerous standard of proof sufficient to impeach an official return. Judicial proceedings would have little stability if the showing at bar were enough to impeach the return.”
+In August, supra, and Garey, supra, the Court emphasized that corroboration and convincing proof were necessary to impeach an officer’s return of service:
+"But even though a return of service may be contradicted, it is presumptively correct and can only be overcome by a clear and unequivocal showing; and in some States requires the testimony of more than one witness. It would work the greatest mischief if after a judgment is taken it could be set aside upon the slippery memory of the defendant, perhaps years thereafter, that he had not been served. * * *
+"[T]hat courts should proceed with caution in overturning the certificate of an oificer charged with the duty of serving process, and should require unequivocal, clear, and convincing evidence of the falsity of the returns attacked before doing so.” Garey v Morley Brothers; supra, 677-678.
+In the instant case, the consideration before us is whether the testimony below was substantially corroborated and whether it was clear and convincing.
+The testimony of Glover and his son, although substantially the same, did not preponderate over the server’s testimony and a corroborating affidavit that a writ had been served. The question arises of why Glover’s counsel filed a motion to set aside the default acknowledging service of the writ of garnishment and basing his request for relief instead on the lack of liability. No satisfactory explanation has been given to this conundrum.
+The standards set out in Alpena, supra, Garey, supra, and August, supra, have not been met in this case.
+The order of the lower court, setting aside the default judgment against George Glover, is set aside and reversed. Costs to plaintiff.
+All concurred.
