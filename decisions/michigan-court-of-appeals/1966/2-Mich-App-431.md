@@ -1,0 +1,54 @@
+---
+court: "Michigan Court of Appeals"
+docket: "239"
+decided: "1966-03-09"
+citations: ["2 Mich. App. 431"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Appeal from Saginaw; Huff (Eugene Snow), J.", "Lesinski, C. J., and Quinn, J., concurred."]
+parties: ["DePRIEST v. KOOIMAN."]
+source_url: "https://static.case.law/mich-app/2/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2032065
+cites_cases: ["344 Mich 428", "346 Mich 593", "362 Mich 31", "377 Mich 711", "379 Mich 44"]
+---
+
+# DePriest v. Kooiman
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+The plaintiff, Ruth Pay DePriest, was traveling south on M-83 in an automobile driven by her husband toward the intersection of this highway with M-46. Plaintiff’s driver gradually brought his vehicle to a stop at the highway intersection, in obedience to the stop sign accompanied by a flashing red light. At the same time, defendant Dirk Kooiman was driving his automobile west on M-46 at the speed of approximately 50 miles per hour. About 100 yards east of the M-83 intersection, with a yellow flasher facing in his direction, the defendant slowed his speed slightly and continued into the intersection at a speed somewhere between 35 and 45 miles per hour. Plaintiff’s driver then drove his automobile into the intersection from the stopped position at a speed of between 7 to 10 miles per hour, where it collided with the defendant’s vehicle, causing serious injuries to the plaintiff.
+Both highways were paved, two-lane roads, 22 feet in width. The testimony was conflicting as to whether or not the pavement was wet or dry. It is undisputed that the intersection was open, without obstructions to the view of either vehicle on approaching the intersection. The posted speed limit on M-46 was 65 miles per hour.
+Plaintiff brought this action against the defendant to recover damages for the injuries suffered in the collision, contending that the defendant was negligent in failing to reduce his speed when approaching the caution-light intersection, so as to have his car under control at all times, and in failing to take diversionary action or stop his vehicle to avoid striking the automobile in which plaintiff was riding. Defendant contended that the negligence of the plaintiff’s driver was the sole proximate cause of the collision. The jury returned a verdict of no cause for action upon which the court entered a judgment for the defendant. The sole basis for plaintiff’s appeal is alleged errors in the charge to the jury, the relevant portions of which are set forth as follows:
+“Now, I believe it is necessary that I read to you from some of the laws which I believe may be applicable in this particular case # * * .
+“and so, I shall read now from CLS 1961, § 257.614 (Stat Ann 1960 Rev § 9.2314), as follows:
+“ ‘Whenever flashing red or yellow signals are used, they shall require obedience by vehicular traffic as follows:
+“ T. Plashing red (stop signals). When a red lens is illuminated by rapid intermittent flashes, drivers of vehicles shall stop before entering the nearest crosswalk at an intersection or at a limit line when marked and the right to proceed shall be subject to the rules applicable after making a stop at a stop sign.
+“ ‘2. Flashing yellow (caution signal). When a yellow lens is illuminated with rapid, intermittent flashes, drivers of vehicles may proceed * * * through the intersection or past such signals only with caution.’ * * *
+“CLS 1961, § 257.627 (Stat Ann 1960 Rev §9-.2327), is as follows :
+“ ‘A. Any person driving a vehicle on a highway shall drive the same at a careful and prudent speed not greater than nor less than is reasonable and proper, having due regard to the traffic, surface, and width of the highway and of any other condition then existing and no person shall drive any vehicle upon any highway at a speed greater than will permit him to bring it to a stop within the assured clear distance ahead.’
+“Now, members of the jury, I will say that if a person violates a statute of this State, such as one of the statutes which I have just read to you, the mere violation of the statute is negligence in and of itself.
+“However, such violation of a statute must be the proximate cause of an injury in order to create liability on the part of the person who violates it.
+“I charge you that the evidence shows that the highway upon which the defendant Dirk Kooiman was traveling was a State trunkline highway and plaintiff’s driver was required by statute and by the flashing stop sign which then and there existed to stop before entering the highway and to yield the right-of-way to defendant Dirk Kooiman’s vehicle, which was then and there so close as to constitute an immediate hazard.
+“I charge you that the driver of plaintiff’s vehicle had a duty to yield the right-of-way to defendant Kooiman and to continue to yield the right-of-way until the highway was clear, and before attempting to cross.
+“I charge yon further as a matter of law that the driver of the vehicle in which plaintiff was a passenger was guilty of negligence in pulling out in front of the vehicle driven by Dirk Kooiman in failing to yield the right-of-way to the vehicle driven by Dirk Kooiman then and there on a State trunkline highway.
+“1 charge you that defendant Dirlc Kooiman as he approached the intersection where the accident occurred had a right to assume that plaintiff’s driver would obey the law and would come to a complete stop and would yield the right-of-way to defendant Dirlc Kooiman’s vehicle. (Emphasis supplied.)
+“However, the defendant Kooiman had a duty to exercise due care to make observations which a reasonably prudent man would make, and to exercise caution under the existing circumstances while proceeding through the intersection.
+“I charge you that if you find that the defendant Kooiman was driving his ear within the maximum speed limit as posted on the highway but yet was driving at a speed greater than was reasonable and proper, having due regard for the traffic, surface, and width of the highway, and the many other conditions established by the testimony in this case, then it would be your duty as jurors to find the defendant negligent for driving too fast, and in violation of the speed law which I have just read to you.
+“In this regard, I instruct you that the flashing-yellow traffic control device which was admittedly in operation for traffic travelling on M-46, as Mr. Kooiman was doing, would be one of the conditions which you must consider in determining whether or not Mr. Kooiman violated this basic speed law which I have just read to you.
+“I charge you that if you find that the defendant Dirk Kooiman failed to proceed only with caution into this intersection, such failure on his part would be a violation of the law.
+“It would be your duty then as jurors to find the defendant Kooiman negligent as a matter of fact and law in this case.
+“If you find that the defendant Dirk Kooiman was guilty of any negligence which was a proximate cause or which contributed to the accident, and the plaintiff’s injuries, then your verdict will be for the plaintiff for such damages as you find that she sustained as a direct result of the accident.
+“I charge you that there may be more than one proximate cause of an accident. Causation is not determined by finding which of two possible wrongdoers is most at fault. If either one is negligent to any degree, and such negligence was the proximate cause of the accident, then the negligence of both is considered a legal cause or proximate cause of the accident, although one may be guilty of greater fault or negligence than the other.
+“I charge you that you are not to put any blame or fault upon Mrs. DePriest for any negligent act which her husband as one of the drivers may have committed in this case. * * *
+“I charge you that if you find that the sole, proximate cause of the accident was the negligence of plaintiff’s husband, Lloyd DePriest, then the plaintiff may not recover in this accident, and you must return a verdict of no cause of action.” (Emphasis supplied.)
+Although the plaintiff objects only to the sole-cause instruction in the last paragraph quoted above because she admitted her driver’s negligence, and to the charge that the defendant could proceed through the intersection on the yellow flasher under the assumption that the plaintiff’s driver would obey the law, it is necessary to quote all of the above, in order to fairly present the substance of the trial court’s charge.
+Plaintiff’s contention that the trial court injected a false issue by instructing the jury to find for the defendant if the negligence of plaintiff’s driver was the sole cause of the accident can easily be answered. The jury had to be informed that it was possible under the facts for them to find that the negligence of the plaintiff’s driver was the only proximate cause of the collision. Such a statement is merely another way of stating that the jurors could find the defendant’s actions were not legally causative of the plaintiff’s injuries. Although this issue was not raised in Stewart v. Ames (1960), 362 Mich 31, 34, the Supreme Court held in that case a charge containing a sole-cause instruction to be a fair one.
+The plaintiff’s objection to the court’s right-of-way instructions to the jury is answered by the following :
+“Lacking notice otherwise, he [the driver] may assume that others using the highways will comply with the rules of the road and properly posted signs and he is not guilty of * * * negligence in acting upon such assumption. It should not, however, be assumed from the foregoing that he may proceed blindly upon the arterial [highway], secure in the supposition that he could do no wrong. He must remain alert to the hazards surrounding him and with which he is confronting others.” Krause v. Ryan (1955), 344 Mich 428, 432. Quoted in part with approval in Hicks v. Gillespie (1956), 346 Mich 593, 599.
+Although the Krause Case was concerned with the relative rights of a driver on an arterial highway as opposed to those of a driver on a subordinate road, this Court holds that the principle of the Krause Case applies to the instant case because the road on which the plaintiff was traveling was governed by a stop sign and flashing red light, while defendant’s roadway was not. The charge was proper, in view of the fact that the trial court clearly and correctly charged the jury on the duty of the defendant to respond to the flashing yellow caution light.
+Taken as a whole, this Court is satisfied that the charge to the jury was a satisfactory presentation of the law as it pertained to the rights of both parties.
+The judgment of the trial court is affirmed, and costs are awarded to the appellee.
+Lesinski, C. J., and Quinn, J., concurred.
