@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "116414"
+decided: "1990-10-02"
+citations: ["185 Mich. App. 642"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and Sullivan and Neff, JJ."]
+parties: ["In re ATTORNEY FEES OF JACOBS (PEOPLE v JOHNSON)"]
+source_url: "https://static.case.law/mich-app/185/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2334943
+cites_cases: ["176 Mich App 82", "18 ALR3d 1074", "196 NW2d 129", "387 Mich 228", "424 US 319", "433 Mich 869", "438 NW2d 878"]
+---
+
+# People v. Johnson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Attorney James Edward Jacobs appeals as of right, challenging a Clinton Circuit Court order reducing Jacobs’ requested fee for his services in a criminal appeal. The Michigan Appellate Assigned Counsel System (maacs) has filed an amicus curiae brief aligned with appellant’s brief in this matter. We affirm.
+Jacobs is one of thirty-four attorneys who have volunteered to accept appointments on felony appeals in Clinton County. In this case, Jacobs was appointed to represent defendant Ronald Allen Johnson on appeal following his jury conviction for breaking and entering and his guilty plea conviction for habitual offender, fourth offense. After this Court denied Johnson’s posttrial motions and this Court affirmed his convictions, Jacobs submitted to the trial court an maacs statement seeking total payment in the amount of $6,416.80. Accompanying the maacs statement was a letter from Jacobs essentially acknowledging that the amount requested was large and offering to provide documentation or file a formal petition if necessary. The day after the statement was submitted, the trial court ordered payment of only $3,612.37.
+The record on defendant’s appeal consisted of 784 transcript pages and a hearing on posttrial motions generated an additional fifty-three transcript pages. Appellant visited defendant in Marquette Prison, filed a total of forty pages of brief covering nine issues, and attended oral arguments in this Court. Thereafter, appellant filed a motion calling this Court’s attention to a new Supreme Court opinion. The fee awarded by the trial court was the largest fee approved in recent years in Clinton County for an appeal from a felony jury trial.
+On appeal to this Court, Jacobs and the maacs first claim that it was a denial of due process for the trial court to reduce Jacobs’ fees without giving him notice and an opportunity to be heard.
+MCR 6.425(F), formerly MCR 6.101(J), requires the trial court to appoint appellate counsel upon request by an indigent criminal defendant, and, under MCR 7.208(G), the trial court retains that authority during the pendency of an appeal unless this Court orders otherwise. Compensation for court-appointed counsel in Michigan is governed by MCL 775.16; MSA 28.1253, which in part provides:
+The attorney appointed by the court shall be entitled to receive from the county treasurer, on the certificate of the chief judge that the services have been rendered, the amount which the chief judge considers to be reasonable compensation for the services performed.
+In Mathews v Eldridge, 424 US 319, 333; 96 S Ct 893; 47 L Ed 2d 18 (1976), the United States Supreme Court stated: "The fundamental requirement of due process is the opportunity to be heard 'at a meaningful time and in a meaningful manner.’ ” (Citation omitted). Unlike other legal rules, due process is a flexible concept, and the amount of process due depends on the circumstances.
+[O]ur prior decisions indicate that identification of the specific dictates of due process generally requires consideration of three distinct factors: First, the private interest that will be affected by the oficial action; second, the risk of an erroneous deprivation of such interest through the procedures used, and the probable value, if any, of additional or substitute procedural safeguards; and finally, the Government’s interest, including the function involved and the fiscal and administrative burdens that the additional or substitute procedural requirement would entail. [Id. at 334-335 (citation omitted).]
+Because a vehicle existed for Jacobs to have a hearing if he wanted one, we find that there was no denial of due process. The private interest involved is financial, and the risk of an erroneous deprivation under the existing procedures is minimal. Appointed counsel may provide the trial court with any information desired in the attorney’s petition or maacs’ statement or at a hearing on the record. Finally, requiring a full-blown hearing in every indigent appeal case handled by appointed counsel would be enormously expensive and time consuming and, in most cases, totally unnecessary. Accordingly, we find that existing procedures were sufficient to satisfy the requirements of due process.
+By common practice under the court rules, a petition may be filed with the trial court for the payment of fees for appointed counsel. Attorney Jacobs was obviously aware of that practice as indicated by the cover letter accompanying his maacs statement. Moreover, nothing precluded him from seeking reconsideration of his petition before filing this appeal. Due process was thus available to him if he chose to pursue it, and no constitutional violation occurred.
+Attorney Jacobs and maacs also argue that the trial court’s reduction of Jacobs’ requested fee was an abuse of discretion that denied Jacobs reasonable compensation and infringes on indigent defendants’ rights to effective assistance of counsel and equal protection of the law. Specifically, the parties argue that inadequate fees paid to appointed counsel create a disincentive to provide effective assistance of counsel.
+MCL 775.16; MSA 28.1253 imposes an obligation on the lower court to determine and award reasonable compensation for court-appointed attorneys. The determination of the lower court as to reasonable compensation for services and expenses will not be disturbed on appeal absent an abuse of discretion. In re Attorney Fees of Mullkoff, 176 Mich App 82, 85; 438 NW2d 878 (1989), lv den 433 Mich 869 (1989).
+As noted above, attorney Jacobs failed to avail himself of the opportunity for a hearing at which he could have presented evidence or elicited the trial court’s reasons for reducing the requested fee. Without a record showing a clear abuse of discretion, we will not reverse.
+Although the trial court reviewed attorney Jacobs’ statement with dispatch, the revised hours and dollar amounts reflected in its order suggest the careful exercise of discretion. The court did not simply reduce the total fee requested by forty percent, as claimed by the parties, but adjusted the hours claimed line by line, even increasing the mileage rate from that claimed by counsel. The record now before this Court does not establish an abuse of discretion, Mullkoff, supra, and reversal is not required.
+Moreover, In re Attorney Fees of Meizlish, 387 Mich 228; 196 NW2d 129 (1972), is controlling on attorney Jacobs’ and maacs’ constitutional arguments. In Meizlish, our Supreme Court rejected claims that Wayne County’s court rule establishing a fixed fee schedule for assigned counsel violated the lawyers’ due process and equal protection rights and the indigent defendants’ rights to counsel, appeal, due process and equal protection:
+Appellant’s contention that he has been deprived of due process and equal protection under the United States Constitution and Michigan Constitution 1963 has been discussed and decided adversely to him by numerous courts in this country. . . .
+Likewise, the courts have uniformly rejected the contention that an attorney is denied the equal protection of laws when he defends an indigent without compensation. [Id. at 236-237.]
+Although eighteen years have passed since the Meizlish decision was issued, the constitutional issues remain the same, and this Court is bound by the Supreme Court’s decision. Accordingly, the trial court’s decision is affirmed.
+Affirmed.
