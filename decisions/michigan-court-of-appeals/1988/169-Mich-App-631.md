@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 104733, 104734"
+decided: "1988-06-20"
+citations: ["169 Mich. App. 631"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Weaver, P.J., and G. R. McDonald and W. Peterson, JJ."]
+parties: ["PEOPLE v MILDRED GIDDINGS PEOPLE v EDWARD GIDDINGS"]
+source_url: "https://static.case.law/mich-app/169/cases/0631-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2291865
+cites_cases: ["129 Mich App 691", "136 Mich App 168", "140 Cal Rptr 282", "159 Mich App 401", "161 Mich App 719", "208 NW2d 656", "341 NW2d 873", "356 NW2d 614", "406 NW2d 307", "411 NW2d 837", "42 Ala App 261", "47 Mich App 8", "547 SW2d 616", "61 ALR3d 1207", "72 Cal App 3d 603", "94 Nev 28"]
+---
+
+# People v. Mildred Giddings
+
+## Majority (G. R. McDonald, J.)
+
+G. R. McDonald, J.
+The people appeal by leave granted from the October 27, 1987, circuit court orders affirming the magistrate’s decision to bind defendants over on charges of involuntary manslaughter, MCL 750.321; MSA 28.553. We affirm.
+These cases arise out of the December 12, 1986, death of defendants’ eight-week-old child. The testimony presented at the preliminary examination indicates that the child died of starvation over a period of approximately one month. Although being fed some things, the child was apparently not fed sufficient amounts to sustain its life.
+On appeal the people claim error in the magistrate’s failure to bind defendants over on charges of second-degree murder, MCL 750.317; MSA 28.549. Defendants cross-appeal claiming insufficient evidence to support the bindovers on charges of manslaughter.
+It is the duty of the magistrate to bind a defendant over for trial if it appears at the conclusion of the preliminary examination that a crime has been committed and there is probable cause to believe that defendant committed it. People v Harris, 159 Mich App 401; 406 NW2d 307 (1987). Although proof beyond a reasonable doubt is not required, the prosecution must present evidence on each element of the crime charged or evidence from which these elements may be inferred. People v Hammond, 161 Mich App 719; 411 NW2d 837 (1987). A magistrate’s determination at the preliminary examination should not be disturbed by a reviewing court unless a clear abuse of discretion is apparent from the record. Harris, supra.
+The people argue that the magistrate improperly held that the starvation of a child could never rise to the level of second-degree murder absent the affirmative use of some type of weapon or instrumentality. We disagree with the people’s characterization of the magistrate’s ruling. Our review of the record indicates the magistrate’s concern that evidence beyond the fact of death by starvation be submitted to support the element of malice or intent required for a finding of second-degree murder. People v Vasquez, 129 Mich App 691; 341 NW2d 873 (1983). In affirming the magistrate’s decision the trial court stated: "Malice is a necessary element of second degree murder and by my reading of the cases leads me to the conclusion that in death by starvation cases, death by starvation standing alone is insufficient to support a finding to support an inference of intent as a matter of law that would support a bindover of second degree murder.”
+Although starvation or other omissions, when coupled with evidence of the appropriate intent, may rise to the level of second-degree murder, we agree that proof of death by starvation, standing alone, is insufficient to infer the element of malice necessary to sustain a bindover for second-degree murder. See People v Lynch, 47 Mich App 8; 208 NW2d 656 (1973); Bliley v State, 42 Ala App 261; 160 So 2d 507 (1964).
+In the instant case, the prosecution introduced more than sufficient evidence to prove death by starvation, however, the prosecution failed to introduce any evidence of the defendants’ state of mind when failing to adequately feed the child. Thus, due to the lack of proof admitted on defendants’ intent at the preliminary examination, we can not say that the magistrate committed a clear abuse of discretion in failing to bind defendants over on charges of second-degree murder and, therefore, affirm the trial court’s October 27 orders upholding the magistrate’s ruling.
+We also reject defendants’ cross-appeal claiming insufficient evidence to support the bindover on charges of involuntary manslaughter. To support a bindover on involuntary manslaughter based on defendants’ omission to perform a duty, the prosecutor was required to submit evidence indicating the existence of a legal duty, defendants’ knowledge of the duty, that defendants wilfully neglected or refused to perform said duty, that such failure was grossly negligent of human life, and that death was caused by defendants’ failure to perform their duty. A finding of gross negligence requires evidence that defendants had knowledge of the danger their failure to act would cause the child, the ability to avoid the harm, and that they failed to use care and diligence to prevent the danger when, to the ordinary mind, it must have been apparent that the result was likely to cause harm to the child. People v Sealy, 136 Mich App 168; 356 NW2d 614 (1984); CJI 16:4:08.
+We believe that sufficient evidence was presented or could be inferred from the evidence presented as to each of these elements. Defendants admitted to being the child’s parents and to living together in the same residence. Thus, the magistrate could infer that the child, whom the parents transported to the hospital, lived with the parents. Therefore an adequate connection was demonstrated between defendants and the child to find a legal duty and defendants’ ability to act on behalf of the child. The expert testimony indicated that the defendants’ failure to provide sufficient nourishment caused the child’s death. And lastly, although a closer question due to the evidence of defendants’ attempts to remedy the child’s condition, we believe the testimony describing the child’s emaciated appearance, as well as the doctors’ testimony that anyone seeing the child should have realized that the child’s condition was not normal, was sufficient to support an inference that defendants were grossly negligent.
+Affirmed
+People v Burden, 72 Cal App 3d 603; 140 Cal Rptr 282 (1977); Zessman v State, 94 Nev 28; 573 P2d 1174 (1978); Harrington v State, 547 SW2d 616 (Tex Crim App, 1977).
