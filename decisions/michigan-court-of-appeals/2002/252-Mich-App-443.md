@@ -1,0 +1,102 @@
+---
+court: "Michigan Court of Appeals"
+docket: "226873"
+decided: "2002-08-09"
+citations: ["252 Mich. App. 443"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Jansen, P.J., and Holbrook, Jr., and Griffin, JJ."]
+parties: ["CALEF v WEST"]
+source_url: "https://static.case.law/mich-app/252/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1035302
+cites_cases: ["102 NW 1025", "111 A2d 425", "139 Mich 608", "142 NW2d 1", "148 NW2d 544", "15 Ill 2d 436", "155 NE2d 545", "18 A2d 377", "180 A2d 486", "184 Misc 469", "189 NE2d 22", "189 NW 25", "192 NW2d 668", "197 NW2d 344", "205 NW 128", "219 Mich 423", "221 NW2d 424", "228 Md 477", "232 Mich 291", "240 Mich App 485", "241 Mich App 206", "258 NW2d 30", "263 NW2d 338", "328 Mich 584", "33 NJ Super 575", "35 Mich App 362", "357 Mich 386", "377 Mich 685", "39 Mich App 163", "40 Ill App 2d 195", "401 Mich 306", "44 NW2d 132", "443 Mich 240", "458 Mich 265", "505 NW2d 519", "54 Mich App 641", "580 NW2d 884", "6 Mich App 180", "615 NW2d 759", "618 NW2d 1", "80 Mich App 248", "91 NH 265", "98 NW2d 571"]
+---
+
+# Calef v. West
+
+## Majority (Griffin, J.)
+
+Griffin, J.
+Plaintiff appeals as of right orders of the circuit court granting summary disposition in favor of defendants, denying plaintiffs motion for leave to amend his complaint, and denying plaintiff’s motion for reconsideration. We reverse and remand for further proceedings. In doing so, we hold that an exculpatory clause in a residential lease agreement that purports to negate a landlord’s duty to warn of latent defects existing on the premises at the inception of the lease violates the Truth in Renting Act, MCL 554.631 et seq., and is therefore unenforceable.
+i
+On January 7, 1999, plaintiff leased from defendants a house and premises located at 1518 Indiana Street in the city of Flint. Seven weeks later on February 25, 1999, plaintiff allegedly tripped and fell when he stepped into a snow-covered hole located in the front yard of the leased premises.
+Plaintiffs original complaint alleged:
+6. That the owner of the premises was Defendant David West.
+7. That the landlord and/or managing entity of the premises was Defendant David West and/or Oakwood Realty, Inc.
+8. That the subject hole had been created by the removal of a fence post in the lawn and had not been filled in; and further that the subject hole on the date of the fall was covered by snow and therefore not visible to individuals walking on the premises and this hole constituted a dangerous condition.
+9. That the defendants created the dangerous condition and/or knew or should have known of the dangerous condition prior to Plaintiff’s fall.
+10. Defendants, David West and/or Oakwood Realty, Inc., had a duty and obligation to use due care with regard to the leased premises and to keep the leased premises in a reasonable and habitable condition and fit for its intended purpose.
+11. That the Defendants breached the above described duty by creating and/or allowing a dangerous condition to exist on their premíese [sic] in the form of a hole created by the removal of a fence post which was foreseeably not apparent to the pedestrian traffic when it would be covered by snow and this breach of duty constituted negligence on the Defendants behalfs [sic].
+12. That due to the negligence of the Defendants, Plaintiff Robert Calef sustained injuries including but not limited to the following:
+a. A fractured humerus;
+b. Fractured ribs;
+c. Thoracic compression fracture;
+d. Nerve damage to the right shoulder and arm;
+e. A broken bridge and broken partial plate;
+f. Injuries to his elbow, wrist, knee and lower back as well as resulting renal insufficiencies, bowel impaction and dehydration.
+In his motion to amend, plaintiff sought leave to file an amended complaint alleging the theory that defendants breached a duty to warn of the dangerous latent condition.
+In the lower court, defendants moved for summary disposition pursuant to MCR 2.116(C)(10) based on the exculpatory provision of the parties’ lease agreement. Specifically, the lease at issue provided in pertinent part:
+Landlord, Owners of the property, or their agents, shall not be liable for any damage or injury to the Tenant, or to any other person, or for any property, occurring on the premises, or any part thereof, or any common areas, thereof Tenant agrees to hold Landlord, Owner and their agents harmless from any and a! [sic] claims for damages. Tenant is encouraged to obtain and keep in force, during the term of this agreement, sufficient insurance coverage, to protect the tenant, and all other parties, from the above. [Emphasis added.]
+The lease also expressly stated that “[t]he term of this agreement shall be for 365 days beginning on 1/7/99.” Furthermore, the agreement specified that plaintiff was responsible for maintaining the premises in a “clean and healthy” manner.
+In granting summary disposition in favor of defendants, the lower court held that the exculpatory clause was lawful pursuant to MCL 554.139(2) and absolved defendants of all liability for any damages or injuries occurring on the leased premises. The circuit court also denied plaintiff’s motion to amend the complaint on the basis that such an amendment would be futile.
+n
+In his motion for reconsideration regarding the lower court’s denial of his motion to amend, plaintiff argued that the trial court’s ruling was contrary to the Truth in Renting Act, MCL 554.631 et seq. In particular, plaintiff asserted that the exculpatory clause of the parties’ lease violated MCL 554.633(l)(e), which provides in part:
+(1) A rental agreement shall not include a provision that does 1 or more of the following:
+(e) Exculpates the lessor from liability for the lessor’s failure to perform, or negligent performance of, a duty imposed by law.
+Defendants argue, and the lower court agreed, that the present case was governed by an arguably contradictory statute, MCL 554.139, which states:
+(1) In every lease or license of residential premises, the lessor or licensor covenants:
+(a) That the premises and all common areas are fit for the use intended by the parties.
+(b) To keep the premises in reasonable repair during the term of the lease or license, and to comply with the applicable health and safety laws of the state and of the local unit of government where the premises are located, except when the disrepair or violation of the applicable health or safety laws has been caused by the tenants willful or irresponsible conduct or lack of conduct.
+(2) The parties to the lease or license may modify the obligations imposed by this section where the lease or license has a current term of at least 1 year.
+(3) The provisions of this section shall be liberally construed, and the privilege of a prospective lessee or licensee to inspect the premises before concluding a lease or license shall not defeat his right to have the benefit of the covenants established herein. [Emphasis added.]
+In the present case, we are called on to reconcile the two statutes: MCL 554.633 (the Truth in Renting Act, MCL 554.631 et seq., effective July 1, 1979) and MCL 554.139 (effective October 1, 1968). A trial court’s ruling on a motion for summary disposition is reviewed de novo. Knauff v Oscoda Co Drain Comm’r, 240 Mich App 485, 487; 618 NW2d 1 (2000). In addition, statutory interpretation is a question of law, which is considered de novo on appeal. People v Webb, 458 Mich 265, 274; 580 NW2d 884 (1998). Furthermore, the Legislature is presumed to be aware of laws already in existence and to have considered the effect of the more recent laws on existing laws. Walen v Dep’t of Corrections, 443 Mich 240, 248; 505 NW2d 519 (1993).
+m
+In Mobil Oil Corp v Thorn, 401 Mich 306, 311-312; 258 NW2d 30 (1977), our Supreme Court adopted 2 Restatement Torts, 2d, § 357 and expressly overruled the prior limitations of landlord liability set forth in Kuyk v Green, 219 Mich 423; 189 NW 25 (1922), Awad v McColgan, 357 Mich 386; 98 NW2d 571 (1959), and Huey v Barton, 328 Mich 584; 44 NW2d 132 (1950). However, as acknowledged in Wallington v Carry, 80 Mich App 248, 249-250; 263 NW2d 338 (1977), even under the traditional view of tort liability of landlords, an exception was recognized regarding latent defects existing on the premises at the time possession was transferred. The Wallington Court explained:
+The general rule in Michigan, as the trial court correctly points out, is that in the absence of a statute requiring that a dwelling be kept in good repair by the owner or a special agreement under which an owner retains control of a dwelling occupied by a tenant, a landlord has no o-ity to inspect or repair rented premises. Lipsitz v Schechter, 377 Mich 685; 142 NW2d 1 (1966); Hockenhull v Cutler Hubble, Inc, 39 Mich App 163, 166-167; 197 NW2d 344 (1972).
+There are, however, exceptions to this rule.
+“One exception developed by the common law is that the lessor, like a vendor, is under the obligation to disclose to the lessee concealed dangerous conditions existing when possession is transferred, of which he has knowledge. There is ‘something like fraud’ in a failure to give warning of known hidden danger to one who enters upon the assumption that it does not exist; and the lessor will be liable to the lessee or to members of his family for his nondisclosure ....
+“It is not necessary that the lessor shall believe the condition to be unsafe, or even that he have definite knowledge of its existence, before he is under any duty in regard to it. It is enough that he is informed of facts from which a reasonable man would conclude that there is danger; ....
+“There is of course, no duty to disclose conditions which are known to the tenant, or which are so open and obvious that he cannot reasonably be expected to fail to discover them when he takes possession, . . . .” Prosser, Torts (4th ed), § 63, pp 401-402. See also 49 Am Jur 2d, Landlord and Tenant, §§ 788, 789, pp 736-740.
+The hidden dangerous condition exception is recognized in Michigan. In Annis v Britton, 232 Mich 291; 205 NW 128 (1925), the Court found that the landlord had no common law duty to repair the premises, but it noted that the landlord “did not induce the plaintiff to rent the premises by fraudulent representations or by any concealment of the defective condition complained of" Annis v Britton, supra at 294.
+In Rhoades v Seidel, 139 Mich 608; 102 NW 1025 (1905), the Court ruled:
+“The liability of a landlord to a tenant for injuries resulting from defects existing at the time premises are leased extends only to defects which he knows or which he should know of, and which are not open to the observation of the tenant.”
+Rhoades was relied upon by this Court in Heward v Borieo, 35 Mich App 362; 192 NW2d 668 (1971), in which plaintiff claimed that she suffered injuries as a result of a hidden defect in certain leased premises. Summary judgment for defendant was reversed. The Court held:
+“The questions of defendant’s knowledge of the defects relied on by plaintiffs, whether she should have known of these defects and whether the defects were open to observation by Lucy M. Heward were questions of fact. Summary judgment was improper.”
+A lessor, therefore, is liable to a tenant for injuries resulting from defects existing at the time premises are leased where: (1) the lessor knew or should have known of the existence of the defects; (2) the lessor realized or should have realized the risk of physical injury arising from the defect; (3) the lessor conceals or fails to disclose the existence of the condition to the lessee; and (4) the defect is not observable to the lessee. See, Restatement of Torts (2d), § 358 (1965). [Id. at 249-251 (emphasis in original).]
+See also Cameron, Michigan Real Property Law (2d ed), § 20.42:
+Even if the landlord has given up complete control, use, and possession of leased premises, he or she is liable for injuries that occur there because of a latent defect. . . .
+... A landlord’s duty in relation to latent defects requires the landlord to warn the tenant, not to repair. The duty extends only to defects that existed at the time the lease was executed.
+In the present case, defendants argue that because their statutory duty to keep the premises in reasonable repair, MCL 554.139(1), was modified in the parties’ lease as permitted by MCL 554.139(2), defendants owed no common-law duty to warn plaintiff regarding latent defects on the premises. We disagree. While MCL 554.139 allows a landlord to modify its statutory obligation to repair, the statute is silent and inapplicable regarding the landlord’s duty to warn its tenants about latent defects. Further, the second statute at issue, MCL 554.633, provides “[a] rental agreement shall not include a provision that . . . (e) [e]xculpates the lessor from liability for the lessor’s failure to perform, or negligent performance of, a duty imposed by law.”
+Before the enactment of the Truth in Renting Act, our Court in Feldman v Stein Bldg & Lumber Co, 6 Mich App 180; 148 NW2d 544 (1967), held that exculpatory clauses in residential leasehold agreements are void, as against public policy, to the extent that they purport to immunize the landlord from tort liability for the breach of a statutory duty. In surveying the laws of other jurisdictions, this Court stated:
+While affirming the principle of freedom of contract, we note the well-settled rule that where freedom of contract and declared public policy are in conflict, the former necessarily must yield to the latter.
+The question of the validity (or invalidity) of exculpatory provisions has fathered progeny in the form of a prolificacy of legal writing—case law, annotations and, ultimately, statutes have been its offspring.
+In four states, Massachusetts, Illinois, Maryland and New York, specific legislation has been enacted which declares such agreements void as against public policy. The New York statute of 1937 (Section 234 of the real property law) as cited in Gordon v McAfee (1945), 184 Misc 469 at 470, 471 (54 NY Supp 2d 443 at 445), is an example thereof:
+“ ‘Every covenant, agreement or understanding in or in connection with or collateral to any lease of real property exempting the lessor from liability for damages for injuries to person . . . caused by or resulting from the negligence of the lessor, his agents, servants or employees, in the operation or maintenance of the demised premises . . . shall be deemed to be void as against public policy and wholly unenforceable.’ ”
+It is relevant to inquire into the background of such legislation. Prior to its passage in New York, several decisions held that a lease clause exempting the landlord from his statutory duty would not enable said landlord to escape liability. However, prior case law had held such clauses valid
+A similar situation was recounted by the Illinois court in Koehler v Southmoor Bank & Trust Co (1963), 40 Ill App 2d 195, 198, 199 (189 NE2d 22, 24):
+“The recent history of the exculpatory clause is well known to the bench and bar. The clause was held valid by the Supreme Court of Illinois in 1957 in O’Callaghan v Waller & Beckwith Realty Co, 15 Ill 2d 436 (155 NE2d 545) [1958]. Following that decision, the legislature enacted a law which invalidated such clauses in leases. HI Rev Stat, ch 80, § 15a (1959).”
+In Eastern Avenue Corp v Hughes (1962), 228 Md 477, 480 (180 A2d 486, 488), the Maryland court of appeals, in upholding an exculpatory clause, Usted the jurisdictions which found such exculpatory clauses vaUd, and foHowed this Usting with the citation of the New York, Massachusetts and Illinois cases which had upheld such provisions as not against pubhc poUcy, and then concluded with the statement:
+“In the latter states the legislatures have subsequently enacted statutes invaUdating some types of exculpatory clauses.”
+In 1964, the Maryland legislature took sirmlar action.
+New Hampshire, without mention of a specific housing law and without a statute declaring such clauses void as against pubHc poUcy, did so by court decision in Papakalos v Shaka (1941), 91 NH 265, 268 (18 A2d 377, 379), saying:
+“One may not by contract reUeve himself from the consequences of the future nonperformance of his common-law duty to exercise ordinary care.”
+In Kuzmiak v Brookchester, Inc (1955), 33 NJ Super 575 (111 A2d 425), the court set forth a comprehensive analysis of the law in the area. The court found sufficient State interest in the regulation and supervision of apartment buildings through the board of tenement housing supervision; it discussed the landlord’s common-law duty for maintenance of premises under his control; and it concluded that since under present conditions the comparative bargaining positions of landlord and tenant are not equal, such exculpatory clauses are contrary to public policy.
+We cite 6A Corbin, Contracts, § 1515, “Power to Waive or Bargain Away Rights and Defenses Conferred by Statute” p 728, wherein that eminent authority said:
+“It is obvious that when a right, a privilege, or a defense is conferred upon an individual by the law, it is conferred upon him because it is believed to be in the public interest to do so. In many such cases it is believed to be contrary to the public interest to permit him to waive or to bargain away the right, privilege, or defense; and when it is so believed the attempted waiver or bargain is inoperative.”
+In keeping with this philosophy, we hold that the attempted waiver or bargain here is inoperative as against public policy and therefore void. [Id. at 184-186 (emphasis in original).]
+See also Browder, The taming of a duty; The tort liability of landlords, 81 Mich L R 99, 141-144 (1982).
+We agree with the Feldman holding and hereby apply its rationale to the present exculpatory clause that purports to immunize defendants from tort liability for the alleged breach of their common-law duty.
+Here, defendants’ duty to plaintiff arises from our common law. Because defendants’ duty to warn of latent defects is distinct from defendants’ obligation to make repairs, the exculpatory clause at issue, which purports to negate defendants’ common-law duty, violates MCL 554.633 and therefore is unenforceable. For these reasons, the lower court committed error requiring reversal in granting summary disposition in favor of defendants and abused its discretion in ruling that plaintiff’s amended complaint would be futile. Doyle v Hutzel Hosp, 241 Mich App 206; 615 NW2d 759 (2000). In view of our disposition, it is unnecessary for us to address plaintiff’s additional issues raised on appeal.
+Reversed and remanded for further proceedings consistent with this opinion. We do not retain jurisdiction.
+Paragraph nine of the parties’ lease provided:
+It is the responsibility of the tenants to maintain the premises in a clean and healthy manner. If junk is allowed to accumulate a Termination of Tenancy will be filed. Articles which are noisy, dangerous or illegal are forbidden and are also grounds for termination. If guests are at your home it is your responsibility to see that they do not disturb neighbors or damage the property.
+a) If keys to the home are lost or stolen it is the tenant’s responsibility to purchase and install new locks and to provide the landlord with a key.
+b) If windows and or doors are broken or cracked it is the tenant’s responsibility to replace and or repair them.
+c) Electrical fuses, batteries for smoke detectors and minor plumbing parts are to be purchased by the tenant.
+e) [sic] If there is a sewage problem and the landlord finds that the cause is from foreign objects (such as eating utensils, grease, wigs, hairspray caps, toys, etc . ..) then the cost for that repair will be charged to the tenant. Landlord will cover that cost before any other rent monies are credited.
+f) Landlord is to be notified immediately of any major repairs that may need attention.
+g) Landlord will not provide extermination services after the first 10 days of occupancy.
+We express no opinion regarding whether the Feldman panel correctly construed MCL 125.474 of the Michigan Housing Law. Cf. Gossman v Lambrecht, 54 Mich App 641; 221 NW2d 424 (1974).
+For example, the lease at issue shifts responsibility to the tenant to replace or repair windows and doors that become cracked or broken.
