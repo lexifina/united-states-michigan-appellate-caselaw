@@ -1,0 +1,45 @@
+---
+court: "Michigan Court of Appeals"
+docket: "210653"
+decided: "1998-08-21"
+citations: ["231 Mich. App. 335"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Neff, P.J., and Bandstra and Hoekstra, JJ."]
+parties: ["PEOPLE v MITCHELL (ON REMAND)"]
+source_url: "https://static.case.law/mich-app/231/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 795516
+cites_cases: ["194 NW2d 709", "204 Mich App 333", "211 NW2d 193", "213 NW2d 97", "223 Mich App 395", "386 Mich 551", "390 Mich 104", "390 Mich 410", "435 Mich 630", "445 Mich 535", "453 Mich 203", "453 Mich 269", "454 Mich 390", "456 Mich 944", "457 Mich 170", "461 NW2d 1", "514 NW2d 543", "520 NW2d 123", "551 NW2d 389", "551 NW2d 891", "563 NW2d 31", "566 NW2d 312", "577 NW2d 422"]
+---
+
+# People v. Mitchell
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This case is before us for the second time. In the original opinion, the panel held that reversal was required because the trial court refused defendant’s request for a limiting instruction regarding defendant’s testimony of his involvement in uncharged offenses. People v Mitchell, 223 Mich App 395; 566 NW2d 312 (1997). The prosecution applied for leave to appeal, and our Supreme Court, in lieu of granting leave, remanded to this Court “for reconsideration in light of People v Mateo, 453 Mich 203 [551 NW2d 891] (1996), and People v Grant, 445 Mich 535 [520 NW2d 123] (1994). People v Mitchell, 456 Mich 944 (1998). On remand, we affirm defendant’s conviction and sentence.
+i
+The underlying facts were set out in our previous opinion:
+This cases [sic] arises from a robbery that occurred at a gas station/convenience store located in Muskegon, and was captured on tape by a surveillance camera. Defendant was accused of threatening the cashier and taking money from the register. Defendant’s theory of the case was that the cashier gave him the money as payment for a drug delivery that had taken place earlier. Defendant testified at trial that he had sold marijuana to the cashier on a number of previous occasions and that ordinarily the marijuana was given to the cashier by defendant’s associates and defendant collected the money for the drugs from the cashier at a later time. Defendant claimed that this occasion was no different; defendant was simply collecting money owed to him for marijuana previously delivered to the cashier. [Mitchell, supra at 396-397.]
+n
+Because the Supreme Court declined to address the propriety of the trial court’s refusal to give a limiting instruction, that issue is controlled by the previous decision. We are limited to a determination whether the error found in the previous decision requires reversal of defendant’s conviction.
+It was long held that two inquiries were pertinent to the issue whether a trial court error was harmless: First, whether the error was so offensive to the maintenance of a sound judicial process that it can never be regarded as harmless; and second, if not so basic, whether the reviewing court could conclude that the error was harmless beyond a reasonable doubt. People v Robinson, 386 Mich 551, 562-563; 194 NW2d 709 (1972). However, the determination of harmless error is now governed by statute, by court rule, and by recent pronouncements by our Supreme Court.
+The Michigan Court Rules include the following rule regarding harmless error:
+An error in the admission or the exclusion of evidence, an error in a ruling or order, or an error or defect in anything done or omitted by the court or by the parties is not ground for granting a new trial, for setting aside a verdict, or for vacating, modifying, or otherwise disturbing a judgment or order, unless refusal to take this action appears to the court inconsistent with substantial justice. [MCR 2.613(A).]
+Similarly, MCL 769.26; MSA 28.1096 provides:
+No judgment or verdict shall be set aside or reversed or a new trial be granted by any court of this state in any criminal case, on the ground of misdirection of the jury, or the improper admission or rejection of evidence, or for error as to any matter of pleading or procedure, unless in the opinion of the court, after an examination of the entire cause, it shall affirmatively appear that the error complained of has, resulted in a miscarriage of justice.
+The Supreme Court has held that any rule of “automatic reversal” would directly conflict with these provisions. Grant, supra at 543.
+Recent opinions of our Supreme Court have further retreated from the long-held standard for determining harmless error and have strengthened the presumption that criminal convictions be affirmed on appeal. For example, in People v Mateo, supra at 221, the Court disposed of the harmless-beyond-a-reasonable-doubt standard for nonconstitutional errors. Therefore, only in cases involving constitutional error does a criminal defendant continue to enjoy the protection of the harmless-beyond-a-reasonable-doubt standard.
+Recently, our Supreme Court adopted the “highly probable” standard for nonconstitutional errors. People v Gearns, 457 Mich 170, 205 (Brickley, J.), 207 (CAVANAGH, J.); 577 NW2d 422 (1998). Specifically, the Court held that an error is harmless where it is “highly probable that the errors did not contribute to the verdict.” Id. at 205. Justice Brickley, joined by Chief Justice Mallett, further stated that the burden of persuasion remains on the prosecution to establish the harmless nature of the error. Id.
+The standard of review for assessing whether a particular error is harmless is now generally couched in terms of the effect of the error in light of the weight and strength of the “untainted evidence.” Mateo, supra at 215. The standard applies, however, to virtually any nonconstitutional error, whether or not it involves an evidentiary issue. See, e.g., People v Dumas, 454 Mich 390, 408; 563 NW2d 31 (1997) (instructional error); People v Mezy, 453 Mich 269, 285; 551 NW2d 389 (1996) (prosecutorial misconduct). Accordingly, we must evaluate whether, in light of the untainted evidence presented at trial, it is highly probable that the trial court’s erroneous refusal to give defendant’s requested limiting instruction did not contribute to the verdict. Under this rubric, and in light of the strong evidence of defendant’s guilt, including the videotape of the incident, we conclude that the instructional error in the present case was harmless.
+in
+We now turn to defendant’s remaining arguments. We addressed defendant’s challenges to various acts by the prosecutor in our previous opinion. Mitchell, supra at 399-400. These matters are thus governed by the law of the case doctrine, which bars reconsideration of an issue by an equal or subordinate court during subsequent proceedings in the same case. People v Herrera (On Remand), 204 Mich App 333, 340; 514 NW2d 543 (1994). Consequently, defendant may not resurrect these issues.
+rv
+Defendant’s final argument is that his twelve- to thirty-year sentence as an habitual offender violates the principle of proportionality. We disagree.
+The complainant testified that defendant threatened to kill her if she did not give him the money in the cash register. At the time he committed the instant offense, defendant was on parole for armed robbery, and defendant previously had been convicted of assault with a dangerous weapon. Taking these and other circumstances into consideration, we are satisfied that defendant’s twelve- to thirty-year sentence is proportionate to the offense and the offender and does not evidence an abuse of discretion. People v Milbourn, 435 Mich 630; 461 NW2d 1 (1990).
+Affirmed.
+Defendant also applied for leave to appeal; however, the Supreme Court denied leave.
+Judge Hoekstra dissented, stating that because the defendant introduced evidence of his own prior bad acts he was not entitled to the same limiting instruction to which he would have been entitled on request had the evidence been introduced by the prosecutor pursuant to MRE 404(b). Consequently, Judge Hoekstra previously did not reach the harmless-error issue. People v Mitchell, 223 Mich App 395, 401-402; 566 NW2d 312 (1997) (Hoekstra, J., dissenting). The order of remand limits our review as specified in this opinion and, accordingly, we do not here consider anew the issue raised by Judge Hoekstra’s dissent. (We note that in the remand order two justices voted to reverse our previous opinion for the reasons stated in Judge Hoekstra’s dissenting opinion.) Further, Judge Bandstra did not sit on the panel that previously considered this matter but has now been substituted for visiting Judge G. D. Lostracco pursuant to our policy. Accordingly, Judge Bandstra has had no opportunity to consider the issue raised by Judge Hoekstra’s dissent.
+In our original opinion, we relied on People v DerMartzex, 390 Mich 410, 416-417; 213 NW2d 97 (1973), and People v Chism, 390 Mich 104, 119-120; 211 NW2d 193 (1973), and answered this question in the affirmative.
