@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "17045"
+decided: "1973-11-29"
+citations: ["50 Mich. App. 682"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bashara, P. J., and McGregor and Bronson, JJ.", "All concurred."]
+parties: ["PEOPLE v BACHMAN"]
+source_url: "https://static.case.law/mich-app/50/cases/0682-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2102897
+cites_cases: ["11 Mich App 69", "149 NW2d 468", "160 NW2d 629", "171 NW2d 801", "172 NW2d 473", "179 NW2d 22", "18 Mich App 538", "180 NW2d 333", "182 NW2d 638", "184 NW2d 917", "189 NW2d 816", "19 Mich App 95", "197 NW2d 831", "201 NW2d 341", "211 NW2d 59", "212 NW2d 22", "23 Mich App 510", "24 Mich App 539", "26 Mich App 347", "33 Mich App 297", "384 Mich 584", "39 Mich App 607", "42 Mich App 121", "48 Mich App 634", "49 Mich App 269", "6 Mich App 474"]
+---
+
+# People v. Bachman
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+On April 17, 1972, defendant escaped from the Wing Farm State Prison, where he had been serving a three- to ten-year sentence for breaking and entering. Defendant was later arrested and on October 5, 1972, was notified by Warden Egeler that 2 months and 17 days of his earned good time had been forfeited because of his escape.
+On October 25, 1972, defendant was arraigned in Jackson County Circuit Court on the charge of escape from prison and pled guilty to that charge on December 14, 1972; on January 9, 1973, the defendant was sentenced to a one-year consecutive sentence. The trial judge made no grant of credit for the time defendant had been incarcerated between his arraignment and sentencing on the prison escape charge since during that period of time defendant was serving his prior sentence for breaking and entering.
+On appeal, defendant first contends that the administrative forfeiture of earned good time, combined with a criminal conviction and sentence for the same act of escape, violates the double jeopardy provision of the Fifth Amendment.
+Michigan law is clear on this issue. The courts of this state have consistently held that administrative forfeiture of good time combined with a conviction and sentence in a criminal proceeding in a court of justice is not violative of the Fifth Amendment prohibition against double jeopardy. People v Alexander, 39 Mich App 607; 197 NW2d 831 (1972); People v Lewis, 42 Mich App 121; 201 NW2d 341 (1972).
+The position of this Court, that double jeopardy is not violated by a combination of administrative forfeiture and criminal conviction for the act of escape, is based upon two elements:
+(1) Double jeopardy requires an identity of offenses. The single act of escape constitutes both a statutory criminal offense and an offense against the rules of the prison evoking the "good time” forfeiture provisions of MCLA 800.33; MSA 28.1403. Thus, no "identity of offenses” exists. People v Wilson, 6 Mich App 474; 149 NW2d 468 (1967); People v Alexander, supra.
+(2) "Jeopardy”, within the meaning of the constitutional double jeopardy provision, requires criminal prosecution in a court of justice. An administrative proceeding resulting in the forfeiture of good time is not a "criminal prosecution in a court of justice”. People v Shastal, 26 Mich App 347; 182 NW2d 638 (1970).
+Defendant has failed to convince this Court that abandonment of the case law cited above is either necessary or proper. Accordingly, defendant’s first contention is without substantial merit.
+The second and more difficult issue is whether the trial court erred in failing to grant defendant credit against his escape sentence for the time he spent incarcerated between his arraignment and sentencing.
+Previous attempts to determine the applicability of the credit-granting statute in cases involving both concurrent and consecutive sentences have engendered a division of opinion in this Court. Thus, our task is not merely to locate and correctly apply existing precedent, but, rather, to choose which of two conflicting views to adopt. The ability and persuasiveness with which the opposing positions have been articulated renders that task even more difficult.
+At the center of this precedential conflict is MCLA 769.11b; MSA 28.1083(2), which provides:
+"Whenever any person is hereafter convicted of any crime within this state and has served any time in jail prior to sentencing because of being denied or unable to furnish bond for the offense of which he is convicted, the trial court in imposing sentence shall specifically grant credit against the sentence for such time served in jail prior to sentencing.”
+The specific question before us is whether the trial court erred in denying the defendant the benefit of the foregoing statute in imposing sentence for the crime of prison escape. For the following reason we hold that he did not so err.
+The sentence for prison escape is mandatorily consecutive. MCLA 750.193; MSA 28.390 provides, in pertinent part, that prison escape "shall be * * * punishable by further imprisonment * * * to be served after the "termination, pursuant to law, of any sentence or sentences then being served”. The conflict between the credit-granting statute and the mandatory consecutive sentence statute is obvious. In the former, the Legislature expressed its intent that credit be granted for time spent in jail for "any crime” between arraignment and sentencing. In the latter, the Legislature unambiguously directed that the sentence for prison escape commence at the completion of any former sentences "then being served”. Thus, in a case such as this, where the defendant was serving a valid, prior sentence between the time of arraignment and sentencing on a charge of prison escape, to grant him credit against the sentence imposed for the time between arraignment and sentencing is to contravene the Legislative directive that the prison escape sentence commence only at the expiration of the prior sentences. We are faced, therefore, with a conflict between a general statute granting credit and a more specific statute which, in effect, denies such credit. In such circumstances, it is a fundamental rule of statutory construction that the specific statute takes precedence over the general and is viewed as an exception thereto. People v Seeley, 24 Mich App 539; 180 NW2d 333 (1970), aff'd 384 Mich 584; 184 NW2d 917 (1971). In Seeley, this Court quoted with approval from 22 Callaghan’s Michigan Civil Jurisprudence, Statutes, § 132, pp 494-495:
+"[W]here there are two acts or provisions, one of which is special and particular, and certainly includes the matter in question, and the other is general, and would, if standing alone, include the same matter and thus conflict with the special act or provision, the special act must be taken as intended to constitute an exception to the general act or provision, * * * as the legislature is not to be presumed to have intended conflict.”
+We conclude that the mandatory consecutive sentence statute is an exception to the general credit-granting statute and hence the trial court did not err in denying defendant credit for the time he was incarcerated between arraignment and sentencing on the charge of prison escape.
+Affirmed.
+All concurred.
+Pursuant to MCLA 800.33; MSA 28.1403.
+In the following cases, all involving the crime of prison escape, this Court denied credit for the time between arraignment and sentencing to the extent such time was being served pursuant to a prior conviction: People v Pruitt, 23 Mich App 510; 179 NW2d 22 (1970); People v Brooks, 33 Mich App 297; 189 NW2d 816 (1971); People v Holibaugh (Docket No. 13907, decided April 27, 1973 [unreported]); People v Passalacqua, 48 Mich App 634; 211 NW2d 59 (1973).
+However, in People v Lewis, 42 Mich App 121; 201 NW2d 341 (1972) (which involved a conviction for carrying a concealed weapon while in prison), and People v Patterson, 49 Mich App 269; 212 NW2d 22 (1973) (felonious assault while in prison), this Court granted credit. Similar holdings can be found in People v Havey, 11 Mich App 69; 160 NW2d 629 (1968); People v Chattaway, 18 Mich App 538; 171 NW2d 801 (1969); People v Hall, 19 Mich App 95; 172 NW2d 473 (1969).
+Thus, prison escape is arguably distinguishable from cases involving other crimes committed while in prison since, in the latter situation, the sentence is discretionarity consecutive, MCLA 768.7a; MSA 28.1030(1) provides that the sentence for a crime committed in prison "may, at the discretion of the court * * * commence forthwith or at the expiration of the term or terms of sentence which such person is serving *' * * ”. (Emphasis added.)
