@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9051"
+decided: "1971-05-19"
+citations: ["33 Mich. App. 490"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhoe, P. J., and Fitzgerald and Quinn, JJ.", "All concurred."]
+parties: ["BRUNSWICK CORPORATION v. STARLITE LANES, INC."]
+source_url: "https://static.case.law/mich-app/33/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2092364
+cites_cases: ["424 F 2d 100"]
+---
+
+# Brunswick Corp. v. Starlite Lanes, Inc.
+
+## Majority (Quinn, J.)
+
+Quinn, J.
+The individual defendants appeal from money judgments entered against them February 2, 1970.
+On or about August 14,1964, the corporate defendant entered into a conditional sales contract with plaintiff for the purchase of 12 bowling lanes and incidental equipment. The same day, the corporate defendant executed and delivered its promissory note for the purchase price and finance charges. Prior to August 14, 1964, each individual defendant executed a guaranty for one-third of the corporate defendant’s indebtedness to plaintiff, which provided, among other things:
+“Guarantor, as principal obligor and not merely as guarantor only, does hereby absolutely and unconditionally guarantee to Brunswick, its successors and assigns, full, prompt and complete payment at maturity and at all times thereafter of any and all indebtedness, obligations, and liabilities of every kind and nature, both principal and interest, now or any time hereafter owing to Brunswick by principal.
+“Guarantor hereby expressly waives notice of acceptance of this guaranty by Brunswick and hereby further waives the giving of notice to principal or guarantor of any demand for payment, or any notice of any default, of non-payment, presentment, demand, protest, consent, public or private sale and any and all other notices or formalities to which guarantor might otherwise be entitled or which may be required by law.
+“This guaranty is absolute, unconditional and continuing, and payment of the sums for which guarantor is liable hereunder shall be made to Brunswick at its office from time to time on demand as the same become or are declared due, notwithstanding that Brunswick holds reserves, credits, collateral, security, or other guarantees against which it may be entitled to resort for payment, # # * .
+“Or if principal is in default on any payment of the indebtedness as the same falls due, or fails promptly to make good any default in respect to any undertaking, then liability of the guarantor hereunder shall at Brunswick’s option and without notice become immediately fixed and be enforceable for the full amount, * * * .”
+Subsequently, the corporate defendant failed to pay when due the principal and interest payments required by its promissory note and the conditional sales contract. Exercising its contract right, plaintiff demanded possession of the property sold, and the corporate defendant refused to surrender possession. July 19, 1967, plaintiff filed an action of claim and delivery against the corporate defendant claiming delivery of possession, the balance due on an open account, and a deficiency judgment to be established upon foreclosure sale. Plaintiff gave bond as required by GCR 1963, 757.3. On the same day, the sheriff took constructive possession of the property; the corporate defendant did not file bond (G-CR 1963, 757.4), and on July 26, 1967, the sheriff delivered constructive possession to plaintiff.
+Plaintiff prepared, published, and posted a notice of public sale of the property to be held at the corporate defendant’s place of business on August 8, 1967, and on July 26, 1967, plaintiff’s attorney mailed a letter to the corporate defendant with a copy to each individual defendant advising of the time and place of sale and inviting the recipients to attend and bid. Copies of the published notice of sale were enclosed with these letters. Defendant Bahen appeared at the sale and tendered a bid on the property. His bid was not accepted and the property was sold to plaintiff.
+The corporate defendant had not filed an appearance in the action, and on July 12,1968, plaintiff filed an amended complaint which added the individual defendants as parties defendant and added a count against each on his guaranty. All defendants were served with a copy of the amended complaint and a copy of the summons. The individual defendants filed their answer, the default of the corporate defendant was entered and, after trial, the judgment appealed from was entered.
+Defendants’ first attack is on the validity of the deficiency judgment. They claim that sale of the property prior to the corporate defendant’s default and without obtaining judgment was improper and precluded plaintiff from obtaining a deficiency judgment against them.
+Defendants’ argument in support of this claim is untenable. After the corporate defendant refused plaintiff’s demand for possession, plaintiff was compelled to resort to claim and delivery in order to obtain possession. Once possession was obtained, plaintiff was authorized to sell under the terms of the conditional sales contract, and the sale was under the provisions of that contract and not pursuant to the Uniform Commercial Code, as defendants attempt to argue. The corporate defendant was protected from improprieties in the seizure and sale procedure by the claim and delivery bond, but no claim against that bond was ever made. At this point in time, the individual defendants had no interest in the property seized and sold, but they were afforded an opportunity to bid at the sale. The one defendant who did appear bid $2,000 as opposed to plaintiff’s bid of $66,000, which is scant support for the individual defendants’ present assertion that the seizure and sale procedure employed by plaintiff deprived them of their rights of contest and redemption. The sale procedure employed by plaintiff was proper and was a legal basis for a deficiency judgment. Brunswick Corporation v. J & P, Inc. (CA 10, 1970), 424 F 2d 100.
+We find individual defendants’ attack on the amended complaint and the addition of them as parties defendant unfounded. These defendants were not necessary parties to the claim and delivery action as originally filed, nor did plaintiff have a claim against them in that action at that time. Since the corporate defendant filed no responsive pleading in the original claim and delivery action, plaintiff’s amended complaint was proper, GCR 1963, 118.1. While it can be argued that GCR 1963, 207 requires an order of the court properly to add parties to an action, parties may be added without court order by way of amendment pursuant to 118.1. (See 1 Honigman & Hawkins, Michigan Court Rules Annotated [2d ed], p 414.) Once these defendants were added, OCR 1963, 203.1 required the plaintiff’s claim on the guaranty to be pleaded.
+Affirmed with costs to plaintiff.
+All concurred.
