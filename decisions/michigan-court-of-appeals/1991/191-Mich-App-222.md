@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "124227"
+decided: "1991-07-10"
+citations: ["191 Mich. App. 222"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Jansen, P.J., and Sullivan and Weaver, JJ."]
+parties: ["PEOPLE v JOHNSON"]
+source_url: "https://static.case.law/mich-app/191/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2325968
+cites_cases: ["149 Mich App 546", "213 NW2d 800", "232 NW2d 191", "243 NW2d 705", "249 NW2d 114", "272 Cal Rptr 767", "386 NW2d 584", "399 Mich 431", "434 Mich 146", "439 Mich 855", "452 NW2d 627", "50 Mich App 682", "51 Cal 3d 335", "61 Mich App 102", "68 Mich App 640", "795 P2d 1223"]
+---
+
+# People v. Johnson
+
+## Majority (Sullivan, J.)
+
+Sullivan, J.
+Defendant appeals by leave granted an order entered in the Recorder’s Court for the City of Detroit denying his motion to dismiss the charges against him on the basis of the principles of res judicata and double jeopardy. We affirm.
+In September 1989, defendant was charged with two counts of first-degree criminal sexual conduct (esc), MCL 750.520b; MSA 28.788(2). At the time the offenses were allegedly committed, defendant was on probation for a previous conviction of carrying a concealed weapon. As a result of the alleged offenses, defendant also was charged with having violated his probation. Following a probation violation hearing, the Recorder’s Court judge who conducted the hearing held that he was not convinced by a preponderance of the evidence that the offenses had been committed.
+Thereafter, defendant moved to dismiss the two esc charges on the basis that a criminal prosecution of these charges following a finding in a probation violation proceeding that the judge was not convinced that defendant had committed the offenses violates the principles of res judicata and double jeopardy. The trial court denied defendant’s motion. This appeal followed, in which defendant makes the same arguments that he made below, with the addition of a collateral estoppel argument.
+Collateral estoppel is described as "issue preclusion.” 1 Restatement Judgments, 2d, § 27, p 250. "Collateral estoppel precludes relitigation of an issue in a subsequent, different cause of action between the same parties where the prior proceeding culminated in a valid, final judgment and the issue was (1) actually litigated, and (2) necessarily determined.” People v Gates, 434 Mich 146, 154; 452 NW2d 627 (1990).
+These threshold requirements have been met in this case. The named-party plaintiff — the People of the State of Michigan — is the same in both proceedings, and the Wayne County Prosecutor represented the people in both proceedings. The probation violation hearing culminated in a valid and final judgment. Finally, the issue whether defendant committed the esc offenses was actually litigated and necessarily determined in the probation violation hearing.
+Nevertheless, we conclude that applying the general rule of issue preclusion in this case is inappropriate. Several exceptions to the general rule of issue preclusion are recognized. See, e.g., 1 Restatement Judgments, 2d, § 28, pp 273-274. For example, courts of this state have explained that where the purposes of the two proceedings are fundamentally different, applying the rule of issue preclusion to issues common to both proceedings can be inappropriate. Gates, supra, pp 161-163; Thangavelu v Dep’t of Licensing & Regulation, 149 Mich App 546, 555-556; 386 NW2d 584 (1986).
+At least one of the exceptions set forth in the Restatement of Judgments, 2d, applies in this case: "A new determination of the issue is warranted by differences in the quality or extensiveness of the procedures followed in the two courts . . . .” Id., § 28(3), p 273.
+In Michigan, probation violation hearings are summary and informal and are not subject to the rules of evidence or of pleadings applicable in a criminal trial. MCL 771.4; MSA 28.1134; People v Hardenbrook, 68 Mich App 640, 646; 243 NW2d 705 (1976). The scope of these proceedings is limited, People v Rial, 399 Mich 431, 436; 249 NW2d 114 (1976), and the full panoply of constitutional rights applicable in a criminal trial do not attach. People v Martin, 61 Mich App 102, 107; 232 NW2d 191 (1975). In these proceedings, the focus is on whether one who has already been convicted of a crime violated a term of probation, and whether probation should be revoked. If a judge finds that a probationer violated his probation by committing an offense, the probationer is neither burdened with a new conviction nor exposed to punishment other than that to which he was already exposed as a result of the previous conviction for which he is on probation.
+As can readily be seen, the quality and extensiveness of the procedures followed in a criminal trial are much greater than those followed in a probation violation hearing. The purposes of the proceedings, moreover, are distinct. Because of the limited nature and scope of a probation violation hearing, as a practical matter the prosecutor may not present all the evidence bearing on the commission of the alleged offense. The determination whether one committed an offense for the purpose of a new conviction should be made in a criminal trial, which is the intended forum for such a determination, and not in an informal, summary proceeding. The principles of collateral estoppel, therefore, should not be permitted to preclude such a determination following a probation violation decision adverse to the people. See Lucido v Superior Court, 51 Cal 3d 335, 345-346; 272 Cal Rptr 767; 795 P2d 1223 (1990), and cases cited therein, for the same conclusion.
+Defendant also argues that following the probation violation hearing, further criminal proceedings would violate the Double Jeopardy Clause. We disagree. "Jeopardy” within the meaning of the constitutional double jeopardy provision requires a criminal prosecution in a court of justice. People v Bachman, 50 Mich App 682, 684; 213 NW2d 800 (1973). A probation violation hearing is not a criminal prosecution. Rial, supra, p 435; Lucido, supra, p 343, n 5.
+Affirmed.
+Res judicata, on the other hand, is described as "claims preclusion” and covers the "preclusive effect of a judgment upon a subsequent proceeding on the basis of the same cause of action.” Gates, supra, p 154, n 7. Although the factual issue presented in the probation violation proceeding and the criminal prosecution is the same — whether defendant committed the esc offenses — the claims at stake are different. This case, therefore, involves only issue preclusion.
