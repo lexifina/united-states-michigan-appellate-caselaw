@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "102819"
+decided: "1989-06-07"
+citations: ["177 Mich. App. 517"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: McDonald, P.J., and Doctorqff and Neff, JJ."]
+parties: ["BENSON v COMERICA BANK"]
+source_url: "https://static.case.law/mich-app/177/cases/0517-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2313801
+cites_cases: ["152 Mich App 281", "393 NW2d 610", "50 ALR2d 1115"]
+---
+
+# Benson v. Comerica Bank
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals as of right from an August 4, 1987, order denying its motion for summary disposition pursuant to MCR 2.116(0(10) and granting summary disposition to plaintiff. We reverse.
+Plaintiff maintained a savings account in trust for his minor children at defendant bank. When he first opened the account, plaintiff directed defendant to mail all statements to his address at 18463 San Juan. Plaintiff later moved to an apartment but continued to have his mail sent to the San Juan address. Still residing at that address were plaintiff’s mother, sister and nephew. Plaintiff testified that he continued to have the statements sent to his old address because he traveled frequently and found that his new mail box was too small to accommodate the large amount of mail received while out of town.
+Although defendant maintained it sent them, plaintiff testified there was a four- or five-month period in which he did not receive any account statements. The record indicates that, during this time, plaintiff’s nephew, who has the same name as plaintiff, fraudulently withdrew over $62,000 from plaintiff’s savings. The fraud was discovered by one of defendant’s employees, who, after noticing that a withdrawal slip did not contain either of the names of plaintiff’s children, notified other bank personnel who then notified plaintiff.
+After learning of the forgeries, plaintiff filed suit against defendant alleging that, between April and September of 1986, defendant made $62,200 in unauthorized payments from two of plaintiffs accounts. The complaint further alleged that these payments violated the agreement between plaintiff and defendant and were the result of defendant’s negligence in failing to recognize the forged signatures.
+In its answer, defendant asserted plaintiffs claim was barred by laches and that any loss incurred by plaintiff was due to his own negligence in failing to timely examine his account statements.
+On July 7, 1987, plaintiff filed a motion for summary disposition pursuant to MCR 2.116(0(10), claiming no genuine issue of any material fact and asking that judgment be entered against defendant in the amount of $63,620 plus interest and attorney fees. On July 15, 1987, defendant also moved for summary judgment pursuant to MCR 2.116(0(10). Defendant claimed that under MCL 440.4406(2)(b); MSA 19.4406(2)(b) plaintiffs failure to examine his statements precluded his claim. Following a hearing on the motions the trial court granted plaintiffs motion, ruling that because defendant had failed to send plaintiff both the account statement and the withdrawal slips, defendant was estopped from asserting the statute as a defense and was therefore bound by the common-law rule holding a bank liable when it acts without its customer’s authority.
+On appeal defendant claims the trial court erred in granting summary disposition in favor of plaintiff.
+The trial court summarily disposed of the case after finding MCL 440.4406; MSA 19.4406 inapplicable. Thus, the issue before this Court is the correct interpretation of the statute. The statute provides in pertinent part:
+(1) When a bank sends to its customer a statement of account accompanied by items paid in good faith in support of the debit entries or holds the statement and items pursuant to a request or instructions of its customer or otherwise in a reasonable manner makes the statement and items available to the customer, the customer must exercise reasonable care and promptness to examine the statement and items to discover his unauthorized signature or any alteration of an item and must notify the bank promptly after discovery thereof.
+(2) If the bank establishes that the customer failed with respect to an item to comply with the duties imposed on the customer by subsection (1) the customer is precluded from asserting against the bank
+(a) his unauthorized signature or any alteration on the item if the bank also establishes that it suffered a loss by reason of such failure; and
+(b) an unauthorized signature or alteration by the same wrongdoer on any other item paid in good faith by the bank after the first item and statement was available to the customer for a reasonable period not exceeding 14 calendar days and before the bank receives notification from the customer of any such unauthorized signature or alteration.
+(3) The preclusion under subsection (2) does not apply if the customer establishes lack of ordinary care on the part of the bank in paying the item(s).
+Subsection (1) of the statute clearly states that a bank customer, such as plaintiff, has an affirmative duty to "exercise reasonable care and promptness” in examining bank statements and items to discover unauthorized signatures or alterations. If this duty is not met, and the customer fails to establish lack of ordinary care on the part of the bank in paying the items (subsection [3]), subsection (2) precludes recovery from the bank on any items containing the unauthorized signature of the same forger which were paid by the bank at least fourteen days after the first items and statement were made available to the customer.
+In the instant case defendant claimed plaintiff breached this duty of inspection and must therefore suffer the consequences of his nephew’s fraudulent actions. However, the trial court interpreted § 4406 as requiring defendant to send plaintiff each month both an account statement and the completed withdrawal slips (items). Accordingly, the trial court ruled that defendant’s failure to send the withdrawal slips rendered the statute inapplicable. We disagree. The statute does not require a bank to mail its customers a statement accompanied with items in all cases. Instead the statute provides three general options. The bank may mail the statement and items to the customer, hold the same pursuant to a customer’s request, or "otherwise in a reasonable manner make the statement and items available to the customer.” Thus, defendant’s failure to comply with the first option does not render the statute inapplicable. The trial court therefore erred in so finding and in granting summary disposition to plaintiff on this basis.
+Although the trial judge erred in granting summary disposition in favor of plaintiff, we do not believe he erred in denying defendant’s motion for summary disposition. A motion filed under MCR 2.116(C)(10) tests whether there is factual support for the plaintiff’s claim. After reviewing the pleadings and other documentary evidence, the court should give the benefit of any reasonable doubt to the opposing party and should not grant summary disposition unless it finds it is impossible for the claim to be supported at trial because of some deficiency which cannot be overcome. Dzierwa v Michigan Oil Co, 152 Mich App 281; 393 NW2d 610 (1986).
+In the instant case, although applicable, §4406 does not mandate a finding for defendant. Defendant may not avail itself of the preclusion in subsection (2) if plaintiff can show that the manner in which the statement and items were made available was not a reasonable one, plaintiff exercised reasonable care and promptness in examining his statements under the circumstances, or defendant failed to exercise ordinary care in paying the items (subsection [3]).
+Reversed and remanded.
