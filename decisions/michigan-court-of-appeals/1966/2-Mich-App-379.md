@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 409, 410"
+decided: "1966-02-22"
+citations: ["2 Mich. App. 379"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lesinski, C. J., and J. H. Gillis, J., concurred."]
+parties: ["SCHWARTZ v. TRIFF."]
+source_url: "https://static.case.law/mich-app/2/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2032112
+cites_cases: ["193 Mich 170", "320 Mich 65", "378 Mich 720"]
+---
+
+# Schwartz v. Triff
+
+## Majority (Quinn, J.)
+
+Quinn, J.
+Plaintiffs, husband and wife, appeal from a jury verdict of no cause for action and judgment entered thereon in Wayne county circuit court and from denial of their motion for new trial. They claim the trial court committed reversible error in permitting improper cross-examination of plaintiff Nettie Schwartz and by holding admissible an unsworn, unverified pleading from a separate and unrelated proceeding in another jurisdiction. These claims frame the issues for decision. A more detailed development of them appears later in the opinion.
+Plaintiffs’ action is founded on the alleged negligence of defendant Betty Triff. The other defendant is the personal representative of the owner of the automobile driven by Betty Triff at the time of the accident. In the middle of the afternoon of June 4, 1960, plaintiffs’ automobile stopped on Park avenue in Detroit at the intersection of Washington boulevard before entering the latter. Defendant driver approached from the rear of plaintiffs’ vehicle and struck it. Nettie Schwartz claimed her neck, back, and hip were injured in this collision. Louis Schwartz asserted the usual derivative claims but made no claim for property damage to his vehicle. Defendants admitted liability but denied that Nettie Schwartz was injured in the collision which occurred at a time when defendants’ vehicle was “barely crawling”, going approximately three miles per hour. Defendant driver testified there was no damage to either vehicle, that no dust or dirt was knocked from either vehicle and that at the accident scene, Lonis Schwartz admitted there was no damage to his vehicle and so informed the police officer called to the scene. Louis Schwartz testified on direct examination that his vehicle was damaged as follows: broken tail pipe, bumper bent, and trunk bent. On cross-examination when asked if his car was damaged in the accident, Louis Schwartz replied, “It wasn’t much at all. Just the taillight.”
+In her direct examination, Nettie Schwartz testified at length as to her health prior to this collision. During her cross-examination, she was examined extensively and closely as to her knowledge of information contained in medical reports by doctors who had examined and treated her or had merely examined her. In each instance she recalled seeing the doctor involved and the fact that she was examined, but with respect to what the doctor said he found to be wrong with her, Mrs. Schwartz either indicated the doctor might have said it or she did not recall if he said it. Defense counsel obtained the information for his questions from copies of the medical reports. Plaintiffs objected to this type of cross-examination and contend here that permitting it was reversible error. The basis for the contention is that by this method of cross-examination, defendants were able to get into evidence the content of the medical reports, which were inadmissible because they were hearsay. The contention is not well founded. The content of questions is not evidence. The trial court clearly instructed the jury what it was to consider in deciding these cases. The charge in this regard stated:
+“In deciding this case, you must decide it solely and completely from the sworn testimony that has come to you from this witness stand, and the sworn testimony you have received from depositions read to you, and from such exhibits as the court has received into evidence.
+“These things—the sworn testimony from the witness stand, sworn testimony read to you in deposition, and the exhibits received into evidence—are the only things you may consider in deciding the case. Argument of counsel, colloquy between court and counsel, all of these things are important in pointing up the issues and in emphasizing issues, but when the decision of the case is made, you must make it upon the sworn testimony and such exhibits as the court has received into evidence.”
+In Malicke v. Milan (1948), 320 Mich 65, the Supreme Court reiterated two rules which fully support the trial judge in permitting the cross-examination here complained of. At page 70 the following-rule appears:
+“One of the elementary principles of cross-examination is that the party having- the right to cross-examine has a right to draw out from the witness and lay before the jury anything tending or which may tend to contradict, weaken, modify, or explain the testimony of the witness on direct examination or which tends or may tend to elucidate the testimony or affect the credibility of the witness.”
+The controlling issue in the case at bar was whether Mrs. Schwartz was injured in this accident. She placed her health in issue on direct examination. The questioning here complained of tended to contradict and weaken her direct testimony. It was proper.
+At page 71 of Maliclce, the following rule appears:
+“So far as the cross-examination of a witness relates either to facts at issue or relevant facts, it is a matter of right; but when its object is to ascertain the accuracy or credibility of a witness, its method and duration are subject to the discretion of the trial judge and, unless abused, its exercise is not the subject of review.”
+A reading of this record raises a suspicion of the credibility and even the veracity of Mrs. Schwartz. The trial judge saw and heard her. He was more than suspicious in this regard. In the absence of the jury, he made the following statement on the record:
+“If there has ever been a case in the history of this court in which I felt I should comment on the evidence, this is it. I am very much disturbed by the testimony, and I am saying this on the record, but out of the hearing of the jury, so you gentlemen know; it will have no influence on the jury, because I haven’t said it in their presence.
+“I am very much disturbed by the testimony of Mr. and Mrs. Schwartz. I thought they wilfully, intentionally, and deliberately lied to the court and jury, and I am also deeply disturbed by the testimony of the maid. I thought she wilfully lied. I can’t prove it, so I can take no action.”
+There was no abuse of discretion in permitting the cross-examination complained of.
+In August of 1958, these plaintiffs were involved in another accident in Canada causing injury to both. Suit was filed in Canada on their claims. This suit was settled prior to trial. On cross-examination in the present case, Nettie Schwartz denied she received any back injury in the Canadian accident that resembled her back injury in this case. Her statement of claim in the Canadian case tended to controvert this. She did not sign the Canadian pleading; it was not verified; it was authenticated in conformity with CLS 1961, § 600.2104 (Stat Ann 1962 Rev § 27A.2104). It was received in evidence over plaintiffs’ objection for the purpose of impeaching Nettie Schwartz, It is the opinion of this Court that this was proper under the above statute and under the case of Cady v. Doxtator (1916), 193 Mich 170.
+Trial court affirmed, with costs to appellee.
+Lesinski, C. J., and J. H. Gillis, J., concurred.
