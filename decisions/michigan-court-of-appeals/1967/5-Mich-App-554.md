@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "317"
+decided: "1967-01-10"
+citations: ["5 Mich. App. 554"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McGregor and N. J. Kaufman, JJ., concurred."]
+parties: ["TOWNSHIP OF COMMERCE v. RAYBERG."]
+source_url: "https://static.case.law/mich-app/5/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2026904
+cites_cases: ["3 Mich App 178", "326 Mich 387", "350 Mich 489", "361 Mich 489", "365 Mich 136", "367 Mich 28", "368 Mich 225", "370 Mich 94"]
+---
+
+# Township of Commerce v. Rayberg
+
+## Majority (Quinn, P. J.)
+
+Quinn, P. J.
+Plaintiff filed this action to restrain defendants from maintaining and operating a junk and wrecking yard and motor vehicle sales yard on their land on the basis of violation of the zoning ordinance which zones all of defendants’ land residential or agricultural. Defendants contended the ordinance did not apply to their land because it was used as it is presently used prior to the adoption of the ordinance involved. Plaintiff admitted a small part of defendants’ property was used as it is used prior to the ordinance. The trial court found that defendants were entitled to a nonconforming use as to part of their land but granted the requested injunction as to the balance. Defendants moved for a new trial, alleging as one reason therefor changes in land use of adjoining property subsequent to judgment. This motion was denied and defendants appeal from the judgment and denial of new trial.
+On appeal, defendants first contend the trial court erred in not granting a new trial on the basis of change of land use of adjoining land. One of the changes of land use relied on occurred in the adjoining township of Novi and has no bearing here. The other involved some expansion of a trailer park adjoining defendants on the east; the trailer park was also a nonconforming use. The grant or denial of a new trial is discretionary. GrCB 1963, 527.1. One ground therefor is “material evidence, newly discovered.” GrCB 1963, 527.1(6). On the issues framed by the pleadings and in the pretrial summary, the new evidence of change of use was not material, and absent a request to amend pleadings to frame an issue on which such evidence would be material, there was no abuse of discretion in denying the motion for new trial.
+Secondly, defendants claim the trial court should have classified the buildings on the land as a nonconforming use. The buildings involved are a house that is 250 to 300 feet north of Pontiac Trail and a building behind the house that is about 450 feet north of the same highway. The trial court found no portion of the nonconforming use was ever established nearer than a point 600 feet north of Pontiac Trail; the area excluded from the nonconforming use includes the buildings mentioned above. While we review the record de novo, we do not disturb facts found by the trial court unless a reading of the entire record convinces us we would have reached a different result. Winiecke v. Scheurer (1966), 3 Mich App 178. We are not so convinced by this record.
+Thirdly, defendants argue that a nonconforming-use established on a parcel of land is not limited in volume and area to that part of the area used at the time of the enactment of the ordinance. While the foreign authorities cited by defendant seem to support this position, we cannot use them as precedent if there is controlling Michigan law on the point. It is our opinion that Patchak v. Township of Lansing (1960), 361 Mich 489, is controlling-authority and the nonconforming use is restricted to the area that was nonconforming at the time the ordinance was enacted.
+Finally, it is defendants’ position that a classification of the ordinance creating a 300-foot strip along the highway as residential is unreasonable and unconstitutional. In support of this position, defendants cite several Michigan cases, all of which are distinguishable from the case at bar in the view of this Court. Bzovi v. City of Livonia (1957), 350 Mich 489, involved an ordinance which prohibited a use plaintiff desired to make of the land. This is not the case before us. Lincolnhol v. Village of Shoreham (1962), 368 Mich 225, involved an ordinance which prohibited plaintiff from building a gasoline station on property practically surrounded by industrial property. The record here indicates that except for defendants’ business and the trailer park, the surrounding territory was residential or agricultural. Roll v. City of Troy (1963), 370 Mich 94, involved a claim by a subdivider that the lot sizes prescribed by the ordinance were unreasonable. This is not our case. Grand Trunk W. R. Co. v. Detroit (1949), 326 Mich 387, involved an ordinance restricting the use of property adjoining the railroad track to sites for 2-1/2 story multiple dwellings. Burrell v. City of Midland (1961), 365 Mich 136, involved a change of classification of land use after plaintiff had purchased the property involved. Here defendants acquired the land after the ordinance was enacted and defendants relied on their predecessor’s use to establish a nonconforming use. In Alderton v. City of Saginaw (1962), 367 Mich 28, the city by ordinance attempted to restrict a 3-block area in an otherwise business area to multiple family residential uses.
+Finding no help in the foregoing and applying the principles announced in Patchak, supra, namely: the reasonableness of a zoning ordinance is the test of its legality; each case involving reasonableness must be determined on its own facts; an ordinance is presumed valid and the one who attacks it must prove its invalidity, we are unable to say on this record that the trial judge was wrong in finding this ordinance reasonable.
+Affirmed but without costs, plaintiff filed no brief.
+McGregor and N. J. Kaufman, JJ., concurred.
