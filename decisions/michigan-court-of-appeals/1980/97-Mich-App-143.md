@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-2543"
+decided: "1980-04-23"
+citations: ["97 Mich. App. 143"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P.J., and Allen and R. M. Maher, JJ."]
+parties: ["PEOPLE v HALL"]
+source_url: "https://static.case.law/mich-app/97/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2201762
+cites_cases: ["179 NW2d 48", "188 NW2d 238", "192 NW2d 466", "212 NW2d 922", "23 Mich App 459", "23 NW2d 211", "240 NW2d 729", "249 NW2d 307", "253 NW2d 698", "273 NW2d 532", "279 NW2d 303", "285 NW2d 52", "315 Mich 76", "32 Mich App 178", "386 Mich 277", "390 Mich 436", "396 Mich 424", "423 US 61", "72 Mich App 91", "74 Mich App 173", "86 Mich App 706", "88 Mich App 727", "92 Mich App 166"]
+---
+
+# People v. Hall
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted on his plea of guilty to the charge of second-degree murder. MCL 750.317; MSA 28.549. He was sentenced to a prison term of from 40 to 80 years and now appeals by right.
+Prior to defendant’s preliminary examination on an open charge of murder, defense counsel raised the question of defendant’s competency to stand trial. It was agreed by all parties that the preliminary examination would take place as scheduled but that the decision on whether to bind defendant over for trial would be reserved until defendant’s competency could be determined. It was also agreed that there would be no defect in the proceedings if the defendant was found competent. After the preliminary examination was held, defendant was referred to the Center for Forensic Psychiatry and, pursuant to the evaluation undertaken at the center, adjudged incompetent to stand trial. A second hearing reaffirmed this finding, but after a third hearing defendant was found competent and bound over to the circuit court on a charge of second-degree murder, to which he pled guilty.
+On appeal defendant argues that the circuit court lacked jurisdiction to entertain his plea because there had not been a valid preliminary examination. We agree that defendant’s preliminary examination was not valid. Defense counsel raised the question of competency before the preliminary examination was held and when the defendant was evaluated he was adjudged incompetent to stand trial. The state may not proceed against an incompetent defendant. People v Parney, 74 Mich App 173, 176; 253 NW2d 698 (1977), MCL 330.2022(1); MSA 14.800(1022)(1).
+The prosecution bases its argument on the plea-waiver doctrine, which holds generally that a plea of guilty waives all nonjurisdictional defects in the prior proceedings. See People v Ginther, 390 Mich 436, 440; 212 NW2d 922 (1973). The rule has been limited somewhat in recent years, so that defects which are similar to jurisdictional defects in that they affect the ability of the state to bring the defendant to trial on the offense charged are also not waived by a guilty plea. People v Alvin Johnson, 396 Mich 424; 240 NW2d 729 (1976). Accordingly, a guilty plea does not constitute a waiver of a jurisdictional defect, or of a defect that amounts to a "complete defense” to the criminal charge. The "complete defense” rationale has in turn been limited to those "complete defenses” that reach beyond the factual determination of a defendant’s conduct. Under this refinement, an issue that involves only the state’s capacity to prove the defendant’s factual guilt is still waived by a guilty plea, even though if resolved in favor of defendant it would constitute a "complete defense” because the prosecution could probably not proceed. People v Riley, 88 Mich App 727; 279 NW2d 303 (1979), People v Hill, 86 Mich App 706; 273 NW2d 532 (1978). See Menna v New York, 423 US 61; 96 S Ct 241; 46 L Ed 2d 195 (1975). This sort of case often involves claims regarding illegally seized evidence. If suppressed, the prosecution may be unable to prove its case, but since defendant’s guilty plea is a reliable determination of factual guilt, the guilty plea waives any issue of the state’s capacity to prove that factual guilt. The "complete defense” rationale has been applied to preserve those issues that concern the state’s authority (as opposed to capacity) to bring a defendant to trial. People v Alvin Johnson, supra (plea of guilty in prosecution barred by double jeopardy), People v Beckner, 92 Mich App 166, 169; 285 NW2d 52 (1979) (plea of guilty to charge brought under inapplicable statute).
+Related to the plea-waiver doctrine is the longstanding rule that when a defendant pleads to the information without objection to the lack of a preliminary examination or a valid waiver of that statutory right, he or she is deemed to have waived that right and cannot raise it as an issue on appeal. People v Tate, 315 Mich 76, 79-80; 23 NW2d 211 (1946), People v Alexander, 72 Mich App 91, 97-98; 249 NW2d 307 (1976), People v McKinley, 32 Mich App 178; 188 NW2d 238 (1971), People v Rufus Williams, 23 Mich App 459, 467, fn 11; 179 NW2d 48 (1970), aff'd 386 Mich 277; 192 NW2d 466 (1971), 1 Gillespie, Michigan Criminal law and Procedure (2d ed, 1979 rev vol), § 297, pp 427-428. A preliminary examination is not an absolute prerequisite to the circuit court’s acquiring jurisdiction, as it may be waived by the defendant. MCL 767.42(1); MSA 28.982(1).
+There is no dispute in the instant case as to defendant’s competency at the time he entered his plea of guilty. By so pleading he waived his statutory right to a preliminary examination and the circuit court had jurisdiction to accept his plea.
+Affirmed.
