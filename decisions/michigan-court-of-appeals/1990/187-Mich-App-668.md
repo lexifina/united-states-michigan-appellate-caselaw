@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "118185"
+decided: "1990-12-26"
+citations: ["187 Mich. App. 668"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Griffin, P.J., and Sawyer and Brennan, JJ."]
+parties: ["SENSING v UNION INDEMNITY INSURANCE COMPANY"]
+source_url: "https://static.case.law/mich-app/187/cases/0668-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2332283
+cites_cases: ["267 NW2d 695", "403 Mich 117", "89 PA 302"]
+---
+
+# Sensing v. Union Indemnity Insurance
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal as of right from a May 31, 1989, order granting summary disposition for defendants Michigan Property and Casualty Guaranty Association (mpcga) and Michigan Claims Service (mcs) and dismissing plaintiffs’ garnishment action. We affirm.
+Plaintiffs had secured a default judgment in an underlying dramshop action against the principal defendant, SLB Enterprises, Inc., doing business as Utica Show Bar, for $250,000 on October 30, 1986. The insurance carrier for Utica Show Bar, Union Indemnity Insurance Company, a New York corporation, was liquidated by the New York Insurance Commission on July 16, 1985 (before the entry of the default judgment). Plaintiffs then sought satisfaction of the judgment from mpcga, mcs, and the Insurance Commission of Michigan by way of the Property and Casualty Guaranty Association Act, MCL 500.7901 et seq.; MSA 24.17901 et seq., and filed a writ of garnishment against the three entities on October 30, 1986.
+The garnishee defendants responded that they were not indebted to Utica Show Bar and, in addition, asserted the affirmative defense that the writ of garnishment was not timely filed and that the garnishee defendants were not proper parties to the garnishment action. In their subsequent answers to interrogatories, defendants stated that they first had notice of the lawsuit on November 26, 1986, after the default judgment had been entered and that, because the deadline for filing a proof of claim for lawsuits against Union Indemnity’s insureds in Michigan was July 17, 1986, the notice of November 26, 1986, was not timely. Plaintiffs responded with an affidavit asserting that the claim was forwarded to Union Indemnity before July 17, 1986.
+Defendants subsequently filed a motion for summary disposition pursuant to MCR 2.116(C)(8) and (10), arguing that plaintiffs did not submit a timely claim to the mpcga before the deadline date of July 17, 1986, as required by MCL 500.7925(l)(c); MSA 24.17925(l)(c), and therefore, plaintiffs’ garnishment action must be dismissed because it is not a "covered claim” as defined by the statute. Plaintiffs responded that pursuant to MCL 500.7844; MSA 24.17844, since repealed by 89 PA 302, because Union Indemnity was a foreign insurer, plaintiffs’ notification to Union Indemnity and subsequently to the New York Insurance Commission satisfied any timely notice requirement. The trial court agreed with defendants and dismissed plaintiffs’ garnishment action. It is from this decision plaintiffs appeal.
+On appeal, the arguments made below are reiterated. Plaintiffs claim that a genuine issue of fact exists whether notice was mailed to Union Indemnity before July 17, 1986, the cutoff date. If it was, plaintiffs argue, they complied with the notice requirements of MCL 500.7844; MSA 24.17844, and the mpcga is obligated to pay the claim under MCL 500.7931; MSA 24.17931. Plaintiffs therefore contend that the trial court erred in granting summary disposition for defendants. Defendants respond that, contrary to plaintiffs’ belief, the notice provision of MCL 500.7925(1)(c); MSA 24.17925(1)(c), and not MCL 500.7844(1); MSA 24.17844(1), is applicable. Defendants therefore conclude that, because plaintiffs have not alleged that they notified either the mpcga or a Michigan process receiver before July 17, 1986, the trial court did not err in concluding that the mpcga was not liable for the insolvent foreign insurer’s obligations and in granting summary disposition for defendants.
+We agree with defendants and the trial court. Contrary to plaintiffs’ assertion, MCL 500.7844; MSA 24.17844 was not applicable and merely detailed the notice requirements under the Uniform Insurers Liquidation Act to ensure that one domiciled in Michigan could join in receivership proceedings in a foreign jurisdiction against a foreign insurer. Compliance with the notice requirements of MCL 500.7844; MSA 24.17844 does not obligate the mpcga to pay any claims. Rather, the mpcga’s duty to pay and discharge claims against insolvent foreign insurers is controlled by § 7931 of the Property and Casualty Guaranty Association Act, MCL 500.7931; MSA 24.17931. Metry v Michigan Property & Casualty Guaranty Ass’n, 403 Mich 117, 120; 267 NW2d 695 (1978). Pursuant to that section, the mpcga is obligated to pay and discharge "covered claims.”
+A covered claim must be presented to a receiver in this state or to the mpcga before "the last date fixed for the filing of claims in the domiciliary delinquency proceedings.” MCL 500.7925(1)(c); MSA 24.17925(1)(c). The last day fixed for filing claims in the present case was July 17, 1986. The claims receiver for Michigan Claims Service, as agent of the mpcga, stated in his deposition that his office first received notice of plaintiffs’ claim on November 24, 1986. Moreover, plaintiffs do not allege that the claim was presented to a receiver in Michigan or to the mpcga before the cutoff date. Therefore, we find that plaintiffs’ claim was not a "covered claim” that the mpcga was under a duty to pay or discharge and that the trial court did not err in granting defendants’ motion for summary disposition.
+Affirmed.
