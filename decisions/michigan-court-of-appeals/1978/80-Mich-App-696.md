@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "28389"
+decided: "1978-01-23"
+citations: ["80 Mich. App. 696"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P. J., and Bashara and H. L. Heading, JJ."]
+parties: ["BUTLER v BUTLER"]
+source_url: "https://static.case.law/mich-app/80/cases/0696-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2160724
+cites_cases: ["229 NW2d 907", "249 NW2d 88", "399 Mich 367", "52 ALR2d 591", "59 Mich App 730"]
+---
+
+# Butler v. Butler
+
+## Majority (Bashara, J.)
+
+Bashara, J.
+This is an appeal by plaintiff from a trial court order finding him in contempt of court for failure to make child support payments pursuant to a previously issued divorce judgment. The amount of the arrearage was established at $9,025.
+Plaintiff appeared at the contempt proceedings without the assistance of counsel. It was disclosed, upon inquiry of the trial court, that plaintiff’s only source of income was from public assistance payments under the aid to dependent children with an incapacitated parent program. Plaintiff also stated that he was appealing an adverse determination of disability in an effort to obtain social security benefits.
+Since the litigants’ divorce, plaintiff has remarried and has three children by that marriage. At the contempt hearing, plaintiff indicated that it had been four or five years since he had last engaged in gainful employment. Plaintiff stated that he had arthritis. In response to the trial court’s statements that it appeared that plaintiff had not even made a reasonable attempt to find employment, the plaintiff stated only that he does go to a doctor for his arthritic condition.
+The trial court found the plaintiff to be in contempt of court, but did not order his incarceration. Instead, the court instructed the plaintiff to seek employment and set a sentencing date for approximately three weeks hence, at which time plaintiff was to advise the court as to whether he was able to find employment. Plaintiff was admonished that he would be sent to jail unless he found a job.
+At the sentencing proceeding, plaintiff appeared with counsel and without a job. A motion was made to set aside the judgment of contempt, which was denied, the trial court stating that it would not relitigate the issue of plaintiffs contempt. Plaintiffs counsel then proceeded to present medical reports as to the extent of plaintiffs arthritic condition. The trial court acknowledged the existence of plaintiffs arthritis, but found after an examination of the medical evidence that plaintiff was not precluded by the disease from engaging in all forms of employment. Further, as the trial court noted, there was no explanation or offer of any statements as to the efforts plaintiff made to find employment or why he was unable to secure a job. Plaintiff was sentenced to 30 days in the county jail, to be suspended upon payment of $300, which would be applied to the past due child support.
+It is plaintiff’s contention that the trial court’s judgment of contempt rests upon an impermissibly narrow scope of factual findings and, therefore, cannot be sustained. This argument is based exclusively upon the recent case of Sword v Sword, 399 Mich 367; 249 NW2d 88 (1976), which affirmed this Court’s decision reported at 59 Mich App 730; 229 NW2d 907 (1975). Viewed in light of Sword, plaintiff maintains essentially that the trial court’s judgment is based only upon a finding that there was a child support arrearage and that plaintiff was physically able to work.
+If plaintiff’s characterization of the foundation for the trial court’s judgment were accurate, we would reverse that judgment and remand this case without hesitation. However, there is a determinative distinction between the circumstances in this case and those in Sword.
+In Sword the alleged contemnor explained to the trial court the considerable efforts that were made unsuccessfully to find employment. Sword v Sword, 59 Mich App at 733; 229 NW2d at 908. Notwithstanding the apparent inability to secure employment after a good faith effort, the trial court held the defendant in contempt and sentenced him to jail. Thus, the defendant was incarcerated for disobedience of an order with which it was impossible for him to comply. Only the defendant’s physical ability to work was considered by the trial court. Id. at 734; 229 NW2d at 908.
+Both this Court and the Supreme Court concluded that physical ability to work is not a sufficient basis alone to sustain a judgment of contempt for failure to make child support payments. Sword, supra. Civil contempt is a coercive remedy, designed to induce compliance with a court order by imposing the threat of incarceration until the contemnor renders that compliance. 399 Mich at 380; 249 NW2d at 92-93. However, if the alleged contemnor has made a diligent effort to obey the court’s order, but is unable to acquire the requisite means for compliance, no amount of coercive force applied in a civil contempt proceeding will alter that state of circumstances. Accordingly, Sword mandates that an inquiry be made beyond ascertaining only that the alleged contemnor has the physical ability to work.
+A number of areas into which the trial court may inquire are suggested in the Sword opinion. Id. at 378-379; 249 NW2d at 92. However, those suggested areas of inquiry are not intended to be applied by rote to every case. Rather, each case will present a different array of circumstances to the trial court. From an inquiry into those circumstances, the trial court must ascertain whether the alleged contemnor has sufficient ability, or by the exercise of due diligence could be of sufficient ability, to comply with the court’s order. Id. at 379; 249 NW2d at 92. If the record supports a finding that the alleged contemnor has refused or neglected to reasonably endeavor to comply with the order, then a judgment of contempt will be sustained. It is those circumstances to which the coerciveness of civil contempt proceedings was intended to apply.
+In the instant case the trial court did not limit its inquiry to determining plaintiffs physical ability to work. Indeed, the tenor of both the contempt and sentencing proceedings was directed toward ascertaining the diligence with which plaintiff endeavored to comply with the child support order. It became apparent from our reading of the record in both proceedings that the trial court was attempting to induce the plaintiff to make an effort to find employment so that he could meet his child support obligations.
+Although the trial court found that plaintiff does have arthritis, it was also found that plaintiff’s condition does not obviate all potential employment opportunities. That finding is not challenged on appeal. Further, after adjudging plaintiff to be in contempt, the trial court delayed sentencing for nearly a month. The delay was accompanied by an admonishment to plaintiff to find employment if he desired to retain his freedom. At the sentencing proceeding plaintiff sought only to emphasize his arthritic condition, unaccompanied by any recitation of what measures had been taken to find suitable employment.
+We conclude under these circumstances that the trial court’s judgment was proper. It is our opinion that the judgment is supported by a record sufficient to sustain the trial court’s finding that plaintiff is physically able to work and has neglected or refused to exercise due diligence to place himself in a position of sufficient ability to comply with the support order. The coerciveness of civil contempt may provide the plaintiff with the necessary incentive to rectify this unfortunate situation.
+Affirmed.
+The pertinent colloquy was as follows:
+"THE COURT: I suppose Mr. Butler, you’re not even looking for a job. Most men come in here and say that they are out of work, laid off, I don’t have any money, can’t seem to find a job. Your situation is a little different, you are probably not looking for a job because in your own mind you feel you are disabled.
+"RESPONDENT: No, I do go to the doctor. He doesn’t say that, you mean my mind, but he says that too.
+"THE COURT: It is a difference of opinion as to whether you’re disabled, grant me that.
+"RESPONDENT: Between him and social security, yes. I’ll grant you that.
+"THE COURT: What do you feel is wrong with you?
+"RESPONDENT: Got arthritis.”
