@@ -1,0 +1,66 @@
+---
+court: "Michigan Court of Appeals"
+docket: "201"
+decided: "1966-03-22"
+citations: ["2 Mich. App. 526"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Watts, P. J., and Fitzgerald, J., concurred."]
+parties: ["DUSENDANG v. THOMPSON."]
+source_url: "https://static.case.law/mich-app/2/cases/0526-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2032084
+cites_cases: ["286 Mich 591", "329 Mich 612", "361 Mich 619", "374 Mich 194", "77 ALR2d 1154"]
+---
+
+# Dusendang v. Thompson
+
+## Majority (Holbrook, J.)
+
+Holbrook, J.
+This case is an appeal by Frank H. Dusendang, plaintiff-appellant, from a judgment of no cause for action for defendants-appellees in the trial court tried before a jury. Boston-Old Colony Insurance Companies has not appealed. The parties by stipulation in accord with GCR 1963, 812.2(b) waived filing of transcript of the testimony and hearings before the Court, and specified the contents of the record on appeal.
+This case arose out of injuries sustained in a fall by plaintiff Dusendang in January, 1963, in the early morning at the residence of defendants in Spring Lake, Michigan.
+Plaintiff was then acting in the course of his employment with Town and Country Pood Company as a grocery deliveryman, and thereafter received about $1,400 in workmen’s compensation benefits from coplaintiff, Boston-Old Colony Insurance Companies, the workmen’s compensation carrier, for his employer.
+Plaintiff Dusendang commenced suit against defendants as third-party tort-feasors pursuant to CLS 1961, §413.15 (Stat Ann 1960 Rev §17.189). Defendants filed their answer denying liability, and filed their motion asking that the court order the joinder of the workmen’s compensation carrier as an added party-plaintiff. The motion was heard and granted by the court at the pretrial conference. The order is as follows:
+“Motion having been made by the attorney for the defendant, to join, by order, the Boston-Old Colony Insurance Companies, the carrier for Prank H. Dusendang, compensation recipient, such motion, after having been duly considered by the court, it is ordered, adjudged, and decreed that the said compensation carrier is deemed a necessary party, and in the interest of complete determination of all of the rights of the parties herein, it is ordered, adjudged and decreed that the plaintiff shall allow 20 days for the voluntary appearance of the company herewith, and upon their failure to so appear, that, such company may be joined, by a summons causing them to enter this case by service of process, they to have 20 days thereafter to make such answer and such appearance as they shall see fit.” (Emphasis supplied.)
+As a result of the trial court’s order, Boston-Old Colony Insurance Companies voluntarily filed its complaint and participated fully in its own name in all the proceeding's.
+Upon trial, the jury was fully advised of said workmen’s compensation benefits theretofore received by plaintiff Dusendang as well as availability to him of future benefits, both for medical care and treatment and weekly payments for any period up to a total of 750 weeks during which he might be disabled.
+After the verdict of no cause for action, plaintiff Dusendang made motion for new trial upon grounds asserted in the appeal to this Court and upon one other ground since abandoned. Upon denial of said motion for new trial, plaintiff Dusendang appeals.
+Plaintiff-appellant poses two questions involved:
+“(1) In the suit brought by plaintiff-employee pursuant to authorization of the workmen’s compensation act against third-party tort-feasors, did the trial court commit reversible error in requiring joinder of the workmen’s compensation carrier as an added party-plaintiff?”
+“(2) Even if the trial court properly required the joinder of the workmen’s compensation carrier as an added party-plaintiff, did the trial court commit reversible error in failing to order that the compensation carrier participate anonymously in the name of plaintiff-appellant-employee ?”
+As to the first question, we note that there is no record of the plaintiff-appellant’s objection to the granting of the motion of defendants to add the workmen’s compensation carrier as party-plaintiff.
+Also, the workmen’s compensation carrier did not object to joining as a party-plaintiff, it having voluntarily filed its complaint and participated in the entire trial of the matter. Plaintiff’s action herein was based upon the workmen’s compensation act, supra, which permits an employee to sue and seek damages from a third-party tort-feasor. Said pertinent provisions of said act appear as follows:
+“Sec. 15. Where the injury for which compensation is payable under this act was caused under circumstances creating a legal liability in some person other than a natural person in the same employ or the employer to pay damages in respect thereof, the acceptance of compensation benefits or the taking of proceedings to enforce compensation payments shall not act as an election of remedies, but such injured employee or his dependents or their personal representative may also proceed to enforce the liability of such third party for damages in accordance with the provisions of this section. If the injured employee or his dependents or personal representative does not commence such action within 1 year after the occurrence of the personal injury, then the employer or its compensation insurance carrier may, within the period of time for the commencement of actions prescribed by statute, enforce the liability of such other person in the name of that person. * * *
+“In an action to enforce the liability of a third party, the plaintiff may recover any amount which the employee or his dependents or personal representative would be entitled to recover in an action in tort. Any recovery against the third party for damages resulting from personal injuries or death only, after deducting expenses of recovery, shall first reimburse the employer or its workmen’s compensation insurance carrier for any amounts paid or payable under the workmen’s compensation act to date of recovery, and the balance shall forthwith be paid to the employee or his dependents or personal representative and shall be treated as an advance payment by the employer on account of any future payment of compensation benefits.”
+In the case of Hill v. Harbor Steel & Supply Corporation (1965), 374 Mich 194, in a concurring opinion Mr. Justice O’Hara, on p 220, states:
+“I turn now to the question of the admissibility of evidence concerning the receipt of and the amount of workmen’s compensation payments in cases where the compensation insurer is a party plaintiff (and in my view he can’t be kept ‘out’ if he wants ‘in’ despite our equivocal writings on the point).”
+The workmen’s compensation carrier was definitely an interested party, for, in the event of recovery, the first proceeds were to be paid it for moneys advanced.
+The joinder of the workmen’s compensation carrier was effected by reason of GCR 1963, 205.1:
+“Necessary Joinder. Subject to the provisions of Rule 208 and of sub-rule 205.2, persons having such interests in the subject matter of an action that their presence in the action is essential to permit the court to render complete relief shall be made parties and be joined as plaintiffs or defendants and aligned in accordance with their respective interests.”
+In 1 Honigman and Hawkins, Michigan Court Rules Annotated, pp 556, 557, appears the following-comment :
+“The new rule was intended to convert this into a problem of required joinder of parties. It will continue to be recognized that both insured and insurer are real parties in interest as to that which they own under the substantive law. Therefore, either may bring an action in his own right, but the defendant is protected against a multiplicity of actions by the rule governing required joinder of parties. That is, if either the insured or insurer brings an action against a defendant without joining the other, the defendant may protect himself by moving to have both plaintiffs joined as necessary parties under sub-rule 205.1. Both are persons having such interest in the subject matter that their presence is essential to permit the court to render complete relief.”
+The applicability of this comment to our case may be questioned inasmuch as the workmen’s compensation carrier is not the plaintiff’s insurer. The relationship is effected, however, by reason of the statute.
+Arguendo, the plaintiff-appellant did not object according to the record to the bringing in of the workmen’s compensation carrier nor did the workmen’s compensation carrier object, but contra, participated voluntarily in all the proceedings, including the trial.
+As to the second question raised by plaintiff-appellant, Hill v. Harbor Steel & Supply Corporation, supra, is authority for the present rule of law that evidence concerning receipt of workmen’s compensation payments by an injured workman and his dependents should not be admitted in the trial of a negligence case against a third-party defendant.
+The rule does not appear to be as broad or all encompassing as appellant herein asserts, but unquestionably applies as to the introduction of such evidence on the trial of the case.
+This conclusion calls into application another rule requiring the objection to improper evidence in the trial court as a prerequisite to review of the error on appeal.
+In 1 Wigmore on Evidence (3d ed), § 18, p 321, appears the following:
+“The judge may of his own motion deal with offered evidence; but for all subsequent purposes, it must appear that the opponent invoked some rule of evidence. A rule of evidence not invoked is waived
+See, also, Kemp v. Aldrich (1938), 286 Mich 591.
+In a headnote, in the case of Yass v. Schrotenboer (1951), 329 Mich 612, 611, appears the following:
+“Reversible error did not result from statement by one of plaintiff’s witnesses that statement which had been taken was by someone from defendant’s insurer, where no objection was made by counsel for plaintiff.”
+In our stipulated record on appeal, it does not appear that the plaintiff Dusendang objected to the admission of the testimony concerning payments by the workmen’s compensation carrier nor that appellant made appropriate requests to charge.
+Plaintiff Dusendang claims reversible error by reason of the circuit judge failing to order that the compensation carrier participate anonymously in the name of plaintiff-appellant-employee. The record is barren of any request by appellant of the trial judge to so order.
+The workmen’s compensation carrier’s participation in the lawsuit was without objection and its complaint advanced the objectionable evidence by specifically stating:
+“In performance of its liability as described in the immediately foregoing paragraph, said added party plaintiff has heretofore paid out to or for the benefit of said plaintiff Prank H. Dusendang the sum of $1,103.05. Said added party plaintiff is informed and believes that it will hereafter incur further liability to said plaintiff Dusendang for additional medical treatment and additional weekly benefits which he will hereafter become entitled under the Michigan workmen’s compensation law.”
+In the record before us, we must assume that there was no objection to such allegations in the pleadings of the coplaintiff, Boston-Old Colony Insurance Companies, by appellant.
+We believe that where the objectionable evidence was introduced by both parties or without objection, our ruling herein must follow the ruling in Wright v. Delray Connecting Railroad Company (1960), 361 Mich 619, wherein Mr. Justice Carr stated on pp 629, 630, as follows:
+“In view of the fact that the matter of compensation had been brought before the jury, the trial court was not in error in charging that the plaintiff would, in the event of his recovery of a judgment, be required to repay to the insurance company the amount so received. This was in substance a statement of the law with reference to the matter. The jury was further charged that the amount of such payments should have nothing to do with the determination of the question of liability and should be disregarded. It may be noted also that the trial judge repeated in the charge the amount of the payment to date, namely $9,684.45, which was in accord with the statement of counsel to the jury at the opening of the trial, and with the testimony.”
+It appears that all the parties without objection, after Boston-Old Colony Insurance Companies entered the case, treated the matter of compensation payments as part of the case. To allow appellant a new trial after he apparently was willing to take his chances for recovery, in the trial held, with an improper element injected in the case, without objection, would in effect grant him a second time at bat and be unfair to defendants herein.
+Judgment affirmed, costs to appellees.
+Watts, P. J., and Fitzgerald, J., concurred.
+See 373 Mich preliminary page 1.—Reporter.
+See CLS 1961, § 413.15 (Stat Ann 1960 Eev § 17.189).
+See OLS 1961, § 413.15 (Stat Ann 1960 Rev § 17.189).
