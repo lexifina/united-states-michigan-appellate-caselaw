@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "143586"
+decided: "1992-11-17"
+citations: ["197 Mich. App. 28"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Michael J. Kelly, P.J., and Shepherd and Fitzgerald, JJ."]
+parties: ["PEOPLE v SCOTT"]
+source_url: "https://static.case.law/mich-app/197/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1864008
+cites_cases: ["156 Mich App 68", "165 Mich App 198", "183 Mich App 647", "330 NW2d 834", "401 NW2d 312", "416 Mich 189", "418 NW2d 427", "435 Mich 228", "435 Mich 630", "455 NW2d 368", "458 NW2d 17", "461 NW2d 1"]
+---
+
+# People v. Scott
+
+## Majority (Shepherd, J.)
+
+Shepherd, J.
+Defendant was originally charged with two counts of delivering less than fifty grams of cocaine, MCL 333.7401(2)(a)(iv); MSA 14.15(7401) (2)(a)(iv), and being a second offender under the second-offender provision of the controlled substances act, MCL 333.7413(2); MSA 14.15(7413X2), on the basis of a previous conviction of possession of less than twenty-five grams of cocaine. After plea negotiations, defendant agreed to plead guilty of one count in exchange for dismissal of the other count and a recommendation that the sentence not exceed thirty-six months under People v Killebrew, 416 Mich 189; 330 NW2d 834 (1982). At sentencing, the trial court informed defendant that it would not be following the prosecutor’s recommendation, but declined to advise defendant of the minimum sentence that it was considering. After the trial court advised defendant of his right to withdraw his plea, defendant decided not to. Defendant was then sentenced to fifteen to forty years in prison. He now appeals his sentence. We vacate and remand for resentencing.
+Defendant first argues that his sentence violates the principle of proportionality announced in People v Milbourn, 435 Mich 630; 461 NW2d 1 (1990), because the trial court imposed a sentence that was greater than the mandatory minimum. Under Milbourn, p 656, a sentence must be proportionate to the nature of the offense and the background of the offender. Although the second edition of the sentencing guidelines is the best "barometer” of where a given case falls on the continuum, "the key test is whether the sentence is proportionate to the seriousness of the matter, not whether it departs from or adheres to the guidelines’ recommended range.” Id., p 661.
+The Legislature has decided to punish repeat drug offenders by doubling the minimum sentence otherwise authorized. MCL 333.7413(2); MSA 14.15(7413X2). In this case, the mandatory minimum sentence is 2 to 40 years in prison for second-offenders. The presentence report recommended a prison sentence of 3Vz to 40 years. The rationale for the presentence report’s recommendation was defendant’s "inability to handle his substance abuse problem and apparent willingness to continually sell cocaine.” Defendant’s prior record included two felony convictions of possession of cocaine in 1985 and 1990. At the time defendant was arrested and charged with delivery of cocaine in this case, he was on probation in Calhoun County for a conviction of possession of less than twenty-five grams of cocaine.
+At sentencing, the trial court remarked:
+I suppose I rate you in terms of seriousness up with people that commit First Degree Murder, people that rape women or men, people that stick guns in peoples’ faces and rob them. You deal crack cocaine. You’re one of the people that puts premature infants into neonatal units at half weight. And you’re the person that puts people into the coronary units for having heart attacks when they smoke their first hit of crack cocaine. You’re the people that puts women that are otherwise nice young girls out on the street punishing their body to purchase crack cocaine.
+I consider a crack cocaine dealer — and I don’t think anyone can seriously quarrel with me — to be perhaps equal in danger to the destruction of this society as any of Saddam Hussein’s scud missiles or any of his — what used to be his armed force.
+We find that the trial court overreacted by comparing defendant’s crime to murder, rape, and scud missile attacks. This led to a disproportionate sentence and a violation of Milbourn, supra. It is the Legislature, not the trial court, that decides whether a defendant who has been convicted of one crime should be sentenced as if he had committed another and as if he had been in violation of international legal principles regarding the conduct of war. Moreover, we note that the trial court’s statement that defendant was involved in the delivery of crack cocaine was not supported by the record, and was denied by defendant during the plea and sentencing proceedings. For these reasons, defendant must be resentenced.
+Defendant also contends that the trial court erred in not informing him of his sentence and then giving him an opportunity to withdraw his guilty plea.
+In Killebrew, pp 209-210, the Supreme Court remarked:
+Therefore, we now hold that if the plea agreement offered to the court by the prosecutor and defendant includes a non-binding prosecutorial recommendation of a specific sentence, the judge may accept the guilty plea (after consideration of the presentence report), yet refuse to be bound by the recommended sentence. The judge retains his freedom to choose a different sentence. However, the trial judge must explain to the defendant that the recommendation was not accepted by the court, and state the sentence that the court finds to be the appropriate disposition. The court must then give the defendant the opportunity to affirm or withdraw his guilty plea.
+Through this procedure, the defendant will be fully aware of all the consequences of his guilty plea. He will thus be able to make a knowing and intelligent waiver of his right to trial and its companion rights. Additionally, the judge will have full exercise of his sentencing discretion.
+At sentencing, the following exchange occurred:
+The Court: That was my understanding. I’m notifying you at this time, Mr. Sautter, I’m not going to follow the Killebrew arrangement.
+I’ve read the Pre-Sentence Report. Whether or not Calhoun County was going to violate Mr. Scott doesn’t affect my opinion that a three-year minimum when the statutory minimum is two, is unconscionable. I can’t follow it. So if you want to take a few minutes to determine whether your client would like to withdraw his plea, go ahead and do that. If he knows right now he wants to withdraw it, we’ll do it right now.
+Mr. Sautter [defense counsel]: Is it possible, Your Honor, for us to have some indication—
+The Court: Know the amount I’m going to sentence him to? No, we’re not going to play that game. Judge Hocking doesn’t play that game.
+In this case, we agree with defendant’s claim that the trial court violated the Killebrew holding. The trial court merely indicated its intention to depart from the recommended sentence, but never stated the sentence that it was considering. People v McGuire, 165 Mich App 198, 201-202; 418 NW2d 427 (1987); People v Parks, 183 Mich App 647; 455 NW2d 368 (1990). As indicated in Killebrew, defendant should have been informed first of the proposed sentence and then given an opportunity to withdraw his plea.
+On the basis of the foregoing, we vacate defendant’s sentence and remand for resentencing consistent with this opinion. In light of the trial court’s strong language, we remand for resentencing before a different judge under People v Evans, 156 Mich App 68; 401 NW2d 312 (1986). On remand, the trial court should again give defendant an opportunity to withdraw his guilty plea if it decides not to accept the plea bargain.
+Vacated and remanded for resentencing.
+We note that MCL 333.7413(2); MSA 14.15(7413X2) is a sentence-enhancement provision, and due process does not require the prosecutor to charge the prior drug conviction in the information in order for the defendant’s sentence to be enhanced on the basis of the prior conviction because the prior offense is not an element of a separate charge. People v Eason, 435 Mich 228, 233; 458 NW2d 17 (1990).
