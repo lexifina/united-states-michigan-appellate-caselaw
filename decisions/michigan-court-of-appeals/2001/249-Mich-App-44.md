@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "226550"
+decided: "2001-12-21"
+citations: ["249 Mich. App. 44"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Meter, P.J., and Jansen and R. D. Gotham, JJ."]
+parties: ["POBURSKY v GEE"]
+source_url: "https://static.case.law/mich-app/249/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1091205
+cites_cases: ["210 Mich App 16", "212 Mich App 298", "214 Mich App 222", "217 Mich App 7", "224 Mich App 215", "237 Mich App 377", "451 Mich 129", "532 NW2d 878", "536 NW2d 876", "542 NW2d 339", "545 NW2d 642", "551 NW2d 199", "568 NW2d 393", "603 NW2d 295"]
+---
+
+# Pobursky v. Gee
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondent appeals as of right from a circuit court order denying his motion to terminate a personal protection order (PPO). We reverse. This appeal is being decided without oral argument pursuant to MCR 7.214(E).
+Petitioner obtained a ppo on the ground that respondent had attacked him and threatened to kill him one evening at an ice arena. Respondent allegedly attacked petitioner, hurled him over a bench into a wall or plate glass window, and then choked him while repeatedly threatening him. Respondent moved to terminate the order on the ground that the petition was insufficient to justify entry of a ppo because it alleged a single, unwanted contact that did not constitute stalking as defined in MCL 750.41 lh. The court found that the conduct alleged was sufficient to justify entry of the order and denied the motion.
+Statutory interpretation is a question of law that is reviewed de novo. Markillie v Livingston Co Bd of Rd Comm’rs, 210 Mich App 16, 21; 532 NW2d 878 (1995). The rules of statutory construction require the courts to give effect to the Legislature’s intent. This Court should first examine the specific statutory language to determine the intent of the Legislature, which is presumed to intend the meaning that the statute plainly expresses. Institute in Basic Life Principles, Inc v Watersmeet Twp (After Remand), 217 Mich App 7, 12; 551 NW2d 199 (1996). If the language is clear and unambiguous, the plain meaning of the statute reflects the legislative intent, and judicial construction is not permitted. Tryc v Michigan Veterans’ Facility, 451 Mich 129, 135-136; 545 NW2d 642 (1996) . When a statute sets forth its own definitions of certain terms, those terms must be applied as defined. Id. at 136. Undefined words are to be given meaning as understood in common language, considering the text and subject matter in which they are used. Marcelle v Taubman, 224 Mich App 215, 219; 568 NW2d 393 (1997). It is proper to rely on a dictionary for a definition of words that are not defined in the statute. Id.
+A person may file an independent action in the family division of the circuit court to seek the entry of a PPO to restrain another person “from engaging in conduct that is prohibited under section 411h [stalking] or 411i [aggravated stalking] of the Michigan penal code . . . .” MCL 600.2950a(l). When an ex parte PPO is sought, as was done here, “the court must make a positive finding of prohibited behavior by the respondent before issuing a PPO.” Kampf v Kampf, 237 Mich App 377, 386; 603 NW2d 295 (1999).
+MCL 750.411h(2) prohibits stalking. Stalking is “a willful course of conduct involving repeated or continuing harassment of another individual that would cause a reasonable person to feel terrorized, frightened, intimidated, threatened, harassed, or molested and that actually causes the victim to feel terrorized, frightened, intimidated, threatened, harassed, or molested.” MCL 750.41lh(l)(d). The term “course of conduct” as used in subsection 411h(l)(d) is defined as “a pattern of conduct composed of a series of 2 or more separate noncontinuous acts evidencing a continuity of purpose.” MCL 750.41 lh(l)(a).
+The statute does not define the words “separate” or “noncontinuous.” The word “separate,” used as an adjective, means “detached; distinct.” Random House Webster’s New College Dictionary (1997). The word “noncontinuous” is a common compound word formed with “non” that does not have a special meaning; it is to be understood as not continuous. Webster’s New Twentieth Century Dictionary of the English Language: Unabridged Edition (2d ed, 1979). The word “continuous” is variously defined as “joined without intervening space; without cessation or interruption; unbroken; constant; connected,” id., or “uninterrupted in time; without cessation” or “being in immediate connection or spatial relationship.” Random House Webster’s New College Dictionary (1997). Thus, two or more separate noncontinuous acts are acts distinct from one another that are not connected in time and space. See, e.g., People v Kieronski, 214 Mich App 222, 232; 542 NW2d 339 (1995) (evidence that the defendant contacted the victim and threatened her on two different occasions and approached her on a third occasion in such a manner that a police officer told him to leave was sufficient to show a course of conduct); People v White, 212 Mich App 298, 307; 536 NW2d 876 (1995) (evidence that the defendant made repeated threatening telephone calls to the victim was sufficient to establish a course of conduct).
+The application for a ppo filed by petitioner alleged a single incident comprising a series of continuous acts, each immediately following the other, in which respondent inflicted physical harm and threatened further harm. Thus, while petitioner alleged a series of acts evidencing a continuity of purpose, the acts were not separate and noncontinuous. Because the petition did not allege conduct prohibited under MCL 750.41lh, the trial court erred in entering the order and in denying the motion to set it aside.
+Reversed.
