@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "110777"
+decided: "1989-11-21"
+citations: ["181 Mich. App. 293"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and Marilyn Kelly and T. M. Burns, JJ."]
+parties: ["LaCOURSE v GUPTA"]
+source_url: "https://static.case.law/mich-app/181/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2307961
+cites_cases: ["163 Mich App 780", "166 Mich App 623", "173 NW2d 737", "19 ALR3d 1114", "20 Mich App 237", "397 NW2d 793", "415 NW2d 18", "420 NW2d 835", "427 Mich 659"]
+---
+
+# LaCourse v. Gupta
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from an order granting summary disposition in favor of defendant pursuant to MCR 2.116(C)(10). We affirm.
+Plaintiff commenced this medical malpractice action on October 15, 1985. In November, 1985, defendant served interrogatories on plaintiff which included a question about the identities of proposed expert witnesses. Plaintiff did not answer the interrogatories. An order compelling answers was entered on July 25, 1986. Plaintiff’s subsequent response to the interrogatory regarding experts was that no expert had as yet been chosen. Discovery continued, but plaintiff never supplemented the interrogatory answers with the name of an expert. See MCR 2.302(E)(1)(a)(ii).
+Pursuant to local court rule, witness lists were to be exchanged by April 15, 1987. Defendant filed his witness list on May 18, 1987. Thereafter defense counsel claims he contacted plaintiff’s counsel to inquire about plaintiff’s witness list and was told plaintiff needed to depose defendant before an expert could be secured and a witness list filed. Defendant was deposed on July 22, 1987, but plaintiff never filed a witness list.
+On August 6, 1987, defendant served on plaintiff another set of interrogatories regarding plaintiff’s experts. On September 24, 1987, defendant filed a motion to compel answers or, in the alternative, to dismiss. According to defense counsel, the day before the motion was to be heard plaintiff’s attorney called and requested that defendant dismiss the motion in return for a promise that plaintiff would answer the interrogatories and provide a witness list within forty-five days. Plaintiff also promised to make her experts available for a discovery-only deposition prior to January, 1988. Defendant withdrew the motion but nothing was forthcoming from plaintiff.
+On June 24, 1988, defendant filed a motion for summary disposition claiming that plaintiff’s failure to provide a witness list or comply with discovery barred plaintiff from presenting the expert testimony necessary to sustain her burden of proof. The motion was heard on July 1, 1988, two weeks before the scheduled trial date. Noting plaintiff’s duty to supplement interrogatories, the trial court found plaintiff’s conduct made it impossible to prepare a defense, characterized the conduct as extreme and extraordinary neglect, and granted defendant’s motion for summary disposition. Plaintiff claims this was an abuse of discretion.
+Plaintiff first contends that her failure to provide an answer to the expert witness interrogatory was the result of defendant’s neglect to move to compel such answer. MCR 2.309(B)(4) requires that the recipient of interrogatories must timely serve answers on the other parties. Thus, in this case, it was plaintiff’s responsibility to a,nswer defendant’s interrogatory independent of any further action by defendant.
+Plaintiff next claims MCR 2.313 requires the court to enter an order compelling discovery before dismissing a case for failure to answer an interrogatory. We do not dispute this proposition. However, in this case the sanction imposed by the trial court was based on a violation of MCR 2.302(E)(1)(a)(ii), which requires supplementation of answers to interrogatories by providing the names of expert witnesses. Pursuant to MCR 2.302(E)(2), failure to provide such supplementation, even without an order compelling discovery, may result in imposition of "the sanctions stated in MCR 2.313(B), and, in particular, MCR 2.313(B)(2)(b).” MCR 2.313(B)(2)(b) authorizes "refusing to allow the disobedient party to support . . . designated claims ... or prohibiting the party from introducing designated matters into evidence.”
+In this case, consistent with MCR 2.302(E)(2) and MCR 2.313(B)(2)(b), the court barred plaintiffs use of expert evidence and then granted summary disposition because without such evidence plaintiff could not sustain her claim. The sanction imposed —the preclusion of expert evidence — was thus authorized by the court rules. In any event, there were at least two other court rule provisions, MCR 2.313(D)(1) and MCR 2.504(B)(1), which would have given the court the authority to impose sanctions without first having to issue an order to compel. See Bellok v Koths, 163 Mich App 780, 783; 415 NW2d 18 (1987).
+Plaintiff next contends that the sanction of dismissal is not favored at law and requires an evaluation of the merits on the record. North v Dep’t of Mental Health, 427 Mich 659; 397 NW2d 793 (1986). Houston v Southwest Detroit Hospital, 166 Mich App 623; 420 NW2d 835 (1987). This argument is inapposite since, as just noted, dismissal was not the direct sanction imposed by the trial court. Rather, as authorized by MCR 2.302(E)(2) and MCR 2.313(B)(2)(b), the sanction imposed was to prohibit plaintiff from calling any expert witnesses due to her breach of her duty under MCR 2.302(E)(1)(a)(ii) to supplement interrogatory answers with the names of those experts. Summary disposition (or, in plaintiff’s view, "dismissal”) was granted because, in the absence of expert testimony, there was no genuine issue of material fact. MCR 2.116(C)(10). The requirement of evaluation on the record is not applicable where a party brings a motion for summary disposition, however.
+Even under the factors enumerated in North, supra, dismissal as a sanction would be justified in this case. Plaintiff’s counsel failed to demonstrate good cause or absence of fault for not complying with discovery. There were only two weeks left before the scheduled trial date, there was a lengthy history of failure to comply with court rules, and justice is not better served by permitting this type of conduct. Bellok, supra. Krim v Osborne, 20 Mich App 237; 173 NW2d 737 (1969).
+Affirmed.
