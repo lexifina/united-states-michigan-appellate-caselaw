@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "62704"
+decided: "1983-04-18"
+citations: ["124 Mich. App. 785"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and V. J. Brennan and N. A. Baguley, JJ."]
+parties: ["PEOPLE v HOBBS"]
+source_url: "https://static.case.law/mich-app/124/cases/0785-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2227037
+cites_cases: ["10 ALR3d 974", "101 S Ct 896", "102 S Ct 1010", "114 Mich App 524", "116 Mich App 674", "118 Mich App 242", "120 Mich App 449", "192 NW2d 255", "227 NW2d 511", "293 NW2d 671", "295 NW2d 482", "319 NW2d 597", "323 NW2d 508", "324 NW2d 589", "329 NW2d 26", "331 NW2d 211", "384 US 436", "386 Mich 452", "393 Mich 554", "401 US 222", "409 Mich 474", "417 Mich 34", "420 US 714", "423 US 878", "437 US 82", "446 US 620", "449 US 1101", "454 US 1147", "46 L Ed 2d 111", "651 F2d 480", "66 L Ed 2d 827", "71 L Ed 2d 300", "96 Mich App 672", "96 S Ct 152", "97 ALR2d 1283"]
+---
+
+# People v. Hobbs
+
+## Majority (Danhof, C.J.)
+
+Danhof, C.J.
+Defendant was convicted of delivery of the controlled substance cocaine in violation of MCL 333.7401; MSA 14.15(7401), following a jury trial. He was sentenced to two years probation, with the first 36 days to be served in jail. Defendant appeals his conviction as of right.
+Defendant’s first trial on this charge ended in a mistrial when the jury was unable to reach a verdict. The second trial commenced just over one month later. He complains that retrial violated his right against twice being placed in jeopardy. US Const, Am V; Const 1963, art 1, § 15.
+Defendant does not complain that the trial court erred in declaring a mistrial or in its finding that the jury was unable to reach a verdict. Rather, he claims that retrial may never take place where the basis of the declaration of a mistrial is a hung jury. The United States Supreme Court and the Michigan Supreme Court have ruled otherwise. United States v Scott, 437 US 82, 92; 98 S Ct 2187; 57 L Ed 2d 65 (1978); People v Anderson, 409 Mich 474, 482-484; 295 NW2d 482 (1980), cert den 449 US 1101; 101 S Ct 896; 66 L Ed 2d 827 (1981). Even if we disagreed with those decisions, which we do not, we are powerless to overturn them. Schwartz v City of Flint (After Remand), 120 Mich App 449; 329 NW2d 26, 32 (1982).
+Defendant also complains that the prohibition against double jeopardy was violated because, several months prior to the time his first trial commenced, charges were dismissed and then reinstated. Jeopardy had not attached at that time. People v Anderson, supra, p 482. Therefore, this claim must also be rejected.
+Defendant next complains that reversible error occurred when the prosecutor was permitted to introduce, for impeachment purposes, evidence which was obtained by the use of a participant monitoring device and which was obtained without the procurement of a warrant. See People v Beavers, 393 Mich 554; 227 NW2d 511 (1975), cert den 423 US 878; 96 S Ct 152; 46 L Ed 2d 111 (1975).
+At trial, although defendant denied that he took part in the transaction, he admitted that he was present when a transaction took place between an undercover police officer and Jay Z. Winter. However, he denied that he knew that cocaine was the subject of that transaction. He claimed that he thought that the police officer was purchasing packets containing jewelry. On rebuttal, the prosecutor questioned another police officer who had been monitoring the proceedings through the use of an electronic device attached to the undercover officer. The monitoring officer testified that, when the undercover officer entered the house, he asked Winter in a loud voice, "You got the coke?” Winter responded by telling defendant to "take care” of the undercover officer.
+Defendant did not object to the admission of the evidence. Therefore, the issue is not properly before the Court. People v Baker, 114 Mich App 524, 529-530; 319 NW2d 597 (1982). Our review is precluded in the absence of a showing of manifest injustice.
+The conversation about which defendant complains was a conversation which took place between the undercover police officer and Winter. Defendant did not participate in that conversation. Furthermore, the conversation did not take place on premises owned or occupied by defendant. Therefore, it is not clear that defendant has standing to object to the admission of the evidence. People v Atkins, 96 Mich App 672, 677; 293 NW2d 671 (1980).
+Even assuming that defendant did have standing to raise this objection, we note that the evidence was only introduced for impeachment purposes. The Michigan Supreme Court’s position is unclear concerning the issue of whether the Michigan Constitution permits evidence which would be constitutionally inadmissible as substantive evidence to be introduced for impeachment purposes. Compare People v Esters, 417 Mich 34; 331 NW2d 211 (1982), with People v Graham, 386 Mich 452; 192 NW2d 255 (1971). It is clear that under the federal constitution such evidence is generally admissible for impeachment purposes irrespective of whether it is obtained as the result of an illegal search and seizure, see United States v Havens, 446 US 620; 100 S Ct 1912; 64 L Ed 2d 559 (1980), or as a result of a Miranda violation, Harris v New York, 401 US 222; 91 S Ct 643; 28 L Ed 2d 1 (1971); Oregon v Hass, 420 US 714; 95 S Ct 1215; 43 L Ed 2d 570 (1975). Furthermore, federal courts have permitted the use of such evidence for impeachment where it was obtained as a result of an illegal wiretap in violation of Title III of the Omnibus Crime Control and Safe Streets Act of 1968 (18 USC 2510-2520). See Jacks v Duckworth, 651 F2d 480, 484 (CA 7, 1981), cert den 454 US 1147; 102 S Ct 1010; 71 L Ed 2d 300 (1982).
+Although we are not bound by the federal decisions on this issue since Beavers, supra, was decided as a matter of state constitutional law, we are persuaded by the logic of those decisions. In our opinion, the purpose of the exclusionary rule will not be furthered by precluding the use of this evidence solely for the purpose of impeaching the credibility of defendant. Beavers, supra, only involved the use of such evidence during the prosecution’s case in chief. In the absence of a directive by the Supreme Court to the contrary, we are unwilling to extend the holding of Beavers, supra, to preclude the use of this type of evidence where it is introduced solely for the purpose of impeachment.
+We have examined defendant’s remaining claims of error and find them to be without merit. People v Jansson, 116 Mich App 674, 693-694; 323 NW2d 508 (1982); People v Burns, 118 Mich App 242, 246-247; 324 NW2d 589 (1982).
+Affirmed.
+Miranda v Arizona, 384 US 436; 86 S Ct 1602; 16 L Ed 2d 694; 10 ALR3d 974 (1966).
