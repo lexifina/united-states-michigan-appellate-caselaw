@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-2876"
+decided: "1978-02-23"
+citations: ["81 Mich. App. 556"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bashara, P. J., and Beasley and D. E. Holbrook, Jr., JJ."]
+parties: ["MOCK v CITY OF DETROIT"]
+source_url: "https://static.case.law/mich-app/81/cases/0556-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2159151
+cites_cases: ["123 SE2d 115", "217 Ga 234", "219 NW 714", "242 Mich 624", "47 Okla 411", "487 F2d 986", "91 Conn 404", "99 A 1032"]
+---
+
+# Mock v. City of Detroit
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal a trial court order dismissing their cause of action against defendants. Dismissal was granted on defendant’s motion after plaintiffs refused to obey the court’s discovery order requiring each plaintiff to be deposed without the presence of the other co-plaintiffs.
+Suit was initiated by plaintiffs to recover for personal injuries allegedly sustained when the automobile in which they were riding was struck from behind by defendant’s bus, which was being driven by defendant, Sutton. Sometime after the accident Sutton relocated and cannot be found. He and plaintiffs were the only witnesses to the accident.
+Noting the circumstances of Sutton’s unavailability, defendant city urges affirmance of the trial court’s discovery order as the only means by which the plaintiffs could be effectively cross-examined and the validity of their allegations tested. The city refers to the uniformity of the plaintiffs’ answers to its interrogatories. It suggests that presence of all plaintiffs at each other’s deposition will facilitate their fabrication of testimony, frustrating the city’s efforts to reveal the truth.
+Whether a trial court may issue an order under GCR 1963, 306.2 to preclude a party from attending the deposition of a co-party is the determinative question we must resolve. Defendant contends that such authority is provided by that clause contained in rule 306.2 that states "or the court may make any other order which justice requires to protect the party or witness from annoyance, undue expense, embarrassment, or oppression”. GCR 1963, 306.2. However, this clause is preceded by a delineation of possible discovery orders permitted by the rule. One of those specifically addresses orders restricting the presence of persons at a deposition and states, "or that the examination shall be held with no one present except the parties to the action and their officers and counsel.” Id. (Emphasis added.)
+This latter provision has been construed by other jurisdictions with a similarly phrased discovery rule to give all parties the right of attendance at depositions. Further, Federal procedure from which this rule was derived contains identical language, but was subsequently amended. FR Civ P 26(c), amending FR Civ P 30(b). See also 2 Honigman & Hawkins, Michigan Court Rules Annotated (2d ed), p 110. As a consequence of that amendment, the power of the courts was enlarged to permit exclusion of a party from presence at a deposition. Galella v Onassis, 487 F2d 986, 997 (CA 2, 1973).
+Since our rule has not been amended and makes a specific exception as to parties from an order limiting attendance at depositions, we conclude that the trial court was without authority to preclude the presence of plaintiffs from the deposition of co-plaintiffs.
+That the trial court’s order is erroneous is also suggested by the committee comments to rule 306.2, reported at 2 Honigman & Hawkins, Michigan Court Rules Annotated (2d ed), p 110. The purpose of the rule is to protect deponents from a deposing party’s abuse of the discovery proceedings, not to protect the deposing party. Id.
+Accordingly, we also conclude that the order of dismissal was improper. Orders of dismissal under rule 313.2, by the clear language of that rule, are available only for disobediance of an order issued pursuant to GCR 1963, 310, 311, or 313.1. GCR 1963, 313.2. Additionally, punishment by dismissal cannot be ordered for failure to obey an order that the court did not have the power to issue. This is analogous to the rule developed in the context of contempt proceedings. See Stowe v Wolverine Metal Specialties Co, 242 Mich 624; 219 NW 714 (1928).
+In rule 306.2, the express exception for parties from an order restraining attendance of persons at depositions left the court without power to issue the order challenged by plaintiffs. As a consequence, that order was void. Id.
+Reversed and remanded for proceedings consistent with this opinion. Costs to plaintiffs.
+The order of dismissal was predicated upon GCR 1963, 313.2, which in pertinent part provides:
+''.2 Failure to Comply With Order.
+"(1) Contempt. If a party or other deponent refuses to be sworn or refuses to answer any question after being directed to do so by the court in the county in which the deposition is being taken or by the court in which' the action is pending, the refusal may be considered a contempt of the court which made such order.
+"(2) Other Consequences. If any party or an officer or managing agent of a party refuses to obey an order made under subrule 313.1 requiring him to answer designated questions, or an order made under either Rule 310 or 311, the court may make such orders in regard to the refusal as are just.”
+The discovery order was issued pursuant to the provisions of GCR 1963, 306.2, which states:
+"Orders for the Protection of Parties and Deponents. Upon motion seasonably made by either party or by the person to be examined and upon reasonable notice and for good cause shown, the court in which the action is pending may make an order that the deposition shall not be taken, or that it may be taken only at some designated time or place other than that stated in the notice, or that it may be taken only on written interrogatories, or that certain matters shall not be inquired into, or that the scope of the examination shall be limited to certain matters, or that the examination shall be held with no one present except the parties to the action and their officers and counsel, or that after being sealed the deposition shall be opened only by order of the court, or that secret processes, developments or research need not be disclosed, or that parties shall simultaneously file specified documents or information enclosed in sealed envelopes to be opened as directed by the court; or the court may make any other order which justice requires to protect the party or witness from annoyance, undue expense, embarrassment or oppression. The court shall not order the production or inspection of any writing prepared by the adverse party, his attorney, surety, indemnitor, or agent in anticipation of litigation or in preparation for trial unless satisfied that denial of production or inspection will unfairly prejudice the party seeking the production or inspection in preparing his claim or defense or will cause him undue hardship or injustice. The court shall not order the production or inspection of any part of the writing that reflects an attorney’s mental impressions, conclusions, opinions, or legal theories.”
+See, e.g., Reynolds v Reynolds, 217 Ga 234, 245-246; 123 SE2d 115, 127 (1961) (language of court rule similar to GCR 1963, 306.2), Anderson v Snyder, 91 Conn 404; 99 A 1032 (1917) (language of court rule similar to GCR 1963, 306.1), Gillis v First National Bank of Frederick, 47 Okla 411; 148 P 994 (1915) (language of court rule similar to GCR 1963, 306.1).
