@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77465"
+decided: "1986-05-05"
+citations: ["151 Mich. App. 358"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and R. M. Maher and J. C. Kingsley, JJ."]
+parties: ["PEOPLE v 8120 RAVINE ROAD, ALAMO TOWNSHIP"]
+source_url: "https://static.case.law/mich-app/151/cases/0358-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2285810
+cites_cases: ["101 Mich App 559", "144 Mich App 272", "198 NW2d 7", "213 NW 152", "238 Mich 5", "240 NW 94", "256 Mich 564", "301 NW2d 33", "343 NW2d 164", "375 NW2d 365", "39 Mich App 433", "411 Mich 869", "418 Mich 311", "59 ALR Fed 765"]
+---
+
+# People v. 8120 Ravine Road
+
+## Majority (Danhof, C.J.)
+
+Danhof, C.J.
+The people appeal as of right from a March 23, 1984, order of summary judgment granted by the Kalamazoo Circuit Court pursuant to GCR 1963, 117.2(1), now MCR 2.116(C)(8), for failure to state a claim upon which relief can be granted. This order dismissed the people’s complaint which had sought forfeiture of a dwelling, outbuildings, and real estate located at 8120 Ravine Road, Alamo Township, Kalamazoo County, under article 7 of the Public Health Code, commonly called the controlled substances act, MCL 333.7101 et seq.; MSA 14.15(7101) et seq.
+The complaint alleged that the owners of the real estate, Pamela and James Deerwester, had been charged with violations of the act; more specifically, James had been charged with possession of cocaine and conspiracy to deliver lsd, and Pamela had been charged with possession of cocaine, delivery of lsd, conspiracy to deliver lsd, and possession of lsd contrary to the statute. The complaint further alleged that the real estate was subject to forfeiture because (1) it was "property which was used, or intended for use, as a container for a controlled substance, to-wit: cocaine or lsd,” (2) it was "property used or intended to be used to facilitate a violation of the Controlled Substance Act MCLA 333.7201 et seq [sic], to-wit: the apparent or probable owners of the property, Pamela Deerwester and/or James Deerwester, transported, possessed, and/or delivered lsd and/or cocaine within the County of Kalamazoo,” or (3) it was "property found in close proximity to a controlled substance, to-wit: cocaine and/or lsd.”
+At the hearing on the Deerwesters’ motion for summary judgment, the trial court found that the factual allegations contained in the complaint were insufficient. The trial court did not allow the people an opportunity to amend the complaint because it found, as a matter of law, that a house, outbuildings and real property did not constitute a "container” within the meaning of the statute. The parties did not argue, and the trial court did not consider or decide, the other grounds for forfeiture alleged in the complaint.
+A motion for summary judgment under GCR 1963, 117.2(1) tests the legal basis of the complaint. It does not test the nonmoving party’s ability to prove the allegations. Upon review this Court relies upon the pleadings alone and accepts as true all well-pleaded facts, along with any inferences or conclusions which may fairly be drawn from those facts. This Court will not affirm the grant of a motion for summary judgment unless the claim is so clearly unenforceable as a matter of law that no factual development could possibly supply a basis for recovery. Abel v Eli Lilly & Co, 418 Mich 311, 323-324; 343 NW2d 164 (1984); Tobias v Phelps, 144 Mich App 272, 275-276; 375 NW2d 365 (1985).
+MCL 333.7521; MSA 14.15(7521) provides a list of property which may be subject to forfeiture for violation of the controlled substances act. The list includes in part the following:
+(a) A controlled substance or an imitation controlled substance which has been manufactured, distributed, dispensed, used, possessed, or acquired in violation of this article.
+(b) A raw material, product, or equipment of any kind which is used, or intended for use, in manufacturing, compounding, processing, delivering, importing, or exporting a controlled substance in violation of this article; or a raw material, product, or equipment of any kind which is intended for use in manufacturing, compounding, processing, delivering, importing, or exporting an imitation controlled substance in violation of section 7341.
+(c) Property which is used, or intended for use, as a container for property described in subdivision (a) or (b).
+On appeal, the people argue as they did below that a house is a container within the meaning of subsection (c) of the statute. The people urge this Court to construe "container” in a way to help enforce the forfeiture statute. According to the people, the Legislature intended to punish people dealing in drugs and intended to allow the forfeiture of real property under this provision. The people argue that a container is "anything that contains,” and that the size of a container is irrelevant. We disagree.
+A statute awarding a penalty is to be strictly construed, and, before a recovery may be made, the case must be brought clearly within the terms of the statute. Goetz v Black, 256 Mich 564, 572-573; 240 NW 94 (1932). Further, the law does not favor a forfeiture. People v Campbell, 39 Mich App 433; 198 NW2d 7 (1972).
+We agree with the trial court that the term "container” does not include something fastened to the earth such as a house. Webster’s New World Dictionary (2d College ed), p 306, defines the term as "a thing that contains or can contain something; box, crate, can, jar, etc.” Although the term embraces the concept of an object capable of holding another object, it is commonly understood to refer to a receptacle used to package or to ship articles and goods. Compare, 9 Words & Phrases, "Container,” p 33 and pocket supp., p 20. We conclude as a matter of law that a house is not a "container” for purposes of this subsection. The trial court properly granted summary judgment since no factual development could have possibly justified forfeiture on this basis.
+We decline to consider the second issue raised by the people, namely, whether the real estate was property used to facilitate a violation of the controlled substances act. A claim which did not control the disposition of the case in the lower court and in fact was not considered at all need not be determined on appeal. Bentley v Shifflet, Cumber & Co, 238 Mich 5; 213 NW 152 (1927); Michigan Ass’n of Psychotherapy Clinics v Blue Cross & Blue Shield of Michigan, 101 Mich App 559; 301 NW2d 33 (1980), modified on other grounds, 411 Mich 869 (1981). In this case, the parties did not argue and the trial court did not consider this alternate ground for forfeiture. Thus, we do not consider it on appeal.
+Affirmed and remanded for further proceedings. No costs, a public question involved.
