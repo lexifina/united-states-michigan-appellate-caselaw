@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "12964"
+decided: "1972-06-27"
+citations: ["41 Mich. App. 611"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P. J., and T. M. Burns and Targonski, JJ.", "All concurred."]
+parties: ["BAUMAN v GRAND TRUNK WESTERN RAILROAD COMPANY"]
+source_url: "https://static.case.law/mich-app/41/cases/0611-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2116882
+cites_cases: ["10 ALR3d 1371", "14 Mich App 1", "184 Mich 304", "254 Mich 187", "359 Mich 33", "36 ALR3d 900", "361 Mich 1", "388 Mich 793"]
+---
+
+# Bauman v. Grand Trunk Western Railroad
+
+## Majority (J. H. Gillis, P. J.)
+
+J. H. Gillis, P. J.
+On April 20, 1956, plaintiff’s husband suffered the loss of both of his lower legs when the motortruck he was driving was struck by one of defendant’s locomotives at a crossing of defendant railroad in the village of Gregory, Livingston County, Michigan. Plaintiff’s husband filed a court action and obtained a judgment for his damages.
+Under the law in effect in this state at the time plaintiff’s husband was injured, a wife whose husband had been negligently injured could not recover from a third-party tortfeasor for her loss of consortium. Blair v Seitner Dry Goods Co, 184 Mich 304 (1915); Harker v Bushouse, 254 Mich 187 (1931). However, on February 24, 1960, the Michigan Supreme Court in Montgomery v Stephan, 359 Mich 33 (1960), in expressly overruling Blair, supra, and Harker, supra, to the extent they might be interpreted as authority to the contrary, announced its departure from the common law by declaring that a married woman could now recover for loss of consortium resulting from a tortious injury to her husband.
+Consequently, on March 14, 1962, plaintiff started suit seeking to recover money damages for loss of consortium. On April 10, 1962, defendant filed a motion to dismiss on the ground that plaintiff’s cause of action was barred by the statute of limitations. On May 4, 1962, the motion was heard by the trial judge and taken under advisement. At the close of arguments the court directed defense counsel to file a brief in support of his motion within 30 days and directed counsel for the plaintiff to file a reply brief within 30 days after being served with defendant’s brief. Defendant’s motion to dismiss was granted in the court’s written opinion dated October 21, 1971, on the basis that plaintiff had failed to start suit in accordance with the statute of limitations. An order of dismissal was entered October 29, 1971. Plaintiff having filed a claim of appeal, the matter now comes before our Court.
+The sole issue to be considered is whether plaintiff’s cause of action, based upon injuries received by her husband on April 20, 1956, was barred by the statute of limitations when suit was not commenced until March 14, 1962. Under the statutory law of this state, the period of limitations for a cause of action of the character now before us is three years. MCLA 600.5805(7); MSA 27A.5805(7). The following statute, MCLA 600.5827; MSA 27A.5827, reveals the method of applying the three-year limitation period:
+"Except as otherwise expreásly provided, the period of limitations runs from the time the claim accrues. The claim accrues at the time provided in sections 5829 to 5838, and in cases not covered by these sections the claim accrues at the time the wrong upon which the claim is based was done regardless of the time when damage results.” (Emphasis supplied.)
+There is no question but that the time the wrong occurred upon which the present claim is based is the same date plaintiff’s husband was injured, namely, April 20, 1956. However, plaintiff contends that although in the ordinary situation the statute would start to run when the injury occurred, when a new cause of action is created by the courts (one having no right of action accruing prior thereto), the applicable period of limitations does not begin to run until the decisional date of the opinion, nothing being said to the contrary. Consequently, plaintiff argues that her cause of action not arising until February 24, 1960 (the decisional date of the Montgomery Case) and the three-year statute of limitations not beginning to run until such date, since she commenced her suit on March 14, 1962, the trial court erred in ruling that her cause of action was barred by the statute of limitations.
+A similar situation presented itself in Cibor v Oakwood Hospital, 14 Mich App 1 (1968). There, the determination of "when a plaintiff’s cause of action accrued” became determinative of whether or not he would receive the benefit of the Supreme Court’s landmark decision in Parker v Port Huron Hospital, 361 Mich 1 (1960), which abolished in Michigan the common-law immunity of charitable institutions to tort actions. In Parker v Port Huron Hospital, supra, the Court stated at p 28:
+" * * * We believe the new rule should apply to the instant case and to all future causes of action arising after September 15, 1960, the date of the filing of this opinion.”
+The Court in Cibor v Oakwood Hospital, supra, in speaking to this issue, stated at p 6:
+"The decisive date regarding the imposition of liability against charitable institutions for the negligence of its servants is September 15, 1960, the effective date of the decision of Parker v Port Huron Hospital, supra. The lengthy and well considered opinion leaves little to the imagination as to the date from which the rule shall operate, 361 Mich at p 28, and that the rule shall be effective as of the date of accrual of the cause of action, id.
+"Plaintiff in this case complained of a negligent act occurring prior to September 15, 1960; she was discharged from defendant hospital prior to that date. No other argument is made as to why the cause of action did not accrue prior to September 15 except, perhaps, that found in the framed question, to-wit: that plaintiff was treated as late as January, 1961, by the same physician who had attended her at Oakwood Hospital.
+"The contention is amply refuted by the provision in CLS 1961, §600.5827 (Stat Ann 1962 Rev §27A.5827) which states that a claim accrues at the time the wrong upon which the claim is based was done regardless of the time when damage results.”
+Apparently, the Court in Cibor v Oakwood Hospital, supra, could not conceive that the decisional date of Parker v Port Huron Hospital, supra, should be the starting time for the accrual of its plaintiffs cause of action where the negligent act occurred prior to that date. That Court took the position that just because the law previously prevented recovery on the theory of charitable immunity, when the defense became abolished (thus allowing recovery), this had no effect on the time the cause of action accrued. Turning to the case at bar, we likewise do not see why the decisional date of Montgomery, supra, should change the ordinary accrual time of this plaintiff’s cause of action.
+Affirmed. Costs to appellee.
+All concurred.
+Defendant’s brief was not filed and served until October 21, 1971, on which date plaintiff’s reply brief was then filed. Although the court’s written order taking the motion under advisement stated that "briefs be submitted”, said order did not indicate the time within which the briefs had to be filed.
