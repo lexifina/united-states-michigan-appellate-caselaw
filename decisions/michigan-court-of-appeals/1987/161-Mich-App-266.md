@@ -1,0 +1,54 @@
+---
+court: "Michigan Court of Appeals"
+docket: "84135"
+decided: "1987-07-07"
+citations: ["161 Mich. App. 266"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cynar, P.J., and M. J. Kelly and J. A. Hathaway, JJ."]
+parties: ["PEOPLE v 2850 EWING ROAD"]
+source_url: "https://static.case.law/mich-app/161/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2303248
+cites_cases: ["144 Mich App 70", "151 Mich App 358", "198 NW2d 7", "372 NW2d 685", "39 Mich App 433", "390 NW2d 242"]
+---
+
+# People v. 2850 Ewing Road
+
+## Majority (Cynar, P.J.)
+
+Cynar, P.J.
+John and Etta Foltynewicz appeal as of right from a March 25, 1985, order of the circuit court granting the people summary judgment pursuant to GCR 1963, 117.2(3), now MCR 2.116(C)(10), finding no genuine issue of material fact.
+The trial judge granted the people’s motion for summary judgment on the basis of the "Second Amended Complaint for Forfeiture.” In the complaint, the people alleged that the dwelling and real estate located at 2850 Ewing Road, Cedar Creek Township, Muskegon County, were used to facilitate the distribution and sale of controlled substances and were used as a container for such controlled substances.
+The people filed a motion for summary judgment arguing that the property was subject to forfeiture pursuant to MCL 333.7521; MSA 14.15(7521). Two affidavits were filed by the people and relied upon by the trial judge in granting the people’s motion. The trial judge also relied upon the guilty-plea transcript of Etta Foltynewicz.
+The trial court in its lengthy opinion made the following findings of fact:
+(1) There was a valid search and seizure of 2850 Ewing Rd., residence on October 21, 1982.
+(2) The house was being purchased and occupied by John and Etta Foltynewicz, and a co-purchaser was Delores Foltynewicz Crain.
+(3) That substantial quantities of marijuana, some cash, scale, pills, tin cans with money were located in the house.
+(4) That John Foltynewicz engaged in the regular sale of marijuana.
+(5) That his house was periodically used as a point in which to keep the marijuana.
+(6) He possessed the marijuana at the residence of 2850 Ewing Rd., for the intent to deliver to others.
+Appellants do not dispute these factual findings on appeal.
+The trial judge concluded that there was no dispute as to any genuine issue of material fact, and the real property located at 2850 Ewing Road was subject to forfeiture under two separate sections of the controlled substances act. First, the property was subject to forfeiture as it was property used as a "container” for illegal substances in violation of subsection (c) of MCL 333.7521; MSA 14.15(7521). Second, the property was subject to forfeiture pursuant to subsection (f) of MCL 333.7521; MSA 14.15(7521) because it was a thing of value "used to facilitate” a violation of the controlled substances act.
+Appellants appeal the trial court’s ruling on both grounds, alleging that the trial judge erred as a matter of law. Appellants also argue that there is a dispute as to an issue of material fact.
+Appellants contend that the trial court erred in holding that the subject real property could be forfeited as a container pursuant to MCL 333.7521(c); MSA 14.15(7521)(c). We agree.
+Subsections (a) and (b) of § 7521 describe property which may be subject to forfeiture for violation of the controlled substances act. Subsection (c) provides:
+Property which is used, or intended for use, as a container for property described in subdivision (a) or (b).
+This Court, in People v 8120 Ravine Road, Alamo Twp, 151 Mich App 358; 390 NW2d 242 (1986), held that as a matter of law a house is not a container for purposes of subsection (c).
+The trial court erred in granting the people’s motion for summary judgment on the basis of subsection (c) of § 7521 of the controlled substances act. As a matter of law a dwelling house is not a container.
+Appellants further argue that the trial court erred in ruling that the subject real property could be forfeited as a thing used to facilitate a violation of the controlled substances act. We agree.
+Subsection (f) of § 7521 provides that the following property is subject to forfeiture:
+(f) Any thing of value that is furnished or intended to be furnished in exchange for a controlled substance or an imitation controlled substance in violation of this article, traceable to an exchange for a controlled substance or an imitation controlled substance in violation of this article, or used or intended to be used to facilitate any violation of this article including but not limited to money, negotiable instruments, or securities. [MCL 333.7521(f); MSA 14.15(7521X0.]
+At issue is the construction to be given the language "[a]ny thing of value that is . . . used or intended to be used to facilitate any violation of this article including but not limited to money, negotiable instruments, or securities.”
+The rules for statutory construction were concisely stated in Nicholas v Michigan State Employees Retirement Bd, 144 Mich App 70, 74; 372 NW2d 685 (1985):
+Briefly stated the rules are: (1) when a statute is unambiguous, further construction is to be avoided; (2) if an ambiguity exists, the intent of the Legislature must be given effect; (3) a construction which best accomplishes the statute’s purpose is favored; (4) statutes are to be interpreted as a whole and construed so as to give effect to each provision; (5) specific words in a statute are given their ordinary meaning unless a different interpretation is indicated; and (6) respectful consideration is to be given to the construction of a statute used by those charged with its application.
+The statute does not expressly identify real property as "any thing of value” used to facilitate violations of the controlled substances act. Because the statute is ambiguous, this Court must give effect to the intent of the Legislature.
+While statutes are presumed to be constitutional, forfeitures are not favored by the law. People v Raymond Campbell, 39 Mich App 433, 438; 198 NW2d 7 (1972). As a result, statutes providing for forfeitures are to be strictly construed, and a court will not indulge in a constrained construction to create a forfeiture. Campbell, supra; 37 CJS, Forfeitures, § 4, pp 8-9.
+Subsection (f) provides for forfeiture of any thing of value in several circumstances. First, any thing of value that is "furnished or intended to be furnished in exchange for a controlled substance” is subject to forfeiture. Second, any thing of value that is "traceable to an exchange for a controlled substance” is subject to forfeiture. Third, any thing of value that is "used or intended to be used to facilitate any violation” of the controlled substances act is subject to forfeiture. The people in this case contend that a thing of value, i.e., the property at 2850 Ewing Road, is subject to forfeiture because it was used or intended to be used to facilitate violation of the controlled substances act.
+Under MCL 333.7523(3); MSA 14.15(7523X3), the Legislature provides that the title to real property forfeited under the controlled substances act shall be determined by a court of competent jurisdiction. Unless the Legislature contemplated that real property was subject to forfeiture in some manner pursuant to § 7521, § 7523(3) would be superfluous. It is appellants’ contention that real property is subject to forfeiture under subsection (f) only when it is furnished or intended to be furnished in exchange for a controlled substance or traceable to an exchange for a controlled substance. Appellants argue that a thing of value that is used or intended to be used to facilitate any violation of the controlled substances act does not include real property because of the limiting proviso "including but not limited to money, negotiable instruments, or securities.”
+We conclude that the proviso including but not limited to money, negotiable instruments, or securities rfelates only to that portion of subsection (f) which provides that any thing of value is subject to forfeiture which is "used or intended to be used to facilitate any violation of this article.” We so conclude because of the lack of a comma between the word "article” and the proviso.
+By holding that the proviso excludes a dwelling house from forfeiture under that portion of the statute which provides for forfeiture of any thing of value which is "used to facilitate” a violation of the article, a dwelling house may still be forfeited if it is furnished or is traceable to an exchange for a controlled substance, and § 7523(3) would not be rendered a nullity.
+We believe that had the Legislature not desired to limit the type of property subject to forfeiture, it would have inserted no limiting words whatsoever. Instead, the Legislature would have simply placed a period after the word article. If it had done so, any thing that was used to facilitate a drug transaction could have been seized. Instead, the Legislature chose to add an illustrative list. That list includes money, negotiable instruments, and securities. Clearly, the Legislature did not intend to specifically limit the type of property to those specific items. On the other hand, the items in the illustrative list are all items of property radically different in kind from real property. Nothing in this statute indicates a legislative intent that the situs of a drug transaction is subject to forfeiture merely because it is the situs. Had the Legislature intended a house to be subject to forfeiture if an illegal drug transaction occurs within the house, it could have clearly stated so. In other sections of the statute, the Legislature specifically provided that an aircraft, a vehicle, or a vessel was subject to forfeiture. It provided that books, records, research products, microfilm, tapes, and data are subject to forfeiture. It provided that containers for controlled substances were subject to forfeiture. However, nowhere in the statute does the Legislature indicate its intent that real property is subject to forfeiture merely because it is the situs of a drug transaction.
+We conclude real property is subject to forfeiture if it is furnished in exchange for a controlled substance or if real property is traceable to an exchange for a controlled substance. However, given the precept that the law does not favor forfeiture and that statutes providing for forfeitures are to be strictly construed, we hold that the Legislature did not express an intent in subsection (f) that real property which is merely the situs of a violation of the controlled substances act be subject to forfeiture.
+Reversed in accordance with this opinion.
