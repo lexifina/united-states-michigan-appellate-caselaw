@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "71"
+decided: "1967-02-28"
+citations: ["6 Mich. App. 189"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Burns and Newblatt, JJ., concurred."]
+parties: ["PEOPLE v. GALINSKI."]
+source_url: "https://static.case.law/mich-app/6/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2025290
+cites_cases: ["1 ALR3d 1205", "3 Mich App 427", "374 Mich 331", "84 S Ct 1774"]
+---
+
+# People v. Galinski
+
+## Majority (McGregor, P. J.)
+
+McGregor, P. J.
+This appeal comes to us by way of application for leave to appeal, granted by the Supreme Court of Michigan and assigned to the Court of Appeals.
+The appellant was convicted of breaking and entering in the nighttime, with intent to commit larceny. On January 13, 1960, the appellant was arrested on suspicion of auto theft by the Michigan State police of the Flint post. The appellant had been questioned by the officers when they observed him in an automobile, stopped on an interstate highway right-of-way. Neither the appellant nor a female passenger, whose husband owned the automobile, as it later turned out, could produce a driver’s license or auto registration. The auto was searched by the officers and was found to contain a quantity of merchandise, automobile titles, and business records (these items were later identified as those stolen from a Flint auto dealership).
+Later the same day, on January 13, 1960, the appellant was transferred to the Saginaw county jail. During the appellant’s confinement in the Saginaw county jail, he made statements concerning the aforementioned breaking and entering, and these statements were presented as a confession. Appellant argued that during his incarceration, he was kept in solitary confinement and otherwise inhumanely treated. He claimed the confession was given upon a promise to end his inconvenience and was thus not voluntary. Mr. Perkins, the trial attorney for the appellant, objected to the introduction of the confession into evidence. The objection and ruling upon it are shown by the record.
+“Mr. Perkins. I object to that, Your Honor.
+“The Court. What , is the nature of your objection?
+“Mr. Perkins. Attempting to get a confession in here. There’s no showing it was voluntarily made or that it was made.”
+After argument on the objection, with the jury excused, the court stated:
+“The Court. * * * the Court at this time [is] ruling that it will be a matter for the jury, once the evidence is all in, to determine whether or not any confession or any statement made by the defendant was voluntary or not under the facts and circumstances of the case, and should -the jury find that the statement or confession was not voluntarily made; then the Court will instruct them that they are to disregard any statement made whatsoever.”
+The question, of the voluntariness of the conféssion was submitted to the jury by the trial judge under the following excerpt from the charge:
+“As to statements claimed to have been made by the accused to others after the event, you have a right to take into consideration all of the facts and circumstances ■ surrounding the making óf' these statements by him, to show as to how and under what conditions he came to make them, the interest or bias, if any, of the witnesses to whom they were .made, and whether or not they were voluntarily made.”
+The appellant now appeals the conviction on several grounds, one of which is that the submission of the confession to the jury to determine its voluntariness is in conflict with the law of Michigan, as expressed in People v. Walker (on rehearing, 1965), 374.Mich 331. The appellant also argues that the statements were not in fact a confession of guilt, but- merely an admission that he knew the stolen '"articles in question had been taken from the auto dealership. The appellant also claims that the verdict was hot supported by the evidence. The appellant also claims that the trial judge made improper comments about some of the evidence admitted in the presenca of the jury.
+At the outset, it can -be said that it is within the province of the jury to decide the weight and credibility of the evidence. Whether the statements made by 'the appellant concerning the breaking and entering were in fact a confession goes to the' weight of the evidence, and thus is within the province of the jury. Whether there is enough evidence for a. conviction is also generally within the province of the , jury, and a verdict would not be overturned as a .' general rule, unless it is unsupported by the evidence. Appellant’s claim that the trial judge made improper comments upon the evidence is unsupported in the record, and we find no reversible error on that point.
+. We find merit only in the appellant’s point concerning the ruling on the voluntariness of his confession. The case of People v. Walker, supra, was Michigan’s response to the constitutional mandate of Jackson v. Denno (1964), 378 US .368 (84 S Ct 1774, 12 L ed 2d 908,1 ALR3d 1205). What People v. Walker held has been recently stated by this Court, in People v. Jury (1966), 3 Mich App 427, 434, 435:
+■ “The cases of Jackson v. Denno, supra, and People v. Walker, supra, are authority for the rule that the defendant may object to the use of an alleged involuntary confession and must have a fair hearing and a reliable determination on the issue of voluntariness, not influenced by the truth or falsity .of the confession. In Michigan the hearing must be ,had in the absence of the jury and admissibility determined by the judge on a separate record. If found to be voluntary, it is admitted, and the jury’s consideration limited to its weight and credibility. If found to be involuntary, it is suppressed.”
+In People v. Walker, supra, it was made clear that the ruling would be retrospective, as it was stated at page 337 that a rule would be adopted “both retrospectively and prospectively.”
+The Michigan Supreme Court, in Walker, supra, at pages 338 and 339, interpreted the holding of Jackson v. Denno, supra, and set out the proper appellate procedures in such situations:
+“If the trial judge, on the basis of the separate hearing and record made, determines that the confession was involuntarily given, defendant will thereupon instanter be granted a new trial. Contrariwise, if he determines the confession to have been voluntarily given, and thus admissible in evideuce, defendant will have had a trial affording him constitutional due process. This we believe likewise accords with the intent of the opinion in Jackson, supra, 393-394:
+“ ‘It is New York [Michigan], therefore, not the Federal habeas corpus court, which should first provide Jackson with that which he has not yet had and to which he is constitutionally entitled — an adequate evidentiary hearing productive of reliable results concerning the voluntariness of his confession. It does not follow, however, that Jackson is automatically entitled to a complete new trial including a retrial of the issue of guilt or innocence. Jackson’s position before the district court, and here, is that the issue of his confession should not have been decided by the convicting jury but should have been determined in a proceeding separate and apart from the body trying guilt or innocence. So far we agree and hold that he is now entitled to such a hearing in the State court. But if at the conclusion of such an evidentiary hearing in the State court on the coercion issue, it is determined that Jackson’s confession was voluntarily given, admissible in evidence, and properly to be considered by the jury, we see no constitutional necessity at that point for proceeding with a new trial, for Jackson has already been tried by a jury with the confession placed before it and has been found guilty.”
+This case is remanded to the trial court, which is directed to make a determination upon a separate record of the voluntariness of appellant’s statements admitted in evidence at the trial, in conformity with the ruling of People v. Walker, supra. If the trial judge, on the basis of the hearing and record made before him, determines that any such statement was involuntarily made, he shall enter an order vacating the verdict of guilty and the sentence, and grant a new trial.
+Burns and Newblatt, JJ., concurred.
+CL 1948, § 750.110 (Stat Ann 1962 Rev § 28.305).
