@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-1101"
+decided: "1979-01-17"
+citations: ["88 Mich. App. 264"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and R. M. Maher and D. C. Riley, JJ."]
+parties: ["SHWARY v CRANETROL CORPORATION"]
+source_url: "https://static.case.law/mich-app/88/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2181198
+cites_cases: ["10 Mich App 55", "158 NW2d 786", "213 NW2d 765", "220 US 61", "230 NW2d 371", "232 NW2d 636", "242 NW2d 798", "245 NW2d 418", "247 NW2d 764", "257 NW2d 210", "267 NW2d 72", "381 Mich 766", "394 Mich 655", "398 Mich 117", "402 Mich 554", "50 Mich App 597", "60 Mich App 190", "68 Mich App 418", "70 Mich App 100", "76 Mich App 663"]
+---
+
+# Shwary v. Cranetrol Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+As a result of Richard Schwary’s work-related injury, he and his wife Barbara Schwary filed suit on April 13, 1977, against certain individuals as third-party tortfeasors. Upon learning that Continental Casualty Company, insurer for the plaintiff-husband’s employer, had conducted safety inspections at the work site, plaintiffs amended their complaint to include them as a defendant. On January 24, 1978, Continental moved for summary judgment and dismissal as a party, arguing that in light of the Legislature’s 1972 amendments to the Worker’s Disability Compensation Act, MCL 418.101 et seq.; MSA 17.237(101) et seq., it had been granted immunity from such third-party liability. This motion was granted by the lower court, and plaintiffs appeal as of right.
+As part of the act’s 1972 modifications, the definition of "employer” was changed to read as follows:
+"The right to the recovery of benefits as provided in this act shall be the employee’s exclusive remedy against the employer. As used in this section and section 827 'employee’ includes the person injured, his personal representatives and any other person to whom a claim accrues by reason of the injury to or death of the employee, and 'employer’ includes his insurer, a service agent to a self-insured employer, and the accident fund insofar as they furnish, or fail to furnish, safety inspections or safety advisory services incident to providing workmen’s compensation insurance or incident to a self-insured employer’s liability servicing contract.” MCL 418.131; MSA 17.237(131).
+In addition, a new section to the statute was added providing that:
+"The furnishing of, or failure to furnish, safety inspections or safety advisory services incident to providing workmen’s compensation insurance, or pursuant to a contract providing for safety inspections or safety advisory services between the employer and a self-insurance service organization or a union shall not subject the insurer, self-insured service organization or the accident fund, or their agents or employees, or the union, its members or the members of its safety committee, to third party liability for damages for injury, death or loss resulting therefrom.” MCL 418.827(8); MSA 17.237(827X8).
+A reading of this amendatory language clearly indicates a legislative intent to afford immunity protection for insurance carriers. See Smith v Sentry Ins, 76 Mich App 663; 257 NW2d 210 (1977), Andrews v Ins Co of North America, 60 Mich App 190, 196; 230 NW2d 371 (1975). Plaintiffs’ contention that Michigan courts have rejected the notion of carrier immunization from tort liability arising from negligent safety inspections is founded on cases decided prior to, or dealing with injuries occurring before, the effective date of the 1972 alterations, and are therefore not controlling. The lower court properly granted summary judgment based upon Continental’s immunity.
+However, plaintiffs maintain that any such grant of immunity contravenes the equal protection clause by denying a right of action against worker’s compensation carriers while allowing actions against other third party tortfeasors. Plaintiffs further allege that there is no rational basis underlying such a policy.
+In Manistee Bank & Trust Co v McGowan, 394 Mich 655, 669-670; 232 NW2d 636 (1975), the Supreme Court espoused two different equal protection standards with regard to economic and social welfare legislation: the traditional rational basis test and a stricter standard whereby a classification must possess a fair and substantial relation to the object of the legislation.
+We decline plaintiffs’ advocation to adopt the more stringent approach. The Court in Manistee specifically noted under what circumstances the fair and substantial relation test might be employed:
+"* * * [A]t least where the challenged statute carves out a discrete exception to a general rule and the statutory exception is no longer experimental, the substantial-relation-to-the-object test should be applied.
+"Where a classification scheme creates a discrete exception to a general rule and has been enforced for a sufficiently long period of time that all the rationales likely to be advanced in its support have been developed, a court should fully examine those rationales and determine whether they are sound.” Manistee at 671-672.
+While this statutory grant of immunity to a worker’s compensation insurer may be said to carve out an exception to the general rule, these amendments cannot be considered "no longer experimental”. In Shavers v Attorney General, 402 Mich 554, 613 n 37; 267 NW2d 72 (1978), the Court considered Michigan’s no-fault automobile insurance statute experimental since it had only been in effect for five years. We do not believe a six-year operative period in the instant case compels any different result. Manistee, supra, itself concerned the constitutionality of the state’s 45-year-old guest passenger act. We conclude, as did another panel of this Court in Garrett v International Ins Co, 68 Mich App 418, 420-421; 242 NW2d 798 (1976), that the instant legislation is to be examined by the "rational basis” standard, under which a classification will be sustained "if any state of facts reasonably can be conceived that would sustain it * * Cruz v Chevrolet Grey Iron Div, General Motors Corp, 398 Mich 117, 127; 247 NW2d 764 (1976), quoting Lindsley v Natural Carbonic Gas Co, 220 US 61, 78-79; 31 S Ct 337; 55 L Ed 369 (1911). As Garrett, supra, at 421 noted:
+"A rational basis for the classification can be readily hypothesized: the Legislature granted immunity to the carriers in order to encourage safety inspections.”
+While Continental cites plausible arguments why this type of carrier immunity might not be the wisest of choices, that determination is properly a legislative prerogative, and we are compelled to uphold the amendments as constitutional unless they are shown to be essentially capricious, arbitrary, and without a rational basis. We cannot say such a showing has been made here. The encouragement of inspections designed to result in a safer working environment and, therefore, reduced industrial accidents is rationally related to the purposes of the Worker’s Disability Compensation Act. Thus, we conclude that these amendments do not constitute a denial of equal protection.
+Finally, we note plaintiffs’ assertion that the 1972 amendments violate the title-object provision of the Michigan Constitution was not presented to the lower court in order to preserve the question for appellate review, Security Ins Co v Daniels, 70 Mich App 100, 115; 245 NW2d 418 (1976), and, in any event, this issue has been previously considered and rebuffed by this Court. Garrett, supra at 421-422.
+Affirmed. Costs to defendant.
+See, e.g., Watson v Employers Ins Co of Wausau, 50 Mich App 597; 213 NW2d 765 (1973), Ray v Transamerica Ins Co, 10 Mich App 55; 158 NW2d 786 (1968), lv den 381 Mich 766 (1968).
+Const 1963, art 4, § 24.
