@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "21796"
+decided: "1976-03-08"
+citations: ["67 Mich. App. 603"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: McGregor, P. J., and Bashara and Allen, JJ."]
+parties: ["PEOPLE v ROBERTSON"]
+source_url: "https://static.case.law/mich-app/67/cases/0603-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2147836
+cites_cases: ["20 Wayne L Rev 1377", "212 NW2d 222", "214 NW2d 894", "215 NW2d 702", "216 NW2d 770", "217 NW2d 22", "220 NW2d 186", "221 NW2d 179", "222 NW2d 230", "232 NW2d 172", "233 NW2d 246", "390 Mich 245", "391 Mich 323", "391 Mich 426", "392 Mich 761", "392 Mich 762", "393 Mich 771", "394 Mich 527", "51 Mich App 146", "51 Mich App 484", "53 Mich App 321", "54 Mich App 527", "55 Mich App 334", "62 Mich App 240"]
+---
+
+# People v. Robertson
+
+## Majority (Bashara, J.)
+
+Bashara, J.
+On March 30, 1973, the police responded to a radio call of "shots fired upstairs” at 2131 Fairview, Detroit. The police encountered the defendant-appellee at an apartment at that address. They gained entrance to the apartment and observed a quantity of marijuana and a stolen revolver in plain view.
+The appellee was arrested and charged with knowingly or intentionally possessing marijuana, MCLA 335.341(4)(d); MSA 18.1070(41)(4)(d), and receiving or concealing stolen property of a value of $100 or less. MCLA 750.535; MSA 28.803. On April 30, 1973, the appellee was tried and convicted for receiving or concealing stolen property of a value of $100 or less. On August 6, 1974, after numerous adjournments the information charging possession of marijuana was quashed on the ground that both crimes arose out of the same transaction, therefore double jeopardy precluded a trial for the possession of marijuana charge. The appellant prosecutor appeals as of right. MCLA 770.12(c); MSA 28.1109(c) Jackson County Prosecutor v Court of Appeals, 394 Mich 527; 232 NW2d 172 (1975).
+The issue presented on appeal is whether Michigan’s double jeopardy clause, Const 1963, art 1, § 15, prohibits prosecution for knowingly or intentionally possessing marijuana when appellee was convicted in a separate trial of receiving or concealing stolen property of a value of $100 or less and where appellee was arrested at the same time for both crimes.
+The Michigan Supreme Court in People v White, 390 Mich 245, 259; 212 NW2d 222 (1973), adopted the same transaction test as the applicable standard when examining a claim of double jeopardy. To determine whether the commission of more than one crime is part of a single transaction, one must find the crimes (1) were committed in a continuous time sequence, and (2) display a single intent and goal. Rather than providing definite standards these guidelines have led to more confusion. See 20 Wayne L Rev 1377.
+Our initial consideration is directed to whether the crimes were committed in a continuing time sequence. An instructive situation was presented in People v Martin, 53 Mich App 321; 220 NW2d 186 (1974). Defendant alleged he was placed in double jeopardy when he was acquitted of possession of heroin in Federal court, but then convicted of the same charge in a state court. Under both the Federal and state charges, the defendant’s acts of possession occurred the same day. The panel determined that defendant’s possession was not one continuous transaction because the state court conviction was predicated upon evidence and testimony obtained prior to defendant’s arrest on Federal charges. See also People v Jackson, 391 Mich 323, 342; 217 NW2d 22 (1974).
+In the instant case the police cultivated and developed the evidence and testimony for both crimes at the time they entered the apartment. We conclude that both crimes were committed in one continuous time sequence.
+We next consider whether the crimes display a single intent or goal. The rule is clear that where the defendant has one objective and commits several crimes in preparing for and attaining that objective, only one prosecution may be brought. People v Rolston, 51 Mich App 146, 149; 214 NW2d 894 (1974), lv den, 392 Mich 762 (1974). Decisions in this state applying the same transaction test have required a close, unified purpose in the relationship between the crimes, and have demanded the defendant support his double jeopardy claim by demonstrating a direct factual connection, not mere temporal happenstance. People v Charles Johnson, 62 Mich App 240, 244; 233 NW2d 246 (1975).
+In the leading case of People v White, supra, the Court found that the crimes of kidnapping, felonious assault, and rape were committed with the common objective of sexual intercourse with the complainant. See also People v Joines (On Remand), 55 Mich App 334; 222 NW2d 230 (1974), lv den, 393 Mich 771 (1974). The Court, in People v Rolston, supra, determined that the criminal episode of kidnapping, robbery, rape, and murder was an attempt to allow an accomplice to escape police detection and flee the country because of pending criminal charges. Likewise, in People v Davenport (On Remand), 51 Mich App 484; 215 NW2d 702 (1974), lv den, 392 Mich 761 (1974), the Court decided the crimes of being a disorderly person by uttering obscene words in public and resisting arrest were performed with the intent to refuse to submit to a police officer’s authority. See also People v West, 54 Mich App 527; 221 NW2d 179 (1974).
+Clearly, "appellate courts of this state have required a very close connection between the crimes. The crimes must be so interrelated that they comprise an 'essentially unitary criminal episode’. At least one of the crimes must be of an ongoing nature such that all of the offenses are committed at the same time to achieve a single purpose”. People v Charles Johnson, supra, 248.
+The transcript of the hearing on the motion to quash discloses no common objective, intent or goal of the appellee in the commission of the two crimes. It appears that the arrest of the appellee for the two separate crimes was merely temporal happenstance. We hold that the respective crimes do not display the single intent and goal required by People v White, supra.
+In view of our holding, we find it unnecessary to reach the retroactivity question of People v White, supra.
+Accordingly, the order quashing the information is reversed.
+It is only necessary for us to consider whether the factual situation presented in this case violates the Michigan double jeopardy clause. Const 1963, art 1, § 15, because the Michigan Supreme Court in People v White, 390 Mich 245; 212 NW2d 222 (1973), imposed a higher standard than required under the double jeopardy clause of the US Const, Am V. See also People v Moore, 391 Mich 426, 435; 216 NW2d 770 (1974), fn7.
