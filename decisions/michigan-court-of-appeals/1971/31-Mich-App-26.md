@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9335"
+decided: "1971-02-19"
+citations: ["31 Mich. App. 26"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P. J., and R. B. Burns and Munro, JJ.", "All concurred."]
+parties: ["PLUMLEY v. KLEIN"]
+source_url: "https://static.case.law/mich-app/31/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2095911
+cites_cases: ["119 ALR 1394", "237 Mich 175", "295 F Supp 1318", "375 Mich 253", "376 Mich. 532", "385 Mich 771", "4 Mich App 559"]
+---
+
+# Plumley v. Klein
+
+## Majority (Munro, J.)
+
+Munro, J.
+On May 22, 1969, plaintiff’s deceased children, all under seven years of age, were killed in an automobile accident on Highway M-40 in Van Burén County, Michigan, involving a pickup truck in which they were passengers. The defendant estate’s decedent was the mother of the children, wife of the plaintiff, and operator of the pickup truck which was owned by the plaintiff administrator personally. She was also killed in the accident. The other defendants were the owner and driver of the second truck involved in the collision. Plaintiff, as administrator of the estates of his deceased children, filed this wrongful death action against the defendant estate of Claudia Ann Plumley, deceased; David William Rumery, driver of the other vehicle, and Superior Market, owner of the other vehicle, alleging that his four children were injured and killed as a result of the negligence of both his deceased wife and defendant Rumery.
+Defendant Alma Klein, as administratrix of the estate of Claudia Ann Plumley, deceased, filed a motion for accelerated or summary judgment asserting that her deceased was the wife of plaintiff administrator and the mother of the deceased children; Further, that by virtue of the relationship between plaintiff, the deceased children, and Claudia Ann Plumley being husband, parent, and child, the defendant was immune from suit.
+The trial court granted defendant’s motion for summary judgment and entered judgment against plaintiff as to defendant estate of Claudia Ann Plumley from which decision plaintiff takes this appeal.
+The issue is: may a father, as administrator and sole beneficiary of the estates of his deceased children, maintain a wrongful death action against the estate of his deceased wife, the mother of the deceased children, arising out of a motor vehicle accident founded on ordinary negligence where both the children and the mother are deceased as a result of the accident?
+The guest passenger act is not at issue here, because all of the deceased children were under seven years of age at the time of the accident and, therefore, did not have the capacity of exercising their choice in becoming guest passengers. Burhans v. Witbeck (1965), 375 Mich 253.
+The issue whether the plaintiff may bring this action under the wrongful death statute (MCLA § 600.2922 [Stat Ann 1962 Rev §27A.2922]), even though the deceased could not have brought such an action, has been most recently ruled on by our Supreme Court in Mosier v. Carney (1965), 376 Mich. 532, where the Court, in effect, held that those injured by the death of a person who was killed by the wrongful act of a defendant are not barred from recovering from the defendant under the wrongful death act even though a purely personal immunity of the deceased might have barred suit by the deceased.
+The doctrine of law applicable here relates to the intrafamily immunity which had in the past held parents to be immune from suits by their children for ordinary negligence and immune from suit as between husband and wife in the field of ordinary negligence. This principle as it affects parent and child was first determined in Michigan in the case of Elias v. Collins (1926), 237 Mich 175, and was subsequently, as to interspousal immunity, discussed by the Michigan Supreme Court in an exhaustive opinion rendered in the case of Mosier v. Carney (1965), 376 Mich 532. Elias, supra, was most recently referred to in the case of Rodebaugh v. Grand T. W. R. Co. (1966), 4 Mich App 559, where an automobile-train accident injured an unemancipated minor. In that case this Court held that the rule of intrafamily immunity must be retained for ordinary negligence but held that unemancipated minors may bring suit against their parents for personal injuries resulting from intentional acts, gross negligence, and wilful and wanton misconduct in activities which do not involve an exercise of parental care, discipline, and control. In the Rodebaugh case, however, neither the parent nor the child was killed as a result of the accident.
+As was discussed at great length in Mosier, supra, some of the members of the Court felt that modification of the intrafamily immunity doctrine in the tort field might bettér be left to the legislature. The fact is that a majority of the Court held that where the basis for the doctrine of intrafamily immunity has been destroyed, that is, the prevention of the likelihood of collusion and the causing of family discord, the reason for the continuation of such immunity no longer exists and the Court determined that where the reasons for the doctrine were nonexistent, the doctrine of interspousal immunity would not apply. In that case, as in the case here before the Court, the parties are deceased and it appears to this Court that the reasoning, logic, and exhaustive opinions of the Supreme Court in the Hosier case apply with equal force to a case concerned with a parent-child relationship under the circumstances here existing as to a case concerned with a husband-wife relationship.
+This doctrine has most recently been interpreted in Michigan in the case of Brinks v. Chesapeake & O. R. Co. (WD Mich, 1969), 295 F Supp 1318, 1323. In that case the Federal District Court for the Western District of Michigan, interpreting Michigan law on the doctrine of intrafamily immunity, said:
+“Viewing the trend, and applying the analogous reasoning of Mosier, supra, the latest Michigan case, this court deems it the law of Michigan that the doctrine of parental tort immunity as enunciated in Elias and modified by Rodebaugh does not apply in cases where both the parent and child are deceased as a result of the alleged tortious conduct”.
+It is this Court’s decision that the quoted portions of Brinks, referring to Mosier, are applicable under the facts and circumstances here, because the reasons for the doctrine of intrafamily immunity have been terminated by death.
+The decision of the trial court is reversed and this matter remanded for trial consistent with the provisions of this decision. No costs, a question of general public importance, being involved.
+All concurred.
