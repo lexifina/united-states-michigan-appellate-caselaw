@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 160363, 160375"
+decided: "1994-11-07"
+citations: ["207 Mich. App. 422"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Reilly, P.J., and Corrigan and R. J. Jason, JJ."]
+parties: ["ENTERPRISE LEASING COMPANY v SAKO"]
+source_url: "https://static.case.law/mich-app/207/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1879736
+cites_cases: ["196 Mich App 143", "206 Mich App 7", "42 ALR3d 229", "492 NW2d 500", "520 NW2d 663"]
+---
+
+# Enterprise Leasing Co. v. Sako
+
+## Majority (Reilly, P.J.)
+
+Reilly, P.J.
+Defendants appeal as of right from the trial court’s order that granted summary disposition in favor of plaintiffs. Plaintiffs claimed that defendant State Farm Mutual Automobile Insurance Company, the no-fault insurer of defendant Sako’s personal vehicle, was the primary insurer and had a duty to defend in a personal injury lawsuit resulting from defendant Sako’s involvement in an accident with a vehicle rented from plaintiff Enterprise Leasing Company while his own car was being repaired. We affirm in part, reverse in part, and remand for further proceedings.
+In this case, Enterprise offered Sako the option of paying an additional amount for no-fault coverage provided by the rental car company or agreeing that the no-fault coverage for the rental car would be provided by the renter or the renter’s existing no-fault insurer. Sako chose the second option, and the choice was incorporated into the rental agreement. State Farm contends that Enterprise, which is self-insured, is the owner of the rental vehicle driven by Sako, and is, therefore, responsible for the primary liability coverage on the vehicle, MCL 257.401; MSA 9.2101, up to $500,000, when plaintiff Travelers Insurance Company becomes responsible for the excess coverage under its policy with Enterprise. State Farm also argues that under its policy with Sako, if there is "other similar vehicle liability coverage” on the temporary substitute car, then State Farm’s coverage is excess. State Farm further contends that its coverage does not apply to Sako’s rental vehicle because Enterprise is in the business of leasing automobiles, and State Farm’s policy excludes coverage "if the vehicle is owned by any person or organization in a car business.” We reject all these arguments.
+A similar car rental agreement was challenged in State Farm Mutual Automobile Ins Co v Snappy Car Rental, Inc, 196 Mich App 143; 492 NW2d 500 (1992). In that case, State Farm argued that the option clause was void because it was not specifically permitted by the no-fault act, MCL 500.3101 et seq.; MSA 24.13101 et seq., and because the provision effectively placed the responsibility of providing primary residual liability insurance upon the permitted user, as opposed to the owner. This Court held that the option was not an attempt to limit the residual liability insurance or first-party benefits, because the renter is obligated to provide coverage consistent with the no-fault act and the financial responsibility act, MCL 257.520(b); MSA 9.2220(b). Rather, the option clause was only an attempt to establish the priority of coverage as contracted for by the renter. Id. at 150. Consequently, this Court held that the provision in the rental agreement allowing the renter to determine the source of primary no-fault insurance for the rental car was not void as being violative of the no-fault act. Id.
+In State Farm Mutual Automobile Ins Co v Enterprise Leasing Co, 206 Mich App 7; 520 NW2d 663 (1994) (Enterprise II), this Court resolved the conflict between the earlier unpublished opinion in that case (Enterprise I) and Snappy, supra. The cases involved similar disputes between the rental car companies and the renters’ own insurer, State Farm, relating to responsibility for primary no-fault coverage for injuries sustained in accidents involving the renters and the rental cars. The Court determined that Snappy should control.
+The Enterprise II ruling effectively allows a rental car company to enter into an agreement with a renter whereby the renter or the renter’s insurer will be responsible for primary coverage, in an amount agreed upon, to a person injured in a motor vehicle accident involving the renter and the rental car. As noted in Snappy, supra, the provision does not avoid coverage; it establishes the priority of coverage for the injured party. The rental car company, as owner of the vehicle, is still liable for any coverage required that exceeds the renter’s primary coverage.
+State Farm argues that we must again revisit the priority of coverage issue and consider whether State Farm’s policy requires Enterprise to make a pro-rata contribution to the injured party. State Farm relies on Enterprise I, which held that both State Farm and Enterprise were primary insurers with conflicting "excess” or "escape” clauses, and, therefore, each was required to pay a pro-rata share. However, Enterprise I has been vacated, pursuant to Administrative Order No. 1990-6, and is not controlling.
+State Farm also relies on the language in the policy issued to Sako, which provides in pertinent part:
+If There Is Other Liability Coverage
+3. Temporary Substitute Car, Non-Owned Car, Trailer.
+If a temporary substitute car . . . has other similar vehicle liability coverage on it, then these coverages are excess, these coverages shall not apply:
+a. if the vehicle is owned by any person or organization in a car business; and
+b. IF THE INSURED HAS OTHER LIABILITY COVERAGE WHICH APPLIES IN WHOLE OR IN PART AS PRIMARY, EXCESS OR CONTINGENT COVERAGE.
+State Farm’s coverage is "excess” if there is "other similar vehicle liability coverage.” Because we have concluded that Enterprise has properly contracted to be responsible only for coverage in excess of that provided by the renter, the excess coverage provided by Enterprise is not similar to the primary coverage provided by State Farm to Sako while he was using the temporary substitute car. Therefore, State Farm’s excess coverage provision is not applicable here.
+State Farm further contends that coverage is not available under its policy because the vehicle involved in the accident was owned by an "organization in a car business.” We reject that argument because we agree with the conclusion in Snappy, supra at 151-152, that the term "car business,” as defined in the policy, is ambiguous and must be construed against State Farm in favor of coverage.
+The trial court properly granted summary disposition in favor of plaintiffs with regard to defendant State Farm and that ruling is affirmed. However, we believe that summary disposition against defendant Sako was inappropriate. Plaintiffs did not move for summary disposition with regard to defendant Sako. In fact, they specifically argued both below and in this Court that they were not seeking a determination regarding any liability defendant Sako might have in this matter. It must therefore be assumed that the inclusion of defendant Sako in the grant of summary disposition was a clerical error. We reverse the grant of summary disposition against defendant Sako and remand for further proceedings with regard to the claim against him. MCR 2.612(A)(1).
+Affirmed in part, reversed in part, and remanded for proceedings consistent with this opinion. We do not retain jurisdiction.
