@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "101950"
+decided: "1989-04-12"
+citations: ["179 Mich. App. 461"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cynar, P.J., and Shepherd and Marilyn Kelly, JJ."]
+parties: ["CITIZENS INSURANCE COMPANY OF AMERICA v AUTO CLUB INSURANCE ASSOCIATION"]
+source_url: "https://static.case.law/mich-app/179/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2311263
+cites_cases: ["124 Mich App 618", "163 Mich App 199", "335 NW2d 106", "393 NW2d 833", "413 NW2d 705", "426 Mich 191", "429 Mich 881", "48 ALR3d 13"]
+---
+
+# Citizens Insurance Co. of America v. Auto Club Insurance
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This case involves a priority dispute between two insurance companies concerning which insurer is obligated to pay personal injury protection benefits to an injured party. Plaintiff appeals as of right from the trial court’s June 25, 1987, order granting defendant’s motion for summary disposition. We reverse.
+It is undisputed that on July 14, 1985, Robert Bailey suffered personal injuries in an automobile accident while he was an occupant of a vehicle owned and operated by William Simmons. Plaintiff, Mr. Bailey’s no-fault insurer, paid personal injury protection benefits on behalf of Mr. Bailey and brought this action for declaratory judgment against defendant, the no-fault insurer of the vehicle owned by Mr. Simmons. Plaintiff sought reimbursement for the benefits paid and a declaration that defendant was obligated to pay Mr. Bailey’s benefits pursuant to MCL 500.3114(3); MSA 24.13114(3). Plaintiff asserted that defendant was obligated to pay the benefits, pursuant to § 3114(3) of the no-fault insurance act, since Mr. Bailey was employed by Mr. Simmons at the time of the automobile accident.
+Plaintiff moved for summary disposition pursuant to MCR 2.116(0(10), arguing that, when the accident occurred, Mr. Bailey was Mr. Simmons’ employee. Defendant also moved for summary disposition asserting that no employer-employee relationship existed between Mr. Simmons and Mr. Bailey since Mr. Bailey was an independent contractor. Defendant further argued that, even if Mr. Bailey was an employee, he was employed by Mr. Simmons’ wife and not Mr. Simmons.
+The parties’ motions for summary disposition were heard on June 18, 1987, and the trial judge rendered his opinion by a telephone conference call. Apparently, the court reporter’s notes from the hearing were lost and no transcript is available. The parties’ settled statement of facts and proceedings states that the trial judge found that Mr. Bailey was an independent contractor. On June 25, 1987, the trial court entered an order granting defendant’s motion for summary disposition.
+On appeal, plaintiff argues that the trial court erred in denying plaintiff’s motion for summary disposition because the facts presented to the trial court by plaintiff demonstrate that Mr. Bailey was an employee of Mr. and Mrs. Simmons. Plaintiff further contends that the trial court erred in granting defendant’s motion for summary disposition and thereby deciding Mr. Bailey’s employment status as a matter of law since conflicting inferences could have been drawn from the facts presented to the trial court.
+In deciding a motion under MCR 2.116(0(10), the trial court must review all the evidence presented, including any depositions, affidavits, admissions and pleadings, and then ascertain whether there is any dispute as to a material fact. Jubenville v West End Cartage, Inc, 163 Mich App 199, 203; 413 NW2d 705 (1987), lv den 429 Mich 881 (1987). The test is whether the record which might be developed, giving the benefit of any reasonable doubt to the opposing party, would leave open an issue upon which reasonable minds might differ. Id. The court should be liberal in finding a question of material fact and must carefully avoid making findings of fact under the guise of determining that no issues of material fact exist. Id.
+Generally, one must look to his own no-fault insurer for benefits unless a statutory exception applies. MCL 500.3101(1); MSA 24.13101(1), MCL 500.3114(1); MSA 24.13114(1). Parks v DAIIE, 426 Mich 191, 202-203; 393 NW2d 833 (1986). MCL 500.3114(3); MSA 24.13114(3) provides:
+An employee, his or her spouse, or a relative of either domiciled in the same household, who suffers accidental bodily injury while an occupant of a motor vehicle owned or registered by the employer, shall receive personal protection insurance benefits to which the employee is entitled from the insurer of the furnished vehicle.
+In Parham v Preferred Risk Mutual Ins Co, 124 Mich App 618, 624; 335 NW2d 106 (1983), this Court held that the economic reality test is the appropriate standard to determine the existence of an employment relationship under the no-fault act. The factors to be considered pursuant to this test are: (1) control of the worker’s duties; (2) payment of wages; (3) right to hire, fire and discipline; and (4) the performance of the duties as an integral part of the employer’s business towards the accomplishment of a common goal. Id., p 623.
+In the present case, the record does not reveal which facts the trial court relied upon in determining that Mr. Bailey was an independent contractor and not an employee. Furthermore, the record reveals that plaintiff presented numerous facts which might support a finding that Mr. Bailey was an employee of Mr. Simmons. Mr. Simmons hired Mr. Bailey, had the right to fire him, paid his wages and exercised considerable control over the time and manner in which Mr. Bailey’s duties were performed. Additionally, Mr. Bailey’s delivery of newspapers was an integral part of Mr. Simmons’ business. Conversely, we note that defendant presented facts which might support Mr. Bailey’s status as an independent contractor. Thus, we find that questions of fact remain with regard to the employment relationship between Mr. Bailey and Mr. Simmons and that summary disposition should not have been granted to either plaintiff or defendant. Accordingly, we find that the trial court erred in granting summary disposition to defendant and we reverse and remand to the trial court for a determination regarding Mr. Bailey’s and the Simmonses’ employment relationship to be decided by the trier of fact.
+Reversed and remanded. We do not retain jurisdiction.
