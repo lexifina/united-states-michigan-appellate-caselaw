@@ -1,0 +1,48 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 77-4069, 77-4070, 77-4071"
+decided: "1978-09-19"
+citations: ["85 Mich. App. 639"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P. J., and D. E. Holbrook and R. M. Maher, JJ."]
+parties: ["PEOPLE v BERG"]
+source_url: "https://static.case.law/mich-app/85/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2185581
+cites_cases: ["1978 PA 147", "224 NW2d 113", "251 NW2d 314", "263 NW2d 1", "423 US 122", "56 Mich App 483", "73 Mich App 604", "79 Mich App 764"]
+---
+
+# People v. Berg
+
+## Majority (J. H. Gillis, P. J.)
+
+J. H. Gillis, P. J.
+Defendant, a licensed osteopathic physician, was charged with three counts of delivery of a controlled substance in violation of MCL 335.341(l)(b); MSA 18.1070(41)(l)(b). This Court granted an interlocutory appeal after defendant’s motion to quash the information was denied by the Oakland County Circuit Court.
+The facts essentially are as follows. Defendant was visited at his office on three occasions by Donald Hollifield, an agent of the Department of Licensing and Regulation. Mr. Hollifield had never met defendant prior to the first of these visits. Defendant performed no physical examination, nor did he obtain any medical history during any of the three transactions.
+On February 3, 1977, defendant sold Mr. Hollifield a paper bag containing 1,000 phendimetrazine tablets in return for $500. On February 9, 1977, defendant again sold the agent 1,000 amphetamine capsules for $500. Finally, on February 15, 1977, defendant handed Mr. Hollifield 7,000 amphetamine capsules for $3,350.
+Defendant claims that as a licensed physician he is exempt from prosecution under § 41(l)(b) of the Controlled Substances Act. MCL 335.341(l)(b); MSA 18.1070(41)(l)(b). We disagree.
+Defendant cites People v Kerwin, 56 Mich App 483; 224 NW2d 113 (1974), in support of his claim. That case involved a 76-year-old physician who wrote prescriptions on two occasions for various controlled substances. During each visit two prescriptions were written for the patient and one prescription was written for a girl friend or wife said to have trouble sleeping. Dr. Kerwin charged $14 on the first occasion and $11 on the second one.
+In ordering the information quashed, the Kerwin Court did not hold that physicians are completely exempt from prosecution under the Controlled Substances Act. Rather, it held that while § 41 prohibits any person from manufacturing, delivery or possessing with intent to manufacture or deliver, it did not apply to the act of writing a prescription for controlled substances.
+In People v Alford, 73 Mich App 604; 251 NW2d 314 (1977), another panel of this Court held that writing a prescription constituted delivery and was therefore one of the proscribed activities under § 41. While we believe the Alford decision is correct on this point, we need not resolve this conflict. The instant case involves hand delivery of a controlled substance which is one of the activities expressly proscribed by § 41.
+The relevance of Alford to the instant case is its holding that a practitioner is subject to prosecution under § 41. His activities are protected only to the extent that they are performed within the course of professional practice. Alford, supra, at 614. The Court, relying upon the construction given the comparable Federal statute in United States v Moore, 423 US 122; 96 S Ct 335; 46 L Ed 2d 333 (1975), concluded that the type of registration contemplated by the act was one that limited a practitioner to dispensing and using drugs in the course of professional practice and research. Alford, supra, at 611-612.
+We agree with this construction of the statute. However, we believe there is an additional basis for finding defendant may be prosecuted under § 41 of the act.
+In relevant part, § 41 reads as follows:
+"Except as authorized by this act, it is unlawful for any person to manufacture, deliver or possess with intent to manufacture or deliver, a controlled substance.” (Emphasis supplied.) MCL 335.341; MSA 18.1070(41).
+The foregoing language indicates that all persons are subject to prosecution for violation of this section of the act unless they are given a specific authorization to do one or all of . the proscribed activities. Such authorization is provided by § 32 of the act. Persons who are registered with the administrator may "possess, manufacture, distribute, prescribe, dispense or conduct research with those [controlled] substances to the extent authorized by their registration and in conformity with the other provisions of this chapter”. (Emphasis supplied.) MCL 335.332; MSA 18.1070(32X2). This section does not grant registrants a carte blanche to engage in drug trafficking. By its terms it is only a limited authorization to engage in the enumerated activities. It is necessary to examine both the registration itself, as well as the other provisions of chapter 3 of the act, to determine the parameters of this authorization.
+As noted above, the Alford Court concluded that the registration itself limited a practitioner’s activities.
+Examination of the "other provisions of chapter 3” likewise leads us to conclude that defendant’s activities were not within the scope of his authorization. Section 31 of the act gives the administrator the power to "promulgate rules * * * relating to the registration and control of the manufacture, distribution and dispensing of controlled substances”. MCL 335.331(1); MSA 18.1070(31X1).
+We read this section to mean the administrator may determine the extent of a registrant’s authority to manufacture, distribute or dispense a controlled substance.
+Pursuant to this power, the administrator has promulgated two rules of relevance to our inquiry. Rule 70 provides:
+"A prescriber in the course of his professional practice only, may dispense or administer, or both, a controlled substance listed in schedules 2 to 5 or he may cause them to be administered by a nurse or intern under his direction and supervision.” (Emphasis supplied.) AACS 1973, R 338.3170(1).
+For the purposes of this rule, "prescriber” is synonymous with "practitioner” and means "a doctor of medicine, osteopathy or podiatry, a veterinarian or a dentist licensed to prescribe by the laws of this state”. AACS 1973, R 338.3102(3). Defendant was a licensed doctor of osteopathy and therefore was a "prescriber”.
+When a physician has delivered a controlled substance to an ultimate user he has "dispensed” that substance. MCL 335.304(2); MSA 18.1070(4X2).
+By promulgating Rule 70, the administrator has determined the limit of a physician’s authorization to deliver a controlled substance to an ultimate user. When acting outside the course of his professional practice, a physician is acting outside the scope of the authorization granted by § 32 of the act.
+In addition to Rule 70, supra, the administrator has promulgated Rule 41(c), which states that a registrant "shall provide effective controls against theft or diversion of controlled substances”. AACS 1973, R 338.3141(1). This provision imposes an affirmative duty upon a practitioner to take measures to prevent the diversion of controlled substances to illicit channels. It would be clearly inconsistent with this rule to hold that a physician is authorized by his status as a registrant to engage in drug trafficking.
+We conclude that Rules 70 and 41 limit a licensed physician’s authority to deliver controlled substances to those occasions when the physician is acting within the course of his professional practice. A physician is not authorized to divert controlled substances to illicit channels.
+Since § 41 provides that it is unlawful for "any person” to deliver controlled substances unless authorized, it follows that a physician acting outside the scope of his authorization may be prosecuted under this section. The Legislature did not intend administrative sanctions such as loss of a license to practice medicine to be the sole remedy for such improper conduct. Section 44 of the act provides:
+"Any penalty imposed for violation of this act is in addition to, and not in lieu of, any civil or administrative penalty or sanction otherwise authorized by law.” MCL 335.344; MSA 18.1070(44).
+Finally, we note that subsequent to the events involved here, the Legislature amended the controlled substances act to address the issues involved in Kerwin, supra, Alford, supra, and the instant case. 1978 PA 147, effective May 12, 1978. At oral argument defendant advanced the proposition that the Legislature, by this amendment, made illegal what previously had been legal. We do not believe this amendment changed the law applicable to the instant case. An amendment made soon after controversies arise in regard to a statute can be taken as a legislative interpretation of the original act rather than a substantial change of it. Harper v Progressive Casualty Ins Co, 79 Mich App 764; 263 NW2d 1 (1977). In light of the Kerwin-Alford conflict we believe that is what the Legislature has done.
+Defendant’s second argument, that he did not have notice that his activities were illegal, is without merit. The statute is sufficiently clear to provide notice that defendant’s activities were illegal. Moreover, the Opinion in United States v Moore, supra, interpreting the Federal act upon which the Michigan statute was modeled had been released prior to the time of defendant’s activities. The Alford decision was released on February 8, 1977. Two of the transactions involved here took place after that date.
+Affirmed.
