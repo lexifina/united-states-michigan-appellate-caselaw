@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "139784"
+decided: "1994-05-03"
+citations: ["205 Mich. App. 149"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, Jr., P.J., and Mackenzie and R. L. Tahvonen, JJ."]
+parties: ["BORAKS v AMERICAN ARBITRATION ASSOCIATION"]
+source_url: "https://static.case.law/mich-app/205/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1881975
+cites_cases: ["137 Mass 424", "183 Mich App 431", "203 F Supp 191", "311 F2d 113", "41 ALR4th 1013", "438 US 478", "455 NW2d 322", "493 F Supp 51", "552 F2d 778", "691 F2d 1205", "89 Ariz 24"]
+---
+
+# Boraks v. American Arbitration Ass'n
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from an order granting summary disposition in favor of defendant pursuant to MCR 2.116(C)(7), (8), and (10), on the ground of arbitral immunity. We affirm.
+Plaintiff entered into a contract with Elgin Builders, Inc., for the construction of an office building. When Elgin requested the balance due under the contract, plaintiff refused to pay until certain defects were corrected. Consistent with the terms of the construction contract, Elgin filed a demand for arbitration with defendant American Arbitration Association (aaa). In April 1990, the arbitrators issued an award finding that both parties were entitled to partial relief. The circuit court entered an order confirming the arbitration award, and this Court affirmed. Boraks v Elgin Builders, Inc, unpublished opinion per curiam of the Court of Appeals, decided June 2, 1993 (Docket No. 136462).
+In November 1990, plaintiff filed this action against aaa, alleging that it misrepresented the effectiveness of its arbitration services and breached its duty to provide a competent panel of arbitrators. The trial court dismissed the action, ruling that the action was barred by arbitral immunity and was an impermissible collateral attack on the arbitration award.
+On appeal, plaintiff claims that the circuit court erred in granting aaa immunity. We disagree. It is well established that, for reasons of public policy, arbitrators are protected from civil suit by the doctrine of arbitral immunity. As stated in 5 Am Jur 2d, Arbitration and Award, § 107, p 600:
+Since the function of arbitrators is analogous to that of a court and their duties require the exercise of judgment, like public judicial officers, arbitrators and umpires enjoy immunity from private actions for damages against them for judicial acts done in arriving at their award. They are not liable for negligence, fraud, or misconduct, even where it is sufficient to invalidate the award.
+See also Tamari v Conrad, 552 F2d 778 (CA 7, 1977); Craviolini v Scholer & Fuller Associated Architects, 89 Ariz 24; 357 P2d 611 (1960); Hoosac Tunnel Dock & Elevator Co v O’Brien, 137 Mass 424 (1884); Cahn v Int’l Ladies’ Garment Union, 203 F Supp 191 (ED Pa, 1962), aff'd 311 F2d 113 (CA 3, 1962); Corey v New York Stock Exchange, 493 F Supp 51 (WD Mich, 1980), aff'd 691 F2d 1205 (CA 6, 1982).
+The doctrine applies not only where arbitration is statutory, or where arbitrators are court-appointed, but also to arbitration arising from a contractual agreement of the parties, as in this case. See Corey v New York Stock Exchange, 691 F2d 1205, 1209 (CA 6, 1982). The policy reasons behind the doctrine and its application were explained by the Sixth Circuit in Corey, supra, p 1211:
+From Butz [v Economou, 438 US 478; 98 S Ct 2894; 57 L Ed 2d 895 (1978)] it is clear that immunity does not depend upon the source of the decision-making power but rather upon the nature of that power. . . . The functional comparability of the arbitrators’ decision-making process and judgments to those of judges and agency hearing examiners generates the same need for independent judgment, free from the threat of lawsuits. Immunity furthers this need. As with judicial and quasi-judicial immunity, arbitral immunity is essential to protect the decision-maker from undue influence and protect the decision-making process from reprisals by dissatisfied litigants. . . . The extension of immunity to arbitrators where arbitration is pursuant to a private agreement between parties is especially compelling because arbitration is the means selected by the parties themselves for disposing of controversies between them. By immunizing arbitrators and their decisions from collateral attacks, arbitration as the contractual choice of the parties is respected yet the arbitrators are protected. Arbitrators have no interest in the outcome of the dispute and should not be compelled to become parties to that dispute. Tamari, supra, 781. "[Individuals cannot be expected to volunteer to arbitrate disputes if they can be caught up in the struggle between the litigants and saddled with the burdens of defending a lawsuit.” Tamari, supra, 781.
+Arbitral immunity also extends to boards, associations, commissions, and other quasi-judicial bodies that sponsor arbitrations and make arbitration facilities available. See anno: Liability of organization sponsoring or administering arbitration to parties involved in proceeding, 41 ALR4th 1013, 1014. As stated in Corey, supra, p 1211:
+Extension of arbitral immunity to encompass boards which sponsor arbitration is a natural and necessary product of the policies underlying arbitral immunity; otherwise the immunity extended to arbitrators is illusionary. It would be of little value to the whole arbitral procedure to merely shift the liability to the sponsoring association.
+On the basis of the above, the trial court correctly concluded that the doctrine of arbitral immunity applies to arbitrators and their administrative organizations when they are called upon to resolve disputes pursuant to a private agreement.
+Plaintiff argues that defendant’s alleged misconduct in this case — overstating the effectiveness of its services and failing to provide competent arbitrators — falls outside the scope of arbitral immunity. The argument is without merit. Fundamentally, plaintiff’s complaint is relevant to the perceived poor quality of defendant’s arbitration services. As noted above, however, arbitrators, and hence their administering organizations, are not liable for negligent performance. See Griffin v American Arbitration Ass’n, 183 Mich App 431; 455 NW2d 322 (1990) (aaa immune from liability for selection of arbitrators under medical malpractice arbitration act, MCL 600.5040 et seq.; MSA 27A.5040 et seq.). Because plaintiff’s claims amounted to a "reprisal by a dissatisfied litigant,” Tamari, supra, to which arbitral immunity applies, the trial court properly granted summary disposition in favor of defendant. Plaintiff’s proper remedy, already pursued, is to appeal directly the "flawed” arbitration award. Corey, supra, p 1211.
+Our disposition of the above issues makes it unnecessary to address plaintiff’s remaining claims.
+Affirmed.
