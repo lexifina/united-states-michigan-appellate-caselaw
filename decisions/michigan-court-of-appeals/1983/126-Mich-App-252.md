@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "61925"
+decided: "1983-06-06"
+citations: ["126 Mich. App. 252"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P.J., and Bronson and Cynar, JJ."]
+parties: ["KOWALSKE v GENERAL MOTORS CORPORATION"]
+source_url: "https://static.case.law/mich-app/126/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2224454
+cites_cases: ["181 NW 994", "206 NW2d 521", "212 NW2d 799", "213 Mich 272", "29 NW2d 140", "30 NW2d 844", "315 NW2d 134", "319 Mich 67", "320 Mich 219", "342 Mich 100", "389 Mich 811", "412 Mich 930", "45 Mich App 196", "49 Mich App 611", "68 NW2d 768"]
+---
+
+# Kowalske v. General Motors Corp.
+
+## Majority (Cynar, J.)
+
+Cynar, J.
+Plaintiff appeals from a Workers’ Compensation Appeal Board (WCAB) decision which found she had suffered no work-related disability.
+Plaintiff petitioned the Bureau of Workers’ Disability Compensation for a hearing on April 22, 1975, alleging that she had been disabled since October 11, 1974. Following a series of four hearings and two depositions, the hearing referee issued his decision, finding that plaintiff was able to do "favored work” offered by defendant. Defendant, therefore, had met its obligation under the act and the referee terminated plaintiffs benefits as of February 24, 1978.
+Plaintiffs claim for review was based upon the following grounds:
+"The decision of the administrative law judge that Mrs. Kowalske is able to perform the Sheridan Press and that the Sheridan Press is within her physical restrictions is contrary to law and fact. Plaintiff is otherwise satisfied with the decision.”
+Defendant did not cross appeal the referee’s decision. The WCAB issued its opinion, finding that plaintiff had failed to sufficiently prove the causation necessary for finding a work-related disability. It is apparent that the WCAB reviewed not only the issue raised by plaintiff but also the propriety of the referee’s finding of a work-related disability. Plaintiff argues that the WCAB’s raising of this issue, sua sponte, was improper.
+MCL 418.859; MSA 17.237(859) only provides the following concerning the nature and scope of the WCAB’s review:
+"If a claim for review is filed, the board shall promptly review the order, together with the records of the hearing. The board may hear the parties, together with such additional evidence as it in its discretion may allow them to submit and shall file its order with the records of the proceedings. It shall be the duty of the board to announce in writing its findings of fact and conclusions of law.”
+Case law has interpreted this section to require the WCAB to review the referee’s conclusion de novo, exercising its own independent judgment. There is no presumption of validity in favor of the conclusion reached by the referee. This Court and the Supreme Court are charged with responsibility for reviewing questions of law arising from the decision of the WCAB, not the referee. Fergus v Chrysler Corp, 45 Mich App 196, 206; 206 NW2d 521 (1973) (Levin, J., dissenting), adopted by the Supreme Court, 389 Mich 811 (1973). See, also, Fawley v Doehler-Jarvis Div of National Lead Co, 342 Mich 100, 101-102; 68 NW2d 768 (1955).
+While this Court has hinted that a claimant may limit the scope of the WCAB’s inquiry by filing a narrow claim for review, Goodman v Bay Castings Div of Gulf & Western Industries, 49 Mich App 611, 626; 212 NW2d 799 (1973), citing Thompson v Continental Motors Corp, 320 Mich 219; 30 NW2d 844 (1948), neither case can be authoritatively cited for the proposition that a claimant may limit the scope of review by the WCAB on appeal by narrowly framing the issue. Each only stands for the proposition that the claimant involved failed to do so by stating a general ground for appeal.
+In Fawley, the commission found that the claimant was totally disabled despite the narrow issue framed by the defendant concerning only computation of the claimant’s average weekly wage. The Supreme Court reversed the board, finding that the claimant was out of work because of a lack of seniority and that there was no basis at the time of the hearing for the award for partial or total disability. The Court, however, did not dispute the commission’s ability to review the record de novo and consider issues not raised by either party. Noting, however, that the board took up these matters without notifying the defendant, the Court stated: "We consider that the commission, though it has broad powers as to the hearing, should have, in fairness to the defendant, given the defendant an opportunity to present its views on the matters thus additionally taken up by the commission for its consideration.” Fawley, supra, p 102. See, also, Margenovitch v Newport Mining Co, 213 Mich 272; 181 NW 994 (1921), and Basner v Defoe Shipbuilding Co, 319 Mich 67; 29 NW2d 140 (1947).
+The Supreme Court has apparently adopted the standard of Fawley for appeals to the WCAB under the present act. See Lang v General Motors Corp, 412 Mich 930; 315 NW2d 134 (1982). In Lang, the Court reversed the Court of Appeals judgment and remanded to the WCAB for reconsideration. The Court found the WCAB erred during its de novo review by considering documentary evidence which was not in existence at the time of the referee’s hearing when neither party has requested that the WCAB consider such additional evidence. Because the WCAB has statutory authority to consider additional evidence and testimony, MCL 418.859; MSA 17.237(859), only the sua sponte nature of the WCAB’s actions remained as being objectionable.
+The adoption of the Fawley standard in the present case does not merit vacating the decision of the WCAB. Under Fawley, the WCAB has the power to review de novo all matters presented and fully adjudicated by the parties before the hearing referee and the WCAB. In the present case, causation was critical to plaintiffs claim and is one of the factors that must be shown in order to receive compensation. Fawley established that parties to a compensation hearing may not limit the WCAB’s review of the record facilitating its conclusions of fact and law. While plaintiffs issue on appeal appears to limit the WCAB’s review, her brief to that body devoted seven pages to whether the injury was work-related. Less than two pages were devoted to the narrower favored-work issue. Any remand for further arguments would be cumulative. Plaintiff may have been surprised by the WCAB’s decision, but she was not unaware of the critical factor of causation and argued the work-related nature of her injury on appeal. In the present case, no additional information was considered nor was there any need for additional evidence. The WCAB’s decision was made by reviewing the same record previously reviewed by the hearing referee.
+Affirmed.
