@@ -1,0 +1,62 @@
+---
+court: "Michigan Court of Appeals"
+docket: "105286"
+decided: "1990-02-05"
+citations: ["182 Mich. App. 243"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Griffin, P.J., and Gillis and Sawyer, JJ."]
+parties: ["ABBOTT v HOWARD"]
+source_url: "https://static.case.law/mich-app/182/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2306273
+cites_cases: ["141 NW2d 722", "162 Mich App 750", "218 NW2d 854", "229 NW 622", "234 US 385", "250 Mich 105", "264 NW2d 119", "269 NW2d 301", "270 NW 256", "278 Mich 169", "296 NW2d 354", "3 Mich App 81", "303 Mich 492", "339 US 306", "345 NE2d 477", "39 ALR 1169", "410 NE2d 837", "413 NW2d 99", "429 Mich 890", "51 ND 710", "53 Mich App 100", "6 NW2d 883", "63 Ill 2d 99", "81 Ill 2d 434", "81 Mich App 58", "84 Mich App 45", "94 L Ed 865", "97 Mich App 496"]
+---
+
+# Abbott v. Howard
+
+## Majority (Griffin, P.J.)
+
+Griffin, P.J.
+This is an appeal from a circuit court action in which the plaintiff sought to enforce a workers’ compensation award entered against defendant Howard. Plaintiff appeals as of right from a lower court order which denied his motion for entry of judgment and dismissed his complaint as to defendant Howard. We affirm.
+i
+Plaintiff was injured while in the course of his employment with American United Industry, Inc. On January 11, 1982, he filed a petition with the Bureau of Workers’ Disability Compensation, seeking workers’ compensation benefits for his injury. Thereafter plaintiff determined that American United Industry was uninsured for the loss and amended his petition to add Howard as a defendant, claiming that Howard was a principal of the company. Howard filed an answer in response to the amended petition.
+A hearing was held before a hearing referee on February 17, 1983. However, none of the defendants appeared. A default judgment (decision) was thereafter entered on March 23, 1983, against all defendants.
+On June 17, 1983, Howard filed a motion in the Bureau of Workers’ Disability Compensation to set aside the default judgment. Defendant’s motion alleged: (1) the judgment was void ab initio because Howard had not been served with the hearing notice; and (2) other than preparing corporate documents as an attorney at law hired by the corporation, Howard had never been affiliated with American United Industry, Inc. The bureau denied the motion as untimely without addressing its merits. Howard did not file a delayed application for appeal.
+On November 15, 1984, plaintiff commenced the instant action in Wayne Circuit Court to enforce the award pursuant to § 863 of the Workers’ Disability Compensation Act, MCL 418.863; MSA 17.237(863). After two evidentiary hearings, the Honorable Marvin R. Stempien issued the opinion and order which denied plaintiff’s motion for summary disposition and dismissed plaintiff’s complaint as to defendant Howard. Judge Stempien refused to enforce the award on the grounds that Howard’s rights to procedural due process were violated due to his lack of notice of the hearing:
+An evidentiary hearing that was ordered in this matter by this Court was conducted on October 20, 1986 and February 19, 1987. The factual issue at that hearing involved the question of notice to Defendant Howard of the time and place of the trial in the Bureau action. Two witnesses testified under oath, and two exhibits were admitted in evidence. From the evidence this Court finds that no actual notice of the trial in the Bureau was given to Defendant Howard. This Court further finds that there is no evidence whatsoever that Defendant Howard received constructive notice of the trial date.
+Based upon the whole record, this Court is convinced that there is no evidence of actual or constructive service on Defendant Howard. Therefore, in the Bureau action, Defendant Howard did not receive the due process notice required by both [the] [Constitution and by the Worker’s Compensation Statute. It would be manifest injustice to allow Plaintiff to now proceed against Defendant Howard on an award that is constitutionally defective.
+Accordingly, it is hereby ordered that Summary Disposition is denied, and the complaint is dismissed as to Defendant Howard.
+II
+On appeal, plaintiff relies upon the following provisions of the Workers’ Disability Compensation Act:
+Any party may present a certified copy of an order of a hearing referee, worker’s compensation magistrate, an arbitrator, the director, the appeal board, or the appellate commission in any compensation proceeding to the circuit court for the circuit in which the injury occurred, or to the circuit court for the County of Ingham if the injury was sustained outside this state. The court, after 7 days’ notice to the opposite parties, shall render judgment in accordance with the order unless proof of payment is made. The judgment shall have the same effect as though rendered in an action tried and determined in the court and shall be entered and docketed with like effect.” [MCL 418.863; MSA 17.237(863).]
+Any dispute or controversy concerning compensation or other benefits shall be submitted to the bureau and all questions arising under this act shall be determined by the bureau or a worker’s compensation magistrate, as applicable. The director may be an interested party in all worker’s compensation cases in questions of law. [MCL 418.841(1); MSA 17.237(841)(1).]
+From this authority, plaintiff argues that the circuit court lacked discretion regarding enforcement of the award and that defendant Howard waived all defenses to the award due to his failure to timely appeal to the Workers’ Compensation Appeal Board. We disagree.
+III
+It is well established that a judgment which is void for want of jurisdiction may be attacked at any time. MCR 2.612(C)(1)(d); H & L Heating Co v Bryn Mawr Apartments of Ypsilanti, Inc, 97 Mich App 496, 503; 296 NW2d 354 (1980); Ins Co of North America v Issett, 84 Mich App 45, 48; 269 NW2d 301 (1978). This rule also applies to workers’ compensation awards. Sweet v Eddy Paper Corp, 303 Mich 492; 6 NW2d 883 (1942).
+In the instant case, the Bureau of Workers’ Disability Compensation, possessed both subject matter jurisdiction and personal jurisdiction over Howard after service of the amended petition. Accordingly, the award is "voidable,” not "void.” Jackson Investment Corp v Pittsfield Products, Inc, 162 Mich App 750; 413 NW2d 99 (1987), lv den 429 Mich 890 (1987), Home Life Ins Co v Cohen, 278 Mich 169; 270 NW 256 (1936), and Curtis v Curtis, 250 Mich 105; 229 NW 622 (1930). The distinction between "void” and "voidable” judgments has been emphasized by commentators Martin, Dean and Webster:
+Care should also be taken not to confuse "void” judgments with those which are merely "voidable”. Certain procedural irregularities, not amounting to lack of jurisdiction over the person or subject matter, are sometimes characterized as making a judgment "voidable”. This means that these judgments may be set aside upon a timely application in the same proceedings as a matter of judicial discretion. [3 Martin, Dean & Webster, Michigan Court Rules Practice (3rd ed), p 541.]
+Our Supreme Court has held that the decision whether to vacate a voidable judgment rests upon principles of equity:
+If the irregularity, as here, arises from the failure to comply with rules of procedure, a court has the power to vacate its voidable decree. Curtis v Curtis, 250 Mich 105. Whether it will vacate such a decree depends upon the equities of the particular case .... [Home Life Ins Co v Cohen, supra at 170.]
+The above rationale is equally applicable to voidable decrees issued by administrative agencies. Accordingly, we hold that the circuit court is empowered under terms which are equitable to vacate a voidable judgment, decision, order, or award of an administrative agency which was secured in violation of a party’s right to procedural due process.
+Allowing a judicial challenge to administrative decrees on due process grounds is consistent with our dictum in Guerrero v Brighton Athletic Ass’n, 81 Mich App 58, 60-61, n 2; 264 NW2d 119 (1978), and with authorities from other jurisdictions. See State ex rel Dushek v Watland, 51 ND 710; 201 NW 680; 39 ALR 1169 (1924); Interstate Contractors v Industrial Comm, 81 Ill 2d 434; 410 NE2d 837 (1980).
+In Interstate Contractors v Industrial Comm, supra, pp 437-438, the Illinois Supreme Court held that the defense of denial of due process is an exception to the general rule which prohibits collateral attack of workers’ compensation awards:
+While it is generally true that a party cannot indirectly attack an award of the Commission in a collateral proceeding where no review had been taken in the manner provided by statute (City of Chicago v Industrial Comm (1976), 63 Ill 2d 99, 103; 345 NE2d 477), section 19 of the Act does not authorize the entry of a decision in violation of the principles of due process. . . . We therefore hold that both the Industrial Commission and the circuit court are vested with the power to examine the validity of the decisions entered in the proceedings below and empowered to determine whether they are void for lack of jurisdiction over the parties.
+We agree and conclude that the due process exception also applies to voidable administrative decrees.
+IV
+Applicable to the instant case is an administrative rule, 1984 AACS R 408.36, which provides in part:
+(d) Notices mailed by the bureau after service of the original petition for hearing shall be served upon the attorney for each named party. Any party not represented by legal counsel shall be served directly. If the notice requests or requires the appearance or action of a specific party, that party shall also be served.
+This rule was obviously intended to provide litigants with notice of the time and date of hearing. The trial court found that defendant Howard was deprived of the benefit of the above rule in that he was not given notice of the hearing. Accordingly, the lower court concluded that defendant Howard’s procedural due process rights were violated and it would be manifestly unjust to enforce the award.
+This Court has previously held that the procedural rights of a litigant are violated if a litigant is deprived of the benefit of a procedural rule promulgated by an administrative agency. Bohannon v Sheraton-Cadillac Hotel, Inc, 3 Mich App 81; 141 NW2d 722 (1966). Further, the circuit court may vacate a workers’ compensation award secured in violation of a party’s procedural due process rights. Russell v Shippers Dispatch, Inc, 53 Mich App 100, 105-106; 218 NW2d 854 (1974).
+The award in the instant case is voidable as obtained in violation of Howard’s statutory and constitutional rights to procedural due process. As the United States Supreme Court has stated, the constitutional right to procedural due process requires at a minimum an opportunity to be heard:
+Many controversies have raged about the cryptic and abstract words of the Due Process Clause but there can be no doubt that at a minimum they require that deprivation of life, liberty or property by adjudication be preceded by notice and opportunity for hearing appropriate to the nature of the case. [Mullane v Central Hanover Trust, 339 US 306, 312; 70 S Ct 652; 94 L Ed 865 (1950).]
+The fundamental requisite of due process of law is the opportunity to be heard. [Grannis v Ordean, 234 US 385, 394; 34 S Ct 779; 58 L Ed 1363 (1914)].
+Although appeals through administrative channels are preferred and encouraged, procedural due process defenses are not waived if timely raised in the circuit court. Because the administrative decision at issue is voidable rather than void, the equities of the case are determinative.
+v
+In the instant case, the workers’ compensation award was secured in violation of defendant Howard’s constitutional and statutory rights to procedural due process. Defendant’s lack of notice of the hearing deprived him of his fundamental right to be heard. After weighing the equities, we agree with the lower court that it would be manifestly unjust to enforce the award.
+Affirmed.
+MCR 2.612(C)(1)(d) states:
+(1) On Motion and on just terms, the court may relieve a party or the legal representative of a party from a final judgment, order, or proceeding on the following grounds:
+(d) The judgment is void.
+US Const, Am XIV; Const 1963, art 1, § 17.
