@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-948"
+decided: "1977-09-21"
+citations: ["78 Mich. App. 664"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P. J., and D. E. Holbrook and D. F. Walsh, JJ."]
+parties: ["DEAN v GREAT LAKES CASTING COMPANY"]
+source_url: "https://static.case.law/mich-app/78/cases/0664-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2163629
+cites_cases: ["188 NW 462", "1975 PA 279", "1975 PA 34", "218 Mich 334", "246 NW2d 316", "246 NW2d 631", "265 NW 515", "275 Mich 30", "282 NW 150", "286 Mich 285", "397 Mich 859", "70 Mich App 532", "70 Mich App 565"]
+---
+
+# Dean v. Great Lakes Casting Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In this case of importance to worker’s compensation practice, we issue an opinion on appellant’s application for leave to appeal. See GCR 1963, 806.7.
+The question we address is whether the Workmen’s Compensation Appeal Board has jurisdiction to reconsider its orders dismissing appeals because of appellant’s failure to comply with 1975 PA 34 which is § 862 of the Worker’s Disability Compensation Act of 1969, MCLA 418.862; MSA 17.237(862).
+Section 862 requires an appealing employer to pay 70% of the compensation awarded pending appeal. In Turner v General Motors Corp, 70 Mich App 532; 246 NW2d 631 (1976), and Michigan Self-Insurers’ Ass’n v Workmen’s Compensation Bureau, 70 Mich App 565; 246 NW2d 316 (1976), we upheld the constitutionality of 1975 PA 34 and recognized the appeal board’s implied power to dismiss appeals for noncompliance with it. Although the Supreme Court granted leave to appeal both decisions, it declined to stay enforcement of the act pending appeal. See 397 Mich 859, 866.
+Enforcing the act, the appeal board has dismissed numerous appeals where payments have not been made or where Form 101, showing commencement of payments, has not been filed within 30 days after the appeal board’s notice to appellants to comply with § 862 or suffer dismissal of their appeals.
+When appellants have sought reinstatement of their appeals, often for very good cause shown, the appeal board has refused to grant motions to rehear, reconsider or reinstate, or petitions for delayed appeal on the grounds that it lacks jurisdiction to rehear its orders and decisions by virtue of Guss v Ford Motor Co, 275 Mich 30; 265 NW 515 (1936).
+We disagree with that reading of Guss.
+Guss held that the former department of labor and industry had no power to grant a rehearing of its decisions. Actually, the no rehearing rule is a general principle applicable to all administrative agencies. The rule was designed to promote finality in agency decisions. See 2 Am Jur 2d, Administrative Law, § 520 et seq. However, the rule may be limited to agency decisions on the merits and not to orders on procedural matters not affecting the merits. It is said in 82 Am Jur 2d, Workmen’s Compensation, § 570, pp 296-297:
+"While some of the compensation acts contain express provisions with respect to rehearings, it has been held, under particular statutory provisions, that a compensation commission has no power to grant a rehearing of a cause which it has determined. A rehearing will not be granted for error in the admission or exclusion of evidence unless substantial justice requires it. Statutory provisions for the modification of awards have been construed to [in?] some instances as not authorizing the reopening of a proceeding for the purpose of reviewing a decision denying a claim for compensation upon a hearing on the merits.”
+While the appeal board may correct a mistake in its original order, it may not grant a rehearing in the sense of "reopening of the case for a redetermination of basic facts”. McLean v Eaton Manufacturing Co, 286 Mich 285, 294; 282 NW 150 (1938). The basic facts in a compensation case are generally considered to be facts relating to the merits of the claim such as coverage, disability and work connection. "[A] rehearing may not be had to review the facts establishing liability.” Letourneau v Davidson, 218 Mich 334, 339; 188 NW 462 (1922).
+"The rehearing which is prohibited is one which involves a reopening of the case for a redetermination of basic facts. There can be no rehearing based on the same facts or on additional facts relating only to the right to any compensation, in the absence of a change of the physical condition of the employee; but this rule does not prevent the department from reopening an award or settlement if there has been a change in the physical condition of the employee, for the purpose of increasing, diminishing or entirely stopping the compensation, nor does it preclude power to correct a mistake in its original order so as to make it conform to the actual finding of basic facts.” 11A Callaghan, Michigan Pleading & Practice, Workmen’s Compensation, § 90.95, pp 396-397.
+Therefore, we hold that while Guss may apply to appeal board determinations on the merits of an appeal, it is inapplicable in situations where the board’s determination is only to dismiss an appeal for procedural default. Guss itself supports this distinction. The appeal in that case was dismissed ostensibly for failure to file a transcript, but in doing so, the appeal board reviewed the record available and affirmed on the merits. In stating the no rehearing principle, the Supreme Court noted:
+"The department may, before entering an order affirming an award and dismissing an appeal, extend the time for filing the transcript of testimony upon a showing of good cause, but may not vacate a final order, affirming an award and dismissing an appeal, and thereby recapture the appeal.” 275 Mich App at 33. (Emphasis added.)
+In this case, the appeal board dismissed appellant’s appeal for noncompliance with § 862 and denied appellant’s motion to reconsider the order of dismissal, citing Guss. The appeal board did not consider the reasons for noncompliance which were contained in the motion. In this appeal, we decline to evaluate the asserted reasons; it is more appropriate that the appeal board initially exercise its discretion on requests to reinstate appeals dismissed for noncompliance with the statute.
+In Turner v General Motors Corp, supra, we recognized that the purpose of 1975 PA 34 is to insure prompt payment of benefits to an injured employee pending the employer’s appeal. We are aware that the appeal board can tell if that purpose is met only if Form 101 is seasonably filed. In exercising its discretion, the board will balance the desire for prompt payment with its duty to process appeals promptly and efficiently. Reinstatement of an appeal merely revives the opportunity for review and does not prejudice either party on the merits of claim or defense. For that reason, reinstatement should be freely allowed where appellant has substantially complied with § 862.
+The order of the appeal board in this case, denying appellant’s motion to reconsider, is vacated and the case is remanded to the appeal board for adjudication on the merits of appellant’s motion.
+Although 1975 PA 279 changed the title of the compensation act to the Worker’s Disability Compensation Act of 1969 to reflect its applicability to workers of either sex, MCLA 418.101; MSA 17.237(101), no similar change has been made in the titles of the bureau and the appeal board. MCLA 418.201; MSA 17.237(201); MCLA 418.251; MSA 17.237(251).
+The no rehearing rule was abrogated by the Administrative Procedures Act of 1969, MCLA 24.287; MSA 3.560(187), for agencies other than the Workmen’s Compensation Bureau, MCLA 24.315; MSA 3.560(215).
