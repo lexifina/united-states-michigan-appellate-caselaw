@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "68278"
 decided: "1984-01-03"
-citations: ["131 Mich. App. 363", "134 Mich. App. 401"]
+citations: ["131 Mich. App. 363"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v KANOUSE"]
 source_url: "https://static.case.law/mich-app/131/cases/0363-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2249926
-cites_cases: ["101 Mich App 585", "103 Mich App 69", "117 Mich App 776", "131 Mich App 363", "179 NW2d 207", "201 NW2d 104", "216 NW2d 450", "216 NW2d 770", "23 Mich App 635", "243 NW2d 257", "276 NW2d 512", "287 NW2d 352", "300 NW2d 639", "302 NW2d 330", "324 NW2d 499", "346 NW2d 101", "391 Mich 426", "397 Mich 76", "406 Mich 947", "41 Mich App 748", "411 Mich 1058", "411 Mich 886", "419 US 868", "42 L Ed 2d 106", "440 US 367", "446 US 222", "51 Mich App 766", "88 Mich App 50", "93 Mich App 817", "95 S Ct 125"]
+cites_cases: ["101 Mich App 585", "103 Mich App 69", "117 Mich App 776", "179 NW2d 207", "216 NW2d 450", "216 NW2d 770", "23 Mich App 635", "243 NW2d 257", "276 NW2d 512", "287 NW2d 352", "300 NW2d 639", "302 NW2d 330", "324 NW2d 499", "391 Mich 426", "397 Mich 76", "411 Mich 1058", "411 Mich 886", "419 US 868", "42 L Ed 2d 106", "440 US 367", "446 US 222", "51 Mich App 766", "88 Mich App 50", "93 Mich App 817", "95 S Ct 125"]
 ---
 
 # People v. Kanouse
