@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "102794"
+decided: "1988-11-30"
+citations: ["174 Mich. App. 520"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Beasley, P.J., and Sawyer and T. J. Foley, JJ."]
+parties: ["HALM v BOARD OF EDUCATION OF THE DANSVILLE AGRICULTURAL SCHOOLS"]
+source_url: "https://static.case.law/mich-app/174/cases/0520-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2318441
+cites_cases: ["124 Mich App 179", "126 Mich App 306", "163 Mich App 587", "333 NW2d 502", "337 NW2d 533", "4 ALR3d 1090", "415 NW2d 213"]
+---
+
+# Halm v. Board of Education of the Dansville Agricultural Schools
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The circuit court entered an order affirming a decision of the State Tenure Commission’s conclusion that respondent board of education had proven reasonable and just cause for discharging petitioner. Petitioner now appeals and we affirm.
+Petitioner was employed by respondent as a middle school teacher and, on April 29, 1982, the superintendent of schools and the principal of the middle school at which petitioner taught filed charges against petitioner pursuant to the teacher tenure act, MCL 38.71 et seq.; MSA 15.1971 et seq. On that same date, respondent held an open, public meeting and voted to proceed on the charges, which challenged petitioner’s competency and called for her dismissal.
+On June 9, 1982, a private tenure hearing began before the board. The hearing continued for eighteen sessions. In an opinion dated September 15, 1982, the board concluded that the charges against petitioner had been proven and discharged petitioner from employment.
+Petitioner first argues that the commission’s decision that there existed reasonable and just cause for petitioner’s discharge was not supported by competent, material and substantial evidence on the whole record. Specifically, petitioner argues that the commission erred in its determination that she had been given an adequate opportunity to improve her performance prior to the discharge and that the commission erred in its conclusion that petitioner was unable to work with parents, which formed part of the basis for her discharge. We disagree with petitioner.
+When reviewing a decision of the State Tenure Commission, this Court determines if the decision is supported by competent, material and substantial evidence on the whole record. MCL 24.306(l)(d); MSA 3.560(206)(l)(d); Oates-Ulrich v Okemos Public Schools Bd of Ed, 163 Mich App 587, 589; 415 NW2d 213 (1987). Substantial evidence is evidence which a reasonable mind would accept as sufficient to support a conclusion. While it must consist of more than a scintilla of evidence, it may be substantially less than a preponderance of the evidence. Ron’s Last Chance, Inc v Liquor Control Comm, 124 Mich App 179, 182; 333 NW2d 502 (1983). This Court should give due deference to an agency’s expertise, and should not disturb an agency’s choice between two reasonably differing views. West Ottawa Ed Ass’n v West Ottawa Public Schools Bd of Ed, 126 Mich App 306, 313; 337 NW2d 533 (1983).
+Turning first to petitioner’s argument that the commission erred in concluding that she had been given an adequate opportunity to improve her performance, we believe that the record supports the commission’s determination. Briefly, petitioner had been informed during both the 1979-80 and the 1980-81 school years that her performance was deficient and must be improved. In May, 1981, the superintendent of schools sent petitioner’s principal a memo which recommended that petitioner be evaluated and assisted in her attempts to improve her performance during the 1981-82 school year, with an attempt to avoid the necessity of discharging petitioner. In fact, both the superintendent and the principal observed petitioner’s performance several times throughout the 1981-82 school year. Each of these observations was followed up by a memo to petitioner detailing the observation and making suggestions for improvement. We conclude that the commission’s conclusion that petitioner was given an adequate opportunity to improve her performance was supported by competent, material, and substantial evidence on the whole record.
+With respect to petitioner’s argument that she was unable to work well with parents, there is evidence in the record of parental complaints to the schools about petitioner, including complaints about petitioner following conferences between petitioner and the parents involved. We believe that the record contains competent, material, and substantial evidence to support the commission’s conclusion that petitioner was unable to work effectively with parents.
+Petitioner’s second argument on appeal is that respondent’s decision to discharge her should be reversed because respondent violated her right to a private tenure hearing. Specifically, respondent board of education, at a public hearing held on April 29, 1982, voted to proceed with the tenure charges. Thereafter, a private hearing was held to consider those charges. Petitioner is correct that a teacher has a statutory right to determine whether a tenure hearing should be public or private. MCL 38.104; MSA 15.2004. However, we do not believe that her right to a private hearing was violated by the board’s initial public vote to hold the hearing.
+First, that initial vote was not a hearing on the charges, but a vote to hold such a hearing. Thus, petitioner’s right to a private hearing did not accrue until after the board determined it was going to proceed with a hearing on the charges. Second, even if petitioner is correct that she was entitled to have that initial vote conducted in private, we see nothing in the tenure statute which supports petitioner’s proposed remedy for a violation of a right to a private hearing. While there perhaps should be some remedy fashioned for such a violation, we decline to adopt petitioner’s proposal, to reverse her discharge, in the instant case since wé believe neither that there was a violation of a right to a private hearing nor, even if such a violation existed, that petitioner’s proposed remedy is appropriate.
+Affirmed. Respondent may tax costs.
