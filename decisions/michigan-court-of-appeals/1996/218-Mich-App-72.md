@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "176636"
+decided: "1996-07-30"
+citations: ["218 Mich. App. 72"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Taylor, P.J., and Murphy and E. J. Grant, JJ."]
+parties: ["In re AUSTIN ESTATE GREER v COLBERT"]
+source_url: "https://static.case.law/mich-app/218/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1556895
+cites_cases: ["148 Mich App 171", "182 Mich App 741", "200 Mich App 445", "205 Mich App 474", "384 NW2d 119", "439 Mich 370", "453 NW2d 301", "483 NW2d 844", "505 NW2d 279", "517 NW2d 794"]
+---
+
+# Greer v. Colbert
+
+## Majority (Taylor, P.J.)
+
+Taylor, P.J.
+Respondents appeal as of right from a June 1, 1994, order granting attorney fees in the amount of $13,950.50 to petitioner. We affirm.
+On March 10, 1993, petitioner submitted a document to the Macomb County Probate Court, claiming that it was decedent’s last will and testament. The document, entitled “Power of Attorney,” purported to grant petitioner a power of attorney to handle decedent’s estate and provided that “if i [sic] exspire [sic] all estate and banks [sic] become yours.” The document bore decedent’s and two witnesses’ signatures and was duly notarized. Respondents, who were named devisees in a will decedent had executed before the power of attorney document, filed objections to petitioner’s proposed will. After holding a bench trial, the probate court issued an order denying admission of petitioner’s document to probate. Over the objections of respondents and the personal representative of the decedent’s estate, the probate court subsequently awarded petitioner attorney fees pursuant to MCL 700.148; MSA 27.5148.
+On appeal, respondents first argue that MCL 700.148; MSA 27.5148 requires a proponent of an assumed will in a will contest to petition the probate court for authorization to retain counsel before the court may award the proponent attorney fees. Because petitioner failed to fulfill this requirement, respondents argue that the trial court erred in awarding him attorney fees. We disagree. Whether petitioner must first request authorization to retain counsel before a probate court may grant attorney fees pursuant to MCL 700.148; MSA 27.5148 is a question of law. In re Sarras Estate, 148 Mich App 171, 182; 384 NW2d 119 (1986). This Court reviews questions of law de novo. In re Rupert, 205 Mich App 474, 479; 517 NW2d 794 (1994).
+Under Michigan law, the personal representative named in the will, an heir of the testator, or a devisee under a will may petition the probate court for the admission of a will to probate after the testator’s death. MCL 700.145; MSA 27.5145. Any interested person may object to the admission of the will to probate. MCL 700.148; MSA 27.5148. In that event, the will is considered contested, and MCL 700.148; MSA 27.5148 provides that
+[t]he person named in the will as personal representative or a proponent may petition the court for authorization to retain counsel for the purpose of sustaining the will; and the reasonable expense of counsel and of procuring evidence to sustain the will shall be a proper charge against the estate.
+In In re Sarras Estate, supra, this Court dealt with the issue whether the probate court erred in awarding attorney fees to the proponent of a contested will because the proponent failed to petition for authorization to retain counsel for the purpose of defending the will contest. Id. at 182. The Court held at 182:
+[MCL 700.148; MSA 27.5148] does not prohibit a proponent, who has not petitioned for authorization in advance, from ever recovering attorney fees. We read the [statute] as merely allowing the proponent to petition for authorization in advance so that expenses can be charged against the estate as they are incurred.
+Although respondents urge us to hold differently, In re Sarras Estate clearly states that a petitioner can collect attorney fees without first petitioning for authorization to retain counsel. Accordingly, petitioner’s failure to seek authorization to retain counsel did not preclude the trial court from awarding him attorney fees.
+We also reject respondents’ argument that the award of reasonable attorney fees under MCL 700.148; MSA 27.5148 is not mandatory. Whether the award of attorney fees under MCL 700.148; MSA 27.5148 is mandatory is a question of law. In re Sarras Estate, supra at 182. This Court reviews questions of law de novo. In re Rupert, supra at 479. In construing statutory language to effectuate legislative intent, we presume that the Legislature intended the meaning it plainly expressed in the body of the statute. Frasier v Model Coverall Service, Inc, 182 Mich App 741, 744; 453 NW2d 301 (1990). This Court may not speculate regarding the probable intent of the Legislature beyond the words expressed in the statute. If the plain and ordinary meaning of the language is clear, judicial construction is normally neither necessary nor permitted. Lorencz v Ford Motor Co, 439 Mich 370, 376; 483 NW2d 844 (1992).
+MCL 700.148; MSA 27.5148 provides that, where the validity of a proposed will is contested, “the reasonable expense of counsel and of procuring evidence to sustain the will shall be a proper charge against the estate.” The word “shall” is normally read as designating a mandatory provision of law, Jordan v Jarvis, 200 Mich App 445, 451; 505 NW2d 279 (1993), and this is the plain meaning of the statute. By the statute’s plain meaning, courts must consider attorney fees incurred by the will proponent as a “proper charge against the estate.” In turn, Michigan law provides that the estate given by will to any devisee shall be held liable for the payment of all charges against the estate. MCL 700.157; MSA 27.5157. Furthermore, this Court has stated that “[t]he allowance or disallowance of such expenses by a will proponent is not contingent upon whether or not that proponent is ultimately successful.” In re Sarras Estate, supra at 182. Accordingly, the trial court did not err in considering petitioner’s reasonable attorney fees a mandatory charge against decedent’s estate.
+Affirmed.
+In In re Sarras Estate, supra at 182, the Court utilized an abuse of discretion standard in affirming an award of attorney fees pursuant to MCL 700.148; MSA 27.5148. To the extent that the Court’s use of an abuse of discretion standard suggests a court has discretion to deny attorney fees, we disagree with the Sarras Court because the statute’s use of the word “shall” is mandatory.
+The Legislature may wish to consider amending this statute to allow probate courts discretion to deny attorney fees when a proponent of a will offers a purported will fraudulently, vexatiously, or in bad faith.
