@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-528"
+decided: "1979-06-06"
+citations: ["90 Mich. App. 668"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P.J., and Allen and Mackenzie, JJ."]
+parties: ["LINDSEY v HARTFORD ACCIDENT & INDEMNITY COMPANY"]
+source_url: "https://static.case.law/mich-app/90/cases/0668-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2178212
+cites_cases: ["123 NW2d 244", "252 NW2d 842", "261 NW2d 554", "265 NW2d 130", "269 NW2d 570", "273 NW2d 829", "279 NW2d 48", "371 Mich 153", "403 Mich 852", "404 Mich 524", "73 Mich App 602", "79 Mich App 218", "81 Mich App 308", "84 Mich App 292", "88 Mich App 710"]
+---
+
+# Lindsey v. Hartford Accident & Indemnity Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In this cause we are confronted with two questions on which prior panels of this Court have reached conflicting conclusions: (1) may an employee recover personal protection insurance benefits from his employer’s no-fault insurer, despite the exclusive remedy provision of the Worker’s Disability Compensation Act, MCL 418.131; MSA 17.237(131), where the employee is injured during the course of his employment while an occupant of a vehicle of the employer? (2) if the answer to issue (1) is "yes”, must the award against the employer’s no-fault insurer be reduced by the amounts paid in workers compensation benefits, or is such deduction a violation of the equal protection clause of the Fourteenth Amendment of the United States Constitution?
+These issues arise out of an accident which occurred on June 14, 1976, while the plaintiff was unloading a trailer at a loading dock. The trailer belonged to his employer, Blodgett Furniture Service. At the time of the accident, the trailer portion of the truck was insured by Carriers Insurance Company (Carriers). The tractor or cab portion was owned by the plaintiff and leased to Blodgett Furniture Service and was insured by Hartford Accident and Indemnity Company (Hartford). The plaintiff’s personal motor vehicle was insured by Detroit Automobile Inter-Insurance Exchange (DAIIE).
+On May 19, 1977, the plaintiff filed suit against Carriers and Hartford in Kent County Circuit Court claiming no-fault economic loss benefits, pursuant to MCL 500.3101, et seq.; MSA 24.13101, et seq. The plaintiff then added DAIIE as a party defendant in an amended complaint filed June 10, 1977. Carriers filed a motion for summary judgment. In its brief on the motion, Carriers argued that the exclusive remedy provision of the Worker’s Disability Compensation Act, MCL 418.131; MSA 17.237(131), barred suit against Carriers for no-fault benefits. The motion for summary judgment was also predicated on the theory that since plaintiff could not sue his employer, Blodgett Furniture Service, there could be no suit against the employer’s no-fault insurance carrier. On December 7, 1977, the trial court entered an order granting Carriers’ motion for summary judgment. The trial court’s order was based on the decision of Mathis v Interstate Motor Freight System, 73 Mich App 602; 252 NW2d 842 (1977), and the exclusive remedy provision of the Michigan Worker’s Disability Compensation Act. MCL 418.131; MSA 17.237(131).
+I.
+This panel answers the first question in favor of the plaintiff. In so doing we reject Mathis and adopt the reasoning and conclusion expressed in the dissenting opinion in Ottenwess, supra, and in the unanimous opinion in Hubert, supra. We hold that the exclusive remedy provision of the Worker’s Disability Compensation Act, MCL 418.131; MSA 17.237(131), does not bar recovery of no-fault benefits from plaintiff’s employer or its insurer, Carriers. We find that MCL 500.3114(3); MSA 24.13114(3) authorizes plaintiff to receive no-fault personal protection insurance benefits from defendant.
+Our resolution of this first question places the first priority for no-fault benefits upon Carriers and relieves the trial court of deciding priorities between Hartford, DAIIE and Carriers.
+II.
+Having decided that the entire liability is that of the employer’s no-fault carrier, the only remaining question to be decided is whether there should be deducted from the no-fault benefits any sums previously paid plaintiff or to which he may be entitled in worker’s compensation benefits. The trial court found it unnecessary to reach this issue but in its cross-appeal Carriers argues that if plaintiff is found to be entitled to no-fault benefits, any such award must be reduced by the amount of worker’s compensation benefits already paid or to be paid. Plaintiff responds, arguing that this issue was not raised in the trial court and therefore is not preserved for appeal. Additionally, plaintiff contends that if this issue is deemed properly before the Court, then the decision in Pollock v Frankenmuth Mutual Ins Co, 79 Mich App 218, 224; 261 NW2d 554 (1977), holding the offset provisions of § 3109(1) of the no-fault statute unconstitutional, is controlling.
+Plaintiff is correct in asserting that the issue was not properly preserved for appeal. Issues not presented to the trial court are not properly before this Court. Oakland County v Detroit, 81 Mich App 308, 314; 265 NW2d 130 (1978). But because prior panels have split on this question and because the Supreme Court has just recently addressed the constitutionality of § 3109(1) in O’Donnell v State Farm Mutual Automobile Ins Co, 404 Mich 524; 273 NW2d 829 (1979), we will waive technicalities and will address the issue.
+In O’Donnell, the Supreme Court sustained the constitutionality of the deduct or set-off provisions of § 3109(1). While that case pertained to set-offs of social security benefits, we believe its reasoning applies equally to worker’s compensation benefits. Furthermore, the decision in Pollock, supra, was strongly influenced by the Court of Appeals decision in O’Donnell holding § 3109(1) unconstitutional. Now that the Supreme Court has reversed the Court of Appeals in O’Donnell the vitality of Pollock is placed in doubt. On this issue another panel of this Court said in Hubert v Citizens Ins Co of America, supra, 713-714:
+"If anything, the case for constitutionality of the set-off provision is stronger where workers’ compensation benefits are to be set off. * * *
+"Since workers’ compensation benefits are not 'paid for’ by the employee, but rather by the employer and eventually the consumer, we see no basis for holding a setoff for such benefits to be unconstitutional. We are bound to follow O’Donnell and to reverse the judgment of the trial court.”
+Accordingly, both the first and second questions raised at the outset of this opinion are answered in the affirmative.
+Reversed and remanded to the trial court in accordance with this opinion. Costs to plaintiff.
+Holding that the employee could not recover no-fault benefits if workers compensation benefits had been paid is Mathis v Interstate Motor Freight System, 73 Mich App 602; 252 NW2d 842 (1977), and the majority opinion in Ottenwess v Hawkeye Security Ins Co, 84 Mich App 292; 269 NW2d 570 (1978), Iv gtd 403 Mich 852 (1978). Reaching a contrary result and holding that the employee could recover from the employer’s no-fault carrier is the minority decision in Ottenwess and Hubert v Citizens Ins Co of America, 88 Mich App 710; 279 NW2d 48 (1979). For an informative discussion of the conflict in these decisions see Sinas, The Current Status of No-Fault — Increasing Discord in Appellate Court Decisions, Michigan State Bar Journal, Vol. 57, No. 9, p 724 (September, 1978).
+In Pollock v Frankenmuth Mutual Ins Co, 79 Mich App 218; 261 NW2d 554 (1977), the deduct or set-off provision of MCL 500.3109(1); MSA 24.13109(1) was found unconstitutional. Recently, another panel of this Court came to the opposite conclusion. Hubert v Citizens Ins Co of America, supra.
+DAIIE, though not a party to this appeal (DAIIE did not appeal), filed a brief raising questions of priorities between the three insurance companies. Plaintiff’s brief also raised priority questions as to DAIIE but only if this Court decided the first question adversely to plaintiff.
+
+## Dissent (R. B. Burns, P.J.,)
+
+R. B. Burns, P.J.,
+(dissenting). I would find the exclusive remedy provision of the Worker’s Disability Compensation Act, MCL 418.131; MSA 17.237(131), precludes recovery of no-fault automobile insurance benefits by plaintiff against Carriers Insurance Company. Ottenwess v Hawkeye Security Ins Co, 84 Mich App 292; 269 NW2d 570 (1978), lv gtd, 403 Mich 852 (1979).
+I would not reach the remaining issues raised by the parties, concerning priority among insurers and the propriety of set-off, those issues not having been presented to the trial court for initial resolution. See, e.g., Swartz v Laurencelle, 371 Mich 153, 166; 123 NW2d 244 (1963).
