@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "80673"
+decided: "1985-09-30"
+citations: ["147 Mich. App. 746"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Beasley, P.J., and J. H. Gillis and M. J. Kelly, JJ."]
+parties: ["MILLS v JOLLIFF"]
+source_url: "https://static.case.law/mich-app/147/cases/0746-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2257997
+cites_cases: ["137 Mich App 715", "142 Mich App 145", "330 NW2d 22", "359 NW2d 541", "369 NW2d 282", "415 Mich 483", "42 ALR3d 229"]
+---
+
+# Mills v. Jolliff
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal as of right from a directed verdict in favor of defendant. The trial court held that plaintiffs had failed to introduce evidence sufficient to meet the statutory threshold of serious impairment of body function in this no-fault case. MCL 500.3135; MSA 24.13135. We affirm.
+Plaintiff Dawn Mills suffers from soft tissue injuries as a result of an automobile accident that occurred on February 5, 1981, when her vehicle was struck in the rear by defendant’s vehicle with such force that she was shoved across two lanes of highway, over the shoulder of the road and into a utility pole. The sole issue on appeal is whether Mills’s injuries are sufficient to meet the statutory threshold requirement of serious impairment of body function to allow plaintiffs to recover on a theory of tort liability. Contrary to plaintiffs’ arguments on appeal, this is a question of law rather than a question for the trier of fact. Cassidy v McGovern, 415 Mich 483, 502; 330 NW2d 22 (1982).
+Mills was diagnosed as suffering from whiplash at a hospital emergency room immediately after the accident. One week later, she began treatment with Dr. Lawrence Weisman, three times a week for about two months. Her treatment consisted of ultrasound, moist heat and a cervical collar. Dr. Weisman testified that Mills had a slight dulling of the membrane of her right ear which resulted in an auditory deficiency. The range of motion in both her shoulders was "slightly decreased” and there was a 30% to 40% limitation in the range of motion of her cervical (neck) area. Mills also suffered from muscle spasms and tenderness in her trapezi and dorsal paravertebral muscles.
+Over the next year and a half, Dr. Weisman saw Mills on several occasions and testified that, by January of 1982, her cervical range of motion had improved and the limitation reduced to between 5% to 10% and that the hearing in her right ear had returned to normal. By October 1, 1982, however, Dr. Weisman observed increased limitation in the range of motion of her neck, spasms in the neck and pain radiating to the left upper extremities. On March 21, 1984, Dr. Weisman again examined Mills and discovered a swelling or a buildup of tissue in Mills’s neck which he opined was a permanent condition attributable to her injuries in the accident and would likely continue to limit the motion of her neck by about 10% to 15%. The pressure of the tissue buildup on Mills’s neck decreases the blood flow to her arms when they are raised above shoulder level.
+Mills had also treated for a short time with physical therapist Stuart Young who, on August 31, 1982, diagnosed a 25% limitation in range of motion in her cervical area, which he testified improved markedly with treatment. When he last saw Mills, he concluded that there was no motor dysfunction and that all her muscles were neurologically sound and operating as they should.
+At trial, Mills testified that her injuries and the resulting pain and limitation in range of motion had significantly interferred with her daily activities, particularly with her abilities to care for her young daughter, to perform household tasks, to continue her employment and to engage in recreational physical activities. Her testimony was supported by the testimony of her husband and her sister-in-law.
+Following the close of plaintiffs’ proofs, defendant moved for a directed verdict, which the trial court granted. The court stated:
+"The Court: Well, the court has heard all the testimony and listened to the doctors with their definitions and medical terminology. In the court’s opinion, the plaintiff certainly has had pain and spasms in the neck and back and limitations on the movement of her neck and arms to a certain degree. Initially her range of motion was limited to one half in her neck but this has improved considerably; at this time the plaintiff is working eight hours a day on a production line at GM. Taking everything into consideration in the context of the statute and the recent decisions of our appellate courts, this court finds that there is just not a serious impairment of a bodily function at this time. I’m granting the motion.”
+We agree that plaintiffs have failed to meet the threshold requirement of serious impairment of body function. The limitation in Mills’s range of cervical movement, while initially 30% to 40%, was reduced to 5% to 10%, according to the testimony of her own doctor. Plaintiffs’ evidence also showed that Mills suffers from no motor dysfunction and that her muscles are neurologically sound and in order. Even assuming, without deciding, that the range of motion tests are an objective manifestation of Mills’s injury, see Salim v Shepler, 142 Mich App 145, 149; 369 NW2d 282 (1985), we are not persuaded that a 10% limitation in range of neck motion constitutes serious impairment of a body function under the no-fault act.
+Mills also suffers from a numbness in her hands and arms when she raises them above shoulder level. This condition, called a bilaterally positive Adson’s sign, was diagnosed by taking her pulse as the arm was raised, thus determining blood flow, which decreases and eventually stops the higher she raises' her arms. The cause of this condition is the buildup of tissue in Mills’s neck and the resultant pressure on the subclavian artery. However,, while we believe that her use of her shoulders and arms constitutes an important body function, Burk v Warren (After Remand), 137 Mich App 715, 725; 359 NW2d 541 (1984), and that this body function is impaired as the result of the accident, we are not convinced that Mills’s impairment rises to the level of that required under the no-fault act so as to compare with death or permanent disfigurement. Cassidy v McGovern, supra, pp 503, 505.
+Affirmed.
