@@ -1,0 +1,45 @@
+---
+court: "Michigan Court of Appeals"
+docket: "69351"
+decided: "1984-02-21"
+citations: ["132 Mich. App. 394"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P.J., and Cynar and Shepherd, JJ."]
+parties: ["PEOPLE v VAN AUKER (AFTER REMAND)"]
+source_url: "https://static.case.law/mich-app/132/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2248783
+cites_cases: ["111 Mich App 478", "191 NW2d 375", "271 NW2d 515", "291 NW2d 927", "314 NW2d 657", "339 NW2d 440", "386 Mich 84", "395 US 711", "395 US 726", "403 Mich 527", "407 Mich 939", "408 Mich 945", "412 US 47", "413 Mich 879", "417 Mich 523", "417 US 21", "440 US 951", "59 L Ed 2d 640", "99 S Ct 1432"]
+---
+
+# People v. Van Auker
+
+## Majority (Per Curiam.)
+
+After Remand
+Before: Bronson, P.J., and Cynar and Shepherd, JJ.
+Per Curiam.
+Defendant appeals as of right from his plea-based conviction as a third-time habitual offender, MCL 769.11; MSA 28.1083. Both claims of error raised by defendant here relate to sentencing.
+Defendant was first convicted on January 23, 1979, of assault with intent to do great bodily harm less than murder, MCL 750.84; MSA 28.279, and of being a fourth-time felony offender, MCL 769.12; MSA 28.1084. Defendant’s flat ten-year sentence was amended by order of this Court on April 30, 1981, to a term of from six years and eight months to ten years. Upon subsequent consideration of the substantive issues raised by defendant in his appeal, this Court reversed only defendant’s habitual offender violation. 111 Mich App 478; 314 NW2d 657 (1981). The Michigan Supreme Court denied leave to appeal to both parties. 413 Mich 879 (1982). Defendant returned to Ingham County Circuit Court and pled guilty before a visiting judge as a third-time felony offender on September 27, 1982. On October 20, 1982, he was sentenced by a different visiting judge to a prison term of from 10 to 20 years.
+Defendant’s first claim on appeal is that the sentencing judge improperly enhanced defendant’s sentence. In North Carolina v Pearce, 395 US 711; 89 S Ct 2072; 23 L Ed 2d 656 (1969), the United States Supreme Court held that no clause in the constitution bars the imposition of a more severe sentence upon reconviction of a defendant. The only two due process limitations on resentencing are that (1) vindictiveness against a defendant for having successfully attacked his first conviction must play no part in the second sentence he receives, and (2) defendants who wish to exercise the right to. appeal must be freed of the apprehension of retaliatory motivation. People v Jones, 403 Mich 527; 271 NW2d 515 (1978), cert den 440 US 951; 99 S Ct 1432; 59 L Ed 2d 640 (1979). The reviewing court can determine whether or not vindictiveness played a role at resentencing only if the resentencing judge affirmatively states on the record his reasons for imposing a higher sentence. The reasons must be "based upon objective information concerning identifiable conduct on the part of the defendant occurring after the time of the original sentencing proceeding”. Pearce, supra, 395 US 726.
+In the instant case, the sentencing judge affirmatively stated his reasons for increasing defendant’s sentence and specifically indicated that defendant’s misconduct after the original sentencing weighed heavily on his mind. When defendant asked on what grounds the judge based his decision to sentence defendant to a longer term of imprisonment, the judge replied:
+’’The Court: I based it on the fact that in totally looking at your criminal history, you’re charged with being a habitual criminal in this case, and it’s based on the fact that your crimes have gotten worse. And, certainly you left a residential program you were in, that impressed me also. There’s no reason that that contact could not have been made by telephone at 9:00 o’clock in the morning. You did not see your attorney. There was no reason for you to leave that home at 4:30, and I think that is a very direct violation of your status as an inmate and I think it was a very knowing decision you made when you left under those circumstances, and I see no excuse for it. Now that weighs heavily on my mind.
+"You had no appointment with your attorney. There’s no verification that you even attempted to see your attorney that morning and there’s no reason for you to be out, and that weighed very heavily. You had a chance to be out. You were in a residential center, and as far as the court is concerned you blew it, and I’m considering that.
+’’Defendant: That’s the basis for the increase?
+’’The Court: That is part of the basis for the increased sentence, along with your overall criminal behavior since the sixties.”
+The record clearly reveals that vindictiveness played no role in the judge’s sentencing decision. Therefore, the imposition of a higher sentence did not violate defendant’s right to due process.
+Defendant’s second claim on appeal is that he is entitled to resentencing by the same judge who took his guilty plea because he was not sentenced by that judge. We disagree.
+Both the plea-taking and the sentencing judges were visiting circuit court judges. The plea-taking judge was assigned to the circuit court for the month of September. Defendant was sentenced in October, during which month a different visiting judge was assigned.
+A defendant is entitled to be sentenced before the judge who accepts his plea provided that judge is reasonably available. See People v Clark, 408 Mich 945 (1980); People v Clemons, 407 Mich 939; 291 NW2d 927 (1979). We find that, under the circumstances of this case, the plea-taking judge was not reasonably available to sentence defendant since he no longer had the authority to act as a circuit judge in that circuit at the time of sentencing. Defendant is therefore not entitled to resentencing by the judge who accepted his guilty plea.
+Affirmed.
+
+## Concurring in part and dissenting in part (Shepherd, J.)
+
+Shepherd, J.
+(concurring in part and dissenting in part). It is uncontroverted that defendant left the residential home in which he was an inmate without permission and that his misconduct occurred after he was originally sentenced. As an immediate result of this action, defendant was given a misconduct ticket and 30 days confinement by the Department of Corrections personnel. This behavior was "identifiable conduct” which could be considered by the sentencing judge in increasing defendant’s sentence without constitutional violation. It arguably shed light upon defendant’s "life, health habits, conduct, and mental and moral propensities”. North Carolina v Pearce, 395 US 711, 723; 89 S Ct 2072, 2079; 23 L Ed 2d 656, 668 (1969).
+The sentencing court, however, improperly based defendant’s increased sentence on his conduct prior to the time of the original proceeding. Defendant’s criminal history was made known to the trial judge who presided at defendant’s first sentencing proceeding. Defendant’s history as a repeat offender, together with any inference to be drawn thereform that his crimes had grown "worse”, was not new information unavailable or nonexistent at the time of that first proceeding. Under Pearce, defendant’s "overall criminal behavior since the sixties” could not provide the basis for an increased sentence.
+It is unclear from the record how much of the increase in defendant’s sentence was attributable to improperly considered matters. Such matters are generally hard to quantify and it is probable that the sentencing judge himself did not attribute a specific portion of the increased sentence to each factor he considered. I would therefore remand to the circuit court for resentencing. Although defendant requests that we reinstate his original sentence, there is little authority in Michigan to support such a remedy. But see Justice T. E. Brennan’s dissenting opinion in People v Payne, 386 Mich 84, 98-99; 191 NW2d 375 (1971), rev’d 412 US 47; 93 S Ct 1966; 36 L Ed 2d 736 (1973). Further, it has been said in this regard that "the Due Process Clause is not offended by all possibilities of increased punishment upon retrial after appeal, but only by those that pose a realistic likelihood of 'vindictiveness’ Blackledge v Perry, 417 US 21, 27; 94 S Ct 2098, 2102; 40 L Ed 2d 628, 634 (1974). Therefore, I am not prepared to say that no increase in defendant’s sentence was permissible.
+I agree with the majority that defendant did not have the right under the circumstances of this case to be sentenced by the original circuit judge.
+In light of People v Coles, 417 Mich 523; 339 NW2d 440 (1983), I would urge the trial court to clearly articulate the reason for any enhanced sentence. I would also urge the trial court to recognize that the only basis appearing in the record for an enhanced sentence is the relatively minor infraction for which the defendant has already been disciplined within the penal system.
