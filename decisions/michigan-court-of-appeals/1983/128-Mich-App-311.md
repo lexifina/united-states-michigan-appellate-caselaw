@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "60268"
+decided: "1983-06-23"
+citations: ["128 Mich. App. 311"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P.J., and Cynar and P. J. Marutiak, JJ."]
+parties: ["PEOPLE v EVANS"]
+source_url: "https://static.case.law/mich-app/128/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2220885
+cites_cases: ["114 Mich App 784", "116 Mich App 674", "118 Mich App 266", "119 Mich App 562", "119 Mich App 690", "148 NW2d 784", "224 NW2d 867", "319 NW2d 670", "323 NW2d 508", "324 NW2d 599", "326 NW2d 559", "326 NW2d 607", "378 Mich 706", "393 Mich 342", "417 Mich 1066"]
+---
+
+# People v. Evans
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted after a jury trial of aiding and abetting his now ex-wife, Julia Evans, in obtaining assistance or relief to which she was not entitled in an amount greater than $500 by wilful false statement or fraud. MCL 400.60(1); MSA 16.460(1). He was sentenced to one year in jail under a work-release program. Defendant appeals as of right.
+Defendant argues that the trial court failed to properly instruct the jury regarding the element of value over $500. The trial court instructed:
+"The laws of this state provide that any person who, by means of wilful, false statement or representation, obtains or aids and abets any person to obtain either assistance or relief to which he or she is not entitled, or a larger amount of assistance or relief than that to which he or she is justly entitled, is guilty of a crime. The offense may be either the obtaining of an amount of a value of $500 or less, or the obtaining of money in excess of $500.
+"For the defendant to be guilty of this offense, the prosecution must prove each of the following elements beyond a reasonable doubt. First, that on or about December 12, 1975, the defendant made a wilful, false statement or representation; two, that he did so in order to obtain, or aid or abet another person in obtaining, assistance or relief to which she is not entitled, or a larger amount of assistance or relief than that to which she was justly entitled. If you find the foregoing elements to have been proved beyond a reasonable doubt, you then will determine in the same manner whether the amount involved was $500 or less, or whether it exceeded $500.”
+MCL 400.60(1); MSA 16.460(1) defines the amount of "assistance or relief’ as "the difference between the lawful amount of assistance or aid and the amount of assistance or aid actually received”. The amount of aid obtained improperly is an essential element of the offense.
+The trial court has the duty to instruct the jury regarding all of the elements of the crime and any material defenses or theories. People v Reed, 393 Mich 342, 349-350; 224 NW2d 867 (1975). Appellate review is not precluded even in the absence of an objection or request for instruction by defense counsel. Defendant has the right to have a properly instructed jury pass upon the evidence. People v Liggett, 378 Mich 706, 714; 148 NW2d 784 (1967); People v JC Williams, 118 Mich App 266, 272; 324 NW2d 599 (1982).
+The court’s instructions in this case were ambiguous. The court failed to clearly inform the jury of the formula to be used in determining the amount of benefits received beyond Julia Evans’s eligibility. The instructions informed the jury that defendant had committed a crime if he aided and abetted his wife either in obtaining relief to which she was not entitled or in obtaining relief in an amount greater than that to which she was entitled. The jury could have inferred that they could use either the total amount of benefits received or the amount unlawfully received to determine the amount of defendant’s fraud. We cannot guess that the jury found that defendant was living with his wife at the critical time and that, therefore, Julia Evans was not eligible to receive any assistance and thus received greater than $500 for which she was not eligible, i.e., conclude that the jury properly applied the formula. Nor can we guess that the jury found that defendant was not living with his wife at the critical time and that, therefore, Julia Evans received only $180 more in assistance than that to which she was entitled, i.e., conclude that the jury improperly applied the formula.
+Finding error on the basis of the above issue, we address defendant’s other issues only briefly.
+The district judge did not err by denying defendant’s motion to dismiss based on pre-arrest delay. The court found that all of the delay except for eight months was explainable. The court made no findings regarding the prosecutor’s intent, but there was no evidence of any bad faith. The court specifically found no undue prejudice to defendant because of the delay. We find no error in the lower court’s balancing of the prejudice to defendant against the reasons for and length of the delay. People v Bisard, 114 Mich App 784, 788-790; 319 NW2d 670 (1982).
+Defendant was not denied a fair trial by the admission of evidence of similar acts. The evidence of which defendant complains was not admitted for any of the permissible purposes listed in MRE 404(b), and it was not admitted to show defendant’s bad character. Defendant’s receipt of unemployment compensation while employed during 1975 was part of the prosecutor’s case in chief. The prosecutor could not foresee that the trial court would direct a verdict against him as to part of the prosecutor’s case.
+Reversible error did not arise through the prosecutor’s comments in closing and rebuttal arguments regarding the credibility of the testimony of defendant and his ex-wife. Defense counsel failed to object at trial to the comments of which defendant now complains. Appellate review is precluded unless the failure to review would cause a miscarriage of justice. People v Lytal, 119 Mich App 562, 570-571; 326 NW2d 559 (1982), lv den 417 Mich 1066 (1983). The prosecutor may argue that from the facts a witness, including the defendant, is not worthy of belief. People v Viaene, 119 Mich App 690, 697; 326 NW2d 607 (1982). In this case, the prosecutor’s statements regarding defendant’s and his ex-wife’s "lies” were based upon the inconsistencies in their testimony and other evidence presented at trial. This was not improper. See People v Jansson, 116 Mich App 674, 691-693; 323 NW2d 508 (1982).
+Based upon the first allegation of error, defendant’s conviction is reversed and the case is remanded for entry of a judgment of conviction for misdemeanor welfare fraud under $500 or, if the prosecutor believes the ends of justice would be better served, for a retrial of the felony charge.
+Reversed and remanded.
