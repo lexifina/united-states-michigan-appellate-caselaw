@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "77-3976"
 decided: "1980-10-06"
-citations: ["100 Mich. App. 371", "104 Mich. App. 533"]
+citations: ["100 Mich. App. 371"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v JIMMIE McCRACKEN"]
 source_url: "https://static.case.law/mich-app/100/cases/0371-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2196496
-cites_cases: ["100 Mich App 371", "102 Mich App 358", "202 NW2d 278", "202 NW2d 769", "211 NW2d 193", "250 NW2d 467", "260 NW2d 869", "269 NW2d 524", "269 NW2d 618", "282 NW2d 838", "287 NW2d 361", "301 NW2d 860", "388 Mich 590", "388 Mich 680", "390 Mich 104", "399 Mich 564", "407 Mich 939", "407 US 514", "436 US 499", "57 ALR2d 302", "78 Mich App 518", "84 Mich App 201", "84 Mich App 408", "91 Mich App 68", "94 Mich App 34"]
+cites_cases: ["202 NW2d 278", "202 NW2d 769", "250 NW2d 467", "260 NW2d 869", "269 NW2d 524", "269 NW2d 618", "282 NW2d 838", "287 NW2d 361", "388 Mich 590", "388 Mich 680", "399 Mich 564", "407 Mich 939", "407 US 514", "436 US 499", "57 ALR2d 302", "78 Mich App 518", "84 Mich App 201", "84 Mich App 408", "91 Mich App 68", "94 Mich App 34"]
 ---
 
 # People v. McCracken
