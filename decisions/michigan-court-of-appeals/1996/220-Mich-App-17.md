@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "175743"
+decided: "1996-11-08"
+citations: ["220 Mich. App. 17"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Young, P.J., and Corrigan and M. J. Callahan JJ."]
+parties: ["PEOPLE v CARRICK"]
+source_url: "https://static.case.law/mich-app/220/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 485288
+cites_cases: ["197 Mich App 528", "208 Mich App 670", "215 Mich App 699", "218 Mich App 702", "448 Mich 207", "496 NW2d 370", "528 NW2d 721", "528 NW2d 842", "547 NW2d 349", "555 NW2d 485"]
+---
+
+# People v. Carrick
+
+## Majority (Corrigan, J.)
+
+Corrigan, J.
+Defendant appeals by right his conviction by jury of resisting and obstructing a police officer, MCL 750.479; MSA 28.747. The court sentenced defendant to a term of probation for two years and to thirty days in jail with work release. We reverse.
+On September 21, 1993, Richard Rainey, a motor carrier commercial vehicle enforcement officer with the Michigan State Police Motor Carrier Division, was driving his personal vehicle on M-115. Rainey was off duty at the time and was not wearing his uniform. Rainey observed defendant, Dean Carrick,* driving a commercial tractor-semitrailer truck that held sand. Rainey saw sand blowing from the trailer, which was not covered with a tarpaulin. It thus contravened MCL 257.720; MSA 9.2420, a statute requiring vehicles to be covered so that their contents do not escape.
+Defendant turned into the parking lot of the Wexford County Road Commission, and Rainey followed. Rainey stepped on the running board of defendant’s truck, identified himself, and requested defendant’s driver’s license and registration. Defendant responded with profanity. He refused to furnish the requested information, pushed Rainey, and attempted to move the truck. Rainey reached into the cab, turned off the ignition, and removed the keys.
+Rainey and defendant then went into a building at the road commission. An altercation ensued; defendant struck Rainey in the head with a telephone. Rainey thereafter contacted his post, and a Michigan State Trooper responded.
+Defendant first raises on appeal that Rainey, as an off-duty motor carrier enforcement officer, did not have the authority to stop, detain, and arrest him. No evidence shows that Rainey attempted to arrest defendant on September 21, 1993. Rather, Rainey detained defendant by taking his keys. Accordingly, the issue presented is whether Rainey had the authority to stop and detain defendant.
+Defendant did not raise this issue at trial. Generally, this Court will not review issues that a party fails to raise before the trial court. People v Jacques, 215 Mich App 699, 702; 547 NW2d 349 (1996). After the trial, however, defendant’s appellate counsel moved for a new trial on the ground that Rainey did not have the authority to stop and detain defendant. The court denied the motion. The circuit court initially observed that Rainey did not have the authority to arrest defendant because Rainey was not on duty. The court, however, reasoned that Rainey had the authority to detain and ticket defendant. The court relied on MCL 28.6d(1); MSA 4.436(4)(1), which states in part that motor carrier officers “have all powers conferred upon peace officers for the purpose of enforcing the general laws of this state as they pertain to commercial vehicles.” The court noted that peace officers may issue appearance tickets for misdemeanors committed in their presence while they are off duty. The court stated that because the statute gives motor carrier officers the same authority as peace officers, Rainey had the authority to detain defendant.
+Subsection one of the statute describes the “limited arrest powers” of motor carrier officers. The subsection does not address the authority of motor carrier officers to stop and detain when they are not on duty.
+Further, motor carrier officers are not peace officers. Michigan State Employees Ass’n v Attorney General, 197 Mich App 528, 530-531; 496 NW2d 370 (1992). Additionally, MCL 28.609(2); MSA 4.450(9)(2) specifically precludes motor carrier officers from exercising all the authority of a peace officer because they have not completed the training and certification requirements established by the Michigan Law Enforcement Officers Training Council. Michigan State Employees Ass’n, supra at 531-532. Unlike peace officers, the authority of motor carrier officers does not extend to off-duty conduct.
+MCL 28.6d; MSA 4.436(4) confers authority on motor vehicle carrier officers as follows:
+(1) The director may appoint officers with limited arrest powers for motor carrier enforcement. Such officers shall be officers of the motor carrier enforcement division of the department and shall have all powers conferred upon peace officers for the purpose of enforcing the general laws of this state as they pertain to commercial vehicles. The director may authorize officers of the motor carrier enforcement division to carry a firearm.
+(2) In addition to the limited arrest authority granted in subsection (1), an officer of the motor carrier enforcement division, while on duty, may arrest a person without a warrant, if 1 or more of the following circumstances exist:
+(a) The person commits an assault or an assault and battery punishable under section 81 or 81a of the Michigan penal code, Act No. 328 of the Public Acts of 1931, being sections 750.81 and 750.81a of the Michigan Compiled Laws, against the officer or against another person in the presence of the officer.
+(b) The officer has reasonable cause to believe that a felony has been committed and reasonable cause to believe that the person committed it.
+(c) The officer has received positive information by written, telegraphic, teletypic, telephonic, radio, or other authoritative source, that a peace officer holds a warrant for the person’s arrest.
+(d) The person commits a civil infraction or misdemeanor in violation of 1 or more of the following sections of the Michigan vehicle code [including MCL 250.720; MSA 9.2420]____
+(e) The person commits a misdemeanor or felony in violation of chapter LVI of the Michigan penal code ....
+Under subsection two, had Rainey been on duty, he would have had the authority to stop, detain, and arrest defendant. Because Rainey was not on duty at the time of the detention, he did not have authorization under subsection two. Without statutory authority, Rainey was not empowered to detain defendant. Further, Rainey was dressed in a sweatshirt and blue jeans, and was wearing a baseball cap. He was driving his private vehicle. Rainey’s appearance would not have led a citizen to believe that he was a motor carrier officer. We decline to hold that drivers of vehicles are obliged to stop for motor carrier officers who are out of uniform and are off duty.
+Defendant next asserts that he was denied effective assistance of counsel because his counsel failed to question Rainey’s authority to stop and detain defendant. We agree. To establish a claim of ineffective assistance of counsel, a defendant must show that his counsel’s performance fell below an objective standard of reasonableness and that counsel’s representation prejudiced him so as to deprive him of a fair trial. People v Barclay, 208 Mich App 670, 672; 528 NW2d 842 (1995). The defendant must overcome the presumption that, under the circumstances, the challenged action could be sound trial strategy. People v LaVearn, 448 Mich 207, 213; 528 NW2d 721 (1995). A defendant must show that, but for the error, the result of the proceedings would have been different and that the proceedings were fundamentally unfair or unreliable. Id,.; People v Poole, 218 Mich App 702, 718; 555 NW2d 485 (1996).
+Defense counsel’s failure to raise the limited scope of Rainey’s authority under the statute denied defendant a fair trial. As discussed earlier, the off-duty motor carrier officer had no authority under the statute to detain defendant. But for counsel's omission, defendant would not have been convicted. Counsel had no legitimate strategy for failing to interpose the issue of Officer Rainey’s authority to detain defendant.
+Reversed.
+Rainey testified that he had encountered defendant about one year before the instant circumstances; that encounter did not result in a citation. Defendant testified that he had not recognized Rainey from their previous encounter.
+In the motion for a new trial, defendant did not argue that Rainey did not have the authority to arrest defendant.
