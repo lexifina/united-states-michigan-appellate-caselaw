@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "181263"
+decided: "1996-10-11"
+citations: ["219 Mich. App. 435"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and Markey and J. M. Batzer JJ."]
+parties: ["SATTERFIELD v BOARD OF EDUCATION OF THE GRAND RAPIDS PUBLIC SCHOOLS"]
+source_url: "https://static.case.law/mich-app/219/cases/0435-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1555745
+cites_cases: ["151 Mich App 412", "151 Mich App 420", "211 Mich App 523", "223 NW2d 283", "284 NW2d 527", "373 NW2d 538", "390 NW2d 255", "393 Mich 116", "422 Mich 280", "451 Mich 905", "536 NW2d 297", "691 P2d 1034", "92 Mich App 279"]
+---
+
+# Satterfield v. Board of Education
+
+## Majority (MacKenzie, P.J.)
+
+MacKenzie, P.J.
+Appellant teacher appeals as of right from a decision of the State Tenure Commission upholding the termination of his employment with the Grand Rapids Public Schools. We affirm.
+Appellant worked for the school district for nine years as a special education teacher. In addition to teaching, he also worked part-time at a Witmark Catalog Showroom in the Grand Rapids area. In 1993, Witmark investigators discovered that appellant had embezzled $10,000 to $15,000 in one year. Appellant subsequently pleaded guilty of embezzling over $100. He was sentenced to five years’ probation and ordered to perform community service and to make full restitution. On the basis of the conviction, the board of education determined that appellant’s employment should be terminated.
+Following a hearing, a hearing officer of the State Tenure Commission concluded that the district had sustained its burden of proving just and reasonable cause for appellant’s discharge. The commission agreed, ruling that appellant had been convicted of a crime involving moral turpitude and that, under Kenai Peninsula Borough Bd of Ed v Brown, 691 P2d 1034 (Alas, 1984), the conviction raised a presumption that his conduct made him unfit to teach. The commission determined that appellant failed to rebut this presumption with evidence that his continued employment would have an insignificant effect upon his students, their parents, his peers, his position as a role model, and the reputation of his school. It then concluded that, because appellee proved that parents, staff, and the school district were adversely affected as a result of appellant’s conviction, and that appellant could no longer effectively serve as a role model, appellant’s discharge was warranted.
+Under the teacher tenure act, tenured teachers such as appellant may be terminated only for reasonable and just cause. MCL 38.101; MSA 15.2001. The school district bears the burden of showing reasonable and just cause. Comstock Public Schools v Wildfong, 92 Mich App 279, 284; 284 NW2d 527 (1979). On appeal, appellant contends that the commission erred in adopting the so-called Kenai presumption, that is, the rebuttable presumption that a teacher who is convicted of a crime involving moral turpitude is unfit to teach. According to appellant, the presumption improperly shifts the burden of proof in a tenure case from the employer to the teacher. We disagree.
+There are two aspects of the “burden of proof”— the burden of persuasion and the burden of going forward with the evidence. Widmayer v Leonard, 422 Mich 280, 290; 373 NW2d 538 (1985). A presumption such as the Kenai presumption shifts the burden of going forward with the evidence, but does not shift the burden of persuasion. MRE 301; Widmayer, supra, p 291. Thus, the Kenai presumption places the burden on a teacher to come forward with evidence to rebut the presumption of unfitness, but the burden of persuasion — the burden of proving that there was reasonable and just cause for termination — remains with the school district. Appellant’s argument therefore fails.
+Appellant also asserts that the Kenai presumption improperly “revers[es] the adverse effect requirement posited previously by this Court in Miller v Grand Haven Bd of Education, 151 Mich App 412; 390 NW2d 255 (1986).” This argument is also without merit. Contrary to what appellant claims, the Miller Court did not hold that the adverse effect doctrine requires a showing that a teacher’s conduct adversely affected students or other teachers. Instead, the Court specifically stated:
+Rather than being a requirement that school boards are required to meet in all instances, [the adverse effect of a teacher’s actions] is a permissible basis for discipline. That is, a school board may justify a disciplinary action against a teacher by showing that the teacher’s conduct or attitude has an adverse effect on the students, staff or institution. Indeed, in some instances the showing of adverse effect may be the only available basis for discipline.
+* * *
+We caution, however, that our opinion should not be read as requiring a showing of adverse effect [where a teacher’s conduct, outside of the school and not involving students is the basis of discipline]. [151 Mich App 420-421 (emphasis in the original).]
+Because Miller expressly refused to adopt an adverse effect requirement, appellant’s argument must be rejected. In any event, a review of the commission’s decision shows that it addressed the adverse effect of appellant’s embezzlement conviction and that the finding was supported by competent, material, and substantial evidence on the whole record. Birmingham School Dist v Buck (On Remand), 211 Mich App 523, 524-525; 536 NW2d 297 (1995), remanded on other grounds 451 Mich 905 (1996).
+Finally, appellant contends that his discharge was improper because there was not a “rational nexus” between his act of embezzling funds from Witmark and the performance of his job duties as a special education teacher. This argument is also without merit. The school board presented the testimony of several parents and school employees, all of whom stated that retention of appellant after his embezzlement conviction would have an adverse effect on the school, parents, and children. There was testimony that retaining appellant would affect the school’s reputation, would affect referrals, and would make it difficult to work in a team. The fact that appellant presented some witnesses who testified to the contrary does not mean that the commission’s decision was not properly supported. See Michigan Employment Relations Comm v Detroit Symphony Orchestra, Inc, 393 Mich 116, 126-127; 223 NW2d 283 (1974). The commission’s findings were supported by competent, substantial, and material evidence on the whole record. Buck, supra.
+Affirmed.
