@@ -1,0 +1,45 @@
+---
+court: "Michigan Court of Appeals"
+docket: "14186"
+decided: "1973-06-27"
+citations: ["48 Mich. App. 128"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, P. J., and Holbrook and Bashar a, JJ.", "All concurred."]
+parties: ["PEOPLE v DIPONIO"]
+source_url: "https://static.case.law/mich-app/48/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2106585
+cites_cases: ["101 NW2d 817", "120 F2d 521", "171 NW 474", "192 NW 685", "201 NW2d 629", "205 Mich 28", "221 Mich 626", "233 A2d 406", "241 NW 186", "245 F2d 427", "257 Mich 319", "27 L Ed 2d 51", "296 US 658", "297 Mich 577", "298 NW 288", "306 Mich 167", "320 US 799", "374 F2d 241", "38 ALR2d 225", "388 Mich 489", "400 US 822", "424 F2d 202", "454 F2d 167", "46 NW 956", "56 S Ct 383", "64 S Ct 369", "79 F2d 566", "80 L Ed 468", "82 Mich 109", "88 L Ed 482", "91 S Ct 43", "96 NJ Super 501"]
+---
+
+# People v. Diponio
+
+## Majority (Bashara, J.)
+
+Bashara, J.
+Defendant appeals the lower court’s dismissal of his motion to quash a citizens’ grand jury indictment against him which charged him with bribery and conspiracy to bribe.
+The issues raised on this appeal are purely legal in nature. A detailed factual statement of the proceedings below are not necessary to the disposition of this appeal.
+At the outset we wish to commend the parties for realizing the importance of the issues presented as reflected by the excellence of the briefs filed in this cause.
+The first contention made by defendant is that the examination of a "target witness” by a citizens’ grand jury violates that person’s privilege against self-incrimination.
+This contention was rejected by our Supreme Court in People v Lauder, 82 Mich 109, 119; 46 NW 956, 959 (1890), wherein the Court stated:
+"This brings me to a consideration of the claim of a violation of a constitutional right or privilege. And, fírst, it may be premised that being subpoenaed and appearing before the grand jury was not a violation of his constitutional right, nor being sworn before that body, nor testifying upon any matter that did ■ not criminate himáelf.” (Emphasis supplied.)
+Although Lauder was a 3-2 decision, the majority’s reasoning has been consistently reaffirmed. People v Willson, 205 Mich 28; 171 NW 474 (1919); People v Butler, 221 Mich 626; 192 NW 685 (1923); People v Smith, 257 Mich 319; 241 NW 186 (1932); People ex rel. Roach v Carter, 297 Mich 577; 298 NW 288 (1941); People v Robinson, 306 Mich 167; 101 NW2d 817 (1943); cert den 320 US 799; 64 S Ct 369; 88 L Ed 482 (1943). We believe these decisions control and are in agreement with the lower court regarding this issue.
+Defendant next contends that the warning that was given, prior to testifying before the grand jury, did not adequately advise him of this privilege against self-incrimination. The following warning was given to defendant before he testified:
+"You are represented by counsel today. Let me say in that regard that if there is any question that is asked of you which you feel that answer to it would incriminate you, then you may, for the purpose of consulting with your counsel on this point, disclose to your counsel the question that was asked of you * * *
+The rules regarding a right of a witness, called before a grand jury, to be warned of his right against self-incrimination were enunciated in People v Smith, supra, at 323, as follows:
+"To summarize the pronouncements of the courts and text writers on the question of self-incriminating evidence, it appears to be well settled that, if a witness wishes the benefit of the privilege, he must claim it; that the privilege is personal and may be waived; that it is deemed to have been waived when he fails to assert it; and that failure to warn him of his constitutional right is not a violation of the privilege.
+"These are general rules not applicable to all conditions and circumstance. They should not be applied where the witness is in custody accused of crime at the time the testimony is taken. Also it would seem that they ought not to be applied where the witness is brought before the jury for the sole purpose of securing evidence on which to indict him or where he is too ignorant to protect himself.” (Emphasis supplied).
+The clear import of this language is that a "target” or potential defendant must be informed of his right against self-incrimination prior to testifying before a grand jury.
+This approach was accepted by the Federal Courts in United States v Luxemberg, 374 F2d 241, 246 (CA 6,1967), wherein that Court stated:
+"One who is a defendant must be advised that he may refuse to answer incriminating questions and that anything he says may be used against him. A person testifying before a grand jury as a witness need not be so advised, but does retain the right to decline to give an incriminating answer. Stanley v United States, 245 F2d 427 (CA 6) [1957]; United States v Benjamin, 120 F2d 521 (CA 2) [1941]; Mulloney v United States, 79 F2d 566 (CA 1) [1935], cert den 296 US 658; 56 S Ct 383; 80 L Ed 468 [1936]. This Court has held that a person who is virtually in the position of a defendant must bé accorded the same rights as a defendant. Stanley v United States, supra. ”
+It has also been held that a person is a "virtual defendant” when the "focus” of the investigation has centered upon him. United States v Morado, 454 F2d 167 (CA 5, 1972). In the instant case, the prosecution conceded that the defendant was a suspect at the time he was called before the grand jury. A review of the record in this case convinces us that the investigation had focused on defendant. The rules enunciated in Smith, supra, and Luxemberg, supra, required that he be given his Fifth Amendment warnings.
+The reasons behind requiring these warnings are sound. In State v Sarcone, 96 NJ Super 501, 509-510; 233 A2d 406, 410-411 (1967), the New Jersey Court gave the following rationale for requiring that a "target” defendant be warned of his right against self-incrimination.
+"The Fifth Amendment privilege is so fundamental to our accusatorial system of law that no meaningful distinction with reference to this right exists between police interrogation and a Grand Jury interrogation by an assistant prosecutor. In fact, a Grand Jury interrogation is a secret, ex parte inquisition wherein a prosecutor actively participates and to a large extent controls the proceeding. Counsel, indeed, is not permitted and the compelling atmosphere is similar to the nature of a custody interrogation, although in an in-custody interrogation today counsel may be permitted if requested by the witness. Therefore, to compensate for the unilateral nature of a Grand Jury proceeding, it is necessary to safeguard the rights of a prospective defendant by requiring the prosecutor to apprise the witness of his constitutional rights and the subject matter of the investigation.”
+This rationale is applicable in the instant case since defendant was not allowed to be accompanied by counsel when he testified before the grand jury. Therefore, we hold that a "target” or "virtual” defendant must be warned that he may refuse to answer any question that may incriminate him and that anything he says may be used against him. Applying these criteria to the instant case, it is clear that the warning was defective. The defendant was not specifically informed of these above-mentioned rights and therefore, it was error to examine him without proper warning.'
+Finally, defendant contends that one who has been indicted by a grand jury, has the right to a preliminary examination. In People v Duncan, 388 Mich 489; 201 NW2d 629 (1972), the Supreme Court held that' a defendant who is indicted by a grand jury is entitled to a preliminary examination. The Court further held that the right to a preliminary examination applies in all pending cases in which the right to a preliminary examination was asserted prior to trial and is presently being asserted. People v Duncan, supra, at 502. Since defendant is appealing from a motion to quash prior to trial, he is presently asserting this right, he is entitled to a preliminary examination.
+Defendant requests this Court to quash the indictment against him since he was not properly advised of his Fifth Amendment rights. However, we believe that the proper approach is that taken in Mattox v Carson, 424 F2d 202 (CA 5, 1970), cert den 400 US 822; 91 S Ct 43; 27 L Ed 2d 51 (1970), wherein it was held that the proper remedy was the use of the exclusionary rule and not a dismissal of the indictment. Additionally, the sufficiency of the evidence against defendánt will be tested at the preliminary examination.
+Therefore, we remand this cause to the trial court for the purpose of conducting a preliminary examination to determine whether there is probable cause to bind the defendant over for trial. We order that defendant’s testimony before the grand jury be stricken for the reasons hereinbefore stated.
+Reversed and remanded.
+All concurred.
