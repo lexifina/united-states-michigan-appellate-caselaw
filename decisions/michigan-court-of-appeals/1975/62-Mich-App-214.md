@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "19079"
+decided: "1975-06-23"
+citations: ["62 Mich. App. 214"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P. J., and McGregor and D. F. Walsh, JJ."]
+parties: ["PEOPLE v SAMUELS"]
+source_url: "https://static.case.law/mich-app/62/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2120049
+cites_cases: ["121 NW2d 438", "127 ALR 1030", "199 NW2d 217", "208 NW2d 526", "208 NW2d 624", "213 NW2d 106", "213 NW2d 307", "214 NW2d 326", "216 NW2d 51", "217 NW2d 884", "226 NW2d 730", "370 Mich 147", "388 Mich 66", "390 Mich 629", "391 Mich 206", "391 Mich 819", "46 Mich App 598", "46 Mich App 764", "50 Mich App 270", "51 Mich App 1", "52 Mich App 522", "58 Mich App 1", "78 ALR2d 300"]
+---
+
+# People v. Samuels
+
+## Majority (T. M. Burns, P. J.)
+
+T. M. Burns, P. J.
+Defendant Reginald Samuels appeals as of right from his October 30, 1973, jury convictions of assault with intent to do great bodily harm less than murder and armed robbery.
+On February 19, 1971, defendant, then 16 years of age, surrendered himself to the Grand Rapids Police Department, Juvenile Division. He was held on charges of assault with intent to murder and armed robbery, said charges stemming from an armed robbery of a baked goods store in Grand Rapids, Michigan, on November 20, 1970, during which the store’s proprietor was shot in the abdomen and seriously wounded.
+On February 23, 1971, the Kent County prosecutor filed a petition for waiver of jurisdiction so that the defendant could be tried as an adult in circuit court. On March 8, 1971, a hearing was held in juvenile court, and at the close of the hearing, the court held that the interests of the defendant and the public would be best served by granting a waiver of jurisdiction to the circuit court.
+On March 9, 1971, a complaint was filed charging the defendant with the two offenses previously mentioned, and defendant was bound over for trial on both counts following his March 18, 1971, preliminary examination. Following two extended periods of diagnostic commitment to the Center of Forensic Psychiatry of the Department of Mental Health, the trial court entered an order finding defendant competent to stand trial and his jury trial subsequently commenced on October 29, 1973, and concluded the following day when the jury convicted defendant of the two crimes mentioned earlier. On November 21, 1973, defendant was sentenced to life imprisonment on the armed robbery charge and received a sentence of 6 to 10 years imprisonment on his conviction of assault with intent to do great bodily harm less than murder.
+Defendant first claims on appeal that his convictions should be set aside because juvenile court jurisdiction over him was improperly waived. Defendant contends that since the statute governing the procedure for waiver of jurisdiction by the probate court over a minor was declared unconstitutional in People v Fields, 388 Mich 66; 199 NW2d 217 (1972), the waiver in this case is invalid.
+Defendant’s argument must fail in light of our Supreme Court’s promulgation of JCR 1969, 11. That court rule sets forth in detail what the juvenile court must find and the criteria on which to base those findings before it may waive jurisdiction of a juvenile to circuit court. The record before us reveals that the juvenile court judge applied the criteria set forth in JCR 1969, 11.1 before he ordered juvenile jurisdiction over this defendant waived. This Court has on various occasions distinguished between cases of waiver under the infirmed statute and cases after the adoption of the juvenile court rule in which the constitutionally acceptable standards listed therein were applied. People v White, 51 Mich App 1; 214 NW2d 326 (1973), lv den, 391 Mich 819 (1974), People v Rubin Williams, 50 Mich App 270; 213 NW2d 307 (1973), People v Jackson, 46 Mich App 764; 208 NW2d 526 (1973). Thus, conceding the invalidity of the prior statute, a waiver of juvenile court jurisdiction pursuant to the juvenile court rule is constitutional.
+Our conclusion is further buttressed by the Michigan Supreme Court’s decision in its rehearing of People v Fields (On Rehearing), 391 Mich 206, 214; 216 NW2d 51 (1974). There the Court emphatically stated that its holding in Fields did not affect the validity of waiver proceedings conducted pursuant to JCR 1969, 11:
+"The Juvenile Court Rules of 1969 were adopted December 5, 1968, and went into effect March 1, 1969. The Juvenile Court Rules were not in effect when this case was decided by the probate judge. They have no application to the issue in this case.
+"Any question pertaining to JCR 1969, 11, is not before the Court in this case since it was not in effect at the time the action of the probate judge herein reviewed took place.”
+Therefore, we hold that in the case before us, jurisdiction over the defendant was constitutionally waived by the probate court’s application of the standards set forth in JCR 1969, 11.1.
+Defendant’s second and final contention is that reversible error occurred at his jury trial because the prosecutor did not indorse upon the information the name of an alleged res gestae witness and did not produce this witness at trial.
+During trial it was disclosed that the victim of the robbery saw the three men who robbed him talking to a Negro postman just prior to the time they entered his store. The postman was subsequently contacted by detectives but he was not indorsed as a witness on the information nor was he ever called as a witness.
+As defendant correctly points out in his appellate brief, the identification of defendant as the perpetrator of the shooting was the primary question for jury resolution at trial. At trial, the complainant was the only person to identify defendant as his assailant. However, this identification testimony was seriously weakened on cross-examination via defense counsel’s skillful use of impeachment evidence which showed that the complainant (1) had been unable to identify defendant during prior judicial proceedings; (2) had identified "mugshots” other than defendant’s; and (3) had also identified other men as participants in the robbery.
+There is no showing on the record whether the mailman witnessed the commission of this crime. The only indication is that he talked to the three men who robbed the store just prior to the time they entered that store. Since there is a rebuttable presumption that persons present at the time and place of the crime are res gestae witnesses, the prosecution must prove otherwise. People v Frank Johnson, 58 Mich App 1, 7; 226 NW2d 730 (1975), People v Jones, 52 Mich App 522; 217 NW2d 884 (1974). As our Supreme Court stated in People v Castelli, 370 Mich 147, 155; 121 NW2d 438 (1963):
+"Inasmuch as identity of the robber was a major issue in the case, the testimony of every witness who could describe him was of the utmost importance.”
+Since no error results from the prosecutor’s failure to indorse and produce res gestae witnesses whose testimony would be merely cumulative, the question arises as to whether the mailman’s testimony can be said, with any degree of certainty, to be merely cumulative. Furthermore, there is still the question of whether this alleged res gestae witness was, in fact, a res gestae witness.
+Since reversible error occurred only if this witness was a res gestae witness and if his testimony cannot be said to be cumulative, the appropriate procedure is to remand for an evidentiary hearing to determine these questions. If after the evidentiary hearing, the trial court determines that the witness was not a res gestae witness or determines that his testimony would have been merely cumulative, the convictions are affirmed. If the trial court determines that the witness was a res gestae witness and that his testimony is not merely cumulative, the trial court shall reverse defendant’s convictions and grant him a new trial. We do not retain jurisdiction.
+MCLA 750.84; MSA 28.279.
+MCLA 750.529; MSA 28.797.
+MCLA 712A.4; MSA 27.3178(598.4).
+People v Bennett, 46 Mich App 598; 208 NW2d 624 (1973).
+People v Robinson, 390 Mich 629; 213 NW2d 106 (1973).
+This case was originally heard along with its companion case, People v Samuels, Docket No. 19080, a guilty plea case, which also raised the issue of the propriety of the waiver from juvenile court to circuit court. However, due to the Supreme Court’s recent order mandating that all guilty plea cases dealing with the integrity of the plea-taking procedure under GCR 1963, 785.7 be held in abeyance, we have separated these cases. Accordingly, we now release this opinion separately. Docket No. 19080 shall be held in abeyance as per the order of the Supreme Court.
