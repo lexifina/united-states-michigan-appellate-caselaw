@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "18269"
+decided: "1974-07-24"
+citations: ["54 Mich. App. 456"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P. J., and T. M, Burns and R. L, Smith, JJ,", "All concurred."]
+parties: ["PEOPLE v GOINS"]
+source_url: "https://static.case.law/mich-app/54/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2134119
+cites_cases: ["168 NW2d 909", "17 Mich App 22", "174 NW2d 9", "188 NW2d 144", "192 NW2d 655", "194 NW2d 868", "194 NW2d 878", "20 Mich App 414", "208 NW2d 451", "216 NW2d 623", "32 Mich App 1", "35 Mich App 383", "387 Mich 21", "387 Mich 91", "389 Mich 425", "52 Mich App 52", "61 ALR2d 1141", "80 ALR2d 1362", "97 ALR2d 549"]
+---
+
+# People v. Goins
+
+## Majority (T. M. Burns, J.)
+
+T. M. Burns, J.
+An understanding of the chronology of events in the instant case is necessary for a proper consideration of defendant’s questions on appeal.
+On May 17, 1971, defendant Eugene Goins was arraigned oh a two-coünt information charging him with sale of marijuana, MCLA 335.152; MSA 18.1122, and carrying a concealed weapon without a license, MCLA 750.227; MSA 28.424. He stood mute, and the court entered a plea of not guilty on his behalf.
+On July 1, 1971, the information was amended to add a third count, possession of marijuana, MCLA 335.153; MSA 18.1123. On July 6, 1971, defendant’s plea of guilty was accepted on counts II and III of the amended information. He pled not guilty to count I (sale), and that count was subsequently quashed.
+On August 30, 1971, defendant was sentenced to 2-1/2 to 5 years on count II (carrying a concealed weapon and 2-1/2 to 10 years on count III (possession).
+On April 26, 1972, the trial court vacated defendant’s conviction and sentence for possession of marijuana (count III) pursuant to People v Sinclair, 387 Mich 91; 194 NW2d 878 (1972). On May 5, 1972, the trial court vacated defendant’s plea-based conviction and sentence for carrying a concealed weapon (count II) on the basis of a violation of People v Jaworski, 387 Mich 21; 194 NW2d 868 (1972). At the same time the court granted the prosecutor’s motion to reinstate count I (sale).
+On July 13, 1972, the prosecution filed a supplemental information pursuant to MCLA 769.10; MSA 28.1082 and MCLA 769.13; MSA 28.1085, charging sale of marijuana and carrying a concealed weapon as "second felonies”, thereby increasing the possible maximum sentences on those charges by fifty percent.
+On July 19, 1972, defendant was arraigned on counts I and II and the supplemental information and he pled not guilty to count I (sale) and the supplemental information on that charge, and guilty to count II (carrying concealed weapon) and the supplemental information on that charge, acknowledging the existence of a 1956 conviction for breaking and entering. Count I (sale) and its appended supplemental information were quashed.
+On September 5, 1972, defendant was sentenced to 2-1/2 to 7-1/2 years in Jackson prison. On June 22, 1973, the prosecution moved to strike the conviction on the supplemental information as a result of the decision in People v McMiller, 389 Mich 425; 208 NW2d 451 (1973), and on July 12, 1973, the trial court entered an order amending defendant’s sentence to 2-1/2 to 5 years in prison.
+Defendant first contends that after his plea of guilty to possession of marijuana was set aside, the prosecutor’s reinstatement of the sale charge was improper because such action contravenes the policy expressed in People v McMiller, supra.
+In McMiller, our Supreme Court held that upon the acceptance of a plea of guilty, as a matter of policy, the state may not thereafter charge a higher offense arising out of the same transaction. The Court enumerated two overriding policy considerations when it stated at p 432:
+"Allowing trial on a higher charge following reversal of a plea-based conviction of a lesser offense would (1) discourage exercise of the defendant’s right to appeal a conviction claimed to be based on an improperly accepted plea, and (2) tend to insulate from appellate scrutiny non-compliance with the guilty plea procedure established by the statute and the court rule.”
+Applying these considerations to the case at bar, we are of the opinion that the trial court erred in allowing the prosecutor to reinstate the sale charge after defendant’s guilty plea to possession had been set aside.
+We are aware that in People v McGreevy, 52 Mich App 52; 216 NW2d 623 (1973), the Court declined to apply McMiller retroactively. However, McGreevy is distinguishable on its facts, since there a guilty plea to a lesser offense had been set aside, the defendant had been recharged with the greater offense and had again pled guilty to the lesser offense. In this case defendant did not again plead guilty to the lesser offense, but instead pled guilty to an unrelated offense. Therefore, Mc-Greevy is not controlling and we conclude that the holding in McMiller applies to defendant’s case, thereby precluding his retrial on the sale charge.
+Since we hold that it was improper to reinstate the sale charge against the defendant, we find it unnecessary to consider defendant’s equal protection challenge to the statute under which the sale charge was reinstated.
+Defendant next claims that his plea of guilty to carrying a concealed weapon and the supplemental information on that charge was coerced by the improper reinstatement of the sale charge. Defendant argues that his plea was involuntary because he had no choice. He either had to plead guilty to the charge of carrying a concealed weapon or be faced with further prosecution and an increase in sentence via the supplemental information for sale of marijuana charged in contravention of the policy of McMiller. Defendant thus asserts that the only way he could extricate himself from the threat of the improper sale charge was to plead guilty to the concealed weapon charge. We agree.
+Defendant requested an evidentiary hearing before the trial court to determine whether his plea of guilty to carrying a concealed weapon and the supplemental information was coerced by the reinstated charge of sale of marijuana. Although this motion is still pending in the Van Burén Circuit Court, since such a hearing has not been held, we assume for our purposes that the motion has been denied. The motion should have been granted for if such hearing had been held, we would then have before us a proper record from which we could determine the question of the involuntariness of defendant’s plea.
+However, due to the circumstances of this case, we find remand for an evidentiary hearing unnecessary, since we are of the opinion that defendant’s guilty plea should be vacated and that he should be granted a new trial on the charge of carrying a concealed weapon. We do so because we feel that with the improper sale charge now eliminated, an evidentiary hearing into the question of the involuntariness of defendant’s plea would serve no useful purpose. Instead defendant is entitled to a new trial where the possibility of coercion would be nonexistent.
+We are aware that the Kindell line of cases hold that even where a plea is induced by a desire to avoid the possibility of conviction on the greater offense, that is not a ground for vacating the plea on the ground of involuntariness. However, Kin-dell and its progeny are distinguishable on two grounds. First, in those cases the defendants were properly charged as to the greater offense, and thus their assertions that they were thereby coerced to pleading to the lesser offense were held to be meritless. But in the instant case, as we have already stated, defendant was improperly charged with a greater offense and we believe his claim of coercion to have merit. Second, in Kindell and its progeny, the defendants pled guilty to a charge which was a lesser included offense of the greater crime charged. Here the defendant’s plea was to an offense totally unrelated to the greater sale of marijuana charge. Therefore, the Kindell line of cases is not controlling.
+Since our previous discussion effectively disposes of this case, we find it unnecessary to deal with defendant’s remaining allegations of error. A careful review of the record in regard to those issues discloses no prejudicial error.
+Reversed and remanded for a new trial on the charge of carrying a concealed weapon.
+All concurred.
+People v Kindell, 17 Mich App 22; 168 NW2d 909 (1969); People v Jackson, 20 Mich App 414; 174 NW2d 9 (1969); People v Sumlin, 32 Mich App 1; 188 NW2d 144 (1971); People v Grades, 35 Mich App 383; 192 NW2d 655 (1971).
