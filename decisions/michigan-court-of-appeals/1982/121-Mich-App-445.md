@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "50949"
+decided: "1982-11-18"
+citations: ["121 Mich. App. 445"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P.J., and Cynar and R. B. Martin, JJ."]
+parties: ["PEOPLE v PAULUS"]
+source_url: "https://static.case.law/mich-app/121/cases/0445-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2232553
+cites_cases: ["104 Mich App 668", "193 NW2d 399", "204 NW2d 718", "210 NW2d 116", "215 NW2d 166", "235 NW2d 154", "260 NW2d 287", "264 NW2d 1", "276 NW2d 885", "285 NW2d 417", "297 NW2d 609", "305 NW2d 288", "36 Mich App 152", "391 Mich 175", "397 Mich 833", "402 Mich 824", "411 Mich 985", "43 Mich App 715", "48 Mich App 79", "63 Mich App 686", "66 ALR3d 902", "81 Mich App 84", "88 Mich App 270", "92 Mich App 678", "99 Mich App 177"]
+---
+
+# People v. Paulus
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals as of right the trial court’s refusal to permit defendant to withdraw his plea. Defendant was originally charged with 25 counts of uttering and publishing. MCL 750.249; MSA 28.446. On August 1, 1978, defendant entered a nolo contendere plea to 12 of the 25 counts of uttering and publishing.
+A typed plea agreement, signed by defendant, his attorney and the prosecutor, was entered into evidence and read into the record at the time of the plea. The plea agreement provided, in part, that the prosecutor would not oppose defendant’s release on a bond, that the sentence be delayed for one year to provide defendant the opportunity to offer testimony and cooperate with the Federal Bureau of Investigation in the investigation of an unrelated robbery case in New York and an unrelated murder case in New Jersey, that the trial court would weigh heavily defendant’s cooperation, and that defendant would "submit himself to Polygraph Examinations at the discretion of the officers in charge of the cases to which he will be offering testimony”.
+On November 21, 1978, a hearing was conducted on the prosecutor’s motion to cancel defendant’s bond and for immediate sentencing. The prosecutor argued that defendant had failed to comply with the spirit and intent of the plea agreement because defendant had made statements to New Jersey authorities which polygraph examinations demonstrated were untrue and because defendant had been arrested the week before on a federal firearm charge. The trial court granted the prosecutor’s motions.
+On January 11, 1979, defendant brought a motion to withdraw his plea and a motion to disqualify the trial judge. The trial court denied both motions.
+On January 16, 1979, defendant was sentenced to a prison term of from 7 to 14 years. The trial court denied defendant’s subsequent motion to withdraw his plea.
+Defendant initially argues that he improperly pled nolo contendere to charges of having violated MCL 750.249; MSA 28.446 because traveler’s checks do not fall under this statutory provision.
+Under MCL 750.249; MSA 28.446, a person may receive a term of imprisonment of up to 14 years for uttering and publishing as true any forged "bill of exchange”. Under MCL 750.253; MSA 28.450, a person may receive a term of imprisonment of up to five years for uttering and publishing any forged "bank bill or promissory note” payable to the bearer thereof or to the order of any other person.
+A bank note or bank bill is the promissory note of an incorporated bank. It is payable on demand, and it is intended to circulate as money for an indefinite period. People v Peace, 48 Mich App 79, 82; 210 NW2d 116 (1973). Bank bills and notes denote currency issued under legal restriction. A check, on the other hand, is not currency, although it may readily pass from one person to another. People v Brooks, 43 Mich App 715, 721; 204 NW2d 718 (1972). Cashier’s checks, bank drafts and other items of modern day commerce are included within the confines of MCL 750.249; MSA 28.446. People v Hall, 391 Mich 175, 196; 215 NW2d 166 (1974). Although there is no authority directly on point, case law suggests that defendant was properly charged under MCL 750.249; MSA 28.446.
+We reject defendant’s argument that the trial court erred by sentencing defendant during the extended period for delayed sentence. Under Michigan law, a delayed sentence is granted to an accused as a matter of discretion and grace by the trial court, and the delay may be revoked at any time. See MCL 771.1; MSA 28.1131 and People v Saylor, 88 Mich App 270; 276 NW2d 885 (1979); People v Clyne, 36 Mich App 152; 193 NW2d 399 (1971). The fact that the trial court may have considered the results of a polygraph examination concerning unrelated criminal affairs to which defendant agreed to submit does not persuade us that the trial court abused its discretion in this case.
+We reject defendant’s argument that the trial court should have granted his motion to withdraw his plea of nolo contendere.
+A defendant has no absolute right to withdraw a guilty plea once it is accepted. People v Hale, 99 Mich App 177, 180; 297 NW2d 609 (1980). Where a defense of innocence is asserted at the time of a request to withdraw the plea and the request is not obviously frivolous and is made before sentencing, the request should be granted. People v Rush, 104 Mich App 668, 671; 305 NW2d 288 (1981), lv den 411 Mich 985 (1981). Requests to withdraw pleas are, however, regarded as frivolous where the circumstances indicate that the defendant’s true motive in making the motion is merely a concern regarding the sentence. People v Morgan, 63 Mich App 686; 235 NW2d 154 (1975), lv den 397 Mich 833 (1976).
+Defendant’s only additional argument was that he felt he had tried to assist the New Jersey authorities in their investigation and that he was being truthful with them. This position was disputed by the prosecutor. Regardless of who was right in this dispute, it was unrelated to whether defendant’s plea should stand or defendant should go to trial. It was an issue which bore solely upon sentencing. Defendant’s sentence was to be determined at least in part by his cooperative efforts during the sentence delay period. Defendant’s motion to withdraw his plea was apparently an effort to head off a probable prison sentence. Dissatisfaction with the sentence, however, is not a basis upon which a plea should be set aside. People v McClain, 402 Mich 824; 260 NW2d 287 (1977), rev’g 81 Mich App 84; 264 NW2d 1 (1977).
+Finally, we reject defendant’s argument that the trial court erred by refusing to disqualify itself from sentencing defendant.
+"The record must show actual bias or prejudice before a conviction will be reversed on the ground that the trial judge should have disqualified himself.” (Citations omitted.) People v Elmore, 92 Mich App 678, 681; 285 NW2d 417 (1979).
+In this case, there was no showing that the trial court had a personal bias or prejudice against defendant. Bias or prejudice was not shown by the fact that certain polygraph results were known to the trial court because those results did not involve any aspect of the present case but rather involved defendant’s knowledge and assistance in the investigation of unrelated matters in New York and New Jersey. Under these circumstances, it cannot be said that the trial court erred in denying defendant’s disqualification motion.
+Affirmed.
