@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 47159, 47160"
+decided: "1981-03-16"
+citations: ["104 Mich. App. 563"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: N. J. Kaufman, P.J., and Cynar and J. E. Townsend, JJ."]
+parties: ["KMH EQUIPMENT COMPANY v CHAS J ROGERS, INC"]
+source_url: "https://static.case.law/mich-app/104/cases/0563-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2190275
+cites_cases: ["141 NW2d 58", "213 NW 68", "238 Mich 326", "242 NW2d 412", "251 NW 373", "265 Mich 207", "3 ALR3d 573", "377 Mich 552", "396 Mich 611", "594 F2d 1094", "78 ALR3d 563"]
+---
+
+# KMH Equipment Co. v. Chas J. Rogers, Inc.
+
+## Majority (J. E. Townsend, J.)
+
+J. E. Townsend, J.
+Plaintiff-appellant, KMH Equipment Company, sought money damages in the Oakland County Circuit Court for unpaid rent on construction equipment arising out of the leasing of hydraulic backhoes to subcontractor Chas. J. Rogers, Inc. for use on certain construction projects. Admittedly, KMH had no direct contractual relationship with appellee general contractors but urges that it is a "materialman” entitled to protection and recovery under the trust provisions of the Michigan building contract fund act, MCL 570.151 et seq.; MSA 26.331 et seq. Oakland County Circuit Court Judge Frederick Ziem granted a motion for summary judgment, holding that an equipment lessor is not a materialman and is not entitled to the benefits of the Michigan building contract fund act and that, since no direct contractual relationship existed between KMH and the general contractors, such general contractors had no trust obligation to KMH under such statute. Plaintiff appeals.
+Section 1 of the building contract fund act identifies the categories of persons protected and benefited by providing:
+"In the building construction industry, the building contract fund paid by any person to a contractor, or by such person or contractor to a subcontractor, shall be considered by this act to be a trust fund, for the benefit of the person making the payment, contractors, laborers, subcontractors or materialmen, and the contractor or subcontractor shall be considered the trustee of all funds so paid to him for building construction purposes.” MCL 570.151; MSA 26.331.
+Plaintiff urges that, as a lessor of construction equipment used in construction projects, it should be included within the term "materialmen”. In the absence of a specific statutory definition, the term "material” has been consistently defined by the Michigan Supreme Court as those items consumed by the construction or which form a part of the finished structure. Stoddard Dick Co v Michigan Surety Co, 265 Mich 207; 251 NW 373 (1933), and People ex rel Fox v Fidelity & Deposit Co, 238 Mich 326; 213 NW 68 (1927). Such definition is consistent with authorities in other states. 57 CJS, pp 449, 452.
+Equipment lessors are designated as a protected class of persons under the mechanics’ lien act, MCL 570.1; MSA 26.281, by the specific language "or shall rent or lease equipment”. Furthermore, equipment lessors are now protected under the public improvement bond law, MCL 129.201 et seq.; MSA 5.2321(1) et seq., by virtue of a statutory redefinition of the terms "labor” and "material” in MCL 129.206; MSA 5.2321(6). The Legislature elected to afford protection to equipment lessors in such statutes by specific language. The absence of similar specific language in the original building contract fund act and in amendments thereof leads to the conclusion that the Legislature chose not to expand the category of persons protected by the trust provisions of the act to include equipment lessors. We should not distort the commonly accepted meaning of the term "material” based upon unwarranted speculation as to legislative purpose not supported or justified by statutory language. The case of Koppers Co, Inc v Garling & Langlois, 594 F2d 1094, 1099 (CA 6, 1979), accepted and applied the precept that the plain language of the building contract fund act cannot be ignored "simply to insure that subcontractors get their money”.
+The Legislature, in its wisdom and discretion, may elect to enlarge the class protected by the building contract fund act. This Court would be usurping a legislative function if we enlarged the statutory class by judicial decision. Plaintiff equipment lessor was not a materialman under the building contract fund act and therefore may not recover by virtue of the trust provisions of such statute. Such conclusion would be dispositive of the appeal, but we believe an alternate basis should be considered.
+Plaintiff concedes that it had no direct contractual relationship with the general-contractor appellees but asserts that a notice to general contractors of a plaintiff’s claim under the building contract fund act imposes a trust on funds owed by the general contractors to defaulting subcontractors.
+The building contract fund act is essentially a criminal statute which has been held to create a civil cause of action in favor of the beneficiaries of the statutory trust. B. F. Farnell Co v Monahan, 377 Mich 552; 141 NW2d 58 (1966), and National Bank of Detroit v Eames & Brown, Inc, 396 Mich 611; 242 NW2d 412 (1976).
+The statutory obligation in § 2, MCL 570.152; MSA 26.332, is to use project proceeds to pay those "engaged by him to perform labor or furnish material for the specific improvement”. (Emphasis supplied.)
+Even if we assume that plaintiff could qualify as one who furnished materials, plaintiff’s protection under the building contract fund act applies to Chas. J. Rogers, Inc., the subcontractor who engaged plaintiff. Defendant general contractors’ statutory fiduciary duty is to pay those subcontractors, laborers, and materialmen who were engaged by them, including subcontractor Chas. J. Rogers, Inc. Defendant general contractors’ obligation under the building contract fund act is not to pay persons engaged by someone else. We cannot assume that the words "engaged by him” have no meaning. A penal statute cannot be expanded beyond the clear import of its terms to create offenses without a constitutionally-sufficient notice to a potential offender. In terms of logic and result, the scope of the penal statute must fix the scope and extent of those protected persons entitled to a civil cause of action. To hold otherwise would produce results that conflict with the purpose and terms of the statute itself.
+Plaintiff did not contract with defendant general contractors and therefore has no civil remedy against them under the building contract fund act.
+The decision of the trial court is affirmed.
