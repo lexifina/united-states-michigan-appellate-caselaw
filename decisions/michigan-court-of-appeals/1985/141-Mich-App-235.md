@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "74958"
+decided: "1985-03-04"
+citations: ["141 Mich. App. 235"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. E. Holbrook, Jr., P.J., and Mackenzie and R. R. Lamb, JJ."]
+parties: ["FREDERICKSEN v STATE FARM MUTUTAL AUTOMOBILE INSURANCE COMPANY"]
+source_url: "https://static.case.law/mich-app/141/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2267926
+cites_cases: ["12 ALR4th 975", "302 NW2d 537", "410 Mich 538", "411 Mich 1154"]
+---
+
+# Fredericksen v. State Farm Mututal Automobile Insurance
+
+## Majority (R. R. Lamb, J.)
+
+R. R. Lamb, J.
+Defendant appeals as of right from a September 6, 1983, judgment of the trial court in favor of plaintiff on her claim for no-fault survivors’ loss benefits. The case had been submitted to the trial court on stipulated facts. We reverse.
+Plaintiff, who was born on September 14, 1963, was the daughter of George R. Fredericksen, who died of injuries sustained in a motor vehicle accident on April 13, 1980. The deceased father had been divorced from plaintiff’s mother since December 6, 1972, and, at the time of his death, was obligated to pay child support for plaintiff at the rate of $55 per week plus $5 per week on arrearages. The deceased father’s obligation to pay child support was to cease when plaintiff reached 18 years of age or when she graduated from high school, which ever occurred later. Plaintiff turned 18 on September 14, 1981, and graduated from high school on June 4, 1982.
+Because of the father’s death, plaintiff received social security benefits in the amount of $352.50 per month from May of 1980 until July 1, 1980, and then she received $402 per month from July 1, 1980, until July 1, 1981. Thereafter, she received $448 per month until July 3, 1982, when her social security benefits were terminated. At the time of plaintiff’s father’s death, plaintiff’s father was earning $1,429 per month in wages and did not have custody of plaintiff.
+Defendant was the father’s no-fault automobile insurance carrier. On July 7, 1983, the trial court entered an order finding that plaintiff was entitled to survivor’s loss benefits from the date of the father’s death until June 4, 1982, the date of plaintiff’s graduation from high school. Her survivor’s loss benefits were to consist of lost income earnings, based upon the deceased’s wages (rather than the support obligation per court order) and employment benefits, with an adjustment for the father’s income taxes and social security benefits received by plaintiff.
+On appeal, defendant maintains that the trial court’s decision improperly construed the survivors’ loss section of the no-fault act; namely, MCL 500.3108; MSA 24.13108. Plaintiff, on the other hand, contends that not only does the statute support the trial court’s decision, but to deny plaintiff benefits based upon the deceased’s wages would violate her constitutional right to receive equal protection under the law. See US Const, Am XIV, and 1963 Const, art 1, § 2.
+MCL 500.3108(1); MSA 24.13108(1), provides in relevant part as follows:
+"Except as provided in subsection (2), personal protection insurance benefits are payable for a survivor’s loss which consists of a loss, after the date on which the deceased died, of contributions of tangible things of economic value, not including services, that dependents of the deceased at the time of the deceased’s death would have received for support during their dependency from the deceased if the deceased had not suffered the accidental bodily injury causing death * * (Emphasis supplied.)
+In interpreting this provision, the Supreme Court in Miller v State Farm Mutual Automobile Ins Co, 410 Mich 538, 570; 302 NW2d 537 (1981), reh den 411 Mich 1154 (1981), stated:
+"In summary, we conclude that the Legislature intended that § 3108 survivors’ loss benefits should be calculated:
+"(1) to include all demonstrable 'contributions of tangible things of economic value’ including, but not limited to, wages that would have been received as support by the surviving dependents from the deceased but for his death;
+"(2) reduced by an adjustment for the income-related taxes that would have been paid by the decedent on items contributed by him to his dependents’ support;
+"(3) without adjustment for the decedent’s 'personal consumption factor’.” (Emphasis supplied.)
+Accordingly, the relevant inquiry is what "contributions of tangible things of economic value” would the deceased have made to plaintiffs support had he not died. The only factual evidence introduced in this case was the stipulation on which the trial court decided this case; viz., the $55 per week in child support that deceased was obligated to pay for plaintiffs support plus a small accumulated arrearage. The phrases emphasized above in § 3108 and in the Supreme Court’s opinion (i.e., that dependents would receive a benefit based upon the amount that they "would have recieved” for support) indicate that, in this case, plaintiffs survivors’ loss benefits are limited to the amount of the deceased’s support obligation.
+Plaintiff argues that to restrict her recovery for survivors’ loss benefits to the father’s child support obligation would serve to discriminate against her because she is a child of a divorced decedent. We disagree.
+Section 3108 provides that all dependent survivors shall receive a loss benefit equal to the amount that they would have received, up to a certain statutory limit, had the provider not been killed in an automobile accident. The children of a divorced decedent are not treated differently than the children of a decedent whose marriage was intact at the time of his death. Both the child of a divorced decedent and the child of a married decedent are entitled to receive the amount they each would have received for their respective support from the decedent had he or she not died. The statute does not set different limits on recovery for children of divorced decedents than for children of married decedents. Neither does it exclude children of divorced decedents from receiving any recovery. To the contrary, MCL 500.3110; MSA 24.13110 includes support for children of a divorced decedent by providing that a child is conclusively presumed to be a dependent of the deceased if he or she is either in the deceased’s custody or was receiving support from the deceased at the time of death.
+Certainly, the fact that a child of a divorced decedent may receive less money for his or her support than would have otherwise been recieved but for his or her parents’ divorce is not a bias created by the no-fault act. Indeed, § 3108 does not establish whether or not the decedent’s child support payments are more or less in amount than the amount the decedent would have contributed in support of the child had there been no divorce. This section merely provides for an amount to be paid to the survivors based upon what the survivors "would have received for support during their dependency from the deceased if the deceased had not suffered the accidental bodily injury causing death”. MCL 500.3108; MSA 24.13108.
+For these reasons, we conclude that § 3108 means what it says:
+"[Personal protection insurance benefits are payable * * * after the date on which the deceased died, of contributions of tangible things of economic value * * * that dependents of the deceased at the time of the deceased’s death would have received for support * * * if the deceased had not suffered the accidental bodily injury causing death * * *.”
+We also hold that § 3108 does not deny a child of a divorced decedent equal protection under the law.
+Reversed and remanded for further proceedings consistent with this opinion. We do not retain jurisdiction. No costs, a question of public importance being involved.
+The arrearage arose because the father had been hospitalized for two months for an ailment unrelated to the present matter.
+This decision is limited by the facts stipulated to at trial. This opinion should not be read as meaning that a deceased noncustodial parent’s dependents are limited to receiving only those amounts representing the deceased’s support obligations under a judgment of divorce, judgment of separate maintenance, or some other arangement. On the contrary, had plaintiff been able to show that she "would have received” other contributions of tangible things of economic value from decedent but for his death, she could be entitled to those amounts under § 3108 as well.
