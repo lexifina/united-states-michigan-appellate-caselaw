@@ -1,0 +1,26 @@
+---
+court: "Michigan Court of Appeals"
+docket: "90795"
+decided: "1987-10-20"
+citations: ["163 Mich. App. 780"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Gribbs, P.J., and D. E. Holbrook, Jr., and N. J. Lambros, JJ."]
+parties: ["BELLOK v KOTHS"]
+source_url: "https://static.case.law/mich-app/163/cases/0780-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12138133
+cites_cases: ["108 Mich App 359", "149 Mich App 90", "310 NW2d 47", "385 NW2d 738", "397 NW2d 793", "427 Mich 659", "56 ALR3d 1109"]
+---
+
+# Bellok v. Koths
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs sought recovery for personal injuries sustained in a vehicular accident. The record below indicates that plaintiffs engaged in a protracted course of conduct that resulted in the frustration of two of the defendants’ attempts to obtain discovery pertinent to medical issues, including the issue of whether plaintiffs’ injuries satisfied the no-fault act threshold requirement of a serious impairment of body function, MCL 500.3135(1); MSA 24.13135(1). From the time that the complaint was filed on August 24, 1983, until entry of the dismissal order on February 3, 1986, plaintiffs failed to timely comply with at least two discovery orders, namely, an order compelling already overdue answers to interrogatories and an order to execute authorizations for the release of medical records. In each instance, the circuit court did not impose sanctions, although it did warn plaintiffs on at least three occasions that failure to comply with various court orders would result in the sanction of dismissal.
+In response to a May 31, 1985, order for disclosure of witness lists, plaintiffs filed two days late a list of about seventy-five witnesses, some forty-two of whom were physicians. Moreover, some of those listed were not specifically named, e.g., "witnesses named on accident report,” or were not individuals, e.g., "Healthcare Hospital.” This list was amended on August 30, 1985, with a concomitant reduction to twenty-two witnesses, thirteen of whom were physicians. On July 1, 1985, interrogatories were served on plaintiffs which specifically requested disclosure of expert witnesses who would give testimony establishing the causal relationship between the accident and plaintiffs’ injuries and the injuries constituting a serious impairment of body function. Plaintiffs’ response, sworn to on October 7, 1985, was that "[n]o final decisions have been reached in this regard.” On October 2, 1985, another set of interrogatories were served, which requested disclosure of the substance of the facts and opinions to which each of the physicians named in the amended witness list would testify. On January 9, 1986; defendants moved for dismissal or, in the alternative, for an order prohibiting plaintiffs from introducing medical expert testimony at trial. On January 24, 1986, the day of the hearing on the motion to dismiss, plaintiffs served interrogatory answers, apparently in response to the interrogatories served on October 2, 1985. At the conclusion of the hearing, the circuit court indicated that the case would be dismissed as a sanction for failure to facilitate discovery. An order of dismissal with prejudice was entered on February 3, 1986.
+Plaintiffs argue that sanctions were inappropriate because plaintiffs’ failure to designate the nature of the testimony to be given by each of their listed witnesses did not violate any written court order. MCR 2.313(B)(2), cited by defendants below, contemplates imposition of the dismissal sanction only for violation of an order to provide or permit discovery. Here the immediate instance of obstruction of discovery giving rise to the imposition of the dismissal sanction was plaintiifs’ failure to provide meaningful and timely answers to interrogatories. The circuit court did not specify which court rule it relied upon. Although MCR 2.313(B) sanctions are facially inapplicable, we conclude that the circuit court had authority to impose sanctions under at least two other court rule provisions—MCR 2.313(D)(1) and MCR 2.504(B)(1). MCR 2.313(D)(1) provides for "such sanctions as are just,” including dismissal, if a party fails to serve answers or objections to interrogatories. MCR 2.504(B)(1) authorizes a defendant to move for dismissal if the plaintiff fails to comply with the court rules. Here plaintiffs’ course of conduct contravened MCR 2.309(B).
+We further conclude that the dismissal sanction was not an abuse of discretion. Obstruction of discovery was not limited to a single instance, but rather plaintiffs’ lengthy, protracted delays and denials of discovery consumed the duration of this litigation. Thorne v Carter, 149 Mich App 90; 385 NW2d 738 (1986). Cf. Carver v Ford Motor Co, 108 Mich App 359; 310 NW2d 47 (1981). Defendants’ attempts to discover information vital to a proper defense of their case were frustrated. We do not believe that the noncompliance was inadvertent or that the imposition of lesser sanctions would have deterred plaintiffs from continuing this dilatory course of conduct. See North v Dep’t of Mental Health, 427 Mich 659; 397 NW2d 793 (1986).
+Affirmed.
