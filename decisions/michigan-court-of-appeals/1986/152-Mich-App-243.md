@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "83257"
+decided: "1986-06-02"
+citations: ["152 Mich. App. 243"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Beasley, P.J., and Gribbs and M. H. Cherry, JJ."]
+parties: ["PEOPLE v HOOPER"]
+source_url: "https://static.case.law/mich-app/152/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2284321
+cites_cases: ["138 Mich App 629", "212 NW2d 222", "330 NW2d 16", "353 NW2d 444", "361 NW2d 16", "390 Mich 245", "415 Mich 443", "419 Mich 305", "426 Mich 867", "432 US 161", "6 ALR4th 802"]
+---
+
+# People v. Hooper
+
+## Majority (M. H. Cherry, J.)
+
+M. H. Cherry, J.
+Defendant was convicted of intentionally aiming a firearm without malice, MCL 750.233; MSA 28.430, discharge of a firearm without malice causing injury, MCL 750.235; MSA 28.432, felonious assault, MCL 750.82; MSA 28.277, and possession of a firearm during the commission of a felony, MCL 750.227b; MSA 28.424(2). He was sentenced to prison terms of ninety days for Count i; nine months for Count ii; from thirty-two to forty-eight months for Count m; and two years for Count iii. He now appeals as of right.
+The charges stemmed from an incident that took place at Blake’s Bar in Detroit. Defendant first pointed and attempted to fire a gun at the bar owner, Jimmy Sloan. The gun failed to discharge. A few minutes later, outside the bar, defendent shot Wade Begley in the leg. Defendant attempted to shoot Begley two more times, but once again the gun failed to discharge.
+Defendant originally was charged with three counts of assault with intent to murder and felony-firearm. The first count referred to the pointing and attempted firing of the gun inside the bar; the second count involved the actual shooting of Wade Begley outside the bar; and the third count pertained to the attempted firing of the gun at Begley after Begley was already injured. Defendant claims that Counts ii and iii arose from the same transaction and that charging him twice was violative of the double jeopardy clause. We agree.
+The double jeopardy clause prohibits the imposition of multiple punishments for the same offense. People v Stewart, 138 Mich App 629, 633; 361 NW2d 16 (1984). The present case involves prosecutions which are governed by the "same transaction” test as adopted in People v White, 390 Mich 245; 212 NW2d 222 (1973). Accordingly, we must determine whether the crimes "were committed in a continuous time sequence and display a single intent and goal.” Id., p 259.
+Using the above test, defendant’s claim that he has been subjected to double jeopardy has merit. Wade Begley testified that he and defendant struggled and defendant broke free and shot him. After Begley fell to the ground, defendant stepped back and attempted to fire the gun two more times. We find that this constituted only one assault; there was division neither by time nor circumstance. The division of the single, continuing transaction into separate counts was improper and violative of the double jeopardy clause. "The Double Jeopardy Clause is not such a fragile guarantee that prosecutors can avoid its limitations by the simple expedient of dividing a single crime into a series of temporal or spatial units.” Brown v Ohio, 432 US 161, 169; 97 S Ct 2221; 53 L Ed 2d 187 (1977).
+While normally this state’s policy of concurrent sentencing would minimize the effects of the violation, the jury verdict rendered had the opposite effect. Defendant was convicted of the lesser included offenses of discharging a firearm without malice causing injury on Count ii and felonious assault on Count iii. Because the crime underlying Count hi was an integral part of the assault charged in Count ii, defendant’s conviction under Count hi is reversed and that part of his sentence is vacated.
+Defendant next objects to that portion of the jury instruction dealing with self-defense. The jury was given CJI 7:9:01, which states that deadly force may be used only if the defendant honestly believes that he is in danger of being killed or of receiving serious bodily harm. Defendant apparently believes that the jury should have been instructed on the use of nondeadly force. However, given that defendant originally was charged with three counts of assault with intent to murder and that a firearm was used, the instruction given was correct.
+Lastly, defendant contends that his felony-firearm conviction must be reversed if his felonious assault conviction is reversed since there is no underlying felony to support the felony-firearm charge. We disagree. In People v Lewis, 415 Mich 443, 455; 330 NW2d 16 (1982), our Supreme court held that a defendant charged with felony-firearm and an underlying felony need not be convicted of the underlying felony in order that a conviction on the felony-firearm charge may stand. In Lewis, the jury acquitted the defendant of the underlying felony but convicted him of felony-firearm. The court reasoned that the verdict was the result of leniency or compromise. Id., p 453.
+We find the rationale of Lewis to be equally applicable in the present case. Juries are not required to render consistent verdicts, especially when, as in this case, there is a multi-count indictment. If a conviction for felony-firearm should stand when a defendant is convicted of no underlying crime, then logic dictates that it should also stand when the jury convicts a defendant of lesser included offenses which happen to be misdemeanors.
+In People v Burgess, 419 Mich 305; 353 NW2d 444 (1984), the Supreme Court reversed this Court’s decision affirming the defendant’s conviction for felony-firearm but reversing his conviction for felonious assault. The Supreme Court reasoned that, while juries might return inconsistent verdicts, appellate courts do not share the same freedom. However, in Burgess, the felony-firearm conviction was predicated on only one felonious assault charge and this Court had reversed that charge. Accordingly, the Supreme Court found that the jury’s finding that the assault had been committed could not be relied upon to support the felony-firearm conviction.
+In the present case, however, the felony-firearm charge was predicated on each of the three underlying felony charges. Even though we now reverse the felonious assault conviction, there are still two remaining charges on which the felony-firearm conviction can rest. Unlike Burgess, we are not creating an inconsistent verdict but are merely affirming the jury’s already inconsistent verdict.
+Affirmed in part and reversed in part.
