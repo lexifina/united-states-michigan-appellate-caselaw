@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "7,826"
+decided: "1970-08-25"
+citations: ["26 Mich. App. 211"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: McGregor, P. J., and J. H. Gillis and O’Hara, JJ.", "All concurred."]
+parties: ["PEOPLE v. WALTER VAN TURNER"]
+source_url: "https://static.case.law/mich-app/26/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2067433
+cites_cases: ["10 Mich App 696", "137 Mich 678", "171 Mich 241", "19 Mich App 675", "19 Mich App 702", "265 Mich 486", "339 Mich 486", "354 F2d 698", "41 Wis 430", "7 Mich App 519", "74 ALR2d 1390", "9 Mich App 606"]
+---
+
+# People v. Van Turner
+
+## Majority (J. H. Gillis, J.)
+
+J. H. Gillis, J.
+Defendant was convicted by a jury of armed robbery contrary to MCLA § 750.529 (Stat Ann 1970 Cum Supp § 28.797). Defendant appeals as of right and raises four issues:
+(1) That his trial counsel was incompetent and thus deprived him of effective trial representation;
+(2) That there was insufficient evidence presented at the preliminary hearing to bind him over for trial;
+(3) That the trial judge failed to properly instruct the jury as to the presumption of innocence and the prosecution’s burden of establishing guilt beyond a reasonable doubt; and
+(4) That the jury was presented insufficient evidence to support a conviction beyond a reasonable doubt.
+Defendant’s contention that his trial counsel’s incompetency deprived him of effective representation must he examined in light of the accepted standard.
+“It is the general rule that relief from a final conviction on the ground of incompetent or ineffective counsel will he granted only when the trial was a farce, or a mockery of justice, or was shocking to the conscience of the reviewing court, or the purported representation was only perfunctory, or in had faith, a sham, a pretense, or without adequate opportunity for conference and preparation.” Williams v. Beto (CA 5, 1965), 354 F2d 698, 704.
+See, also, People v. Degraffenreid (1969), 19 Mich App 702. Applying the accepted standard, we find defendant’s contention of ineffective representation to he without merit.
+Defendant further contends that there was insufficient evidence adduced at preliminary examination to warrant the examining magistrate’s binding the defendant over for trial.
+“The object of the examination is not to determine guilt or innocence, and it is not as necessary to make strict proof as on the trial. The magistrate does not act judicially in a technical sense. He is not required to nicely weigh the evidence as a petit jury, or to discharge the accused where there is a conflict of evidence, or where there is a reasonable doubt as to his guilt, as all such questions should be left to the jury upon the trial. It is not necessary to establish the respondent’s guilt beyond a reasonable doubt before the examining magistrate, but only to offer proof that an offense not cognizable by a justice of the peace has been committed, and there is probable cause to believe the defendant guilty thereof.” People v. Medley (1954), 339 Mich 486, 492.
+Probable cause has been defined as “a reasonable ground of suspicion, supported by circumstances sufficiently strong in themselves to warrant a cautious man in the belief that a person accused is guilty of the offense with which lie is charged.” 3 Bouvier’s Law Dictionary (Rawle’s 3rd Rev), p 2728, as cited in People v. Dellabonda (1933), 265 Mich 486, 490. We find no error in the magistrate’s determination to bind defendant over for trial.
+Defendant contends that the jury was improperly instructed on the presumption of innocence and on guilt beyond a reasonable doubt. He cites to this Court a particular phrase of the court’s instructions: “proof beyond a reasonable doubt is such as you would be willing to rely and act upon in the utmost of your own personal affairs.” This alleged prejudicial instruction cannot be examined alone. Rather, as this Court has continuously held, instructions to the jury must be reviewed as a whole. People v. Allar (1969), 19 Mich App 675; People v. Fred W. Thomas (1967), 7 Mich App 519. Hence, the ultimate question to be answered by the reviewing court is whether the judge’s instructions to the jury, when examined as a whole, sufficiently apprised the jury of the proper standards to be used in determining guilt. The particular instruction defendant cites to this Court as prejudicial has been passed upon by the Michigan Supreme Court:
+“The absence of doubt of guilt when the measure and limit of the scrutiny is that which reasonable men would exercise in the ordinary affairs of life is not sufficient; for it does not necessarily result therefrom that the evidence, properly considered would leave no such doubt. * * * If the learned circuit judge desired to make use of any such analogy, he should have told the jury that it was their duty to scrutinize the evidence with the utmost caution and care, bringing to that duty the reason and prudence which they would exercise in the most important affairs of life.” Anderson v. State (1877), 41 Wis 430, 433, 444, quoted in People v. Albers (1904), 137 Mich 678, 691.
+Similarly, the trial court’s instructions to the jury, especially as to the presumption of innocence and the burden of proving the defendant guilty beyond a reasonable doubt are well within the accepted bounds approved by Michigan courts. In particular, the trial court instructed the jury thus:
+“The Court: Now, this case commenced on an information, which is an accusation of the commission of an offense. And, of course, as I have said to you before, the law presumes that a person is innocent of any crime or wrong. These defendants began this trial with a clean slate, with no evidence against them whatsoever, because the information in and of itself as I have said to you, has no evi-dentiary [sic] force.
+“Commencing with this clean slate, presumed innocence, nothing, of course, can be offered in this trial but legal evidence. Now, if no evidence were admitted, of course, the presumption of innocence alone would be sufficient to acquit the defendants. And that presumption of innocence abides unless and until you as jurors are satisfied beyond a reasonable doubt of the guilt of the defendants from all of the evidence in this case.
+“Now, what do I mean by a reasonable doubt? In the general nature of things, it is rarely possible to prove anything to an absolute certainty. Proof beyond a reasonable doubt is established if the evidence is such as you would be willing to rely and act upon in the most important of your own personal affairs. To put it another way, the people do not have to eliminate all doubt, that is that possibility that anything might have happened. But the proofs presented by the people must eliminate any doubt based upon reason, any doubt which has a rational explanation. If in considering all of the evidence, you find that you entertain a doubt, a fair doubt, based upon reason and upon common sense about the establishment of any of the essential elements of the case, then you must give the benefit of that doubt to the defendants. In other words, if after considering all of the evidence to a moral certainty that the guilt of the defendants has been established, the mere fact that there is a remote possibility that it could not be so is not the kind of doubt which acquits. A reasonable doubt may arise not only from the evidence, but from a lack of evidence. In other words, a defendant has not a duty to present evidence to create a doubt. The doubt might be created if in fact you find it from an absence of evidence by the people.
+“The burden is always upon the people to prove the accused guilty beyond a reasonable doubt of every essential element of the crime charged. And the defendant has a right to rely upon the failure of the people to establish the proofs if the people do not.
+“Now, a reasonable doubt exists in any case. And as I have said to you, if after careful and a partial consideration of all of the evidence, you as jurors do not feel convinced to a moral certainty that a defendant is guilty of a charge, the mere fact that there is a remote possibility that it could not be so, is not the kind of doubt which acquits.
+“But the presumption of innocence, of which I have spoken, can be removed by evidence which you find sufficient to convince you beyond a reasonable doubt of guilt.”
+Last, the defendant alleges that the jury’s verdict was contrary to the weight of the evidence adduced at trial. Our review of the instant record indicates sufficient evidence present, if believed by the jury, to justify a finding of guilt beyond a reasonable doubt. People v. Bradford (1968), 10 Mich App 696; People v. Cronk (1968) 9 Mich App 606; People v. Davis (1912), 171 Mich 241.
+Affirmed.
+All concurred.
