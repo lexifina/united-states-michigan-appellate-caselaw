@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77247"
+decided: "1985-10-09"
+citations: ["147 Mich. App. 756"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P.J., and M. J. Kelly and S. J. Latreille, JJ."]
+parties: ["STACK v MARCUM"]
+source_url: "https://static.case.law/mich-app/147/cases/0756-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2257956
+cites_cases: ["1 NW2d 539", "126 Mich App 99", "144 NE2d 371", "15 ALR3d 899", "165 NYS2d 475", "187 Mont 419", "19 NYS2d 239", "202 NW2d 577", "214 NW2d 733", "230 NW2d 363", "259 AD 317", "26 ALR2d 1227", "3 NY2d 369", "300 Mich 275", "337 NW2d 1", "42 Mich App 426", "438 F Supp 161", "51 Mich App 346", "60 Mich App 175", "79 ALR3d 672"]
+---
+
+# Stack v. Marcum
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Mark C. Stack (hereinafter plaintiff) was first hired by International Telephone and Telegraph, Inc. at its United Plastics Division on July 23, 1974. His employment was terminated on April 15, 1976. In August, 1976, he was rehired by a different division of ITT and was again terminated in April, 1978. In both instances, plaintiffs employment was terminated by his supervisor, defendant Marcum.
+Plaintiff and his wife then filed suit against ITT and Marcum. Plaintiff alleged that Marcum tortiously interfered with his business contract, and plaintiff’s wife alleged a derivative claim against Marcum for loss of consortium. Plaintiffs and ITT entered into a settlement and the suit against ITT was dismissed.
+Marcum then filed a motion for summary judgment, GCR 1963, 117.2(1), arguing that plaintiffs failed to state a claim because Marcum was acting as an agent of ITT and a corporate defendant acting through its employee cannot induce a tortious breach of its own contract. Defendant also sought summary judgment as to plaintiff-wife’s claim because it, being derivative of her husband’s claim, cannot be maintained if summary judgment is granted as to plaintiff-husband’s claim. The trial court granted defendant’s motion and dismissed the complaint. Plaintiffs now appeal as of right. We reverse.
+As we stated in Hinds v Dep’t of Corrections, 126 Mich App 99, 100-101; 337 NW2d 1 (1982),
+"The standard governing this Court’s review of a grant or denial of a motion based on summary judgment based on GCR 1963, 117.2(1) is well settled. The motion is to be tested on the pleadings alone. Todd v Biglow, 51 Mich App 346; 214 NW2d 733 (1974). The motion tests only the legal basis of the complaint, not whether it can be factually supported. Borman’s, Inc v Lake State Development Co, 60 Mich App 175; 230 NW2d 363 (1975). The factual allegations of the complaint are taken as true, along with any inferences or conclusions which may fairly be drawn from the facts alleged. Unless the claim is so clearly unenforceable as a matter of law that no factual development can possibly justify a right to recover, the motion under this subrule should be denied. Crowther v Ross Chemical & Manufacturing Co, 42 Mich App 426; 202 NW2d 577 (1972).”
+Defendant argues, and the trial court apparently agreed, that the tort of intentional interference with contractual relations requires three distinct entities, two of which have a contractual relationship, and a third party, unrelated to the other two, who inferieres with the existing contractual relationship. See, Wilkinson v Powe, 300 Mich 275; 1 NW2d 539 (1942). Defendant further argues that because he was acting as an agent of ITT, a party to the contractual relationship, he cannot be held liable for interfering with what is, in essence, his own contract.
+An identical argument was addressed and dismissed in Seven D Enterprises, Ltd v Fonzi, 438 F Supp 161, 163-164 (ED Mich, 1977), where the court held:
+"Defendant Fonzi distinguishes Wilkinson v Powe, supra, from the case at bar on the ground that in Wilkinson the defendant was a stranger to the contract between the plaintiff and a third party, while in the instant case, he is the employee and agent of one of the contracting parties. He therefore asserts that whether or not he was justified in terminating the contracts is not a question for the jury to decide and, relying on Greyhound Corp v Commercial Casualty Co, 259 AD 317; 19 NYS2d 239 (App Div 1940), asserts that as a corporate employee and officer who acted on his employer’s behalf he is immune from a tortious interference with contract suit unless he committed a separate tort apart from the alleged interference. The court disagrees. The trier of fact must decide whether the defendant acted on his employer’s behalf or for his own beneñt when he terminated the contract and lease agreements the plaintiffs had with Interstate. The fact that Fonzi was employed by Interstate to exercise the authority he used to terminate these contracts does not immunize his conduct if he used his authority to further his own ends at the plaintiffs’ expense. The inference of regularity which might attach to his actions has been challenged by the plaintiffs, and the court cannot determine on the record before it that this challenge is frivolous or without merit.” (Emphasis added.)
+Accord, A S Rampell, Inc v Hyster Co, 3 NY2d 369; 165 NYS2d 475; 144 NE2d 371 (1957); Phillips v Montana Education Ass’n, 187 Mont 419; 610 P2d 154 (1980). See, generally, Anno: Liability for Procuring Breach of Contract, 26 ALR2d 1227, §42.
+We agree with the Court’s analysis in Fonzi, and hold therefore that plaintiff-husband stated a valid claim against defendant, making summary judgment under GCR 1963, 117.2(1) inappropriate. Because plaintiff-husband’s claim is still viable, plaintiff-wife’s claim, being derivative in nature, is also viable.
+Reversed and remanded.
+
+## Dissent (M. J. Kelly, J.)
+
+M. J. Kelly, J.
+(dissenting). I respectfully dissent. The general rule of law is that one may not tortiously interfere with one’s own contract. Wilkinson v Powe, 300 Mich 275; 1 NW2d 539 (1942); Prosser, Torts (4th ed), § 129, p 934. Paragraph 2 of the complaint filed in this case by plaintiffs alleges that "Defendant David L. Marcum at all times relevant herein was the agent[s], servant and employee of ITT, acting within the scope of his authority”. In their answer, defendants admitted this agency relationship. I would hold plaintiffs to this allegation, incorporated by reference in their count of tortious interference with a business contract, notwithstanding what may appear to be other inconsistent and inartfully drafted theories. Taking as true, as plaintiffs allege, that defendant Marcum acted within the scope of his employment in terminating plaintiff Mark Stack, I would find that plaintiffs have failed to state a claim upon which relief may be granted. Wilkinson v Powe, supra.
+The majority relies on Seven D Enterprises, Ltd v Fonzi, 438 F Supp 161 (ED Mich, 1977), for the proposition that a corporate employee and officer can be guilty of tortious interference with a contract to which his employer is a party. I think Seven D Enterprises is distinguishable in that the defendant-interferor in that action, Angelo Fonzi, acted in two separate capacities. Fonzi was vice-president and general manager of Interstate Motor Freight Systems, which contracted for the lease of certain equipment from Seven D. Fonzi was also the alter ego or sole shareholder of Transportation Management Corporation which was the beneficiary of the breach and termination of the contracts involved. In inducing Interstate’s breach of the contract, Fonzi was obviously acting in his capacity as a corporate officer of Transportation. In any event, Seven D Enterprises is not binding precedent on this Court and, to the extent that it conflicts with the rule of Wilkinson v Powe, supra, I would decline to follow it.
+I would affirm.
