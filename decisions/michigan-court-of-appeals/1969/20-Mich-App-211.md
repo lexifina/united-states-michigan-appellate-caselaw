@@ -1,0 +1,45 @@
+---
+court: "Michigan Court of Appeals"
+docket: "6,428"
+decided: "1969-11-25"
+citations: ["20 Mich. App. 211"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J. and Holbrook and Quinn, JJ.", "All concurred."]
+parties: ["PEOPLE v. YOUNG"]
+source_url: "https://static.case.law/mich-app/20/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2077565
+cites_cases: ["14 Mich App 502", "14 Mich App 604", "142 Mich 225", "19 Mich App 74", "24 Mich 410", "252 Mich 553", "3 Mich App 614", "33 Mich 300", "356 Mich 271", "380 Mich 332", "8 Mich 104"]
+---
+
+# People v. Young
+
+## Majority (Lesinski, C. J.)
+
+Lesinski, C. J.
+Defendant was charged with assault with intent to commit murder (MCLA § 750.83 [Stat Ann 1962 Rev § 28.278]), and with carrying a dangerous weapon in a motor vehicle (MCLA § 750.227 [Stat Ann 1962 Rev § 28.424]). After trial the jury returned a verdict of guilty of felonious assault and “illegal possession of [a] firearm.” Defendant was sentenced for felonious assault and for carrying a dangerous weapon in a motor vehicle. This appeal is taken as of right.
+During the course of the trial, defendant admitted on direct examination facts constituting all the elements of the crime of carrying a dangerous weapon in a motor vehicle. The charge fully disputed was that of assault with intent to commit murder.
+In the charge to the jury, the trial judge twice listed the lesser included offenses for assault with intent to murder and defined the term “assault” three times. In repeating these items, however, the court once omitted felonious assault from the list of lesser included offenses and once erroneously defined “assault.” No objections were raised at trial to either of these errors although opportunity was specifically provided by the trial court.
+Defendant challenges his conviction of felonious assault on the grounds that the two errors in the charge to the jury were prejudicial. Taking the instructions. as a whole, we consider this point of appeal to he insubstantial. Both points complained of were correctly covered in the course of the instruction and no objection was raised below. The question is governed by People v. Dye (1959), 356 Mich 271, and People v. Smith (1966), 3 Mich App 614.
+The main issue raised on appeal concerns the form of the verdict on the second count. Defendant argues that the jury’s verdict is not a finding of guilty for the crime of carrying a dangerous weapon in a motor vehicle, since there is no such crime as “illegal possession of a firearm.” Moreover, he argues that the verdict is void and acts as an acquittal of the crime charged. The people reply that since defendant admitted all the acts required to constitute the crime, the only reasonable interpretation of the verdict was a finding of guilty of the crime charged.
+There is no specific crime in the penal codq entitled “illegal possession of a firearm.” MCLA § 750.238 (Stat Ann 1962 Rev § 28.435), which covers the issuance of search warrants, authorizes magistrates to issue warrants “in criminal cases that any pistol or other weapon or device mentioned in this chapter is unlawfully possessed,” with “pistol” being defined in the code as “any firearm * * * thirty inches or less in length.” (Emphasis supplied.) Yet, while it is thus possible to illegally possess a firearm, the term “illegal possession of a firearm” has general application within the statute, applying to any of the possible ways a firearm can be so possessed.
+In People v. Powler (1905), 142 Mich 225, a conviction for “robbery” was reversed on the ground that the penal code did not provide for such a crime. More recently in People v. Smith (1968), 14 Mich App 502, defendant was charged with indecent liber: ties and statutory rape. “Assault with intent to commit rape” was among the lesser included offenses listed in the charge to the jury. The verdict was “assault with intent.” This Court reversed a sentence based on “assault with intent to commit rape,” holding that the actual verdict described no crime other than simple assault.
+In People v. Smith (1968), 14 Mich App 502, the verdict as announced hy the jury had legal meaning in that the actual words used did describe a particular crime (i.e., assault). In the instant ease, however, “illegal possession of a firearm” has no legal meaning within the context of a verdict. Therefore, the verdict is void.
+The people argue that defendant’s conviction was valid under MCLA § 763.2 (Stat Ann 1954 Rev § 28.855), which states:
+. “No person charged with an offense shall be convicted thereof unless by confession of his guilt in open court or by admitting the truth of the charge against him or after trial by the court or by the verdict of a jury accepted and recorded by the court.”
+The people’s reasoning is that defendant during the course of his testimony on direct examination admitted the acts which made up the crime.
+The statute relied upon by the people is in the chapter entitled “Eights of Persons Accused.” Among the other provisions of this chapter is MCLA § 763.3 (Stat Ann 1954 Rev § 28.856), requiring certain'formalities in waving the right to jury trial. The 'apparent import of this section is to require it knowing waiver, which cannot occur by accident. Indeed, a written waiver, made a part of the record, would have been required by statute in the instant case. None was ever entered. Therefore, defendant had the constitutional right to have his guilt decided by a jury. Since the people’s argument would eliminate this right, with less than a written waiver, it must be rejected.
+Moreover, the statute cited by the people was clearly intended to limit the methods by which one can be convicted. It was not meant to expand those methods so as to diminish the constitutional right to trial by jury.
+Recent cases support this conclusion. In People v. Woody (1968), 380 Mich 332, defendant pleaded guilty by reason of insanity. Although following the rule that the defense plea “made the issue defendant’s sanity at the time of the offense, not whether he killed his wife,” the Court held that a general verdict of not guilty must be allowed by the trial court. See, also, People v. Deneweth (1968), 14 Mich App 604.
+In City of East Lansing v. Deutsch (1969), 19 Mich App 74, defendant was convicted under a city ordinance after she and several others had stopped traffic in the process of a sit-in demonstration. The defense never denied the fact that the acts alleged had been committed, and defendant’s counsel freely admitted that they had. Her only defense was an attack on the unconstitutionality of the city ordinance. Although the ordinance was upheld, this Court ruled that defendant had the right to have a jury determine her guilt or innocence, and that the trial court’s instructions to the jury to the effect that it was their “duty” to convict, were erroneous. Deutsch is correct on this point and we apply it in the instant case.
+Defendant argues that the void verdict acts as an acquittal. A void verdict, however, is the same as if the jury returned no verdict at all. As pointed out in People v. Allen (1930), 252 Mich 553, 556:
+“The prosecution was entitled to have a valid verdict rendered. If that which was rendered was void and of no legal effect, it follows that the jury were discharged without rendering any verdict. If so, it was the duty of the court to order a new trial that the guilt or innocence of the defendant on the charges preferred against him might be finally determined.” See, also, People v. Wells (1860), 8 Mich 104.
+We therefore affirm the conviction of felonious assault and reverse and remand as to the second count of carrying a dangerous weapon in a motor vehicle.
+All concurred.
+MCLA § 750.82 (Stat Ann 1962 Rev § 28.277), felonious assault is a lesser included offense of assault with intent to commit murder.
+Of the three times that the trial judge defined “assault” he once stated that an assault was an “attempt to offer with force and violence to do corporal hurt * * * with a present ability to carry the intention into effect,” (emphasis supplied) rather than an “attempt or offer.” The two remaining definitions of “assault” were correctly given.
+MCLA § 750.222 (Stat Ann 1969 Cum Supp §28.419), states* “ ‘Pistol’ as used in this chapter means any firearm * * *”
+These include possession of a firearm while under the influence of intoxicating liquor or any exhilarating or stupefying drug (MCLA § 750.237 [Stat Ann 1962 Rev § 28.434]), and carrying a firearm with unlawful intent (MCLA § 750.226 [Stat Ann 1962 Rev. §28-.423]).
+See, also, Wilson v. People (1872), 24 Mich 410, and Wright v. People (1876), 33 Mich 300, where the juries brought bach Verdicts,-of guilty of “assault with intent to kill.” In both cases the. Court held that killing was not equivalent to murder. Therefore, the verdicts were held to mean only guilty of simple assault.
