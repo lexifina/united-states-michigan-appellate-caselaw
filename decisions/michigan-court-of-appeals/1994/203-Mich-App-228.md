@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "142317"
+decided: "1994-01-18"
+citations: ["203 Mich. App. 228"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Wahls, P.J., and Mackenzie and Taylor, JJ."]
+parties: ["MAGEE v CITY OF DETROIT"]
+source_url: "https://static.case.law/mich-app/203/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2340209
+cites_cases: ["176 Mich App 722", "440 NW2d 654"]
+---
+
+# Magee v. City of Detroit
+
+## Majority (Taylor, J.)
+
+Taylor, J.
+Plaintiff appeals as of right from an order granting summary disposition in favor of defendant City of Detroit. We reverse.
+Plaintiff purchased property at 1365 W. East-lawn in the City of Detroit in 1979. The parties agree that plaintiff subsequently became delinquent in his Wayne County property taxes for tax years 1981-84, and City of Detroit property taxes for tax years 1979-84. The property was bid to the State of Michigan at the 1984 tax sale for delinquent taxes. The property was also foreclosed upon by the city, and a judgment of foreclosure was entered on May 10, 1985. Under the Detroit City Charter, § 8-403(6), plaintiff had sixty days, or until approximately July 10, 1985, to redeem the foreclosed property.
+Plaintiff contends as he did in the trial court that he paid all the delinquent Wayne County and City of Detroit property taxes on October 5, 1985, five months after entry of the city’s judgment of foreclosure, but within the redemption period for the tax sale to the State of Michigan. After this payment, he obtained a reconveyance deed to the property from the State of Michigan dated March 28, 1986. The city nevertheless sold the property to defendant Ralph Sachs on April 29, 1986.
+After the sale to Mr. Sachs, plaintiff sued to quiet title and for an unlawful taking. The city moved for summary disposition on the ground that plaintiff had not redeemed the property by paying his delinquent taxes within the sixty-day period following the foreclosure judgment as required by the city charter. Plaintiff, on the other hand, contended that he was entitled to relief because he redeemed the property within the period set forth in § 131c of the General Property Tax Act (gpta), MCL 211.131c; MSA 7.190(1). The trial court agreed with the city, finding that because plaintiff failed to redeem the property within the city charter’s sixty-day redemption period, the city’s sale of the property to Mr. Sachs was proper. While the trial court agreed that, under the circumstances, plaintiff was probably entitled to a refund of the taxes paid, it found that plaintiff had not asked for that particular relief in his complaint and so could not recover that money.
+Plaintiff contends that the city had the obligation to follow gpta procedures because the property had been held by the state since the 1984 tax sale, and the city could not sell that which it did not have. The city argues that it had no obligation to follow the gpta in pursuing city foreclosure proceedings because Detroit, being a home-rule city, had proceeded with its own independent foreclosure action. While we agree with the city that it may itself properly pursue foreclosure in order to collect delinquent taxes, and also agree that subsections 131c(2) and (3) of the gpta are irrelevant to this case, we disagree that the city may necessarily ignore the provisions of the gpta.
+The pertinent part of MCL 211.108; MSA 7.162 provides:
+The authorities of any city . . . which, by its charter, has the right to sell lands for unpaid taxes or assessments, may provide for judicial sale of such lands. Such sale shall be made on petition filed in behalf of the city ... in interest, and shall conform, as near, as practicable, to the provisions as to sale in this act [Emphasis supplied.]
+MCL 211.106; MSA 7.160 provides:
+The taxes on any lands returned as delinquent may be paid to the county treasurer at any time prior to the day of sale. After such petition is filed with the county clerk, payment of part of the taxes therein specified shall not stay proceedings thereon to enforce payment of such part of such taxes as are not paid, but such proceedings shall continue as to all unpaid taxes as herein provided. [Emphasis supplied.]
+Thus, even if plaintiff failed to redeem the property within the city’s sixty-day redemption period, unless a petition for the sale of the property to Mr. Sachs was filed before October 5, 1985—the date on which plaintiff contends that he paid the balance of his delinquent property taxes—any sale of the property should have been obviated under § 106 (or similar section of the Detroit charter). Because the record does not reveal when the sale petition was filed, we cannot say that the city’s sale of the property to Mr. Sachs was proper. In all likelihood it was improper, since it seems improbable that the petition for sale was initiated six months in advance of the sale date.
+In short, plaintiff has alleged that the sale of his property to Mr. Sachs resulted from the city’s failure to properly record plaintiff’s payment of his delinquent city taxes the previous October. Plaintiff has presented documents that appear to support his position. The city has not carried its burden of showing that plaintiff is incorrect. MCL 211.117; MSA 7.171 states:
+If any officer to whom any tax is paid shall fail to make proper entry and return of such payment, he shall be liable to any person injured, for the full amount of the injury, and if such failure is willful he shall be deemed guilty of a misdemeanor, and shall, on conviction thereof, be punished by imprisonment in the county jail not more than six months or by fine not more than three hundred dollars.
+See also MCL 211.98a; MSA 7.152, making it the duty of the city treasurer or other responsible official to correct such error once shown a receipt establishing that the taxes have been paid.
+In light of the above, the grant of summary disposition was premature. Although the city’s charter may not contain provisions identical to those of the gpta, § 108 requires that a city’s sale of tax-forfeitable property be carried out by means that conform as nearly as possible to the provisions set forth in the gpta. If the city’s methods are in direct conflict with the statutory provisions, the statutory provisions prevail. No provision of a city charter may conflict with or contravene the provisions of any general law of the state. MCL 117.36; MSA 5.2116; Joy Management Co v Detroit, 176 Mich App 722, 733; 440 NW2d 654 (1989).
+In light of our disposition of this case, on remand plaintiff may move in the trial court to amend his complaint to include a count of unjust enrichment and a related prayer for relief, MCL 211.131c(4); MSA 7.190(1)(4), and for costs and attorney fees if he prevails, MCL 211.117; MSA 7.171 (quoted above).
+Reversed and remanded. We retain no further jurisdiction.
+There is a one-year redemption period that pertains after a tax sale, which is held the first Tuesday in May. See MCL 211.70; MSA 7.115 and MCL 211.74; MSA 7.120. After this redemption period, a second redemption period of approximately six months becomes effective. MCL 211.131c; MSA 7.190(1). Thus, in this case, the total redemption period regarding the 1984 tax sale bid to the State of Michigan expired the first Tuesday in November 1985.
+That deed, which is a quit-claim deed, states as follows:
+Witness, that the following described land was sold and bid in to the State of Michigan at the 1984 tax sale and title vested in the State of Michigan, and under the provisions of Section 131c, Act 206, Public Acts of 1893, as amended, was withheld from sale and the Treasurer of the State of Michigan has certified to [the Department of Natural Resources] that the delinquent taxes or special assessments which had been assessed or were a lien at the time title vested in the State, together with interest and penalties thereon, have been paid.
+The [dnr], acting for and in behalf of the State of Michigan, by authority of Section 131c, Act 206, P.A. 1893, as amended, hereby grants, conveys, releases and quit-claims unto [Plaintiff Magee] ... all the right, title and interest acquired by the State of Michigan by virtue of the above mentioned tax sale in and to the . . . land .... [Emphasis supplied.]
+Mr. Sachs is not a party to this appeal.
+But see MCR 2.601(A).
+The city has not forwarded any portion of the Detroit charter for our review. We take this opportunity to remind counsel for municipal corporations that this Court lacks the means, even if it had the will and the authority, to take judicial notice of city, county, or township charters, ordinances, resolutions, or regulations. All these, things must be proved, although the proof can be essentially ex parte. See MCL 600.2116; MSA 27A.2116.
