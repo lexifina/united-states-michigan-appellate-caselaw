@@ -1,0 +1,68 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 78-5510, 78-5511, 78-5512"
+decided: "1979-11-20"
+citations: ["93 Mich. App. 808"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P.J., and Bashara and Beasley, JJ."]
+parties: ["PEOPLE v BARRETT PEOPLE v CARR"]
+source_url: "https://static.case.law/mich-app/93/cases/0808-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2173624
+cites_cases: ["199 NW2d 458", "24 ALR2d 1247", "280 NW2d 793", "295 Mich 541", "295 NW 257", "387 Mich 701", "406 Mich 374"]
+---
+
+# People v. Barrett
+
+## Majority (Allen, P.J.)
+
+Allen, P.J.
+This appeal concerns the validity of guilty pleas and sentences related to armed robberies of three different bars on three different dates by two defendants. Defendant Barrett was involved in all three robberies. Defendant Carr was involved in two and appeals only in one. All pleas were taken November 8, 1978, and all sentences were imposed November 20, 1978. Because the appeals raise different issues, one being an issue of first impression, we consider them separately.
+Appeal of Defendant Carr
+Defendant Carr was charged with armed robbery of the QT Bar at 9198 Livernois, July 20, 1978 (our file #78-5512; lower court file #06790), and with armed robbery of Mando’s Bar at 4400 W. Fort Street, September 27, 1978 (our file #78-5511; lower court file 06789). Pursuant to a plea bargain, he pled guilty to armed robbery of the QT Bar and to assault with intent to commit armed robbery of Mando’s Bar and possession of a firearm. In case number 06789, he was sentenced on the underlying felony charge to 6 to 20 years in prison, said sentence to run concurrently with case number 06790. On the felony-firearm charge Carr was sentenced to 2 years. Appeal was taken by defendant Carr only in file 06789 (the Mando Bar robbery).
+On appeal defendant Carr claims (1) an insufficient factual basis for the plea to the underlying offense, and (2) unconstitutionality on double jeopardy grounds of the felony-firearm statute. The claim of double jeopardy was disposed adversely to defendant in Wayne County Prosecutor v Recorder’s Court Judge, 406 Mich 374; 280 NW2d 793 (1979).
+The claim of insufficiency of the factual basis is refuted by the plain language at the plea taking. The transcript reads:
+"THE COURT: Mr. Carr, file 89, we are talking about the W. Fort, which is Mando’s Bar at 4400 W. Fort, about 10:30 at night. What happened there, Mr. Carr?
+"DEFENDANT CARR: I went in and, you know, pulled a firearm, jumped over the bar, took the money and fled.
+"THE COURT: The other bar is file number 6790 and we are talking about the QT Bar at 9198 Livernois. All three of you were identified and involved in that one. What happened there?
+"DEFENDANT CARR: Just about the same thing. I went in, announced a holdup, jumped over the bar, got the money out of the cash register and left.
+"THE COURT: Yes, and at that one Mr. Barrett left a glass with his fingerprints on it.
+"DEFENDANT BARRETT: Right.
+"THE COURT: In any event has the Court complied to 785.7(1), (2), (3)?
+"MR. ROBINER: Satisfied, your Honor.
+"MR. ARDUIN: Satisfied, your Honor.
+"THE COURT: You had a firearm in each one of these stickups; is that correct?
+"DEFENDANT BARRETT: Yes.
+"DEFENDANT CARR: Yes.”
+At the time the above dialogue took place the trial court was under the impression the plea was to armed robbery rather than to assault with intent to rob being armed. However, the facts as recited are sufficient to support either offense. People v Patskan, 387 Mich 701, 714; 199 NW2d 458 (1972). Moments later the trial court realized its mistake, accepted the plea as "a plea of assault with intent to rob being armed in 6789” and further commented that the information should be corrected accordingly.
+Defendant argues that while the above is all true, the sentence is still invalid because, upon reconvening for sentencing November 20, 1979, the trial court, apparently forgetting its earlier correction, proceeded to sentence defendant Carr on the assumption he pled guilty to two counts of armed robbery and one count of possession of a firearm. Defendant has a point. The court was confused, but despite that confusion we find no prejudice since sentence was imposed exactly as bargained for and as promised at the plea taking. Unlike the situation in Barrett’s plea, infra, only one count of possession of a firearm was involved. Consequently, the problem of a five-year sentence for firearm possession is not involved. While we could remand to the trial court to correct the sentencing so as to clearly show the sentence imposed in file 06789 was for assault with intent to rob being armed, we find the transcript, when read in toto, so clear that we elect to avoid remand by ordering correction ourselves. As ordered, the sentence is no more and no less than the sentence for which defendant bargained.
+Appeal of Defendant Barrett
+Defendant Barrett was involved in all three cases. Pursuant to a plea bargain he pled guilty to armed robbery of the QT Bar (#5512), guilty to armed robbery and felony firearm at Chuck’s Bar (#5510), and guilty to assault with intent to commit armed robbery and felony-firearm at Mando’s Bar (#5511).
+He appeals all three cases claiming error, inter alia, on the same grounds as asserted by defendant Carr. For the same reasons set forth by us in defendant Carr’s appeal we find no error.- As with Carr, we order the record and file corrected in trial court file 06789 (our file 5510) to show that the sentence imposed on defendant Barrett was for assault with intent to rob being armed and not for armed robbery.
+However, an additional ground for reversal is asserted. The question raised is of first impression. Unlike Carr, defendant Barrett was charged with two counts of possession of a firearm, viz.: one during the robbery at Chuck’s Bar and the other at the assault with intent to rob Mando’s Bar. At the plea-taking hearing he pled guilty to each with the understanding that he would be sentenced to two years in prison on each felony-firearm charge, said sentences to run concurrently. But at sentencing on November 20, the court sentenced defendant Barrett to two years for the offense September 26, at Chuck’s Bar, and five years (rather than two) for the offense September 27, at Mando’s Bar. When reminded by Barrett that the court had promised two years to run concurrently on each felony-firearm charge, the court explained:
+"THE COURT: On the five year, you can withdraw your plea, if you wish, if you were misled into it, and you can go to trial; but I want to point out that—
+"DEFENDANT: Where is the trial going to be held at, in this courtroom?
+"THE COURT: Yes. But I overlooked the fact at the time of taking the plea—and your lawyer overlooked it, and even the prosecutor apparently overlooked it—that the second gun conviction carries a mandatory five year minimum. All three people overlooked that.
+"I have no discretion under the law. The legislature is putting in a lot of things 'the Judge shall,’ and they used to say 'the Judge may.’ When it says shall, that means I have no discretion, I’ve got to do it. When they say I may do it, then I don’t have to do it. I can do it or not do it as I feel like.
+"On the second gun conviction they say I shall give a five year sentence.”
+Following consultation with his attorney, defendant Barrett elected to reject the court’s offer to withdraw his plea of guilty in case number 06789.
+The felony-firearm statute, MCL 750.227b; MSA 28.424(2) provides in pertinent part:
+"A person who carries or has in his possession a firearm at the time he commits or attempts to commit a felony * * * is guilty of a felony, and shall be imprisoned for 2 years. Upon a second conviction under this section, the person shall be imprisoned for 5 years. Upon a third or subsequent conviction under this section, the person shall be imprisoned for 10 years.”
+Counsel argues that since both pleas were taken at the same time, the conviction in case number 06787 (Chuck’s Bar) was simultaneous with the conviction in the case appealed (06789, Mando’s Bar), and, consequently, even though the offer to withdraw the plea was declined, there was no "second conviction”. The question raised is whether multiple convictions arising out of separate incidents pled to on the same day may serve as the basis for subsequent-offender convictions under Michigan’s felony-firearm statute.
+Under Michigan law, it has been held that two or more convictions on different counts under the same indictment or information cannot be cumulated so as to count as two or more previous convictions within the meaning of Michigan’s habitual offender act, MCL 769.10 et seq.; MSA 28.1082, et seq. People v Podsiad, 295 Mich 541; 295 NW 257 (1940). Similarly, the great majority of jurisdictions have extended the application of the above rule to the same day or at the same term of court. See Anno: Chronological or procedural sequence of former convictions as affecting enhancement of penalty for subsequent offense under habitual criminal statutes, 24 ALR2d 1247. The question arises whether the rule against cumulating simultaneously received convictions in the context of the habitual offender act should apply in the context of Michigan’s felony-firearm statute. MCL 750.227(b); MSA 28.424(2). We answer that question in the negative.
+While both statutes are similar in that each is imbued with a general deterrent force common to all criminal statutes, they are strikingly different in language and purpose. The habitual offender act specifically excepts from its coverage the first-time offender whereas the felony-firearm statute applies to all offenders. The habitual offender statute was intended to afford a first offender an opportunity to reform. Thus, a time gap between convictions becomes important. By contrast, the felony-firearm statute is directed at punishing the use of firearms during unlawful acts and, as such, is not concerned with the time at which convictions are received. Our Supreme Court has found the statutes quite different.
+"This language is markedly different from the language used by the Legislature in those statutes which are merely sentence enhancement statutes. For example, the habitual offender statute regarding second offenders states: [quoting statute]. There is no language in this statute indicating that the defendant shall be deemed guilty of a separate felony or that a consecutive sentence is to be imposed. The one sentence originally imposed for the felony which gives rise to the habitual offender proceedings is simply increased.” 406 Mich 374, 389-390.
+Finally, we note that the statutes differ in that the habitual offender law gives wide discretion to the trial court whereas the felony-firearm act mandates compliance in unambiguous terms.
+Because we find the statutes so different in language, coverage and purpose, we conclude that the rule against cumulation of multiple convictions received on the same day does not apply to the felony-firearm statute. Accordingly, the trial court’s imposition of the five-year additional sentence for the second (Mando Bar offense) felony-firearm conviction is sustained. Our decision in this respect is strictly limited to the facts in the instant case.
+Affirmed.
+(1) File 5512—Robbery July 20, 1978, of QT Bar, 9198 Livernois. Both defendants were charged and pled guilty to armed robbery. Felony-firearm was not charged.
+(2) File 5510—Robbery September 26, 1978, of Chuck’s Bar, 5353 Livernois. Only defendant Barrett was charged. He pled guilty to armed robbery and to felony-firearm.
+(3) File 5511—Robbery September 27, 1978, of Mando’s Bar, 4400 W. Fort St. Both defendants were charged with armed robbery and possession of a firearm. Both were bound over and pleas given to assault with intent to commit armed robbery and to felony-firearm.
+"THE COURT: File 78-06789 and 78-06790, Leroy Carr.
+Mr. Carr, you pled guilty to two counts of robbery armed and one count of possession of a firearm in the commission of a felony.
+As you are aware, there is a mandatory penitentiary sentence for both robbery armed and possession of a firearm.
+There was a sentence bargain of five to twenty years.”
+We note that since the felony-firearm statute distinguishes between "a second conviction under this section” and "a third or subsequent conviction under this section” (emphasis added) the Legislature contemplated that two simultaneous convictions in violation of the felony-firearm statute were sufficient to impose a 5-year mandatory sentence. Likewise, three simultaneous convictions or a subsequent conviction /he., following in time, a previous conviction, 40 Words and Phrases, subsequent, pp 724-725], results in the imposition of a ten-year sentence. This distinction in the statutory language reinforces our position in the instant action by implying that the imposition of a five-year sentence occurs upon a second conviction regardless of the sequence, whereas, a ten-year sentence can only be imposed for a second felony-firearm conviction where that conviction follows or succeeds a former conviction for the same offense.
+Conceivably, there are situations where multiple convictions might be impermissible. For example, if in a single armed robbery where defendant uses a firearm, money were taken from A, B and C, and the defendant pleads guilty or is convicted on the same day to all offenses, it would be questionable whether a ten-year sentence could be imposed under the felony-firearm statute. MCL 750.227(b); MSA 28.424(2).
