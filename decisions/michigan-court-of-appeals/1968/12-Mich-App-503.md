@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "3,177"
+decided: "1968-07-25"
+citations: ["12 Mich. App. 503"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McGregor and Canham, JJ., concurred."]
+parties: ["RULE v. CITY OF BAY CITY."]
+source_url: "https://static.case.law/mich-app/12/cases/0503-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2054990
+cites_cases: ["11 Mich App 449", "147 Mich 119", "154 Mich 68", "379 Mich 208", "381 Mich 782", "4 Mich App 150", "52 ALR2d 966", "62 ALR2d 340", "62 ALR2d 397", "83 ALR2d 1178"]
+---
+
+# Rule v. City of Bay City
+
+## Majority (Lesinski, C. J.)
+
+Lesinski, C. J.
+Plaintiff Lillian Rule brought suit for injuries sustained in a fall allegedly caused by a defect in a sidewalk of the defendant city of Bay City. Plaintiff contends the defect was caused by the negligent removal of an old street sign which resulted in a short section of pipe being left rising vertically from the level of the concrete sidewalk, thus creating the condition which caused her fall and the resulting injuries. The injury occurred on March 16, 1964. Notice of her claim was given to the defendant city on March 23, 1964 and suit was filed on September 16, 1964. Thereafter the defendant city moved for summary judgment, alleging that the statutory notice given was defective. Plaintiff appeals from the order of the circuit court granting defendant’s motion.
+Plaintiff presents two issues on appeal: (1) whether plaintiff gave the defendant legally sufficient notice under the then controlling statute, and (2) whether the defendant is estopped from challenging the sufficiency of the notice given since the claim was filed on the printed forms provided by the defendant city of Bay City.
+Resolution of the first issue is dispositive of this appeal.
+■ The statute provides the standard against which the plaintiff’s notice must be measured. The statute prevailing at the time of the injury required that the notice “specify the location and nature of said defect, the injury sustained, and the names of the witnesses known at the time by claimant.”
+In comparison, the relevant section of the notice served on the city provided:
+“The accident took place on March 16, 1964 approximately 2:15 p.m. on the 100 block on South Farragut St.
+“I tripped over the remains from a street sign of some sort that had been cut off leaving about 1-1/2 or 2 inches sticking above the sidewalk, when I tripped I fell hurting my right ankle and foot, both knees, back and arms.”
+The defendant argues that the notice is deficient in that plaintiff failed to list witnesses known to her at the time of the accident. The plaintiff listed no witnesses on her notice. The record discloses that plaintiff’s daughter was sitting in a car in the driver’s seat and that plaintiff fell within a foot of the front of the car. The plaintiff testified that her daughter saw the fall. However, plaintiff also testified that her daughter couldn’t see what caused the fall. None of this testimony is adequate to establish the fact of whether or not the daughter was in fact a witness. The only person who could give proper testimony on this question, namely the daughter, was not called to testify. The mere presence of a person at the scene of an accident does not make that person a witness.
+As to injuries, plaintiff gave a very general description of her injuries. “I fell hurting my right ankle and foot, both knees, hack and arms.” After receiving medical attention her injury was apparently confined to “severe sprain and the tears of the ligaments.” Taken together, these two statements provide a legally sufficient description of the injuries sustained. Ridgeway v. City of Escanaba (1908), 154 Mich 68.
+We now turn to the crus of the issue on appeal which resulted in a summary judgment for the defendant city. Does the notice “specify the location and nature of said defect?” In two recent cases this Court had occasion to approve the rationale of the leading Michigan case, Barribeau v. City of Detroit (1907), 147 Mich 119. In Dempsey v. City of Detroit (1966), 4 Mich App 150, this Court held that a notice which merely identified an alleged defect as being at a given intersection was not legally sufficient because it failed to indicate at which of the four corners of the intersection the alleged defect was located. In Smith v. City of Warren (1968), 11 Mich App 449, this Court held that a notice which gave the location of the alleged defect, without naming or otherwise identifying the defect, as being near a given intersection and a specific landmark some 40 yards from the location of the alleged defect without more, is not legally sufficient notice.
+The test to be applied was first set forth by the Supreme Court in Barribeau v. City of Detroit, supra, pp 125, 126. The Court stated:
+“The requirement that a notice be given is not alone for the purpose of affording the officers of the city opportunity for investigation. It is also for the purpose of confining the plaintiff to a particular ‘venue’ of the injury. In determining the sufficiency of the notice, excepting perhaps as to the time of the injury, the whole notice and all of the facts stated therein may be used and be considered to determine whether it reasonably apprises the officer upon whom it is required to be served of the place and the cause of the alleged injury. The nature of the defect stated may aid in locating the place, and the place may be stated with such particularity that a very general statement of the defect (cause of the injury) may be aided. * * * But to be legally sufficient, a notice must contain a description of the place of the accident so definite as to enable the interested parties to identify it from the notice itself. * * * When parol evidence is required to determine both the place and the nature of the defect, a reasonable notice has not been given to the city.” (Emphasis supplied.) (Citations omitted.)
+As we noted, the plaintiff gave a description of her injuries pursuant to the requirements of the statute and Ridgeway v. City of Escanaba, supra. The notice given was somewhat ambiguous in the manner in which the location was described, “on the 100 block on South Farragut St.” however, this designation of location was aided by a more specific description of the defect, “I tripped over the remains from a street sign of some sort that had been cut off leaving about 1-1/2 or 2 inches sticking above the sidewalk.” As in Barribeau, supra, the two requirements relating to the location and nature of the defect should be construed together. “The nature of the defect stated may aid in locating the place, and the place may be stated with such particularity that a very general statement of the defect (cause of injury) may be aided.” Here the reverse of the facts found in Barribeau, supra, is presented, in that the particularity with which the nature of the defect is identified aids the general description of the location. Thus taken together the notice given is in substantial compliance with the provisions of the law.
+As this Court noted in Smith v. City of Warren, supra, “Some degree of ambiguity in an aspect of a particular notice may be remedied by the clarity of other aspects.” When the notice is thus viewed, we find that the plaintiff is in substantial compliance with the law and that she has given legally sufficient notice.
+The entry of summary judgment for defendant below is reversed and a new trial is ordered. Costs to appellant.
+McGregor and Canham, JJ., concurred.
+PA 1964, No 170, assigned OL 1948, § 691.1401 et seq. (Stat Ann 1968 Cum Supp § 3.996[101] et seq.), does not apply liere. Smith v. Ginther (1967), 379 Mich 208.
+CL 1948, § 242.8 (Stat Ann 1961 Rev § 9,598), repealed by PA 1964, No 170, § 14, eft July 1, 1965,
