@@ -1,0 +1,58 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 147796, 148877"
+decided: "1993-03-01"
+citations: ["198 Mich. App. 426"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Connor, P.J., and Brennan and Marilyn Kelly, JJ."]
+parties: ["KELIIN v PETRUCELLI"]
+source_url: "https://static.case.law/mich-app/198/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1862507
+cites_cases: ["116 Mich App 791", "188 Mich App 465", "323 NW2d 560", "437 Mich 109", "440 Mich 141", "469 NW2d 284", "470 NW2d 443", "485 NW2d 893", "5 ALR4th 866"]
+---
+
+# Keliin v. Petrucelli
+
+## Majority (Connor, P.J.)
+
+Connor, P.J.
+Plaintiffs Dale Keliin and Cindy Keliin filed separate legal malpractice actions against defendant Vincent Petrucelli. Both actions were summarily dismissed pursuant to MCR 2.116(0(10). Each plaintiff appeals as of right, and this Court consolidated the appeals. We affirm, but remand for further proceedings.
+Bale Keliin was injured seriously in an auto accident in 1984. Defendant represented Dale in his product liability claim against the vehicle manufacturer and, at the same time, represented Cindy Keliin, Dale’s wife, in her claim of loss of consortium. While that case was pending, the Keliins began experiencing marital difficulties and informed defendant of their difficulties. Defendant continued to represent them both. In April 1988, the Keliins settled their claims for $252,000 in cash and monthly payments of $2000, increasing by three percent a year, for as long as Dale lived, but for at least twenty years. Cindy Keliin filed for divorce six months later, and the Keliins were divorced in 1989.
+i
+Defendant moved for summary disposition on the ground that neither plaintiff could establish any damages caused by defendant’s malpractice. The trial court agreed, and we affirm that decision.
+On a motion for summary disposition under MCR 2.116(C)(10), a party cannot rest on mere allegations, but must, by documentary evidence, set forth specific facts showing that there is a genuine issue for trial. McCart v J Walter Thompson USA, Inc, 437 Mich 109, 115; 469 NW2d 284 (1991); MCR 2.116(G)(4). The record shows that the lump sum was paid to Dale and Cindy jointly, but the periodic payments, which were calculated to have a present a cash value of $319,901, were to be made to Dale only.
+It is important to note that neither Dale Keliin nor Cindy Keliin presented any evidence questioning the adequacy of the overall settlement. Cindy Keliin’s expert testified that her claim of loss of consortium should have been worth ten to twenty percent of Dale’s claim. Dale Keliin’s expert testified that because of the probability that the Keliins would divorce, defendant should have negotiated to have the settlement structured differently.
+A
+Cindy Keliin contends that as a result of defendant’s malpractice she did not receive fair compensation for her claim of loss of consortium. The settlement was for $571,901. From this amount, the expenses of the litigation, $31,823.99, as well as defendant’s fee of $180,025.67, had to be deducted. This left the Keliins with a net recovery of $360,051.34. According to her expert, Cindy Keliin should have received between $32,731.94 and $60,008.56 of the net recovery._
+Of the net proceeds of the settlement, $319,901 were in Dale’s name and $40,150.34 were paid to Dale and Cindy jointly. Thus, the record shows a potential for Cindy Keliin being injured by defendant’s structuring of the settlement inasmuch as Dale had control over all the proceeds while Cindy had control over approximately one-ninth.
+However, a claim of malpractice requires a showing of actual injury caused by the malpractice, see McCluskey v Womack, 188 Mich App 465, 473; 470 NW2d 443 (1991), not just a potential for injury, and it is here that Cindy Keliin’s claim fails. While she and Dale Keliin remained married, there is nothing in the record to suggest that she, in fact, was denied her fair share of the proceeds of the settlement. Therefore, there is no indication that, prior to the divorce, Cindy had been injured by defendant’s malpractice.
+Nevertheless, because the cash portion of the settlement had been spent, the potential for Cindy Keliin suffering injury upon her divorce was substantial. Had the ongoing payments been treated as Dale Keliin’s separate property, Cindy Keliin would have been denied some of the recovery attributable to her injury because of defendant’s decision to put most of the settlement proceeds in Dale’s name. However, that was not what happened. Despite the payments being in Dale’s name, the divorce court treated them as the joint property of Dale and Cindy. Thus, the potential for injury caused by the decision to have the payments made to Dale was rendered a nullity before it caused Cindy any actual injury.
+We find that Cindy Keliin did not demonstrate that she had suffered any injury before the divorce and that the divorce court’s decision to treat the payments as a joint marital asset prevented any injury from occurring after the divorce.
+Cindy Keliin claims that this means she would have had to argue the value of her claim of loss of consortium in the divorce court. We agree. However, we disagree with her contention that she could not have done so. The record shows not only that the issue could have been decided by the divorce court, but also that it was.
+Property division in divorce is based on the particular equities of the situation. See Sparks v Sparks, 440 Mich 141, 159-160; 485 NW2d 893 (1992). When it ruled that the remainder of the settlement was a jointly held asset, the divorce court recognized that some portion of the settlement was compensation for Dale’s injury and some portion of the settlement was compensation for Cindy’s injury. The divorce court divided the remaining settlement proceeds according to its own assessment of the relative value of the two claims.
+We are not deciding whether the divorce court’s division of the settlement proceeds was correct: that issue is not before us. We mention it only to show that if Cindy Keliin did not receive that portion of the settlement to which she was entitled, it was due not to defendant’s decision to put most of the proceeds of that settlement in Dale Keliin’s name, but to the divorce court’s independent assessment of how much of that settlement was attributable to her injury.
+Therefore, Cindy Keliin having failed to present any evidence that she suffered any damages because of defendant’s malpractice, the trial court properly dismissed her claim.
+B
+Dale Keliin argues that but for defendant’s malpractice, he would have insisted on a lump sum settlement, rather than the long-term payout he did receive. He presented the deposition of an expert who testified that in cases of divorce more money is usually needed up front. However, Dale presented no evidence that he actually needed more money up front, or that he, in fact, was harmed by the way the settlement was structured. The trial court properly granted defendant summary disposition of Dale Keliin’s malpractice claim.
+ii
+Cindy Keliin also argues on appeal that the trial court erred in dismissing her claim to have the contingent fee contract with defendant declared void under MCL 600.919; MSA 27A.919. We disagree.
+Michigan law provides that attorney-client compensation agreements are void if solicited. MCL 600.919; MSA 27A.919. In Woll v Attorney General (On Remand), 116 Mich App 791, 805-806; 323 NW2d 560 (1982), this Court ruled that under Michigan’s criminal antisolicitation statute, MCL 750.410; MSA 28.642, the only solicitation prohibited is in-person solicitation substantially motivated by pecuniary gain. This construction was put on the criminal statute to avoid a conflict with the First Amendment. We now rule that, for the same reason, the same construction must also be put on MCL 600.919; MSA 27A.919.
+The facts, viewed in the light most favorable to Cindy Keliin, do not support her claim of solicitation. In her deposition, Cindy Keliin testified that defendant came to see the plaintiffs about representing them only after obtaining their approval. Defendant obtained the approval through Cindy’s father, who was an acquaintance of defendant.
+Defendant initiated the contact to open discussions of representation and did so for his pecuniary gain. However, he did not do so in-person, but rather through an intermediary who had no interest in the matter. The in-person contact with Dale and Cindy Keliin was conducted only after having secured their prior approval and so cannot be considered proscribed solicitation. The trial court properly found that as a matter of law defendant was entitled to judgment on the claim of improper solicitation.
+hi
+One further issue requires our attention. Each Keliin claimed that defendant had miscalculated his fees. Pursuant to MCR 3.603, defendant deposited the disputed $18,150.34 plus interest with the trial court. The court records indicate that despite the trial court’s assertion that all issues before it had been resolved, this money has still not been distributed, and it has not been resolved how to apportion this money between the Keliins. Therefore, we remand these cases to the trial court to conduct proceedings regarding the distribution of this money.
+Affirmed and remanded. We do not retain jurisdiction.
+The liability of the defendant corporation was claimed under the theory of respondeat superior and will not be discussed in this opinion.
+Cindy Keliin asserts that her claim was simply dismissed. However, the settlement agreement called for both Cindy’s and Dale’s claims to be dismissed in exchange for the payments.
+Because the motions for summary disposition only tested the Keliins’ ability to establish damages, we accept as true, for the purpose of deciding this case, the allegations that defendant engaged in malpractice.
+Because Cindy Keliin presented no evidence that the overall settlement was inadequate and her expert evaluated her claim of loss of consortium at ten to twenty percent of Dale’s claim, the value of her claim was calculated by solving the following equations:
+Cindy’s damages equals .1 (or .2) times Dale’s damages.
+Dale’s damages plus Cindy’s damages equal the net recovery.
+The result is that Cindy should have received between one-eleventh and one-sixth of the net recovery.
+Of the $32,000 paid to Cindy and Dale between the time of settlement and the time Cindy filed for divorce, $10,000 was deposited into a bank account to which she had access and was spent on a family vacation and an $8,000 travel trailer she was later awarded in the divorce.
+The divorce court awarded Dale the remaining monthly payments, and awarded Cindy alimony in gross of $300 a month for thirty-six months.
+Cindy Keliin apparently did not appeal the divorce court’s judgment.
+Cindy Keliin sought damages for emotional distress as well. However, she presented no evidence in opposition to the motion for summary disposition to support her allegations of emotional distress. She also sought exemplary damages, claiming that defendant conspired with Dale to cheat her out of what she was due. However, the only evidence she presented concerning this claim was her testimony that Dale had told her about the conspiracy months after the settlement. These statements are hearsay and could not be used against defendant. See MRE 801(d)(2)(E), 802. Therefore, Cindy Keliin had no admissible evidence to support either claim for damages, and the trial court properly dismissed them as well.
