@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "145411"
+decided: "1993-09-08"
+citations: ["201 Mich. App. 474"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Fitzgerald, P.J., and Connor and Taylor, JJ."]
+parties: ["GEORGE v SANDOR M GELMAN, PC"]
+source_url: "https://static.case.law/mich-app/201/cases/0474-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1858775
+cites_cases: ["107 Mich App 435", "11 Mich App 438", "127 F Supp 858", "139 Mich App 565", "161 NW2d 452", "183 Mich App 812", "309 NW2d 632", "332 Mich 229", "362 NW2d 837", "455 NW2d 437", "50 NW2d 771", "70 ALR4th 827"]
+---
+
+# George v. Gelman
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff brought an action to remove an attorneys’ lien recorded against her real property by defendant. Both parties moved for summary disposition. Following a hearing, the trial court granted summary disposition in favor of defendant and denied plaintiffs motion. Plaintiff appeals as of right. We reverse.
+Plaintiff retained defendant in March 1988 to represent her in a divorce action that was finalized in January 1989. There is no dispute that the parties did not enter into a written fee agreement. The parties also agree that pursuant to an oral agreement, plaintiff paid defendant a retainer of $1,500 and agreed to an hourly fee of $150. Plaintiff alleges, and defendant denies, that defendant stated that the total fee would be "$5,000 to $6,000 tops.”
+Plaintiff was billed $12,569.90, which represented attorney fees in the amount of $11,212.50 and advanced costs in the amount of $1,357.40. After several requests, defendant provided plaintiff with an itemized fee statement. Plaintiff disputed several of the services and the fees charged for those services by defendant. Two meetings with defendant failed to resolve the dispute.
+On March 29, 1989, defendant recorded an attorney’s lien in the amount of $10,569.90 against a condominium awarded to plaintiff in the judgment of divorce. Defendant never sued plaintiff to collect the fee and never obtained a judgment against plaintiff for the lien amount.
+Plaintiff alleges that she did not become aware of the lien until months after it was recorded. On July 30, 1990, plaintiff filed the petition for release of the lien that is the subject of this lawsuit.
+Defendant moved for summary disposition of plaintiff’s claim pursuant to MCR 2.116(C)(8). Plaintiff also moved for summary disposition, arguing that defendant’s charging lien could not attach to her real property without an express agreement between the parties providing for such a lien. After concluding that Michigan law "authorizes an attorney to impose a lien on work product that he is responsible for bringing about through the use of his services,” the trial court granted defendant’s motion and denied plaintiff’s motion.
+In an issue of first impression, we are asked to determine whether an attorneys’ lien can attach to a client’s real property.
+i
+An attorney’s lien can be one of two kinds: (1) a general, ^retaining, or possessory lien, or (2) a special, particular, or charging lien. A general or retaining lien is the right to retain possession of all documents, money, or other property of the client until the fee for services is paid. Kysor Industrial Corp v D M Liquidating Co, 11 Mich App 438, 444; 161 NW2d 452 (1968). The special or charging lien is an equitable right to have the fees and costs due for services secured out of the judgment or recovery in a particular suit. Id.; 3 Michigan Law & Practice, Attorneys & Counselors, § 161, pp 486-487. The attorney’s charging lien creates a lien on a judgment, settlement, or other money recovered as a result of the attorney’s services. Doxtader v Sivertsen, 183 Mich App 812, 815; 455 NW2d 437 (1990). In this case, defendant is asserting the right to a charging lien.
+While not codified in a statute, the existence of a common-law attorney’s charging lien is recognized in Michigan. Kysor, supra at 445. See also Miller v Detroit Automobile Inter-Ins Exchange, 139 Mich App 565, 568; 362 NW2d 837 (1984). Case law acts as the sole guide with regard to these liens. Bruce v United States, 127 F Supp 858 (ED Mich, 1955).
+n
+In Michigan, direct attachment of a debtor’s real estate is disfavored. Chapter 60 of the Revised Judicature Act (rja), MCL 600.6001 et seq.; MSA 27A.6001 et seq., ordinarily governs collection of judgments and execution against real estate for monies owed. A judgment, by itself, does not create a lien against a debtor’s property. Under the scheme provided in chapter 60, the creditor must first obtain a judgment for the amount owed, then execute that judgment against the debtor’s property. A creditor may execute against real property owned by a debtor only after attempting to execute against the debtor’s personalty and determining that the personal property is insufficient to meet the judgment amount. MCL 600.6004; MSA 27A.6004. To place a lien against a debtor’s real property, the creditor must deliver the writ of execution and a notice of levy against the property to the sheriff, who then records the notice of levy with the register of deeds to perfect the lien.
+hi
+A review of case law in Michigan involving attorneys’ charging liens reveals that these liens automatically attach to funds or a money judgment recovered through the attorney’s services. No Michigan authority, however, permits an attorney’s charging lien to attach to real property. Defendant’s reliance on Wolter v Wolter, 332 Mich 229, 236; 50 NW2d 771 (1952), and Tyrrell v Tyrrell, 107 Mich App 435, 438-439; 309 NW2d 632 (1981), is misplaced. In those cases, statutory judicial liens to secure payment of attorney fees were ordered to attach against specific real property awarded in the judgment of divorce. MCL 552.13(1); MSA 25.93(1).
+Common law established in other states does not permit an attorney’s charging lien to attach to the client’s real property "even where the attorney’s services result in a judgment establishing title or possession for the client.” Rubel v Brimacombe & Schlecte, PC, 86 Bankr 81, 83 (ED Mich, 1988). In Rubel, the court concluded that although Michigan courts had never directly ruled on the issue, they would follow the majority rule disallowing attorney liens upon real property owned by clients unless there is an express written contract between the parties providing for such a lien or unless special equitable circumstances existed. Id. at 83-84.
+iv
+We conclude that an attorney’s charging lien for fees may not be imposed upon the real estate of a client, even if the attorney has successfully prosecuted a suit to establish a client’s title or recover title or possession for the client, unless (1) the parties have an express agreement providing for a lien, (2) the attorney obtains a judgment for the fees and follows the proper procedure for enforcing a judgment, or (3) special equitable circumstances exist to warrant imposition of a lien._
+In this case, defendant has not alleged the existence of an express written agreement providing for the lien. Further, defendant failed to follow the legal procedure for collecting debts owed by obtaining a judgment for the amount owed. No special equitable circumstances exist that would support imposition of an attorney’s charging lien on plaintiff’s real property. Plaintiff has not attempted to evade paying for defendant’s services. Rather, an ongoing dispute exists between the parties regarding the total fee charged by defendant, and the parties have been unable to resolve it. Defendant’s pleadings are insufficient to establish that he had the right to assert a lien against plaintiff’s property.
+The grant of summary disposition in favor of defendant is reversed, the denial of plaintiff’s motion for summary disposition is reversed, and the lien against plaintiff’s real property is ordered released.
+We do not include a court order as one of the methods for procuring an attorney’s charging lien on real property because such an order constitutes a statutory judicial lien on the real property, not an attorney’s lien. See MCL 552.13(1); MSA 25.93(1). See also Wolter and Tyrrell, supra.
