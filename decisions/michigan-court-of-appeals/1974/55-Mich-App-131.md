@@ -1,0 +1,57 @@
+---
+court: "Michigan Court of Appeals"
+docket: "17606"
+decided: "1974-08-15"
+citations: ["55 Mich. App. 131"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: McGregor, P. J., and R. B. Burns and O’Hara, JJ."]
+parties: ["DETROIT BANK & TRUST COMPANY v DEPARTMENT OF STATE HIGHWAYS"]
+source_url: "https://static.case.law/mich-app/55/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2132693
+cites_cases: ["185 NW2d 111", "188 NW2d 33", "208 NW2d 74", "29 Mich App 51", "32 Mich App 37", "392 Mich 820", "46 Mich App 287"]
+---
+
+# Detroit Bank & Trust Co. v. Department of State Highways
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal of right from an award of the Court of Claims based upon the claims of negligence and nuisance on the part of the State of Michigan through its Department of State Highways. The award, which is not relevant to the issues of negligence, nuisance, contributory negligence or proximate cause, was $944,068.35. No issue as to its excessiveness is raised.
+Death was virtually instantaneous. It was caused by the end of a guardrail penetrating decedent’s car which in turn caused the decedent to be partially ejected from the vehicle. The guardrail is located in the strip separating a divided highway. This area is referred to as the "median”.
+Manifestly the first question to be decided is whether the statute by which the state waived its sovereign immunity and allowed itself to be sued extends to the median. If it does not, the lawsuit ends there and the shield of immunity obtains.
+The statute reads in relevant part:
+"Each governmental agency having jurisdiction over any highway shall maintain the highway in reasonable repair so that it is reasonably safe and convenient for public travel. Any person sustaining bodily injury or damage to his property by reason of failure of any governmental agency to keep any highway under its jurisdiction in reasonable repair, and in condition reasonably safe and fit for travel, may recover the damages suffered by him from such governmental agency. * * * The duty of the state and the county road commissions to repair and maintain highways, and the liability therefor, shall extend only to the improved portion of the highway designed for vehicular travel and shall not include sidewalks, crosswalks or any other installation outside of the improved portion of the highway designed for vehicular travel.” (Emphasis supplied.) MCLA 691.1402; MSA 3.996(102).
+We think the difficulty in the position of the state in this and in several prior cases decided by this Court is that it construes the prior underlined excerpt from the statute to use the "improved portion of the highway designed for vehicular travel” to mean the "paved” portion used for vehicular travel.
+Obviously the median was not designed for vehicular travel at expressway speeds in order to pass other cars to get from place to place or to be used as a crossover. The latter is expressly forbidden by another statute. But in construing the statute we simply can’t read out the words "improved portion” even though those words are modified and limited by the phrase "designed for vehicular travel”.
+A highway is the composite of many components: slabs of poured concrete, shoulders, usually of gravel, markings, traffic control signals, speed control signs. These stated are exemplary only and not intended to be decisionally limiting.
+The median did not magically appear between the paved portions of the divided highway. It was created or constructed by the state. The guardrail in the middle was manufactured ito the department’s specifications and installed by their contractors. We cannot but conclude that it is an "improved portion” in the same sense the shoulders were held to be in Johnson v Michigan, 32 Mich App 37, 39; 188 NW2d 33, 35 (1971), in which we said:
+"The shoulders of a highway are designed for vehicular traffic although not of the same character as vehicular traffic on the paved portion of the highway. We read the statutory duty of the state with respect to the repair of shoulders to be that the state is obligated to maintain the shoulders in reasonable repair so that they are reasonably safe for their intended use as adjuncts of the paved portion of the highway.”
+Or as in Lynes v St Joseph County Road Commission, 29 Mich App 51, 59; 185 NW2d 111, 114-115 (1970):
+"Traffic signals which control the flow of traffic are an integral part of the improved portion of the highway. The presence or absence of such signals, as well as the conditions in which they are maintained, directly relates to the statutory duty imposed upon the defendant to maintain the highway in a condition safe and fit for travel.”
+We add a stern and needed caveat. The state is not an insurer. The motorist who misuses any part of the improved portion of the highway is answerable for his own negligence which could bar his recovery. The asserted negligence of the state must be established as the proximate cause of the claimed injury and damage.
+The question of whether decedent’s injury and damage was proximately caused by one or more of the acts of negligence alleged is one of fact. See generally Kubasinski v Johnson, 46 Mich App 287; 208 NW2d 74 (1973), and cases cited therein. See also 57 Am Jur 2d, Negligence, § 136, pp 487-488. The question of whether enough evidence has been adduced to support plaintiffs’ claim of proximate causality so as to make the issue one of fact is a question of law for the court. 57 Am Jur 2d, Negligence, § 137, pp 489-490.
+Consequentially we examine plaintiffs’ proofs in this regard. The allegation is that the metal guardrail was negligently designed and constituted a continuing nuisance.
+The only eyewitness to the collision testified that the guardrail was:
+"Metal, with a very blunt, relatively rounded end that reminded you of a boxer’s glove, just a fist sticking out at you.”
+Charles S. Michalski, a traffic engineering consultant, testified quite extensively as to his evaluation of the effect of the defendant’s failure to install the extension guardrail called for by its own plans:
+"If a single guardrail had been installed, as indicated earlier in my testimony, a vehicle travelling north in the left-most lane would probably collide with that guardrail, a single guardrail, at an acute angle, and the results of such a collision would be very less disastrous than colliding with the bitter end of a guardrail.”
+He further testified that if the car had struck the end of the proposed single guardrail extension head-on:
+"[T]here would be some penetration of the car and the effects could be quite damaging, but if it struck the rail on the bias, and that would be highly probable if it were properly installed, then the effects would not be as damaging, there would be a lot of side damage but no penetration.”
+When asked what difference, if any, the proposed extension guardrail would have made, Michalski testified:
+"Yes, because we have — the extension was a single offset guardrail, only two steel rails on it, compared to the four that we had at the end of the guardrail at station 857, so I would expect the effects of a side collision with a single rail to be less damaging, because the single guardrail would offer less resistance to buckling or being deflected.”
+Henry Cremin, a professional civil engineer, testified as to the purpose of the extension on the guardrail called for by the original plans:
+"I feel that the purpose of it was to provide additional safety for a vehicle leaving the main traveled portion of the roadway, so that it would not strike the blunt end guardrail section and, in fact, it would be deflected and not fully impact itself on the south end of the double guardrail section. The 103 feet was angled slightly in a southwesterly direction, meaning that it was intended to pick up northbound trafile traveling in that direction that might leave the curve, the reverse-curve area, and to prevent that traffic from striking the blunt end guardrail section.”
+When asked whether he had an opinion as to what effect the proposed but not constructed extension guardrail would have had on the damages sustained, Mr. Cremin testified:
+"Yes, I certainly do, and if I may just back up for a moment to say the double end guardrail section, as I think most any layman can appreciate, is a very strong structural section. The purpose of a guardrail is to be somewhat yielding, to provide a give, so to speak, to protect from that vehicle going across, perhaps, to protect it from leaving the roadway, but the blunt end of a double guardrail section is an extremely strong structural member, that is four guardrail sections all united in one single structure, and while it is true that the post sheared, the tremendous structural value of that has to be appreciated, it is just almost like a concrete bin sitting there to be run into. A single guardrail section extending south and angled from that has considerably more give to it and, in addition, it was angled to the southwest so that a vehicle would not strike against the end of the guardrail section. The intention of that section, I believe, was to deflect or to pocket or provide a give to a car that might perhaps leave the roadway surface and strike that, or head toward that double guardrail section, you would strike the single guardrail before it got to that blunt end of the double guardrail section and thereby would be deflected from hitting the blunt end of the double guardrail section. I believe the accident would have been considerably less severe had that 103.5 feet of single guardrail section been in place.” (Emphasis supplied.)
+Whatever the weight and credibility of this testimony was for the trial judge sitting without a jury. Certainly we must hold that in the aggregate it created a question of fact and was not susceptible of disposition by the judge as a matter of law.
+In weighing the weight and credibility and making his fact-finding the trial judge held:
+"It is obvious to the court that this device created a dangerous situation on a high-speed highway. The plans for the construction of this roadway anticipated a single offset guardrail extending at an angle to the southwest leading away from the southern-most blunt end of the double guardrail. It is apparent that such an extension would greatly alleviate the potential danger of the blunt end of the guardrail. By failing to install this safety feature, the defendant was negligent and permitted a nuisance to exist, such condition being inherently dangerous to persons using the highway.
+"It is also readily apparent to the court that this' condition caused the injuries leading to the decedent’s death. Therefore such negligence on i the part of the defendant and the nuisance created by the defendant was a proximate cause of the injuries of the decedent.”
+His conclusion was supported by competent, credible testimony. The testimony was virtually uncontradicted.
+It is our duty to accept it under these circumstances.
+The judgment of the Court of Claims is affirmed. Costs to the appellees.
+MCLA 257.644; MSA 9.2344.
+We do not discuss the claim of the intervening plaintiff compensation insurance carrier, separately. Its position is identical with that of the administrator of the deceased’s estate. Division of the award will, of course, follow the controlling statute.
