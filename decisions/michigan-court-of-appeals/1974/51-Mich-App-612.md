@@ -1,0 +1,51 @@
+---
+court: "Michigan Court of Appeals"
+docket: "15119"
+decided: "1974-03-04"
+citations: ["51 Mich. App. 612"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J., and Bashara and Van Valkenburg, JJ.", "All concurred."]
+parties: ["PEOPLE v DEMPSTER"]
+source_url: "https://static.case.law/mich-app/51/cases/0612-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2100821
+cites_cases: ["131 Cal App 228", "1972 PA 294", "208 NW2d 469", "21 P2d 126", "28 L Ed 2d 609", "290 NW 327", "292 Mich 58", "355 P2d 413", "389 Mich 441", "402 US 62", "402 US 70", "91 S Ct 1298"]
+---
+
+# People v. Dempster
+
+## Majority (Bashara, J.)
+
+Bashara, J.
+Defendants were indicted by a Wayne County Grand Jury for selling unregistered securities which were not exempt under the Uniform Securities Act contrary to MCLA 451.701; MSA 19.776(301). The trial judge, sitting without a jury, found that defendants were selling nonexempt securities and sentenced defendant Phyllis Dempster for a period of 1-1/2 to 3 years incarceration. Defendants appeal that conviction assigning as error the trial court’s determination of nonexempt status of the documents and questioning the constitutionality of MCLA 451.802(d); MSA 19.776(402)(d).
+Defendants contend that the provisions of the act placing the burden of proving an exception upon a defendant in a prosecution for a violation of the Uniform Securities Act, require a criminal defendant to bear an unconstitutional burden. Defendants place their reliance for this position on the recent decision in United States v Vuitch, 402 US 62; 91 S Ct 1294; 28 L Ed 2d 601 (1971). The Court in Vuitch, supra, was asked to decide who must bear the burden of proving exception from the District of Columbia abortion law as that law was silent on placement of the burden. The Court used both statutory interpretation and policy factors concerning physicians in finding that the Legislature could not have intended to place the burden on a doctor to show his exemption from the statute. The Court stated:
+"Placing such a burden of proof on a doctor would be peculiarly inconsistent with society’s notions of the responsibilities of the medical profession. Generally, doctors are encouraged by society’s expectations, by the strictures of malpractice law and by their own professional standards to give their patients such treatment as is necessary to preserve their health. We are unable to believe that Congress intended that a physician be required to prove his innocence.” 402 US 70-71; 91 S Ct 1298-1299; 28 L Ed 2d 609.
+The statute in the instant case, however, is materially different in both purpose and form than the one considered in Vuitch, supra. The Uniform Securities Act does not seek to punish defendants for commission of crimes malum in se, but is a broad remedial statute having as its primary purpose the general welfare and protection of the public from deceit and fraud in securities transactions. 69 Am Jur 2d, Securities Regulation: — State, § 1, p 1059. The need to prevent unscrupulous promoters and sellers of securities from perpetrating frauds on an unsophisticated public has required the implementation of safeguards by the legislatures of every state. The validity of one such statutory enactment which placed the burden of proving exemption on a defendant was upheld in Nelson v State, 355 P2d 413, 419 (Okla Crim App, 1960), where the Court stated:
+"Hence, it is apparent that the purpose of the act herein involved is to protect the public against blue-sky promotions and promoters, and other stock transactions not otherwise covered by law. The burden is placed upon the offeror or seller of stock to ascertain if the security may be sold lawfully. The law thus requires registration of the security and the seller to guarantee protection to the public against blue-sky transactions. The presumption necessarily follows that having ascertained that the stock offered or sold falls within the exempt class of securities that matter is peculiarly within the personal knowledge of the offeror or seller. Such being the case, the state is not required to prove a negative which it is the duty of the seller to ascertain before he sells or offers the security for sale. Under these conditions the matter of proving that the security is exempt is an affirmative defense and the burden is upon the defendant to bring himself within the terms of the exemption claimed under the statute. People v Dean, 131 Cal App 228; 21 P2d 126, 128 [1933].”
+The Court in Nelson, supra, was ruling on a securities statute which substantially conforms to the Michigan statute. This Court is in agreement with the above holding and is persuaded that the burden placed on the defendant is not so unfair and constitutionally impermissible so as to void the language placing the burden of proof upon defendant. The Legislature’s intent is made clear in the act and remedial statutes will be liberally construed to give effect to their purpose. Oakland County Treasurer v Auditor General, 292 Mich 58; 290 NW 327 (1940). The presumptions of validity afforded to legislation, Advisory Opinion re Constitutionality of 1972 PA 294, 389 Mich 441; 208 NW2d 469 (1973), have not been overcome by the arguments presented by defendants.
+Defendants next assail the trial judge’s determination that the subject documents were nonexempt from the provisions of the act. MCLA 451.701; MSA 19.776(301) contains the prohibition against the sale of unregistered securities and proscribes as follows:
+"It is unlawful for any person to offer or sell any security in this state unless (1) it is registered under this act or (2) the security or transaction is exempted under section 402.”
+The exemption section is MCLA 451.802(a); MSA 19.776(402)(a) which states in pertinent part as follows:
+"(9) Any negotiable promissory note or commercial paper which arises out of a current transaction or the proceeds of which have been or are to be used for current transactions, and which evidences an obligation to pay cash within 12 months of the date of issuance, exclusive of days of grace, or any renewal of such note or paper which is likewise limited, or any guarantee of such note or paper or of any such renewal.”
+The Uniform Securities Act, however, does not provide a definition of commercial paper as it is to be used in the exemption statute set forth above. It was defendants’ theory that the definition of commercial paper could be found in the Uniform Commercial Code. Although the code presents only one meaning of the term, defendants have placed their sole reliance on that meaning and the analysis of the code’s provisions becomes dispositive of the issue before us.
+Article 3 of the Uniform Commercial Code, entitled "Commercial Paper”, defines negotiable instruments in MCLA 440.3104; MSA 19.3104 to be:
+(1) Any writing
+(a) signed by the maker or drawer; and
+(b) contains an unconditional promise or order to pay a sum certain in money and no other promise, order, obligation or power given by the maker or drawer except as authorized by this article; and
+(c) be payable on demand or at a definite time; and
+(d) be payable to order or to bearer.
+It is acknowledged by defendants, and the trial court properly ruled, that the last element was absent from the documents in question. Defendants counter that the definition of commercial paper within Article 3 still applies to an instrument which has not been made "payable to order or to bearer” as long as it is otherwise negotiable within this article. MCLA 440.3805; MSA 19.3805. However, this Court has reviewed the documents and firmly agrees with the trial court’s determination that the documents were still nonnegotiable under Article 3. The essential element of an unconditional promise or order to pay a sum certain, as required by MCLA 440.3104(l)(b); MSA 19.3104(l)(b), is missing. The terms used by a maker og drawer need not contain the magic words "I promise” or "I order” but the language must be more than a mere acknowledgment of an obligation. MCLA 440.3102(l)(c); MSA 19.3102(l)(c). Defendants point to the following language as fulfilling the required promise to pay:
+"This principal sum ($3,000.00) is invested in the Dempster Investment Company at the rate of four (4%) per cent per month interest payable each month on the principal amount ($3,000.00) due February 2nd, 1970.”
+The finding of the trial judge was correct when he ruled that this was not an unconditional promise contemplated by the code. We affirm his holding that the document was nonnegotiable and therefore not commercial paper. While the meaning of the term commercial paper, as used in the blue sky laws, may include documents other than negotiable instruments found in the Uniform Commercial Code we express no opinion on how extensive the scope of the term might be. It is sufficient here that defendants have not presented proof that their documents constitute commercial paper for purposes of MCLA 451.802(a)(9); MSA 19.776 (402)(a)(9).
+Defendants’ final claim on appeal concerns the quantum of proof the trial judge required of them in proving their exemption. We have reviewed the language used by the court and find defendants’ allegation to be without merit.
+Affirmed.
+All concurred.
+MCLA 451.501 et seq.; MSA 19.776(101) et seq.
+MCLA 451.802(d); MSA 19.776(402)(d) states:
+"In any proceeding under this act, the burden of proving an exemption or exception from a definition is upon the person claiming it.”
+MCLA 451.501 et seq.; MBA 19.776(101) et seq.
+MCLA 440.1101 etseq.;MSA 19.1101 etseq.
+By use of the language in MCLA 440.3104(1), "Any writing to be a negotiable instrument within this article * * * ”, the code apparently equates commercial paper with negotiable instruments for purposes of Article 3. The word "article” relates back to § 3101 — entitled commercial paper. Also, MCLA 440.3805; MSA 19.3805 provides as follows:
+"This article (Commercial Paper) applies to any instrument whose terms do not preclude transfer and which is otherwise negotiable within this article but which is not payable to order or to bearer, except that there can be no holder in due course of such an instrument.” (Emphasis supplied.)
