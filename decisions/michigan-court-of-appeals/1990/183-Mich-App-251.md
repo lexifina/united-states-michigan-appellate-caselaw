@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "102537"
+decided: "1990-01-09"
+citations: ["183 Mich. App. 251"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and Mackenzie and R. E. Robinson, JJ."]
+parties: ["COLLIER v WESTLAND ARENA, INC"]
+source_url: "https://static.case.law/mich-app/183/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2337980
+cites_cases: ["142 NW2d 491", "15 Mich App 438", "166 NW2d 661", "169 Mich App 140", "179 Mich App 384", "226 NW2d 681", "3 Mich App 377", "394 Mich 755", "425 NW2d 744", "431 Mich 908", "445 NW2d 525", "57 Mich App 655"]
+---
+
+# Collier v. Westland Arena, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal by leave granted from a Wayne Circuit Court order denying plaintiffs’ posttrial access to a juror’s personal history questionnaire. We reverse in part.
+Plaintiffs filed a personal injury lawsuit arising out of defendant’s alleged negligent operation and supervision of defendant’s roller-skating rink. The case was tried before Wayne Circuit Judge Helene White. In October, 1986, the jury returned a special verdict, finding for defendant on the ground that there was ”no negligence.”_
+On November 26, 1986, plaintiffs moved for judgment notwithstanding the verdict or new trial on grounds unrelated to those claims raised on appeal. That same day, plaintiffs’ counsel sought to examine jury foreman Joseph Buynak’s juror personal history questionnaire. The jury commissioner’s office refused to comply with the request without the permission of Wayne Circuit Court Chief Judge Richard Kaufman.
+Plaintiffs’ counsel presented Chief Judge Kaufman with a consent order and affidavit of counsel alleging that plaintiffs, their counsel, defendant’s chief operating officer, and defendant’s attorney overheard jury foreman Joseph Buynak’s statements during deliberations. Allegedly, it was apparent to plaintiffs and their attorney that Buynak, during deliberations, professed to other jurors to have special knowledge about defendant’s roller rink operation and supervision abilities. This same juror, however, when questioned during voir dire by Judge White, allegedly admitted only that he worked in the pro shop of a skating facility in the past and that he really had no expertise or special knowledge with respect to the actual skating facility itself. Therefore, plaintiffs claimed that as a result of Buynak’s statements during jury deliberations, he totally contradicted his position during voir dire and "took over and controlled the jury deliberations.”
+Chief Judge Kaufman denied plaintiffs’ consent order and informed plaintiffs’ counsel that he must file a motion and present oral argument as to why he should be allowed postjudgment examination of Buynak’s juror questionnaire. Following oral argument, Chief Judge Kaufman denied plaintiffs’ motion.
+On appeal, plaintiffs raise several questions regarding postjudgment opportunity to examine a juror’s personal history questionnaire. Initially we note that this Court has recognized a litigant’s unquestionable right to truthful answers from a prospective juror on voir dire. Gustafson v Morrison, 57 Mich App 655, 663; 226 NW2d 681 (1975), lv den 394 Mich 755 (1975); Citizens Commercial & Savings Bank v Engberg, 15 Mich App 438, 440; 166 NW2d 661 (1968); Clemmons v Super Food Services, Inc, 3 Mich App 377; 142 NW2d 491 (1966). This Court has held that a new trial must be granted when it is shown that a juror gave untruthful answers during voir dire and truthful answers would have revealed grounds for a successful challenge for cause. Gustafson, supra at 664-665; Clemmons, supra at 381-382.
+Plaintiffs’ initial claim is that, under MCR 2.510(C)(1)(d), they had a right to examine juror Buynak’s personal history questionnaire in order to pursue postjudgment relief and were not required to obtain an order before being allowed to examine the questionnaire. Chief Judge Kaufman relied on Wayne County precedent and MCR 2.510(C)(1)(d) coupled with MCR 2.510(C)(2) and (3) for the proposition that the attorney’s right to see the juror questionnaire ends when the trial ends. Thereafter, the attorney may only examine the juror questionnaire pursuant to a court order following a motion for same.
+At the time that Chief Judge Kaufman denied plaintiffs’ request to examine the questionnaire, MCR 2.510(C) provided:
+(1) On completion, the questionnaire shall be filed with the court clerk or the jury board, as designated under subrule (B)(1). The only persons allowed to examine the questionnaire are:
+(a) the judges of the court;
+(b) the court clerk and deputy clerks;
+(c) parties to actions in which the juror is called to serve and their attorneys; and
+(d) persons authorized access by court rule or by court order.
+(2) The attorneys must be given a reasonable time to examine the questionnaires before being called on to challenge for cause.
+(3) The questionnaires must be kept on file for 3 years from the time they are filled out.
+We note that MCR 2.510(C)(2) has been amended to provide for development of model procedures for providing access to juror personal history questionnaires, effective April 1, 1987. The corresponding administrative order requires courts to select and implement one of the model plans within two months after the State Court Administrator issues them. Administrative Order No. 1987-1, 428 Mich cvii.
+Interpretation of a court rule is subject to those principles governing statutory construction. Taylor v Anesthesia Associates of Muskegon, PC, 179 Mich App 384, 386; 445 NW2d 525 (1989). Thus, the court rule should be construed in accordance with the ordinary and approved usage of the language; it should also be construed in light of its purpose and the object to be accomplished by its operation. In re Prichard Estate, 169 Mich App 140, 150-151; 425 NW2d 744 (1988), lv den 431 Mich 908 (1988). In keeping with these principles, we agree with Chief Judge Kaufman’s interpretation of MCR 2.510(C)(1)(d) as it applies to postjudgment requests by a party or counsel to review juror questionnaires. The chief judge properly noted that one purpose of this interpretation is to avoid harassment of jurors following a verdict. This must be considered against a party’s right to seek postjudgment relief. However, there are only limited reasons why parties and counsel need to examine a juror personal history questionnaire following a jury’s verdict. These reasons are generally related to the substantive issues brought out in the prior action.
+Although we agree with Chief Judge Kaufman’s interpretation of MCR 2.510, we disagree that an initial substantive showing must be made to the chief judge, to be followed by a hearing on the merits before the trial judge, in order to obtain the necessary court order to access the juror questionnaire for postjudgment relief. Clearly such an order does not fall within the duties and powers of the chief judge set out in MCR 8.110(E). Deciding motions such as this with regard to access to juror questionnaires is not within Chief Judge Kaufman’s duties or powers. Furthermore, MCR 8.111(D) provides that, subject to subrule 8.110(E) (2), if an action arises out of the same transaction or occurrence as a civil action previously dismissed or transferred, the action "must be assigned to the judge to whom the earlier action was assigned.”
+In this case, we do not find it unreasonable to expect counsel to present that portion of the voir dire transcript that he was relying upon as being contrary to what was overheard during the jury deliberations in order to sustain his request for access to the juror questionnaire. Clearly there are standards that the moving party must meet in order to obtain such a court order. However, based on the facts and circumstances in this case, we find that the attorney’s affidavit regarding juror Buynak’s alleged statements is sufficient to permit counsel access to Buynak’s juror personal history questionnaire. Accordingly, we remand this case to Judge Helene White for a determination of the issue.
+Affirmed in part, reversed in part, and remanded for proceedings consistent with this opinion. We do not retain jurisdiction.
