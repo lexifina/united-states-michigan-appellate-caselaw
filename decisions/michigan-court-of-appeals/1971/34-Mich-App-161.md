@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "7989"
+decided: "1971-06-02"
+citations: ["34 Mich. App. 161"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhoe, P. J., and McGregor and Levin, JJ.", "All concurred."]
+parties: ["GLINSKI v. CITY OF DETROIT POLICEMEN AND FIREMEN RETIREMENT SYSTEM"]
+source_url: "https://static.case.law/mich-app/34/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2094441
+---
+
+# Glinski v. City of Detroit Policemen & Firemen Retirement System
+
+## Majority (Levin, J.)
+
+Levin, J.
+The Charter of the City of Detroit provides that members of the Detroit Policemen and Firemen Retirement System — i.e., policemen and firemen — “shall” retire upon attaining the age of 60 years. However, on the “written request” of a member and of either the Commissioner of Police or the Board of Fire Commissioners, the Board of Trustees of the System “may” continue a member in active service for a period of two years. A granted two-year extention may be enlarged for two more years.
+The plaintiff, Raymond John Glinski, became a police officer on November 1, 1934, and rose to the rank of Inspector of Police in charge of the Stationary Traffic Bureau. June 3, 1969, was his sixtieth birthday. Previously he had requested a two-year continuation in service from June 3, 1969, and the Commissioner of Police had recommended that his request be granted.
+A hearing was held by the Board of Trustees of the System. On June 12, 1969, the Board adopted a resolution denying Inspector Glinski’s request. The resolution recites that “during time of furlough, illness, etc. [Glinski] is replaced by a junior officer, who, upon Mr. Glinski’s own admission, is capable of fulfilling his duties” and that “no specific reason was indicated by the Police Commissioner as to why Mr. Glinski should be granted this extension of service”.
+Inspector Glinski filed a complaint for a writ of superintending control and other relief in the circuit court. Both at the circuit court and at the administrative hearings there was testimony that the board had adopted a policy of denying all requests for extension because the dominant opinion of the trustees was that retirement at age 60 should be mandatory. That testimony was contradicted by other evidence tending to show that applications for extension had been granted. The circuit judge sustained the board’s action denying Glinski’s request and dismissed his complaint.
+The public policy of the City of Detroit, as expressed in the charter adopted by the people, is that policemen and firemen shall retire at age 60. While the charter provides that exceptions may be made, it is obvious that an exception cannot be granted as a favor; a request for a continuation in service must be supported by substantial grounds differentiating the case of the officer making the request from those of other officers who are obliged to retire when they become 60 years of age.
+It is not enough that the Commissioner of Police requests or recommends that an officer facing retirement be excepted from the general requirement that policemen and firemen are to retire at age 60. The board of trustees, not the commissioner, has the authority to decide whether a request for an exception should be granted.
+Nor, contrary to a claim made in Glinski’s behalf before the board, is it the burden of the board or the city to present “proofs that in some manner negative the recommendation or the request of the Police Commissioner”. The burden is on the member to support his request with evidence substantiating the grounds he asserts for differentiating his ease from those of others who might also wish to defer their retirement. If the member evidentially supports his request, then it becomes the board’s duty to find the facts and to state reasons for its conclusions.
+Inspector Glinski established that he was in good health and that he was, therefore, physically able to continue to perform the duties assigned to him. While the board might properly refuse to grant a request for continuation not supported by a showing of good health, the good health of the applicant is not an affirmative reason for granting a request. The fact that Glinski’s health was good does not distinguish his case from those of other policemen who might like to be permitted to continue on the active list.
+There was evidence that Glinski was qualified to continue to perform his duties. One would suppose, however, that whenever the police commissioner joins in a request for delayed retirement the officer has performed his duties satisfactorily. That Glinski was qualified by service and experience is not an affirmative reason for granting his request; it is not a reason differentiating his case from those pf other policemen facing retirement who have also performed satisfactorily.
+We can sympathize with Glinski’s plea that “police work is kind of in my blood and I would like to continue”. It is hard to give up one’s life work. Indeed, one of the reasons for establishing a retirement age is the reluctance of many conscientious and able men to retire; unless they are obliged to retire they will continue to hold their positions, limiting the promotional opportunities for younger officers. A desire to continue on the force is not in itself an adequate reason requiring favorable action by the board.
+The board’s finding that when Glinski was on furlough or ill his duties were capably performed by junior officers is supported by Glinski’s candid acknowledgment that two of his lieutenants were competent to take over his job. This is not a case of a man for whom a suitable replacement was not available.
+We do not read the recital in the board’s resolution that “no specific reason was indicated by the Commissioner of Police” as a declaration that on that account the board refused to consider Glinski’s request. We read it, rather, as a comment on Glinski’s proofs. That Glinski’s total failure to show any ground or reason related to the needs of the department for granting his request had not been rectified by a statement by the commissioner of his reasons for joining in the request. That the commissioner, as well as Glinski, had failed to come forward with evidence, or a reason, differentiating Glinski’s case from those of other officers who might like to remain on the active list awhile longer.
+Affirmed. Costs to the defendants.
+All concurred.
+“Any member of the System who shall reach the age of sixty years shall be retired forthwith, or on the first day of the calendar month next succeeding that in which the member shall have reached sixty. On the written request of the member and of the Commissioner of Police or of the Board of Fire Commissioners, as the case may be, the Board of Trustees may continue such member in active service for a period of two years beyond his sixtieth birthday, and on the expiration of such period, on like request, may continue such member for a further period of two years.” Detroit Charter, Title 6, ®h 7, § 1(b).
