@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "128837"
+decided: "1992-12-28"
+citations: ["199 Mich. App. 588"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Sullivan, P.J., and Jansen and R. R. Lamb, JJ."]
+parties: ["MILLS v WHITE CASTLE SYSTEMS, INC"]
+source_url: "https://static.case.law/mich-app/199/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1861040
+cites_cases: ["160 Mich App 251", "167 Mich App 202", "176 Mich App 650", "182 Mich App 546", "188 Mich App 526", "408 NW2d 441", "418 NW2d 381", "421 NW2d 631", "429 Mich 495", "440 NW2d 2", "452 NW2d 872", "470 NW2d 678"]
+---
+
+# Mills v. White Castle Systems, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal as of right from a judgment of no cause of action entered following the jury’s verdict in favor of defendant. The trial followed reversal of the circuit court’s order granting summary disposition for failure to state a claim on which relief could be granted, MCR 2.116(C)(8), and remand from this Court. Mills v White Castle System, Inc, 167 Mich App 202; 421 NW2d 631 (1988). Plaintiffs claim instructional error requiring reversal. We agree, and vacate the judgment and remand for a new trial.
+As they left defendant’s restaurant, plaintiffs were attacked by a group of people who had been drinking and carousing in defendant’s parking lot for at least forty minútes. Defendant did nothing to remove the group from the premises, and its manager refused either to call the police or to allow plaintiffs’ companion to call the police from the telephone on the premises.
+The trial court ruled that plaintiffs failed to state a claim because defendant did not owe plaintiffs a duty to protect them from assaults by third persons, relying on Williams v Cunningham Drug Stores, Inc, 429 Mich 495; 418 NW2d 381 (1988). This Court reversed the summary disposition order, holding that plaintiffs stated a cause of action in negligence. The Court distinguished Williams on two grounds. First, this case, unlike Williams, did not charge the owner with failing to provide security guards. Rather, plaintiffs claimed that defendant had the duty to remove the dangerous condition by ejecting the intoxicated, unruly patrons from the premises. Second, in this case, plaintiffs did not claim that defendant should have intervened once the assault began. Rather, they claimed negligence in failing to summon the police or to allow plaintiffs’ companion to summon help. Mills, supra, p 208.
+At the trial on remand, the court read the standard jury instruction regarding the duty a business owner owes to invitees, SJI2d 19.03. The court also gave a special instruction proposed by defendant, stating the rule in Williams as follows:
+[The] [d]uty of reasonable care a merchant owes a business invitee does not extend to providing armed visible security guards to protect customers from criminal acts of third parties. The merchant is not an insurer of the safety of invitees and for reasons of public policy does not have the responsibility for providing police protection on the business premises.
+The court refused plaintiffs’ request for a special instruction patterned on the prior Mills decision.
+The special instruction, given as the last in a series of instructions relating to negligence, misled and confused the jury with respect to the duty of care owed by defendant to plaintiffs. The confusion likely to result from that instruction requires a new trial because the theories of the parties and the applicable law were not adequately and fairly presented to the jury. Wiegerink v Mitts & Merrill, 182 Mich App 546, 548; 452 NW2d 872 (1990). Plaintiffs neither pleaded nor attempted to prove that defendant had any obligation to provide police protection. It is error to submit an instruction regarding an issue that is not sustained by the evidence or made out by the pleadings. Strach v St John Hosp Corp, 160 Mich App 251, 282; 408 NW2d 441 (1987).
+Defendant argues that plaintiffs failed to preserve this issue for appeal. Plaintiffs’ attorney said he had no objection to the wording of defendant’s proposed special instruction because it accurately stated the law. He argued, however, that without his proposed instruction concerning an exception to the rule of Williams, the instruction misinformed the jury. Plaintiffs also raised the issue in their motion for a new, trial. We believe that the trial court had the opportunity to consider the issue and that it was sufficiently preserved for review. In any event, when a defect in an instruction to which no objection was made pertains to a basic and controlling issue in a case, this Court may address the error in order to avoid manifest injustice. Reisman v Regents of Wayne State Univ, 188 Mich App 526, 532; 470 NW2d 678 (1991). Giving the Williams instruction in this case effectively told the jury that defendant owed no duty to plaintiffs. To allow the verdict to stand under these circumstances would be manifestly unjust.
+We disagree with plaintiffs’ contention that the court also erred in refusing their proposed instruction, which stated specifically that there was a duty to eject unruly patrons and to summon police upon learning of criminal activity. Generally, a trial court is obligated to give additional instructions when requested if the supplemental instructions properly inform with regard to the applicable law and the standard instructions do not adequately cover an area. Sherrard v Stevens, 176 Mich App 650, 655; 440 NW2d 2 (1988). The determination whether the supplemental instructions are applicable and accurate is within the trial court’s discretion. Id. In this case, plaintiffs’ proposed instruction accurately states the law as this Court held in our prior opinion in this case. The instruction was not necessary, however, because the standard jury instruction regarding the duty owed by a business owner to invitees, SJI2d 19.03, adequately covered the area. Thus, whether to give a special instruction regarding the duties recognized in Mills, supra, will be left to the discretion of the trial court on retrial.
+Reversed and remanded for a new trial.
