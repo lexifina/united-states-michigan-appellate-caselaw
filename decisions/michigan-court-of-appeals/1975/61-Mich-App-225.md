@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "19494"
+decided: "1975-05-28"
+citations: ["61 Mich. App. 225"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, P. J., and Bashara and D. E. Holbrook, Jr., JJ."]
+parties: ["HANNA v IVORY"]
+source_url: "https://static.case.law/mich-app/61/cases/0225-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2121874
+cites_cases: ["127 Ohio St 545", "144 NW2d 817", "149 NW2d 210", "180 NW2d 636", "189 NE 647", "24 Mich App 571", "327 Mich 323", "349 Mich 616", "4 Mich App 310", "41 NW2d 884", "6 Mich App 398", "84 NW2d 827"]
+---
+
+# Hanna v. Ivory
+
+## Majority (Danhof, P. J.)
+
+Danhof, P. J.
+Plaintiffs brought an action seeking to recover damages arising out of an injury suffered when Patricia Hanna fell from a pony while riding at defendant’s farm. The jury returned a verdict of no cause of action, and, following denial of their motion for a new trial, plaintiffs appeal. We affirm.
+On October 28, 1968, Patricia Hanna went with a group of girl scouts on an outing to defendant’s farm. They were charged an admission fee, and an additional charge was made for pony rides. The pony rides were conducted by experienced handlers who rode a lead pony followed by two other ponies ridden by the children. Although each rider held the reins of her pony, actual control was maintained by the handler by means of a rope attached to the bridle of the two ponies. While proceeding in this manner, the pony on which Patricia was riding shied and threw her to the ground. She suffered severe internal injuries necessitating the removal of a kidney.
+At trial, plaintiffs contended that the pony ride was operated in a negligent manner. They presented the testimony of a horse expert who believed that effective control over two ponies could not be maintained in the manner provided by the defendant. Defendant offered the testimony of another expert who indicated that proper control could be maintained and that this method of operation had been safely followed for many years. Defendant also argued that the injury was unforeseeable because the pony had never demonstrated a dangerous disposition, and that the girl scouts had been given responsibility for the operation of the farm on the day in question.
+On appeal, plaintiffs contend that the trial court committed reversible error by instructing the jury on the "dangerous propensities” rule as it affects the test for negligence in the control of domestic animals. Plaintiff argues that the question of the dangerous propensity of the pony was never an issue, plaintiffs’ counsel having conceded in his opening statement that the pony was not vicious, but that the sole issue for the jury concerned the negligent operation of the concession by the defendant. The dangerous propensities instruction injected an irrelevant issue into the lawsuit, and, when coupled with the plaintiffs’ opening statement, had the effect of directing a verdict in favor of the defendant.
+This argument, under facts evidencing far less care on the part of the defendant than has been shown here, was rejected in Elias v Hess, 327 Mich 323, 328-329; 41 NW2d 884 (1950). While determining that an instruction concerning defendant’s knowledge of his horse’s vicious propensities was "unnecessary” because plaintiff conceded that the horse was gentle, the Supreme Court concluded that the instruction did not have "the effect of confusing the jury”. "It is not of sufficient importance to warrant the granting of a new trial.” We reach the same conclusion in the present case.
+Plaintiff assigns error in the trial court’s failure to inform counsel of its decision on the proposed instructions before counsel made his final argument to the jury. Where written requests to charge have been filed, the trial court "shall inform counsel of its proposed action on the requests prior to their arguments to the jury”. GCR 1963, 516.1. However, failure to comply with the rule will not constitute reversible error in the absence of a timely objection. Taylor v Hannon-Colvin Post 180 of American Legion, 6 Mich App 398, 403; 149 NW2d 210 (1967).
+The record in the present case discloses that the only objection made by plaintiff’s counsel came when he joined in an objection by defense counsel to the trial court’s failure to indicate what instruction on "the law of animals” it intended to give. The record further indicates that the court had informed both parties that it would instruct in accordance with "the first and second syllabuse” in "the decided case of Riding Academy v Miller”, being Troop A Riding Academy v Miller, 127 Ohio St 545; 189 NE 647 (1934), which concerned the ordinary risk assumed by a rider and which stated a form of the "dangerous propensities” test. The trial court proceeded to give this instruction; the plaintiff suffered no prejudice. Krzeminski v Chuslo, 4 Mich App 310, 316; 144 NW2d 817 (1966).
+On the theory that the girl scout organization was an independent contractor, plaintiffs requested an instruction on the defendant’s duty to supervise the inherently dangerous activities of an independent contractor. This instruction was refused, and plaintiffs now advance the refusal as error. The instruction sought by plaintiffs is appropriate only in cases involving an "inherently dangerous activity”. Bauer v Saginaw County Agricultural Society, 349 Mich 616; 84 NW2d 827 (1957). Plaintiffs have not only failed to establish that riding a pony is a dangerous activity, they concede that the animal involved in this case was not vicious. See generally Prosser, Torts (4th ed), § 71, p 472 and § 76, p 500. A trial court need not instruct the jury on theories which lack an evidentiary foundation. Ruotsala v Holzhauer, 24 Mich App 571, 575; 180 NW2d 636 (1970). We find no error in the failure to instruct the jury in accordance with plaintiffs’ "independent contractor” theory.
+Affirmed. Costs to defendant.
