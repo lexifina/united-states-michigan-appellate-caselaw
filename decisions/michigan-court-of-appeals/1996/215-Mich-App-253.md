@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 158855, 166803"
+decided: "1996-01-23"
+citations: ["215 Mich. App. 253"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Wahls, P.J., and O’Connell and Smolensk!, JJ."]
+parties: ["WELCH v DISTRICT COURT"]
+source_url: "https://static.case.law/mich-app/215/cases/0253-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1869512
+cites_cases: ["174 Mich App 14", "201 Mich App 432", "436 NW2d 70", "443 Mich 426", "445 Mich 209", "505 NW2d 834", "506 NW2d 570", "516 NW2d 54"]
+---
+
+# Welch v. District Court
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from orders of summary disposition for defendants in these claims arising out of civil infractions of the Michigan Vehicle Code. We affirm.
+Plaintiff received a traffic citation for speeding. On June 9, 1989, the district court clerk entered a judgment of civil responsibility and plaintiff paid her fine and costs. Plaintiff did not appeal directly from the judgment entered with regard to her admission of responsibility.
+Over three years later, on July 24, 1992, plaintiff filed suit in the Court of Claims, alleging that the district court did not have jurisdiction over her with regard to the civil infraction. Plaintiff claimed that the probate court had exclusive jurisdiction because she was under the age of Severn teen at the time that the district court entered its judgment. The Court of Claims dismissed plaintiff’s claim, holding that the claim did not satisfy the jurisdictional requirements of the Court of Claims. In the alternative, the Court of Claims held that the district court does have jurisdiction over civil infractions committed by persons under seventeen years of age. In Docket No. 158855, plaintiff appeals from the Court of Claims order granting defendants’ motion for summary disposition.
+On March 31, 1993, plaintiff filed the same claim and requests for relief in the Gratiot Circuit Court. On July 12, 1993, the circuit court granted defendants’ motion for summary disposition, finding that the doctrine of res judicata barred plaintiff’s claim. Plaintiff appeals from this order in Docket No. 166803. The appeals were consolidated.
+i
+Plaintiff argues that the Court of Claims had jurisdiction over her claim. We agree. The Court of Claims has exclusive jurisdiction to hear and determine all claims "against the state and any of its departments, commissions, boards, institutions, arms, or agencies.” MCL 600.6419(l)(a); MSA 27A.6419(l)(a). A complaint seeking money damages against the state, in addition to equitable or declaratory relief, may be filed only in the Court of Claims. Silverman v Univ of Michigan Bd of Regents, 445 Mich 209, 217; 516 NW2d 54 (1994). Because plaintiff sought money damages against agencies of the state in her complaint, the Court of Claims had exclusive jurisdiction to hear plaintiffs claim in Docket No. 158855. Id.
+Despite the error of the Court of Claims, we affirm the order granting defendants’ motion for summary disposition. The Court of Claims recognized that this Court might reverse with regard to the issue of jurisdiction and held in the alternative that the district court has jurisdiction over minors charged with civil infractions for violations of the Michigan Vehicle Code. This Court will not reverse where the right result is reached for the wrong reason. Glazer v Lamkin, 201 Mich App 432, 437; 506 NW2d 570 (1993).
+This alternative holding was correct. The district court has jurisdiction over minors who have committed civil infractions of the Michigan Vehicle Code. MCL 257.741(5); MSA 9.2441(5). In addition, the court rules regarding delinquency proceedings in the probate court state that a delinquency proceeding "means a proceeding concerning an offense by a juvenile” and that an offense by a juvenile means "an act which violates a trafile law other than an offense designated as a civil infraction.” MCR 5.903(A)(3) and (B)(4). Accordingly, it was the district court, and not the probate court, that had jurisdiction to consider plaintiffs civil infraction.
+Alternatively, a party may collaterally attack or challenge subject-matter jurisdiction only on direct appeal. In re Hatcher, 443 Mich 426, 439; 505 NW2d 834 (1993). The Court noted in Hatcher, pp 439-440, that if collateral attacks were possible years after an error was made involving subject-matter jurisdiction, then the trial court’s decisions " 'would forever remain open to attack, and no finality would be possible.’ ” (Citation omitted.)
+A person may appeal from a judgment based on an admission of responsibility for a civil infraction as a matter of right within seven days of the judgment. MCR 4.101(G)(1)(a) and (c). Here, however, plaintiff failed to appeal from the district court’s judgment of civil responsibility regarding the traffic citation. Instead, she collaterally attacked this judgment almost three years later. Because plaintiff has not challenged the citation as "frivolous,” the proceeding was of a class that the district court was authorized to adjudicate, and a direct appeal was available, plaintiff may not now collaterally attack the subject-matter jurisdiction of the district court. Hatcher, supra, p 444. Accordingly, in Docket No. 158855, the Court of Claims did not err in granting defendants’ motion for summary disposition. Id.; Glazer, supra, p 437.
+ii
+Plaintiff argues in Docket No. 166803 that the circuit Gourt erred in granting defendants’ motion for summary disposition. We disagree. Even assuming. arguendo that plaintiffs claim was not barred by res judicata, it had no merit. As stated earlier, the district court specifically has jurisdiction over minors who have committed civil infractions of the Michigan Vehicle Code. MCL 257.741(5); MSA 9.2441(5). In addition, plaintiff cannot collaterally attack the subject-matter jurisdiction of the district court years after a judgment was entered. Hatcher, supra, p 444. Finally, the Court of Claims was the proper court to hear plaintiffs claim. Silverman, supra, p 217. Thus, even assuming that the circuit court erred in deciding defendants’ motion on the basis of res judicata, we would not reverse the court’s decision. Glazer, supra, p 437.
+hi
+Finally, plaintiff argues that the circuit court judge should have disqualified himself because he had a vested income interest. Plaintiff noted that at least seventy-five cents from each fine paid to the district court was allocated to the judicial retirement fund and that the circuit court judge was formerly a district court judge. This question is moot because of our disposition of issue ii. In any case, to preserve for appellate review the issue of a denial of a motion for disqualification of a trial court judge, a party must request referral to the chief judge of the trial court after the trial court judge’s denial of the party’s motion. MCR 2.003(C)(3)(a); Law Offices of Lawrence J Stockler, PC v Rose, 174 Mich App 14, 23; 436 NW2d 70 (1989). Because plaintiff did not seek review of the denial of her motion for disqualification from the chief judge of the circuit court, plaintiff has not preserved this issue for review. Id., p 23.
+Affirmed.
