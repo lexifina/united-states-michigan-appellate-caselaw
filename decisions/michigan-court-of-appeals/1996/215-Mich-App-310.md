@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "180928"
 decided: "1996-02-02"
-citations: ["215 Mich. App. 310", "219 Mich. App. 608"]
+citations: ["215 Mich. App. 310"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["FORD v PIVOT MANUFACTURING COMPANY"]
 source_url: "https://static.case.law/mich-app/215/cases/0310-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1869498
-cites_cases: ["182 Mich App 758", "184 Mich App 101", "187 Mich App 695", "190 Mich App 136", "191 Mich App 443", "198 Mich App 296", "203 Mich App 645", "207 Mich App 1", "208 Mich App 380", "211 Mich App 330", "215 Mich App 310", "215 Mich App 315", "453 Mich 149", "453 NW2d 304", "457 NW2d 68", "468 NW2d 332", "475 NW2d 423", "479 NW2d 12", "497 NW2d 196", "513 NW2d 441", "523 NW2d 818", "528 NW2d 756", "535 NW2d 583", "544 NW2d 770", "551 NW2d 132"]
+cites_cases: ["182 Mich App 758", "184 Mich App 101", "187 Mich App 695", "190 Mich App 136", "191 Mich App 443", "198 Mich App 296", "203 Mich App 645", "207 Mich App 1", "208 Mich App 380", "211 Mich App 330", "453 NW2d 304", "457 NW2d 68", "468 NW2d 332", "475 NW2d 423", "479 NW2d 12", "497 NW2d 196", "513 NW2d 441", "523 NW2d 818", "528 NW2d 756", "535 NW2d 583"]
 ---
 
 # Ford v. Pivot Manufacturing Co.
