@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-1034"
+decided: "1978-01-05"
+citations: ["80 Mich. App. 663"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P. J., and M. F. Cavanagh and N. J. Kaufman, JJ."]
+parties: ["MERRITT v NICKELSON"]
+source_url: "https://static.case.law/mich-app/80/cases/0663-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2160782
+cites_cases: ["122 NW 531", "158 Mich 206", "17 Mich App 672", "170 NW2d 283", "184 Ark 1177", "186 NW2d 563", "2 NW2d 912", "289 NW 293", "291 Mich 678", "301 Mich 43", "331 Mich 123", "384 Mich 616", "45 SW2d 519", "47 P2d 777", "49 NW2d 92", "53 NW 957", "56 NW 16", "8 Cal App 2d 464", "81 Ariz 325", "94 Mich 204", "96 Mich 459"]
+---
+
+# Merritt v. Nickelson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant Marie Ledford appeals as of right from a January 26, 1976, judgment after a nonjury trial in which $137,800 in damages were awarded to plaintiff against both defendants Marie and James Ledford. The trial court found both defendants negligent in the operation of a race track which functioned primarily as a drag strip. Prior to May 6, 1970, defendant Marie Led-ford was the sole owner of the land, approximately 25 acres, on which the drag strip was built. On that date she deeded the property to herself and to her son, defendant James Ledford, as tenants in common by a quitclaim deed for a consideration of $500.
+On May 30, 1970, the first day that the drag strip had been opened to the public, defendant Howard Nickelson, one of the participants at the track, while racing his car, was shifting into third gear when his clutch came apart and the flywheel disintegrated. Pieces of the steel flywheel tore holes in the floorboard and roof of his car; one of the pieces was thrown through the air and injured Alan Merritt, a spectator. Merritt died from the injury.
+The driver of the car, Nickelson, through his insurance company, paid the plaintiffs estate the sum of $8,500.
+Plaintiff, as administratrix of Alan Merritt’s estate, claimed that defendants, Marie and James Ledford, as owners and operators of the track, were negligent in failing to make a safety inspection of the cars and in not requiring that the cars be equipped with a scatter shield for the flywheel. Rules promulgated by the National Hot Rod Association recommend that cars engaged in drag racing have scatter shields to contain pieces of the flywheel in the event it disintegrates. The trial court found both defendants negligent and further held that their negligence was the cause of Mr. Merritt’s death.
+On appeal, defendant Marie Ledford claims that mere ownership of property by one co-tenant is not a sufficient basis on which to impose liability for the negligent acts of another co-tenant. We agree.
+Nothing in the record discloses that Marie Led-ford operated the drag strip: to the contrary, uncontradicted testimony at trial made it clear that Marie Ledford was in no way involved in the operation of the drag strip. She was merely, along with her son, James Ledford, a tenant in common of the property.
+Tenants in common are persons who hold land or other property by unity of possession. When two or more persons are entitled to land in such a manner that they have an undivided possession, but separate and distinct freeholds, they are tenants in common. Not only is the possession of one the possession of all, but the tenants respectively have the present right to enter upon the whole land, and upon every part of it, and to occupy and enjoy the whole. Fenton v Miller, 94 Mich 204; 53 NW 957 (1892), Metcalfe v Miller, 96 Mich 459; 56 NW 16 (1893), Tiffany, The Law of Real Property (3d ed), § 426, p 212.
+Ordinarily, negligence of one co-owner is not imputed to the other co-owner. Mortensen v Knight, 81 Ariz 325; 305 P2d 463 (1956). The fact that one party is a tenant in common with a second party does not ipso facto render the first party liable for acts of the second party when that second party has exclusive control. McDonald v Standard Gas Engine Co, 8 Cal App 2d 464; 47 P2d 777 (1935).
+To argue, as plaintiff does, that a co-owner’s right to possession of the premises is sufficient to hold that co-owner liable for all injuries on the premises is to be simplistic. The issue of control is preeminent.
+"[T]he rights and liabilities arising out of the condition of land, and activities conducted upon it, have been concerned chiefly with the possession of the land * * * for the obvious reason that the man in possession is in a position of control, and normally best able to prevent any harm to others.” Prosser, Law of Torts (3d ed), § 57, p 358. (Footnote omitted.)
+"Possession” differs from the "right to possession” and "ownership” because of the concept of control. Possession is the detention and control of anything which may be the subject of property, for one’s use and enjoyment. Blacks Law Dictionary (4th ed), p 1325. The mere "right to possession” does not necessarily entail the control inherent in the nature of "possession”.
+It has been recognized in this state that control and possession are the determinative factors in the imposition of liability.
+"It is a general proposition that liability for an injury due to defective premises ordinarily depends upon power to prevent the injury and therefore rests primarily upon him who has control and possession.” Dombrowski v Gorecki, 291 Mich 678, 681; 289 NW 293 (1939), citing Bannigan v Woodbury, 158 Mich 206; 122 NW 531 (1909).
+See also Nezworski v Mazanec, 301 Mich 43; 2 NW2d 912 (1942), and Paisley v United Parcel Service, Inc, 17 Mich App 672; 170 NW2d 283 (1969).
+In the instant case, defendant James Ledford had complete control over the drag strip according to trial testimony which plaintiff did not refute. Appellant Marie Ledford was merely a co-owner with no control whatsoever. In analogous situations, owners of land as tenants by the entirety or as joint tenants do not share liability when injury or negligence is attributable to the independent act of a single tenant who has exclusive control of the premises. Dombrowski v Gorecki, supra, Maynard v Hawley, 331 Mich 123; 49 NW2d 92 (1951).
+Kearns v Steinkamp, 184 Ark 1177; 45 SW2d 519 (1932), is characteristic of this class of cases. A husband had constructed and operated a swimming pool owned jointly with his wife. The wife was held to be not liable for injuries to a swimmer using the pool, since she exercised no control over its operation and there was no relation of master and servant or principal and agent subsisting between husband and wife.
+It is likewise true that a tenant in common cannot be held liable for injury caused by a co-tenant who has exclusive control of the object of common ownership.
+"It is a general principle of tort law that a person is liable only as he participates in an activity giving rise to a tort. Mere co-ownership of land standing alone will not subject a person to liability for torts committed in the land by the other co-owners.” Musser v Loon Lake Shores Association, Inc, 384 Mich 616, 622; 186 NW2d 563 (1971).
+Marie Ledford had no control over the condition of the drag strip or the cars driven there. As she did not participate in the operation of the raceway nor have any interest in it other than her status as a tenant in common, she cannot be held liable for injuries which occurred as a result of the race track’s operation.
+We see nothing in the case warranting a new trial. However, plaintiff may have believed that for purposes of liability she need only show that Marie Ledford was a co-tenant of the property. Plaintiff may be able to present evidence which proves that Marie Ledford was more than a mere co-tenant and that she had some degree of possession and control. Mindful of this possibility, we remand this cause for a hearing before the trial judge at which time plaintiff may make an offer of proof of Marie Ledford’s status as possessor and controller of the property.
+Should the offer of proof disclose a possible basis for liability, the judge will reopen the trial on the issue of liability alone. If the judge is satisfied that the proof plaintiff offers will be an insufficient basis on which to find Marie Ledford liable, the judgment of the trial court as to appellant is reversed. In either case, the damages remain the same.
