@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "6,902"
+decided: "1970-05-27"
+citations: ["24 Mich. App. 90"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Levin, P. J., and Holbrook and Bronson, JJ."]
+parties: ["DETROIT AUTOMOBILE INTER-INSURANCE EXCHANGE v. BISHOP"]
+source_url: "https://static.case.law/mich-app/24/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2070735
+cites_cases: ["12 Mich App 145", "185 NE2d 513", "188 So 2d 268", "23 ALR3d 1444", "231 Mich 642", "240 Mich 199", "250 Mich 38", "267 Mich 293", "287 Mich 137", "3 Mich App 478", "317 Mich 281", "318 Mich 384", "326 Mich 441", "351 Mich 622", "356 Mich 318", "367 Mich 560", "38 Ill App 2d 268", "384 Mich 754", "4 Mich App 578", "65 Mich 545"]
+---
+
+# Detroit Automobile Inter-Insurance Exchange v. Bishop
+
+## Majority (Levin, P. J.)
+
+Levin, P. J.
+The plaintiff, an automobile liability insurer, seeks a declaratory judgment that its insured is not covered for a particular loss. It appeals from a judgment declaring that under the terms of the policy and on the facts presented the loss is covered.
+The question concerns the applicability of a policy provision excluding liability as to “any automobile while operated in any pre-arranged race or speed contest.”
+The defendant’s son, age 17, was driving the insured vehicle with his father’s permission. Shortly before the accident the son wagered $3 with two other young men that from a standing start he could drive the vehicle along a two-mile stretch of public highway within an elapsed time of 2 minutes and 15 seconds. While being timed, he accelerated his vehicle and soon attained a speed in excess of 70 miles per hour. He noticed a child in the road, applied the brakes, skidded and struck the child, causing her death. He subsequently was convicted of negligent homicide on his plea of guilty.
+The plaintiff insurer contends that what occurred was a “pre-arranged race or speed contest” within the meaning of the policy and cites Alabama Farm Bureau Mutual Casualty Insurance Co. v. Goodman (1966), 279 Ala.538 (188 So 2d 268). There the Alabama Supreme Court held that an exclusion from coverage of injury or damage “caused by an automobile race or competitive speed contest” eliminated coverage as to a race between an automobile and a bicycle.
+The defendant insured responds that the policy provision in the Alabama case did not contain the word “pre-arranged,” as does the policy in this case, and relies on Country Mutual Insurance Company v. Bergman (1962), 38 Ill App 2d 268 (185 NE2d 513), where the exclusion was of “any prearranged race or competitive speed contest” and where, in holding that the coverage of the policy applied to a race between two automobiles on a public highway, the Illinois Court of Appeals declared (p 517):
+“If the plaintiff had intended to exclude an automobile while being operated in ‘any race or speed test’ it would have been very easy to so provide. Rather, it has seen fit to confine the exclusion to a race which is ‘pre-arranged’ and a speed test which is ‘competitive’.”
+The Illinois Court of Appeals also relied on the fact that the exclusionary language in that case appeared as part of a provision which excluded from coverage an automobile while used as a “public or livery conveyance” (first clause) and “while rented or leased” (third clause) from which the Court inferred that the entire provision concerned business or commercial ventures, and, thus, that the second clause, use of an automobile while being operated in any “pre-arranged race or competitive speed contest,” also concerned only a transaction within the same general subject of commercial activity. The trial judge in the Illinois case had ruled that the “exclusion refers solely to prearranged races or tests of speed such as stock car races or sports car races on a regularly laid-out track and set at a specified time, and that said exclusion in law refers only to automobiles operated in such a sports contest for which profits, awards and gains are available to the winner.”
+In construing the exclusion before us we keep in mind the function of liability insurance. Its purpose is to protect the automobile owner not only from liability for his own negligence but also from liability under the civil liability act for the negligence of others who drive his automobile with his permission. Unfortunately, drag racing on the public highways is a pastime indulged in by many youngsters. Like the Illinois Court of Appeals, we have examined the other exclusions in the policy; none of the other use exclusions appear to expose the owner to such a ruinous liability arising from what is, in many cases, an unprecedented and unpredictable teenage frolic. If this commonplace exposure of parents and other entrustors of automobiles is to be excluded from coverage the policy should, we think, speak more clearly than the one before us.
+For the reasons stated, we have concluded that the exclusion in the policy for a “prearranged race or speed contest” describes a race or speed contest which has been more elaborately planned than the impulsive, spur-of-the-moment race against time which occurred in this case.
+Affirmed. Costs to defendants.
+All concurred.
+7 Blashfield, Automobile Law and Practice, § 292.7, p 219.
+MOLA § 257.401 (Stat Ann 1968 Eev §9.2101).
+Except for the use restrictions applicable to non-owned automobiles, the only other use restrictions in the policy are expressly inapplicable to the “named insured.”
+See Vanderlaan v. Educators Mutual Insurance Company (1959), 356 Mich 318, 323 (“In determining the meaning of ‘traveling as a passenger’ as used in the policy, we must look to all of its related provisions.”); Kalamazoo Auto Sales Co. v. Travelers Insurance Co. (1924), 227 Midi 74, 80 (“The policy is to be considered in its entirety and if it is ambiguous must be construed most strongly against defendant, having been prepared by it.”); Barney v. Preferred Automobile Insurance Exchange (1927), 240 Mich 199, 200 (“Viewing the contract in its entirety, with its various qualifying provisions, we are persuaded that the clause in question is at least obscured to ambiguity tincturing its provisions.”). Cf. Connecticut Indemnity Company v. Nestor (1966), 4 Mich App 578.
+There are countless statements that liability exceptions or exclusions are to be strictly construed against the insurer. See Pawlicki v. Hillenbeck (1930), 250 Mich 38, 43; Bernadich v. Bernadich (1938), 287 Mich 137, 142; Shelby Mutual Insurance Co. v. United States Fire Insurance Company (1968), 12 Mich App 145, 149. See, also, Hooper v. State Mutual Life Assurance Company of Worcester, Massachusetts (1947), 318 Mich 384; Farm Bureau Insurance Company of Michigan v. Pedlow (1966), 3 Mich App 478, 486; Utter v. The Travelers’ Insurance Company (1887), 65 Mich 545.
+See Francis v. Scheper (1949), 326 Mich 441, 447, 448 (“It was incumbent on defendant casualty company, who drafted the poliey, in order to escape liability under the circumstances of this ease, so to draft the poliey as to make clear the extent of nonliability under the exclusion clause.”); similarly, see Century Indemnity Company v. Schmick (1958), 351 Mich 622, 627; New York Life Insurance Co. v. Modzelewski (1934), 267 Mich 293, 296; Allor v. Dubay (1947), 317 Mich 281; Griffin v. General Casualty Surety Co. (1925), 231 Mich 642, 646, 647; Leski v. State Farm Mutual Automobile Insurance Company (1962), 367 Mich 560, 567; Farm Bureau Insurance Company of Michigan v. Pedlow, supra.
