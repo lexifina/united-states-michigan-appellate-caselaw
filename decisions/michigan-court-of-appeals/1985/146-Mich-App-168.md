@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "75938"
+decided: "1985-06-27"
+citations: ["146 Mich. App. 168"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P.J., and M. J. Kelly and J. S. Latreille, JJ."]
+parties: ["CITY OF DETROIT v COLBERT"]
+source_url: "https://static.case.law/mich-app/146/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2259710
+cites_cases: ["115 Mich App 570", "12 ALR3d 1064", "120 NW2d 733", "122 Mich App 750", "143 Mich App 808", "250 NW2d 579", "304 NW2d 455", "321 NW2d 736", "333 NW2d 123", "370 Mich 78", "373 NW2d 219", "410 Mich 616", "417 Mich 1100", "73 Mich App 117"]
+---
+
+# City of Detroit v. Colbert
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This case arises out of the Central Industrial Park project, commonly known as the Poletown Project. See generally, Poletown Neighborhood Council v Detroit, 410 Mich 616; 304 NW2d 455 (1981). Among the parcels condemned by the city was Parcel 899, located at Chene and the 1-94 Expressway and improved by a Boron Oil Company gas station. Boron and the city entered into a consent judgment whereby the city was required to pay Boron $92,960 for the realty and fixtures. Boron had assigned to defendant the right to any recovery for loss of good will, business opportunity, locational advantage or going concern value. Condemnation proceedings were conducted on the sole issue of the amount recoverable by defendant for these assigned interests and the jury returned a verdict of $30,000 from which the city now appeals. We affirm.
+The only valuation evidence introduced at trial was testimony provided by the defendant. The city argues on appeal that the lower court erred by allowing defendant to express an opinion on the good will, locational advantage and going concern value of the Boron station. The city does not argue on appeal that, as a matter of law, defendant is not entitled to compensation for loss of good will, going concern value, locational advantage or business opportunity. See Detroit v Michael’s Prescriptions, 143 Mich App 808; 373 NW2d 219 (1985). Nor does the city contend that the verdict reached by the jury was outside the range of valuation testimony introduced at trial. See State Highway Comm’r v Schultz, 370 Mich 78, 84-85; 120 NW2d 733 (1963); City of Fenton v Lutz, 73 Mich App 117, 124; 250 NW2d 579 (1977). Instead, the city argues only that the admission of opinion testimony by defendant on the issue of valuation was reversible error because a proper foundation had not been laid.
+A review of the defendant’s testimony convinces us that defense counsel laid the requisite foundation, under MRE 602, before eliciting valuation testimony from the defendant. Defendant testified that he was the operator or supervisor of the Boron station from 1974 through 1979. In the course of his association with Boron, defendant had analyzed other gas stations on behalf of the corporation to determine whether the stations should remain open and, if so, whether new managers were needed. In performing these evaluations, defendant considered the number of gallons pumped per month, the location of the station, the flow of traffic and the number of other stations in the area. Defendant also conducted a price survey of all Boron stations on the East side of Detroit and analyzed the potential price and gallon market. The station on Parcel 899 pumped between 130,000 and 180,000 gallons per month or about 1-1/2 million gallons per year. Defendant indicated that this was very high production and attributed it to the large volume of traffic in the area. Defendant further testified that it would cost from $10,-000 to $20,000 tó obtain a comparable station as a commission operator. Finally, defendant opined that the value of his interests in the business was between $30,000 and $35,000.
+While we recognize the self-serving nature of defendant’s valuation testimony, we find that the requisite foundational basis was laid. Neither MRE 602 nor Grand Rapids v H R Terryberry Co, 122 Mich App 750; 333 NW2d 123 (1983), lv den 417 Mich 1100.46 (1983), relied upon by the city, prohibit valuation testimony by the owner of the property simply because of ownership. Defendant’s testimony was sufficient to show that he had personal knowledge of the property interests involved. The city was given ample opportunity to challenge his testimony through cross-examination and the weight to be accorded defendant’s opinion testimony was a matter for the jury. The trial court did not err by admitting into evidence defendant’s valuation testimony.
+The city also challenges defendant’s valuation testimony on the ground that defendant should have been required to provide a precise figure rather than a general range of value, such as $30,000 to $35,000. The city, however, cites no authority in support of its position and provides no policy or rationale for excluding range of value testimoney. However, even assuming that error occurred with the introduction of the range of value testimony, the error is not reversible since the jury returned a verdict for the minimum amount.
+Finally, the city argues that the trial court erred by informing the jury midway through the trial that the city had moved for a mistrial. We have thoroughly reviewed the record and conclude that the city was not denied a fair trial as a result of the court’s instruction. The court directed the jury to consider only the issue of valuation and in no way impugned the competency of either attorney. See Jackson v Depco Equipment Co, 115 Mich App 570; 321 NW2d 736 (1982).
+Affirmed.
