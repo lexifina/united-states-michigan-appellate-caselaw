@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "66786"
+decided: "1983-09-08"
+citations: ["129 Mich. App. 382"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Hood, P.J., and Wahls and M. Dodge, JJ."]
+parties: ["MILLER v DETROIT AUTOMOBILE INTER-INSURANCE EXCHANGE"]
+source_url: "https://static.case.law/mich-app/129/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2253194
+cites_cases: ["314 NW2d 184", "412 Mich 321", "42 ALR3d 229"]
+---
+
+# Miller v. Detroit Automobile Inter-Insurance Exchange
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This action for a declaratory judgment arises from an automobile accident which occurred on October 13, 1978, when a 1967 Ford Mustang, driven by Steven Golemba and owned by William Golemba, Jr., left the roadway and collided with a tree. The accident claimed the lives of Steven Golemba and plaintiffs’ decedent, Mary Elizabeth Miller, a passenger in the vehicle, and resulted in serious injuries to plaintiff Mark Miller, also a passenger in the vehicle. The Ford Mustang was insured by defendant under policy no. 4 1121565, with limits of $20,000 for liability to third persons and $40,000 per accident. At the time of the accident, William Golemba, Jr., had insurance coverage with defendant on either two or three other vehicles owned by him under policies with identical terms.
+Plaintiffs commenced an action against William Golemba, Jr., which terminated in a consent judgment pursuant to which plaintiff Mark Miller and plaintiffs Douglas and Claudia Miller, as co-administrators of the estate of Mary Elizabeth Miller, were each to receive $20,000, the policy limit from the policy covering the Ford Mustang.
+In the consent judgment the defendant insurer agreed to litigate the question of whether plaintiffs were entitled to recover under the policies covering the other automobiles owned by William Golemba, Jr., which were not involved in the accident. Plaintiffs subsequently filed this action seeking a declaration of whether they could "stack” the policies covering the other automobiles with the policy insuring the Ford Mustang. The trial court entered judgment in favor of defendant, holding that Steven Golemba was not covered under the other policies, since he was not driving an "owned” or "non-owned” automobile, as required by the terms of those policies. Plaintiffs appeal as of right.
+The policy of insurance written on each of the vehicles owned by William Golemba, Jr., states that coverage is provided for injuries to persons or property
+"arising out of the ownership, maintenance, or use, including the loading or unloading thereof, of the owned automobile or of any non-ówned automobile”.
+An "owned” automobile is defined as "the vehicle described in the Declaration Certificate”.
+A "non-owned” automobile is described as
+"any automobile or trailer, other than a temporary substitute automobile, not owned by, furnished or available for the frequent or regular use of the named insured, relative or other resident of the same household of such named insured, however, an automobile or trailer rented or leased by the named insured or relative for a continuous period of 30 days or less shall not be deemed to be furnished or available for frequent or regular use.”
+The Ford Mustang was not an "owned automobile” under the policies written for the other vehicles owned by William Golemba, Jr., because it was not described in the Declaration Certificate of those policies. The Mustang was not a "non-owned automobile” under these policies because it was owned by the named insured, William Golemba, Jr. Accordingly, the clear language of the policies insuring the other automobiles owned by William Golemba, Jr., does not provide coverage for the accident involving the Ford Mustang.
+Plaintiffs, however, rely on State Farm Mutual Automobile Ins Co v Ruuska, 412 Mich 321; 314 NW2d 184 (1982), in support of their contention that the policies covering the vehicles, other than the Ford Mustang, owned by William Golemba, Jr., are not enforceable as written. The facts in Ruuska, indicate that, while driving her father’s car, Gloria Carlson was involved in an accident with a motorcycle driven by Dale Ruuska. Carlson and her father resided in the same household and each owned vehicles insured by plaintiff State Farm. Ruuska sued Carlson. While State Farm did not contest insurance coverage under Carlson’s father’s policy, it contended that it was not liable for residual liability for coverage under Gloria Carlson’s policy by virtue of the policy definition of "non-owned automobile” similar to that in the policies in this case.
+Although four members of the Supreme Court held that the insurer in that case was liable to the parties under the residual liability coverage of Gloria Carlson’s policy they differed as to their rationale.
+Justice Williams, joined by Justices Fitzgerald and Moody, found that the "non-owned automobile” provision was void:
+"Michigan’s no-fault act requires an insurer to provide its insured with residual liability coverage for certain losses caused by 'the use of a motor vehicle’. Therefore, we interpret the no-fault act to preclude an insurer from denying liability coverage to its insured on the basis that the accident involved the insured’s use of a vehicle owned by or registered in the name of a relative residing in the same household or on the basis that the vehicle was furnished or available for the frequent or regular use of the named insured.” State Farm v Ruuska, supra, p 330.
+Justice Levin concurred in the result of Justice Williams’s opinion, that the insurer was liable to the insured, but did not concur with the rationale. He found:
+"The no-fault act does not require residual liability insurance covering all vehicles a person may drive. Residual liability insurance is required for residual tort liability arising out of the ownership, maintenance or use of the vehicle in respect to which a policy is required to be maintained and in effect. An insurer is not required by the no-fault act to provide portable coverage when the owner drives another insured vehicle.
+"The instant exclusion is, however, unenforceable, because it is unconscionable and contrary to the reasonable expectations, of an insured, where the insured, driving an automobile not owned or leased by him, has not been offered by the insurer (or his agent) and has declined to purchase a rider deleting or a specific exception from the exclusion or coverage for 'frequent’ or 'regular’ or other atypical use of non-owned automobiles.” State Farm v Ruusak, supra, pp 342-343.
+Chief Justice Coleman, joined by Justices Kavanagh and Ryan, agreed with Justice Levin that the no-fault act does not require residual liability insurance covering all vehicles a person may drive, but would reverse the Court of Appeals for the reasons that the policy was not ambiguous or contrary to the no-fault act.
+We agree with the defendant and the trial court that the facts of this case are distinguishable from those in Ruuska. As was observed by the lower court, "the decisive factor prompting the rationale of [Justice Williams’s] opinion in Ruuska was that the exclusionary clause therein operated to exclude coverage of an insured policyholder by [her] own policy" In this case, however, the exclusionary clause operates to preclude the "stacking” of benefits under a policy other than the insured’s policy. The issue here was not the "portability” of Steven Golemba’s insurance coverage; he was driving the 1967 Mustang and he was insured as the principal operator under the policy for that vehicle.
+In applying Justice Levin’s "reasonable expectation of an insured” approach to the facts of the instant case, we agree with the trial court that an insured would not reasonably expect coverage from policies issued on vehicles not involved in the accident. While it may be reasonable for a policyholder, such as Gloria Carlson, to expect portable coverage under her own policy, it would not be reasonable for a policyholder or an additional insured to expect coverage with respect to the liability of a non-policyholder from a policy covering a vehicle not involved in the accident.
+Affirmed.
