@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "58949"
+decided: "1983-03-08"
+citations: ["123 Mich. App. 767"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P.J., and Bronson and Wahls, JJ.", "Wahls, J., concurred."]
+parties: ["GREENTREES CIVIC ASSOCIATION v PIGNATIELLO"]
+source_url: "https://static.case.law/mich-app/123/cases/0767-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2229186
+cites_cases: ["110 Mich App 300", "119 Mich App 806", "120 Mich App 103", "120 Mich App 125", "183 NW2d 796", "1972 PA 294", "208 NW2d 469", "290 NW2d 77", "312 NW2d 238", "327 NW2d 409", "327 NW2d 419", "328 NW2d 1", "384 Mich 378", "389 Mich 441", "94 Mich App 812"]
+---
+
+# Greentrees Civic Ass'n v. Pignatiello
+
+## Majority (Allen, P.J.)
+
+Allen, P.J.
+Defendant Victory Wisdom Nonprofit Housing, Inc., is a Michigan nonprofit corporation and the operator of a licensed adult foster care facility for the care of not more than six adults located at 21225 West Twelve Mile Road in the City of Southfield. The facility is owned by defendants Joseph Pignatiello and Kim D. Rust. Plaintiff Greentrees Civic Association, is a neighborhood association for homeowners in the Green-trees Subdivision, the area immediately adjacent to 21225 West Twelve Mile Road.
+Greentrees Civic Association and intervening plaintiff, City of Southfield, sought to enjoin the use of the facility alleging that: (1) the contemplated use of the facility — to care for mentally ill persons — is prohibited by the Adult Foster Care Facility Licensing Act, MCL 400.701 et seq.; MSA 16.610(51) et seq.; (2) § 3b of the city or village zoning act, MCL 125.583b; MSA 5.2933(2), does not exempt adult foster care facilities licensed under the Adult Foster Care Facility Licensing Act from compliance with the local zoning ordinance and, consequently, the use of the property as an adult foster care facility is precluded by the Southfield zoning ordinance which limits the subject property to single family residential use; and (3) the Adult Foster Care Facility Licensing Act violates the title-object clause of the Michigan Constitution, Const 1963, art 4, § 24, therefore the licensing of defendants’ facility is null and void. The trial court rejected the second and third arguments but ruled in favor of plaintiffs on the first argument. On July 1, 1981, the trial court issued an order permanently enjoining placement of mentally ill persons in the facility. However, the facility could be used to care for aged, emotionally disturbed, developmentally disabled, or physically handicapped adults. Defendants appeal as of right the court’s holding on the first argument; plaintiffs cross-appeal the court’s rejection of their second and third arguments.
+As to the trial court’s holding that the Adult Foster Care Facility Licensing Act prohibits the placement of mentally ill persons in small group homes, we reverse for the reasons set out in Oxford Twp v Dep’t of Social Services; 120 Mich App 103; 327 NW2d 409 (1982).
+As to the trial court’s holding that facilities licensed under the Adult Foster Care Facility Licensing Act are exempt from compliance with the local zoning ordinance, we affirm. Plaintiffs’ claim, that § 3b of the city or village zoning act no longer exempts residential care facilities from compliance with local ordinances, has been rejected by numerous panels of this Court. Dearborn v Dep’t of Social Services, 120 Mich App 125; 327 NW2d 419 (1982); Livonia v Dep’t of Social Services, 119 Mich App 806; 328 NW2d 1 (1982). See, also, Brandon Twp v North-Oakland Residential Services, Inc, 110 Mich App 300; 312 NW2d 238 (1981), and Oxford Twp v Dep’t of Social Services, supra, which rejected the same argument as it applied to the identical language of the Township Rural Zoning Act.
+Finally, the trial court correctly rejected plaintiffs’ claim that the Adult Foster Care Facility • Licensing Act violates the title-object clause of the state constitution. Const 1963, art 4, § 24, provides in part: "No law shall embrace more than one object, which shall be expressed in its title.” The purpose of the constitutional limitation is to insure that both the legislators and the public have proper notice of legislative content and to prevent deceit and subterfuge. Advisory Opinion re Constitutionality of 1972 PA 294, 389 Mich 441, 465; 208 NW2d 469 (1973). However, in effectuating these purposes, the "one object” provision is to be construed reasonably and not in so narrow or technical a manner as to frustrate the legislative intent. Kuhn v Dep’t of Treasury, 384 Mich 378, 387-388; 183 NW2d 796 (1971). An act may contain all matters germane to its object and any provisions which "directly relate to, carry out and implement the principal object”. Advisory Opinion, supra, pp 465-467.
+The purpose of the Adult Foster Care Facility Licensing Act, as stated in its title, is to "provide for the licensing and regulation of adult foster care facilities; to provide for the establishment of standards of care for adult foster care facilities; to prescribe powers and duties of the department of social services and other departments; to prescribe penalties; and to repeal certain acts and parts of acts”. Plaintiffs argue that § 33 of the act, MCL 400.733; MSA 16.610(83), goes beyond the stated purpose by exempting state licensed residential facilities from local building codes. Section 33 provides:
+"This act supersedes all local regulations applicable specifically to adult foster care facilities. Local ordinances, regulations or construction codes regulating institutions shall not be applied to adult foster care large group homes, adult foster care small group homes, or adult foster care family homes. This section shall not be construed to exempt adult foster care facilities from local construction codes which are applicable to private residences.”
+The purpose of § 33, state preemption in regulating adult foster care facilities, clearly relates to the principal object of the act.
+Reversed in part and affirmed in part. Costs to defendants.
+Wahls, J., concurred.
+
+## Concurring in part and dissenting in part (Bronson, J.)
+
+Bronson, J.
+(concurring in part; dissenting in part). I agree with the opinion of the majority in all respects except its holding that the Adult Foster Care Facility Licensing Act permits the placement of mentally ill persons in small group homes.
+I do not find persuasive the analysis of legislative intent in Oxford Twp v Dep’t of Social Services, 120 Mich App 103; 327 NW2d 409 (1982). I cannot accept the contention that "mentally ill” means the same thing as "emotionally disturbed”. See MCL 400.703(4); MSA 16.610(53X4). The fact that "emotionally disturbed” is not defined separately in the act is no reason to equate its use with that of "mentally ill”. Where a term is not defined in a statute, courts must ascribe tó words their plain and ordinary meaning. People v Pettway, 94 Mich App 812, 817; 290 NW2d 77 (1980). In its common usage, "emotionally disturbed” simply does not convey the same meaning that "mentally ill” does. "Mental illness” is defined in the licensing act as "a substantial disorder of thought or mood which significantly impairs judgment, behavior, capacity to recognize reality, or ability to cope with the ordinary demands of life”. MCL 400.705(4); MSA 16.610(55X4). I believe that the Legislature, by using the term "emotionally disturbed”, indicated a less severe degree of impairment.
+I would affirm.
