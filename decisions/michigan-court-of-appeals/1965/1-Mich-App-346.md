@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "96"
+decided: "1965-09-20"
+citations: ["1 Mich. App. 346"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McGregor and Watts, JJ., concurred."]
+parties: ["PULLEY v. DETROIT ENGINEERING & MACHINE COMPANY."]
+source_url: "https://static.case.law/mich-app/1/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1192743
+cites_cases: ["250 Mich 46", "281 Mich 292", "300 Mich 107", "317 Mich 311", "328 Mich 283", "329 Mich 168", "342 Mich 100", "377 Mich 694"]
+---
+
+# Pulley v. Detroit Engineering & Machine Co.
+
+## Majority (J. H. Gillis, P. J.)
+
+J. H. Gillis, P. J.
+The record discloses the following: Plaintiff was born August 21, 1934; graduated from high school in Erin, Tennessee, in 1952; worked in Tennessee for 10 months for the B. E. Goodrich Co. as a paint sprayer; came to Detroit in 1953; worked six months for McLouth Steel as a crane hooker; entered United States Armed Forces October 15, 1954, and was discharged September 1, 1956; went to work for defendant Detroit Engineering & Machine Company on December 3, 1956, as a press operator at a weekly wage, including overtime, of $94.12; on January 9, 1957 plaintiff, who was right-handed, suffered a compensable injury to his left hand, for which he was paid compensation for the specific loss of that hand ; on May 27, 1957, plaintiff returned to work for defendant filling a clerical position in the production control department; said position plaintiff filled was open in that the department manager was seeking an employee; plaintiff continued this employment, except for an eight-month lay off due to lack of work in 1958, until approximately March 1, 1960, at which time he requested and received a 60-day leave of absence after presenting the following letter from his doctor:
+“Bobert Pulley has been under my care for a chronic bronchitis, dizzy spells, and nervousness. He feels that he would improve much faster if he could have a leave of absence from 6 to 8 weeks. This would be beneficial, in my opinion.”
+Plaintiff’s wages in the clerical position at the time of the leave of absence exceeded the wages he received on the date of the injury.
+Plaintiff did not request an extension of the leave of absence, but went to work on May 1, 1960 for Jenkins & Wynn Motor Company in Clarksville, Tennessee, as an assistant to the service manager. His duties entailed the writing up of orders which he would then assign to a mechanic. He was laid off this job three weeks later due to a lack of business. He next worked part time from November 14 to November 30, 1960 at the Erin Dry Cleaners in Tennessee as a pickup and delivery man.
+On or about March 1, 1961 plaintiff returned to Detroit and sought the clerical position with the defendant company which he had left the prior year, but the defendant did not reemploy plaintiff because the position had been filled and there were no other openings in that department. Plaintiff made no effort to locate other employment in Detroit, but filed an application for hearing and adjustment of claim on March 18, 1961, contending that he was totally disabled from doing common labor. The hearing referee found that plaintiff was totally disabled and awarded compensation benefits. From this determination defendant appealed to the workmen’s compensation appeal board which reversed the determination of the hearing referee and denied further compensation benefits to plaintiff.
+The issue before this Court is whether there was sufficient evidence to support a finding by the workmen’s compensation appeal board that plaintiff has established a wage-earning capacity equal to that which he had at the time of injury.
+The review by the appeal board is de novo and of law and of fact. Fawley v. Doehler-Jarvis Division of National Lead Company (1955), 342 Mich 100.
+Onr review is limited, in the absence of fraud,’to questions of law. Const 1963, art 6, § 28; CL 1948, § 413.12 (Stat Ann 1960 Eev § 17.186).
+The appeal board found:
+“There is no evidence here that defendant’s failure to rehire this plaintiff was due to any reason other than having no work available for him. Plaintiff has offered no proof whatever of having been rejected for work by any prospective employer because of work limitation attributable to his injury. The record is barren of any basis upon which to predicate a wage loss which would entitle him to further compensation benefits.” I
+The plaintiff does not allege fraud in the findings of the appeal board, but contends that since he was a common laborer when injured, the 25 months of favored work, coupled with positive evidence that the employer had no work for plaintiff in March of 1961 is legally insufficient to support the findings of the appeal board.
+While nondescript, odd lot, or made work cannot establish a wage-earning capacity for a disabled employee, favored work can establish a wage-earning capacity under proper circumstances. Todd v. Hudson Motor Car Company (1950), 328 Mich 283; Pigue v. General Motors Corporation (1947), 317 Mich 311; Markey v. S.S. Peter & Paul’s Parish (1937), 281 Mich 292. Nondescript, odd lot, or made work can be defined as work which normally is not essential to the employer’s regular course of business, whereas favored work can be defined as work which favors the handicap of the injured employee and is necessary to the employer’s regular course of business.
+There are leading compensation cases which have been decided in Michigan which might be labeled the strike case, Pigue v. General Motors Corporation, supra; the leprosy case, Sotomayor v. Ford Motor Company (1942), 300 Mich 107; the bad luck case, Lynch v. Briggs Manfg. Company (1950), 329 Mich 168; the jail case, Neal v. Stuart Foundry Company (1930), 250 Mich 46; and the gambling case, Todd v. Hudson Motor Car Company, supra, among many. These cases support a general rule that where the injured employee is without fault in not reporting for work, he is entitled to compensation, but where work is available and he does not report for work through his own choice, he is not entitled to compensation.
+It is of interest at this point to note that plaintiff’s work record prior to the injury consists of 10 months as a paint sprayer, six months as a crane hooker, and 37 days as a press operator. Since the injury, plaintiff worked 25 months in the clerical position and the first job that he filled after leaving the employment of the defendant was in a clerical position as a write-up man for an automobile repair shop.
+Our review, as previously pointed out, is not de novo and, in the absence of fraud, is confined to questions of law. The appeal board determined and the record substantiates its finding that no basis was shown by plaintiff upon which the board could predicate a wage loss. That determination alone would control this appeal.
+Plaintiff testified that he made no effort to obtain employment of any nature upon his return to Detroit except with defendant company. The board further determined that plaintiff was offered and accepted clerical employment at which he received a wage higher than at the time of the injury, hut that plaintiff voluntarily and for unexplained reasons abandoned this employment for almost one year. This standing alone would again defeat plaintiff’s claim on this appeal, for our Supreme Court has held that where “plaintiff’s employment did not cease by reason of any overt act upon the part of his employer or because of his inability to work by reason of his accidental injury,” he is not entitled to compensation. Pigue v. General Motors Corporation (1947), 317 Mich 311, 318.
+Affirmed. Costs to appellee.
+McGregor and Watts, JJ., concurred.
+Defendant voluntarily commenced paying compensation in accordance with CL 1948, § 412.10 (Slat Ann 1960 Bey § 17.160) which requires the specific payment of 215 weeks of compensation for the loss of a hand.
