@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "1,881"
+decided: "1967-11-16"
+citations: ["8 Mich. App. 116"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lesinski, C. J., and Gilmore, J., concurred."]
+parties: ["BARBER v. VERNON."]
+source_url: "https://static.case.law/mich-app/8/cases/0116-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2062732
+cites_cases: ["169 ALR 605", "274 Mich 598", "291 Mich 375", "348 Mich 464"]
+---
+
+# Barber v. Vernon
+
+## Majority (Quinn, J.)
+
+Quinn, J.
+Plaintiff’s action to recover a real-estate broker’s commission resulted in a jury verdict favorable to him. Defendants’ motion for judgment notwithstanding the verdict or for new trial was denied and they appeal. The various issues raised on appeal will be considered in the order defendants have presented them.
+July 30,1962, defendants executed a 60-day listing-agreement with plaintiff granting him the exclusive right to sell their property for $24,000 on terms with $12,000 down, or upon any other price, terms, or exchange to which sellers might thereafter consent. The agreement contained the following language:
+“If, during said period, the property is sold by you or me or anyone else; or if you or any member of the Saginaw Board of Realtors produce a purchaser ready, willing and able to purchase the property; or if it shall be sold within 6 months after the expiration to any persons with whom you or any member of the Saginaw Board of Realtors has had negotiations for the sale thereof I agree to pay you a commission of 6% upon the purchase price procured for said property. Minimum commission $100. * * *
+“I represent -the title of said property to be a good merchantable title and I will execute and deliver a deed, or land contract, or land contract assignment as shall be required with full covenants of warranty free of all encumbrances except-and furnish abstract and tax history certified to date of sale.”
+September 18, 1962, defendants signed a purchase agreement dated September 17, 1962, for the property listed acknowledging the receipt of a down payment of $500 accompanying an offer to purchase for $23,000 with an additional $7,500 down payment at date of closing sale, with the balance of $15,000 on land contract with interest to be included in monthly payments of $100, or more. (No time limit for closing sale was specified.) This agreement required defendants to furnish an abstract of title and tax history extended to date showing a marketable title, and it further provided:
+“We also agree to pay-, realtor, a commission of $1,150 for negotiating this sale, but if not closed on account of buyer’s default, the commission shall not exceed the amount of the deposit.”
+Thereafter defendants refused to consummate the sale because of an error in their description, unknown to them at the time they signed the listing agreement and the purchase agreement. Plaintiff filed suit for his commission October 25, 1962, and defendants answered October 31, 1962, and admitted executing the listing agreement and the purchase agreement and offered to execute a contract of sale to be fulfilled by' a quitclaim deed conveyance on payment of the contract price. Thereafter, various negotiations took place between the buyer and defendants through their respective attorneys or. the broker. These negotiations included tender of a land contract by the buyer to defendants, the terms of which were identical with the terms set forth in the purchase agreement and which provided for conveyance by quitclaim deed on fulfillment of the contract. This occurred December 13,1962. The buyer made an offer to pay $24,000 cash and accept defendants’ title as it was, which offer was accepted but with conditions never accepted by the buyer. This cash offer was made December 31, 1962, and defendants’ conditional acceptance was made January 4, 1963. About the middle of January, 1963, the buyer purchased other property, as he had to give up possession of his home in Clare, Michigan, which he sold after the purchase agreement was executed.
+During trial, defendants’ counsel attempted to cross-examine the buyer with respect to whether the buyer had ever made a tender of money pursuant to the purchase agreement. On plaintiff’s objection, the trial judge ruled such testimony irrelevant and inadmissible. This is the basis for defendants’ first allegation of error.
+By contract and by law (Advance Realty Company v. Spanos [1957], 348 Mich 464), plaintiff was entitled to his commission when he produced a buyer “ready, willing and able” to purchase within the terms of the listing agreement. Whether he did so is to be determined by the facts existing as of October 25,1962, the date he filed suit. Waubun BeacAssociation v. Wilson (1936), 274 Mich 598. Such facts establish full compliance by plaintiff with all contract terms that had to be met before he was entitled to a commission. The point in the transaction when the question of tender would be material was never reached because defendants wrongfully refused to complete the sale. (See Advance Realty Company, supra, where seller’s refusal to complete sale because of lack of complete title was held wrongful with respect to the broker.) The trial court properly excluded evidence of tender.
+Defendants’ next assertion of error is that the trial court’s instructions were inadequate. First, because “ready, willing and able” were not defined. No objection on this ground was raised below and it cannot be asserted as error now. GOB. 1963, 516.2. In addition the terms “ready, willing and able” have no technical meaning as here used that requires' defining them. Second, defendants’ claim that 3 statements of the conditions under which the jury should find for plaintiff constitutes undue repetition favorable to plaintiff and is reversible error. We do not agree. (See Cook v. Vineyard [1939], 291 Mich 375, where 7 repetitions were held to be not erroneous.)
+Finally, defendants say the trial court committed reversible error in refusing to give an instruction that defendants were excused from.performance of the listing agreement when it was discovered that the abstract could not be certified and they could not produce a marketable title and in refusing to direct a verdict because the purchase agreement provided “if owner is unable to produce a marketable title, the said amount will be refunded.” The first assertion is answered by Advance Realty Company, supra. As to this plaintiff, inability to produce marketable title was no excuse for defendants’ refusal to perform. In the context of the agreement, the language “if the owner is unable to produce a marketable title, the said amount will be refunded” has no application to defendants; it applies to the buyer.
+Affirmed, with costs to plaintiff.
+Lesinski, C. J., and Gilmore, J., concurred.
