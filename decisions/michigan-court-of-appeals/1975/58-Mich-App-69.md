@@ -1,0 +1,50 @@
+---
+court: "Michigan Court of Appeals"
+docket: "18745"
+decided: "1975-01-28"
+citations: ["58 Mich. App. 69"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P. J., and Allen and Peterson, JJ."]
+parties: ["PEOPLE v HAWKINS"]
+source_url: "https://static.case.law/mich-app/58/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2127413
+cites_cases: ["10 NW2d 303", "103 ALR 350", "137 NW 61", "15 Mich App 110", "166 NW2d 298", "169 NW2d 483", "17 Mich App 277", "171 Mich 241", "178 NW2d 516", "181 NW2d 79", "190 NW2d 694", "191 NW2d 155", "193 NW2d 335", "194 NW2d 709", "196 NW2d 827", "205 NW2d 600", "208 NW2d 593", "209 NW2d 533", "217 NW2d 22", "23 Mich App 244", "25 Mich App 132", "299 Mich 141", "299 NW 840", "306 Mich 49", "306 Mich 54", "34 Mich App 19", "34 Mich App 325", "36 Mich App 256", "38 Mich App 437", "386 Mich 551", "391 Mich 323", "410 P2d 838", "44 Mich App 623", "46 Mich App 741", "47 Mich App 454", "49 Cal Rptr 302", "64 Cal 2d 159"]
+---
+
+# People v. Hawkins
+
+## Majority (Peterson, J.)
+
+Peterson, J.
+Defendant was charged with the offense of rape, MCLA 750.520; MSA 28.788, tried by jury, convicted, sentenced to a term of years, and appeals.
+His contention that the prosecutor was guilty of improper argument in personally vouching for his guilt and using inflammatory language is without merit. The prosecutor made no statement of personal belief of guilt but referred only to the testimony of the witnesses; and "disgusting” is not an unfair or inflammatory description of the act of rape. See People v Cowell, 44 Mich App 623, 628; 205 NW2d 600, 603 (1973).
+Defendant asserts error by reference to a statement taken from him by a police officer which was never received in evidence. The sole incident in the presence of the jury occurred with the officer on the witness stand:
+”Q. [Assistant prosecutor]: Did you take any statements from the defendant in this case?
+"A. [Police officer]: Yes, I did.
+”Q. Did you give him his—
+'[A.] Defense counsel: Your Honor, I am going to object to any statements that the defendant made unless there is first a thorough examination or right to cross-examination on a Walker hearing held as to any statements that he might have made.”
+The jury was excused, a Walker hearing was commenced and the defendant’s statement was held inadmissible when it appeared that a constitutional-rights form executed by defendant separately from his statement had been lost. The jury was recalled, instructed to disregard the reference to the statement, and defendant’s motion for a mistrial was denied.
+While reference to the statement was, as it developed, error, we find nothing therein of sufficient gravity to have warranted mistrial. Defendant had made no pretrial motion for suppression of the statement. Having failed to do so, he can hardly accuse the prosecutor of misconduct in commencing an inquiry which appeared proper at the time. Having left the matter until trial, he succeeded in obtaining the exclusion of the statement and a prompt curative instruction from the trial judge. We are satisfied that there was no deliberate misconduct by the prosecutor, and that the error was'harmless beyond reasonable doubt. See People v Wichman, 15 Mich App 110, 116; 166 NW2d 298, 302 (1968); People v Robinson, 386 Mich 551, 562-564; 194 NW2d 709, 712-714 (1972).
+The remaining question is whether there was prejudicial error from the ruling of the trial court in foreclosing impeachment of one of the prosecution witnesses by cross-examination as to his juvenile court record. We do not believe there was.
+On the date in question, the witness, Louis Davis, met the victim of the rape for the first time at a social services agency. They were both in their teens. When they went outdoors to have a cigarette, they were accosted by defendant who threatened them and took them to a nearby vacant house where the rape was committed. The cross-examination of Davis included the following:
+”Q. Have you ever been to juvenile court?
+"A. Yes, I have.
+”Q. For what?”
+At which point an objection by the prosecutor was made and sustained.
+In People v Smallwood, 306 Mich 49; 10 NW2d 303 (1943), a 15-year-old girl made an accusation of rape against her father. Asked on cross-examination if she had not "been in trouble with the juvenile authorities before”, the trial court upheld an objection in reliance on 1929 CL 12834.
+"A disposition of any child under this act, or any evidence given in such case, shall not in any civil, criminal or any other cause or proceeding whatever in any court be lawful or proper evidence against such child for any purpose whatever, except in subsequent cases against the same child under this act.”
+On appeal, a divided court reversed. The majority in effect took judicial notice that young girls often contrive false sexual charges, and said:
+"We can well appreciate the difficulties that the trial judge had with the case, and also the advantage he had of seeing the witnesses. However, this is a case where the word of one person against another is determinative. Although the girl’s waywardness was shown to a certain extent by subsequent testimony, a careful reading of the record does not satisfy us that the entire facts were disclosed. Where the question was so close, all facts pertaining to the credibility of the principal witnesses should have been brought out. * * * [I]n the instant case, the girl has shown both a lack of morals and a hostile motive for having made the charge.” 306 Mich 54-55.
+Based on Smallwood, many recent cases have upheld impeachment of witnesses by cross-examination as to juvenile record, or have reversed for denial of such impeaching cross-examination; however, none of those decisions go so far as to strip the statutory protection from every witness, and rightfully so in view of the purpose of the act. Neither do those decisions purport to limit the usual discretion of the trial judge to control the scope of cross-examination of witnesses. 3 Wig-more, Evidence (3rd ed), § 944, p 495, et seq. People v Layman, 299 Mich 141; 299 NW 840 (1941); People v Davis, 171 Mich 241; 137 NW 61 (1912); People v Lewis, 25 Mich App 132; 181 NW2d 79 (1970); and People v Glover, 47 Mich App 454; 209 NW2d 533 (1973). And cf. People v Jackson, 391 Mich 323; 217 NW2d 22 (1974), as to the exercise of such discretion in the cross-examination of the defendant himself. Thus, the cases have all involved facts similar to Smallwood, allowing impeachment of a complainant in a one-against-one case, or were cases in which the witness was described as a "key witness” or as being a chief witness, indispensable, or otherwise crucial to the case. None of the cases involve a discussion of the duties of the trial judge in exercising his discretion, but we think it implicit in all of them that there is such a discretion which, in criminal cases, is to be exercised in favor of impeaching cross-examination, notwithstanding the protective statute, where the credibility of an accusatory witness is essential to conviction.
+We think it equally clear that in other situations, the trial judge is required to weigh the policy considerations of the statute against the need to attack credibility in the light of all of the circumstances of the case. The preliminary question addressed to the trial judge will be dual in nature, going both to the role of the witness in the trial and to the nature of the juvenile record of the witness. As to the first, the kind of testimony elicited from the witness and its purpose, whether it is accusatory, whether it is direct or circumstantial, whether it is corroborative or cumulative and to what degree, whether the witness is hostile or has an interest in the outcome of the case, are among the factors to be considered. As to the juvenile record, the court should consider not only what conduct was involved, but also the period of time which has since elapsed.
+It is true that in the instant case, the trial judge appears not to have considered such factors, but to have simply responded to an objection. But defense counsel neither asked the trial judge to exercise discretion in allowing such cross-examination nor provided him with an offer of proof upon which to do so. And, even so, the jury had already heard that the witness had been to juvenile court for something. Moreover, the circumstances of this case are quite different from those in Smallwood and the other cases which have since relied on Smallwood. The witness was not an aggrieved complainant or the "key” witness. His testimony was corroborative. Nor is there anything in the record to indicate that the witness was hostile toward defendant or had a motive to favor the victim. Under all the circumstances, we find no error.
+Affirmed.
+Now MCLA 712A.23; MSA 27.3178 (598.23).
+Citing 3 Wigmore, Evidence (3rd ed), p 460, et seq. And see Ballard v Superior Court of San Diego County, 64 Cal 2d 159; 49 Cal Rptr 302; 410 P2d 838 (1966).
+People v Brocato, 17 Mich App 277; 169 NW2d 483 (1969); People v Bol, 23 Mich App 244; 178 NW2d 516 (1970); People v Glover, infra.
+People v Knapp, 34 Mich App 325; 191 NW2d 155 (1971); People v Yacks, 38 Mich App 437; 196 NW2d 827 (1972); People v Meadows, 46 Mich App 741; 208 NW2d 593 (1973); People v Glover, infra.
+People v Davies, 34 Mich App 19; 190 NW2d 694 (1971); People v Basemore, 36 Mich App 256; 193 NW2d 335 (1971).
+While Smallwood presents one extreme, the rape-accuser with an apparent history of sexual misbehavior and ill-will towards the accused, we might hypothecate another extreme, that of a 68-year-old laboratory assistant corroborating the testimony of a co-worker as to chemical analysis and whose impeachment is sought by inquiry into a juvenile court appearance for truancy at age 13. In the latter case, the prevention of the inquiry is as clearly mandated as is allowance of the inquiry in the first case.
