@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "107629"
+decided: "1989-11-14"
+citations: ["182 Mich. App. 188"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Reilly, P.J., and Griffin and T. G. Kavanagh, JJ."]
+parties: ["DeROCCO v HARPER GRACE HOSPITAL"]
+source_url: "https://static.case.law/mich-app/182/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2306219
+cites_cases: ["144 Mich App 272", "173 Mich App 149", "177 Mich App 626", "1986 PA 175", "363 NW2d 641", "375 NW2d 365", "393 NW2d 847", "420 Mich 567", "422 NW2d 688", "424 Mich 859", "426 Mich 223", "430 Mich 326", "433 NW2d 830", "442 NW2d 745"]
+---
+
+# DeRocco v. Harper Grace Hospital
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from the denial of his motion for reconsideration of an order granting summary disposition to defendantappellee. The trial court entered the order based on a finding that defendant-appellee was entitled to governmental immunity. We affirm.
+Plaintiff’s decedent, Josephine DeRocco, underwent a successful heart transplant in June of 1985 at the University of Michigan Health Center. Before her discharge, plaintiff’s decedent’s postoperative drug therapy was supervised by defendantappellee Joseph A. Walton, M.D., a specialist in internal medicine employed at the health center. However, plaintiff’s decedent was subsequently admitted to defendant Harper Grace Hospital, where she died of kidney failure on December 4, 1985.
+Plaintiff filed the instant action in September of 1986. As to defendant-appellee, plaintiff alleged that he negligently prescribed Ketoconazole, an anti-infection drug, after previously giving plaintiff’s decedent Cyclosporin, an antirejection drug. Plaintiff contends that these two drugs had "harmful interacting effects.” Subsequently, in a proposed first amended complaint, plaintiff also alleged that defendant-appellee had failed to properly monitor plaintiff’s decedent’s treatment, thereby allowing a "toxic build up” to go unchecked. However, the trial court denied plaintiff’s motion for leave to file the amended complaint. Plaintiff did not appeal the denial.
+On January 14, 1988, defendant-appellee filed the instant motion for summary disposition. Defendant-appellee asserted that he was entitled to governmental immunity under Ross v Consumers Power Co (On Reh), 420 Mich 567; 363 NW2d 641 (1984), which held that lower level government employees are immune from tort liability if they are (1) acting during the course of their employment and acting, or reasonably believe they are acting, within the scope of their authority, (2) acting in good faith, and (3) performing discretionary, as opposed to ministerial, acts. Following oral argument, the trial court granted defendant-appellee’s motion stating: "[I]t appears to the Court this is discretionary, a discretionary act.”
+On appeal, plaintiff urges that the trial court erred in determining that defendant-appellee’s conduct was discretionary. Plaintiff concedes that the broader decision to provide drug therapy to plaintiffs decedent was discretionary, but maintains that the specific act of negligently prescribing Ketoconazole with Cyclosporin was merely the execution of the decision to provide drug therapy and was thus ministerial. See Tobias v Phelps, 144 Mich App 272, 280-281; 375 NW2d 365 (1985), lv den 424 Mich 859 (1985). We disagree.
+As a preliminary matter, the issue of whether defendant-appellee was negligent is not relevant to the consideration of whether he is entitled to immunity. "The fact that a professional, by choosing to act in a particular manner, may have deviated from professional standards does not, ipso facto, transform a discretionary act into a ministerial one.” Green v Comstock, 177 Mich App 626, 631; 442 NW2d 745 (1989), citing Canon v Thumudo, 430 Mich 326, 334-345; 422 NW2d 688 (1988). Rather, our review "must look to the specific acts complained of.” Green, supra at 630.
+In the instant case, the fact that the decision to administer "drug therapy” preceded the specific prescription of Ketoconazole and Cyclosporin does not mean that the latter act was the execution of the former decision. We note that the execution of a medical decision may involve a series of medical decisions which are themselves discretionary because they require personal deliberation and judgment, "regardless of whether they were undertaken in the course of executing the initial decision.” Green, supra at 631. This principle was relied on by another panel of this Court in Joplin v University of Michigan Bd of Regents, 173 Mich App 149, 154; 433 NW2d 830 (1988). In that case, the plaintiff was injured during a surgical procedure and maintained that the defendant surgeons were not entitled to immunity because the performance of the surgery was merely the execution of the decision to operate. In rejecting this argument, the panel stated that "[a] surgeon does not just decide to operate.” Joplin, supra. Rather, the procedure used to accomplish the surgery requires "a continuing series of decisions.” Id.
+Like the defendant surgeons in Joplin, supra, defendant-appellee in the instant case did not just decide to provide plaintiff’s decedent with postoperative drug therapy. In addition, defendant-appellee made a continuing series of decisions regarding which drugs to prescribe, the time and manner in which they would be administered, and the dosage to be taken. Each of these decisions involved personal deliberation and judgment and thus were discretionary.
+Affirmed.
+The governmental immunity act, MCL 691.1401 et seq.; MSA 3.996(101) et seq., was amended subsequent to the Supreme Court’s decision in Ross, supra. See 1986 PA 175, § 1. This amendment eliminated immunity for governmental agencies, and their employees, with respect to the ownership or operation of hospitals. MCL 691.1407(4); MSA 3.996(107X4). However, this amendment does not apply to cases such as the instant one, wherein the cause of action accrued prior to July 1, 1986, and the complaint was filed after January 22, 1985. Hyde v University of Michigan Bd of Regents, 426 Mich 223, 246; 393 NW2d 847 (1986).
