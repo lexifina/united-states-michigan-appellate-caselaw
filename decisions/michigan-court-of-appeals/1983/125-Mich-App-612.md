@@ -1,0 +1,47 @@
+---
+court: "Michigan Court of Appeals"
+docket: "61888"
+decided: "1983-05-05"
+citations: ["125 Mich. App. 612"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and J. H. Gillis and H. E. Deming, JJ.", "J. H. Gillis, J., concurred."]
+parties: ["WILLIS v TOTAL HEALTH CARE OF DETROIT"]
+source_url: "https://static.case.law/mich-app/125/cases/0612-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2226137
+cites_cases: ["112 Mich App 575", "133 Mich 208", "210 NW2d 137", "241 NW 241", "243 NW2d 907", "256 NW 495", "257 Mich 188", "268 Mich 492", "296 NW2d 265", "31 NW2d 65", "316 NW2d 262", "320 Mich 316", "350 Mich 363", "48 Mich App 67", "68 Mich App 599", "73 ALR2d 403", "86 NW2d 585", "92 ALR2d 533", "94 NW 733", "98 Mich App 414"]
+---
+
+# Willis v. Total Health Care
+
+## Majority (H. E. Deming, J.)
+
+H. E. Deming, J.
+This appeal involves the. grant of an accelerated judgment by the trial court in favor of the sole remaining defendant, Dr. C. L. Sarin.
+The facts as they appear in the pleadings and depositions are as follows: On or about January 22, 1979 (the complaint states January 15, 1979), plaintiff experienced pain in her abdomen and went to the branch office of defendant Total Health Care of Detroit, Inc., hereinafter referred to as Total Health Care. She was an enrollee of Total Health Care. Plaintiff was informed that she might have appendicitis and was told to go to the main office of Total Health Care, on Woodward in Detroit. At this office she was examined by Sarin, a surgeon. He made certain tests and indicated an initial diagnosis of appendicitis. Sarin then made arrangements for plaintiffs admission to St. Joseph Mercy Hospital. Upon her admission her condition was diagnosed as acute appendicitis. Sarin consulted with Dr. Nwosu, a specialist in obstetrics and gynegology. Later, surgery, was performed by Dr. Nwosu with the expectation of performing a hysterectomy, however, he determined there was a ruptured appendix and Dr. Rhee, a surgeon, performed an appendectomy. A further operation was required to remove abdominal abscesses. Plaintiff’s post-discharge follow-up care was by Sarin.
+On June 17, 1979, plaintiff filed her complaint alleging malpractice against Total Health Care, Sarin, the hospital and the other two doctors. She claimed that Sarin was an agent and employee of Total Health Care and that he was acting as such agent and employee within the scope of his authority and duties at the time of the alleged malpractice.
+Total Health Care filed its cross-claim against Sarin. It alleged that a consulting agreement, dated November 9, 1978, was in effect between Total Health Care and Sarin and that in this agreement Sarin promised to indemnify Total Health Care from all malpractice claims arising against Sarin. Total Health Care further alleged that Sarin was an independent contractor rather than its agent or employee. It attached a copy of the agreement to its cross-claim. Sarin’s answer to the cross-claim admitted the execution of the agreement and stated the agreement spoke for itself.
+The cause was referred to mediation. The mediation panel awarded the plaintiff a total of $15,500 and apportioned that amount as follows: Sarin, $8,500, Total Health Care, $3,000 and the other defendants, $4,000. All of the defendants accepted the mediation award except Sarin.
+Plaintiff executed a release in favor of Total Health Care upon plaintiff’s receipt of $3,000. Sarin then moved for leave to amend his answer to include the affirmative defense that plaintiff’s claim against him was barred by said release. Defendant’s motion was granted. He then filed his motion for an accelerated judgment based on said bar. The trial court granted this motion because the trial court found that plaintiff’s only claim against Sarin was based on the fact that Sarin was an agent and employee of Total Health Care.
+It is from this accelerated judgment that plaintiff appeals.
+On appeal, plaintiff has argued that Total Health Care was an active tortfeasor and was actively negligent in the medical care it provided to the plaintiff at its various clinics and also by its personnel who came in contact with her. Plaintiff failed to plead this and, at the time of oral argument on Sarin’s motion for an accelerated judgment, plaintiff insisted the liability of Total Health Care was derivative and that the only reason Total Health Care was involved was because Sarin worked for it. This Court is unable to find any allegations of active negligence of Total Health Care in plaintiff’s pleadings.
+It is plaintiff’s further claim that since the mediators’ award included amounts against both Sarin and Total Health Care the mediators determined Total Health Care committed an independent act of negligence. Plaintiff has failed to cite any law in support of her argument that an award of a mediation panel determines legal liability of parties to a lawsuit. The purpose of mediation is to resolve lawsuits.
+It is plaintiff’s further contention that the cross-claim creates a question of fact whether Sarin was an independent contractor and, therefore, was independently liable for his alleged malpractice. The contractual arrangement between Total Health Care and Sarin would have no bearing on any theory against either Total Health Care or Sarin on any claim brought by plaintiff. Any right of indemnity Total Health Care may have has no effect upon plaintiff’s claim against Total Health Care and Sarin.
+At common law, the release of one of several joint tortfeasors released all other joint tortfeasors. Slater v Ianni Construction Co, 268 Mich 492; 256 NW 495 (1934); Hoban v Ryder, 257 Mich 188; 241 NW 241 (1932); Sunlin v Skutt, 133 Mich 208; 94 NW 733 (1903). Currently in Michigan the release of one of several joint tortfeasors does not release other joint tortfeasors unless the terms of the release so provide. MCL 600.2925d; MSA 27A.2925(4). Michigan case law has recognized that, where a master or principal does not actively participate in the negligent conduct of the servant or agent and the master or principal’s liability is based solely on the doctrine of respondeat superior, the master or principal and servant or agent are not technically joint tortfeasors. Geib v Slater, 320 Mich 316; 31 NW2d 65 (1948), overruled on other grounds Moore v Palmer, 350 Mich 363; 86 NW2d 585 (1957).
+The release of a principal from liability releases the agent. Drinkard v William J Pulte, Inc, 48 Mich App 67; 210 NW2d 137 (1973).
+The trial court must accept well-pleaded facts of the nonmoving party as true for purposes of a motion for an accelerated judgment. Robards v Estate of Kantzler, 98 Mich App 414; 296 NW2d 265 (1980).
+In the instant case the trial court relied upon the pleaded facts of the plaintiff. The trial court relied upon Drinkard, supra, in granting Sarin’s motion.
+It is clear from a reading of the complaint that defendant Total Health Care’s liability was predicated upon the respondeat superior theory incident to the master-servant or principal-agent relationship. When plaintiff released Total Health Care, she effectively released Sarin.
+Affirmed.
+J. H. Gillis, J., concurred.
+
+## Dissent (Danhof, C.J.)
+
+Danhof, C.J.
+(dissenting). The statement of facts contained in the majority opinion accurately sets forth the events which took place below.
+The majority concludes that the release executed by plaintiff in favor of Total Health Care operated to release Dr. Sarin as well. They base their decision on Drinkard v William J Pulte, Inc, 48 Mich. App 67; 210 NW2d 137 (1973), which held that the release of either a master or servant from liability operates to release the other from liability where liability is based on the doctrine of respondeat superior. Assuming that the decision in Drinkard, supra, is still viable following the 1974 amendment to the contribution statute, MCL 600.2925b; MSA 27A.2925(2), I cannot agree that the trial court was correct in granting defendant’s motion for accelerated judgment.
+The pleadings filed by Total Health Care alleged that no master-servant relationship existed between Dr. Sarin and Total Health Care. That allegation was further supported in other parts of the record. In my opinion, the foregoing created an issue of fact concerning whether Total Health Care’s liability was based solely on the doctrine of respondeat superior. Where a factual issue exists, it is improper for the trial court to grant a motion for accelerated judgment. Tonegatto v Budak, 112 Mich App 575, 579; 316 NW2d 262 (1982).
+In addition to the foregoing, even assuming that Total Health Care’s liability was predicated on a respondeat superior theory, it appears that not all of Dr. Sarin’s contact with plaintiff occurred while he was acting on behalf of Total Health Care. It appears that, after plaintiff visited Total Health Care, Dr. Sarin had her transferred to St. Joseph’s Hospital where she was operated on. Plaintiffs follow-up care was also performed by Dr. Sarin. In my opinion, an issue of fact was created concerning whether acts of independent negligence were performed by Dr. Sarin outside of the agency relationship, if any existed, with Total Health Care. This theory avoids the Drinkard, supra, rule. Witucke v Presque Isle Bank, 68 Mich App 599, 611; 243 NW2d 907 (1976).
+I would reverse the trial court’s ruling and remand for trial on the merits.
