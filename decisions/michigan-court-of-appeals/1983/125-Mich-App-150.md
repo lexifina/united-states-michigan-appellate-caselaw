@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "63911"
+decided: "1983-04-20"
+citations: ["125 Mich. App. 150"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P.J., and R. M. Maher and Hood, JJ."]
+parties: ["PEOPLE v KEDZIORA"]
+source_url: "https://static.case.law/mich-app/125/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2226089
+cites_cases: ["101 Mich App 164", "103 Mich App 311", "13 Mich App 75", "163 NW2d 704", "211 NW2d 51", "233 NW2d 22", "247 NW2d 303", "256 NW2d 31", "259 Ind 587", "260 NW2d 58", "271 NW2d 299", "280 NW2d 793", "289 NW2d 674", "290 NE2d 724", "300 NW2d 483", "302 NW2d 862", "331 Mich 490", "395 US 711", "398 Mich 303", "400 Mich 540", "402 Mich 1", "406 Mich 374", "408 Mich 79", "411 Mich 980", "48 Mich App 622", "50 NW2d 137", "60 Mich App 681", "85 Mich App 516"]
+---
+
+# People v. Kedziora
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted by a jury of burning a dwelling house, MCL 750.72; MSA 28.267 (arson), and burning of insured property, MCL 750.75; MSA 28.270. Sentenced to concurrent terms of 3 to 20 years for the former offense and 3 to 10 years for the latter, defendant appeals as of right.
+First, defendant argues that his convictions for both offenses violate the Michigan and federal constitutional prohibitions against double jeopardy. US Const, Am V; Const 1963, art 1, § 15. The double jeopardy clauses prohibit multiple punishments for the same offense. North Carolina v Pearce, 395 US 711; 89 S Ct 2072; 23 L Ed 2d 656 (1969); People v Martin, 398 Mich 303; 247 NW2d 303 (1976). In analyzing whether two offenses of which the defendant stands convicted are the same offense, the Michigan Supreme Court has looked to the facts adduced at trial. People v Stewart (On Rehearing), 400 Mich 540; 256 NW2d 31 (1977); People v Martin, supra; People v Jankowski, 408 Mich 79; 289 NW2d 674 (1980). Depending on the particular facts of the case, when the proof of one offense results necessarily in proof of the other, the two offenses blend together so as to constitute a single criminal act. See People v Stewart (On Rehearing), supra, p 548. This rule applies, however, only where the Legislature did not intend the offenses to be punished separately. Wayne County Prosecutor v Recorder’s Court Judge, 406 Mich 374; 280 NW2d 793 (1979).
+The statute defines burning of insured property as follows:
+"Any person who shall wilfully burn any building or personal property which shall be at the time insured against loss or damage by fire with intent to injure and defraud the insurer, whether such person be the owner of the property or not, shall be guilty of a felony, punishable by imprisonment in the state prison not more than 10 years.” MCL 750.75; MSA 28.270.
+Arson is described in the following statutory language:
+"Any person who wilfully or maliciously burns any dwelling house, either occupied or unoccupied, or the contents thereof, whether owned by himself or another, or any building within the curtilage of such dwelling house, or the contents thereof, shall be guilty of a felony, punishable by imprisonment in the state prison not more than 20 years.” MCL 750.72; MSA 28.267.
+We agree with another panel of this Court that the Legislature did not intend these offenses to be punished separately. People v Hanna, 85 Mich App 516; 271 NW2d 299 (1978).
+We must now decide whether when the jury found that the defendant was guilty of burning insured property it necessarily found that he was guilty of arson. We conclude that it did. On the facts of this case, the insured property set ablaze by defendant was also a dwelling house. See Peo ple v Losinger, 331 Mich 490, 502; 50 NW2d 137 (1951); People v Foster, 103 Mich App 311; 302 NW2d 862 (1981), lv den 411 Mich 980 (1981); People v Reed, 13 Mich App 75, 79; 163 NW2d 704 (1968). Defendant admitted that he lived in the house. Thus, when the jury concluded that the defendant wilfully burned an insured building it concluded necessarily that defendant was guilty of arson. Cf. People v Jankowski, supra, p 92. The two offenses blended into one.
+Defendant suffered two convictions for one offense. His state constitutional right to be free from double punishment was violated as a result. We adhere to this conclusion even though the sentencing court imposed concurrent sentences. A double conviction is "double punishment”:
+"The 'double punishment’ proscribed for committing one offense includes the conviction and not merely the sentence. The second conviction punishes appellant in several ways, including parole considerations, impeachment at subsequent trials, habitual offender treatment, etc. 'We recognize that even the entry of judgment and the imposition of a suspended sentence of imprisonment is additional punishment.’ Thompson v State, 259 Ind 587, 592; 290 NE2d 724, 727 (1972).” People v Martin, supra, pp 310-311.
+Accordingly, we affirm defendant’s conviction on the higher charge of burning a dwelling house and vacate defendant’s conviction on the lower charge of burning insured property. See People v Stewart (On Rehearing), supra, p 550.
+Defendant next argues that the admission of oral testimony relating to defendant’s insurance coverage of the burned property violated the best evidence rule. This evidence is relevant to only the charge of burning insured property. Because we have vacated the conviction on that charge on other grounds, we need not decide this issue.
+Finally, defendant contends that certain remarks made by the prosecutor during closing argument require reversal. During his closing argument, the prosecutor addressed what he believed to be the defense attorney’s attempt to discredit the testimony of two prosecution witnesses. As the prosecutor framed it, the defense’s strategy was to show that these witnesses lied in order to secure a reward offered by the insurance company. To this argument, the prosecutor responded:
+"[T]hey’re not testifying because they wanted that reward, they’re testifying because they have a sense of duty and obligation to come forward with the events that they saw. Those events I described to you. But were they really thinking about a reward? If they wanted money, they could tell you that he went in there, he went in the window, I saw him pour the gasoline around, I saw him put a match to this. They didn’t tell you that, but they told you exactly what they saw. They don’t have any motive to try and lie to you. They’re just citizens doing their sense of duty in the sense of obligation to — telling you what they saw to close this case.”
+Defendant did not object to these remarks and so appellate review is foreclosed unless our failure to consider the issue would result in a miscarriage of justice. People v Duncan, 402 Mich 1, 15-16; 260 NW2d 58 (1977).
+Defendant argues that in these remarks the prosecutor vouched for the credibility of his witnesses. A prosecutor may not vouch for the credibility of his witnesses nor place the prestige of his office behind them. People v Erb, 48 Mich App 622; 211 NW2d 51 (1973); People v Yearrell, 101 Mich App 164; 300 NW2d 483 (1980). The prosecutor in the present case, however, engaged in neither proscribed activity. He merely pointed out to the jury that if the witnesses were lying they would have done a better job of it. The prosecutor only "attempted to call the attention of the jury to the fact that the witnesses were honest, using examples taken from their testimony”. People v Jones, 60 Mich App 681, 686; 233 NW2d 22 (1975). We find no error in this form of argument.
+Vacated in part and affirmed in part.
