@@ -1,0 +1,45 @@
+---
+court: "Michigan Court of Appeals"
+docket: "8175"
+decided: "1971-03-23"
+citations: ["31 Mich. App. 473"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Fitzgerald, P. J., and Y. J. Brennan and T. M. Burns, JJ.", "All concurred."]
+parties: ["BENINCASA v. MIHAILOVICH"]
+source_url: "https://static.case.law/mich-app/31/cases/0473-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2095777
+cites_cases: ["224 Mich 365", "242 Mich 660", "36 Mich 160", "365 Mich 354"]
+---
+
+# Benincasa v. Mihailovich
+
+## Majority (V. J. Brennan, J.)
+
+V. J. Brennan, J.
+This appeal arises out of a suit to foreclose a land contract. From a judgment in favor of the defendant vendee, the plaintiffs appeal.
+The plaintiffs, William and Kathleen Benincasa, were the owners of improved land in Laketon Township on which was situated a motel and a combination bar and restaurant. In 1964, plaintiffs leased the bar and restaurant to William J. Perry and George C. Ollier. The lease gave the plaintiffs a right of first refusal to purchase the goodwill of the business and the class C liquor license. On February 14,1966, plaintiffs entered into a land contract with defendant Mihailovich for the sale of the motel. On the same day, the parties entered into two other agreements. First, Mihailovich executed a document entitled “Security Agreement”, which created a security interest in the furniture, equipment, and fixtures contained in the motel in favor of the plaintiffs. It provided that a default under the land contract was a default under the security agreement. This was intended as additional security for the land contract. Second, the plaintiffs executed a document entitled “Assignment”, in which they assigned their interest in the lease and their right of first refusal to defendant. As part of that same agreement, defendant Mihailovich covenanted as follows:
+“In the event Risto Mihailovich acquires the class ‘C’ liquor license aforementioned and, during the existence of the land contract between the said Risto Mihailovich and William J. Benincasa and E. Kathleen Benincasa, the said Risto Mihailovich should default on his obligations to the said Benincasas, then, and in that event, the Benincasas shall be entitled to purchase from the said Risto Mihailovich all of his right, title and interest in and to said liquor license for a sum identical to that expended by the said Risto Mihailovich in the purchase of said license, unless said Risto Mihailovich shall cure said default in accordance with the terms of said land contract.
+“It is further agreed that so long as William J. Benincasa and E. Kathleen Benincasa have any interest in the Tally-Ho Motel, under the terms of said land contract, Risto Mihailovich agrees that he will not voluntarily dispose of said liquor license.”
+The intent here also was to give the sellers additional security for the debt owing on the land contract.
+Thereafter, Mihailovich did in fact acquire the liquor license, but in December of 1967, he sold his interest in the bar and restaurant and the liquor license to one Volney Swift. The purchase agreement provided:
+“The purchaser [Swift] agrees that he will not attempt to transfer the liquor licenses now in the name of the seller [Mihailovich] from the premises during the original term of such lease or any option term thereof.”
+On March 7, 1968, the plaintiffs instituted the present suit to foreclose the land contract and to force Volney Swift to reassign the liquor license to the plaintiffs. Plaintiffs filed a motion for summary judgment praying for acceleration of the balance due on the land contract as provided therein. Defendants likewise filed a motion for summary judgment. The trial court, having decided that there were no disputed issues of fact, granted the defendants’ motion for summary judgment. As requested by the plaintiffs, however, the court enjoined Swift and Mihailovich from petitioning the Liquor Control Commission to make any further transfers of the license until the plaintiffs are paid or unless they consent thereto. The court stated in its opinion that the vendee had not defaulted in any payments and that the injunction would sufficiently protect the security of the vendors.
+Since it is undisputed that the defendant Mihailovich has breached his promise to refrain from disposing of the liquor license, we must determine whether the plaintiffs were entitled to declare a default and accelerate the balance due under the land contract.
+Looking to the terms of various agreements which comprised the transaction in question, we are unable to find a provision in any of them which states that breach of the above-quoted covenant in the assignment agreement is a default under the land contract. The acceleration clause in the land contract applies only if “the buyer shall fail to perform any of the covenants or conditions contained in this contract”. (Emphasis supplied.) It is clear that such clause is expressly limited to breach of the covenants contained on the face of the land contract itself. Furthermore, the relevant portion of the assignment agreement does not provide for acceleration. It merely recites that the buyer will not dispose of the license hut does not specify what consequences will flow if he does do so. Thus, the parties have made no express provision for acceleration in the case of the defendants’ breach of the covenant against transfer of the liquor license.
+While acceleration clauses in land contracts are clearly valid, Brody v. Crozier (1928), 242 Mich 660, they have been variously described as “harsh,” and “in the nature of a forfeiture or penalty”. In view of the severity of this remedy, we refuse to imply that it exists if the contract between the parties does not provide for it. In an analogous situation where the plaintiffs claimed the right to declare a forfeiture for breach of a covenant, the Court in Hull v. Hostettler (1923), 224 Mich 365, 369, said:
+“But the Lambergs claim that they have a right to declare a forfeiture of the contract because of the breach of this covenant. If it could be said that for this reason they might have such a right, in any ease, they have none in this, because the contract does not give it to them. It declares some causes of forfeiture, but does not include a violation of the non-assignability clause. None can be implied. In view of these facts, if the vendors have any remedy because of the assignment, it is an action for damages for breach of the covenant.”
+This reasoning is equally applicable to the case at bar.
+Finally, we are reluctant to imply an extension of the strict terms of the acceleration clause for yet another reason. When the different agreements entered into by the parties in February, 1967, are viewed as a whole, it is manifest that the emphasis was on the plaintiffs’ remedies in case of a default in the obligation of the land contract. It is for this reason that the “Security Agreement” provided:
+“Default in payment and performance of any of the obligations of the debtor, contained in said land contract, is a default under this agreement.”
+Significantly, at no time did the parties agree that the converse was also true, i.e., a breach of some obligation under one of the personal property security agreements, which provided merely additional security for the same debt, would be a default under the land contract. We must therefore conclude that the parties did not contemplate the result now urged by the plaintiffs.
+Since we hold that the plaintiffs had no right to accelerate the balance due for breach of the covenant not to transfer the license, the lower court was correct in denying their motion for summary judgment.
+The only remaining question, whether the lower court should have ordered Volney Swift to reconvey the license to plaintiffs, is easily answered. That the assignment does not require the defendant to sell the license to the plaintiffs unless there has been a default under the land contract is evident from the language in the assignment to the effect that the default must be cured “in accordance with the terms of said land contract”. The covenant not to transfer the license was not part of the land contract and breach thereof is not a default. Plaintiffs are not entitled to have the license transferred to them.
+From their brief it is clear that the plaintiffs’ main concern is that the liquor license stay on the premises. They argue that the bar is necessary to draw trade for the motel and that without it the motel would suffer a great financial setback. This setback, in turn, would diminish the value of the plaintiffs’ security. We agree with the trial court that under the circumstances of this case the injunction against further transfer of the liquor license from the premises is all the security to which the plaintiffs are entitled.
+For the foregoing reasons, the judgment of the circuit court is affirmed.
+Affirmed.
+All concurred.
+Young v. Zavitz (1961), 365 Mich 354.
+Wilcox v. Allen (1877), 36 Mich 160.
