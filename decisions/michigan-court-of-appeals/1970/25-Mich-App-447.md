@@ -1,0 +1,56 @@
+---
+court: "Michigan Court of Appeals"
+docket: "6,860"
+decided: "1970-07-29"
+citations: ["25 Mich. App. 447"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P. J., and Fitzgerald and Byrns, JJ.", "All concurred."]
+parties: ["CITY OF GRAND RAPIDS v. HARPER"]
+source_url: "https://static.case.law/mich-app/25/cases/0447-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2072714
+cites_cases: ["167 Mich 444", "268 Mich 320", "375 Mich 628"]
+---
+
+# City of Grand Rapids v. Harper
+
+## Majority (Byrns, J.)
+
+Byrns, J.
+This suit in the nature of a mandamus action by the City of Grand Rapids against its comptroller, defendant Richard Harper, resulted from the refusal of the defendant to pay a $2,450 bill for appraisal services of one Thomas Blandford, which services were first authorized and payment later approved and ordered paid unanimously by the City Commission of Grand Rapids.
+Defendant answered the suit to compel payment of the Blandford bill by claiming that he had no duty to issue payment for an invoice “not certified by the claimant and for an item which he cannot verify the existence of, and where he is not permitted access to books, records, or other documents which would enable him to accomplish such verification”.
+On appeal the defendant adds the following defenses : There was no fund designated for payment of the Blandford invoice, and no funds for payment.
+Plaintiff filed for summary judgment alleging that the defendant had failed to state a valid defense and that there was no genuine issue of material fact. The trial court so found and granted the motion for summary judgment and issued a Avrit of mandamus from which the defendant now appeals.
+This is one of six cases pending in Michigan courts growing out of the defendant comptroller’s refusal to pay bills approved by the city commission involving claims of the comptroller as to his function and resulting disputes between the commission and the defendant comptroller.
+In reviewing the granting of the summary judgment, Ave are governed only by what was then before the trial court — the complaint, answer, depositions and affidavits — and not by what the defendant raises in this appeal for the first time.
+The Grand Eapids City Charter sets forth the duties of the comptroller and reads in part as follows :
+“The city comptroller shall issue and sign all checks, drafts, or warrants for payment of money from the city treasury when the expenditure of same shall have been authorized by the city commission and the correct amount certified by the department or officer by whom the expenditure is made.” Section 4(a) of Title VI.
+The charter further provides at Section 4(i) of Title VI:
+“Claims Against City. (i). He shall audit and report, with his recommendations thereon, to the city commission all claims, accounts and demands for indebtedness incurred by the city which shall have been filed with him and which have been approved by the head of the department in Avhich the same was incurred. He shall not approve any such claim, account or demand except claims for salaries of city officials and employees unless the correctness of the same shall have been certified to by the claimant.”
+Also the charter provides at Section 4(f) of Title VI:
+“Audit — Report, (f). He shall examine and audit all accounts against the city and promptly report to the city commission in writing’ any default or delinquency he may discover in the books, records or accounts of any city department. He shall not issue or sign any draft, check or warrant until he has verified the correctness of the account for which the same is issued, neither shall he allow the payment of any account unless the money has been appropriated therefor, nor shall he issue or sign any check, draft or warrant for any account against the city unless sufficient money to pay the same is in the fund on which it is drawn.”
+The charter also provides at Section 12(f) of Title VI:
+“Available Funds Before Purchase, (f). No purchase of supplies or materials shall be made for any department or office until the city comptroller has certified that there is money in a proper fund of such department or office available for the payment of such purchase.”
+The charter makes it expressly mandatory for the comptroller to pay any expenditure when (1) it is authorized or appropriated by the city commission, (2) the amount claimed is certified by the department or officer by whom the expenditure is being made, (3) the correctness is certified by the claimant, (4) there is money in a proper fund available, and (5) he certified and verified the correctness of the amount for which the check is drawn.
+The City Charter of Grand Rapids, however, speaking of the powers of the comptroller and the city commission (seven members) also provides at Section 20 of Title V:
+“69. Expenditure of Monies — Vote Required. Sec. 20. No monies shall be paid out of the city treasury, except in pursuance of appropriations made by law and with the affirmative vote of a majority of the members of the city commission: Provided, that unless a claim for indebtedness incurred by the city shall have been approved by the city comptroller, the city commission shall not order its payment except by the affirmative vote of five of its members. No monies shall be transferred from one fund to another except from the contingent fund after being once appropriated or set apart into a definite fund.”
+In the summary proceedings were there any factual issues to be resolved? The trial court found in the negative. We agree.
+There is no dispute by the defendant that the appraisal service and the bill therefor were expressly and lawfully authorized and ordered by the city commission and the amount was approved by the proper official (city attorney).
+Defendant claimed that the invoice of appraiser Blandford was not “certified or verified.” The trial court and we find that the defendant in his own deposition admitted the invoice was verified or certified by Blandford.
+Defendant claimed that there was no money appropriated to pay the Blandford invoice. This, at best, was a bare conclusion of law by the defendant without supporting facts in his affidavit at the summary judgment proceedings.
+The trial court correctly found from the uncontroverted factual affidavits of City Clerk Weaver and Administrative Assistant Heinrich and other evidence before it that proper appropriation was made for such professional services and further that sufficient funds existed for payment of the Blandford bill which, incidentally, was paid by the city sometime ago. It might also be noted that at the hearing on summary judgment it was known that Bland-ford’s co-appraiser on the same project, one Charles Fuller, was paid $2,600 without objection of defendant comptroller. The payment to Fuller was made from the same designated fund and on the basis of the same appropriation claimed for Blandford. Also, long after the Blandford bill was pending, the city comptroller paid, from the same fund, a $300 payment.
+As stated in Durant v. Stahlin (1965), 375 Mich 628, 640:
+“Once a party is challenged as to the existence of the facts upon which he purports to build his case, the sum and substance of the summary judgment proceeding is that general allegations and notice pleading are not enough. Matters upon information and belief and alleged common knowledge are not enough. That party must come forward with at least some evidentiary proof, some statement of specific fact upon which to base his case. If he fails, the motion for summary judgment is properly granted. In the language of GCR 1963, 117.3:
+“ ‘Judgment shall he rendered forthwith if the pleadings show that any party is entitled to judgment as a matter of law or if the affidavits or other proof show that there is no genuine issue of fact.’ ” (Emphasis supplied.)
+With regard to defendant’s claim that he had additional authority by virtue of his having to verify bills, it should be noted in the context of the authority granted the comptroller by the city charter that verification of the correctness of an account is nothing more than a mathematical calculation, a bookkeeping operation, to determine whether the figures are correct. It is not the making of a qualitative determination of the value of the services rendered as the comptroller-defendant here seeks to do. Unless the arithmetic is now in error, certification is mandatory.
+The claim that the appraisals submitted by Bland-ford were not in the “required standard urban renewal form” not only is the defendant’s bare conclusion, but there is no requirement in the record for that form.
+Claims by the defendant that the appraisal fee was too high and that he had a right to examine the books, records, or other documents relative to the appraisal, which were refused him by the city attorney on the basis that they were confidential since they related to the bases upon which the purchase of the property being appraised would be negotiated, are without merit. The trial court correctly found that no such powers expressly or by implication are given to the comptroller by the city charter.
+The city charter expressly provides in § 1 of Title V, that:
+“51. Legislative and Administrative Powers. Sec. 1(a). The legislative and administrative powers of the city are hereby vested in the city commission, which is authorized to pass all laws and ordinances relating to its municipal concerns, subject to the constitution and general laws of the state and this charter.”
+In Board of Regents of the University of Michigan v. Auditor General (1911), 167 Mich 444, and Auditor General v. Liquor Control Commission (1934), 268 Mich 320, where the auditor general sought some of the additional rights claimed by the defendant here, the court made the point that when the proper governing authority has acted it is not the prerogative of the person having the responsibility to make the payment to challenge or usurp the power of such authority, or assume rights not given his office by refusing to issue the payment.
+Even if there were a material fact dispute raised by defendant, it appears clear to us that when the comptroller, within his actual authority, refuses to pay and approve a claim, § 20 of Title V, supra, gives to the city commission the authority to order payment if five of its seven members so agree. In effect the city charter gives to five or more of the commissioners the power to take over as to such matters, any responsibilities and function of the comptroller, except the issuance of a check, which then becomes mandatory on the part of the comptroller.
+There is no dispute or denial by the comptroller-defendant of the fact that not only by a five-member vote, but actually by a unanimous vote, the city commission ordered the payment of the Blandford invoice. On such basis the summary judgment by the trial court can also be approved for in that event the defendant is obligated to act in accordance with the direction of the city commission.
+Affirmed. No costs, a public question being involved.
+All concurred.
