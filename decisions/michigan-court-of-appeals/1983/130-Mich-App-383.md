@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "65251"
+decided: "1983-11-08"
+citations: ["130 Mich. App. 383"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and Bronson and W. R. Peterson, JJ."]
+parties: ["PEOPLE v HENLEY"]
+source_url: "https://static.case.law/mich-app/130/cases/0383-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2252001
+cites_cases: ["10 L Ed 2d 1272", "114 Mich App 469", "114 Mich App 524", "120 Mich App 241", "252 NW2d 807", "289 NW2d 888", "319 NW2d 518", "319 NW2d 597", "319 NW2d 627", "327 NW2d 455", "33 ALR3d 17", "39 ALR3d 1000", "400 Mich 78", "409 Mich 857", "413 Mich 298", "95 Mich App 152"]
+---
+
+# People v. Henley
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted after a jury trial of armed robbery, MCL 750.529; MSA 28.797. Defendant was sentenced to from 35 to 65 years imprisonment and presently appeals as of right.
+On appeal, defendant argues that the trial court erred in denying his motion for a change of venue. Defendant bases his argument on allegedly negative community sentiment resulting from trials for armed robbery and murder in 1976. Defendant was tried twice on those charges in Genesee County Circuit Court, with hung juries in both instances. Venue was changed to Muskegon County, where the trial also ended in a hung jury. Defendant was finally tried and acquitted of the armed robbery and murder charges in September, 1977, in Ingham County Circuit Court. While there was a good deal of publicity surrounding the previous charges, at the time of the change of venue hearing in this case, only two articles had appeared in the local newspaper concerning the instant armed robbery. The trial judge denied defendant’s motion, but indicated that it could be renewed after jury selection if the defendant felt that an impartial jury had not been selected. Defendant did not question jurors about any pretrial publicity and did not renew his motion.
+A decision to grant a change of venue is within the discretion of the trial court. People v Duby, 120 Mich App 241; 327 NW2d 455 (1982). To warrant a change of venue, defendant must show that there is a pattern of strong community feeling or bitter prejudice against him. People v Prast (On Rehearing), 114 Mich App 469; 319 NW2d 627 (1982). The publicity must be so extensive and inflammatory that jurors could not remain impartial when exposed to it. People v Clay, 95 Mich App 152; 289 NW2d 888 (1980), lv den 409 Mich 857 (1980).
+We find no abuse of discretion in the trial court’s denial of defendant’s motion for a change of venue. Defendant did not establish a pattern of strong community prejudice against him. The record establishes no reason to assume that the jurors selected were exposed to or remembered any of the media coverage of the earlier armed robbery and killings or, if they did, that they would associate such acts with the defendant and be prejudiced against him. Defendant may not avoid his obligation to show a pattern of community prejudice by asserting that he could not question the jurors regarding the earlier media coverage without reminding them of the acts and their connection with the defendant. We are satisfied that questions could have been phrased in a manner calculated to expose preconceived bias without the risk of creating prejudice against defendant.
+Defendant also argues that the trial court erred by admitting testimony that defendant was recognized by one of the restaurant employees because the defendant had robbed the same restaurant one month before the instant occurrence. We disagree. The testimony was properly admitted under MRE 404(b). The identity of the person who robbed the restaurant was the primary issue at trial, since defendant presented an alibi defense. All of the four factors relied upon by the Supreme Court in People v Golochowicz, 413 Mich 298, 309; 319 NW2d 518 (1982), were present in the instant case. The employee’s eyewitness testimony that defendant committed the previous robbery was substantial evidence that defendant perpetrated the prior act. The prior robbery occurred at the exact location, at approximately the same time of day, and was accomplished by two men, as was the present armed robbery. The identity of the robber was highly relevant and the danger of unfair prejudice did not substantially outweigh the probative value of the evidence.
+Defendant’s final argument on appeal is that the trial court erred by allowing an in-court identification of the defendant after what defendant claims was a tainted photographic show-up. We find no error in the identification of defendant by the restaurant employees. Both employees had a good opportunity to observe defendant; they testified that the robbery lasted between five and ten minutes. Each was given nine photographs to examine and each chose defendant’s photograph without hesitation. The officer who conducted the photographic show-up did not indicate that the police had suspects in the case or that he believed the robber’s photograph to be included in the group. Reviewed from the totality of the circumstances, there was nothing improper or suggestive about the photographic show-up. People v Baker, 114 Mich App 524; 319 NW2d 597 (1982). Defendant had no right to counsel at the show-up because defendant was not in custody or the focus of the identification. People v Kachar, 400 Mich 78; 252 NW2d 807 (1977). Further, the record indicates, upon examination of the eight factors set forth in Kachar, supra, pp 95-97, that an independent basis existed for the in-court identification of defendant by the two employees.
+Affirmed.
