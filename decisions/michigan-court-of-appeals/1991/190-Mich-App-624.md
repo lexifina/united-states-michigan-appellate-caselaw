@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "126767"
+decided: "1991-05-02"
+citations: ["190 Mich. App. 624"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Murphy, P.J., and Brennan and Marilyn Kelly, JJ."]
+parties: ["WILLIAMS v CLEVELAND CLIFFS IRON COMPANY"]
+source_url: "https://static.case.law/mich-app/190/cases/0624-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2327566
+cites_cases: ["158 NW 875", "167 NW 925", "174 Mich App 600", "184 Mich App 340", "185 Mich App 90", "192 Mich 385", "201 Mich 540", "201 NW2d 333", "204 NW 107", "218 NW 781", "231 Mich 328", "242 Mich 89", "247 NW2d 288", "270 NW2d 540", "354 Mich 695", "364 NW2d 670", "398 Mich 212", "42 Mich App 203", "421 Mich 641", "436 NW2d 707", "457 NW2d 157", "460 NW2d 235", "85 Mich App 149", "94 NW2d 71"]
+---
+
+# Williams v. Cleveland Cliffs Iron Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals by leave granted from a decision of the Workers’ Compensation Appeal Board finding him not entitled to benefits under the Workers’ Disability Compensation Act. MCL 418.101 et seq.; MSA 17.237(101) et seq. The basis for the finding was that plaintiff was not an employee of defendant Cleveland Cliffs Iron Company. We affirm.
+On appeal, plaintiff argues that the wcab erred in applying the economic reality test to determine whether he was an employee or independent contractor for purposes of the act. He contends alternatively that, if the economic reality test is the correct test, the board applied the wrong version of the test to the facts of this case.
+Plaintiff hauled logs for the Forest Products Division of Cleveland Cliffs. He drove his own truck which he had purchased with financing assistance from Cleveland Cliffs. On October 10, 1980, plaintiff was hit by a log which rolled from his truck while he was unloading at a sawmill. The mill had purchased the logs from Cleveland Cliffs. Plaintiff sustained serious injuries and is now a paraplegic.
+On February 5, 1981, plaintiff filed a claim for disability compensation benefits. Following a hearing, the referee denied the claim concluding that plaintiff was not an employee of Cleveland Cliffs. The wcab affirmed.
+Plaintiff claims that the board erred in applying the economic reality test to determine whether he was an employee or an independent contractor. He contends that the board should have either applied previous Michigan Supreme Court "logging cases” or followed the trend in national law.
+Our review of a decision by the wcab is limited. In the absence of fraud, findings of fact by the board are conclusive and may not be set aside if supported by record evidence. However, we will reverse the wcab’s decision if the board operated within the wrong legal framework or if its decision is based on erroneous legal reasoning. Flint v General Motors Corp, 184 Mich App 340, 343; 457 NW2d 157 (1990).
+In 1959, the Supreme Court made its ruling in Tata v Muskovitz, 354 Mich 695; 94 NW2d 71 (1959). Before that decision, Michigan followed the common-law control test to determine whether an employee-employer relationship existed for the purposes of workers’ compensation. Since Tata, our Supreme Court has consistently used the economic reality test when questions have arisen under workers’ compensation law relative to the existence of an employment relationship. Wells v Firestone Tire & Rubber Co, 421 Mich 641, 647; 364 NW2d 670 (1984); Andriacchi v Cleveland Cliffs Iron Co, 174 Mich App 600; 436 NW2d 707 (1989).
+Plaintiff cites four Supreme Court cases dealing with the relationship between a log hauler and a logging company. He asserts that, in line with these cases, we must find him to be an employee of Cleveland Cliffs. See Dennis v Sinclair Lumber & Fuel Co, 242 Mich 89, 92; 218 NW 781 (1928); Warner v Fullerton-Powell Hardwood Lumber Co, 231 Mich 328, 329; 204 NW 107 (1925); Van Simaeys v George R Cook Co, 201 Mich 540, 546; 167 NW 925 (1918); Tuttle v Embury-Martin Lumber Co, 192 Mich 385, 399; 158 NW 875 (1916). However, each of these cases was decided using the control test, before Michigan abandoned it. The control test is no longer the applicable law or the appropriate test. Tata, supra. The wcab did not err by refusing to treat these "logging” cases as authority.
+Plaintiff also asserts that the wcab should have followed the nationwide trend in the law toward finding owner-drivers in the logging industry to be employees of the logging company. This trend is described by Professor Larson in his treatise on workers’ compensation law. 1C Larson, Workmen’s Compensation Law, § 44.34(e), pp 8-159 to 8-165. However, Michigan law clearly provides that the relationship must be analyzed under the economic reality test. We are unable to adopt the position which Professor Larson identifies as in line with the national trend in face of the clearly stated precedent of our own Supreme Court.
+Plaintiff next asserts that the wcab erred by applying the four-factor economic reality test.
+The economic reality test has been variously described as composed of four factors, eight questions or two basic queries. Askew v Macomber, 398 Mich 212, 217-218; 247 NW2d 288 (1976); McKissic v Bodine, 42 Mich App 203, 208-209; 201 NW2d 333 (1972); Hyslop v Klein, 85 Mich App 149, 153; 270 NW2d 540 (1978). Each approach focuses on the totality of the circumstances to determine whether the person is an employee or an independent contractor. The goal is to establish a rational framework with which to consider and weigh the various factors in a manner consistent with the directive of the Supreme Court. Hyslop, 154. The tests are basically the same and each provides a rational framework. The wcab did not err in applying the four-factor test.
+Plaintiff argues that the wcab misapplied the facts to the law and erroneously determined that he was an independent contractor.
+The test applied by the wcab required consideration of the following factors: (1) control of the worker’s duties, (2) payment of wages, (3) the right to hire, fire and discipline, and (4) performance of the duties as an integral part of the employer’s business toward the accomplishment of a common goal. Askew, 217-218; Derigiotis v JM Feighery Co, 185 Mich App 90, 94; 460 NW2d 235 (1990).
+The evidence showed that plaintiff owned his truck and maintained it. He obtained his own insurance and plates and published his tariffs. He also had his own federal employer’s number. Plaintiff depreciated the truck for tax purposes and claimed expenses for advertising, office and telephone. Cleveland Cliffs did not deduct federal tax or social security from plaintiff’s checks. Plaintiff did not receive benefits available to Cleveland Cliffs’ employees.
+Cleveland Cliffs partially financed plaintiff’s truck in exchange for receiving priority over other hauling jobs for which plaintiff contracted. At all times, plaintiff could and did provide hauling services for others. Cleveland Cliffs did not tell plaintiff what route to take, how to operate his truck or how to stack the logs. After plaintiff was injured, he hired another driver to drive his truck and haul lumber for Cleveland Cliffs. The company paid plaintiff and plaintiff paid the driver. The board’s finding that plaintiff was an independent contractor is supported by the evidence.
+Affirmed.
