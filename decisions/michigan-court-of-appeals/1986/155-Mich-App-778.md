@@ -1,0 +1,53 @@
+---
+court: "Michigan Court of Appeals"
+docket: "87682"
+decided: "1986-11-03"
+citations: ["155 Mich. App. 778"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P.J., and Gribbs and R. I. Cooper, JJ."]
+parties: ["MATZ v DEPARTMENT OF TREASURY"]
+source_url: "https://static.case.law/mich-app/155/cases/0778-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2279422
+cites_cases: ["152 Mich App 476", "279 US 620", "323 US 111", "394 NW2d 451", "441 US 471", "459 US 392"]
+---
+
+# Matz v. Department of Treasury
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondent, the Department of Treasury, appeals from an order of the Michigan Tax Tribunal which directed it to refund $341.33 in 1982 intangibles taxes to petitioner Mary Matz. We affirm.
+The Michigan Tax Tribunal outlined the facts as follows:
+On April 4, 1980, Mary Matz, a resident of the State of Michigan, created the Mary Matz Trust and named First of America Bank-Muskegon, a Michigan corporation with principal offices in Muskegon, Michigan, as Trustee. For tax purposes, Mrs. Matz is deemed the owner of any property held in the Mary Matz Trust and is taxed on the income of the Trust.
+First of America Bank-Muskegon, as Trustee, purchased for Mrs. Matz a number of shares of beneficial interest in the Trust for Short-Term U.S. Government Securities (The Government Trust). The Government Trust is a mutual fund technically described as a no-load, open-end, diversified investment company, established as a Massachusetts Business Trust.
+The Government Trust sells its shares of beneficial interest to the public and invests the proceeds exclusively in short-term United States Government securities. The United States Government securities which The Government Trust holds and the income generated thereby would, without dispute, be exempt under federal law from state taxation of any kind if Mrs. Matz had nominal title to the securities.
+Some of the U.S. Government Securities purchased through the Government Trust are. held pursuant to repurchase agreements, although the repurchase agreements do not change the character of the security as a United States Government security.
+The Government Trust was and is organized and operated in a manner which meets the requirements of Section 851 of the Internal Revenue Code of 1954, as amended, applicable to regulated investment companies. Each year since inception, the entire net income of the Government Trust has been distributed to the holders of its shares of beneficial interest.
+Mrs. Matz filed a Michigan Intangibles Tax Return for the year 1982 on March 14, 1983, and included, as "Income on Assets Taxed at 3Z% [sic]”, distributions of $9,752.27 from the Government Trust to Mrs. Matz. Application of the 3Z% [sic] intangibles tax rate resulted in tax of $341.33 which was paid. Mrs. Matz timely filed an amended Michigan Intangibles Tax Return for 1982 on March 26, 1984, claiming an exemption for the distribution from the Government Trust and a refund of the tax paid. The claim for refund was denied by the Michigan Department of Treasury on April 27, 1984. This action was then timely filed.
+Over fifty Michigan banks on behalf of trust customers and a significant number of Michigan residents have funds exceeding $500 million in the Government Trust or similar trusts.
+On or about February 21, 1984, the Department of Treasury issued Income Tax Bulletin 1984-2, to clarify the tax treatment, under the Michigan Income Tax and Intangibles Tax Acts, of state and federal bonds held by investment companies (Mutual Funds) that are organized as corporations or as Massachusetts business trusts.
+Appellate review of decisions of the Michigan Tax Tribunal is limited. We will not upset the tribunal’s findings of fact if they are supported by competent, material and substantial evidence. In the absence of fraud, we uphold the tribunal’s decision unless the tribunal made a legal error or adopted an erroneous principle. See Zenith Industrial Corp v Michigan Dep’t of Treasury, 152 Mich App 476, 480; 394 NW2d 451 (1986).
+The Michigan intangibles tax act, MCL 205.131 et seq.; MSA 7.556(1) et seq., provides for the imposition and collection of a specific tax upon the privilege of ownership of intangible personal property. "Obligations of the United States, or guaranteed as to principal or interest by the United States, which are exempt from taxation by reason of act of congress” are specifically exempted from the intangibles tax, MCL 205.133(b)(4); MSA 7.556(3)(b)(4).
+One such act of congress, 31 USC 3124, provides, in pertinent part:
+(a) Stocks and obligations of the United States Government are exempt from taxation by a State or political subdivision of a State. The exemption applies to each form of taxation that would require the obligation, the interest on the obligation, or both, to be considered in computing a tax, except—
+(1) a nondiscriminatory franchise tax or another nonproperty tax instead of a franchise tax, imposed on a corporation; and
+(2) an estate or inheritance tax.
+The question presented in this appeal is whether or not, under the Michigan intangibles tax act, respondent may tax shares in a mutual fund which invests only in U.S. government obligations. We hold that it may not.
+Respondent concedes that if petitioner were the owner of United States government securities there would be "no question” that neither the securities nor the income from those securities would be subject to the intangibles tax. It also notes that, if the state were attempting to tax a mutual fund which was the owner of the United States government securities, the securities and the income from those securities would be immunized by federal law and exempt from the intangibles tax. It correctly notes that neither situation is involved in this case.
+However, respondent argues that, in this case, the mutual fund, rather than petitioner and other shareholders of the fund, is the owner of the United States government securities. In its view, petitioner is the owner of shares of the mutual fund. Respondent argues that petitioner "holds shares in the fund in basically the same manner that she would hold shares in . . . any . . . corporate entity” and thus, she has no more ownership right in the products or investments of that corporation than she has in the fund’s ownership of United States government securities. In our view, this argument elevates form over substance.
+The Tax Tribunal noted:
+The investment policies of the Trust, as stated in the prospectus are:
+"The Trust invests in U.S. Government securities that mature in one year or less from the date of acquisition. The U.S! Government securities in which the Trust may invest are either issued or guaranteed by the U.S. Government, its agencies or instrumentalities.”
+The Trust is allowed no discretion to invest in instruments other than U.S. Government securities for its portfolio. U.S. Government securities are the only acceptable investments.
+Congress has acknowledged the basic economic nature of a regulated investment company, or mutual fund, as simply a vehicle for pooled investment.
+Federal courts, too, have refused to elevate form over substance. In Burks v Lasker, 441 US 471; 99 S Ct 1831; 60 L Ed 2d 404 (1979), in the context of a derivative action by shareholders of a regulated investment company and in discussing the congressional policy of the Investment Company Act and the Investment Advisors Act, the Supreme Court defined a mutual fund as "[A] pool of assets, consisting primarily of portfolio securities, and belonging to the individual investors holding shares in the fund.” 441 US 471, 480.
+The Trust is an opportunity for a smaller investor to make a safe, moderate and steady rate of return by buying, through his or her bank and the mutual fund, a combination of tax-exempt United States Government obligations. By and large, only a single security out of all the underlying U.S. Government securities held in the Government Trust would have been financially accessible to Mrs. Matz if she had taken her funds and attempted to invest directly in such securities. By using a vehicle for pooled investment, Mrs. Matz and others like her can pool their funds and buy not one, but a wide combination of, U.S. Government securities.
+The practical reality is that Mrs. Matz owns U.S. Government securities, which are specifically exempt under MCL [205.133(b)(4); MSA 7.556(3)(b)(4)]. To draw a distinction between ownership through a mutual fund and individual direct ownership for tax purposes, ignores the statute granting exemption. "Owner” has been defined and referenced in the Intangibles Tax Act. If ownership of the U.S. obligations was vital to the exemption, it would be stated in the exemption description.
+The Legislature, in granting an exemption for U.S. obligations, has recognized the fact that U.S. Government securities have comparatively lower yields than corporate bonds as a group, but compete for available investment dollars by making up for the lower yield with the fact that the income will be free from state tax. The Supreme Court has identified a Congressional intent to "prevent (state) taxes which diminish in the slightest degree the market value or the investment attractiveness of obligations issued by the United States in an effort to secure necessary credit”. Smith v Davis, 323 US 111, 117; 65 S Ct 157; 89 L Ed 107 (1944); Memphis Bank & Trust Co v Garner, 459 US 392; 103 S Ct 692; 74 L Ed 2d 562 (1983). It is a matter of law as well, that any direct or indirect tax on U.S. Government obligations does have an impact on the market value or the investment attractiveness of the U.S. Government obligations involved. Macallen Co v Massachusetts, 279 US 620; 49 S Ct 432; 73 L Ed 874 (1928). The State of Michigan may not, through the application of this tax to Mrs. Matz, directly or indirectly diminish in the slightest degree the market value or the investment attractiveness of the underlying U.S. Government obligations.
+The impact of the tax is directly traceable to the ownership of, and income derived from, exempt obligations of the United States. We cannot accept the technical distinction between the Trust and its shareholder for the purpose of the application of the Intangibles Tax.
+We conclude that the petitioner is entitled to the Intangibles Tax Act exemption for obligations of the United States Government when the investment is through a mutual fund.
+We agree.
+Affirmed.
