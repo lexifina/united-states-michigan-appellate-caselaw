@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "50649"
+decided: "1981-04-09"
+citations: ["105 Mich. App. 263"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: V. J. Brennan, P.J., and Bronson and Bashara, JJ."]
+parties: ["PEOPLE v LANGE"]
+source_url: "https://static.case.law/mich-app/105/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2189122
+cites_cases: ["167 NW 19", "201 Mich 167", "215 NW2d 166", "228 NW2d 843", "235 NW2d 132", "247 NW2d 840", "254 NW2d 599", "291 NW2d 57", "391 Mich 175", "394 Mich 818", "395 Mich 96", "398 Mich 410", "400 Mich 858", "59 Mich App 88", "74 Mich App 634", "95 Mich App 405"]
+---
+
+# People v. Lange
+
+## Majority (Bronson, J.)
+
+Bronson, J.
+On September 8, 1979, defendant was arrested by Roseville police officers in the parking lot of a 7-11 store. Defendant was wanted in connection with a shooting incident which occurred earlier that day. Following a pat-down search, the officers found a .25-caliber pistol secreted in defendant’s jacket. As a consequence, he was charged with carrying a concealed weapon (CCW), contrary to MCL 750.227; MSA 28.424.
+Defendant waived preliminary examination. On November 28, 1979, the date set for trial, defendant pled guilty to the charge. On December 14, 1979, he was sentenced to a term of imprisonment of from three to five years. Defendant now appeals as of right.
+Defendant’s first contention is that he was denied his right to due process of law because when the trial court took his plea of guilty under advisement it failed to inform him that the guilty plea could be withdrawn prior to its acceptance. GCR 1963, 785.7(6) provides:
+"Setting Aside the Plea. The court may take the plea under advisement.
+"(a) Until the court accepts the plea on the record, the defendant may withdraw it as a matter of right.
+"(b) After the court accepts the plea:
+"(i) the court may set it aside on defendant’s motion; or
+"(ii) the court may sua sponte set it aside, but only with defendant’s consent.”
+Whether the court’s failure to advise defendant of his right to withdraw his guilty plea prior to acceptance entitles him to reversal of his conviction has not been addressed in any previous published opinion of this Court. We hold, however, that the trial court need not advise defendant of this right.
+In Guilty Plea Cases, 395 Mich 96; 235 NW2d 132 (1975), the Michigan Supreme Court wrote an extensive opinion concerning what rights a trial court must advise a defendant he possesses prior to acceptance of his guilty plea. At the same time, the Supreme Court completely revised GCR 1963, 785.7. GCR 1963, 785.7(1) through (4) now imposes various duties on the trial court, including the duty to inform defendants of many significant rights which a plea waives, prior to acceptance of the tendered plea. However, GCR 1963, 785.7(6), contains no directory language. It imposes no duty on the court to inform a defendant of his-right to withdraw his plea prior to acceptance. Instead, it merely establishes for defendants a right of withdrawal.
+Under the doctrine of expressio unius est exclusio alterius, express mention in a statute of one thing implies exclusion of similar things. Marshall v Wabash R Co, 201 Mich 167, 172; 167 NW 19 (1918), Chesapeake & OR Co v Public Service Comm, 59 Mich App 88, 100; 228 NW2d 843 (1975), lv den 394 Mich 818 (1975), Detroit v Muzzin & Vincenti, Inc, 74 Mich App 634, 639; 254 NW2d 599 (1977), lv den 400 Mich 858 (1977). While doctrines of statutory construction are normally applied to effect legislative intent, to the extent that they are helpful in determining the Supreme Court’s intent in promulgating rules of practice and procedure, said doctrines are equally useful. Indeed, doctrines of construction are far more likely to truly advance the Supreme Court’s, as opposed to the Legislature’s, intention in adopting the rules and statutes within their respective powers. While it is presumed that the Legislature knows the principles of statutory construction, People v Hall, 391 Mich 175, 190; 215 NW2d 166 (1974), this presumption is often a mere legal fiction. However, there can be no doubt that the Supreme Court is truly cognizant of these doctrines.
+In the instant case, the court rule under consideration imposes many mandatory duties on trial judges relative to what information they must impart to a defendant before accepting his plea. However, the portion of the rule concerning a defendant’s right to withdraw his plea prior to acceptance is not expressly enumerated as one of the particulars of which a defendant must be informed.
+Moreover, there are obvious differences between the types of information which must be divulged to a defendant under GCR 1963, 785.7(1) through (4) and the right to withdraw a plea before acceptance embodied in GCR 1963, 785.7(6). The former subsections all go to the very integrity of a defendant’s plea — whether it is made with knowledge of its consequences, whether it is truly voluntary, and whether the defendant is actually admitting facts upon which a jury’s finding of guilt could be premised. Subsection 6 of the rule, however, has nothing to do with insuring the plea’s soundness. Instead, it merely gives a defendant an opportunity to change his mind about not requiring the state to present its proofs in a trial. No assertion of innocence need be made for a defendant to avail himself of the rule. A guilty defendant who decides that the prosecution cannot meet its burden of proof in a trial may withdraw his plea prior to its acceptance pursuant to GCR 1963, 785.7(6). The difference in the purposes behind the various subsections of GCR 1963, 785.7 constitutes another compelling reason for rejecting defendant’s claim.
+Defendant next asserts that he is entitled to reversal of his conviction because the trial court did not inform him of the possibility of a consecutive sentence for violation of his Federal parole. We disagree. Defendant was informed that by pleading guilty he would be in violation of his parole and could receive an additional sentence. By so doing, the trial court complied with the requirements of GCR 1963, 785.7(l)(e). People v Boswell, 95 Mich App 405, 410; 291 NW2d 57 (1980), and cases cited therein.
+Defendant lastly submits that his plea was the product of an illusory bargain. Defendant contends that the prosecution’s agreement not to file charges against him as an habitual criminal provided him no benefit because he had no prior felony convictions which could serve as the basis for a supplemental information. Perhaps counsel labors under the misapprehension that the previous felony convictions must have been rendered in Michigan courts. This is not the law. People v Hendrick, 398 Mich 410; 247 NW2d 840 (1976). As counsel, himself, notes in his brief on appeal, defendant had a prior Federal felony conviction and this could have served as the basis for an habitual-criminal prosecution. Moreover, the plea bargain also provided: (1) that defendant’s sentence on the CCW conviction would run concurrently with a sentence imposed in Detroit Recorder’s Court for auto theft and (2) that the prosecution would dismiss two pending felonious assault charges. The prosecution carried out its portion of the bargain in all respects. Defendant received substantial benefit from each aspect of it.
+Affirmed.
