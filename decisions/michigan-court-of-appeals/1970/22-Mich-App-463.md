@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "6,097"
+decided: "1970-03-23"
+citations: ["22 Mich. App. 463"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lbsinski, C. J., and McGregor and V. J. Brennan, JJ.", "All concurred."]
+parties: ["ROSE v. MACKIE"]
+source_url: "https://static.case.law/mich-app/22/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2074004
+cites_cases: ["104 Ariz 518", "132 F2d 850", "132 F2d 852", "214 Mich 410", "228 Mich 542", "365 Mich 268", "383 Mich 787", "43 Mich 342"]
+---
+
+# Rose v. Mackie
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+This being a motion to dismiss, we take the facts pleaded in the complaint as true and set them forth basically as stated by plaintiffs.
+Plaintiff Karen Rose was involved in a head-on collision while in a car driven by Boris Gorski, in January, 1964. The accident occurred while both vehicles were travelling on Highway US-24.
+Plaintiffs filed a complaint against defendant, alleging negligence on his part in his position and capacity as state highway commissioner and by him personally. Defendant moved for summary judgment for failure of plaintiff to state a claim upon which relief can be granted. The motion was denied by the circuit judge, and from this defendant appeals.
+This action is predicated on two counts. The substance of the first alleges that “* * * John C. Mackie, a State Highway Commissioner, had the administrative duty and responsibility under the general highway law, Michigan Statutes Annotated, to 'oversee the art of building, improving and repairing’ so that the said Telegraph Road [US-24] would be reasonably safe for traffic by the public and more particularly the said Boris Gorski and his passenger, Karen Rose.” They continue “* # * John C. Mackie negligently failed to fulfill his administrative duty and responsibility in the premises by allowing said road to remain in an unsafe condition after due notice to his agents and servants that such unsafe condition existed.” In another part of the complaint they state:
+“That the proximate cause of the accident was the unsafe condition of the said highway due to the fact that just immediately prior to the point of the accident, said highway suddenly narrowed to a two-lane highway from a three-lane highway without sufficient notice to the users of the said highway and particularly the said [complainant] * * * ”
+The defendant responds that since the state is immune from liability for such negligence, the defendant shares that immunity. In the alternative, the defendant asserts that, even if defendant is not immune, the complaint does not state a cause of action in negligence.
+The substance of the second count is that the highway was constructed in a negligent manner and “* * * the said John C. Mackie knowingly, wantonly, and wilfully failed and neglected to make or cause any change to be made in the design and construction of the said highway, notwithstanding that he, his servants, and agents, had on divers occasions been apprised of the menace to life and limb resulting from said hazardous design and construction, and of the need to change and remedy the same.”
+Defendant, by way of defense, says that the second count fails to state a claim on which relief can he granted, because defendant’s duty (if any) to redesign and reconstruct highway US-24 at the point of the accident was owed to the public, not to the plaintiffs.
+In the first count, the plaintiffs readily admit to the fact that they do not seek to hold the state liable. Although the state removed much of the immunity it formerly had in this area, by legislative enactment [MCLA § 691.1401 et seq. (Stat Ann 1969 Rev § 3.996[101] et seq.)], the change was not effective until July 1, 1965.
+The plaintiffs’ first count does not merit discussion; since the state is immune from liability for negligence, the defendant as highway commissioner is also immune. Longstreet v. County of Mecosta (1924), 228 Mich 542, 551; McDowell v. State Highway Commissioner (1961), 365 Mich 268, 271.
+The plaintiffs aver in their second count that the defendant is liable for wilful and wanton misconduct in the performance of his duties as state highway commissioner. The plaintiffs contend that John C. Mackie was a public official, charged with the performance of ministerial duties, which duties were owed to Karen Rose, individually, and that, because of defendant’s notice of the serious condition existing on the highway, and his wilful failure and neglect to make or cause any change to be made in the design of said highway, he should be liable to the plaintiffs for the damages they have sustained.
+We note at the outset that in their complaint, the plaintiffs allege that defendant had “* # * the administrative duty and responsibility under the General Highway Law, Michigan Statutes Annotated, to ‘oversee the art of building, improving and repairing’ * * * .” They do not state from what source they ascribe these duties to the commissioner, or to whom they are owed. The only statutory language approximating the quoted language in the complaint is CL 1948, § 225.1 (Stat Ann 1958 Rev § 9.201):
+“There is hereby created and established a state highway department, which shall be charged with the giving of instruction in the art of building, improving and repairing public wagon roads * * * .”
+The plaintiffs cite the cases of Raynsford, v. Phelps (1880), 43 Mich 342, and People, for use of Lapeer County Bank v. O’Connell (1921), 214 Mich 410, in support of their argument that a direct duty was owed to plaintiffs. In Raynsford. supra, the plaintiff was the mortgage holder of a piece of property taken in satisfaction of a debt. It was the defendant’s duty under the express provisions of the statute to make collection from the proper person. There was property on the land belonging to the party who should have rightfully paid the taxes, but the tax collector, instead of performing his duty, falsely made a return of no-goods (with which to satisfy the debt), whereby the tax became established as a lien upon the land and the land was sold for its satisfaction. The mortgage holder’s interest was closed out and he was forced to redeem from a tax sale. The court therein said:
+“[A] public officer having ministerial duties to perform, in which a private individual has a special and direct interest, is liable to such individual for any injury sustained by him in consequence of his failure to perform such duties.” (Emphasis supplied.) Raynsford, supra, p 344.
+The official in Raynsford had invaded the rights of one person and one person’s property. The present situation is much broader in scope, in that the state highway commissioner does not act personally against any single individual in the construction and maintenance of highways. It could in no sense be said that the defendant singled out one individual in respect to whom he violated his official duty. In People, for use of Lapeer County Bank v. O’Connell, supra, the state, on behalf of a savings bank, brought a suit against the sureties of a county official, who had misappropriated the funds of a single entity. Again, we are faced -with a more direct relationship than exists in the instant case.
+Notwithstanding the fact that defendants in the above-discussed cases were held to be liable to a private individual, the defendant herein has a much broader duty, and one which is to be considered a “public duty.” People of Illinois, for use of Trust Co. of Chicago v. Maryland Casualty Company (CA 7, 1942), 132 F2d 850, held that the duty imposed upon officers of the Illinois department of public health and department of public welfare to provide for health and sanitary facilities at state institutions was a “public duty” and not a “private duty.” (See, also, Massengill v. Yuma County (1969), 104 Ariz 518 (456 P2d 376), for discussion of public and private duty.)
+There was no private duty owed to the individuals working on the premises of a state institution, and hence no liability of such officers for death or injury to such laborers resulting from contaminated waters:
+“When the state defines by statute the powers and describes the duties of the officers of these departments, it is not creating duties the officers owe to the individuals who may constitute the general public of Illinois; it is merely outlining the state’s assumed public duty.” 132 F2d 852.
+The plaintiffs’ redress is not against defendant, personally.
+Reversed and remanded to the trial court, for entry of an order granting defendant’s motions for dismissal.
+All concurred.
