@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "69119"
+decided: "1984-05-07"
+citations: ["136 Mich. App. 15"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P.J., and Wahls and W. F. Hood, JJ."]
+parties: ["DEPARTMENT OF TRANSPORTATION v DiMATTEO"]
+source_url: "https://static.case.law/mich-app/136/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2242249
+cites_cases: ["133 Mich App 207", "133 Mich App 213", "213 NW2d 195", "26 ALR2d 1295", "349 NW2d 261", "50 ALR2d 1386", "50 Mich App 305", "50 Mich App 314"]
+---
+
+# Department of Transportation v. DiMatteo
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This appeal arises out of the condemnation of private property in Lenawee County. Plaintiff, the Michigan Department of Transportation, appeals as of right from the circuit court’s finding that it is liable to defendants for attorney fees based on a percentage of the award including interest pursuant to the Uniform Condemnation Procedures Act. MCL 213.51 et seq.; MSA 8.265(1) et seq.
+Plaintiff wanted to acquire defendants’ land for the purpose of widening a highway, and the defendants rejected plaintiff’s written offer of $17,200. On January 14, 1981, plaintiff brought suit for the acquisition of the land in circuit court. A jury trial was commenced on July 20, 1982, and a verdict awarded defendants $41,000 as just compensation. A motion hearing on October 29, 1982, dealt with the reasonableness of defendants’ attorney fee for which plaintiff was liable. The trial court found the fee to be reasonable, as reflected in its November 8, 1982, opinion. Thereafter, a motion for rehearing on the issue of attorney fees was heard on January 3, 1983. Counsel for plaintiff stated: "It’s our opinion that interest is not to be considered a part of the award.” The trial court stated:
+"While I have considered this matter. And I am satisfied that the attorney fees and the costs as awarded are within the statute and are proper and appropriate. I’ll, accordingly, grant the motion for the payment of attorney fees and expert witness fees. I’ll overrule— deny the motion this morning.”
+On January 3, 1983, the trial court entered an order for attorney fees for defendants in the amount of $8,548.87. That figure represented one-third of $25,646.62, which was the amount including interest by which the sum awarded defendants exceeded plaintiff’s original written offer. Plaintiff appeals arguing that interest should not have been included in this amount.
+The subject of attorney fees is covered in § 16 of the Uniform Condemnation Procedures Act. Subsections (2) and (3) provide for awarding reasonable attorney fees not to exceed one-third of the amount "by which the ultimate award exceeds the agency’s written offer”. MCL 213.66(3); MSA 8.265(16)(3). Only nominal attorney fees were provided for by the previous statutes. The current provision provides a performance incentive, as the fee awarded is directly proportional to the results achieved by counsel. Under the previous statute, the property owner was forced to pay a sizeable portion of his award to his attorney. The property owner was left without his property and with an award substantially less than just compensation. The new statute attempts to remedy this injustice and assure that the property owner will receive the full amount of his award. MCL 213.66(3); MSA 8.265(16X3) fully states:
+"(3) If the amount finally determined to be just compensation for the property acquired exceeds the amount of the written offer as defined in section 5, the court shall order reimbursement in whole or in part to the owner by the agency of the owner’s reasonable attorney’s fees, but not in excess of 1/3 of the amount by which the ultimate award exceeds the agency’s written offer as defined by section 5. The reasonableness of the owner’s attorney’s fees shall be determined by the court.”
+MCL 213.65; MSA 8.265(15) provides in part that:
+"Sec. 15. The court shall award interest on the judgment amount from the date of the filing of the complaint to the date of payment of the amount, or any part of the amount. Interest shall be computed at the interest rate applicable to a federal income tax deficiency or penalty.”
+At issue in this case is the meaning of "ultimate award” as used in the statute. Plaintiff contends "ultimate award” is synonymous with "just compensation” and does not include interest. Defendants contend that ultimate award means the total award in favor of defendants, including interest.
+In interpreting these provisions of the Uniform Condemnation Procedures Act, this Court recently stated:
+"By using the adjective 'ultimate’, we perceive that the Legislature intended to base the maximum permissible attorney fee on the final, total recovery. This is surely not the same thing as just compensation. We compare the reference to 'ultimate award’ to a prior unmodified reference to the term 'award’ in § 13 of the act:
+" 'The jury or the court shall award in its verdict just compensation for each parcel. After awarding the verdict, on request of any party, the court shall divide the award among the respective parties in interest, whether the interest is that of mortgagee, lessee, lienor, or otherwise, in accordance with proper evidence submitted by the parties in interest.’ MCL 213.63; MSA 8.265(13).
+"The 'jury verdict’ must amount to just compensation, and 'just compensation’ is equated with 'award’ in the above statutory section. Had the Legislature intended just compensation to be the sole factor in the attorney fee equation, it could have used any of the above terms (jury verdict, award, or just compensation) to say so. Furthermore, because the term 'award’ is used to signify just compensation, to hold that the phrase 'ultimate award’ means the same thing would be to treat the adjective 'ultimate’ as surplusage.” Michigan Dep’t of Transportation v Dennis, 133 Mich App 207, 211-212; 349 NW2d 261 (1984).
+The Court in Dennis found "[T]hat interest, in or upon the amount of judgment should be included in the ultimate award, as such was the product of the attorney’s efforts”. 133 Mich App 213-214. Plaintiff cites Muskegon v Berglund Food Stores, Inc, 50 Mich App 305; 213 NW2d 195 (1973), for the proposition that interest should not be included in determining the ultimate award. In that case, the Court stated, "MCL 213.381; MSA 8.261(21) provides for interest on any increase in the ultimate award over the statutory advance tendered at the time of taking.” 50 Mich App 314. When Berglund was rendered, however, the term "ultimate award” did not appear in the statute. The Court did not use "ultimate award” as a term of art, as necessitated by the current statute. In Berglund the Court used "ultimate award” synonymously with "just compensation”. The Court in Berglund did not use the principles of statutory construction in defining "ultimate award” as was done by the Court in Dennis. We prefer to follow Dennis since Dennis deals specifically with the same situation involved in the instant case and, therefore, applies the proper legal principles. Since the trial court properly included interest in determining the "ultimate award”, we affirm.
+Affirmed.
