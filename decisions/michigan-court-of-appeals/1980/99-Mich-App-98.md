@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-2279"
+decided: "1980-07-24"
+citations: ["99 Mich. App. 98"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: M. F. Cavanagh, P.J., and R. M. Maher and D. F. Walsh, JJ."]
+parties: ["PEOPLE v MORRIS"]
+source_url: "https://static.case.law/mich-app/99/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2198756
+cites_cases: ["194 NW2d 314", "236 NW2d 461", "245 NW2d 91", "247 NW2d 311", "267 NW2d 417", "277 NW2d 633", "386 Mich 586", "395 Mich 379", "403 Mich 95", "406 Mich 252", "69 Mich App 459", "70 Mich App 351"]
+---
+
+# People v. Morris
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Following the killing of her husband, defendant was charged with first-degree murder, MCL 750.316; MSA 28.548, and possession of a firearm during the commission of a felony, MCL 750.227b; MSA 28.424(2). She was tried by a jury and convicted of the felony-firearm charge and manslaughter, MCL 750.321; MSA 28.553. Defendant was sentenced to 7-1/2 to 15 years imprisonment for manslaughter in addition to 2 years for felony-firearm and appeals now by right.
+Of the six issues raised by defendant on appeal, we find that only two merit discussion. First, defendant contends that the trial court erred in failing to instruct the jury on a theory of accidental homicide without being requested to do so. The case cited in support of this proposition states that:
+"However, when as here the defense theory is accidental homicide, the defense requests an instruction on the theory, and there is evidence to support the theory, the trial court must properly instruct the jury on the defense theory.” People v Lester, 406 Mich 252, 254-255; 277 NW2d 633 (1979).
+The Lester case demonstrates a feature which the other leading cases in this area share, i.e., that the defense theory urged on appeal was, in fact, a central issue in the defendant’s trial. Even where defense counsel failed to request jury instructions pertaining to a particular theory of defense, the absence of such an instruction has been held to be reversible error because the jury’s attention was not clearly directed to a central issue in the case. People v Ora Jones, 395 Mich 379, 394; 236 NW2d 461 (1975). People v Stanley Jones, 69 Mich App 459, 461; 245 NW2d 91 (1976).
+In the above-cited cases and others, it is readily apparent that defense counsel emphasized the particular defense theory at trial. For instance, in Ora Jones, supra, 385, it is noted that defense counsel asserted accident as a defense in both opening and closing statements. The same was true in People v Lester, supra, 253-254, and in People v Hoskins, 403 Mich 95, 99; 267 NW2d 417 (1978), where the opinion recites that, "[djefense counsel advanced his theory of self-defense from his initial voir dire of and opening remarks to the jury through his closing argument”.
+In contrast, the present defendant’s theory of defense was clearly and repeatedly stated to be one of diminished capacity. Defense counsel in both opening and closing arguments, and during discussions while trial was in progress, explicitly asserted that he was pursuing a defense of diminished capacity to intend to commit murder. Nowhere in the transcript did defense counsel proffer a defense based on accident. Through defense witnesses and throughout his arguments defense counsel focused upon defendant’s relationship with her husband and upon the psychological inability of defendant to form a plan to kill her husband. Defendant did testify that she picked up her husband’s pistol intending to frighten him and that the gun went off. She stated, "I guess I must have struck the trigger. I didn’t intend to do it though.” And in closing argument defense counsel asserted, "You’ve got to squeeze the trigger to go off. I’m not going to suggest to you that Hazel Morris didn’t have her hand on it and that it did not go off. It’s like — a sneeze or a cough, it happened.” Perhaps this testimony and these comments of counsel do describe an accident, but that does not mean that the theory of defense was one of accident. Rather, the entire record demonstrates a defense based upon the diminished capacity of the defendant. In conclusion then, we find that defendant did not present a defense theory of accidental homicide, that defendant did not request an instruction pertaining thereto, that, while there may have been evidence which was inferentially supportive of an accident theory, it was not the design of defendant or her counsel to emphasize it as such and that, therefore, there was no need for the trial court to instruct the jury on accidental homicide. People v Trammell, 70 Mich App 351; 247 NW2d 311 (1976).
+Defendant’s second argument concerns her sentence. Defendant had agreed to plead guilty to second-degree murder and felony-firearm for which a sentence of 5 to 15 years plus 2 years would have been imposed. She withdrew from that agreement and claims that her greater sentence after the jury had convicted her of the lesser offense of manslaughter constituted a penalty for the exercise of her right to a jury trial. The record does not support this contention. Comments of the trial court just prior to sentencing disclose that the court believed that defendant’s motive in killing her husband was jealousy and anger. There is no indication that defendant’s sentence was based upon her disavowal of the plea agreement or upon other improper considerations. People v Snow, 386 Mich 586; 194 NW2d 314 (1972). The trial court was not bound by the terms, of an agreement which defendant had repudiated, and defendant was sentenced within the allowable limits prescribed for the offense of which she was convicted.
+Affirmed.
