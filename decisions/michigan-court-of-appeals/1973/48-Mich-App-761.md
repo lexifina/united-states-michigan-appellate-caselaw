@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "13908"
+decided: "1973-08-27"
+citations: ["48 Mich. App. 761"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P. J., and V. J. Brennan and Van Valkenburg, JJ.", "All concurred."]
+parties: ["SAMUELS v AETNA LIFE INSURANCE COMPANY"]
+source_url: "https://static.case.law/mich-app/48/cases/0761-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2106586
+cites_cases: ["209 Minn 19", "295 NW 63"]
+---
+
+# Samuels v. Aetna Life Insurance
+
+## Majority (V. J. Brennan, J.)
+
+V. J. Brennan, J.
+Mrs. Rosie Adams was employed by Chrysler Corporation until her untimely death at the hands of a hit-and-run driver on September 16, 1967. She was enrolled in a group life insurance plan issued by defendant Aetna Life Insurance Company. Plaintiff is the, guardian of Mrs. Adams’ minor, and admittedly illegitimate, children. The sole issue in this case is whether, under the terms of the policy of insurance, the insurer is obligated to pay a "survivor income benefit” to plaintiff children. The defendant is obligated to make such payment if decedent’s illegitimate children are "children” within the meaning of the policy.. The applicable definition of "child” from the policy states, "An 'unmarried child’, for this purpose, shall include a child born of a lawful marriage contracted by the Employee, stepchild, foster child, and child legally adopted by the Employee * * * ”. The trial court found for the plaintiffs after concluding that the contract provisions were drafted with a male employee in mind. He reasoned that since the contract was drafted without considering that a female might be the covered employee, it was ambiguous as applied to the facts of this case. He seized the ambiguity, construed it against the insurer, and found for the plaintiffs.
+The flaw in the trial court’s reasoning is that his initial premise is erroneous. The definition of children relevant to this lawsuit is taken from a clause dealing with an employee’s widower. This demonstrates that those who drafted the contract were aware that the covered employee could be a female.
+However, we are not persuaded that the trial judge reached the wrong result. If the enumeration in the definition of "children” was intended as an exhaustive list, it would lead to absurd and illogical results. For example, a "foster child” is commonly held to refer to an unrelated child whom one raises as one’s own. (See In re Norman’s Estate, 209 Minn 19; 295 NW 63 [1940].) A "stepchild” is a child of one’s spouse by a prior marriage. (See Black’s Law Dictionary [4th Ed], p 1584.) Both a "foster child” and a "stepchild” would qualify for benefits under the terms, of this contract of insurance. However, an illegitimate child would not qualify under any of the particular categories. This is despite the fact that the illegitimate child is in fact more closely related to its parent than a step or foster child is to its step or foster parent. Under a strict construction of the contract’s definition, the parent of an illegitimate could raise and nurture his or her child in the customary fashion and yet that child would be denied benefits because it does not meet a portion of the definition of "foster child”, to wit, it is not unrelated. An even more extreme , example is the case of the stepchild. A covered employee may not even raise or nurture the stepchild as its own, yet such a child would be entitled to benefits, and the illegitimate not so entitled. Consider also what would be the status if the employee were the legal guardian of an orphaned relative? Would the fact of the relationship preclude the ward’s recovery under the contract? We find such disparate results illogical, unreasonable, and unfair.
+There is, of course, an alternative construction of the contract. That construction involves viewing the clause as suggestive rather than exhaustive. That is, that the definition of children was included within the contract not to limit its applicability, but to broaden it. The contractual language might well be read as an attempt to indicate coverage for those who stand in a certain type of dependent relationship to the employee. It has been widely held that,
+"In order not to lead to unreasonable results, or to defeat the intention of the parties to a contract of insurance, the construction thereof must not be strained, arbitrary, irrational, unnatural, or forced, or strictly technical; rather, it must be fair, natural, reasonable, logical, and practical, having reference to the risk and subject matter and the purposes of the entire contract. In other words, when the language is obscure and so ambiguous that the contract is susceptible of two constructions, one of which makes it fair and reasonable, while the other makes it unusual and unreasonable, the interpretation which makes it rational and reasonable is to be preferred. * * * If one interpretation of a contract of insurance capable of two interpretations would lead to an absurd conclusion, looking to the other provisions of the contract and its general scope and object, such construction must be abandoned, and that adopted which will be more consistent with reason and probability.” (Footnotes omitted.) 1 Couch on Insurance 2d, § 15:16, pp 666-670.
+The latter construction of the policy avoids the irrationality of excluding some children because they were more closely related to the insured than others who are entitled specifically to benefits. An illegitimate child, whom the employee raises and cares for as most parents raise and care for their children, is clearly the type of dependent which this clause was designed to cover.
+Affirmed. Costs to plaintiffs-appellees.
+All concurred.
