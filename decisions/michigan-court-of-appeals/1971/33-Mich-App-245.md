@@ -1,0 +1,27 @@
+---
+court: "Michigan Court of Appeals"
+docket: "8903"
+decided: "1971-04-28"
+citations: ["33 Mich. App. 245"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P. J., and R. B. Burns and Hoff, JJ."]
+parties: ["OGOREK v. LOISELL"]
+source_url: "https://static.case.law/mich-app/33/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2092389
+cites_cases: ["2 Mich App 614", "21 Mich App 172", "267 Mich 450", "331 Mich 49", "363 Mich 354", "385 Mich 766", "4 Mich App 52", "6 Mich App 283", "8 Mich App 439"]
+---
+
+# Ogorek v. Loisell
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This appeal arises from a boundary dispute. The plaintiffs and defendants share a north-south boundary, the plaintiffs’ property being the more southern property. They sued defendants seeking to enjoin defendants permanently from trespassing on their property. The trial court was asked to decide three questions: (1) Did the old fence line constitute the true boundary between the property of the parties or was that boundary north of the fence line? (2) If the fence line was not the boundary as described by the deeds, had the fence line become the boundary by acquiescence? (3) If the fence line was not the boundary, had the defendants acquired title to the property north of the fence line by adverse possession?
+The testimony presented at trial tended to indicate the following facts: The plaintiffs’ expert witness, a surveyor, indicated that he had surveyed the property, the premises in question, and that he had located the 1/8 section line, which was the title boundary line between the two properties, some distance to the north of the existing fence line. Defendants’ expert surveyor testified that he could not fault the plaintiffs’ expert witness as to technique and method of establishing the 1/8 section line and that, in effect, if he had followed the same procedure he would have located the line in the same place. The testimony also indicated that the fence line in question had been in existence as long as anyone could remember. The testimony also indicated that the defendant and his predecessors in title had always considered the fence line to be their southern boundary. On the other hand the plaintiffs and their predecessors in title had always refused to recognize the fence as their northern boundary. The testimony also indicated that the defendants had cultivated a portion of the land in dispute, that they and their predecessors had run a road along the fence line, had used the road for access to the lake, that they had for a period used part of the area in question as a pasture, and had generally exercised control of the disputed property west of the lake up to the fence line. Other than the portion of the property that was cultivated, the area in question is overgrown and in a wild state.
+The trial judge made the following rulings: (1) that the old fence line was not the true boundary between the two properties and that the boundary lay north of the fence,- (2) that the fence line had not become the true boundary line by acquiescence; (3) that the defendants had obtained title to approximately half of the property in question (roughly west of the lake) by adverse possession and that the other half was to remain with the plaintiffs. It should be noted that the trial judge personally viewed the property in question at the request of both parties.
+The plaintiffs appeal from the trial judge’s ruling that about half of the property was to go to the defendants by adverse possession. The defendants cross appeal from the trial judge’s determination that half of the property was to remain with the plaintiffs as they had not obtained title to it by adverse possession.
+The only question on appeal is whether the findings made by the trial judge are supported by the facts. It is a well-recognized rule in Michigan that the acts required to support a finding of adverse possession are sufficient if those acts are consistent with the character of the premises in question. Monroe v. Rawlings (1951), 331 Mich 49; Denison v. Dean (1967), 8 Mich App 439; Rose v. Fuller (1970), 21 Mich App 172. It is also an often-expressed maxim that determination of what acts or uses are sufficient to constitute adverse possession depends upon the facts in each case and to a large extent upon the character of the premises. Barley v. Fisher (1934), 267 Mich 450; Whitehall Leather Company v. Capek (1966), 4 Mich App 52; Rose v. Fuller, supra. The trial judge in this case has made findings of fact which support a theory of adverse possession and has clearly placed them on the record. An appellate court will not set aside findings of fact of a trial judge unless they are clearly erroneous. GrCR 1963, 517.1. And this Court will not ordinarily disturb the findings of a trial judge in an equity case unless, after an examination of the entire record, the reviewing court concludes that it would have arrived at a different result. Johnson v. Johnson (1961), 363 Mich 354; Wait v. City of Sturgis (1966), 2 Mich App 614; Township of Fruitport v. Baxter (1967), 6 Mich App 283; Rose v. Fuller, supra. As this court is unable to say that the findings of fact made by the trial court are clearly erroneous or that we would have arrived at a different result, we hold that the trial court is hereby affirmed.
+Affirmed.
