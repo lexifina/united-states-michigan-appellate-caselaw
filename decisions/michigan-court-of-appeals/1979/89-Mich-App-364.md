@@ -1,0 +1,52 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-4666"
+decided: "1979-04-02"
+citations: ["89 Mich. App. 364"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bashara, P.J., and V. J. Brennan and R. M. Maher, JJ.", "Bashara, P.J., concurred."]
+parties: ["NATIONAL CAR RENTAL v S & D LEASING, INC"]
+source_url: "https://static.case.law/mich-app/89/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2179672
+cites_cases: ["111 F2d 557", "141 NW 600", "175 Mich 568", "197 NW2d 485", "241 NW2d 223", "243 NW2d 244", "39 Mich App 260", "397 Mich 44", "527 F2d 1266", "67 Mich App 397"]
+---
+
+# National Car Rental v. S & D Leasing, Inc.
+
+## Majority (V. J. Brennan, J.)
+
+V. J. Brennan, J.
+Plaintiff, National Car Rental, appeals by leave the lower court’s order denying its motion to set aside an entry of default relating to the counterclaim filed by defendant, S & D Leasing.
+In December, 1974, National filed a complaint in a district court in Shiawassee County against S & D Leasing to collect money allegedly due on an open account. National, a Minnesota corporation, had engaged the service of Payco, a collection agency, which in turn retained attorney Harry S. Cohen, who filed the original complaint. S & D counterclaimed, seeking damages for breach of contract in the amount of $500,000. Because of the amount in question, the case was removed to the circuit court.
+According to the record, between April, 1975, and October, 1976, attorney Cohen wrote several letters to Payco advising them of the status of the litigation and of his belief that defense of a counterclaim was not within the scope of his representation of National. He requested that Payco inform National of his position, and advised in one of the letters that National might face a default. Cohen wrote to the circuit court in October, 1975, informing it of his position in the proceedings. Cohen maintained that he had not entered an appearance in the circuit court litigation and that he would try to contact National for the purpose of having an appearance made.
+On October 4, 1976, an entry of default was entered against National. On that same date, the circuit court entered a default judgment in favor of S & D in the amount of $388,838.75, plus interest. In April, 1977, the circuit court clerk issued a writ of garnishment against the Bank of the Commonwealth in an effort to obtain funds owed to National. National maintains that this writ was its first notice of the default judgment.
+National then filed a motion seeking to set aside the default judgment. In July, 1977, National’s motion to set aside the default judgment was granted, however the lower court refused to set aside the entry of default. This Court granted National’s application for leave to appeal on March 29, 1978.
+On appeal the plaintiff has devoted the great majority of its brief to the "good cause shown” requirement of GCR 1963, 520.4 in setting aside a default. Plaintiff argues that attorney Cohen abandoned plaintiff’s representation, which, in and of itself, is sufficient good cause to set aside the default. Due to the interplay of the court rules and the particular facts and circumstances of this case, we need not address this aspect of plaintiff’s argument.
+As stated above, plaintiff initiated the suit with attorney Cohen as its legal representative. Defendant brought its counterclaim. Pursuant to GCR 1963, 107.2(1), service upon plaintiff was performed by delivery to plaintiff’s attorney Cohen. Plaintiff was not actually served with process, since personal jurisdiction had been obtained by its initial filing of the suit. In addition, although attorney Cohen notified Payco of the counterclaim, he never actually notified plaintiff of the claim filed against it. The lower court improperly based its decision on GCR 1963, 520.4 and ruled that attorney Cohen’s neglect, being attributable to plaintiff, was not sufficient good cause to set aside the default.
+Proper disposition of plaintiff’s motion to set aside the default judgment should have been made under GCR 1963, 528.2, which provides:
+"Defendant Not Personally Notified. Any defendant over whom personal jurisdiction was necessary and acquired but who did not in fact have knowledge of the pendency of the action may, at any time within 1 year after final judgment, enter his appearance, and if he shows reason justifying relief from the judgment and innocent third persons will not be prejudiced, the court may relieve him from the judgment, order, or proceedings as to which personal jurisdiction was necessary, on payment of such costs thereon or such creditors as the court deems just.”
+In 3 Honigman & Hawkins, Michigan Court Rules Annotated (2d ed), p 180, the above-quoted rule is explained as follows:
+"The intent of the rule is that failure to receive actual notice is itself sufficient ground for relief of default judgment, if the defendant can show that he has a meritorious defense and if the rights of innocent third parties will not be prejudiced.” (Emphasis added.)
+Accordingly, the requisite showing affording relief under the rule is (1) lack of actual notice, (2) meritorious defense, and (3) rights of third parties will not be prejudiced. In the present case there has been no showing that third-party rights would be prejudiced by setting aside the entry of default and judgment. Further, the affidavits filed below by plaintiff indicate the existence of a meritorious defense. The only fact we need address is whether plaintiff was somehow actually notified of the counterclaim.
+The lower court found, in reliance on the deposition of Mr. Valentino, that, as a matter of fact, plaintiff was actually notified. A trial court’s finding of fact will not be set aside unless it is clearly erroneous. GCR 1963, 517.1. A finding is clearly erroneous when "although there is evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed”. Tuttle v Dep’t of State Highways, 397 Mich 44, 46; 243 NW2d 244 (1976). This standard involves both a consideration of whether there was sufficient evidence and whether that evidence supports the trial court’s finding.
+Upon review of the Valentino deposition, the only indication of actual notice to plaintiff is a statement by the deponent that in August, 1976, he contacted by telephone an employee of plaintiff, Mrs. Ervasti, and stated that a counter-suit had been filed. He also stated that he mailed to Mrs. Ervasti "some papers regarding a counter-suit with S & D”. However, on Payco’s file jacket, there was no indication that any transmittal letter of any other "papers” was in fact mailed; and the notation as to the call in no way indicated the subject of any discussion. In Mrs. Ervasti’s affidavit filed below she stated that she could not recall a telephone conversation with Valentino, and that she did not receive any correspondence relating to the counterclaim. Ervasti’s supervisor, Mr. Haber-man, stated in his affidavit filed below that he did not receive any correspondence relating to a counterclaim and that he had no knowledge of its receipt by anyone under his supervision.
+Taking into account the sparsity of evidence on the question of plaintiffs actual notice, together with the lower court’s emphasis on plaintiffs imputed knowledge through attorney Cohen, we are left with the firm conviction that a mistake has been made. Upon careful review we find that plaintiff had no actual notice of the counterclaim.
+Under GCR 1963, 528.2, as stated above, lack of actual notice is sufficient to set aside the default and judgment in the case at bar. Even if we were to apply the "good cause shown” standard of GCR 1963, 520.4, we would conclude that lack of actual notice was "a reasonable excuse for failure to comply with the requirements which resulted in the default”. Okros v Myslakowski, 67 Mich App 397; 241 NW2d 223 (1976).
+The lower court’s order is reversed, the default is set aside and the cause is remanded for proceedings consistent with this opinion.
+Costs to plaintiff.
+Bashara, P.J., concurred.
+A plaintiff is within the ambit of this rule when a counterclaim is filed, since such action places a plaintiff in the position of a defendant to that counterclaim.
+Mr. Valentino was an employee of Payco in charge of the subject collection acount.
+
+## Dissent (R. M. Maher, J.)
+
+R. M. Maher, J.
+(dissenting). I respectfully dissent. Unlike my colleagues, I am not convinced that the trial court’s finding that Payco notified National of the counterclaim is clearly erroneous.
+In addition, I am of the opinion that notice to Payco was in fact notice to National. It is well established that notice to an agent acting within the scope of his authority is notice to the principal as well:
+"It is a general rule that notice of a fact acquired by an agent while transacting the business of his principal is notice to the latter and this rule applies to banks and other corporations as well as to individuals. It is the duty of the agent to communicate to the principal information thus acquired which would affect the rights of the former and the presumption is the agent has performed his duty in this behalf. If he has not, still the principal should be charged with the knowledge of his agent because he selects him and confides to him the business in hand.” Schram v Burt, 111 F2d 557, 564 (CA 6, 1940).
+Accord, Chelsea Associates v Rapanos, 527 F2d 1266 (CA 6, 1975), Westinghouse Electric & Manufacturing Co v Hubert, 175 Mich 568; 141 NW 600 (1913), Thornton v City of Flint, 39 Mich App 260; 197 NW2d 485 (1972).
+National engaged Payco as its agent for collection of S & D Leasing’s debt to National, authorizing it to hire an attorney to bring an action in National’s name, if necessary to collect the debt. It was while acting within the scope of this authority that Payco learned that a counterclaim had been filed, surely a not unexpected development in a lawsuit. Upon receiving this information, Payco was under a duty to convey it to National. All third parties, including the subsequent attorney engaged by Payco on behalf of National, were justified in assuming that Payco would carry out that duty. That Payco breached its duty (if in fact it did) is irrelevant, and National is charged with notice of the counterclaim.
+I would affirm the^trial court.
