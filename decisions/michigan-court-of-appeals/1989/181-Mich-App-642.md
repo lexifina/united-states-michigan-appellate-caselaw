@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "108652"
+decided: "1989-08-11"
+citations: ["181 Mich. App. 642"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cynar, P.J., and Brennan and Marilyn Kelly, JJ."]
+parties: ["SEEBACHER v FITZGERALD, HODGMAN, CAWTHORNE & KING, PC"]
+source_url: "https://static.case.law/mich-app/181/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2307918
+cites_cases: ["161 Mich App 558", "169 Mich App 1", "169 Mich App 10", "174 Mich App 225", "2 ALR4th 284", "32 ALR4th 260", "411 NW2d 754", "425 NW2d 490", "425 NW2d 707", "435 NW2d 433"]
+---
+
+# Seebacher v. Fitzgerald, Hodgman, Cawthorne & King, PC
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right the circuit court’s dismissal of his legal malpractice claim barred by the statute of limitations. MCR 2.116(C)(7). The court did not address plaintiff’s motion to amend his complaint to add a claim of fraudulent concealment. We affirm.
+In late 1982 or early 1983, plaintiff retained the defendant law firm to recover funds belonging to him from his former employer’s pension and profit-sharing plans. He also sought advice on how to obtain the most favorable tax treatment when removing these monies. On June 7, 1983, defendants directed plaintiff by letter to take a lump sum distribution of his interest in the profit-sharing plan. The lump sum distribution would qualify for ten-year averaging under the irs code. Defendants also advised plaintiff to accomplish a tax free roll over for his interest in the pension plan within sixty days of distribution.
+Plaintiff followed this advice, and did not list the lump sum distribution from the profit-sharing plan as income on his 1983 federal tax return. He had no contact with defendants after the June, 1983, letter except to pay for the legal services rendered.
+On October 3, 1986, the Internal Revenue Service sent plaintiff an explanation of adjustments to his 1983 taxes. Contrary to defendants’ advice, the irs code required that where there were separate lump sum distributions from pension and profit-sharing plans, each had to be taxed at the same time. If not, neither was entitled to ten-year averaging. Since one of plaintiff’s distributions was rolled over, the other was not eligible for averaging. Based on this error, plaintiff owed about $50,000 in federal and state taxes, penalties, and interest.
+Approximately fourteen days after receiving the irs notice, plaintiff retained another attorney who confirmed that the legal advice given by defendants was incorrect.
+The complaint in this action was filed on June 5, 1987, alleging legal malpractice and breach of contract. The breach of contract claim essentially repeated the allegations of the malpractice claim. On January 11, 1988, plaintiff moved to amend to add a count for fraudulent concealment. He alleged defendant Accettura had disclosed to defendant Hodgman that plaintiff had been given incorrect advice and that neither had made an attempt to advise plaintiff.
+Defendants moved for summary disposition, contending that plaintiff’s cause was barred by the applicable statute of limitations. The judge held that the two-year statutory period began to run on June 3, 1983, when plaintiff discontinued defendants’ legal services. He also concluded that plaintiff should have discovered the existence of the claim on October 3, 1986, when he received notice from the irs. Because the suit was filed more than six months later, plaintiff’s claims were dismissed. The court did not address the motion to amend.
+Plaintiff contends on appeal that the court erred in granting the motion, because a factual dispute exists surrounding the date of accrual and notice of the existence of the claims. We disagree.
+A legal malpractice action must be brought within one of the following time frames: two years of the date the attorney discontinues serving the plaintiff, or six months after the plaintiff discovers or should have discovered the claim, whichever is later. MCL 600.5805; MSA 27A.5805, MCL 600.5838; MSA 27A.5838, K73 Corp v Stancati, 174 Mich App 225; 435 NW2d 433 (1988).
+The type of interest harmed, rather than the label given the claim, determines what limitations period controls. The two-year statute applies to a legal malpractice action even when phrased as a breach of contract to render competent legal services. Stroud v Ward, 169 Mich App 1; 425 NW2d 490 (1988). Thus, the two-year statute applies to both of plaintiff’s original claims.
+On appeal, plaintiff first contends that defendants did not discontinue serving him until sometime between November 1, 1986, and February 1, 1987. It was then that plaintiff’s new attorney approached Hodgman and requested that he review the tax advice given in 1983. Plaintiff argues that an attorney does not discontinue servicing his client for the purpose of malpractice limitations, until his client or the court relieves him of the obligation. Chapman v Sullivan, 161 Mich App 558, 561; 411 NW2d 754 (1987).
+When approached by plaintiff’s new attorney, Hodgman did not render any new advice and declined to further represent plaintiff. When deposed, plaintiff stated that he hired defendants solely to advise him in the transfer of funds from his profit-sharing and pension plans. He had no contact with defendants from June, 1983, through the filing of this complaint in 1987. Moreover, when he received the irs notice, he did not contact defendants but retained a new attorney. K73 Corp, supra, p 229. Thus, we conclude that plaintiff relieved defendants of their obligations in June, 1983, more than two years before he filed this action.
+Next, plaintiff contends that the trial court erred in holding that he discovered or should have discovered his claim on October 3, 1986, when he was notified by the irs. He argues that the January, 1987, assessment date is when he discovered or should have discovered his claim. We disagree.
+Plaintiff learned of the possible cause of action when he received the irs notice. Within two weeks, he had hired a new attorney to establish whether the advice was correct. We reject his contention that the claim is not discovered until the date of assessment, when the full amount of damages was known. See Sherrell v Bugaski, 169 Mich App 10, 16-17; 425 NW2d 707 (1988). Plaintiff was aware in October that there was possible malpractice. It is not necessary that he be notified of the full extent of the damages in order for his cause to accrue. Id. We conclude the malpractice claim is barred, because plaintiff failed to file his action within six months of October, 1986.
+Finally, plaintiff contends that the court erred in refusing to consider his motion to amend the complaint to add fraudulent concealment. The court should have addressed plaintiffs motion. However, we conclude this error was harmless, because no facts alleged by plaintiff could support such a cause. Fraudulent concealment of a claim postpones the running of the limitations period. MCL 600.5855; MSA 27A.5855. In order to exist, the fraud must be manifested by some affirmative act or misrepresentation. Mere silence on the part of the defendant is not enough. Stroud, supra, p 8.
+Plaintiff alleged that Hodgman and Accettura fraudulently concealed the existence of the claim by failing to notify plaintiff that he had been given incorrect advice. No affirmative act is alleged, only silence. Thus, the fraudulent concealment claim cannot be supported.
+Affirmed.
