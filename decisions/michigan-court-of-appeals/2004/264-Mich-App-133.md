@@ -1,0 +1,47 @@
+---
+court: "Michigan Court of Appeals"
+docket: "244919"
+decided: "2004-10-14"
+citations: ["264 Mich. App. 133"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: FITZGERALD, EJ., and BANDSTRA and SCHUETTE, JJ."]
+parties: ["POLICE OFFICERS ASSOCIATION OF MICHIGAN v OTTAWA COUNTY SHERIFF (ON RECONSIDERATION)"]
+source_url: "https://static.case.law/mich-app/264/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 440864
+cites_cases: ["1969 PA 312", "210 Mich App 222", "228 Mich App 560", "247 Mich App 410", "263 Mich App 358", "456 Mich 331", "468 Mich 594", "532 NW2d 903", "572 NW2d 201", "579 NW2d 435", "636 NW2d 787", "664 NW2d 705"]
+---
+
+# Police Officers Ass'n v. Ottawa County Sheriff
+
+## Majority (PER CURIAM.)
+
+ON RECONSIDERATION
+Before: FITZGERALD, EJ., and BANDSTRA and SCHUETTE, JJ.
+PER CURIAM.
+Petitioner, Police Officers Association of Michigan (POAM), appeals as of right the order granting summary disposition pursuant to MCR 2.116(0(10) in favor of respondents, Ottawa County Sheriff, Ottawa County, and Ottawa County Board of Commissioners. On reconsideration, we reverse and remand. See Police Officers Ass’n of Michigan v Ottawa Co Sheriff, 263 Mich App 358 (2004).
+I
+POAM is a labor organization that serves as the bargaining agent for the sheriffs deputies who are employed by respondents. The collective bargaining agreement that existed between POAM and respondents expired on December 31, 1999. On June 5, 2000, POAM filed a petition on behalf of the sheriffs deputies seeking compulsory arbitration under 1969 PA 312, which provides for compulsory arbitration of labor disputes in municipal police and fire departments. MCL 423.231. In its petition, POAM identified fourteen disputed issues, including “Grievance Procedure” and “Arbitrator’s Powers.”
+The arbitration panel held a prehearing conference on September 19, 2000, and identified all the issues to be arbitrated as “economic.” The panel also identified “retroactivity” as an issue. On September 26, 2001, POAM accepted respondents’ offer of settlement, but noted that “there were remaining issues concerning ‘duration (retroactive) on wages and grievance procedure duration (retroactive/prospective).’ ”
+On October 4, 2001, the arbitration panel conducted an arbitration hearing on the unsettled issues. POAM raised an issue regarding respondents’ refusal to arbitrate grievances that occurred after the expiration of the prior collective bargaining contract. POAM sought retroactive arbitration of the twelve grievances, and respondents contended, in part, that the issue was not timely because the issue of retroactivity of arbitration of grievances was not contained in the initial petition for arbitration.
+The arbitration panel issued a majority opinion and award on February 4, 2002, declining to consider POAM’s last best offer concerning the right to retroactively arbitrate grievances because “the Act and the rules prohibit a consideration of the arbitration-related issues at a time near or at the scheduled arbitration hearing.” The panel’s majority cited MCL 423.238, as well as 1999 AC, R 423.505 and 423.507, in support of its conclusions.
+On February 21, 2002, POAM filed a complaint seeking to vacate that portion of the arbitration award that refused to consider POAM’s last best offer on the right to arbitrate pending grievances. POAM argued that MCL 423.238 and Rules 423.505 and 423.507 do not prohibit a party from raising “issues in dispute prior to the close of the hearing, and that both POAM and defendants were ‘on notice of the existence of the dispute throughout the pendency of the arbitration proceeding.’ ” Both parties moved for summary disposition. The trial court granted respondents’ motion for summary disposition, agreeing with the reasoning of the arbitration panel’s majority.
+II
+POAM argues that the arbitration panel erred by refusing to consider POAM’s last best offer regarding the retroactive arbitration of grievances at the hearing and that the trial court erred by granting summary disposition in favor of respondents. This Court reviews de novo a trial court’s grant or denial of summary disposition. Spiek v Dep’t of Transportation, 456 Mich 331, 337; 572 NW2d 201 (1998). Similarly, statutory construction is a question of law that is subject to review de novo. Haworth, Inc v Wickes Mfg Co, 210 Mich App 222, 227; 532 NW2d 903 (1995). While circuit courts are limited in their review of arbitration decisions pursuant to statute, MCL 423.242, we may review an error of law that is substantial and apparent on its face. Collins v Blue Cross Blue Shield of Michigan, 228 Mich App 560, 567; 579 NW2d 435 (1998) (citations omitted).
+Section 8 of Act 312, MCL 423.238, provides in relevant part:
+At or before the conclusion of the hearing held pursuant to section 6, the arbitration panel shall identify the economic issues in dispute, and direct each of the parties to submit, within such time limit as the panel shall prescribe, to the arbitration panel and to each other its last offer of settlement on each economic issue. The determination of the arbitration panel as to the issues in dispute and as to which of these issues are economic shall be conclusive. [Emphasis added.]
+The arbitration panel concluded that “by allowing an issue to be added near or at the hearing, when it is opposed by the other side, serious problems could be created.”
+The primary goal of judicial interpretation of statutes is to ascertain and give effect to the intent of the Legislature. Gladych v New Family Homes, Inc, 468 Mich 594, 597; 664 NW2d 705 (2003). The plain language of MCL 423.238 provides that the arbitration panel shall identify the economic issues in dispute at or before the conclusion of the hearing held pursuant to section 6. The Legislature’s use of the disjunctive “or” indicates that the Legislature intended for arbitration panels to determine the economic issues in dispute either at the hearing or before the conclusion of hearing. There is no language in MCL 423.238 that requires issues to be determined before the hearing or that precludes the consideration of new issues at the hearing. The arbitration panel’s conclusion that the issue regarding the retroactive arbitration of grievances was precluded under MCL 423.238 because the issue was not raised before the hearing does not comport with the plain language of the statute and is an error of law that is substantial and apparent on its face.
+Additionally, statutory language should be construed reasonably, keeping in mind the purpose of the act. Draprop Corp v City of Ann Arbor, 247 Mich App 410, 415; 636 NW2d 787 (2001). Because police and fire departments are forbidden from striking, public policy requires an “alternate, expeditious, effective and binding procedure for the resolution of disputes” to maintain the high morale of the employees and the efficient operation of the departments. MCL 423.231. “[T]o that end, the provisions of [MCL 423.231 et seg.] shall be liberally construed.” MCL 423.231.
+Accordingly, we conclude that the arbitration panel erred in concluding that MCL 423.238 precluded the consideration at the arbitration hearing of POAM’s issue regarding the retroactive arbitration of grievances. Nothing in the plain language of MCL 423.238 precludes a party from identifying a disputed issue at the arbitration hearing. The arbitration panel erred by failing to consider POAM’s last best offer on the issue of retroactive arbitration of grievances, and the trial court erred by granting respondents’ motion for summary disposition.
+Reversed and remanded. Jurisdiction is not retained.
+Under Act 312, an arbitration panel is composed of an employer’s delegate, and employee’s delegate, and an impartial delegate from the Michigan Employment Relations Commission. MCL 423.234.
+POAM’s delegate on the panel dissented.
+MCL 423.238 only applies to economic issues. While appellant challenges both the panel’s determination that the retroactivity question is arbitrable and that it is an economic issue, for purposes of this case these determinations are “conclusive.” MCL 423.238.
+Section 6, MCL 423.236, provides in relevant part:
+Upon the appointment of the arbitrator, he shall proceed to act as chairman of the panel of arbitration [and] call a hearing, to begin within 15 days.... The hearing conducted by the arbitration panel may be adjourned from time to time, but, unless otherwise agreed by the parties, shall be concluded within 30 days of the time of its commencement....
+Nonetheless, the record makes clear that the parties discussed the issue of retroactive arbitration of grievances and that defendants were on notice that the issue was in dispute.
+The arbitration panel also relied, in part, on 1999 AC, R 423.505 and 423.507(1) and (2) in rejecting POAM’s last best offer regarding the arbitration of grievance issues. 1999 AC, R 423.505 provides for the submission of a petition to initiate compulsory arbitration under Act 312. 1999 AC, R 423.507 addresses the prehearing and arbitration hearings. Neither rule requires the identification of issues in advance of the hearing.
+Respondents raise several alternative grounds for affirming the trial court’s grant of summary disposition in their favor, none of which we find persuasive.
