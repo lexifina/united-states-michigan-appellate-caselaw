@@ -1,0 +1,47 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-3133"
+decided: "1979-11-19"
+citations: ["93 Mich. App. 742"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. F. Walsh, P.J., and Bronson and T. M. Burns, JJ.", "T. M. Burns, J., concurred."]
+parties: ["PETERSON v WHITE PINE COPPER COMPANY"]
+source_url: "https://static.case.law/mich-app/93/cases/0742-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2173631
+cites_cases: ["139 NW2d 745", "175 NW2d 774", "262 NW2d 629", "274 NW2d 411", "377 Mich 226", "383 Mich 457", "402 Mich 243", "405 Mich 105"]
+---
+
+# Peterson v. White Pine Copper Co.
+
+## Majority (Bronson, J.)
+
+Bronson, J.
+Plaintiff appeals by leave granted from the opinion and order of the Worker’s Compensation Appeal Board (WCAB) denying him benefits.
+Plaintiff worked for only about two hours on March 28, 1962, his last day of work. After moving some heavy pumps and hoses, he was forced to leave work and was hospitalized. Previous to this date plaintiff had experienced chest pains which were diagnosed as pleurisy, a respiratory ailment. The evidence also indicated that plaintiff had fainted on previous occasions while working for defendant, that on the weekend prior to his last day of work he had experienced some fainting, chest pain, and shortness of breath, and that the chest pains he suffered on his last day of work were qualitatively different from those experienced on previous occasions.
+There is no question that the plaintiff is disabled. His ailment has most often been diagnosed as myocardial ischemia, apparently produced by the progressive disease arteriosclerosis. The issue is whether his disability arose out of and in the course of his employment, so that he might be awarded worker’s disability compensation benefits. The WCAB found that his disability was not employment related. Plaintiff contends that there was no evidence on which the WCAB could base such a finding, and that as a result the WCAB has drawn an inference contrary to the undisputed evidence.
+Worker’s disability compensation benefits may be awarded for disabling heart ailments when the work has caused, accelerated, or aggravated the disability. Kostamo v Marquette Iron Mining Co, 405 Mich 105; 274 NW2d 411 (1979), Zaremba v Chrysler Corp, 377 Mich 226; 139 NW2d 745 (1966). The WCAB apparently recognized this as the correct legal standard, but relied on the fact the plaintiff had experienced physical symptoms prior to his last day of work as grounds for denying him benefits. This analysis brushes over the crucial question of whether the work accelerated or aggravated the plaintiff’s condition. While plaintiff’s arteriosclerosis was apparently far advanced, that does not mean that it could not have been affected by the strenuous work effort of March 28, 1962. The depositions of two physicians were used in the hearing on this matter, and both testified that the plaintiff’s work efforts did accelerate his ischemia. The fact that plaintiff may have suffered symptoms that could be equated with ischemia prior to his last day of work does not detract from this testimony. We have searched the record for evidence that contradicts the testimony to the effect that plaintiff’s injury was work-related and have found none. The factual findings of the WCAB are conclusive if supported by competent, material, and substantial evidence in the record. Dressler v Grand Rapids Die Casting Corp, 402 Mich 243, 250; 262 NW2d 629 (1978). The WCAB may not, however, draw factual inferences contrary to the undisputed evidence in the record. White v Revere Copper & Brass, Inc, 383 Mich 457; 175 NW2d 774 (1970). Accordingly, we reverse and hold plaintiff established a work-related injury.
+This cause is remanded to the WCAB for a determination of whether plaintiff is barred from receiving benefits by a failure to give timely notice of injury or to file timely a claim. See MCL 412.15; MSA 17.165, the applicable provision in effect at the time of plaintiff’s injury.
+Reversed and remanded.
+T. M. Burns, J., concurred.
+
+## Dissent (D. F. Walsh, P.J.)
+
+D. F. Walsh, P.J.
+(dissenting). Plaintiff, Philip M. Peterson, appeals from the Worker’s Compensation Appeal Board’s denial of his petition for disability compensation benefits. The hearing referee had also. denied benefits citing Zaremba v Chrysler Corp, 377 Mich 226; 139 NW2d 745 (1966). Plaintiff concedes that the appeal board, in making its determination in this case, applied the correct legal standard as set forth in Zaremba and recently reaffirmed in Kostamo v Marquette Iron Co, 405 Mich 105; 274 NW2d 411 (1979).
+The issue is whether the board erred by drawing factual inferences for which there was no basis in the undisputed testimony and which wére contrary to that testimony. White v Revere Copper & Brass, Inc, 383 Mich 457; 175 NW2d 774 (1970).
+Specifically the board found that the plaintiff had "the progressional disease, arteriosclerosis, and that his onset of disabling symptoms preceded his fínal work day”. His brief effort on March 28, 1978, merely demonstrated his inability to any longer perform strenuous labor. The work did not contribute to that disability.
+The relevant facts of this case are as follows: Plaintiff was taken to the hospital on March 28, 1962, after suffering exhaustion resulting from handling heavy sump pumps and hoses. He was treated for heart condition and has not worked since. When admitted to the hospital, plaintiff indicated that he had been ill for the previous week, that he had fainted three times over the weekend, that he was unable to continue working on that morning because of difficulty in breathing, and that he was experiencing pain in his left chest. Evidence introduced at the hearing, 14 years later, revealed that during the December preceding plaintiff’s last day of work he had experienced chest pains which were at that time considered to be associated with pleurisy. Plaintiff testified, however, that the symptoms that he experienced on his last day of work were different from the symptoms he had experienced prior to that date. From this testimony plaintiff now claims that the board’s finding that "the onset of disabling symptoms preceded the final day of work” is contrary to the undisputed testimony in the case. I cannot agree.
+Dr. Stroube, plaintiff’s treating physician and one of his expert witnesses, diagnosed plaintiff’s condition as myocardial ischemia, which he described as "a condition of the heart meaning a lack of blood supply”. He further testified that chest pain, shortness of breath and fainting were all symptoms of ischemia and that plaintiff’s ischemia preceded his last day of work. From this testimony the appeal board could properly infer that the symptoms suffered by plaintiff prior to his last day of work were symptoms of the same arteriosclerosis induced ischemic condition which caused his disability. The board was not bound by plaintiffs self-serving testimony that the symptoms suffered that day were qualitatively different from previous problems.
+Moreover, my review of the record persuades me that there is support therein for the board’s findings that plaintiff was disabled by the "progressional disease arteriosclerosis”; that his work "did not contribute to that disability”; and that his brief effort on March 28, 1962, did not cause disabling heart damage but "merely demonstrated his inability to any longer perform strenuous labor”.
+I would affirm.
+Dr. Stroube testified as follows:
+"Q. (by defendant’s attorney) * * * Assume that he had suffered chest pain and shortness of breath throughout that weekend, that he had fainted several times during that weekend. That upon returning to work he found that he was unable to perform any physical activity. Do you have an opinion as to when the ischemia which you indicated was shown on the 28th, do you have an opinion as to when that would have first occurred? Would it have been on the 28th or would it have been prior to that time?
+"A. Well, the ischemia had to occur before that time. There is no question about it. Ischemia doesn’t just happen overnight. The onset of symptoms may occur at a specific time but the ischemia has to be a gradual onset for some time.
+"Q. Do you feel that pain, shortness of breath, fainting, and again assuming that Mr. Peterson did suffer these symptoms over the weekend prior to the time that he returned to work, do you feel that these would also be symptoms of his ischemia?
+"A. Yes.”
+Plaintiff relies on the following statement from footnote 9 in Kostamo as support for the contention made at oral argument that "miocardial ischemia” is itself an "injury” to the heart.
+" 'It is well established that at times physical activity, while not causing the primary heart disease, may precipitate acute congestive heart failure and/or acute ischemic episodes. The ischemia can precipitate angina pectoris or a dysrhythmia, perhaps a fatal one.’ American Heart Association, Report of the Committee on Stress, Strain and Heart Disease, p 4. Reprinted from 55 Circulation (No. 5, May, 1977).” Kostamo v Marquette Iron Mining Co, 405 Mich 105, 126; 274 NW2d 411 (1979).
+I do not so read the footnote nor is such a reading consistent with Dr. Stroube’s understanding of the condition as indicated in his testimony. See footnote 1, supra.
