@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "51892"
+decided: "1981-05-06"
+citations: ["106 Mich. App. 274"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Beasley, P.J., and Bashara and Mackenzie, JJ."]
+parties: ["SAGINAW JOINT VENTURE v ELIAS BROTHERS RESTAURANTS, INC"]
+source_url: "https://static.case.law/mich-app/106/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2187021
+cites_cases: ["116 NW 1090", "13 Mich App 556", "153 Mich 244", "164 NW2d 777", "177 NW2d 193", "189 NW 37", "191 NW 6", "205 NW2d 24", "219 Mich 500", "22 Mich App 117", "221 Mich 302", "240 NW2d 710", "260 NW2d 915", "264 NW2d 9", "350 Mich 75", "353 So 2d 944", "381 Mich 806", "396 Mich 379", "402 Mich 870", "407 NE2d 507", "44 Mich App 44", "61 ALR3d 397", "63 Ohio St 2d 201", "79 Mich App 31", "80 Mich App 418", "85 NW2d 84", "91 NM 661"]
+---
+
+# Saginaw Joint Venture v. Elias Bros. Restaurants, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals from a circuit court order granting defendant’s motion for summary judgment.
+Plaintiff is the owner of Fashion Square Mall, located in Saginaw Township. Defendant entered into a 15-year-lease agreement for the operation of a Big Boy Restaurant inside the mall. A base rental was to be paid by defendant plus a percentage of the gross sales in excess of $412,500.
+The pertinent lease provision contained the following language:
+"TENANT agrees that, so long as this lease shall remain if effect, TENANT (or any officer, director, or shareholder owning capital stock of TENANT if TENANT be a corporation) will not, within a radius of three (3) miles of the perimeter of the Shopping Center of which the PREMISES are a part, either directly or indirectly, own, operate or be financially interested in, either itself or with others, a business like, or similar to, the business permitted to be conducted under Subsection 7(a) hereof. LANDLORD, for breach of this covenant and in addition to any other remedy otherwise available, may require that all sales from any such business be included within gross sales as used in the computation of Percentage Rent pursuant to Subsection 3(b) hereof as though such sales had actually been made from the PREMISES.”
+Defendant subsequently entered into an agreement with Baysha Restaurants for the construction of a Big Boy Restaurant within the three-mile radius of the mall. In return for granting the franchise, defendant received a franchise fee and a percentage of the monthly gross sales. Upon discovery of the construction of the restaurant within the three-mile radius, plaintiff filed this suit and sought an injunction or the addition of the gross sales of Baysha Big Boy to the gross sales of defendant’s restaurant within the mall. Plaintiff subsequently dismissed its claims for an injunction and rested its claim upon the additional gross sales provision.
+The trial court found that the agreement between plaintiff and defendant violated MCL 445.761; MSA 28.61 because defendant covenanted that it would not compete within three miles of the mall.
+Plaintiff claims that this provision did not come within the proscriptions of the statute or that, even if it did, it should be upheld because it is reasonable. Plaintiff asserts that the agreement does not prohibit competition within the three-mile area bacause the gross sales provision is not an agreement by defendant "not to engage in any business”. However, the prior language in the lease provision which states that defendant will not open a business within the three-mile radius belies the assertion.
+Plaintiff points to Couch v Administrative Com mittee of the Difco Laboratories Inc Salaried Employees Pro&t Sharing Trust, 44 Mich App 44; 205 NW2d 24 (1972), in support of this position. That case is distinguishable from the facts of the case at bar. There the Court said that the statute did not apply to a forfeiture of an interest in a profit sharing plan as a result of the employee being employed by a competitor. The Court noted that a forfeiture was not a covenant not to compete with his employer. The same result was reached in Tweedle v Tweedle Litho Co, 80 Mich App 418; 264 NW2d 9 (1978). The Michigan Supreme Court has agreed that a forfeiture of employee benefits as a result of employment with a competitor does not fall within the statutory proscription. Woodward v Cadillac Overall Supply Co, 396 Mich 379; 240 NW2d 710 (1976).
+However, when the contract uses language such as "not to engage in”, "shall not”, "will not”, "no partner shall engage”, or "agrees not to compete”, the courts have found the statute to have been violated and the provisions unenforceable. See E W Smith Agency, Inc v Sanger, 350 Mich 75; 85 NW2d 84 (1957), Lyzen v Lyzen, 221 Mich 302; 191 NW 6 (1922), Grand Union Tea Co v Lewitsky, 153 Mich 244; 116 NW 1090 (1908), Bernstein, Bernstein, Wile & Gordon v Ross, 22 Mich App 117; 177 NW2d 193 (1970), and Mackie v State Farm Mutual Automobile Ins Co, 13 Mich App 556; 164 NW2d 777 (1968), lv den 381 Mich 806 (1969).
+The language in the lease which states that defendant will not construct a restaurant within three miles of the mall is in violation of the statute and, therefore, improper.
+Plaintiff claims that even if this provision comes within the statute it should be upheld because the provision is reasonable. It claims that Gasses v Razk, 219 Mich 500; 189 NW 37 (1922), and Bobenal Investment, Inc v Giant Super Markets, Inc, 79 Mich App 31; 260 NW2d 915 (1977), lv den 402 Mich 870 (1978), allow for application of a reasonableness standard which is within the boundaries of the statute. Both of those cases involve unique factual situations. The restrictions there were imposed on the owner by the tenant. These restrictions lasted for the term of the lease which had been surrendered by the tenant to the landlord-owner. The Courts noted that because the owner had an absolute right to impose limitations on the use of his land during the term of the lease, the tenant had a similar right to the continuance of those restrictions when the lease was surrendered before its term had expired. These sanctions could arguably be within the exception stated in MCL 445.766; MSA 28.66. We find that the foregoing cases dod not reach the situation at hand.
+Plaintiffs citation to other jurisdictions for the proposition that a rule of reason should be applied ignores the language of the Michigan statute, which states that the agreement is illegal and void regardless of whether it is reasonable or unreasonable. For that reason, CK & JK, Inc v Fairview Shopping Center Corp, 63 Ohio St 2d 201; 407 NE2d 507 (1980), Pensacola Associates v Biggs Sporting Goods Co, 353 So 2d 944 (Fla App, 1978), and Winrock Enterprises, Inc v House of Fabrics of New Mexico, Inc, 91 NM 661; 579 P2d 787 (1978), are not applicable.
+We are in agreement with the trial court that the provision as written is in violation of the statute and is, therefore, unenforceable.
+Affirmed, costs awarded to defendant.
