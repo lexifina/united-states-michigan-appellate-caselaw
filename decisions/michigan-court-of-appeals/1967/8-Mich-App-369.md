@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "2,503"
+decided: "1967-11-28"
+citations: ["8 Mich. App. 369"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quinn, J., concurred with McGregor, J."]
+parties: ["ALMAR TRUCKING, INC., v. BONANZA TRUCKING COMPANY."]
+source_url: "https://static.case.law/mich-app/8/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2062671
+cites_cases: ["131 NE 566", "14 ALR 1054", "231 NY 51", "245 Mich 599", "255 US 109", "255 US 81", "323 Mich 624", "344 Mich 207", "361 Mich 311", "369 Mich 204", "41 S Ct 306", "53 F Supp 817"]
+---
+
+# Almar Trucking, Inc. v. Bonanza Trucking Co.
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+The plaintiff-appellant Almar Trucking company contracted to haul gravel for the defendant-appellee Bonanza Trucking Company, for less than the minimum over-the-road rates estabfished by the Michigan public service commission pursuant to the motor carrier act. CL 1948 and CLS 1961, § 475.1 et seq., as amended (Stat Ann and Stat Ann 1965 Cum Supp § 22.531 et seq.). Suit was brought for what would have been the balance owed, if the minimum published rates had been applied. The appellee claims the transaction was exempt from the regulation because article 5, § 2 of the act, CLS 1961, § 479.2, as amended (Stat Ann 1965 Cum Supp § 22.567[a]) exempted all exclusively “local” trucking service. The pertinent portion of the last-mentioned act states as follows:
+“Sec. 2. This act shall not apply to:
+“(a) Vehicles operated entirely within any city or village of this State; * * nor to motor carriers of property whose local operations may extend a distance of not to exceed 8 miles beyond the boundary of such city or village in which such local operations are wholly carried on.”
+In this case the trucking route was almost entirely outside the city limits, but within an 8-mile radius of a city. The appellee counterclaimed for an overpayment under the contract. Trial court held the exemption was applicable and awarded judgment on the counterclaim.
+The question for this Court to resolve is the proper application of the exemption provision of the motor carrier act. We can find no cases directly on point, and the parties each rely on seemingly contradictory single cases. The appellant relies on Grand Rapids Motor Coach Company v. Public Service Commission (1949), 323 Mich 624. That case held that a bus company operating within the city limits but extending its operation outside the city limits for a distance of 2 miles was exempted under the act. Appellant argues, and gains support from an attorney general’s opinion, 1 OAGr 1957, No 3,010, p 407 (August 26, 1957), that this case stands for the proposition that the section exempting “local” service included service within an 8-mile radius only to allow city-controlled carriers to extend their service to surrounding areas, therefore, a carrier’s trip must either originate or terminate within the city limits to he exempt.
+Appellee relies on the case of People v. Wiegand (1963), 369 Mich 204, involving a criminal prosecution instituted by the public service commission under authority of the motor carrier act, supra. There, as here, the trucking route originated and terminated outside of the city limits, but within the 8-mile exemption zone. The court ruled that a criminal prosecution could not be supported under this statute, as it was not so clear that an ordinary person could tell what to do thereunder.
+In light of the Wiegand decision, the relevant question is whether the statutory provision, which has been held to be too uncertain to support a criminal prosecution, should be used to invalidate this agreement. A well-reasoned opinion by Justice Cardozo, Standard Chemical & Metals Corp. v. Waugh Chemical Corp. (1921), 231 NY 51 (131 NE 566, 14 ALR 1054) answers the question in the negative. In that case, plaintiff agreed to sell oleum at a certain price. After the parties had been operating under the agreement for a lengthy period, the defendant refused to purchase any more on the grounds that the price was excessive and thereby in violation of New York statutes. However, Justice Cardozo pointed out that this particular provision of the act had been held by the United States Supreme Court to be too uncertain to support a criminal prosecution. He ruled that since the United States Supreme Court had held the provision uncertain, he was bound by that ruling. ¥e therefore conclude that a law that is so indefinite as to be unintelligible is not a law that may be used to govern people’s conduct.
+The reasoning of Justice Cardozo is applicable to the question presented herein. People v. Wiegand, supra, has held this provision of the statute uncertain. This Court is bound by the Michigan Supreme Court’s determination of uncertainty. The uncertain language of the motor carrier act, supra, cannot be grounds to invalidate this contract. The trial court was correct in entering judgment for appellee.
+Affirmed. Costs to appellee.
+Quinn, J., concurred with McGregor, J.
+United States v. L. Cohen Grocery Company (1921), 255 US 81 (41 S Ct 298, 65 L ed 516), and Weeds, Inc., v. United States (1921), 255 US 109 (41 S Ct 306, 65 L ed 537).
+
+## Dissent (T. G. Kavanagh, P. J.)
+
+T. G. Kavanagh, P. J.
+(dissenting). I do not favor the application of Justice Cardozo’s opinion in Standard Chemicals & Metals Corp. v. Waugh Chemical Corp. (1921), 231 NY 51 (131 NE 566, 14 ALR 1054), to the case at bar. The reason for the “void for vagueness” rule “is certainly not as obvious in a civil responsibility as it would be in a criminal charge.” Hall v. Union Light, Heat & Power Co. (1944, ED Ky), 53 F Supp 817, 820. There is a vast difference between a person, on the one hand, answering an indictment which charges that he is guilty of committing a criminal act, subjecting him to the penal consequences thereof, and, on the other hand, meeting the question whether his agreement is voidable because of illegality. In my view, the holding in People v. Wiegand (1963), 369 Mich 204, does not preclude us from determining whether the contract in question violates the motor carrier act (CL 1948 and'OLS 1961, §475.1 et seq., as amended [Stat Ann and Stat Ann 1965 Cum Supp § 22.531 eb seq.]), and such a determination turns on whether this transaction was exempt from the terms of the act by virtue of CLS 1961, § 479.2, as amended (Stat Ann 1965 Cum Supp § 22.567[a]).
+In Grand Rapids Motor Coach Company v. Public Service Commission (1949), 323 Mich 624, 639, the Court said:
+“Thus it must be held that this language instead of setting up a separate class of exempt carriers, was intended merely to enlarge the exemption of vehicles used entirely within any city or village so that they could be used to serve surrounding areas of such city or village, within the limits designated in the statute, without being subject to the control and regulation of the commission.”
+Although the Court was interpreting the language of the exemption as it applies to carriers of passengers, the statutory language relating to carriers of property is identical and the reasoning of the Court applies to both. It is clear, then, that the exemption for local service includes service within the 8-mile radius only for the purpose of allowing a vehicle operating within a city to extend its service to surrounding areas, each trip either originating or terminating within the city limits. Accordingly, I would hold that because the vehicles involved in this transaction both originated and terminated without the city limits, they were not exempt, and as a result the agreement was illegal since it did not comply with the rates prescribed under the statute.
+It is well settled that when an illegal agreement has been fully executed by the parties (as in the case at bar), the court will leave the parties where they have placed themselves by refusing all affirmative aid to either. Leland v. Ford (1929), 245 Mich 599, See, also, Kukla v. Perry (1960), 361 Mich 311; Cook v. Wolverine Stockyards Co. (1955), 344 Mich 207.
+The circuit judge correctly ruled that plaintiff was not entitled to judgment on its complaint, but erroneously ruled that defendant could recover its overpayment on its counterclaim. Accordingly, I would reverse and set aside the judgment.
