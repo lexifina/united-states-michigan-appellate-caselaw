@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "249172"
+decided: "2005-02-15"
+citations: ["265 Mich. App. 232"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: SMOLENSK, EJ., and SAAD and BANDSTRA, JJ."]
+parties: ["NUMERICK v KRULL"]
+source_url: "https://static.case.law/mich-app/265/cases/0232-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1103469
+cites_cases: ["205 Mich App 51", "212 Mich App 184", "234 Mich App 352", "237 Mich App 186", "239 Mich App 674", "246 Mich App 212", "437 Mich 231", "470 NW2d 372", "517 NW2d 558", "536 NW2d 865", "594 NW2d 505", "602 NW2d 834", "609 NW2d 844", "631 NW2d 353"]
+---
+
+# Numerick v. Krull
+
+## Majority (BANDSTRA, J.)
+
+BANDSTRA, J.
+In this paternity action, plaintiff appeals as of right the trial court order granting summary disposition in favor of defendant. We conclude that the trial court properly determined that plaintiffs action was barred by both the language of the Paternity Act, MCL 722.711 et seq., and controlling case authority, even though the action was brought before defendant gave birth to the child that plaintiff claims to be his. We affirm.
+Plaintiff alleged that, following their relationship during summer 2002, defendant became pregnant. The relationship ended and, during the pregnancy, on February 21, 2003, plaintiff filed this suit to establish his paternity under the Paternity Act. Nonetheless, defendant married another man on March 28,2003, and gave birth to the child while thus married. As a result, the trial court granted defendant’s motion for summary disposition, reasoning that plaintiff could not maintain this action because the child was not “born out of wedlock” within the meaning of the statute.
+This result was required under the language of the statute as it has been construed in cases establishing or following the controlling precedent. In Girard v Wagenmaker, 437 Mich 231, 241; 470 NW2d 372 (1991), our Supreme Court reasoned that because the statute allows a man to file a complaint to determine paternity only if the child at issue was “born out of wedlock,” the proper focus was on the definition of that term. The version of MCL 722.711(a) considered in Girard provided that a “ ‘[c]hild born out of wedlock’ means a child begotten and born to a woman who was not married from the conception to the date of birth of the child, or a child which the court has determined to be a child born during a marriage but not the issue of that marriage.” Girard, supra at 237. Because the facts in Girard clearly indicated that the defendant was married to another man at the time the child was born, the first of these two options under the definition was unavailable to the plaintiff. Id. at 242.
+This Court came to the same conclusion in Spielmaker v Lee, 205 Mich App 51, 58; 517 NW2d 558 (1994):
+Thus, for a child to be deemed born out of wedlock under the first definition of that phrase contained in the statute, it is necessary that the mother have been “not married” for the entire gestation, or “from the conception to the date of birth of the child.” Because in the case at bar defendant was not, in fact, “not married” for the entire gestational period, or “from the conception to the date of birth of the child,” the child was not born out of wedlock.
+This Court “has consistently applied the Supreme Court’s interpretation of the standing requirement under the Paternity Act” to prevent suits like plaintiffs. McHone v Sosnowski, 239 Mich App 674, 678; 609 NW2d 844 (2000), citing Opland v Kiesgan, 234 Mich App 352, 356; 594 NW2d 505 (1999), Hauser v Reilly, 212 Mich App 184, 190-191; 536 NW2d 865 (1995), and Spielmaker, supra at 59-60.
+Plaintiff acknowledges this authority, but claims that the present case is distinguishable because he filed his action before the child was born. Plaintiff does not attempt to explain why that distinction matters under the statute or the precedent, and we conclude that it makes no difference whatsoever. Quite simply, the statute does not authorize a paternity action brought by a purported father, except with regard to a child born out of wedlock; that is the case regardless of the timing of the action. In situations like that presented here, a child is not born out of wedlock if her mother has previously married, even if that marriage occurred after the filing of the action.
+Plaintiff claims that it is unfair to allow an unmarried pregnant woman to preclude a paternity action simply by marrying before a child is born. As with other such policy arguments raised in previous cases, we conclude that our job is not to rewrite the statute and we direct plaintiff to the Legislature for any relief that might be forthcoming. See, e.g., Hauser, supra at 190-191; Spielmaker, supra at 59-60.
+We affirm.
+The Girard Court also noted a provision in the statute providing that “ ‘the father or putative father of a child bom out of wedlock may file a complaint in the circuit court....’” Id. at 237. That provision has since been deleted from the statute. Nonetheless, paternity actions under the statute may only be filed with respect to a “child,” which is defined to be a “child born out of wedlock,” MCL 722.711(b), and, accordingly, standing is only granted to men who claim to he fathers to children born out of wedlock. McHone v Sosnowski, 239 Mich App 674, 677; 609 NW2d 844 (2000).
+We note that the Paternity Act provides that “[a]n action ... may be commenced during the pregnancy of the child’s mother....” MCL 711.714(3). That provision specifies when an action may be commenced. It does nothing to enlarge the category of persons entitled to file or maintain an action. Further, the statute provides that, in cases filed before a child is born, “the case, unless the defendant mother or defendant father consents to trial, shall be continued until the child is horn.” MCL 722.715(2). That would allow a court to determine whether the child was “bom out of wedlock” for purposes of determining whether the action could be maintained.
+Plaintiff also suggests there may be equal protection or due process problems with the statute, but, because these claims were not raised in the statement of the question presented and because plaintiff failed to cite any authority or argument in support, we will not consider them. In re BKD, 246 Mich App 212, 218; 631 NW2d 353 (2001); Prince v MacDonald, 237 Mich App 186, 197; 602 NW2d 834 (1999). Further, we note that similar constitutional claims were rejected in McHone, supra at 678-679, and Hauser, supra at 187-190.
