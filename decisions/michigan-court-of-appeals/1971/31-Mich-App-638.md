@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9132"
+decided: "1971-03-25"
+citations: ["31 Mich. App. 638"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P. J., and J. H. Gillis and Danhof, JJ.", "All concurred."]
+parties: ["PEOPLE v. WASSON"]
+source_url: "https://static.case.law/mich-app/31/cases/0638-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2095871
+cites_cases: ["1 Md App 455", "1 Mich App 428", "10 ALR3d 974", "15 Mich App 154", "17 Mich App 277", "22 Mich App 124", "23 Mich App 20", "23 Mich App 210", "230 A2d 700", "241 Or 567", "252 A2d 398", "273 Cal App 2d 325", "306 Mich 49", "31 ALR3d 565", "324 F2d 582", "348 F2d 837", "378 US 478", "384 US 436", "4 Mich App 660", "427 F2d 1322", "54 NJ 1", "78 Cal Rptr 75"]
+---
+
+# People v. Wasson
+
+## Majority (J. H. Gillis, J.)
+
+J. H. Gillis, J.
+Defendant was convicted in a jury trial of receiving stolen property, MCLA § 750-.535 (Stat Ann 1971 Cum Supp § 28.803). This appeal as of right raises three issues.
+Defendant was the alleged owner of a motorcycle which was suspected of having been stolen. Police tests revealed that the serial number on the vehicle was altered. The complainant in this case, the true owner of the motorcycle in question, reported seeing his missing motorcycle in a repair shop in South-gate, Michigan. He based his identification on several distinctive marks which were the result of his workmanship on the vehicle. This discovery was reported to the police, who in turn seized the vehicle from the repair shop. Defendant argues that the trial court erred in receiving evidence regarding the altered description of the serial number and alleges that this evidence is the product of an illegal search and seizure.
+The evidence in question was not in the possession of the defendant, but rather in possession of a repairman at the time it was seized by police. The United States Court of Appeals for the Sixth Circuit recently reviewed a similar factual situation in which evidence was in the possession of a dry cleaners at the time it was seized without a warrant. That Court held that when potential evidence is turned over by a defendant to a third party, thus exposing it to public scrutiny, no claim of unreasonable search and seizure will be heard. That Court concluded:
+“Here appellant delivered the suit to the cleaners open to public view. He knew that the suit could be handled and examined by many persons in the course of the cleaning process, but he in no way tried to conceal the suit or anything contained thereon, nor did he try to restrict the number of persons who handled it. We are therefore unable to find any significant invasion of anything which appellant sought to ‘preserve as private’ ”. Clarke v. Neil (CA 6, 1970), 427 F2d 1322, 1325.
+In the case now before us, the defendant placed the motorcycle in the hands of the repairman, in full view of all who entered the shop. Furthermore, at trial, no objection was made to the admission of the evidence obtained in the search and seizure now in question. Barring the occurrence of manifest injustice, this Court has consistently held that issues not properly preserved below cannot now be raised for the first time. People v. Omell (1968), 15 Mich App 154; People v. Bradley (1966), 4 Mich App 660; People v. Willis (1965), 1 Mich App 428. Alleged violation of the search and seizure guaranty is without merit in this instance.
+Secondly, defendant alleges that the trial court erred in allowing into evidence a statement made by him before he was advised of his constitutional rights. The statement in question was made by the defendant to a detective when defendant was called into the police station.
+The basic issue thus is whether at the time the statement was made the investigation had become accusatory. If the investigation had reached that stage, the defendant was entitled to be advised of his constitutional rights. Escobedo v. Illinois (1964), 378 US 478 (84 S Ct 1758, 12 L Ed 2d 977); Miranda v. Arizona (1966), 384 US 436 (86 S Ct 1602, 16 L Ed 2d 694, 10 ALR3d 974). The deciding factor, in each case, is determined by examining the specificity of the investigation, i.e., whether the investigation has focused on one suspect.
+In the case at bar, defendant was requested to come to the police station for questioning. He voluntarily complied with that request. At the conclusion of the interview he was not placed in protective custody, but rather was freely permitted to leave the police station. Courts have consistently held that where the purpose of such interviews is investigatory rather than accusatory, the questioning authorities need not first give the Miranda warnings. United States v. Hall (CA 2, 1965), 348 F2d 837; Gaudio v. State (1967), 1 Md App 455 (230 A2d 700); State v. Barnes (1969), 54 NJ 1 (252 A2d 398); State v. Evans (1965), 241 Or 567 (407 P2d 621); People v. Wright (1969), 273 Cal App 2d 325 (78 Cal Rptr 75); People v. Robinson (1970), 22 Mich App 124. In submitting to the interview, defendant was not substantially deprived of his freedom of action in any way. Anno: 31 ALR3d 565.
+Thirdly, defendant alleges that the trial court erred in permitting the prosecution to cross-examine him regarding prior arrests which did not result in convictions. The defendant cites to us authority with which we are very familiar :
+“We now hold that a defendant testifying at his own trial may not be asked if he has been arrested or charged with crime, where the arrest or charge has not resulted in a conviction and where the only purpose of the questions is to impeach the defendant’s credibility as a witness. Where credibility is the only issue, the probative value of arrests and charges, unsubstantiated by a conviction, is slight at best. When weighed against the great danger that the jury despite careful instructions, might misapply such evidence, the scales of justice tip in favor of exclusions.” (Citations omitted.) People v. Brocato (1969), 17 Mich App 277, 302, 303.
+We agree with defendant’s conclusions that the defendant’s credibility was a most important issue in the trial below, “as the question of his knowledge of whether the motorcycle was stolen was the chief issue”. Therefore, we find that it was prejudicial to the defendant to attack his credibility by the improper references to previous arrests. United States v. Beño (CA 2, 1963), 324 F2d 582; People v. Brocato, supra; People v. Eddington (1970), 23 Mich App 210. Further, the prosecution may not introduce either juvenile arrests or juvenile court convictions against the defendant in adult criminal proceedings. MCLA § 712A.23 (Stat Ann 1962 Rev § 27.3178[598.23]); People v. Smallwood (1943), 306 Mich 49; People v. Warren (1970), 23 Mich App 20; 1 Underhill’s Criminal Evidence (5th ed, 1956) § 244, p 607, note 17a.
+The prejudicial error committed below requires reversal.
+Reversed and remanded for new trial.
+All concurred.
