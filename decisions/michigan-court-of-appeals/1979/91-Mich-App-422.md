@@ -1,0 +1,45 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-3231"
+decided: "1979-07-23"
+citations: ["91 Mich. App. 422"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. C. Riley, P.J., and V. J. Brennan and G. W. Crockett, Jr., JJ."]
+parties: ["PEOPLE v STEVENS"]
+source_url: "https://static.case.law/mich-app/91/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2176099
+cites_cases: ["192 NW2d 215", "1974 PA 258", "224 NW2d 45", "237 NW2d 482", "240 NW2d 729", "249 NW2d 693", "260 NW2d 77", "386 Mich 407", "393 Mich 215", "396 Mich 424", "399 Mich 350", "402 Mich 47", "63 ALR2d 782", "65 Mich App 396", "77 ALR3d 1143"]
+---
+
+# People v. Stevens
+
+## Majority (G. W. Crockett, Jr., J.)
+
+G. W. Crockett, Jr., J.
+On October 28, 1976, the defendant, Marcus Stevens, was convicted by a jury of armed robbery, MCL 750.529; MSA 28.797, and assault with intent to commit murder, MCL 750.83; MSA 28.278. He was sentenced to concurrent terms of 15 to 30 years imprisonment for the armed robbery conviction and 20 to 40 years for the assault conviction. Defendant appeals by leave granted.
+The facts concerning the robbery and assault are essentially undisputed. On June 10, 1975, a party store owner was shot and robbed while working at his store. A customer gave chase when the assailant escaped in an automobile and obtained the license number of the car. Defendant was subsequently arrested.
+On June 24, 1975, defense counsel moved for a competency hearing. At the hearing, held on July 17, 1975, defendant was found mentally incompetent to stand trial. A second hearing was held on January 22, 1976, at which defendant was found competent. Trial was set for June 14, 1976, and defendant filed notice of an insanity defense.
+In his opening statement to the jury, defense counsel conceded that his client had committed the charged offenses. However, counsel asserted that at the time of the crimes the defendant was insane. Defense counsel indicated that defendant’s insanity would be established with three types of evidence. The first type of evidence would be the manner in which the robbery occurred. "The second type of evidence will show that Marcus Stevens was declared mentally incompetent to stand trial.”
+At this point in counsel’s opening statement, the prosecution immediately asked for a mistrial and the jury was led from the courtroom. In arguing his motion, the prosecutor contended that all parties were precluded by statute, MCL 767.27a; MSA 28.966(11), from mentioning at trial the fact of defendant’s competency to stand trial. Defense counsel in reply claimed that both the statute and case law interpreting that statute permit the defendant to waive the statutory privilege if he chooses.
+After hearing the arguments of counsel and reviewing the statute and case law on which they relied, the trial court granted the prosecution’s motion for mistrial.
+On October 18, 1976, a new trial began. At the beginning of this second trial, defense counsel moved to dismiss on double jeopardy grounds. That motion was denied.
+The first question we consider is whether the trial court erred in precluding mention by defense counsel of the decision made at defendant’s competency hearings.
+The statute relied on by the prosecutor and the trial court concerns the procedure to be followed in competency hearings. It provided in relevant part:
+"The diagnostic report and recommendations shall be admissible as evidence in the hearing, but not for any other purpose in the pending criminal proceedings.” MCL 767.27a(4); MSA 28.966(H)(4).
+This statute was superseded by the new Mental Health Code (1974 PA 258; MCL 330.2020 et seq.; MSA 14.800[1020] et seq.). The new sections governing the admission of evidence resulting from competency proceedings were in effect by August 6, 1975. Since the error in this case occurred on June 5, 1976, the parties, and the trial court were incorrect in relying on the repealed statute.
+The use of evidence resulting from the competency proceedings is now governed by two sections of the new Mental Health Code. Section 1028(3) provides:
+"(3) The opinion concerning competency to stand trial derived from the examination may not be admitted as evidence for any purpose in the pending criminal proceedings, except on the issues to be determined in the hearings required or permitted by sections 1030 and 1040. The foregoing bar of testimony shall not be construed to prohibit the examining qualified clinician from presenting at other stages in the criminal proceedings opinions concerning criminal responsibility, disposition, or other issues if they were originally requested by the court and are available. Information gathered in the course of a prior examination that is of historical value to the examining qualified clinician may be utilized in the formulation of an opinion in any subsequent court ordered evaluation.” MCL 330.2028(3); MSA 14.800(1028X3).
+The opinion referred to is that of the examining center or facility.
+Section 1030(3) provides:
+"(3) The written report shall be admissible as competent evidence in the hearing, unless the defense or prosecution objects, but not for any other purpose in the pending criminal proceeding. The defense, prosecution, and the court on its own motion may present additional evidence relevant to the issues to be determined at the hearing.” MCL 330.2030(3); MSA 14.800(1030X3).
+The language employed in § 1030(3) is similar to that found in the repealed MCL 767.27a(4). Under that prior statute, the Michigan Supreme Court included the testimony of the examining psychiatrist under the statutory bar if the defendant objected to the admission of his testimony. People v Martin, 386 Mich 407, 425; 192 NW2d 215 (1971). The Court also found that other evidence resulting from the competency proceedings would be admissible if the defendant waived the statutory bar. People v Garland, 393 Mich 215; 224 NW2d 45 (1974). (See also, People v Brown, 399 Mich 350; 249 NW2d 693 [1976], People v Plummer, 65 Mich App 396, 400; 237 NW2d 482 [1975]).
+Whether this case law is still applicable under the present statute need not be addressed here. Martin and its progeny addressed the question of the admissibility of evidence or testimony used at the competency hearing. They did not consider, nor was there involved there, the admissibility of the trial court’s determination of competency based upon that evidence.
+In this case, defense counsel’s opening statement placed before the jury the fact that a prior judicial declaration of defendant’s incompetency to stand trial already had been made by the trial court. This, we hold, was improper and not within either the language of the statutory provisions quoted above, nor within the reasonable intention of the Legislature. Counsel here was not merely referring to information, medical opinion or other claimed evidence that might be relevant to an insanity defense; instead he was implanting in the minds of the jurors the fact that a court or some other authoritative body already had determined that the defendant was incompetent. It is one thing to refer to evidence of a claimed fact. It is another thing to refer to a judicial declaration of that fact.
+There remains the question whether the second trial placed the defendant in double jeopardy. Once a jury is impaneled and sworn, a defendant is placed in jeopardy. Once placed in jeopardy, he has the right to have his guilt weighed by that tribunal. Unless the defendant consents to the trial’s interruption, or a mistrial occurs because of "manifest necessity”, the state is precluded from bringing the defendant to trial again. People v Alvin Johnson, 396 Mich 424, 431-432; 240 NW2d 729 (1976). Considerable deference will be given to the trial judge’s determination of whether manifest necessity exists justifying the declaration of a mistrial. Manifest necessity does not exist where the error could have been dealt with by a less drastic remedy. People v Benton, 402 Mich 47, 60-61; 260 NW2d 77 (1977), People v Alvin Johnson, supra, 437-438.
+Given our discussion above, we doubt whether the harm caused by defense counsel’s statement could have been corrected by an instruction from the trial court. There already had been implanted in the minds of these lay jurors the fact that a judicial officer had considered and decided the incompetency issue; an issue that even some lawyers and most lay persons frequently confuse with the insanity issue. Much more than a mere admonition to disregard counsel’s remark would be needed to repair this damage deliberately caused by defense counsel.
+It follows from this that the second trial before a new jury was a "manifest necessity” and, hence, did not violate the defendant’s constitutional protection against double jeopardy.
+The conviction below is affirmed.
+Section 1030 directs the procedures for a competency hearing. MCL 330.2030; MSA 14.800(1030). Section 1040 covers hearings on redetermination of competency. MCL 330.2040; MSA 14.800(1040).
