@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "106247"
+decided: "1989-07-18"
+citations: ["178 Mich. App. 570"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Hood, P.J., and Wahls and Neff, JJ."]
+parties: ["CITIZENS INSURANCE COMPANY OF AMERICA v DELCAMP TRUCK CENTER, INC"]
+source_url: "https://static.case.law/mich-app/178/cases/0570-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2312599
+cites_cases: ["104 NW2d 360", "11 Mich App 274", "114 Mich App 700", "146 NW 369", "161 NW2d 133", "180 Mich 19", "22 Okla 475", "23 NW2d 239", "239 NW 289", "256 Mich 65", "282 NW 239", "286 Mich 546", "29 ALR3d 660", "315 Mich 141", "319 NW2d 638", "360 Mich 434", "417 Mich 959"]
+---
+
+# Citizens Insurance Co. of America v. Delcamp Truck Center, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant Ronald Delcamp appeals as of right from a January 6, 1988, money judgment awarded to plaintiff Citizens Insurance Company of America following a bench trial in Kent Circuit Court. We affirm.
+Citizens originally instituted this action against Delcamp, Delcamp Truck Center, Inc., Mack Truck, Inc., and Karen Emaus, seeking to recover an overpayment made by Citizens for repairs of an insured’s garbage truck. Citizens alleged various theories of recovery, but proceeded to trial against Delcamp only under a theory of conversion.
+Pursuant to a $500 settlement agreement, defendant Mack Truck, Inc., was dismissed from the case before trial. Defendants Delcamp Truck Center, Inc., and Karen Emaus were also voluntarily dismissed from this case prior to trial.
+The facts that give rise to this cause of action are as follows. A garbage truck owned by Cook Sanitation, Citizen’s insured, was damaged in an accident in July, 1985. Bell Equipment Company performed repairs on the garbage truck at a cost of $28,445. Delcamp Truck Center, Inc., also performed repairs on the garbage truck, at a cost of $5,280.15.
+Plaintiff drew a check, dated October 31, 1985, in the amount of $33,846.08 to Cook Sanitation and Delcamp Truck Center, Inc., for the repair work without listing Bell Equipment Company on the check. Karen Emaus, the bookkeeper and office manager at Delcamp Truck Center, Inc., testified that the company received the check in early November, 1985, and that she endorsed the check with the company’s bank stamp and deposited it in the company’s bank account. After depositing the check, Emaus credited Cook Sanitation’s account. The credit resulted in a credit balance of $21,109.36 in favor of Cook Sanitation.
+After he received a telephone call on May 6, 1986, from a representative of Bell Equipment Company inquiring why they had not been paid for their repair work, Robert Scott, Citizen’s liability supervisor, called Delcamp Truck Center and spoke with Emaus. Emaus explained that she would review the company’s books, talk to Ronald Delcamp, the president and owner of Delcamp Truck Center, Inc., and then get back to Scott.
+Scott telephoned Delcamp Truck Center on May 9, 1986, and again spoke with Emaus, who told him that she would leave a message for Delcamp to return the call. On May 13, 1986, Scott contacted Delcamp on the telephone, and he explained the situation to him. Delcamp told Scott that he would research the situation and call him the following morning. When Scott had not heard from Delcamp in two days, he telephoned Delcamp again. Delcamp again promised to research the matter and get back to Scott. By May 20, 1986, Delcamp had not returned Scott’s call. On that date, Scott telephoned Delcamp Truck Center, Inc., but was told Delcamp was not in. The following day, Scott issued a $28,515 draft to Bell Equipment. Scott did not speak to Delcamp again.
+During the course of Scott’s discussions with Delcamp, Scott explained that an overpayment had been made and that $28,515 was to be reimbursed to Citizens. Delcamp never denied that his company had been overpaid by Citizens.
+By the end of May, 1986, Scott had referred the matter to an attorney. On June 5, 1986, the attorney for Citizens wrote to Delcamp in his capacity as president of Delcamp Truck Center, Inc., explaining that his company had been overpaid $28,-515, and stating that, despite the repeated requests by Citizens, Delcamp had failed to return the money. Counsel for Citizens requested a reply within ten days.
+By letter dated June 9, 1986, Delcamp informed counsel for Citizens that the check had been credited to Cook Sanitation’s account, that there was a credit balance in Cook’s account, and that Del-camp was preparing to deliver a new truck to Cook Sanitation. Delcamp expressed his intent to settle this matter at the time the truck was delivered to Cook. Delcamp explained that such an arrangement would help his company resolve this matter without causing too big of a problem with their cash flow, which he conceded had been very tight.
+By letter dated June 20, 1986, Emaus informed counsel for Citizens that Delcamp Truck Center, Inc., anticipated delivering Cook Sanitation’s new truck before the end of June, that the company wished to initiate the proposal made in previous correspondence, and that she needed to know to whom she should address the check.
+The new truck was delivered to Cook Sanitation during the first week of July, 1986. Citizens was, however, never reimbursed for the overpayment.
+Delcamp testified at trial on November 13, 1987, that the arrangement outlined in the June correspondence was overly optimistic and later proved infeasible. Although Delcamp Truck Center, Inc., was still in business as of July 9, 1986, the company was forced into involuntary bankruptcy in October, 1986.
+In an opinion from the bench, the trial judge found that Delcamp’s failure to return the overpayment constituted an act of dominion, which made him personally liable for the amount converted. On January 6, 1988, the trial court entered a judgment against Delcamp and in favor of Citizens in the amount of $32,836, plus interest until the judgment is. satisfied.
+On appeal, Delcamp argues that the trial court erred in finding Delcamp personally liable for the conversion of the overpayment because he performed no distinct act of dominion over Citizens’ property and because he did not have the requisite intent to commit conversion. We disagree.
+We do not believe that the trial court erred in finding that Delcamp’s failure to return the overpayment constituted an act of dominion over Citizens’ property and made Delcamp personally liable for the amount converted.
+In Nelson & Witt v Texas Co, 256 Mich 65, 70; 239 NW 289 (1931), our Supreme Court, quoting from Aylesbury Mercantile Co v Fitch, 22 Okla 475; 99 P 1089 (1908), defined conversion as follows: " 'Conversion is any distinct act of dominion wrongfully exerted over another’s personal property in denial of or inconsistent with his rights therein.’ ”
+Conversion is an intentional tort in that the defendant’s action must be willful, but one can commit the tort unwittingly if unaware of the plaintiffs outstanding property interest. Warren Tool Co v Stephenson, 11 Mich App 274, 299; 161 NW2d 133 (1968).
+Although an action cannot be maintained for conversion of money unless there is an obligation on the part of the defendant to return the specific money entrusted to his care, Garras v Bekiares, 315 Mich 141, 148; 23 NW2d 239 (1946), it is not necessary that the money should be specifically earmarked for its return. The defendant must have obtained the money without the owner’s consent to the creation of a debtor and creditor relationship. See Hogue v Wells, 180 Mich 19, 24; 146 NW 369 (1914); 89 CJS, Trover and Conversion, § 23, p 541. Conversion may be committed by the refusal to surrender a chattel on demand. Thoma v Tracy Motor Sales, Inc, 360 Mich 434, 438; 104 NW2d 360 (1960).
+An action for conversion lies where an individual cashes a check and retains the full amount of the check when he is entitled to only a portion of that amount. Hogue, supra. In this case, Delcamp Truck Center, Inc., converted Citizens’ personal property when it cashed Citizens’ check and retained the full amount of that check when it was entitled to only a portion of the full amount.
+When conversion is committed by a corporation, the agents and officers of the corporation may also be found personally liable for their active participation in the tort, even though they do not personally benefit thereby. Bush v Hayes, 286 Mich 546, 549; 282 NW 239 (1938); Trail Clinic, PC v Bloch, 114 Mich App 700, 709; 319 NW2d 638 (1982), lv den 417 Mich 959 (1983).
+Delcamp’s failure to return the overpayment to Citizens after Citizens requested that the money be returned is evidence that Delcamp actively participated in the conversion. He may properly be held personally liable for the amount converted.
+Affirmed.
