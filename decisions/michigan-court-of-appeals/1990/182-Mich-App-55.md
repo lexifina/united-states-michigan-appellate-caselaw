@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "111361"
+decided: "1990-01-17"
+citations: ["182 Mich. App. 55"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Brennan, P.J., and Murphy and Cavanagh, JJ."]
+parties: ["In re HALES ESTATE"]
+source_url: "https://static.case.law/mich-app/182/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2306296
+cites_cases: ["114 Mich App 283", "136 Mich App 198", "166 Mich App 793", "174 Mich App 148", "194 F2d 263", "282 NW2d 360", "318 NW2d 833", "339 Mich 357", "355 NW2d 635", "388 NW2d 216", "417 Mich 865", "419 Mich 962", "420 NW2d 877", "425 Mich 140", "431 Mich 862", "432 Mich 883", "435 NW2d 408", "63 NW2d 638", "90 Mich App 477"]
+---
+
+# In re Hales Estate
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Appellant appeals as of right from an. order for summary disposition entered on August 12, 1986, by the Genesee County Probate Court. We affirm.
+The facts of this case are not in dispute: On August 11, 1983, Brian Hales, who was nineteen years old, was struck by an uninsured motor vehicle while riding a bicycle. He suffered severe head injuries. Hales was transported to a Flint area hospital but, before medical treatment was rendered, appellant was required to guarantee payment for medical services rendered to Hales. He was hospitalized and remained in a semicomatose state for several weeks. Two months after the accident, Hales began a rehabilitation program to regain his speech, memory and motor functions.
+On December 3, 1983, Hales was discharged from the hospital to a rehabilitation center that specializes in the treatment of persons with closed head injuries. He remained at the center until May of 1986, when he was discharged.
+At the time of the accident, Hales resided with his mother, the appellant. Appellant was employed at General Motors, and received company-provided health insurance through Blue Cross & Blue Shield. Hales was an insured under the policy. Appellant also maintained a no-fault automobile insurance policy through the Detroit Automobile Inter-Insurance Exchange. The policy afforded noncoordinated benefits to injured insureds. Hales was also an insured under this policy. Blue Cross paid Hales’ medical bills.
+A few days after Hales was injured, appellant filed a claim with the no-fault insurer for personal injury protection benefits under the policy. On October 6, 1983, the Genesee County Probate Court appointed appellant to be Hales’ guardian-conservator. Appellant received $100,360.05 in no-fault insurance benefits, of which approximately $93,000 was duplicative of benefits already paid by Blue Cross. The balance represented amounts paid by appellant for Hales’ care which were not paid by Blue Cross. The checks issued under the no-fault policy were in some cases issued to appellant individually and in other cases issued to her as Hales’ guardian-conservator. In any event, Hales did not receive any of the proceeds from the no-fault insurance policy.
+Shortly before his release from the rehabilitation center, Hales obtained an attorney to petition the probate court to remove appellant as Hales’ guardian-conservator and to order appellant to pay all of the proceeds of the no-fault insurance policy to Hales. Pursuant to the petition, the probate court appointed a successor guardian-conservator to represent Hales’ interests.
+Appellant filed an action for declaratory relief in the Genesee Circuit Court seeking a judgment that appellant was entitled to the no-fault benefits. The circuit court declined to rule on appellant’s action because of the pendency of the probate court case. The matter was then transferred to the probate court.
+On July 15, 1988, the probate court issued an opinion which found that Hales was entitled to the duplicate proceeds of the no-fault policy. The probate court entered an order to that effect on August 12,1988. This appeal followed.
+Appellant argues that the no-fault act does not require that the proceeds of the no-fault policy be paid to Hales. We disagree.
+The basic purpose of the no-fault act, MCL 500.3101 et seq.; MSA 24.13101 et seq., is to provide individuals who are injured in motor vehicle accidents assured, adequate and prompt reparation for certain economic losses at the lowest cost to both the individual and the no-fault system. Gooden v Transamerica Ins Co of America, 166 Mich App 793, 800; 420 NW2d 877 (1988), lv den 431 Mich 862 (1988). Babbitt v Employers Ins of Wausau, 136 Mich App 198, 201; 355 NW2d 635 (1984), lv den 419 Mich 962 (1984). The Legislature’s intent to compensate the injured person is made apparent by the language contained in several sections of the no-fault act. See MCL 500.3112; MSA 24.13112, MCL 500.3114; MSA 24.13114, MCL 500.3115; MSA 24.13115 and MCL 500.3116; MSA 24.13116.
+In Geiger v DAIIE, 114 Mich App 283; 318 NW2d 833 (1982), lv den 417 Mich 865 (1983), a panel of this Court held that MCL 500.3112; MSA 24.13112 confers a cause of action upon the injured person to collect pip benefits from the insurer for expenses incurred as a result of the injury.
+Based upon the language of the no-fault act and the Geiger case cited above, we conclude that benefits payable under the no-fault act belong to the injured person: in this case, Brian Hales. However, appellant is entitled to be reimbursed from the proceeds of the no-fault policy to the extent that she incurred expenses out of her own pocket which were reasonably necessary to her son’s care, recovery and rehabilitation. Manley v DAIIE, 425 Mich 140; 388 NW2d 216 (1986); Visconti v DAIIE, 90 Mich App 477; 282 NW2d 360 (1979); MCL 500.3107(a); MSA 24.13107(a).
+Appellant argues that, under the doctrine of subrogation, she is nevertheless entitled to the duplicate benefits provided under the no-fault policy because she provided the insurance and assumed legal responsibility for the payment of Hales’ medical bills.
+Subrogation is an equitable doctrine which is applied when someone, not a volunteer, discharges a debt for which another person is primarily liable. Allstate Ins Co v Snarski, 174 Mich App 148, 155; 435 NW2d 408 (1988), lv den 432 Mich 883 (1989). Subrogation is available only in favor of those who pay the debts of another. Michigan Hospital Service v Sharpe, 339 Mich 357; 63 NW2d 638 (1954). It is the general rule that the subrogee is to be reimbursed only to the extent of the amounts paid in discharge of the obligation assumed by the subrogee. Milan v Kausch, 194 F2d 263, 265 (CA 6, 1952).
+In this case, appellant paid an unspecified amount of money from her own funds for expenses related to Brian Hales’ medical care and rehabilitation which were not covered by Blue Cross. Those expenses represent an obligation for which Brian Hales was primarily liable. Therefore, appellant is subrogated to the rights of Brian Hales in the proceeds of the no-fault policy which represent compensation for the expenses paid by appellant.
+Appellant is not subrogated to the rights of Brian Hales in the proceeds from the no-fault policy which duplicate the benefits paid under the Blue Cross policy. Blue Cross paid approximately $93,000 in benefits for expenses related to Hales’ care and rehabilitation. Appellant did not. Neither the fact that Hales benefitted from appellant’s insurance nor the fact that appellant agreed to guarantee payment of Hales’ medical expenses dictates that appellant is now entitled under the doctrine of subrogation to the duplicate benefits under the no-fault policy.
+Appellant’s argument that she is entitled to the duplicate proceeds from the no-fault policy under the "collateral source” rule is meritless.
+The order of the probate court is affirmed.
