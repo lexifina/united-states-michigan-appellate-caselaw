@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-2011"
+decided: "1978-05-10"
+citations: ["83 Mich. App. 335"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. C. Riley, P. J., and T. M. Burns and Cynar, JJ."]
+parties: ["BAILEY v GENERAL MOTORS CORPORATION"]
+source_url: "https://static.case.law/mich-app/83/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2157098
+cites_cases: ["1 ALR3d 1139", "1968 PA 227", "210 NW2d 131", "232 NW2d 168", "240 NW2d 266", "263 NW2d 246", "28 NW2d 295", "318 Mich 482", "331 Mich 558", "344 Mich 524", "394 Mich 518", "402 Mich 381", "48 Mich App 88", "50 NW2d 318", "67 Mich App 61", "73 NW2d 880"]
+---
+
+# Bailey v. General Motors Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The present case involves the application of the so-called "one-year back” rule of the Worker’s Disability Compensation Act. MCL 418.833(1); MSA 17.237(833)(1).
+Plaintiff Oliver Bailey suffered a work-related injury on July 29, 1967, which rendered him totally disabled. His employer, General Motors Corporation, paid compensation benefits commencing August 4, 1967. On August 18, 1975, Bailey filed a petition for a hearing to determine his eligibility for compensation for total and permanent disability. The hearing referee’s opinion indicated that the parties agreed that plaintiff was entitled to benefits from both General Motors and from the appellant Second Injury Fund. The only dispute below, and on appeal, is the extent of the fund’s liability.
+The hearing referee held that the "one-year back” rule did not apply to the case at bar and ordered the fund to pay differential benefits to Bailey from the date of his injury. The Workmen’s Compensation Appeal Board, in a 5-0 decision, upheld the referee’s order. The fund now appeals by leave granted.
+The current "one-year back” rule reads as follows:
+"If payment of compensation is made, other than medical expenses, and an application for further compensation is later filed with the bureau, no compensation shall be ordered for any period which is more than 1 year prior to the date of filing of such application.” MCL 418.833(1); MSA 17.237(833)(1).
+The Workmen’s Compensation Appeal Board held that this rule did not limit the fund’s liability to one year prior to the application (August 18, 1974) for two reasons: (1) plaintiff was not required, under the law on the date of his injury, to apply for differential benefits, and (2) plaintiff was not seeking "further compensation” because he had not previously received scheduled benefits for permanent disability and because his eligibility for differential benefits arose from the same injury that was the basis for his initial benefits.
+Although our reséarch reveals that the state of the law concerning the application of the rule is at best confusing, there is support for both aspects of the Workmen’s Compensation Appeal Board’s decision.
+At the time of plaintiff’s injury (July, 1967), the governing law on eligibility for differential benefits was MCL 412.9; MSA 17.159, which obligated the fund to pay such benefits "without application” by the employee. The statute was amended by 1968 PA 227, which eliminated the "without application” language. See MCL 418.521; MSA 17.237(521). There is authority for the Workmen’s Compensation Appeal Board’s position that the statute in effect on the date of injury governs plaintiff’s entitlement to benefits. Tarnow v Railway Express Agency, 331 Mich 558; 50 NW2d 318 (1951). In Tarnow, supra, the Supreme Court did not apply the "one-year back” rule to a situation where the injury preceeded the adoption of the rule but the petition for benefits was filed after its enactment.
+On firmer ground is the Workmen’s Compensation Appeal Board’s finding that the rule was not applicable since plaintiff was not seeking "further compensation” for his injury. In Morgan v Lloyds Builders Inc, 344 Mich 524; 73 NW2d 880 (1955), the employee suffered an eye injury in 1948 and received compensation benefits for loss of wages. Subsequent developments of the eye injury caused him to lose the sight of that eye in 1951. He filed for benefits for loss of vision in 1953. The compensation commission granted benefits to commence from one year prior to the application.
+The Supreme Court reversed the commission’s holding to the extent that it applied the "one-year back” rule (then MCL 413.14; MSA 17.188). The Morgan Court stated:
+"In Palchak v Murray Corporation of America, 318 Mich 482 [28 NW2d 295 (1947)] (a case involving facts much like the facts in the instant case), we say at pp 493, 494:
+" 'The case at bar does not involve distinct injuries sustained in an accident, but rather 2 results of a single injury. The department of labor and industry acquired jurisdiction of the case by virtue of the original proceedings taken before it. Such jurisdiction continued for the purpose of further proceedings for compensation as the development of conditions, brought about by the original injury, might require. The statute in question did not impose on the plaintiff the duty of giving notice of such further development nor did it require plaintiff’s claim for further compensation based thereon to be presented within a prescribed period, as contended by defendant. The requirements in said section as to notice to the employer, and the limitations with respect to filing claims, did not apply.’
+"We find that the petition entitled, 'application for hearing and adjustment of claim,’ filed by the plaintiff, dated July 28, 1953, is not a petition for further compensation for loss of time or employment, but is a petition for loss of vision in the right eye.” 344 Mich at 528.
+In Drake v Norge Division, Borg-Warner Corp, 48 Mich App 88; 210 NW2d 131 (1973), the employee suffered a heart attack in 1953. He was awarded 750 weeks compensation for total disability. At the conclusion of that time period, he petitioned for differential benefits from the Second Injury Fund, alleging total and permanent disability since the 1953 injury. This Court, citing Morgan, supra, held that the "one-year back” rule did not apply:
+"Plaintiff in the case at bar is not alleging a second and separate injury sustained at the time of the first injury. There was but a single injury in this case.” 48 Mich App at 95.
+We find the Palchak-Morgan-Drake line of cases to control the case at bar. There is no dispute between the parties that plaintiffs claim for permanent disability benefits arises from the injury suffered in 1967. There is but a single injury here, for which plaintiff seeks compensation different in kind from that previously paid. Under the cited authority the "one-year back” rule is not applicable.
+In order to avoid this result, defendant relies heavily upon this Court’s decision in Baldwin v Chrysler Corp, 67 Mich App 61; 240 NW2d 266 (1976). In Baldwin it was held that the "one-year back” rule is not a statute of limitations, which can be waived by a failure to timely raise it as a defense, but rather is a statutory limit on the Workmen’s Compensation Appeal Board’s authority to order the payment of benefits. An argument could be made that under the Baldwin holding the Workmen’s Compensation Appeal Board can never order benefits to be paid for any period prior to one year before the fund’s liability is raised, either by an application or a petition for a hearing.
+Recently, however, the Michigan Supreme Court has implicitly overruled the Baldwin decision. In Kleinschrodt v General Motors Corp, 402 Mich 381; 263 NW2d 246 (1978), the Supreme Court held that the rule is a defense that can be waived. The Court expressly rejected the theory that the rule is a jurisdictional limit on the Workmen’s Compensation Appeal Board’s authority to order benefits. 402 Mich at 384.
+Under Kleinschrodt, supra, the "one-year back” rule is a defense that, if applicable, cuts off the liability of the fund. Our previous discussion has shown the inapplicability of the rule to the present facts. The order of the Workmen’s Compensation Appeal Board upholding the hearing referee’s decision was not error.
+Affirmed.
+No costs, a public question being involved.
+While the substantive decision in Drake v Norge Division, Borg-Warner Corp, 48 Mich App 88; 210 NW2d 131 (1973), concerning the question of loss of industrial use of the employee’s legs due to a heart attack, was effectively overruled in Triplett v Chrysler Corp, 394 Mich 518; 232 NW2d 168 (1975), the Triplett decision does not affect the Drake Court’s discussion of the "one-year back” rule.
