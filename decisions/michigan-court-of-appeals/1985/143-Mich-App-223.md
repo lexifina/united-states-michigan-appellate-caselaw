@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "79549"
+decided: "1985-05-21"
+citations: ["143 Mich. App. 223"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Wahls, P.J., and Bronson and T. C. Megargle, JJ."]
+parties: ["BAILEY v DETROIT AUTOMOBILE INTER-INSURANCE EXCHANGE"]
+source_url: "https://static.case.law/mich-app/143/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2264458
+cites_cases: ["104 NW2d 794", "337 NW2d 237", "361 Mich 104", "39 ALR4th 378", "417 Mich 335"]
+---
+
+# Bailey v. Detroit Automobile Inter-Insurance Exchange
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+In this case we are called upon to determine whether the cost of vocational rehabilitation is compensable under § 3107(a) of the no-fault act. MCL 500.3107(a); MSA 24.13107(a).
+Plaintiff Chester Bailey commenced this action in the Wayne County Circuit Court against defendant Detroit Automobile Inter-Insurance Exchange, seeking a declaratory judgment that vocational rehabilitation is a covered benefit under the Michigan no-fault act. Plaintiff simultaneously moved for summary judgment under GCR 1963, 117.2(3) which was denied by Wayne County Circuit Judge Paul S. Teranes. Subsequently, on July 2, 1984, the court issued an opinion and order declaring that vocational rehabilitation expenses were covered under § 3107(a) of the Michigan no-fault act. Defendant appeals as of right from the court’s declaratory judgment in favor of plaintiff.
+The facts are not in dispute nor is the issue on this appeal. Plaintiff injured his right shoulder in an automobile accident on October 8, 1981. Following surgery and physical therapy plaintiff sought vocational rehabilitation benefits from his insurer, DAIIE. Plaintiff contends that, he is no longer able to perform his job at McClouth Steel, which required swinging a heavy hammer. Defendant has refused to pay for plaintiff’s vocational rehabilitation based upon its position that this expense is not an "allowable expense” under § 3107(a) of the no-fault act._
+This case presents an issue of first impression concerning the scope of rehabilitation benefits available to an insured under § 3107(a) of the Michigan no-fault act, MCL 500.3107(a); MSA 24.13107(a). Section 3107(a) provides in pertinent part:
+"§ 3107. Personal protection insurance benefits are payable for the following:
+"(a) Allowable expenses consisting of all reasonable charges incurred for reasonable necessary products, services and accommodations for an injured person’s care, recovery or rehabilitation.”
+We are called upon to determine whether expenses for vocational rehabilitation are recoverable as "allowable expenses” under this subsection.
+Defendant would limit the word "rehabilitation” to include medical or physical rehabilitation but not vocational rehabilitation. The trial court concluded that the Legislature intended "rehabilitation” to include vocational rehabilitation as well as physical rehabilitation. We agree with the conclusion of the trial court.
+It is a cardinal rule of statutory interpretation that the reviewing court is to give effect to the intent of the Legislature. Hiltz v Phil’s Quality Market, 417 Mich 335; 337 NW2d 237 (1983). Words should generally be given their ordinary meanings. Goethal v Kent County Supervisors, 361 Mich 104; 104 NW2d 794 (1960). If the language of the statute is clear, it is assumed that the Legislature intended the plainly expressed meaning, and the statute must be enforced as written. Hiltz, supra, p 343.
+The American Heritage Dictionary (New College Ed, 1985) defines rehabilitate as "1. to restore (a handicapped or delinquent person) to useful life through education and therapy”. 1983 OAG No. 6129, p 50 (February 24, 1983) holds that the term "rehabilitation”, given its ordinary meaning, should be interpreted to include vocational rehabilitation.
+If rehabilitation is held to refer only to physical or medical rehabilitation, the term "rehabilitation” is superfluous since expenses for "care” and "recovery” are already allowed under § 3107(a). Section 3157 of the no-fault act provides further support for a broad interpretation of rehabilitation. That section limits charges for certain expenses covered by no-fault insurance, including expenses for "rehabilitative occupational training”. Section 3157 is a cost control measure designed to limit the charges for certain expenses allowed under § 3107(a). It would make no sense for the Legislature to include a limitation on charges for rehabilitative occupational training in § 3157 if that expense were not covered under § 3107(a). Thus, a narrow reading of § 3107(a), to exclude vocational rehabilitation, would render the statute internally inconsistent.
+The defendant argues that "rehabilitative occupational training” is more limited than "vocational rehabilitation” so that even if rehabilitative occupational training is found to be an allowable expense, vocational rehabilitation is not. That argument is not persuasive. We focus on the term "rehabilitation” found in § 3107(a), not on "rehabilitative occupational training” of § 3157. Nothing in § 3107(a) suggests that this distinction is valid. However, even assuming that rehabilitative occupational training is a narrower concept than vocational rehabilitation, § 3107(a), as the entitlement section, should not be limited by the cost control provisions of § 3157.
+Defendant contends that the legislative history of the no-fault act indicates that the Legislature did not intend to include either vocational rehabilitation or rehabilitative occupational training as an allowable expense. The parties do not dispute that earlier versions of the no-fault act proposed by the Senate and the House contained more specific references to "rehabilitative occupational training” than the final version. Senate Bill No. 782, §§ 7 and 54-57, and House Substitute, § 3101(2). Section 54 of Senate Bill No. 782 specifically provided that an insurer was responsible for rehabilitative occupational training. Section 7(a) of the Senate Bill was essentially the same as § 3107(a) of the act as adopted. No provision comparable to § 54 of the Senate Bill appears in the present act. Nor did the House Substitute for the Senate Bill contain a provision comparable to § 54. However, the House Substitute apparently did specify that "rehabilitative occupational training”, in addition to "rehabilitation”, was an allowable expense.
+Defendant contends that by not including in the no-fault act this specific reference to rehabilitative occupational training found in the proposed legislation, the Legislature demonstrated its intent not to include those expenses as allowable expenses under § 3107(a). However, it may be as likely that by deleting some of these specific references to "rehabilitative occupational training” in favor of the general term "rehabilitation” in § 3107(a), the Legislature intended to broaden the coverage of the act. Moreover, as noted above, § 3157 does refer to "rehabilitative occupational training” and the narrow construction urged by defendant would render §§ 3107(a) and 3157 inconsistent.
+We, therefore, hold that "rehabilitation” should be construed to include vocational rehabilitation as an allowable expense under § 3107(a) of the Michigan no-fault act. Plaintiff must still meet the requirements that the charges and services be reasonable.
+Affirmed.
