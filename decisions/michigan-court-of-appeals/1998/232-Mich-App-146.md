@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "210651"
 decided: "1998-10-09"
-citations: ["232 Mich. App. 146", "233 Mich. App. 143"]
+citations: ["232 Mich. App. 146"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["ARCO INDUSTRIES CORPORATION v AMERICAN MOTORISTS INSURANCE COMPANY (O
 source_url: "https://static.case.law/mich-app/232/cases/0146-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 737402
-cites_cases: ["123 Mich App 140", "125 Mich App 579", "138 NJ 437", "178 Mich App 706", "180 Mich App 651", "188 Mich App 158", "198 Mich App 347", "203 Mich App 331", "208 Mich App 422", "215 Mich App 623", "215 Mich App 633", "215 US App DC 156", "216 Mich App 612", "217 Mich App 617", "221 Mich App 154", "225 Mich App 635", "227 Mich App 45", "232 Mich App 146", "264 NW2d 19", "27 F3d 566", "283 Ill App 3d 630", "333 NW2d 197", "336 NW2d 838", "374 NW2d 905", "422 Mich 594", "438 Mich 154", "438 Mich 174", "438 Mich 197", "444 NW2d 813", "445 Mich 558", "447 NW2d 853", "448 Mich 395", "448 Mich 399", "448 Mich 405", "448 Mich 406", "448 Mich 417", "448 Mich 418", "456 Mich 1230", "456 Mich 305", "456 Mich 312", "456 Mich 319", "456 Mich 331", "457 Mich 341", "469 NW2d 23", "476 NW2d 374", "476 NW2d 382", "476 NW2d 392", "49 F3d 1128", "497 NW2d 190", "512 NW2d 74", "519 NW2d 864", "523 NW2d 657", "528 NW2d 749", "531 NW2d 168", "546 NW2d 709", "550 NW2d 580", "552 NW2d 657", "561 NW2d 445", "565 F Supp 1485", "572 NW2d 617", "572 NW2d 686", "575 NW2d 79", "578 NW2d 274", "599 So 2d 1058", "633 F2d 1212", "662 F Supp 71", "667 F2d 1034", "668 F Supp 1541", "670 NE2d 740", "725 F Supp 800", "730 F Supp 1408", "748 F2d 760", "751 F Supp 1137", "756 F2d 474", "788 F Supp 846", "80 Mich App 439", "813 F Supp 1570", "819 F Supp 1372", "856 F2d 31", "859 SW2d 789", "87 ALR4th 444", "897 F2d 214", "933 F2d 1162", "952 F2d 1551"]
+cites_cases: ["125 Mich App 579", "138 NJ 437", "178 Mich App 706", "180 Mich App 651", "198 Mich App 347", "203 Mich App 331", "208 Mich App 422", "215 Mich App 623", "215 Mich App 633", "215 US App DC 156", "216 Mich App 612", "221 Mich App 154", "225 Mich App 635", "283 Ill App 3d 630", "336 NW2d 838", "438 Mich 154", "438 Mich 174", "438 Mich 197", "444 NW2d 813", "445 Mich 558", "447 NW2d 853", "448 Mich 395", "448 Mich 399", "448 Mich 405", "448 Mich 406", "448 Mich 417", "448 Mich 418", "456 Mich 1230", "456 Mich 305", "456 Mich 312", "456 Mich 319", "456 Mich 331", "457 Mich 341", "476 NW2d 374", "476 NW2d 382", "476 NW2d 392", "49 F3d 1128", "497 NW2d 190", "512 NW2d 74", "519 NW2d 864", "523 NW2d 657", "528 NW2d 749", "531 NW2d 168", "546 NW2d 709", "550 NW2d 580", "561 NW2d 445", "565 F Supp 1485", "572 NW2d 617", "572 NW2d 686", "578 NW2d 274", "599 So 2d 1058", "633 F2d 1212", "662 F Supp 71", "667 F2d 1034", "668 F Supp 1541", "670 NE2d 740", "725 F Supp 800", "748 F2d 760", "751 F Supp 1137", "788 F Supp 846", "813 F Supp 1570", "856 F2d 31", "859 SW2d 789", "87 ALR4th 444", "897 F2d 214", "933 F2d 1162", "952 F2d 1551"]
 ---
 
 # Arco Industries Corp. v. American Motorists Insurance
