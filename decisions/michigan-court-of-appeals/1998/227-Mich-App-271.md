@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "201202"
+decided: "1998-01-13"
+citations: ["227 Mich. App. 271"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Murphy, P.J., and Hood and Bandstra, JJ."]
+parties: ["STATE FARM FIRE & CASUALTY COMPANY v COUVIER"]
+source_url: "https://static.case.law/mich-app/227/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 305143
+cites_cases: ["172 Mich App 24", "224 Mich App 403", "377 NW2d 713", "423 Mich 304", "431 NW2d 242", "437 Mich 75", "438 Mich 197", "467 NW2d 21", "476 NW2d 392", "569 NW2d 828"]
+---
+
+# State Farm Fire & Casualty Co. v. Couvier
+
+## Majority (Bandstra, J.)
+
+Bandstra, J.
+Plaintiff State Farm Fire & Casualty Company appeals as of right from the trial court’s declaratory judgment in favor of defendants. At issue is whether State Farm’s insurance policy, issued to defendant Kenneth Light, defendant Deborha Courier’s landlord, provides coverage for personal injuries to Courier as a result of the installation of a surveillance mirror in her apartment by defendant Kevin Light (Light). Light was the manager of the apartment building and the son of Kenneth Light. We reverse and remand.
+Following a bench trial, the trial court opined that there were “two scenarios” that could account for the installation of the surveillance mirror at issue in this case. Either Light installed the mirror for the purpose of observing Deborha Couvier in her bedroom or, instead, Light had installed the mirror without any intention of using it for that purpose. However, the trial court reasoned that it was unnecessary to make a determination between these factual possibilities because, either way, Light never intended to cause personal injury to Couvier. The insurance policy issued by State Farm provides that “this insurance does not apply ... to personal injury . . . arising out of the willful violation of a penal statute . . . .” The trial court reasoned that Light’s action would not be “willful” under this provision unless Light intended to harm Couvier.
+The construction of unambiguous language in an insurance contract is a question of law, Jones v Farm Bureau Mut Ins Co, 172 Mich App 24, 27; 431 NW2d 242 (1988), that we review de novo, Cardinal Mooney High School v Michigan High School Athletic Ass’n, 437 Mich 75, 80; 467 NW2d 21 (1991). We conclude that the trial court misconstrued what “willful” meant in the insurance contract. The trial court reasoned that “willful” was an ambiguous term not defined within the insurance policy and turned to a civil jury instruction, SJI2d 14.12, for a definition. While this Standard Jury Instruction provides a definition that may be useful in a limited set of civil actions, see SJI2d 14.12, Note on Use, the issue here is whether, to paraphrase the insurance contract’s language, Couvier’s alleged injuries arose out of Light’s wilful violation of a penal statute. Under this contract language, the issue is not Light’s intent with respect to Couvier but, instead, whether his violation of a penal statute was “willful.” If it was, under the plain language of the insurance contract, State Farm is not required to provide coverage for resulting personal injuries, intended or not.
+The penal statute at issue here provides that “[a]ny person who installs in any private place . . . any device for observing, photographing, or eavesdropping upon the sounds or events in such place, or uses any such unauthorized installation, is guilty of a felony ____” MCL 750.539d; MSA 28.807(4). The Penal Code further provides that the installation of this kind of device constitutes prima facie evidence of a violation of § 539d. MCL 750.5391; MSA 28.807(9). Reading these statutory sections together, we conclude that installation of a device capable of surveillance is felonious only if it is intended to be used or is in fact used for that purpose. The installation itself provides prima facie evidence that this was Light’s intent. In effect, this is a rebuttable presumption that Light has the burden of disproving with evidence to the contrary. People v McFall, 224 Mich App 403, 409-410; 569 NW2d 828 (1997), quoting the definition of “prima facie evidence” in Black’s Law Dictionary (6th ed).
+With this understanding of the criminal statute at issue in mind, the insurance contract’s use of the word “willful” is not problematic. The plain and unambiguous meaning of this term can be found in dictionary definitions. Upjohn Co v New Hampshire Ins Co, 438 Mich 197, 207-208; 476 NW2d 392 (1991). “Willful” means “deliberate,” The American Heritage Dictionary: Second College Edition (1982), or “intentional; purposeful; not accidental or involuntary,” Black’s Law Dictionary (6th ed). The use of the word “willful” in the insurance contract thus adds nothing to the analysis required in determining whether Light violated the eavesdropping statute. If he placed the surveillance mirror in Couvier’s apartment with the deliberate purpose or intent to use it for surveillance, or so used it, any resulting injuries to Couvier fall within the policy’s exclusion for “personal injury . . . arising out of the willful violation of a penal statute
+Although State Farm argues that we should decide on appeal that Light deliberately intended to use or did use the mirror for surveillance, we conclude that the trial court should decide this question on remand because, as the factfinder, the trial court is in a better position to judge the witnesses’ credibility. McFall, supra at 412.
+We reverse the judgment entered for defendants and remand for further proceedings. We do not retain jurisdiction.
+The Standard Jury Instructions are not legal authority, but are intended instead to accurately state applicable law. Johnson v Corbet, 423 Mich 304, 319; 377 NW2d 713 (1985).
+The term “willM” could be more difficult to construe in the context of a criminal statute that does not have an “intent” requirement such as that found in the surveillance device statute at issue here.
