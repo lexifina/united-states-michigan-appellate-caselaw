@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "107761"
+decided: "1988-05-25"
+citations: ["171 Mich. App. 148"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Shepherd, P.J., and Cynar and Mackenzie, JJ."]
+parties: ["PEOPLE v LANDRUM (ON REMAND)"]
+source_url: "https://static.case.law/mich-app/171/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2289004
+cites_cases: ["160 Mich App 159", "293 NW2d 332", "330 NW2d 669", "407 NW2d 614", "409 Mich 126", "416 Mich 235", "416 Mich 248", "418 NW2d 861", "429 Mich 450", "429 Mich 491", "430 Mich 861", "50 ALR4th 1081"]
+---
+
+# People v. Landrum
+
+## Majority (Per Curiam.)
+
+ON REMAND
+Per Curiam.
+Defendant was convicted by a jury of second-degree murder, MCL 750.317; MSA 28.549. We reversed. People v Landrum, 160 Mich App 159; 407 NW2d 614 (1986). Our judgment was vacated by the Supreme Court and the case was remanded to the Court of Appeals for reconsideration in light of People v Beach, 429 Mich 450; 418 NW2d 861 (1988). 430 Mich 861 (1988). On reconsideration, we affirm our previous holding in all respects.
+Defendant was hired by the victim to have sex with him for $30. Defendant accompanied the victim to his home where they drank whiskey and danced. At some point the victim indicated to defendant that he had no money but that he planned to have sex with her anyway. The victim forced defendant to go with him to his room and forced her to undress. The victim then attempted to engage defendant in forced sex whereupon she hit him in the head with a telephone. A frantic struggle ensued. The victim was struck a number of times in the head with a telephone receiver and died. Defendant testified that the victim was conscious and speaking when she left and that she learned of his death the following evening in the newspaper. The jury was instructed that it could return verdicts of second-degree murder, voluntary manslaughter and not guilty. The jury was not instructed on involuntary manslaughter. Furthermore, the jury was not instructed with specificity that defendant could resist a rape attempt with force, including deadly force.
+We reversed, concluding that the jury was deprived of the opportunity to convict defendant consistent with her theory. We further held that it was error not to specifically instruct the jury that defendant had the right to defend herself against a sexual assault by using force, up to deadly force.
+The Supreme Court remanded the case to us for consideration in light of People v Beach, 429 Mich 450; 418 NW2d 861 (1988). In Beach the Supreme Court held that failure to give a requested instruction on a cognate lesser included offense when the evidence adduced at trial is sufficient to support a conviction of the offense is error. However, concluded the Court, the error is harmless where the jury is instructed on an additional lesser offense but nevertheless returns a verdict of guilty of a greater offense. In so holding, the Supreme Court distinguished another line of cases. We believe the instant case is consistent with cases that the Supreme Court distinguished in its opinion in the Beach case. Specifically, the Beach Court held:
+We note that our recent cases, which did not adopt or apply the harmless error analysis, are distinguishable. In People v Richardson, [409 Mich 126; 293 NW2d 332 (1980)], the Court declined to apply a harmless error analysis because the refusal to instruct was reasoned to foreclose the jury’s option to convict the defendant consistently with his own testimony, evidence, and theory. Beach differs because the defense theory was alibi, and no evidence to make a theory of larceny essential to the defense was provided, that is, there was no specific denial of the use of force. There was only an alibi defense and an inference built on a possibility that the jury might disbelieve part of Turner’s testimony.
+In People v Rochowiak, [416 Mich 235; 330 NW2d 669 (1982)], the opinion of the Court offered qualifications regarding the finding of harmless error under such circumstances. Although we do not adopt the qualifications, we note that this case complies with the suggestions for finding harmless error.
+"As in Richardson, we do not hold that failure to give lesser offense instructions can never be harmless. The error may indeed be harmless in a case where it is clear that the jury was presented with a lesser offense or offenses consistent with the defendant’s theory which was rejected, and made findings of fact, implicit in the verdict, which would preclude conviction of the charge upon which an instruction was refused, or where the differences between the various offenses concern factual elements, the existence of a weapon (armed or non-armed), the completion of the offense (attempt), the use of force (larceny or robbery) and not the state of mind of the defendant (murder, manslaughter, reckless use; assault with intent to murder, with intent to commit great bodily harm less than murder, felonious assault). [416 Mich 248-249. Emphasis added.]” [429 Mich 491-492.]
+We believe that the failure of the trial court in the instant case to instruct on involuntary manslaughter was error in that it failed to allow the jury to convict the defendant of an offense consistent with her testimony and theory of the case. Equally important, we find, is the failure to specifically instruct on defendant’s right to forcibly resist a sexual assault. This latter defense was essential to defendant’s theory of the case. Without such an instruction, a jury would be unlikely to understand this aspect of the theory given the fact that defendant was a prostitute. Had the jury been properly instructed, the probability is high that at least one juror would have voted to convict on involuntary manslaughter thereby making conviction of second-degree murder or voluntary manslaughter impossible. Therefore, we affirm our previous opinion in this matter as consistent with the holding in Beach.
