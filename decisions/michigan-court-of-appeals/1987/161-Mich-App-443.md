@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "90506"
+decided: "1987-04-14"
+citations: ["161 Mich. App. 443"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Wahls, P.J., and R. M. Maher and D. J. Shipman, JJ."]
+parties: ["WEISBURG v LEE"]
+source_url: "https://static.case.law/mich-app/161/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2303206
+cites_cases: ["108 Mich App 69", "149 Mich App 148", "155 Mich App 348", "156 Mich App 699", "310 NW2d 278", "329 NW2d 729", "385 NW2d 627", "399 NW2d 511", "402 NW2d 73", "415 Mich 420", "52 ALR Fed 780", "80 ALR2d 320"]
+---
+
+# Weisburg v. Lee
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Bruno Weisburg, personal representative of the estate of Wanda Weisburg (decedent), appeals as of right from a January 16, 1986, order of the Macomb Circuit Court granting summary disposition in favor of defendants in this medical malpractice action. Summary disposition was granted pursuant to MCR 2.116(C)(7) on the basis that the complaint was barred by the statute of limitations. We affirm. '
+The facts are not in serious dispute. In 1981, decedent consulted with Dr. Norman Payea for advice on pain she had been experiencing. Dr. Payea discovered a mass in her pelvic region and referred her to the radiology department at defendant Tawas St. Joseph Hospital for tests. The tests were completed by defendant Dr. Marta S. Szego on June 16, 1981. After discussing the results with Dr. Payea, decedent decided to get a second opinion from Dr. J. R. Bhavnagri, M.D. Dr. Bhavnagri examined decedent on June 18, 1981, and reviewed the test results from defendant Szego. The next day, Dr. Bhavnagri referred decedent to defendant St. Joseph Hospital of Mt. Clemens for a pelvic ultrasound test. Defendant Dr. John J. Lee, M.D., administered the test and noted no irregularities.
+Ten days later, Dr. Bhavnagri and his associate, Dr. E. V. Marcuz, M.D., examined decedent and diagnosed her condition as a fibroid tumor that did not require surgery. Decedent was also treated by defendant Dr. J. C. DiMusto, M.D., in June, 1981. Three months later, in September, 1981, decedent was examined once again by defendant Marcuz. This is the last treatment decedent had with any of the defendants. On June 9, 1982, decedent consulted with another doctor, Dr. Harvey Brinkman, M.D. His diagnosis was that she had a tumor. Decedent then went to Dr. Schaiberger. He ordered several tests for decedent. After reviewing the tests, he diagnosed her as having ovarian carcinoma, a type of cancer. On December 10, 1982, Dr. Schaiberger performed surgery. He also criticized decedent’s previous care in a conversation with her.
+In April, 1983, decedent consulted with an attorney to discuss the possibility of bringing a malpractice suit against defendants for failure to properly diagnose her condition. As part of the preparation for the suit, she wrote out a memorandum detailing her treatment and naming all of the parties mentioned above. A complaint was filed on May 2, 1983, against Drs. Payea, Bhavnagri and Brinkman, alleging failure to diagnose cancer.
+Decedent died on August 24, 1984.
+Plaintiffs counsel consulted another doctor relative to the malpractice action in December, 1984. Plaintiff alleges that he discovered the malpractice of defendants as a result of that consultation. On February 19, 1985, plaintiff filed a complaint in the instant case against defendants for failure to diagnose cancer in 1981.
+This action is governed by the malpractice statute of limitations, MCL 600.5838; MSA 27A.5838 and MCL 600.5805; MSA 27A.5805. Under those provisions, a plaintiff must bring an action for malpractice within two years of the last date of treatment or within six months after the plaintiff discovers or should have discovered the existence of a claim.
+On appeal, plaintiff argues that the existence of a malpractice claim against defendants was not discovered until December, 1984. Plaintiff states that at that time a doctor evaluating the May, 1983, suit discovered that these defendants may also have committed malpractice.
+A plaintiff is held to have discovered the existence of a malpractice claim when: (1) the act or omission of the defendant becomes known and (2) the plaintiff has reason to believe that medical treatment was improper or was performed in an improper manner. Kelly v Richmond, 156 Mich App 699; 402 NW2d 73 (1986); Juravle v Ozdagler, 149 Mich App 148; 385 NW2d 627 (1985). The plaintiff has the burden of proving that discovery was not within two years of the date of the last treatment. MCL 600.5838(2); MSA 27A.5838(2).
+Once it is shown that the two-pronged test mentioned above has been met, the court may conclude as a matter of law that plaintiff discovered or should have discovered the asserted malpractice and grant defendants’ motion for summary disposition. Blana v Spezia; 155 Mich App 348; 399 NW2d 511 (1986); Lefever v American Red Cross, 108 Mich App 69; 310 NW2d 278 (1981). The trial court’s findings will not be reversed unless clearly erroneous. Blana, supra, p 354.
+We conclude that the trial court did not err in finding that plaintiff’s malpractice claim was barred by the statute of limitations. The undisputed facts reveal that plaintiff’s decedent stated in 1982 that her surgeon, Dr. Schaiberger, was openly critical of defendants’ failure to diagnose cancer. In that statement, decedent acknowledged being treated by defendants. Yet decedent chose not to include them in the March, 1983, suit.
+Plaintiff asserts that even though decedent and he were aware of a misdiagnosis on the part of the doctors named as defendants in the first suit, they were not aware of the possible malpractice of the doctors named as defendants in this suit until plaintiff spoke with Dr. Singer in December, 1984. We disagree.
+The discovery rule applies to discovery of a possible claim, not the discovery of the defendant’s identity, Lefever, supra, p 74. The two suits are based on a single wrong: misdiagnosis. Decedent had actual knowledge in December, 1982, of the misdiagnosis when her surgeon told her about it. Further, decedent’s 1983 statement regarding her suspicion of malpractice mentioned defendants and their respective roles. Thus, not only did plaintiff and decedent know of the potential malpractice claim, Lefever, supra, they knew the identities of the tortfeasors. Clearly the February, 1985, complaint was filed more than six months after the date plaintiff and decedent discovered a malpractice claim against defendants.
+Plaintiff also argues that decedent’s death created a separate wrongful death action, even if the time limit has passed for a medical malpractice claim. This argument lacks merit. Actions brought under the wrongful death statute, MCL 600.2922; MSA 27A.2922, are governed by the limitation period applicable to the liability theory of the underlying act. Hawkins v Regional Medical Laboratories, PC, 415 Mich 420, 436; 329 NW2d 729 (1982). See Kelly, supra. Thus, the trial court was correct in granting summary disposition based upon the statute of limitations found in the medical malpractice act.
+Affirmed.
