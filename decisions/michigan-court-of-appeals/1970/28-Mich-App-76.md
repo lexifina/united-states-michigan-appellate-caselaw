@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "6,716"
+decided: "1970-11-27"
+citations: ["28 Mich. App. 76"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, P. J., and Bronson and Munro, JJ.", "All concurred."]
+parties: ["STATE HIGHWAY COMMISSION v. MASTERS"]
+source_url: "https://static.case.law/mich-app/28/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2064185
+cites_cases: ["12 Mich App 475", "15 Mich App 154", "2 Mich App 698", "20 Mich App 243", "316 Mich 565", "355 Mich 437", "375 Mich 581"]
+---
+
+# State Highway Commission v. Masters
+
+## Majority (Munro, J.)
+
+Munro, J.
+This appeal arises from the condemnation of property for highway US-31 in Saugatuck and Laketown Townships, Allegan County, Michigan. The defendants, prior to the taking, owned approximately 86 acres of property near Saugatuck, Michigan, which they had purchased in 1961 for recreational development purposes. Early in 1962 the state highway department first approached the defendants about purchasing a portion of the property and after unsuccessful discussion between the parties condemnation proceedings were commenced including a hearing before the trial judge in the nature of certiorari attacking the necessity of the taking of the property. Subsequently on June 21 and 22, 1965, a hearing was conducted before three commissioners with' the circuit judge presiding. Three days later the commissioners filed their report determining the defendants’ damages.
+The record establishes that of the 86.3 acres owned by the defendants, 18.7 acres were taken in fee, 14.7 acres were landlocked as a result of the taking, and 31.3 acres were used by the highway department for the removal of borrow materials. The commissioners returned an award of $6,378.
+The defendants claim five assignments of error which will be dealt with separately.
+First, reversible error is claimed because the commissioners did not submit to an oath prior to filing their report.
+Secondly, defendants argue that the trial court committed reversible error in not fixing a time within which the commissioners were to file their report.
+In each instance no objections were made by defendants at the time of hearing and it appears from the record in this matter that, although the commissioners did not take the commissioner’s oath immediately prior to the hearing, they did take the oath of commissioners which was filed in the court on February 7, 1963. An examination of the record reveals that defendants failed to object to either of these alleged errors at the time of trial and they may not therefore raise these questions for the first time on appeal. People v. Ray Clifton Smith (1969), 20 Mich App 243; People v. Omell (1968), 15 Mich App 154.
+Thirdly, defendants contend that the trial court erred in not instructing the commissioners to evaluate also the value of sand taken from defendants’ property. In this regard the present law relating to the removal of borrow materials was first handed down in Michigan in the case of State Highway Commissioner v. Fegin (1966), 2 Mich App 698, wherein the Court held that damages for condemnation of the right to remove minerals is measured by their value in place. Because that decision was rendered in April of 1966, neither the trial court nor counsel had the benefit of that decision at the time proofs were taken in this matter in June of 1965. However, in the opinion of the trial court on the writ of certiorari proceedings brought by defendants the trial court specifically provided in part:
+“In the opinion of the trial court the department’s failure to estimate with exactness the amount of borrow needed and its determination of its inability to level the disposal area can be and should be reflected in the award and not directed against its determination of necessity.”
+While the trial court in this matter alerted the parties to the question of damages being based on the value of minerals in place, the fact is that, although some mention thereof was made in the opening statement of counsel for the defendants, counsel for the defendants agreed with the attorney for the plaintiff that the rule the commission was to apply was the before and after value of the land. In addition, the defendant Alois A. Masters established on the record that he did not attribute any value to the sand and testified on direct examination:
+“Q. Do you in your opinion attribute any value to the sand that was available for borrow?
+“A. This sand was not sand as far as I was concerned. This was a physical property that existed. I had a bowl area that could seat 10,000 people. If we were to replace this with concrete and seating I imagine your cost would run in the area of $12 a seat.”
+The record in this case indicated there were upwards of 600,000 tons of sand removed from the 31.3 acres but also conclusively shows that insofar as defendant Alois A. Masters is concerned he did not want the property measured by the value of sand in place but instead specifically requested that the commissioners determine damages on the basis of value of the land before and after the taking. Defendants presented no proofs on the value of the borrow removed and asked tbe commissioners to consider tbe value for its highest and best use in the opinion of the property owner, to wit: recreational purposes with a value of $150,000 and an after value of $2,500. Defendants now claim manifest injustice in that the trial court failed to instruct on the value of sand in place. The Supreme Court, in the case of Hunt v. Deming (1965), 375 Mich 581, has held that appellate courts have the power to remedy manifest injustice. Such power is to be sparingly exercised. The instructions of the trial court comply with the requirement:
+“Did the instructions as given adequately inform the jury on the applicable law reflecting and reflected by the various evidentiary claims in the particular case?” (Emphasis supplied.)
+Huffman v. First Baptist Church of Flushing (1959), 355 Mich 437, 446. In the case here before the Court there was no evidentiary claim by the defendants for the value of sand in place.
+Defendants having specifically elected their theory of damages on the before and after rule are not entitled to a retrial because the result desired was not obtained, and now attempt to pursue a completely different theory of damages, particularly where the trial court, as here, suggested that the value of the borrow sand be considered by the property owners and the commissioners and the property owners refused, maintaining that the highest and best use of the property was for the recreational music festival idea.
+Fourthly, the defendants contend the trial, court erred in not allowing defendants to submit a request for instructions or place objections to the court’s instructions on the record. The affidavit of the trial court filed herein indicates that no request for instructions to the commissioners was presented by the defendants, nor was any request made to state objections on the record. While it is better practice for the record to indicate an offer by the court for the stating of such objections in accordance with GOB 1963, 516, the fact that no requests to instruct were furnished to the court and that no request was made to state such objections precludes raising the issue for the first time on appeal.
+Lastly, it is argued that the commissioners’ report was inadequate. The law is well settled that the determination of damages by commissioners in a condemnation proceeding is final provided it is within the fair range of testimony and of the facts which they have learned from an examination of the property. State Highway Commission v. Sandburg (1968), 12 Mich App 475; see also Department of Conservation v. Connor (1947) 316 Mich 565.
+The testimony before the commissioners in this case would indicate a low damage of $2,500 and a high damage of $145,000. The commissioners’ award of $6,378 was well within the range of admissible testimony. The award, having been confirmed by the court, is affirmed.
+Affirmed.
+All concurred.
