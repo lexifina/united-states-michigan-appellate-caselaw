@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "65349"
+decided: "1983-02-09"
+citations: ["123 Mich. App. 150"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: V. J. Brennan, P.J., and Bronson and M. F. Cavanagh, JJ.", "M. F. Cavanagh, J., concurred."]
+parties: ["CITY NATIONAL BANK OF DETROIT v WESTLAND TOWERS APARTMENTS (ON REMAND) IN THE MATTER OF THE ATTORNEY FEES OF JEROME GROPMAN (ON REMAND)"]
+source_url: "https://static.case.law/mich-app/123/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2229143
+cites_cases: ["107 Mich App 213", "261 NW2d 71", "309 NW2d 209", "323 NW2d 1", "352 Mich 501", "413 Mich 937", "414 Mich 95", "79 Mich App 523", "90 NW2d 476"]
+---
+
+# City National Bank v. Westland Towers Apartments
+
+## Majority (V. J. Brennan, P. J.)
+
+V. J. Brennan, P. J.
+This case appears before us on remand from the Supreme Court for reconsideration. In its order, the Supreme Court stated, "The opinion of the Court of Appeals does not provide an adequate basis for substituting that Court’s judgment for that of the arbitrator and of the trial judge who entered judgment on the award”. 413 Mich 937 (1982). We agree and affirm the arbitrator’s findings and the confirmation of those findings by the trial judge.
+In this case, Gropman, the appellee, was the attorney at one time for the Granaders, the appellants, and filed a motion in circuit court for $9,020.70 in attorney fees in addition to what the Granaders had already paid to him. The Granaders denied that they owed attorney fees to Gropman. Thereafter, the parties agreed to submit the dispute regarding attorney fees to arbitration. The arbitrator found that Gropman was entitled to an additional $33,000 in attorney fees. The trial judge then entered a judgment for the amount awarded by the arbitrator. On appeal, the Granaders claimed that the arbitrator exceeded his authority. In our previous opinion, City National Bank of Detroit v Westland Towers Apartments, 107 Mich App 213, 234-235; 309 NW2d 209 (1981) (Judge Brennan, dissenting), the majority reduced the attorney fee award to $9,020.70. We now reinstate the arbitrator’s award.
+An arbitrator’s award will not be set aside unless the one attacking the award offers proof that the basis of the award was without sufficient factual background. In the present case, appellants have not presented evidence that would be sufficient for us to set aside the arbitrator’s findings. Appellants have not sustained their burden. The arbitrator and the trial judge had an adequate factual basis to establish the attorney fees here.
+"In any dispute regarding costs or fees, the amounts submitted for settlement are usually figures for which the parties are willing to settle without the necessity of litigation or extended hassle. The figures usually represent amounts for less than the party thinks actually is owing. In short, they represent an offer of compromise.
+"However, once either party decides to reject the compromised settlement offer, and actual litigation becomes necessary to resolve the dispute, these settlement figures cease to be the guidelines for determination of the actual dispute. The trier must now look to the actual value of the services to determine the disputed fee.
+" 'The reason for the rule is that the law is said to favor peaceful settlements and that to admit unaccepted offers of compromise or ineffective attempts to reach a settlement would reach quite the opposite result and serve to encourage legal war rather than peace in the settlement of claims already in or headed for litigation. Thus the above source [5 Callaghan’s Michigan Pleading & Practice, § 36.507] indicates that evidence of a compromise or settlement offer may not be received * * * as an admission of a disputed fact.’ Thirlby v Mandeloff, 352 Mich 501, 505; 90 NW2d 476 (1958).
+"My perusal of the record persuades me that this is applicable to the instant case. Upon going to actual arbitration, the earlier figure was rendered nugatory. Instead, the arbitrator was ordered to act 'for the purpose of determining the reasonable value of fees due’. The order provided further that '* * * the Arbitrator shall make his determination of the reasonable value of the legal services based on the arbitrator’s knowledge and experience of these and similar matters’.
+"Based upon persuasive, competent and undisputed evidence, the arbitrator determined, and the trial court upheld, the reasonable value of the services in setting the disputed attorney’s fees.” Dissenting opinion of Judge Brennan in City National Bank of Detroit v Westland Towers Apartments, supra, pp 235-236.
+Affirmed as to the arbitrator’s findings and the confirmation of those findings by the trial judge.
+M. F. Cavanagh, J., concurred.
+
+## Dissent (Bronson, J.)
+
+Bronson, J.
+(dissenting). This matter was remanded to this Court on order of the Supreme Court. In our earlier opinion, we stated:
+"We find it unnecessary to determine which interpretation of the contract to arbitrate is the more reasonable. We are convinced that even if the contract had not used the term 'due’, the arbitrator’s award would have to be reduced because it is obvious that — regardless of the literal words of the contract — the parties intended that the scope of the arbitration extend only to the $9,020.70. If the contract literally gave the arbitrator the power to grant more than that sum as an attorney fee award, then it must be reformed due to a mutual mistake of the parties. * * * It is clear to this Court from the oral arguments that both sides in this dispute were surprised by the arbitrator’s decision to award $33,000. To effectuate the true intentions of the parties, we reduce the attorney fee award to $9,020.70, which is the maximum sum the parties intended to be awarded to Mr. Gropman. There is no need to remand this case for further proceedings since it is obvious that if the arbitrator believed $33,000 was the reasonable value of Gropman’s services, he would award the maximum allowable fee of $9,020.70.” 107 Mich App 213, 234 (1981). (Citations and footnote omitted.)
+The Supreme Court vacated the judgment in an order, stating:
+"The opinion of the Court of Appeals does not provide an adequate basis for substituting that Court’s judgment for that of the arbitrator and of the trial judge who entered judgment on the award.” 413 Mich 937 (1982).
+I have reviewed the record and the arguments of counsel in light of the Supreme Court’s order. I cannot agree with the majority’s decision to affirm the decision confirming the arbitrator’s award. The arbitrator stated:
+"At the outset of proceedings, respondents’ counsel took issue with the order for arbitration entered by this honorable court but proceeded to participate in the arbitration. Both parties emphasized that the arbitrator would be bound to the strict terms of the order and would determine only the reasonable value of fees in the context of said order.”
+It is clear from this passage that the parties disagreed on the scope of the referral to arbitration before the arbitration proceedings began. Under the circumstances giving rise to the agreement, the order of the court was plainly ambiguous. The order did not reflect a meeting of the minds between the parties. At the time appellants objected to appellee’s interpretation of the referral order, either side would have been entitled to revoke the agreement. Appellants preserved their objections before submitting to arbitration. Under the circumstances, appellants’ objections should have been treated as a repudiation of the agreement to arbitrate. Common-law arbitration agreements may be revoked or repudiated at will by a party at any time prior to the announcement of the award. Gaines Twp v Carlson, Hohloch, Mitchell & Piotrowski, Inc, 79 Mich App 523, 528; 261 NW2d 71 (1977). This is not a case in which a party waited until the arbitrator ruled in its opponent’s favor before complaining that it had not agreed to the arbitrator’s interpretation of the scope of arbitration. See Arrow Overall Supply Co v Peloquin Enterprises, 414 Mich 95; 323 NW2d 1 (1982). Assuming that the referral order did encompass the matter of attorney’s fees for the entire period of employment, this authority to arbitrate was effectively revoked by appellants’ timely contention that the subject matter was more limited.
