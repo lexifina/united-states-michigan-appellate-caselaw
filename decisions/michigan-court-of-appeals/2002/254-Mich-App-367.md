@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "237533"
+decided: "2002-12-06"
+citations: ["254 Mich. App. 367"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Hood, P.J., and Bandstra and O’Connell, JJ."]
+parties: ["In re SHIELDS ESTATE"]
+source_url: "https://static.case.law/mich-app/254/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 94906
+cites_cases: ["136 Mich App 343", "1989 PA 69", "1998 PA 386", "214 Mich App 195", "237 Mich App 295", "248 Mich App 535", "252 Mich App 120", "356 NW2d 23", "441 Mich 508", "442 Mich 520", "444 Mich 314", "495 NW2d 370", "502 NW2d 310", "506 NW2d 850", "543 NW2d 4", "602 NW2d 622", "639 NW2d 837", "651 NW2d 153"]
+---
+
+# In re Shields Estate
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondent State Farm Mutual Automobile Insurance Company appeals as of right the probate court’s order requiring it to pay attorney fees incurred by petitioner as conservator of his minor daughter’s estate. We reverse.
+Elizabeth Shields was an infant when she suffered injuries in an automobile-related accident. Respondent, which insured her father Walter’s vehicle, paid her medical expenses and has been paying for her care as part of the family’s personal injury protection (pip) benefits. A claim against the driver of the vehicle that struck Elizabeth was also settled, resulting in a payment to Elizabeth of approximately $30,000. As a result of this payment, Walter established an estate for Elizabeth and was appointed its conservator. At issue here are attorneys fees that were incurred in the filing of the first annual account for the conservatorship.
+Respondent first argues on appeal that the probate court lacked jurisdiction to consider the issue whether respondent was responsible for the attorney fees at issue under the parties’ contract of insurance. We disagree. This is a question of law that we consider de novo. In re Hague, 237 Mich App 295, 299; 602 NW2d 622 (1999). Respondent cites In re Kus Estate, 136 Mich App 343, 347; 356 NW2d 23 (1984), in which this Court held that the probate court did not have jurisdiction to hear a contract claim brought on behalf of an estate. When that case was decided, probate court jurisdiction was governed by MCL 700.21 and MCL 700.22. However, after Kus was decided, the Legislature added a statutory provision granting the probate court concurrent jurisdiction over contract claims brought by an estate, see 1989 PA 69, and that provision was retained when the Legislature revised the statutory scheme in 1998, see 1998 PA 386 and MCL 700.1303(1)(i).
+Under MCL 700.1303(1)(i), the probate court has jurisdiction to “[h]ear and decide a contract proceeding or action by or against an estate, trust, or ward.” The statute imposes no limits on the types of contract actions and, further, the Legislature explained in MCL 700.1303(3) that the purpose of the statute was to simplify the disposition of actions involving estates. The probate court in the present case had exclusive jurisdiction to settle the accounts of a fiduciary under MCL 700.1302(d), and concurrent jurisdiction to determine respondent’s liability for the fiduciary’s expenses under MCL 700.1303(1)(i). Accordingly, the probate court had jurisdiction to decide this case.
+Respondent next argues that the probate court erred in finding respondent responsible for the attorney fees. On this point, we agree. This is again a question of law we consider de novo. In re Smith Estate, 252 Mich App 120, 123-124; 651 NW2d 153 (2002). The scope of pip benefits is dictated by statute. Rohlman v Hawkeye-Security Ins Co, 442 Mich 520, 524-525; 502 NW2d 310 (1993). Under MCL 500.3105(1), a PIP insurer must pay benefits for accidental bodily injury arising out of the use of motor vehicles. See Nelson v Transamerica Ins Services, 441 Mich 508, 517-518 n 23; 495 NW2d 370 (1992). However, a claimant’s recovery under MCL 500.3105(1) is limited to “allowable expenses,” which are defined by MCL 500.3107(1)(a) as “all reasonable charges incurred for reasonably necessary products, services and accommodations for an injured person’s care, recovery, or rehabilitation.” See Owens v Auto Club Ins Ass’n, 444 Mich 314, 323; 506 NW2d 850 (1993). Although such expenses are not limited to medical care, they must be causally connected to the injured person’s care, recovery, or rehabilitation. Hamilton v AAA Michigan, 248 Mich App 535, 544-545; 639 NW2d 837 (2001).
+Petitioner in the present case relies on Heinz v Auto Club Ins Ass’n, 214 Mich App 195; 543 NW2d 4 (1995). There, this Court held that services performed by a guardian or conservator can be allowable expenses under MCL 500.3107(1)(a) if a person “is so seriously injured in an automobile accident that it is necessary to appoint a guardian and conservator for that person . . . .” Heinz, supra at 198. However, the conservator in the present case was not needed because of the injuries Elizabeth suffered in the accident. The conservator was needed only because Elizabeth is a minor, unable to oversee her own financial affairs. Thus, in contrast to the situation in Heinz, the conservatorship here, and its related costs, did not “arise out of” the accident for which respondent was obligated to provide pip benefits. See MCL 500.3105(1).
+It is insufficient that the conservator’s expenses would not have been incurred but for the accident; the expenses must be necessary for the injured person’s care because of the accident. See Hamilton, supra at 545 (to be recoverable, expenses must be “causally connected” to injuries resulting from an automobile accident). The conservatorship in the present case does not meet that requirement. The probate court erred in ordering respondent to pay the attorney fees at issue.
+We reverse.
