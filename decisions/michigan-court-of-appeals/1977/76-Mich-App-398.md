@@ -1,0 +1,25 @@
+---
+court: "Michigan Court of Appeals"
+docket: "28925"
+decided: "1977-06-20"
+citations: ["76 Mich. App. 398"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P. J., and M. F. Cavanagh and D. F. Walsh, JJ."]
+parties: ["LAHTI v FINNISH MUTUAL FIRE INSURANCE COMPANY"]
+source_url: "https://static.case.law/mich-app/76/cases/0398-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2166355
+cites_cases: ["124 A 691", "13 Mich App 125", "134 NW2d 228", "163 NW2d 716", "226 NW2d 79", "229 NW2d 365", "263 NW 724", "273 Mich 493", "280 Pa 550", "36 ALR 1262", "375 Mich 225", "40 ALR2d 168", "57 Mich App 152", "59 Mich App 180"]
+---
+
+# Lahti v. Finnish Mutual Fire Insurance
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs brought suit against defendant insurance company complaining of defendant’s refusal to enter into a settlement agreement with an alleged tortfeasor, alleging the same facts in support of four counts sounding in negligence, interference with prospective economic advantage, breach of warranty, and infliction of mental anguish, and praying for a total of $1,500,000 in actual and punitive damages. Defendant moved for summary judgment pursuant to GCR 1963, 117.2(1), for failure to state a claim upon which relief could be granted, and from an order granting summary judgment for defendant, plaintiffs now appeal.
+This litigation arose out of an automobile accident in which a car driven by a civilian employee of the United States Air Force failed to negotiate a curve and ran into the home of the plaintiffs Spreitzer. Plaintiff Lahti’s decedent, a passenger in the car, was killed in the accident. Defendant paid the Spreitzers the face value of their homeowner’s insurance policy to compensate them for the damage to their home, and the Spreitzers executed a subrogation agreement in favor of defendant insurance company in return for payment under the policy. Plaintiffs thereafter entered into negotiations with the Department of the Air Force, which offered to settle all claims for a specified sum, provided that defendant insurer entered into the proposed settlement. Plaintiffs approached defendant and requested that defendant enter into the settlement and agree to accept less than the amount to which it was entitled under the subrogation agreement. Defendant refused to accept less from the proposed settlement fund than the amount to which it was entitled under the subrogation agreement, and the settlement negotiations thereafter broke down. Plaintiffs and defendant thereafter brought suit against the United States in Federal district court, and eventually accepted an out of court settlement in an amount considerably less than the original proposed settlement, and plaintiffs then brought this suit against defendant.
+Summary judgment is appropriate in a negligence action, where the well-pleaded facts in a plaintiff’s complaint fail, as a matter of law, to establish that the defendant owed any duty to the plaintiff. See Levendoski v Geisenhaver, 375 Mich 225; 134 NW2d 228 (1965). It is clear that defendant was entitled to subrogation, both under the subrogation agreement and according to equitable principles. Wolverine Insurance Co v Klomparens; 273 Mich 493; 263 NW 724 (1935), Poynter v Aetna Casualty & Surety Co, 13 Mich App 125, 129; 163 NW2d 716 (1968). Although the courts of this state have long recognized the right of an insured defendant to recover, under certain circumstances, against his insurer for a wrongful refusal to settle a claim within the policy limits when such refusal results in a judgment against the insured in excess of the policy limits, see, e.g., Rutter v King, 57 Mich App 152; 226 NW2d 79 (1974), we have searched in vain for any case holding an insurer liable to its insured for refusing to compromise its subrogation rights and enter into a settlement and release agreement with an alleged tortfeasor. Upon payment of a claim by the insured, an insurer is entitled to be subrogated pro tanto to the insured’s right against the tortfeasor, Wolverine Insurance Co v Klomparens, supra at 496, and it would be anomalous to hold that an insurer has a duty to relinquish its right to pro tanto subrogation at the mere instance of an insured who desires to increase his share of a subsequent settlement with an alleged tortfeasor. We have been unable to discover any authority that so holds. In our opinion, even regarding all of plaintiffs’ well pleaded allegations as true, as we are obliged to do, Szydlowski v General Motors Corp, 59 Mich App 180; 229 NW2d 365 (1975), plaintiffs failed to allege facts sufficient to impose such a duty upon the defendant insurer, and in the absence of any such provision in the subrogation agreement, we are of the opinion that no such duty existed in this case. See Illinois Auto Insurance Exchange v Braun, 280 Pa 550; 124 A 691; 36 ALR 1262 (1924).
+Accordingly, the trial court’s summary judgment for defendant is affirmed. Costs to defendant.
