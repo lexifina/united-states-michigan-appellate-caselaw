@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "2,625"
+decided: "1968-08-27"
+citations: ["13 Mich. App. 35"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Fitzgerald, P. J., and J. H. Gtllis, J., concurred."]
+parties: ["VanDUSER v. TREITZ."]
+source_url: "https://static.case.law/mich-app/13/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2052993
+cites_cases: ["190 Mich 518", "312 Mich 375", "374 Mich 194"]
+---
+
+# VanDuser v. Treitz
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+Prom the undisputed facts in the complaint, we learn that plaintiff, an employee of the county road commission, was injured while a passenger in a road commission truck which collided with defendants’ automobile. The workmen’s compensation insurer of the road commission was allowed to intervene in this suit under specified restrictive conditions. At the jury trial, plaintiff was rendered a verdict in his favor for only $4,000.
+Although the workmen’s compensation carrier had contested disability benefits, the workmen’s compensation hearing referee awarded plaintiff benefits and expenses which, at the time of trial, totalled $7,454.03.
+Briefly stated, the pertinent parts of the order for intervention provided that the intervenor might join in this suit, file an appearance, but not be named in the caption. Also, there was not to be any reference in the presence of the jury as to payment of compensation. The intervenor was to have a lien upon any judgment recovered by the plaintiff, and in the event the plaintiff and the intervenor were unable to agree upon a division of any settlement, either might petition the court’s aid. At the conclusion of the trial, intervenor moved for an additur to the verdict of $3,454 for disability benefits and expenses it had paid to plaintiff, or for a new trial, which was denied.
+We are asked to rule that the insurer is entitled to recover from the defendants the full amount of workmen’s compensation benefits paid. The defendants contend that plaintiff’s damages were fully exhibited to the court and the jury, including all hospital and medical expenses, lost wages, pain and suffering, future damages, etc., and that the jury verdict covered all damages for which the defendants are liable.
+The workmen’s compensation act provides a remedy against a third party for damages both to an injured employee and to the employer’s workmen’s compensation insurance company. In the trial court’s order granting intervention to the compensation insurance carrier, neither the plaintiff nor the intervenor were permitted to show workmen’s compensation coverage or the amounts paid to the plaintiff.
+“Evidence concerning receipt of workmen’s compensation payments by an injured workman and his dependents should not be admitted in the trial of a negligence case against a third-party defendant,” Hill v. Harbor Steel and Supply Corporation (1965), 374 Mich 194, Syllabus No 17.
+Workmen’s compensation benefits were ordered paid and were paid without notice to, or participation in those proceedings by, the defendants, because the defendants had no right to intervene in or participate in the proceedings held by the workmen’s compensation department.
+Our Supreme Court has said that the payment of workmen’s compensation benefits is but prima fac.ie evidence as to damages. Defendants herein had an opportunity to counter the prima facie evidence with competent evidence that such damages were excessive or unreasonable. Grand Rapids Limber Co. v. Blair (1916), 190 Mich 518, 523. It is evident in this case that the jury may have concluded that some of the damage claims of the plaintiff were unfounded. In his opinion denying the motion for new trial or additur, the trial judge stated :
+“Some of the medical experts could not explain or find any reason for all of plaintiff’s complaints and their credibility was for the jury, as was plaintiff’s credibility. * * *
+“With reference to loss of wages, there was testimony that the plaintiff was not a full-time worker for his employer and that his claimed inability to work was not all attributable to the 1962 accident.”
+The amount of compensation as set by the workmen’s compensation department is not res judicata. Otherwise, the defendants would be deprived of due process and equal protection under the law, since the defendants were not parties to the compensation action.
+“Constitutional requirements relied on by appellant herein for reversal are met when he is alloAved his day in court to contest his liability and defend himself against plaintiff’s claim for indemnification. In such an action all defenses which were available to plaintiff before the department and which would have been available to Van Every on plaintiff’s behalf had Van Every been a party in the compensation proceeding may be advanced by Van Every to defeat recovery against him. * * *
+“Liability of a third party, under the subrogation provision of the act, is not based on a claim of contractual relationship. As we have held, the suit to fasten liability on the contractor for indemnity may be in assumpsit to recover the amount paid. ' However, the amount fixed by the department is not res judicata as to the amount of liability of the contractor; nor is his liability itself finally adjudicated by the department. He may claim as a defense in the suit against him for the indemnity that the amount is excessive; he may claim a complete want of liability on any of the grounds that might have been interposed by the principal in the proceeding before the department. Thus having his day in court, the fact that he was not a party or given notice of the proceedings in the department is not a bar to the suit in court. However, the amount of compensation paid by plaintiff herein under the workmen’s compensation act is prima facie evidence of plaintiff’s damages, subject to the right of defendant to meet it by any competent evidence.” Currier Limber Co. v. Van Every (1945), 312 Mich 375, 388, 389, 390.
+There is no precise relationship on the same set of facts betAveen awards in workmen’s compensation proceedings and third party-liability found in a subsequent negligence jury trial. Workmen’s compensation payments are founded under a statute and provide only statutory payments. Negligence suits allow the jury fco determine the reasonableness of all claimed damages, such as loss of work, life expectancy, future damages, etc.
+Proceedings before the workmen’s compensation department amounted at most to a showing of a work-related injury to VanDuser, compensable by reason of his employment, and for the amount of statutory damages.
+While there may appear to be an injustice to the intervenor who by statutory enactment is provided a remedy (and in this situation limited by the jury verdict) against the defendants, nevertheless, to require the defendants to pay more damages than were fully exhibited to and determined by the jury would work an injustice on the defendants. Hero is a problem for legislative concern if a different result is needed. The defendants’ liability to the workmen’s compensation insurance carrier is limited to the jury findings of total damages to be paid by the defendants.
+Judgment of the trial court is affirmed. Costs to appellees.
+Fitzgerald, P. J., and J. H. Gtllis, J., concurred.
+The trial court motion for additur was in the amount of $3,330.80, the difference being an item of $123.23 in interest.
+Workmen’s Compensation Act, CLS 1961, §413.15 (Stat Ann 1960 Eev § 17.189) :
+“Where the injury for which compensation is payable under this act was caused under circumstances creating a legal liability in some person other than a natural person in the same employ or the employer to pay damages in respeet thereof, the acceptance of compensation benefits or the taking of proceedings to enforce compensation payments shall not act as an election of remedies, but such injured employee or his dependents or their personal repirosentative may also proceed to enforce the liability of such third party for damages in accordance with the provisions of this section. * * *
+“Not less than 30 days before the commencement of suit by any party under this section, such party shall notify, by registered mail at their last known address, the workmen’s eompiensation commission, the injured employee, or in the event of his death, his known dependents or personal representative or his known next of kin, his employer and the workmen’s compensation insurance carrier. Any party in interest shall have a right to join in said suit.”
