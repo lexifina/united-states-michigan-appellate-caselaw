@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "70355"
+decided: "1984-03-22"
+citations: ["133 Mich. App. 215"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P.J., and V. J. Brennan and N. J. Kaufman, JJ."]
+parties: ["BRADEN v LEE"]
+source_url: "https://static.case.law/mich-app/133/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2246736
+cites_cases: ["330 NW2d 22", "415 Mich 483", "42 ALR3d 229"]
+---
+
+# Braden v. Lee
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Following an automobile accident in June, 1979, plaintiff filed suit seeking to recover damages for his injuries. 1 The complaint alleged that plaintiff had suffered injuries to his left hand, arm and leg, as well as injuries to his back and the surrounding muscles, ligaments and other soft tissues, all of which were alleged to constitute a serious impairment of a body function. Both parties moved for summary judgment on the issue of whether plaintiff’s injuries met the threshold requirement for recovery of noneconomic losses. Defendant’s motion for summary judgment was granted, and on March 10, 1983, judgment was entered accordingly. Plaintiff now appeals as of right.
+Under the Michigan no-fault act, a person remains subject to tort liability for noneconomic loss occasioned by his use, maintenance or operation of a motor vehicle only if the injured party has suffered death, serious impairment of body function or permanent serious disfigurement. MCL 500.3135; MSA 24.13135. The determination of what injuries fall within the ambit of the phrase "serious impairment of body function” is properly a question of statutory construction to be resolved by the court. Cassidy v McGovern, 415 Mich 483; 330 NW2d 22 (1982).
+When there is no factual dispute regarding the nature and extent of a plaintiffs injuries or when the factual dispute is not material to the determination of whether plaintiff has suffered a serious impairment of body function, the trial court shall rule as a matter of law whether the threshold statutory requirement has been met. Cassidy, supra, p 502. When considering the seriousness of the injury, the court should be mindful of the other threshold requirements for recovery of noneconomic loss, death and permanent serious disfigurement, and the legislative reasons for limiting the recovery for noneconomic losses, prevention of overcompensation of minor injuries and reduction of litigation in automobile accident cases. Cassidy, supra.
+In the present case, plaintiff did not work for four months following the accident. Approximately one month after the collision, plaintiff began to experience numbness in his right hand. He returned to work in October, 1979, against the advice of his personal physician, after the company doctor indicated that he was able to return to work. Plaintiff was treated for the injuries - to his left hand with medication for pain and inflammation. Medical testimony did not establish a conclusive diagnosis for plaintiffs condition. Plaintiffs medical witness stated that he could not reach a definite diagnosis of rheumatoid arthritis but that it was a possible diagnosis. He also could not state to a reasonable degree of medical certainty whether, even if plaintiff did have rheumatoid arthritis, the problems plaintiff had with his other joints were caused by the accident. On the other hand, defendant’s medical witness indicated that he did not believe plaintiff to be disabled and that his examination revealed no abnormality in his hands.
+When determining whether a certain injury meets the threshold requirement for recovery of noneconomic loss, the court is to apply an objective standard which looks to the effect of the injury on the individual’s general ability to lead a normal life. The impairment must involve an important body function and must also be serious. Here, the trial court found that plaintiff had suffered some impairment of the use of his hand but held that the injury did not meet the threshold level of a serious impairment of body function. We agree.
+Plaintiff’s deposition testimony indicated that, although he did not work for four months, he was never hospitalized as a result of the accident, nor did he have to undergo any specialized treatment for his injuries. Since his return to work, plaintiff has worked steadily in production repair for Ford Motor Company. He continues to complain of generalized pain in his left hand with morning swelling but has no medical restrictions upon his activities. He sets his own limits and stated that he cannot do certain household chores without pain, i.e., raking leaves and sweeping.
+We find that the trial court properly granted summary judgment to defendant, concluding that plaintiff’s injuries failed to meet the minimum threshold requirement. Plaintiff was not incapacitated by his injuries nor did they interfere in any significant manner with his normal life style. Although plaintiff indicated that he continues to experience pain due to his injuries, recovery for noneconomic losses is not predicated upon serious pain and suffering but on objectively manifested injuries which affect the functioning of the body. Cassidy, supra, p 505. Plaintiff’s injuries were not sufficiently serious to meet the minimum threshold level for recovery. Nor do we find that plaintiff’s other injuries create a factual dispute which straddles the line demarcating those injuries which constitute serious impairment of body function and those which do not. Plaintiff’s injuries did not prevent him from performing those tasks related to his employment nor did they interfere with his general ability to live a normal life.
+The trial court correctly determined as a matter of law that plaintiff’s injuries failed to meet the minimum threshold requirement for recovery of noneconomic losses; thus, summary judgment was properly entered in defendant’s favor.
+Affirmed. Costs to defendant.
+Reference to plaintiff in the singular refers to Jessie Braden. Claudine Braden was also named as plaintiff in this action; she sought damages for loss of consortium due to the injuries sustained by her husband in the accident.
