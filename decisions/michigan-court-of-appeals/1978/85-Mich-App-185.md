@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-2705"
+decided: "1978-08-08"
+citations: ["85 Mich. App. 185"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P. J., and N. J. Kaufman and Bashara, JJ."]
+parties: ["STEVENS v HOGUE"]
+source_url: "https://static.case.law/mich-app/85/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2185585
+cites_cases: ["1972 PA 294", "208 NW2d 469", "218 NW2d 798", "247 NW2d 349", "254 NW2d 593", "264 NW2d 83", "267 NW2d 72", "32 NW 610", "389 Mich 441", "4 ALR2d 761", "402 Mich 554", "53 Mich App 312", "65 Mich 306", "71 Mich App 200", "74 Mich App 615", "80 Mich App 640"]
+---
+
+# Stevens v. Hogue
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This case presents issues of trial procedure for cases under the no-fault automobile act, MCL 500.3101 et seq.; MSA 24.13101 et seq., and an issue concerning the constitutionality of the act.
+The parties to this action were involved in an automobile accident on September 25, 1974. Plaintiff June Stevens was injured in the collision and taken to a hospital by ambulance. She was treated at the hospital and released. Plaintiff was admitted to a different hospital several weeks later for treatment of back and leg pains. There was evidence that she had a history of prior back trouble. After her discharge from the hospital, plaintiff walked with the aid of crutches. In December she fell on snow and ice while getting out of a car. The fall resulted in a broken ankle. Plaintiff attributes the fall to injuries she received in the automobile accident.
+Defendant admitted negligence in the initial collision before trial, but denied liability for the subsequent fall. The case was tried solely to determine if plaintiff had suffered a "serious impairment of body function” or "permanent serious disfigurement”, MCL 500.3135; MSA 24.13135, and if so, to assess damages. The jury returned a verdict of no cause for action. Plaintiff appeals by right and we affirm.
+Plaintiff first claims MCL 500.3135; MSA 24.13135, is unconstitutional on equal protection grounds. The Supreme Court has rejected the identical argument. Shavers v Attorney General, 402 Mich 554; 267 NW2d 72 (1978).
+Believing she would not have to make the threshold showing of serious impairment of body function or permanent serious disfigurement under § 3135(1) if defendant were uninsured, plaintiff argued the question of whether defendant was insured should have been submitted to the jury. The Supreme Court has read the no-fault statute as not abolishing tort liability if the other vehicle is uninsured, Shavers, supra, so whether the defendant is insured is a relevant inquiry. However, because of the ban on injecting insurance into a trial contained in MCL 500.3030; MSA 24.13030, the inquiry must be addressed to the court.
+In most cases, an affidavit or certificate of insurance will be sufficient to show that a policy covers the casualty. Here, defendant answered plaintiff’s interrogatories giving the name of the insurer, the policy number and the policy limits. When plaintiff’s counsel raised the objection at trial, defense counsel stated, as an officer of the court, that he was acting as a representative of defendant’s insurer. Defendant herself testified that she was insured at the time of the accident. Plaintiff does not claim now, nor has she apparently ever claimed, that defendant was uninsured. The trial court did not err in refusing to submit the question of insurance to the jury or in relying on the proof of insurance mentioned above.
+The plaintiff testified that because of the accident she had scars on her head and her activities were restricted. The court, therefore, instructed the jury to determine whether, as a result of the accident, plaintiff had suffered a serious impairment of body function or permanent serious disfigurement. Over plaintiff’s objection that only the statutory phrase should be given to the jury, the court attempted to define serious impairment of body function.
+At the present time, no standard instructions have been developed for no-fault cases. The court’s instruction in this case seems to us to be accurate, and fair to both sides. It informs the jury of an acceptable meaning of a somewhat nebulous phrase. See, Advisory Opinion re Constitutionality of 1972 PA 294, 389 Mich 441; 208 NW2d 469 (1973), McKendrick v Petrucci, 71 Mich App 200; 247 NW2d 349 (1976), Vitale v Danylak, 74 Mich App 615; 254 NW2d 593 (1977). Plaintiff can claim no prejudice from an instruction which was not more limited than the statutory phrase, but rather, gives it some substance. There was no error.
+Only one other issue merits extended discussion. At trial the defendant presented expert testimony by way of a videotape deposition. After the judgment was entered the defendant taxed costs which included $245 for the taking of the videotape deposition and a playback fee. Plaintiff claims this amount exceeds the limit allowed by statute and court rule.
+GCR 1963, 315 provides for the use of videotape depositions. Rule 315.10 provides that the cost for the deposition may be taxed in "accordance with the provisions of Rule 526.” Under GCR 1963, 526.1, the amount of costs to be taxed is subject to any limitation contained in a statute. MCL 600.2549; MSA 27A.2549 limits costs for depositions. There is no reason not to apply this statute to videotape depositions. It was error for the trial court to assess the actual cost incurred in taking and presenting this videotape deposition. Mihailoff v Meijer, Inc, 53 Mich App 312; 218 NW2d 798 (1974).
+Plaintiff also raises several issues concerning the admission or exclusion of evidence at trial. We have considered each allegation of error and found none would require reversal and a new trial.
+Affirmed and remanded for redetermination of costs in the trial court. No costs on appeal, neither party having fully prevailed.
+Several panels of this Court had stated that the threshold showing of § 3135 must be met to recover noneconomic damages even if the other vehicle was uninsured. Shigur v West Bend Mutual Insurance Co, 80 Mich App 640, 643; 264 NW2d 83 (1978), McKendrick v Petrucci, 71 Mich App 200, 203-204; 247 NW2d 349 (1976). Neither Court has made a specific holding on the point and it is unnecessary to do so in this case.
+In the automobile accident itself, plaintiff sustained a laceration on her head which required several stitches to close. This cut was at or near the hairline. In the fall on the ice, which plaintiff also attributed to the collision, she received a cut on the bridge of her nose which left a small scar and a bump.
+The court instructed: "If the impairment is of a permanent nature, it must certainly be a serious one and if it is merely temporary and to pass away without serious results, it cannot well be said to render the person unsound in her general health. However, an impairment need not be permanent to be serious. The word serious is not generally used to signify a dangerous condition but rather to define a grave, important or weighty trouble.” This instruction was apparently drawn from Brown v Metropolitan Life Ins Co, 65 Mich 306, 315; 32 NW 610 (1887).
+No attempt was made to define permanent serious disfigurement.
+We do not mean to intimate that the statutory phrase must be amplified. We hold only that the trial court’s amplification in this case did not detract from the statute or invade the province of the jury. Plaintiff was thus not prejudiced by the instruction.
