@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "44796"
+decided: "1980-06-17"
+citations: ["98 Mich. App. 266"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bashara, P.J., and M. J. Kelly and D. R. Freeman, JJ."]
+parties: ["INMAN v DEPARTMENT OF SOCIAL SERVICES"]
+source_url: "https://static.case.law/mich-app/98/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2200247
+cites_cases: ["247 NW2d 889", "282 NW2d 202", "285 NW2d 427", "399 Mich 103", "409 US 413", "89 Mich App 732", "92 Mich App 701"]
+---
+
+# Inman v. Department of Social Services
+
+## Majority (Bashara, P.J.)
+
+Bashara, P.J.
+The issue to be resolved in this case is whether the Michigan Department of Social Services (DSS) may mandate reimbursement for general assistance advanced during the pendency of a supplemental security income (SSI) application and approved, where the first SSI check, including retroactive benefits, is inadvertently sent to the recipient rather than the Department of Social Services. We hold that it may so mandate reimbursement and, therefore, affirm but modify the judgment of the trial court.
+The facts are undisputed. Jean Inman applied for Federal SSI benefits in September of 1977. On September 14, 1977, she signed a reimbursement authorization and agreement with the Department of Social Services. The agreement authorized the Secretary of Health, Education and Welfare (HEW) to make the first payment of SSI benefits directly to the DSS. Ms. Inman, thereafter, received general assistance from the DSS from September of 1977 through March of 1978.
+On March 8, 1978, she was approved for SSI benefits and received an initial benefits check in the amount of $1,030.45. Although HEW had received her reimbursement authorization from the DSS, the check was erroneously sent to her representative payee. The payee, however, forwarded $794.94 of the $1,030.45 to the DSS as reimbursement for the interim assistance.
+Ms. Inman then requested that DSS return the reimbursement. She argued that 42 USC 407, which was made applicable to SSI recipients by 42 USC 1383(d)(1), prevented the DSS from using any legal process to obtain money that had been distributed to an SSI recipient.
+When the DSS refused to return the monies, Ms. Inman sought an administrative hearing. The hearing judge determined that she was not entitled to a return of her SSI benefits. This decision was affirmed by the circuit court, which concluded that the payment was voluntary. However, the court also issued a declaratory judgment which prohibited the DSS from obtaining mandatory reimbursement of SSI benefits paid directly to SSI recipients. The DSS appeals from the lower court’s declaratory judgment, and Ms. Inman cross appeals the determination that the payment was voluntary.
+The lower court’s declaratory judgment was based on the interpretation given 42 USC 407 by the United States Supreme Court in Philpott v Essex County Welfare Board, 409 US 413; 93 S Ct 590; 34 L Ed 2d 608 (1973). Section 407 states:
+"The right of any person to any future payment under this subchapter shall not be transferable or assignable, at law or in equity, and none of the moneys paid or payable or rights existing under this subchapter shall be subject to execution, levy, attachment, garnishment, or other legal process, or to the operation of any bankruptcy or insolvency law.”
+The Supreme Court held that § 407 prevented the State of New Jersey from using legal process to obtain Federal disability payments paid to a recipient. However, the instant case is clearly distinguishable from Philpott.
+In Philpott, both the State of New Jersey and the Federal government were under a statutory duty to provide disability benefits to the recipient. However, for a certain amount of time, the state was the sole provider and its payments to the recipient were increased accordingly. Subsequently, the recipient was awarded retroactive benefits from the Federal government which included the period for which the state had furnished assistance. The state commenced an action to recover the amount by which its own payments would have been reduced had the Federal benefits been received currently rather than retroactively.
+The Supreme Court concluded that the "all inclusive” language of § 407 precluded the state from reaching the Federal benefits. Id., 416. The court saw no reason to imply an exception to § 407 on the grounds proffered by the state:
+"We see no reason why a State, performing its statutory duty to take care of the needy, should be in a preferred position as compared with any other creditor.” Philpott v Essex County Welfare Board, 409 US 413, 416.
+Congress, subsequently and likely in response to the Philpott decision, enacted new Social Security legislation in 1974. 42 USC 1381 et seq. As previously stated, § 1383(d)(1) incorporates by reference § 407. However, the new legislation also included § 1383(g), which provides in part:
+"(1) Notwithstanding subsection (d)(1) of this section and subsection (b) of this section as it relates to the payment of less than the correct amount of benefits, the Secretary may, upon written authorization by an individual, withhold benefits due with respect to that individual and may pay to a State (or a political subdivision thereof if agreed to by the Secretary and the State) from the benefits withheld an amount sufficient to reimburse the State (or political subdivision) for interim assistance furnished on behalf of the individual by the State (or political subdivision).
+"(2) For purposes of this subsection, the term 'benefits’ with respect to any individual means supplemental security income benefits under this subchapter * * * that the Secretary has determined to be due with respect to the individual at the time the Secretary makes the fírst payment of beneñts. A cash advance made pursuant to subsection (a)(4)(A) shall not be considered as the first payment of benefits for purposes of the preceding sentence.” (Emphasis added.)
+Section 1383(g) was enacted to encourage states to provide interim assistance where there is no duty to so provide. Congress was aware that between the time an individual applies for SSI benefits and the time they are received, considerable time may elapse. In the present case, Ms. Inman was required to wait approximately six months. Although the first SSI check includes retroactive benefits from the time of filing, this cannot satisfy those persons who are in immediate and constant need. To help these persons, many states provide interim assistance.
+As a condition for assistance in Michigan, a recipient must agree to have the first SSI payment sent directly to the state. See French v Dep’t of Social Services, 92 Mich App 701; 285 NW2d 427 (1979). This practice is consistent with § 1383(g) and the regulations promulgated thereunder. 20 CFR 416.1901 et seq.
+We find that the effect of § 1383(g)(1) and (2) is to make a state which supplies interim assistance a preferred creditor as to the first SSI payment.
+It is undisputed that the DSS complied with all statutory requirements and regulations. But for the error by HEW in sending the check to the payee rather than to the state, no problem would have existed. Under these limited circumstances, a state should be allowed to use any appropriate means, including the use of legal process, to obtain its reimbursement. Any other construction of the statute would produce an unjust result and would be clearly inconsistent with the purposes and policies of the act in question. See Salas v Clements, 399 Mich 103, 109; 247 NW2d 889 (1976), The Clarke-Gravely Corp v Dep’t of Treasury, 89 Mich App 732, 738; 282 NW2d 202 (1979).
+In light of our conclusion, we find it unnecessary to discuss Ms. Inman’s cross-appeal.
+Affirmed in part and modified in part. No costs, a public question being involved.
+It is in this respect that this case differs from French v Dep’t of Social Services, supra. In a footnote, the French Court observed that because the defendant had failed to communicate with HEW regarding the plaintiff’s execution of the reimbursement agreement, it was precluded from recouping directly from HEW the money subsequently advanced to the plaintiff as interim assistance pursuant to § 1383(g). It should be further noted that the text of the reimbursement agreement is set forth in its entirety in the French case.
