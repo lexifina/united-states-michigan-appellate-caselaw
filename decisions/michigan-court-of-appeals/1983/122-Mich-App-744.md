@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "56621"
+decided: "1983-02-08"
+citations: ["122 Mich. App. 744"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: M. F. Cavanagh, P.J., and N. J. Kaufman and R. A. Benson, JJ."]
+parties: ["GOLDMAN v WEXLER"]
+source_url: "https://static.case.law/mich-app/122/cases/0744-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2231064
+cites_cases: ["101 Mich App 216", "106 Mich App 148", "106 Mich App 579", "187 NW2d 236", "191 NW2d 313", "231 NW2d 57", "234 NW2d 489", "235 NW2d 769", "300 NW2d 519", "307 NW2d 744", "308 NW2d 468", "385 Mich 39", "386 Mich 37", "394 Mich 327", "63 Mich App 288", "64 Mich App 315", "91 ALR3d 1170"]
+---
+
+# Goldman v. Wexler
+
+## Majority (R. A. Benson, J.)
+
+R. A. Benson, J.
+Plaintiff appeals as of right from an order of the trial court granting accelerated judgment pursuant to GCR 1963, 116.1(5) in favor of Jerome Goldman and dismissing plaintiff’s complaint as to him.
+Plaintiff’s complaint alleges that she was involved in an automobile accident in 1977 in which the vehicle she was driving was struck in the rear by a vehicle driven by defendant Lanee Wexler. She alleged that Goldman (defendant) thereafter committed a battery against her and that, as a result thereof, the injuries she sustained in the automobile accident were aggravated. At the time the alleged battery occurred, plaintiff and defendant were married. The marriage was terminated by a judgment of divorce which was entered in October, 1978.
+In granting defendant’s motion for accelerated judgment, the trial court relied on the fact that the divorce judgment provided that plaintiff was to receive a large proportion of the marital assets, several unexplained cash awards were made to her, and she was awarded $1,000 for medical expenses incurred during the marriage. Therefore, the court ruled that plaintiffs claim in this action was barred by the prior divorce judgment. We disagree.
+It is clear that plaintiff was entitled to maintain an action against defendant for torts committed during their marriage. Hosko v Hosko, 385 Mich 39; 187 NW2d 236 (1971). Defendant contends that, because the property settlement which was incorporated into the divorce judgment took into account the fault of the parties and because plaintiff received at least partial compensation for the injuries she suffered as a result of the alleged battery, res judicata precludes this action.
+In Howell v Vito’s Trucking & Excavating Co, 386 Mich 37, 41-42; 191 NW2d 313 (1971), the Supreme Court clarified the doctrine of res judicata as it relates to the separate principles of bar-merger and collateral estoppel. In so doing, the Court quoted from Restatement Judgments, § 68, pp 293-294:
+" 'It is important to distinguish the effect of a judgment as a merger of the original cause of action in the judgment or as a bar to a subsequent action upon the original cause of action from its effect by way of collateral estoppel in a subsequent action between the parties based upon a different cause of action. If a judgment is rendered in favor of the plaintiff, the cause of action upon which the judgment is based is merged in the judgment, and the plaintiff cannot thereafter maintain an action on the original cause of action (see § 47). If the judgment is rendered in favor of the defendant on the merits, the original cause of action is barred by the judgment (see § 48). In either case the original cause of action is extinguished by the judgment no matter what issues were raised and litigated in the action, or even if no issues were raised or litigated and judgment was rendered by default.
+" 'On the other hand, where the subsequent action is based upon a different cause of action from that upon which the prior action was based, the effect of the judgment is more limited. The judgment is conclusive between the parties in such a case as to questions actually litigated and determined by the judgment. It is not conclusive as to questions which might have been but were not litigated in the original action. This is the doctrine of collateral estoppel.’ ”
+The prior action between these parties was one for divorce based on the Michigan no-fault divorce statute. MCL 552.1 et seq.; MSA 25.81 et seq. The present action is for a battery which is alleged to have occurred during the course of the marriage. Although we agree that fault continues to be a consideration in property division disputes in a divorce action, Davey v Davey, 106 Mich App 579, 581; 308 NW2d 468 (1981), we cannot agree, nor does defendant seriously contend, that both claims constituted but a single cause of action. Consequently, this claim is neither barred by nor merged into the divorce judgment. Howell v Vito’s Trucking Co, supra; Curry v Detroit, 394 Mich 327, 331; 231 NW2d 57 (1975).
+Defendant’s reliance on collateral estoppel is also misplaced. From the record before us, it appears that, if the issue of whether defendant battered plaintiff was in fact decided in the prior proceeding, it was resolved that a battery did occur. If that is the case, defendant is now bound by that determination. Howell v Vito’s Trucking Co, supra, p 43; City of Mason v Mason State Bank, 63 Mich App 288; 234 NW2d 489 (1975). Therefore, defendant’s claim must fail.
+There exists another reason why collateral estoppel cannot foreclose plaintiffs action. The property division which was incorporated into the divorce judgment resulted from a negotiated settlement agreed upon by the parties. It is well established in this jurisdiction that consent judgments are not to be given collateral estoppel effect. American Mutual Liability Ins Co v Michigan Mutual Liability Co, 64 Mich App 315, 326-327; 235 NW2d 769 (1975); Berar Enterprises, Inc v Harmon, 101 Mich App 216; 300 NW2d 519 (1980); Peterson v Lapeer, 106 Mich App 148, 155-156; 307 NW2d 744 (1981). See also Anno: Modern Views of State Courts as to Whether Consent Judgment is Entitled to Res Judicata or Collateral Estoppel Effect, 91 ALR3d 1170, 1183.
+For the foregoing reasons, we find that plaintiff’s claim is not precluded by the prior judgment. If defendant intended that all claims which grew out of the marriage be thereafter foreclosed by the divorce judgment, a release providing for the same should have been incorporated into that judgment.
+The above is not meant to suggest that plaintiff is entitled to double recovery. If the consideration which was given plaintiff as part of the property settlement constituted payment, at least in part, for the injuries she suffered as a result of the alleged battery, defendant may raise that issue by way of affirmative defense and attempt to obtain a setoff against any judgment plaintiff obtains in this action.
+Our disposition of the issue discussed above renders it unnecessary for us to address the remaining issue raised by plaintiff.
+Reversed and remanded. Costs to plaintiff.
