@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "188855"
+decided: "1997-02-25"
+citations: ["222 Mich. App. 15"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: McDonald, P.J., and Murphy and M. F. Sapala, JJ."]
+parties: ["PANKEY v BIGARD/DRILLERS, INC"]
+source_url: "https://static.case.law/mich-app/222/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 483547
+cites_cases: ["138 NW2d 751", "215 Mich App 167", "377 Mich 37", "544 NW2d 721"]
+---
+
+# Pankey v. Bigard/Drillers, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff Paul Pankey appeals by leave granted an order entered oh August 31, 1995, by the Worker’s Compensation Appellate Commission (wcac) denying reconsideration of an order entered on' July 11, 1995, denying his motion for delayed appeal. We vacate and remand for further proceedings.
+Plaintiff filed an application for hearing seeking benefits that defendant Bigard/Drillers, Inc., had withheld on the grounds that they were wrongly paid. In a decision mailed on January 18, 1995, the magistrate rejected plaintiff’s claim. Pursuant to MCL 418.859a(1); MSA 17.237(859a)(1), plaintiff had thirty days from the date of the mailing of the magistrate’s order in which to file a claim for review with the WCAC. Section 859a(1) provides that for “sufficient cause shown, the commission may grant further time in which to claim a review.”
+Plaintiff’s claim for review was due no later than February 17, 1995. On Thursday, February 16, 1995, the claim was sent from plaintiff’s counsel’s office by certified mail. The WCAC received and filed the claim on Tuesday, February 22, ,1995.
+By letter dated March 14, 1995, the wcac informed plaintiff that because the claim was not filed within thirty days, it would be treated as a motion for delayed appeal. Plaintiff was given fourteen days to submit written reasons establishing sufficient reason to grant a delayed appeal. By motion dated March 24, 1995,,plaintiffs counsel stated that because of a clerical error, the claim for review was sent via certified mail rather than by Federal Express. In an affidavit accompanying the motion, counsel’s paralegal, stated that she inadvertently sent the claim via certified mail-
+in a two-to-one decision entered on July 11, 1995, the WCAC denied the motion for delayed appeal. The wcac found that sufficient cause had not been shown to grant the delayed appeal. The wcac’s worksheet, contained in the certified record, indicates that the dissenting member contended that the post office should have delivered the certified letter in a timely manner, i.e., overnight.
+By motion for reconsideration, plaintiff contended that sufficient cause had been shown because the delay was inadvertent and defendant had not been prejudiced. Relying on Walters v Arenac Circuit Judge, 377 Mich 37; 138 NW2d 751 (1966), in which our Supreme Court set aside a default on the grounds that the delay resulted from the negligence of the insurer and not the insured, plaintiff contended that he was dependent on his counsel for timely processing of the claim for review. In an affidavit accompanying the motion, counsel’s paralegal stated that at the time she sent the claim for review via certified mail, she had never processed a worker’s compensation claim for review and was unfamiliar with the procedure. She was under the mistaken impression that in worker’s compensation cases the appellant had a five-day grace period for the filing of appeals, similar to the grace period granted in social security cases, and that the appeal period began five days after the mailing date of the decision being challenged. The paralegal stated that she subsequently learned that the office procedure for handling claims for review in worker’s compensation cases was to hand deliver the claim to the WCAC or mail it via overnight Federal Express.
+By order entered on August 31, 1995, the WCAC denied the motion for reconsideration. The WCAC stated that sufficient cause had not been shown to grant the motion for delayed appeal.
+On appeal, plaintiff asserts that under the circumstances, the demonstration of inadvertent clerical error established sufficient cause for granting a delayed appeal. Walters, supra. Plaintiff reasons that because defendant was in no way prejudiced by the five-day delay in filing the claim for review, the general policy of resolving cases on the merits should be adhered to in this instance.
+The “sufficient cause” standard contained in § 859a(1) is less stringent than a good-cause standard. Sufficient cause is by its nature fact specific and must be determined case by case. Appropriate factors to consider include the length of the delay, the reason for the delay, and any resulting prejudice. Cf. Laudenslager v Pendell Printing, Inc, 215 Mich App 167; 544 NW2d 721 (1996). The decision to grant a motion for delayed appeal upon a showing of sufficient cause is within the discretion of the wcac.
+Given the particular facts presented here, we vacate the wcac’s order denying plaintiff’s motion for delayed appeal and remand this matter for consideration on the merits. The claim for review was mailed before the expiration of the thirty-day filing period. Because of the intervening weekend, the claim was received and filed five days late. The claim for review was processed by a paralegal who had not been informed of the established procedure for handling a claim for review in a worker’s compensation case. The paralegal believed that she was handling the claim in an appropriate manner. Finally, and most importantly, defendant was not prejudiced by the delay. Defense counsel candidly acknowledged as much during oral argument. Given the fact that the claim was mailed within the thirty-day filing period, the delay was only five days in length, the fact that the delay was caused solely by inadvertence, and the fact that defendant was in no way prejudiced, we hold that the WCAC abused its discretion by denying plaintiff’s motion for delayed appeal. We remand with instructions that the WCAC docket the appeal pursuant to usual procedure.
+A substantial portion of plaintiff’s brief is devoted to a discussion of the merits of the appeal. Because the wcac did not address the substance of plaintiff’s appeal, that argument is not properly before this Court at this point, and we decline to address it. MCL 418.861a(14); MSA 17.237(861a)(14). We express no opinion on the merits of plaintiff’s appeal.
+Vacated and remanded. We retain no jurisdiction.
