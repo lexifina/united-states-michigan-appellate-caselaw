@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "133148"
+decided: "1993-06-07"
+citations: ["200 Mich. App. 68"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Murphy, P.J., and Michael J. Kelly and Wahls, JJ."]
+parties: ["PEOPLE v HENDRICKS"]
+source_url: "https://static.case.law/mich-app/200/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1860240
+cites_cases: ["155 Mich App 681", "185 Mich App 476", "190 Mich App 424", "206 NW2d 517", "236 NW2d 461", "266 NW2d 477", "395 Mich 379", "400 NW2d 619", "418 NW2d 861", "420 NW2d 499", "429 Mich 450", "429 Mich 558", "45 Mich App 354", "463 NW2d 156", "476 NW2d 749", "82 Mich App 135"]
+---
+
+# People v. Hendricks
+
+## Majority (Wahls, J.)
+
+Wahls, J.
+Defendant was tried before a jury on one count of armed robbery and one count of assault with intent to commit murder. The jury found defendant guilty only of larceny from a person, MCL 750.357; MSA 28.589. He thereafter pleaded guilty of being an habitual offender, fourth offense, MCL 769.12; MSA 28.1084. Defendant now appeals as of right and presents a single issue: Is the offense of unlawfully driving away an automobile (udaa), MCL 750.413; MSA 28.645, a cognate lesser included offense of armed robbery? We conclude that it is not, and affirm.
+Defendant stole the complainant’s automobile while she was pumping gasoline into it. According to the complainant, when she objected, defendant stated, "Bitch, I will blow your brains out if you don’t get away from the car.” Defendant had one hand in his pocket, and the complainant believed that he had a gun. Defendant got into the automobile and drove away. The complainant had left her purse inside the vehicle. Defendant was later stopped by the police and attempted to run over an officer with the automobile when he was ordered to shut off the engine. Defendant crashed the vehicle after an officer fired a shot. The complainant’s purse was found in the trunk. Forty-five dollars were missing. Defendant testified on his own behalf. He acknowledged taking the complainant’s vehicle, but asserted that he had done so under duress. According to defendant, he took the vehicle when he saw another automobile that he believed carried several persons who wanted to kill him over a debt. Defendant denied that he had taken the money from the complainant’s purse and denied that he had been armed.
+At the conclusion of the proofs, defendant requested that the jury be instructed regarding various lesser offenses, including udaa. The trial court refused to give this instruction, apparently on the ground that it was undisputed that the automobile had been taken from the complainant in her presence, establishing some type of larcenous offense.
+On appeal, defendant claims that udaa is a cognate lesser included offense of armed robbery, that evidence adduced at trial supported the instruction, and that it was error for the trial court to refuse to give the instruction. According to defendant, reversal is required upon the authority of People v Harris, 82 Mich App 135; 266 NW2d 477 (1978). We do not disagree with defendant’s understanding of Harris. We do, however, disagree with Harris itself and believe that the case was wrongly decided, at least within the context of the law as we find it today.
+A cognate lesser included offense is an offense that shares some elements of a higher offense and is of the same class or category as the higher offense, but which may also contain some elements not found in the higher offense. People v Beach, 429 Mich 450, 461; 418 NW2d 861 (1988); People v Jones, 395 Mich 379, 387; 236 NW2d 461 (1975). The essential elements of armed robbery are (1) an assault, (2) a felonious taking of property from the victim’s person or presence, and (3) the defendant must he armed with a weapon described in the statute. People v Newcomb, 190 Mich App 424, 430; 476 NW2d 749 (1991). The essential elements of udaa are (1) possession of a vehicle, (2) driving the vehicle away, (3) that the act is done wilfully, and (4) the possession and driving away must be done without authority or permission. People v Dutra, 155 Mich App 681, 685; 400 NW2d 619 (1986). The two offenses share a common element, namely, a wrongful taking of another’s property.
+Beyond that similarity, however, the offenses are quite different. Unlike armed robbery, udaa does not require an intent to steal, that is, to permanently deprive the owner of his property. People v Andrews, 45 Mich App 354, 359; 206 NW2d 517 (1973). Udaa does not require proof of the use of a weapon, or that the property was taken from a victim’s person or presence. Indeed, by definition udaa is concerned with the wrongful taking of vehicles only. An armed robbery may be committed by feloniously taking any property of value.
+We believe that, in addition to the widely disparate elements of the two offenses, a more fundamental difference exists between the offenses such that we are unable to conclude that udaa is a cognate lesser offense. The lesser offense of udaa is not of the same class or category as the higher offense of armed robbery. Beach, supra; Jones, supra. While armed robbery contains an element of theft, it is primarily an assaultive crime. People v Allen, 429 Mich 558, 611; 420 NW2d 499 (1988). Udaa, on the other hand, is not a larceny because it does not require an intent to permanently deprive a victim of property. People v Murph, 185 Mich App 476, 480-481; 463 NW2d 156 (1990).
+We conclude that udaa is not a cognate lesser included offense of armed robbery. Hence, while the trial court’s reasons for refusing to instruct the jury with regard to udaa are not entirely clear to us, the trial court reached the correct result. We therefore affirm defendant’s conviction and sentence.
+Affirmed.
+The prosecution’s argument, on the other hand, is directed to another lesser offense instruction that defendant requested and the trial court denied, the offense of unlawful use of a motor vehicle, MCL 750.414; MSA 28.646. Defendant has not placed that requested instruction in issue on appeal.
+In Murph, a panel of this Court concluded that udaa and armed robbery are separate and distinct offenses that may be punished separately without running afoul of the constitutional bar against double jeopardy.
