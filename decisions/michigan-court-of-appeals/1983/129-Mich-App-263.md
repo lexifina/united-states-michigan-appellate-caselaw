@@ -1,0 +1,58 @@
+---
+court: "Michigan Court of Appeals"
+docket: "64928"
+decided: "1983-09-28"
+citations: ["129 Mich. App. 263"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Hood, P.J., and Cynar and P. J. Marutiak, JJ."]
+parties: ["DYMORA v DYMORA"]
+source_url: "https://static.case.law/mich-app/129/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2253068
+cites_cases: ["116 Mich App 774", "269 NW2d 264", "282 NW2d 481", "323 NW2d 553", "354 Mich 508", "83 Mich App 672", "90 Mich App 787", "93 NW2d 391", "94 ALR3d 176"]
+---
+
+# Dymora v. Dymora
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals and plaintiff cross-appeals from the trial court’s determination of the property division pursuant to a judgment of divorce.
+Plaintiff testified that she was 17 and defendant was 24 years old when, they married in February, 1951. During this 30-year marriage six children were born, and defendant adopted one other child born to plaintiff prior to their marriage. All the children are now 21 or older.
+Plaintiff attributes the marriage breakdown to the defendant’s not communicating with her and her disapproval of his sexual practices.
+Plaintiff testified she worked throughout the marriage to help supplement their family income. At first she took in ironing, then did waitress work in restaurants and bars, and also worked in various factories. Her last job was as a laborer at Saginaw Steering Gear Division of General Motors Corporation where she was indefinitely laid off on January 8, 1982, and thereafter drew unemployment benefits which have now run out. She further testified that the money she earned during her marriage was used to buy groceries, medicine, clothing, furniture, and furnishings for her family and to help with wedding expenses. Defendant never gave her any money during their marriage.
+Plaintiff further testified that her health is not good. On December 27, 1972, she had surgery on her breast. On January 3, 1973, she had a complete hysterectomy due to cancer of the uterus. In 1976, right after she commenced work at Saginaw Steering Gear, she caught both hands in a machine. Surgery was required on both hands in 1976 and 1977 and one finger was amputated. Some of the other fingers are now crooked and arthritic. Plaintiff is presently under a doctor’s care for arthritis and is also seeing a psychiatrist for her nerves. She has no savings, no job, and no pension or retirement benefits. She cannot return to waitress or barmaid employment because of her damaged and arthritic fingers.
+Plaintiff testified that they purchased their family residence shortly after they married. On January 10, 1967, their home and family contents were totally destroyed by fire. With their fire insurance proceeds and additional financing, they rebuilt their home in 1967, with both of them doing a great share of the rebuilding.
+On December 27, 1970, the parties separated and plaintiff left their residence with the youngest child. During her absence, plaintiff testified that she not only supported the child living with her but also provided support for the rest of the children to the best of her ability. At the demand and insistance of defendant, plaintiff executed a quitclaim deed to defendant of the family residence on August 31, 1971. She received no consideration for this deed. On September 9, 1971, she commenced a divorce action. However, on February 10, 1972, the parties reconciled and the divorce action was dismissed in July, 1972. From February 10, 1972, until June 30, 1980, the parties lived as husband and wife. Plaintiff moved from said residence on February 15, 1981. Plaintiff testified that after their reconciliation in 1972, defendant promised to put the family residence in both names again, but never did. From 1972 to 1980, plaintiff purchased carpeting, furniture, and appliances, redecorated portions of the home, and paid utility bills, real estate taxes, and insurance premiums on the home and automobiles.
+When plaintiff moved from the family residence in February, 1981, she took a bedroom set, a couple of end tables, a couple of lamps, and her vehicle, leaving all the other furniture and appliances with defendant.
+Leo Rozyla, a pension plan supervisor at Malleable Iron Plant Division of General Motors Corporation, defendant’s employer, testified that defendant has 33 years of credited service with his employer, was under a noncontributory pension plan which was fully vested, and was eligible to retire on the date of trial, March 3, 1982, and receive a minimum monthly pension of $915 for the remainder of his life. He testified that, on August 1, 1982, the monthly pension would increase to $935.
+A certified life insurance underwriter, Joseph Drago, was called as plaintiff’s expert witness to determine the ascertainable present value of defendant’s pension. Drago testified that if defendant lived for 19.71 years, per the Michigan mortality tables, his immediate monthly pension of $915 would be worth $216,415.80. Assuming the plaintiff had a half interest in said pension, this would amount to $108,207. Further, he stated that the plaintiff’s present value of such one-half interest is $75,336.14.
+Defendant, age 55, testified that he is in good health and has worked at the. General Motors Corporation for 35 years.
+He testified that, in the construction of the present house, he did the plumbing, electrical, initial painting, insulation, and siding and that his wife papered a couple of walls, tiled around the bathtub, had two mirrors and two lights put in the bathroom, and carpeted the bedroom.
+Defendant denied asking plaintiff for the quitclaim deed to their home, claiming instead that she simply gave it to him. He further claimed that he does not want a divorce. The problem in the marriage, in defendant’s view, was disagreement over sexual practices.
+Defendant testified that during the period of separation he was everything to the children: father, mother, counselor, treasurer, cook, and nurse. He testified that his earnings over the years were used to support the seven children, that he collected record players and records but that such purchases were made after buying the groceries and that his collection of 10,000 records and of record players had a value of about $2,500 and $1,500, respectively. He indicated that, during the. last ten years, plaintiff had purchased five new cars and that, aside from paying a few bills, she had contributed very little toward the household.
+According to the testimony, the marital assets are as follows:
+1. The family residence, which is paid in full and appraised by a realtor at $48,900;
+2. Plaintiff’s 1979 Pontiac with a credit union debt of $2,400 and defendant’s older car paid in full;
+3. The usual household furniture, furnishings, and appliances;
+4. Defendant’s phonograph record collection of approximately 10,000 records, which he values at about $2,500;
+5. Defendant’s approximately 30 antique phonographs, which he values at about $1,500;
+6. No savings by either party; and
+7. Defendant’s vested pension of $915 per month.
+We have two issues to be determined. First, defendant contends that the trial court erred in awarding one-half interest in the marital home to plaintiff.
+Second, the plaintiff, by cross-appeal, contends that the trial court erred in not awarding to plaintiff any interest in the defendant’s pension. We agree with this contention and we remand to the trial court for further determination.
+Plaintiff requests a fair share of the parties’ assets. She does not ask for alimony.
+The trial court found that, upon execution of the quitclaim deed, plaintiff terminated the tenancy by the entireties and vested title in defendant, and further found that plaintiff acquired an inchoate dower right which was not barred.
+We do not attach any significance to the transfer of the marital home property by quitclaim deed under the facts of this case. The trial court found that this was a marriage of 30 years, during which time six children were born. Further, plaintiff worked throughout the marriage and used her earnings for family expenses such as groceries, clothing for the children and herself, and furniture and furnishings for the family residence.
+The home was a marital asset acquired during the marriage. In dividing property in divorce cases there are no rigid rules, because each case depends upon the particular facts involved. Division of the property must be equitable and the trial court must consider the contribution of both parties. Greenough v Greenough, 354 Mich 508; 93 NW2d 391 (1958).
+The trial court awarded the marital residence to defendant, with the plaintiff to receive $24,450 from the defendant. In the alternative, the home was to be sold for its market value, and the end proceeds divided equally. This part of the property award was well within the proofs.
+If the only issue to be determined concerned the question raised by the defendant, we would affirm. However, we have an additional question raised by the plaintiff which must be considered.
+Concerning the second issue, the trial court found that the defendant, age 55, had a vested pension right in a noncontributory retirement plan which will take effect when and if he retires. Although plaintiff furnished testimony to establish a present value of said pension rights, the trial court found that said testimony does not establish a reasonably ascertainable present value.
+Contributory and noncontributory retirement plans are considered part of the marital estate subject to division upon divorce. Miller v Miller, 83 Mich App 672; 269 NW2d 264 (1978). The basic requirements are that the spouse’s interest be vested and that the plan have a reasonably ascertainable present value. Miller, supra. Tigner v Tigner, 90 Mich App 787, 790-791; 282 NW2d 481 (1979). While in Tigner the pension had a present cash value, such is not the case before us.
+In attempting to resolve the second issue, we take note plaintiff does not ask for alimony. The plaintiff wants a divorce which is opposed by the defendant. With the divorce being granted, the plaintiff wants a one-half interest ($108,207) in the defendant’s pension plan, the total being calculated on the basis of $915 per month over a 19.71-year life expectancy. In the alternative, the plaintiff would be agreeable to accepting $75,336.14, which is contended to be the present ascertainable value of such half interest. From what source such an amount should be made available by the defendant is not clear. The proposed amounts are paper figures, which at best reflect a calculated guess that the pension rights will achieve full fruition.
+To distribute the pension as contended by plaintiff would result in an inequity to the defendant. The defendant is an hourly wage employee. The pension has no cash value. He is not entitled to a pension until he retires. Even if the pension is determined to be a marital asset, a determination must be made as to what part, if any, the plaintiff is entitled to receive. Further, if the plaintiff is to receive pension benefits, an appropriate method of distribution must be worked out.
+Based on Boyd v Boyd, 116 Mich App 774; 323 NW2d 553 (1982), Miller, supra, and Tigner, supra, we hold the pension in this case to constitute a marital asset.
+We remand this matter to the trial court for a further evidentiary hearing, if needed, and for an award of property to each party supported by factfinding. We do not retain jurisdiction.
+Reversed and remanded for further proceedings in accordance with this opinion.
