@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "11294"
+decided: "1973-05-25"
+citations: ["47 Mich. App. 563"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Quinn, P. J., and Levin and V. J. Brennan, JJ.", "All concurred."]
+parties: ["NOR-COTE, INC v WAYNE COUNTY"]
+source_url: "https://static.case.law/mich-app/47/cases/0563-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2109607
+cites_cases: ["1 Mich App 216", "14 Mich App 657", "24 L Ed 2d 83", "272 Mich 610", "306 Mich 458", "318 Mich 545", "332 Mich 304", "356 Mich 151", "36 Mich App 264", "38 Mich App 750", "381 Mich 572", "381 Mich 811", "388 Mich 32", "390 Mich 778", "396 US 833", "65 Mich 628", "90 S Ct 87"]
+---
+
+# Nor-Cote, Inc. v. Wayne County
+
+## Majority (Levin, J.)
+
+Levin, J.
+The purpose of the provision in the general property tax act (MCLA 211.53; MSA 7.97) requiring a taxpayer who pays a tax he claims is not lawfully owing to pay the tax under protest and commence within 30 days an action for refund is to provide the taxing authority with notice that the taxpayer contests the tax.
+In this case Nor-Cote, Inc. filed a statement in February, 1967 claiming immunity from personal property taxes for imported steel. It appealed from an adverse determination by the Detroit assessing authorities to the State Tax Commission. Before the commission acted it paid the 1967 taxes under protest and timely commenced an action for refund in February, 1968. The taxing authorities were, thus, very much aware that Nor-Cote claimed that the steel it imported was immune from taxation.
+A letter claiming immunity from the 1968 taxes —the taxes now in suit — and evidence in support was sent to the assessors in February, 1968 and the imposition of the 1968 taxes was protested to the board of review. Through inadvertence the 1968 taxes were not paid under protest nor was an action for refund timely commenced although, when the taxes were paid on August 6, 1968 and January 28, 1969, there was pending in our Court an application for leave to appeal from a denial by the State Tax Commission of Nor-Cote’s appeal to that body in respect to the 1967 taxes. In accordance with a stipulation of the attorneys for the parties dated September 11,1968, Nor-Cote’s application for leave to appeal was held in abeyance until other cases already pending on appeal in our Court concerning the same question were decided.
+The meritorious question of whether steel imported by Nor-Cote was taxable was not resolved until our Court, pursuant to a stipulation of the parties, remanded the Nor-Cote case to the State Tax Commission on January 9, 1970, for disposition in accordance with Detroit v Kenwal Products Corp, 14 Mich App 657 (1968), leave den 381 Mich 811 on March 20, 1969, cert den 396 US 833; 90 S Ct 87; 24 L Ed 2d 83, on October 13, 1969.
+The Michigan Supreme Court has said, in a case concerning a city charter provision requiring notice as a precondition to suit against the city, that it "is committed to the rule requiring only substantial compliance with the notice provisions of a statute or charter”. Meredith v Melvindale, 381 Mich 572, 580 (1969).
+In Lisee v Secretary of State, 388 Mich 32, 44 (1972), the Michigan Supreme Court held that the purpose of a statute requiring notice to the Secretary of State of intent to file a claim against the Motor Vehicle Accident Claims Fund "was to afford the governmental agency an opportunity to investigate and preserve the evidence before the claim had become too stale, and to protect the Fund from possible spurious claims for which no defense could be made for want of timely notice and timely investigation”.
+In Lisee, the Secretary of State had received notice of the accident from one of the passengers but not from other passengers. The Supreme Court ruled that the Secretary of State had not been prejudiced in any way by the failure to receive two notices and ruled, having in mind the remedial nature of the act and the lack of prejudice, that the failure of some of the injured persons to file notice within the time provided was not a bar to recovery under the circumstances of that case.
+It is apparent that the courts today take a less rigid view of a failure to comply with a provision requiring notice of claim. As we said in Hussey v Muskegon Heights, 36 Mich App 264, 270 (1971): "deficiencies in a notice of injury and defect are not of jurisdictional import, and an injured person may not be denied his day in court on that account absent a showing by the governmental agency that it has been thereby prejudiced”.
+We recognize that there are arguable distinctions between a statute requiring early notice of claim and commencement of suit for a refund of taxes claimed to have been excessively exacted and a statute requiring prompt notice of personal injury and defect. But the purpose of both statutes is essentially the same, namely, to provide the governmental authority with forewarning. Cf. Mariani v Dearborn, 1 Mich App 216, 224 (1965); Michigan Land & Iron Co v Republic Twp, 65 Mich 628, 630 (1887).
+In this case the taxing authorities had ample forewarning, both from Nor-Cote and a large number of other taxpayers, that importers of foreign steel claimed an exemption from personal property taxes for such steel. The meritorious question was being intensively litigated. Nor-Cote had retained counsel, paid taxes under protest for one year and commenced an action for a refund. Proceedings in respect to 1967 were pending when the taxes for the year involved, 1968, were assessed. Nor-Cote again asserted its claim of immunity to the assessors and the board of review, but through inadvertence the taxes were paid without noting a protest and an action for refund was not commenced. At the times of payment of the 1968 taxes an appeal on the meritorious question was pending in respect to 1967 in our Court. Cf. Fisher-New Center Company v Detroit, 38 Mich App 750, 757 (1972).
+The city and county could not have been prejudiced by Nor-Cote’s mistake in failing to note a protest and timely commence an action in respect to 1968. In any event, they do not claim prejudice. Cf. Spoon-Shacket Co, Inc v Oakland County, 356 Mich 151 (1959).
+The previous decisions of our Supreme Court are distinguishable. In General Discount Corp v Detroit, 306 Mich 458 (1964), the taxes were paid without any protest whatever to the taxing authority. In Paul v Detroit, 318 Mich 545 (1947), timely proceedings were not commenced for any tax period. In National Bank of Detroit v Detroit, 272 Mich 610 (1935), no claim was made that the failure to pay under protest was inadvertent. In Haggerty v Dearborn, 332 Mich 304 (1952), no action at law was commenced, the Supreme Court holding that the taxpayer was not entitled to equitable relief from a special assessment.
+Our jurisprudence is now sufficiently enlightened and mature so that we can relieve this taxpayer, on the facts of this case, from the adverse effects of that mistake and require the city and county to refund the amount of the unjust enrichment.
+Reversed and remanded for further proceedings consistent with this opinion.
+All concurred.
