@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "76709"
+decided: "1985-06-19"
+citations: ["143 Mich. App. 743"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Wahls, P.J., and Shepherd and E. A. Quinnell, JJ."]
+parties: ["BRYANT v SAFECO INSURANCE COMPANY"]
+source_url: "https://static.case.law/mich-app/143/cases/0743-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2264461
+cites_cases: ["127 Mich App 624", "274 NW2d 373", "339 NW2d 505", "404 Mich 477", "42 ALR3d 229", "96 ALR3d 804"]
+---
+
+# Bryant v. Safeco Insurance
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff was injured in an automobile accident on January 13, 1983. Being without no-fault insurance of her own, she sought benefits from defendant, the insurer of the driver of the vehicle plaintiff was riding in at the time of the accident. See MCL 500.3114(4); MSA 24.13114(4). Defendant began paying benefits but stopped upon learning that plaintiff resided in the same house as her brother, who had insurance on an automobile. See MCL 500.3114(1); MSA 24.13114(1). Plaintiff commenced an action for benefits and moved for summary judgment pursuant to GCR 1963, 117.2(3), alleging that she was unmarried, lived alone and was therefore not insured under any no-fault policy held by a family member. Plaintiff submitted a supporting affidavit regarding her living situation. Defendant filed a counter-motion for summary judgment, relying on plaintiff’s admission that her residence was located in an area zoned for single-family residences and on plaintiff’s deposition testimony that she and her brother used the same door to enter their home. The trial court granted defendant’s motion, stating:
+"I think I would have a lot bigger problems [sic] in dealing with this if they were in the Lafayette Towers, twenty stories apart. However, we are dealing with a two-family home, apparently modified by the owner, himself, in order to accommodate his sister; and that one was a violation of the zoning.
+"I think, to be consistent in the eyes of the law, the law still views this as a one-family home, not only for zoning, but for no-fault benefits, also. It is just a lot easier. It seems to me the idea is to make sure there is an insurance carrier and we have one to pay her the benefits.”
+Plaintiff appeals as of right.
+The question for review is whether plaintiff was "domiciled in the same household” as her brother. The question is one that must be decided on the facts of each case. Workman v DAIIE, 404 Mich 477, 495-496; 274 NW2d 373 (1979). In Workman, supra, p 496, the Supreme Court identified four relevant factors which must be balanced and weighed with each other:
+"(1) the subjective or declared intent of the person of remaining, either permanently or for an indefinite or unlimited length of time, in the place he contends is his 'domicle’ or 'household’; (2) the formality or informality of the relationship between the person and the members of the household; (3) whether the place the person lives is in the same house, within the same curtilage or upon the same premises; (4) the existence of another place of lodging by the person alleging 'residence’ or 'domicile’ in the household.” (Citations omitted.)
+The above factors are not exhaustive.
+In this case, the undisputed facts of record indicate that plaintiff, a 26-year-old single woman, lived alone in an upstairs flat. Her brother, who was also her landlord, lived in the downstairs flat. Plaintiff paid monthly rent of $250 in cash; she did not receive any receipts to prove the payments. Plaintiff did not have kitchen privileges in her brother’s residence, but had separate living, sleeping and cooking facilities. Although both flats shared the same street address and exterior door, there were separate doors for the upstairs and downstairs flats from the common entry hallway. Plaintiff claimed the upstairs flat was her permanent and exclusive place of residence.
+Considering the above undisputed facts in light of the factors enunciated in Workman, we are convinced that the trial court erred in entering summary judgment for defendant. Plaintiff clearly was domiciled in her upper flat, as it was her permanent and exclusive place of residence (factors 1 and 4). Plaintiff also clearly lived in the same house as her insured brother (factor 3). While this is some weight in favor of the conclusion that she is a resident of the insured’s household, Workman, supra, p 497, fn 6, it is by no means dispositive. Other than the common exterior door and entry hallway, the upstairs and downstairs flats were separate living units. The trial court appears to have recognized as much, referring to the house as "a two-family home”. Nevertheless, the trial court determined that the house was a one-family home in the eyes of the law. In this the court erred.
+The mere existence of a zoning ordinance is insufficient to establish the nature of a residence. Plaintiff’s brother may have had a variance, the house may have been an existing noncomforming use at the time of the ordinance’s adoption or the brother may have wilfully violated the zoning ordinance after its adoption. In the context of the motion for summary judgment, the court’s statement that the house was a one-family home in the eyes of the zoning law was an impermissible finding of fact and was unsupported by the record, there being no evidence that the conformity of the house to the zoning law had ever been considered. The position of defendant and the trial court is, in effect, that the existence of the zoning ordinance has created an absolute, or at least rebuttable, presumption of conformity. We disapprove of such a rule, although we would recognize estoppel in an appropriate case. See Watling v Watling, 127 Mich App 624, 630-631, fn 3; 339 NW2d 505 (1983). Justice would require us to estop plaintiff from claiming that she did not reside in her brother’s household if she had earlier asserted that her flat was part of a "single-family home” and in conformity with the zoning ordinance.
+The third factor in the Workman test would, at first glance, weigh heavily in plaintiff’s favor because she testified that she paid $250 per month in rent and lived independently of her brother. Defendant seeks to cast doubt on the weight to be given plaintiff’s evidence by drawing attention to the fact that plaintiff paid by cash and did not have receipts although she had made payments to another brother by check. Defendant’s argument undercuts summary judgment in its favor to the extent that it raises a question of fact.
+We note that the trial court and defendant have suggested that the main idea is to insure that plaintiff be paid and it matters less by whom. We cannot accept such a proposition as being a relevant factor in the Workman analysis.
+A factual question has been raised regarding plaintiffs domicile which precludes summary judgment. Accordingly, we reverse and remand for trial.
+Reversed.
