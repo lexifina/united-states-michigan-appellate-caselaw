@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "20435"
 decided: "1976-11-08"
-citations: ["72 Mich. App. 101", "76 Mich. App. 17"]
+citations: ["72 Mich. App. 101"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v VAN WYCK"]
 source_url: "https://static.case.law/mich-app/72/cases/0101-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2140342
-cites_cases: ["170 NW 38", "187 NW2d 211", "203 Mich 490", "221 NW2d 375", "236 NW2d 461", "236 NW2d 473", "238 NW2d 44", "242 NW2d 564", "249 NW2d 311", "385 Mich 30", "392 Mich 395", "395 Mich 379", "395 Mich 408", "396 Mich 101", "399 Mich 826", "42 NW 1131", "68 Mich App 302", "72 Mich App 101", "76 Mich 212"]
+cites_cases: ["170 NW 38", "187 NW2d 211", "203 Mich 490", "221 NW2d 375", "236 NW2d 461", "236 NW2d 473", "238 NW2d 44", "385 Mich 30", "392 Mich 395", "395 Mich 379", "395 Mich 408", "396 Mich 101", "42 NW 1131", "76 Mich 212"]
 ---
 
 # People v. Van Wyck
