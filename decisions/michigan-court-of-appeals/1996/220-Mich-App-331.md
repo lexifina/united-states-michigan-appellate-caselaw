@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "188388"
+decided: "1996-12-03"
+citations: ["220 Mich. App. 331"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: .Markman, P.J., and McDonald and M. J. Matuzak JJ."]
+parties: ["In re HENSLEY"]
+source_url: "https://static.case.law/mich-app/220/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 485291
+cites_cases: ["144 Mich App 509", "190 Mich App 243", "208 Mich App 137", "279 NW2d 303", "376 NW2d 143", "448 Mich 147", "475 NW2d 870", "526 NW2d 617", "528 NW2d 707", "88 Mich App 727"]
+---
+
+# In re Hensley
+
+## Majority (McDonald, J.)
+
+McDonald, J.
+Respondents Margaret Hensley and Anthony Moorer appeal as of right from a July 5, 1995, order terminating their parental rights to Jason; Brandon, and Alicia Hensley. We affirm.
+None of the issues on appeal challenge the court’s termination of respondent Hensley’s parental rights. The termination of her parental rights is therefore affirmed. Respondent Moorer raises several issues with regard to the termination of his parental rights, none of which we find meritorious.
+Moorer first claims the court erred in ordering protective measures be taken with regard to a minor child’s giving of testimony because the. court failed to state on the record, pursuant to MCL 712A.17b(8) and (9); MSA 27.3178(598.17b)(8) and (9), that psychological harm would occur if the witness testified. The flaw in Moorer’s argument is the assumption protective measures for a witness may be ordered only if the probate court bases its decision on the standards in MCL 712A.17b; MSA 27.3178(598.17b). However, the statute itself in subsection 14 states: “This section is in addition to other protections or procedures afforded to a witness by law or court rule.” Although MCR 5.923(D) states a court “may” take measures to protect a child witness as authorized by MCL 712A.17b; MSA 27.3178(598.17b), the rules of evidence for a civil proceeding also apply at the trial, except as otherwise provided by the court rules. MCR 5.972(C)(1). Under MRE 611(a), a court shall exercise reasonable control over the mode and order of interrogating witnesses so as to protect witnesses from harassment and undue embarrassment and to make the interrogation effective for the ascertainment of the truth.
+The primary goal of statutory construction is to determine and effectuate the intent of the Legislature through reasonable construction in consideration of the purpose of the statute and the object sought to be accomplished. Gross v General Motors Corp, 448 Mich 147; 528 NW2d 707 (1995). However, if a statute is clear and unambiguous, judicial construction or interpretation is unnecessary. Id. The statute in this case is clear and unambiguous. The statute is not a rule of limitation, but rather an addition to other protections or procedures afforded to a witness by law or court rule. Thus, even assuming the statute requires the court to make an explicit finding of “psychological harm,” we find the court’s actions proper under MRE 611(a). There was more than sufficient grounds presented at the hearing on the prosecutor’s motion for protective measures to justify the court’s decision.
+Nonetheless, we find the court need not utter the magic words “psychological harm” on the record before it can order protective measures as long as the record reveals the court was aware of the issue to be determined and resolved it. See, e.g., People v Johnson (On Rehearing), 208 Mich App 137; 526 NW2d 617 (1994) (fact findings are adequate under MCR 2.517[A] if it is manifest the court was aware of the factual issues and resolved them and it would not facilitate appellate review to require further explication of the path the court followed in reaching the result); People v Gendron, 144 Mich App 509; 376 NW2d 143 (1985) (failure to comply with articulation requirement for MRE 609[a] harmless if the record revealed the court was aware of its discretionary power and the factors relevant to that discretion).
+Although the instant issue arises in the context of a statutory requirement, giving MCL 712A.17b(8); MSA 27.3178(598.17b)(8) a reasonable construction in light of its purpose and the object sought to be accomplished, Gross, supra, we conclude the probate court’s findings are adequate and reveal it was aware of the issue of “psychological harm” and resolved it.
+Moorer next claims the court violated the procedure for protective screens contained in MCL 712A.17b(8); MSA 27.3178(598.17b)(8) by not allowing him to sit where he could see the witness while the witness testified. Moorer raises only a statutory issue concerning the court’s decision to order protective measures. As already noted, the court was free to go beyond the protective procedures provided by the statute and to utilize its authority under MRE 611(a) to control the mode of interrogation so as to make the interrogation and presentation effective for the ascertainment of the truth. Given the court’s finding the children would not be able to testify in Moorer’s presence coupled with its findings Moorer could not sit quietly in the courtroom even when threatened with a finding of contempt, we find the procedure utilized reasonable.
+Finally, we reject Moorer’s remaining claims alleging the doctrine of res judicata prevented the introduction of allegations or evidence of spousal abuse. First, we find Moorer’s failure to object to the court’s February 27, 1995, ruling with regard to this issue waives review of the claim on appeal. People v Riley, 88 Mich App 727; 279 NW2d 303 (1979). Moreover, even were the issue properly before us we would find no error. The question of spousal abuse was not decided and could not have been resolved at the November 16, 1993, trial on the petition because the court ruled it was outside the scope of the petition. Thus, the first requirement of the doctrine of res judicata, that the subject matter of the second action be the same, was not met. In re Pardee, 190 Mich App 243; 475 NW2d 870 (1991).
+Because no error occurred with reference to the introduction of allegations and evidence of spousal abuse, Moorer’s remaining claims of prosecutorial misconduct and ineffective assistance of counsel based on the alleged improper introduction of the evidence must fail.
+Affirmed.
+MCR 5.923(D) also authorizes the use of closed-circuit television, speaker telephone, or other similar electronic equipment to facilitate hearings or to protect the parties.
+Respondent does not challenge the constitutionality of the procedure utilized.
