@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "28184"
+decided: "1977-03-31"
+citations: ["74 Mich. App. 666"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. C. Riley, P. J., and T. M. Burns and Beasley, JJ."]
+parties: ["ROSS v ALEXANDER"]
+source_url: "https://static.case.law/mich-app/74/cases/0666-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2168951
+cites_cases: ["1 Mich App 6", "133 NW2d 221", "143 NW2d 155", "229 NW2d 460", "240 NW2d 295", "243 NW2d 270", "245 NW2d 793", "3 Mich App 618", "338 Mich 525", "397 Mich 117", "59 Mich App 375", "61 NW2d 767", "67 Mich App 125", "70 Mich App 469", "75 ALR2d 376"]
+---
+
+# Ross v. Alexander
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+On October 17, 1972, defendant Jessie Alexander parked his dump truck, which weighed over five tons, on Cloverlawn, a residential street, in Flint, Michigan. At the time, a Flint ordinance provided:
+"SECTION 11.106. TRUCK ROUTES. No person shall drive or park or cause to be driven or parked, any truck or vehicle, the combined weight of which truck or vehicle, its cargo and occupants shall exceed five tons, over or upon any street or highway of the City of Flint; except such streets or highways as shall be designated as Truck Routes, and as listed in Schedules Section 12.15 of this code.”
+That evening, three-year-old Pamela Ross, the plaintiff, suffered facial and dental injuries when the car in which she was riding collided with defendant’s truck.
+In her complaint, plaintiff raised, inter alia, defendant’s violation of the cited ordinance, alleging that her injuries stemmed from defendant’s negligent and illegal method of parking. By motion in limine, defendant sought to suppress any reference to the ordinance violation since, he contended, plaintiff was not in the class of persons to be protected by the vehicular-weight restriction. Agreeing with defendant, the trial court granted the motion.
+Subsequently, the trial court also granted defendant’s motion for summary judgment, indicating in his corresponding order the factors prompting summary relief. Specifically, the court noted that plaintiffs attorney had indicated his displeasure with the court’s prior ruling on the Flint ordinance and his intention to appeal that decision. In addition, after acknowledging the belief of both counsel that a jury trial would take two days to complete, the court expressed the view that the trial "would be nothing more than an exercise in the mechanics of Trial procedure for purposes of permitting the case to assume an appealable posture”. Noting his "acute awareness of the time and monetary demands of this [c]ourt, as well as others” and also his exclusive reliance in deciding the motion in limine upon Webster v WXYZ, 59 Mich App 375; 229 NW2d 460 (1975), "which decision is not a pronouncement from the highest Court of the state”, the trial judge ordered summary judgment for defendant.
+On appeal, plaintiff assails both of the lower court’s rulings. With regard to the motion in limine, she maintains that as a vehicle becomes heavier, it becomes wider; that a jury could have interpreted the ordinance as one attempting to avoid traffic congestion caused by wide vehicles on residential streets; and that it was the jury’s province to ferret the purpose of the ordinance and to determine whether violation of the ordinance amounted to negligence.
+Resolution of plaintiffs claim turns on whether the lower court abused its discretion in applying the statutory purpose doctrine to the facts at bar. Zeni v Anderson, 397 Mich 117, 138-139, fn 22; 243 NW2d 270 (1976), 2 Restatement Torts, 2d, § 286. That doctrine provides:
+"The court may adopt as the standard of conduct of a reasonable man the requirements of a legislative enactment or an administrative regulation whose purpose is found to be exclusively or in part
+"(a) to protect a class of persons which includes the one whose interest is invaded, and
+"(b) to protect the particular interest which is invaded, and
+"(c) to protect that interest against the kind of harm which has resulted, and
+"(d) to protect that interest against the particular hazard from which the harm results.” 2 Restatement Torts, 2d, § 286.
+The legislative purpose of vehicular-weight restrictions has been clearly delineated in People v Wolfe, 338 Mich 525, 540-541; 61 NW2d 767 (1953):
+"It may be assumed that the legislature in the enactment of [MCIA 257.724; MSA 9.2424] had in mind the practical necessity of providing penalties that would deter owners and operators of commercial vehicles from using the public highways of the State for the purpose of transporting quantities of merchandise of such weight as to be destructive to such highways, to the danger of traffic thereon and to the detriment of the public generally. ” (Emphasis added.)
+See also, People v Brown Brothers Equipment Co, Inc, 3 Mich App 618, 621; 143 NW2d 155 (1966). While the Flint ordinance differs in detail from the statutory provisions relied upon in Wolfe and Brown Brothers, the essential prohibition is the same: vehicles exceeding a stated weight are banned from specified roadways. With no evidence to suggest an alternative purpose, we believe the probable legislative purpose in back of the ordinance is the same as that discerned in Wolfe and Brown Brothers, supra.
+Applying the statutory purpose doctrine in light of Wolfe and Brown Brothers, we hold that defendant’s motion in limine was properly granted. As Wolfe teaches, the purpose of vehicular-weight restrictions is to avoid the destruction of highways since a damaged highway thereby endangers the "traffic thereon” and also works a "detriment [to] the public generally”. 338 Mich at 541.
+Thus, in the present case, if defendant’s illegally overweight truck had crushed the roadway on which it traveled, causing potholes to develop, and plaintiff suffered her injuries in a collision proximately caused by the potholes, then plaintiff would have a right to assert before the jury defendant’s violation of the Flint ordinance. In other words, the purpose of the weight ordinance is to ensure the safety of the traveling public "against the particular hazard from which the harm results”, 2 Restatement Torts, 2d, § 286(d), namely, weight-damaged highways which cause traffic accidents. Since the collision which injured plaintiff did not result from a roadway damaged by excess vehicular weight but allegedly from careless parking, the lower court properly suppressed reference to defendant’s ordinance violation.
+Plaintiff next contends that since her complaint asserts a legally cognizable claim, the trial court erred in granting defendant’s motion for summary judgment. GCR 1963, 117.2(1). We agree. In addition to the previously excluded ordinance violation, the complaint alleges that defendant was negligent in two regards: (1) in carelessly parking his truck on a public highway, and (2) in failing to comply with MCLA 257.694; MSA 9.2394, which requires a vehicle parked after dark to display warning lights. Further, the complaint alleges injuries, expenses and a right of recovery. Considering only the pleadings and accepting as true all well-pleaded allegations therein, Michigan Health Care, Inc v Flagg Industries, Inc, 67 Mich App 125; 240 NW2d 295 (1976), we conclude that the lower court erroneously granted summary judgment for defendant.
+The grounds offered by the lower court—(1) plaintiffs desire of immediate appeal because of a reduced likelihood of success at trial; (2) the time and monetary demands on the lower court; and (3) the trial court’s reliance upon precedent from an intermediate appellate court—fail to warrant relief under GCR 1963, 117.2(1). They do not support a finding that defendant "is entitled to judgment as a matter of law”. GCR 1963, 117.3.
+The summary judgment rule may not be employed as a facile escape from GCR 1963, 806.3, which prescribes the procedure for obtaining leave to appeal. Nor will an overburdened trial docket or supposed Supreme Court silence on a point of law be accepted as valid justifications for shunting this case up the appellate ladder. A solution to the crowded docket will not be found either by inventive use of the summary judgment rule or by unnecessary disparagement of an applicable and controlling precedent from the Court of Appeals. See Hackett v Ferndale City Clerk, 1 Mich App 6, 11; 133 NW2d 221 (1965), People v McDaniels, 70 Mich App 469, 473; 245 NW2d 793 (1976).
+Accordingly, the summary judgment is reversed and the matter remanded for trial.
+Affirmed in part; reversed in part. No costs, neither side having fully prevailed.
+" 'Legislative enactment’ includes both statutes and ordinances.” 2 Restatement Torts, 2d, § 286, Comment a, p 25.
