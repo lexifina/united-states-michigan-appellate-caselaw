@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "20923"
+decided: "1975-09-10"
+citations: ["64 Mich. App. 212"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bashara, P. J., and J. H. Gillis and M. F. Cavanagh, JJ."]
+parties: ["THAYER v GOODYEAR TIRE & RUBBER COMPANY"]
+source_url: "https://static.case.law/mich-app/64/cases/0212-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2152167
+cites_cases: ["106 NW2d 105", "134 NW2d 710", "148 NW2d 509", "226 NW2d 730", "257 NW 873", "269 Mich 501", "27 NW2d 332", "318 Mich 28", "333 Mich 275", "336 Mich 169", "353 Mich 363", "353 Mich 493", "361 Mich 577", "375 Mich 592", "52 NW2d 531", "57 NW2d 483", "58 Mich App 1", "6 Mich App 163", "91 NW2d 538", "92 NW2d 60"]
+---
+
+# Thayer v. Goodyear Tire & Rubber Co.
+
+## Majority (M. F. Cavanagh, J.)
+
+M. F. Cavanagh, J.
+Defendants appeal from the affirmance by the Workmen’s Compensation Appeal Board of an award of compensation benefits to plaintiff, widow of decedent Ben Thayer.
+Because of the disposition we reach, it is unnecessary to detail the facts established in the trial below. On June 13, 1969, Ben Thayer, a truck tire inspector for Goodyear Tire and Rubber Company, sustained a back injury while on the job. His physician ordered him to stay in bed except for meals and use of the bathroom. The condition continued through the summer of 1969. On September 26, 1969, Mr. Thayer fell. According to plaintiff’s testimony, his crutches apparently slipped while he was walking in the driveway. He was taken to the hospital where surgery was performed on his hip. On October 3, 1969, Mr. Thayer died as a result of a pulmonary embolism.
+Plaintiff filed a petition for hearing before the Bureau of Workmen’s Compensation. A hearing was held and the referee awarded plaintiff compensation in the amount of $69 per week for a period not to exceed 500 weeks plus $750 for burial expenses. This award was affirmed by a split decision of the Workmen’s Compensation Appeal Board.
+The defendant contends that the hearing referee committed error in refusing to admit testimony concerning the cause of decedent’s death. On cross-examination of Mrs. Thayer, defense counsel questioned her as to whether she remembered telling a representative of Aetna Life & Casualty Company, the group life insurance carrier for decedent’s employer, that Mr. Thayer’s fall had resulted when he had climbed on a scaffold in order to assist in the re-shingling of his house. Upon plaintiff’s objection, the referee ruled that MCLA 418.855; MSA 17.237(855) precluded such a statement from use as evidence unless a copy had been given to the declarant at the time it was taken. Defendant made an offer of proof as to the testimony he expected from the Aetna agent, but did not make a separate record on the matter.
+MCLA 418.855; MSA 17.237(855) states as follows:
+"If the employer, carrier or any agent of either takes a statement from an injured employee, the statement cannot be used as evidence against the employee unless a copy thereof is given to him at the time it is taken.”
+Plaintiffs argument that allowing an adjuster to obtain statements from persons in the position of the present widow circumvents the intent of the statute is supported by public policy. But Flynn v Western Board & Paper Co, 318 Mich 28; 27 NW2d 332 (1947), requires that such statements be admitted. In that case, a 16-year-old boy sought compensation for the work-related death of his father. At issue was whether or not he was dependent upon his father at the time of his father’s death. During the preliminary investigation, the boy had given a statement to an insurance adjuster that he had been supporting himself shortly before his father’s death. The Court held that MCLA 413.5A; MSA 17.179, the precursor to MCLA 418.855, did not apply so as to exclude introduction of the statement:
+"It is obvious that the section quoted has no application other than to statements taken from an injured employee.” 318 Mich 28, 34.
+Moreover, it appears that the adjuster who took the plaintiffs statement was not investigating the workmen’s compensation claim, but took the statement as part of an investigation by Aetna concerning a life insurance policy it had issued to Mr. Thayer.
+Thus, we conclude that the hearing referee committed error in precluding use of the statement. Although the better practice may well have been to make a separate record of the adjuster’s testimony, the issue was sufficiently preserved for appeal since defendants’ counsel specifically stated in his offer of proof what he expected the adjuster’s testimony to be. GCR 1963, 604. Hes v Haviland Products Co, 6 Mich App 163; 148 NW2d 509 (1967).
+Since the case must be reversed because of this defect, we will briefly resolve problems which may arise on retrial. First, the hearing referee prevented plaintiff from testifying as to a statement made by her husband when she found him lying in the driveway. The basis of the ruling was apparently that the statement was hearsay and did not satisfy the dying declaration exception. Plaintiff, however, had asserted that the statement should be admissible under the "res gestae” exception. Although counsel would have more accurately termed the statement as an "excited utterance”, it appears that the plaintiff should have been allowed to testify as to Mr. Thayer’s statement. The statement related to a startling event and was made within minutes after the accident while the declarant was under the stress of excitement caused by the event. See Roy Annett, Inc v Kerezsy, 336 Mich 169, 174; 57 NW2d 483 (1953), and People v Frank Johnson, 58 Mich App 1, 6; 226 NW2d 730 (1975).
+Second, we conclude that plaintiff’s claim for death benefits was timely filed since the employer had already begun to make payments for the injury which ultimately resulted in Mr. Thayer’s death. Although MCLA 418.381(1); MSA 17.237 (381)(1) requires that a claim for compensation be made within 12 months of the death of the employee, this does not preclude a claim where death is caused by the same injury for which the employer has received notice and for which compensation has been paid. See Wilson v Tittle Bros Packing Co, 269 Mich 501, 505-506; 257 NW 873 (1934). Both the referee and the appeal board concluded that death was the result of the original compensable injury. Since these factual findings are supported by competent evidence, they will not be disturbed. Carter v General Motors Corp, 361 Mich 577, 593; 106 NW2d 105 (1960). See also Wilson v Doehler-Jarvis Division of National Lead Co, 353 Mich 363, 373-374; 91 NW2d 538 (1958).
+Because the hearing referee improperly foreclosed proper testimony on a material issue, this cause must be reversed. Costs to defendants.
+See Eglash v Detroit Institute of Technology, 375 Mich 592, 596-597; 134 NW2d 710 (1965), Bujalski v Metzler Motor Sales Co, 353 Mich 493, 497; 92 NW2d 60 (1958), and Gilchrist v Gilchrist, 333 Mich 275, 282-283; 52 NW2d 531 (1952).
