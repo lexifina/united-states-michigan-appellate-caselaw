@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "10058"
+decided: "1971-07-27"
+citations: ["35 Mich. App. 264"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P. J., and Holbrook and Levin, JJ.", "All concurred."]
+parties: ["PEOPLE v. DOMBKOWSKI"]
+source_url: "https://static.case.law/mich-app/35/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2089155
+cites_cases: ["14 Mich App 268", "16 Mich App 664", "18 Mich App 267", "19 Mich App 702", "2 Mich App 222", "2 Mich App 66", "214 Mich 267", "26 Mich App 211", "265 Mich 317", "275 Mich 77", "286 Mich 282", "3 Mich App 330", "354 F2d 698", "386 Mich 757", "98 Mich 86"]
+---
+
+# People v. Dombkowski
+
+## Majority (R. B. Burns, P. J.)
+
+R. B. Burns, P. J.
+Defendant was convicted of unlawfully and feloniously assaulting a child under the age of 16 years and attempting to take indecent and improper liberties with the person of said child without committing or intending to commit the crime of rape or the crime of sodomy or gross indeceny upon such child. MCLA § 750.336 (Stat Ann 1954 Rev § 28.568). Defendant was sentenced to not less than seven years nor more than ten years in the state prison for southern Michigan at Jackson. Defendant appeals his conviction and sentence alleging five errors at trial: (1) that the constitutional and statutory guarantees against double jeopardy prohibited defendant’s being tried and convicted on a charge of assault and attempt to take indecent liberties after defendant had pled guilty to being drunk and disorderly; (2) that the evidence was not sufficient to show an attempt to commit the crime charged; (3) that defendant was so intoxicated as to be unable to form an intent to commit the crime charged; (4) that defendant did not have adequate trial counsel; and (5) that defendant’s sentence was excessive.
+On February 26, 1970, at about 8 o’clock in the evening two young boys, 11 and 9 years of age, entered the American Legion post in Grand Rapids for the purpose of selling candy for a school project. The boys approached the defendant who indicated that he would purchase some candy from them. The defendant directed the boys to open a box of the candy and eat some, which they did. Defendant then told the boys that he would pay them for the candy outside in the alley. The two boys left the building and defendant followed them. Once outside defendant grabbed both boys and instructed the older to take off his pants. When the boy refused, defendant attempted to pull down the boy’s pants. Both boys escaped defendant and ran home. Soon after, defendant was identified by the boys and apprehended by police.
+Defendant pled guilty to being drunk and disorderly. Defendant was later charged and convicted of the crime of assault and attempt to take indecent liberties with the person of a child under the age of 16. Defendant claims that the trial on the second charge constituted double jeopardy. This is not the law in Michigan.
+Where separate and distinct offenses are committed but one of the offenses is not a necessary element in or a part of the other, a conviction of one does not operate as a bar to subsequent prosecution for the other. 1 Gillespie, Michigan Criminal Law & Procedure (2d ed), § 103, p 117; People v. Townsend (1921), 214 Mich 267. The misdemeanor of being drunk and disorderly is not a necessary element of the felony of assault and attempt to commit indecent liberties upon the person of a child under the age of 16. Neither does conviction of the misdemeanor constitute a bar to conviction of the felony because of double jeopardy. People v. Townsend, supra.
+The evidence in this case was clearly sufficient to convict defendant of the crime charged. Liberties that are to be penalized as indecent are those such “as the common sense of society would regard as indecent and improper.” People v. Hicks (1893), 98 Mich 86; People v. Healy (1933), 265 Mich 317; People v. Visel (1936), 275 Mich 77; People v. Lakin (1938), 286 Mich 282; People v. Brandt (1969), 18 Mich App 267. A defendant charged with having taken indecent liberties with a child under the age of 16 need not be shown to have taken liberties with the private parts of the child to warrant conviction. People v. Hicks, supra. An assault is a necessary element in the crime of attempting to take indecent liberties with a child under the age of 16. People v. Carr (1966), 2 Mich App 222; People v. Visel, supra.
+Defendant forcefully grabbed the two boys and told the older to pull down his pants. When the boy refused, defendant attempted to unzip and remove the older boy’s pants. The trial judge found that defendant’s forcible attempts to remove the pants of the older boy constituted an attempt to take indecent and improper liberties with the boy, the liberties involved being those that the common sense of society regards as indecent and improper. There was no error in this determination by the trial judge.
+The trial court found, as a matter of fact, that at the time of the offense charged defendant’s mental faculties were not so far overcome by the effects of intoxication to render him incapable of forming a felonious intent.
+It is clear from the record that defendant was adequately represented by trial counsel. Defendant submits bare allegations which evidence no prejudice. Relief from a final conviction on the ground of incompetent or ineffective counsel generally will be granted only when the trial was a farce, or a mockery of justice, or was shocking to the conscience or the purported representation was only perfunctory or in bad faith, a sham, a pretense, or without adequate opportunity for conference and preparation. People v. Walter Van Turner (1970), 26 Mich App 211; People v. Degraffenreid (1969), 19 Mich App 702; People v. Wynn (1968), 14 Mich App 268; Williams v. Beto (CA5, 1965), 354 F2d 698. Defendant has not shown any of these reasons with respect to his representation at trial.
+The sentence imposed in this case was within the statutory limit. It is the law in Michigan that when a sentence is within the maximum provided by statute, the trial court has wide discretion and an appellate court does not have supervisory control over punishment. People v. Pate (1965), 2 Mich App 66; People v. Will (1966), 3 Mich App 330; People v. Hunt (1969), 16 Mich App 664. The defendant cites no authority for his proposition that the sentence of the trial judge was improper.
+Defendant received a fair trial in which no reversible error was committed.
+Affirmed.
+All concurred.
