@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78-2027"
+decided: "1979-03-20"
+citations: ["89 Mich. App. 238"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P.J., and J. H. Gillis, and V. J. Brennan, JJ."]
+parties: ["PEOPLE v TAYLOR"]
+source_url: "https://static.case.law/mich-app/89/cases/0238-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2179604
+cites_cases: ["129 NW2d 856", "208 NW2d 451", "226 NW2d 699", "235 NW2d 132", "264 NW2d 69", "373 Mich 490", "382 US 399", "389 Mich 425", "395 Mich 96", "408 US 104", "413 US 601", "57 Mich App 696", "80 Mich App 583"]
+---
+
+# People v. Taylor
+
+## Majority (V. J. Brennan, J.)
+
+V. J. Brennan, J.
+Defendant, Doil Taylor, was convicted, on his guilty plea in 71-A District Court for the County of Lapeer, of attempted possession of gambling policy slips. MCL 750.306; MSA 28.538; MCL 750.92; MSA 28.287. Defendant was sentenced to 180 days in the county jail (to be served on weekends) and was ordered to pay $500 in fines and costs. Defendant then appealed to the circuit court claiming first that the subject statute was vague and overbroad and thus unconstitutional and second that reversible error occurred when the district judge accepted defendant’s guilty plea without explaining the various rights waived thereby. The circuit court ruled in favor of the constitutionality of the statute but set aside the defendant’s conviction due to the district court’s failure to explain the rights waived by the plea. The circuit court then remanded the cause on the original charge (and not the lesser charge to which the defendant pled) holding that People v McMiller, 389 Mich 425; 208 NW2d 451 (1973), did not apply "as the prosecuting attorney was not asked whether he would comment upon the plea taking procedure”.
+Defendant brings this appeal by leave granted arguing both the unconstitutionality of the statute and the applicability of McMiller.
+Initially we point out that the circuit court properly vacated the plea due to the district court’s failure to substantially comply with DCR 1963, 785.4(d)(1) which states that before the plea is accepted the court shall advise the defendant that "he will not have a trial of any kind, so he gives up the rights he would have at a trial”. Upon review of the plea transcript nowhere do we find that the defendant was advised of the rights waived incident to the plea. The resultant plea was thus "constitutionally defective”. Guilty Plea Cases, 395 Mich 96, 121; 235 NW2d 132 (1975).
+We now address defendant’s contention that the statute in question is unconstitutional for vagueness and overbreadth. MCL 750.306 provides:
+"All policy or pool tickets, slips or checks, memoranda of any combination or other bet, manifold or other policy or pool books or sheets, are hereby declared a common nuisance and the possession thereof a misdemeanor, punishable by imprisonment in the county jail not more than 1 year or by a fine of not more than 500 dollars.
+"The possession of any such articles, or of any other implements, apparatus or materials of any other form of gaming, shall be prima facie evidence of their use, by the person having them in possession, in the form of gaming in which like articles are commonly used. And such article found upon the person of one lawfully arrested for violation of any law relative to lotteries, policy lotteries or policy, the buying or selling of pools or registering of bets or other form of gaming shall be competent evidence upon the trial of an indictment to which it may be relevant.”
+The thrust of defendant’s vagueness argument centers on the use of the terms "policy”, "pool” and "manifold”. Defendant asserts that people of common intelligence are not given fair notice of the conduct proscribed or that judges and jurors are free to decide what is or is not prohibited in each particular case contrary to Giaccio v Pennsyl vania, 382 US 399; 86 S Ct 518; 15 L Ed 2d 447 (1966).
+A statute will not be struck down for vagueness where the language, although not mathematically precise, does delineate with reasonable certainty the proscribed conduct. Grayned v City of Rockford, 408 US 104; 92 S Ct 2294; 33 L Ed 2d 222 (1972), People v Chapman, 80 Mich App 583, 586; 264 NW2d 69 (1978). Further, the requisite certainty may be supplied by materials outside the statutory definition of the offense or by a reading of the entire text of the statute. Kalita v Detroit, 57 Mich App 696, 701; 226 NW2d 699 (1975). A reading of the entire statute, MCL 750.301, et seq.; MSA 28.533, et seq., reasonably indicates that its primary aim is to prohibit various forms of gambling and the possession of "articles, materials, devices, et cetera, which have integral connections with a gambling game or which are actually used in gambling operations”. People v Locricchio, 373 Mich 490, 495; 129 NW2d 856 (1964). When MCL 750.306 is read in this light a reasonable interpretation concludes that possession of various written memoranda used in gambling operations is prohibited. Accordingly, the statute is not impermissibly vague.
+Defendant next argues the statute’s overbreadth in that participation in the legal state lottery is also prohibited. We point out that one to whom a statute may properly be applied may not challenge that statute on grounds of overbreadth unless First Amendment rights and a chilling effect thereon are involved. Broadrick v Oklahoma, 413 US 601; 93 S Ct 2908; 37 L Ed 2d 830 (1973), People v Chapman, supra. The defendant has nowhere asserted that the gambling slips in his possession were legal lottery tickets, nor has the defendant demonstrated any First Amendment rights affected by the statute. Therefore, defendant lacks standing to raise the overbreadth issue.
+Defendant next argues that the circuit court erred in ruling People v McMiller, supra, inapplicable due to the fact that the prosecutor was not asked to comment on the plea procedure. We agree. The proper McMiller exception most certainly relied upon by the circuit court is found in Guilty Plea Cases, supra, 136-137, as follows:
+"If the prosecutor calls the court’s attention to plea-taking error before the plea is accepted, McMiller will not apply in the event the trial court vacates the plea on defendant’s motion or with defendant’s consent or the trial court is reversed on appeal on the basis of the same error.”
+The record in the present case indicates that the prosecutor, although not asked to comment on the plea, had every opportunity to point out errors in the proceeding. Since this was not done, the above-mentioned exception to McMiller is rendered inapplicable.
+We affirm the circuit court in vacating defendant’s plea, however, on remand, in accordance with People v McMiller, supra, the defendant may not be charged with an offense higher than that to which he pled.
+Affirmed as modified.
+Pursuant to the enactment of MCL 432.1, et seq.; MSA 18.969(1), et seq., participation in the state lottery and in licensed bingo or millionaire parties is permitted. We invite the Legislature to revisit MCL 750.301, et seq.; MSA 28.533, et seq., in order to update and redefine its prohibitions in accordance with the state’s and citizenry’s progressive attitude.
+This omission on the part of the district judge cannot be held error since under DCR 1963, 785.4(d) there is no requirement that the prosecutor be asked to comment on the plea procedure.
