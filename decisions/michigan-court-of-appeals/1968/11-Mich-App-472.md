@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "2,222"
+decided: "1968-05-28"
+citations: ["11 Mich. App. 472"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Burns, P. J., and Holbrook, J., concurred."]
+parties: ["PARSON v. CADILLAC OUTFITTING FURNITURE COMPANY."]
+source_url: "https://static.case.law/mich-app/11/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2057276
+cites_cases: ["282 Mich 652", "344 Mich 187", "364 Mich 434", "368 Mich 71"]
+---
+
+# Parson v. Cadillac Outfitting Furniture Co.
+
+## Majority (Peterson, J.)
+
+Peterson, J.
+Plaintiff Parson brought action in common pleas court of Detroit for malicious use of process, alleged to consist of fraud in the procurement of a writ of garnishment. His declaration alleged that he was a judgment debtor of appellant in the municipal court of the city of Wyandotte, arid that thereafter he was- adjudicated a bankrupt oh October 19, 1965, of which notice was given defendant the following day. The allegedly wrongful issuance of the garnishment writ occurred October 26, 1965, regarding which the declaration said:
+“5. That the said writ of garnishment was obtained by fraud and perjury on the part of the said defendant in that the defendant did file an affidavit of garnishment alleging that the plaintiff was justly indebted to the defendant when the defendant well knew that after' adjudication in bankruptcy the debt is no longer collectible and, further, defendant did fraudulently conceal these facts from the court and attempted to ignore the bankruptcy proceedings in hopes of gaining further sums of money from the plaintiff.
+That, by virtue of such writ so obtained in the municipal court of the city of Wyandotte, Michigan, did pursue the matter and did withhold the plaintiff’s salary and wages and reduced said wages to defendant’s possession [sic].”
+There is no dispute about the existence of the prior judgment, the adjudication in bankruptcy or the issuance of the writ of garnishment on October 26. It was served on Parson’s employer the same day and $204.14 from his wages was promptly paid into the court. The appeal time on the judgment having passed, appellant was presumably entitled to the money under RJA, PA 1961, No 236, § 7525 (OLS 1961, § 600.7525, Stat Ann 1962 Rev § 27 A-.7525). On November 1, a stay of proceedings was filed in the municipal court in the docket of the original cahse, but none was filed under the docket of the garnishment, and on November 16 the court clerk p’aid out the money to appellant.
+Hearing the matter without jury, the trial judge found the proofs insufficient to establish the basic premise of appellee’s claim, viz., that appellant had notice of the adjudication in bankruptcy prior to the issuance of the writ of garnishment. The court found that notice was not received by appellant until November 5, when it received a letter with copy of the order staying proceedings. Nevertheless, the court concluded:
+' “The court finds that there has been an abuse of process by the reduction of the garnishment funds to-defendant’s own possession,-on or after formal notification of the fact that there has been a stay of proceedings granted by the court; and that these funds should not have been reduced to defendant’s own possession.
+“As far as the damages are concerned, the court is going to award and does award an amount in the sum of $612.72, which, frankly, is triple the damages of the amount actually shown, $204.14.”
+Appellant contends that the lower court was in error in finding for the plaintiff upon a theory not pleaded in the declaration and that the court had no authority to award punitive damages in any event. -
+As to the-latter, appellee concedes that punitive damages were not allowable (Donovan v. Guy [1955], 344 Mich 187), but argues that the trial judge merely trebled the garnished wages as a measure of the intangible damages suffered by appellee. We do not believe his finding susceptible of such construction. He found damages proved only to the extent of the garnished wages. .
+. As to the former contention, it seems clear that the proof upon which the court based its judgment was at variance with the cause of action pleaded. We are not called on to determine whether the mere receipt of garnished, funds after notice of bankruptcy of- a principal defendant constitutes an- ac~ tionable abuse of process. Neither was the trial judge.
+The cause of action pleaded is variously called malicious use of process and malicious abuse of process. It is founded in the wrongful issuance of the writ without probable cause. 3 Restatement of Torts, § 674. The pleaded cause of action is quite distinct from that of abuse of process properly issued on which the judgment was based.
+“The gravamen of the misconduct for which the liability stated in this section is imposed is not the wrongful procurement of legal process or the wrongful initiation of criminal or civil proceedings; it is the misuse of process, no matter how properly obtained, for any purpose other than that which it was designed to accomplish. Therefore, it is immaterial that the process was properly issued, that it was obtained in the course of proceedings which were brought with probable cause and for a proper purpose or even that the proceedings terminated in favor of the person instituting or initiating them. The subsequent misuse of the process, though properly obtained, constitutes the misconduct for which the liability is imposed under the rule stated in this section.” Moore v. Michigan National Bank (1962), 368 Mich 71, 75, quoting 3 Restatement of Torts, § 682.
+With modern rules of “notice” pleading, supported-by discovery and pretrial definition of issues, it would require a determined effort to lose a case because of a variance between proof and pleading. Appellate decisions involving variance questions are becoming a rarity, and properly so. See Jean v. Hall (1961), 364 Mich 434. But the case at hand comes from a statutory inferior court of limited jurisdiction which is not governed by the General Court Rules governing pleading, which has no pretrial procedure and which does not have the benefit of GCR 1963, 118.3 respecting amendments to conform to the proof. The alternatives available to the trial judge upon plaintiffs failure to prove the cause of action pleaded did not include authority to enter judgment for the plaintiff upon a different cause of action. If the facts suggested that a judgment for defendant, otherwise proper because of failure to prove the pleaded cause (Hartley v. A. I. Rodd Lumber Co. [1938], 282 Mich 652), would be inequitable, we think it would have been proper to grant an adjournment to permit amendment under Common Pleas Court Rule 11, § 2, which permits late amendments by leave of the court. This record does suggest some reason for permitting a tardy amendment, at least to claim recovery of all or a part of the garnished funds. GCR 1963, 820 permits us to do that which the trial judge could have done. "We remand for such amendment and direct the trial judge to determine what interest, if any, plaintiff has in the garnished funds.
+No costs are allowed to either party.
+Burns, P. J., and Holbrook, J., concurred.
