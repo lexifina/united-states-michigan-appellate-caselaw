@@ -1,0 +1,47 @@
+---
+court: "Michigan Court of Appeals"
+docket: "190061"
+decided: "1997-07-25"
+citations: ["224 Mich. App. 676"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bandstra, P.J., and Griffin and Fitzgerald, JJ.", "Bandstra, P.J., concurred."]
+parties: ["PEOPLE v GRAVES"]
+source_url: "https://static.case.law/mich-app/224/cases/0676-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 485716
+cites_cases: ["104 W Va 1", "128 US App DC 336", "138 SE 732", "143 P 1012", "15 ALR4th 118", "170 W Va 649", "172 A2d 737", "19 NM 414", "194 Mich App 158", "209 Mich App 234", "209 Mich App 527", "210 Mich App 554", "227 NW2d 535", "233 Or 500", "251 Ark 7", "362 A2d 1153", "389 F2d 287", "392 Mass 453", "393 Mich 460", "435 Mich 599", "440 Mich 508", "441 Mich 1201", "444 Mich 466", "453 Mich 203", "460 NW2d 520", "466 NE2d 510", "470 SW2d 581", "486 NW2d 312", "489 NW2d 748", "511 NW2d 654", "530 NW2d 130", "531 NW2d 780", "534 NW2d 183", "551 NW2d 891", "569 SW2d 341", "57 NM 257", "71 NJ 55", "93 RI 215"]
+---
+
+# People v. Graves
+
+## Majority (Griffin, J.)
+
+Griffin, J.
+Following a jury trial, defendant was convicted of voluntary manslaughter, MCL 750.321; MSA 28.553, and possessing a firearm during the commission of a felony, MCL 750.227b; MSA 28.424(2). Defendant was sentenced to five to fifteen years’ imprisonment for the manslaughter conviction, to be served consecutively to two years’ imprisonment for the felony-firearm conviction. Defendant appeals as of right.
+On appeal, defendant contends that his conviction of voluntary manslaughter should be reversed because the trial court committed error requiring reversal by submitting to the jury a first-degree murder charge that the evidence did not support. Defendant claims that he was denied his right to a fair trial even though the jury rendered a verdict of not guilty with regard to the charge of first-degree murder. We disagree with defendant’s argument. However, we reverse because we are compelled to do so on the basis of the authority of People v Vail, 393 Mich 460, 464; 227 NW2d 535 (1975).
+In reviewing the sufficiency of the evidence in a criminal case, we must view the evidence in a light most favorable to the prosecution and determine whether a rational trier of fact could find that the essential elements of the crime were proved beyond a reasonable doubt. People v Herbert, 444 Mich 466, 473; 511 NW2d 654 (1993); People v Wolfe, 440 Mich 508, 515; 489 NW2d 748 (1992), amended 441 Mich 1201 (1992); People v Hammons, 210 Mich App 554, 556; 534 NW2d 183 (1995). To prove first-degree, premeditated murder, the prosecution must establish that the defendant intentionally killed the victim and that the act of killing was premeditated and deliberate. People v Schollaert, 194 Mich App 158, 170; 486 NW2d 312 (1992). Premeditation and deliberation require sufficient time to allow the defendant to take a “second look.” People v Anderson, 209 Mich App 527, 537; 531 NW2d 780 (1995). These elements may be inferred from circumstances surrounding the killing. Id.
+Viewing the evidence in a light most favorable to the prosecution, we find insufficient evidence to establish the elements of premeditation and deliberation. There were no witnesses to the shooting, and the weapon was never found. The only direct evidence linking defendant to the shooting was defendant’s confession that, because of fear inspired when the man who had just robbed him at gunpoint turned to again approach defendant’s vehicle, defendant crouched down and fired his gun through his car window. There was no evidence of a prior relationship between defendant and the victim, or that the victim or anyone else was defendant’s intended target. Under these circumstances, a reasonable factfinder could not find premeditation or conclude that defendant had time to take a “second look” before firing his weapon. Accordingly, the trial court erred in denying defendant’s motion for a directed verdict with regard to the charge of first-degree murder.
+Because the jury was permitted to consider a charge unwarranted by the proofs, we must reverse and remand this case for a new trial, People v Vail, supra. However, were we not bound by our Supreme Court’s holding in Vail, we would join the majority of other jurisdictions in rejecting the harsh and unrealistic position that actual prejudice may be presumed by the mere “possibility of a compromise verdict” when a jury considers a charge that is unsupported by the proofs. See, e.g., Howard v United States, 128 US App DC 336, 343; 389 F2d 287 (1967); State v Ward, 569 SW2d 341, 343 (Mo App, 1978). Indeed, the holding in Vail flatly contradicts
+“[t]he general rule . . . that, where a crime is divided into degrees, if the court commits error in instructing the jury as to the higher degree of such crime, and they return a verdict of guilty of a lower degree as to which they were properly instructed, the defendant cannot complain.” [State v Schaefer, 170 W Va 649, 654; 295 SE2d 814 (1982), quoting State v McMillan,, 104 W Va 1, 10; 138 SE 732 (1927).]
+Accord Commonwealth v Forde, 392 Mass 453, 456; 466 NE2d 510 (1984); Brewer v State, 251 Ark 7, 20; 470 SW2d 581 (1971); State v Horton, 57 NM 257, 259; 258 P2d 371 (1953). See, generally, anno: modem status of law regarding cure of error, in instruction as to one offense, by conviction of higher or lesser offense, 15 ALR4th 118, §§ 3[a], 21-24. In our view,
+[i]t is pure fancy to intimate that they [the jurors] agreed upon a manslaughter verdict as a result of a settlement of different positions. Whether or not there was enough evidence to justify submission of the first degree murder charge to the jury is not relevant in ascertaining whether the jury compromised on reaching its result. [State v Christener, 71 NJ 55, 78; 362 A2d 1153 (1976) (Schreiber, J., concurring).]
+Additionally, speculating whether the jury compromised, or whether the unwarranted charge affected such compromise
+gives the jury far less credit than it deserves. We see ... no theory upon which to base a realistic conclusion that the jury might have compromised its views because of, or was confused and misled by, the mere submission of the first-degree charge for its consideration. [Howard, supra at 343.]
+Indeed, where the jury has sense enough to acquit the defendant of an unwarranted murder charge and “convict[] [him] of manslaughter, . . . the jury, by [its] verdict, showed [its] ability to discriminate and to correctly apply the facts to the law as given [it] by the court.” State v Garcia, 19 NM 414, 417; 143 P 1012 (1914); see also State v Cohen, 93 RI 215, 220; 172 A2d 737 (1961). We agree with the above authorities and would adopt their persuasive reasoning were we allowed to do so.
+Further, we note that the nonconstitutional error at issue is harmless under our “harmless error” rule because defendant has not sustained his burden of proving that there is “a reasonable probability that the error affected the outcome of the trial.” People v Hubbard, 209 Mich App 234, 243; 530 NW2d 130 (1995), citing with approval People v Hall, 435 Mich 599, 609, n 8; 460 NW2d 520 (1990). See also People v Mateo, 453 Mich 203; 551 NW2d 891 (1996), MCL 769.26; MSA 28.1096, and MCR 2.613.
+For these reasons, we urge the Supreme Court to overrule the minority view adopted in Vail and adopt the persuasive position embraced by the majority of other jurisdictions. In view of our disposition, we need not address the remaining issues on appeal.
+Reversed and remanded for a new trial. We do not retain jurisdiction.
+Bandstra, P.J., concurred.
+The jurisdictions that have adopted the majority rule include Alabama, Arizona, Arkansas, California, Delaware, Florida, Georgia, Indiana, Kentucky, Maine, Massachusetts, Mississippi, Missouri, Montana, North Carolina, New Mexico, Oregon, Rhode Island, Tennessee, Utah, Vermont, and West Virginia. Id. See also State v English, 233 Or 500; 378 P2d 997 (1963), and the authorities cited therein.
+MCL 769.26; MSA 28.1096 states as follows:
+No judgment or verdict shall be set aside or reversed or a new trial be granted by any court of this state in any criminal case, on the ground of misdirection of the jury, or the improper admission or rejection of evidence, or for error as to any matter of pleading or procedure, unless in the opinion of the court, after an examination of the entire cause, it shall affirmatively appear that the error complained of has resulted in a miscarriage of justice.
+MCR 2.613(A) states as follows:
+An error in the admission or the exclusion of evidence, an error in a ruling or order, or an error or defect in anything done or omitted by the court or by the parties is not ground for granting a new trial, for setting aside a verdict, or for vacating, modifying, or otherwise disturbing a judgment or order, unless refusal to take this action appears to the court inconsistent with substantial justice.
+Only Nebraska, New Jersey, New York, and, arguably, Colorado and Oklahoma are cited in the ALR annotation as having adopted a holding similar to Vail.
+
+## Concurrence (Fitzgerald, J.)
+
+Fitzgerald, J.
+(concurring). I concur in the result only, and write separately to emphasize that I do not agree with the majority’s analysis of People v Vail, 393 Mich 460; 227 NW2d 535 (1975), because I believe that Vail was correctly decided.
