@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "55028"
+decided: "1982-09-22"
+citations: ["119 Mich. App. 719"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P.J., and R. M. Maher and M. Warshawsky, JJ."]
+parties: ["BAYS v DEPARTMENT OF STATE POLICE"]
+source_url: "https://static.case.law/mich-app/119/cases/0719-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2235631
+cites_cases: ["110 Mich App 702", "280 NW2d 526", "283 NW2d 672", "287 NW2d 270", "313 NW2d 367", "89 Mich App 356", "91 Mich App 135", "93 Mich App 469"]
+---
+
+# Bays v. Department of State Police
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal the circuit court’s decision affirming the denial of their claim for compensation by the state Civil Service Commission. Plaintiffs, 15 state police officers, sought compensation for scheduled "on-call” time, time in which their activities and travel were limited. Plaintiffs were required to remain easily accessible (generally by being near a telephone) on certain evenings and weekends. The "on-call” officer was available for both consultation and call back to work. Evidence before the commission showed that being "on-call” significantly limited plaintiffs’ activities in their off-duty hours.
+This dispute has a long history. In the early 1970’s several officers (including at least one plaintiff) filed grievances concerning the "on-call” policy. While at least one grievance was heard by a Civil Service Commission hearing officer, none was presented to the commission itself. The present plaintiffs brought suit in the Court of Claims. That court found that the officers were entitled to compensation for "on-call” hours. This Court reversed, holding that plaintiffs had failed to exhaust their administrative remedies before the commission. Bays v Dep’t of State Police, 89 Mich App 356; 280 NW2d 526 (1979). The case was remanded to the Civil Service Commission, which appointed a hearing officer to take evidence. The hearing officer denied the claim and his decision was affirmed by the commission. On plaintiffs’ appeal to the circuit court, the commission’s decision was found to be supported by competent, material, and substantial evidence, and was affirmed. We affirm.
+We begin by noting that the Michigan Constitution gives the commission broad discretion over most, if not all, aspects of civil service employment. Const 1963, art 11, §5. Accordingly, the scope of judicial review of commission decisions is very narrow. Crider v Michigan, 110 Mich App 702, 716; 313 NW2d 367 (1981).
+Plaintiffs claim that the Civil Service Commission improperly delegated its power to make compensation decisions to an appointing authority, in this case the Department of State Police. We are not certain that the delegation doctrine applies to the commission’s decisions on compensation. We view the claim as one that the commission abdicated its responsibility for decisions with which it is charged by the constitution. Const 1963, art 11, § 5. Our review of the record shows no such abdication. While the commission did rely on the absence of a request for an "on-call” compensation policy from the appointing authority, the commission’s actions clearly indicate that it retained the ultimate power to decide this matter. So long as the commission retains ultimate power over those decisions with which it is charged, no improper delegation occurs. Generally, an appointing authority’s determinations affecting conditions of employment are presumed valid in the absence of a contrary regulation issued by the Civil Service Commission. Michigan State Employees Ass’n v Civil Service Comm, 91 Mich App 135, 139; 283 NW2d 672 (1979).
+Plaintiffs’ reliance on Michigan State Employees Ass’n v Civil Service Comm, 93 Mich App 469; 287 NW2d 270 (1979), is misplaced. This Court held, in that case, that two groups of classified employees could not be treated differently under a commission rule where no reason for the different treatment appeared in the rule. In that case, the rule in question purported to cover all classified employees. Plaintiffs in the present case have presented no such rule on which to rest their claim. The commission possesses plenary power over the conditions of employment in the state classified service. In subjecting classes of employees to differing treatment, its only restraints are contained in the state and federal constitutions.
+We hold that the Civil Service Commission was correct in determining that none of its rules and regulations required compensation to be paid plaintiffs for "stand-by” time. This finding was not contrary to law. The commission also found that there was no prior understanding in the nature of a contract that officers would be compensated for "on-call” time. This finding was supported by competent, material, and substantial evidence on the whole record. The circuit judge correctly affirmed it.
+The commission’s failure to adopt a rule providing for compensation for scheduled "on-call” time in plaintiffs’ situation was within the commission’s plenary and exclusive authority to fix rates of compensation for all classes of positions and regulate all conditions of employment in the classified service. Const 1963, art 11, § 5; Crider v Michigan, 110 Mich App 702, 723, 725; 313 NW2d 367 (1981). We reject plaintiffs’ contention that the commission erred by considering federal law in reaching its decision on compensation. The commission clearly did not hold itself bound by federal law. Comparison of analogous factual situations arising under federal law was clearly within the broad scope of the commission’s authority to decide compensation matters.
+Because of our affirmance of the decisions of the circuit court and commission, it is unnecessary to address plaintiffs’ claims on appeal concerning relief.
+Affirmed. No costs, this being a question of first impression.
