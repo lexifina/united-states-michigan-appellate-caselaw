@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "104982"
+decided: "1989-03-02"
+citations: ["178 Mich. App. 252"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Holbrook, Jr., P.J., and MíCHAEL J-Kelly and T. M. Burns, JJ."]
+parties: ["SAMODAI v CHRYSLER CORPORATION"]
+source_url: "https://static.case.law/mich-app/178/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2312731
+cites_cases: ["112 Mich App 122", "156 Mich App 626", "163 Mich App 34", "168 Mich App 43", "168 Mich App 619", "220 NW2d 641", "249 NW2d 411", "31 ALR2d 1375", "315 NW2d 558", "34 ALR4th 914", "375 NW2d 333", "392 Mich 91", "402 NW2d 16", "413 NW2d 723", "422 Mich 712", "424 NW2d 25", "425 NW2d 480", "428 Mich 865", "433 Mich 875", "72 Mich App 330"]
+---
+
+# Samodai v. Chrysler Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The circuit court granted summary disposition in favor of defendant Chrysler Corporation and dismissed plaintiffs’ claim for personal injuries and loss of consortium resulting from an accident on Chrysler’s premises in the course of plaintiff Paul Samodai’s employment with a contracting firm doing demolition and renovation work for Chrysler. We affirm.
+Immediately before the accident, Samodai, standing on a wooden pallet placed on the prongs of a forklift, was elevated in order to change some temporary light bulbs suspended some twenty to twenty-five feet above the floor. Thereafter, as Samodái was being lowered, the forklift lifting mechanism malfunctioned, dislodging Samodai and causing him to fall.
+Summary disposition was premised on MCR 2.116(0(10). A motion pursuant to this subrule requires the court to determine whether there is factual support for a claim, giving the benefit of reasonable doubt to the nonmoving party. Dumas v Auto Club Ins Ass’n, 168 Mich App 619, 626; 425 NW2d 480 (1988). Summary disposition is appropriate if the court determines on the basis of the record that it is impossible for the claim asserted to be supported by evidence at trial. Peterfish v Frantz, 168 Mich App 43; 48-49; 424 NW2d 25 (1988). Plaintiffs argue that defendant, as the moving party, failed to meet its burden of demonstrating by affidavits, depositions, admissions, or other documentary evidence that there was no genuine issue of material fact. MCR 2.116(G)(3) and (4). We disagree. The depositions made part of the record in this case provide a sufficient factual basis for resolution of the issues raised by defendant’s motion for summary disposition.
+As a general rule, an owner of property is not liable to an employee of an independent contractor for negligence. Funk v General Motors Corp, 392 Mich 91, 101; 220 NW2d 641 (1974); Wolfe v Detroit Edison Co, 156 Mich App 626, 627; 402 NW2d 16 (1986), lv den 428 Mich 865 (1987). In such situations, the actual employer of a worker is immediately responsible for job safety and for maintaining a safe work place. Funk, supra, p 102. The two main exceptions to this general rule provide for liability if: (1) the property owner retains control over the work done and the contractor’s activities or (2) the work is inherently dangerous — the work can reasonably be foreseen as dangerous to third parties. Bosak v Hutchinson, 422 Mich 712, 724; 375 NW2d 333 (1985); Wolfe, supra.
+Plaintiffs claim that Samodai was engaged in an inherently dangerous activity at the time of his accident. However, this claim falters in view of the principle that the risk or danger must be recognizable in advance of the accident, more specifically, at the time of the inception of the contract. See Bosak, supra, p 728 ("[t]hus, liability should not be imposed where a new risk is created in the performance of the work which was not reasonably contemplated at the time of the contract”). In this case, neither changing light bulbs nor operating a forklift are to be reasonably anticipated as presenting peculiar risks or special dangers. Instead, the accident appears to have resulted from a routine activity carrying a risk collateral to the nature of the anticipated job. See Bosak, supra; Samhoun v Greenfield Construction Co, Inc, 163 Mich App 34, 43-44; 413 NW2d 723 (1987).
+Plaintiffs also claim that Chrysler retained substantial control over the work performed. In support of this contention, plaintiffs rely on documentation of daily contacts of Chrysler employees with the contractor, instances of Chrysler’s request for compliance with safety standards, and provisions in the contract regarding job specifications and workers’ safety. However, contractual provisions subjecting the contractor to the contractee’s oversight are not enough to retain effective control. Erickson v Pure Oil Corp, 72 Mich App 330, 339; 249 NW2d 411 (1976). The requisite nature of this standard requires that the owner retain at least partial control and direction of actual construction work, which is not equivalent to safety inspections and general oversight. Miller v Great Lakes Steel Corp, 112 Mich App 122; 315 NW2d 558 (1982); Wolfe, supra. Unlike in Funk, supra, there is no showing here that what defendant’s employees "sáid, or left unsaid, determined how the work would be performed,” but only that the end result of the work was specified. This case is further distinguished from Funk as a factual matter because Samodai was not working in an ongoing state of hazardous work conditions creating readily apparent dangers with the premises owner’s acquiescence. In Funk, the nature and severity of the risk was deemed significant to a determination of the degree to which control was retained by the premises owner.
+Affirmed.
