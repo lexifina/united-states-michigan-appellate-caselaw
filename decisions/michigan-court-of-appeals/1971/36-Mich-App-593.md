@@ -1,0 +1,42 @@
+---
+court: "Michigan Court of Appeals"
+docket: "10312"
+decided: "1971-10-26"
+citations: ["36 Mich. App. 593"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: McGregor, P. J., and Holbrook and Van Valkenburg, JJ.", "All concurred."]
+parties: ["PEOPLE v. INSLEY"]
+source_url: "https://static.case.law/mich-app/36/cases/0593-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2090677
+cites_cases: ["16 Mich App 710", "238 Mich 485", "27 Mich App 422", "31 Mich App 433", "48 Mich 482", "6 Mich App 412"]
+---
+
+# People v. Insley
+
+## Majority (McGregor, P. J.)
+
+McGregor, P. J.
+Defendant was charged with felonious assault, contrary to MOLA § 750.82 (Stat Ann 1962 Rev § 28.277). He was convicted by a jury of assault and battery, contrary to MOLA § 750.81 (Stat Ann 1962 Rev § 28.276), and was sentenced to serve 90 days in jail or to pay a $100 fine. He appeals as of right.
+On the evening of October 31, 1969, eight boys between the ages of 14 and 16 gathered at a residence near the defendant’s home. These boys testified that at about 8:30 p.m. they were standing on property adjacent to the defendant’s residence when defendant approached and ordered them to disperse. They turned and began to leave, and defendant started back toward his house. Suddenly, the defendant came back, pulled a pistol, and told them to line up. Defendant then jumped upon the complainant, strikin him behind the ear with a pistol, causing a slight injury.
+Defendant’s version of the assault was somewhat different from that presented by the prosecutor’s witnesses. He related that he was informed of a disturbance at the rear of his property, that he went over to a hedge, and that a group of boys then ran toward the street. Defendant saw the boys on some adjacent property, walked over to them, and angrily told them to leave. He stated that he then turned back toward his residence, but when struck in the back of the head by a small object, he turned around and struck the boy nearest him with either a cap gun or a flashlight. Defendant denied having a real gun of any kind on his person, and alleged that he only had a cap gun for the purpose of making noise.
+In rebuttal, the prosecution called one of the boys who had been a witness. This witness was not indorsed on the information and testified substantially the same as the other witnesses.
+After hearing the testimony, the jury found the defendant guilty of assault and battery. This appeal raises eight assignments of error. For purposes of our consideration, we have consolidated those assignments to five issues.
+The information in this cause charged “felonious assault.” The defendant objected to the court’s charge on the lesser included offense of “assault and battery”, but the court overruled defendant’s objection and gave the instruction. Defendant submits that this was error.
+We find no reversible error here. Contrary to defendant’s contentions, a conviction for assault and battery may be had on an indictment or information charging felonious assault. People v. Burk (1927), 238 Mich 485. The information in this cause charged a battery in the words, “make an assault, by means of a certain dangerous and offensive weapon, to wit: a revolver or pistol in him, the said Jay M. Kuhn (sic) did then and there beat, wound, bruise and ill-treat * * * ”. Accordingly, assault and battery was included within the major offense. See also 2 Gillespie, Michigan Criminal Law and Procedure, § 1045, p 1439.
+The trial court denied defendant’s motion, made in chambers prior to taking proofs, to have the prosecution’s witnesses separated from the courtroom, reasoning that it was a public trial and that they had a right to be in the courtroom. In so ruling, defendant submits, the trial court abused its discretion by showing no exercise of discretion at all.
+The law is clear in Michigan that excluding of witnesses in a criminal trial is discretionary with the trial judge. People v. Poe (1970), 27 Mich App 422; People v. Williams (1967), 6 Mich App 412. In the case at bar, however, the trial judge’s denial of defendant’s motion to separate did not show any considered judgment whatsoever. It was purely arbitrary and did not consider whether the witnesses should be sequestered. Furthermore, the reason given for not granting the motion — that the trial should be public — is unsupportable. Although a public trial is guaranteed by the Constitution, our Legislature has specifically provided that “for good cause” witnesses may be excluded. MCLA § 600.1420 (Stat Ann 1962 Rev § 27A.1420). Accordingly, we find the trial court’s decision, giving no valid reasons, was an abuse of discretion.
+Although the court’s decision was erroneous, it alone does not constitute reversible error. People v. Hall (1882), 48 Mich 482, 487. Defendant has not shown that the failure to separate the witnesses resulted in such prejudice to his cause that the jury would have reached a different result had the motion been granted. People v. Willie Lee Lewis (1971), 31 Mich App 433, 438. Two of the witnesses testified substantially the same at the preliminary examination as they did at trial. People v. Williams, supra. More importantly, there was no major dispute among- the prosecution’s witnesses concerning the alleged assault, relative to defendant’s actual behavior. Accordingly, this issue alone does not merit a reversal.
+At trial, over defendant’s objection, the prosecutor was allowed to elicit evidence from defendant and another witness regarding an incident that occurred one year prior to the alleged crime, when defendant discharged a shotgun while boys were on his property. The prosecutor, inter alia, argued that such evidence was admissible under MCLA § 768.27 (Stat Ann 1954 Rev § 28.1050), which permits evidence of other acts to establish motive, intent, absence of mistake, et cetera, when such evidence is material to the case.
+The evidence was inadmissible, whether or not a cautionary instruction should have been given immediately or at all, and will not be a problem upon remand.
+Richard Appel was called as a witness by the prosecutor during rebuttal. Mr. Appel was not indorsed on the information, was a res gestae witness, and had previously been called. Defendant asserts that the overruling of his objection to this witness was error.
+This Court has said:
+“At trial, after the defense rested, the prosecution, over defendant’s objection, called two unindorsed res gestae witnesses in rebuttal. The allowance of their testimony was reversible error. The witnesses had not appeared before. Furthermore, no attempt had been made to indorse the witnesses and no legal cause explaining the prosecutor’s failure to indorse is evident in the record. [Citing authority] Finally, the rebutting testimony was improper, since it tended to prove surrounding circumstances of the crime.” People v. Sacharczyk (1969), 16 Mich App 710, 711.
+Similarly, the witness called in rebuttal in the case at bar was an unindorsed res gestae witness. No attempt to indorse this witness was made and the prosecutor’s contention that he was not known as a res gestae witness is belied by the preliminary examination transcript. Finally, Mr. Appel testified substantially the same as the other boys, i.e., his testimony was not rebuttal at all. Accordingly, a reversal is clearly merited on this issue, also.
+Finally, although defendant did not include in his request to charge a prepared theory of the case, he alleges that GCB 1963, 516.7 clearly requires that the trial court present such theory on its own. Since the court did not include defendant’s theory in his charge, defendant submits that this also was error. GCB 1963, 516.2 states:
+“No party may assign the giving or the failure to give an instruction unless he object thereto before the jury retires to consider the verdict, stating specifically the matter to which he objects and the ground of the objection. Opportunity shall be given to make the objection out of the hearing of the jury.”
+Whether or not the trial judge was required to present defendant’s theory of the case to the jury, the defendant’s failure to object to the charge has waived the provision of GCB 1963, 516.7. Upon remand, however, if defendant requests that the trial court give the defendant’s theory of the case, the above court rule should be complied with.
+Beversed and remanded.
+All concurred.
