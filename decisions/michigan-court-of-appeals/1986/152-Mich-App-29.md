@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "87449"
+decided: "1986-05-20"
+citations: ["152 Mich. App. 29"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. M. Maher, P.J., and Cynar and T. Gillespie, JJ."]
+parties: ["PEOPLE v CALLAHAN"]
+source_url: "https://static.case.law/mich-app/152/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2284328
+cites_cases: ["103 Mich 255", "127 Mich App 50", "136 Mich App 284", "143 Mich App 303", "220 NW2d 465", "285 NW2d 284", "303 NW2d 14", "31 ALR4th 120", "338 NW2d 549", "356 NW2d 618", "373 NW2d 161", "380 NW2d 11", "392 Mich 298", "407 Mich 354", "424 Mich 221", "449 US 885", "76 ALR3d 163"]
+---
+
+# People v. Callahan
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Following a bench trial, defendant was convicted of two counts of first-degree criminal sexual conduct. MCL 750.520b(1); MSA 28.788(2)(1). He was sentenced to a prison term of from twelve to twenty-five years. Defendant appeals as of right.
+The complainant, a seventy-one-year-old woman, testified that at approximately 8 p.m. on the evening of November 9, 1985, defendant knocked on the door of her Detroit flat, looking for the upstairs resident. After complainant told him that no one was home, defendant asked her for a glass of water. As she turned to get him a drink, defendant knocked her to the floor. He then dragged her into her bedroom, picked her up and threw her on the bed.
+After ordering complainant to remove her clothes, defendant began to "sexually handle” her. She testified that defendant put his hand into her vagina. Defendant then rolled complainant onto the dining room floor where he continued to "handle” her until 5 a.m. the following morning. Despite a lengthy attempt by the prosecution to refresh her memory, complainant was unable to recall any other act of sexual penetration.
+The trial court found that one count of first-degree criminal sexual conduct was established by the act of penetration with defendant’s hand. In addition, based on the other evidence presented, particularly the length of time involved, complainant’s state of undress and defendant’s continued "handling” of complainant, the court inferred that cunnilingus and intercourse also occurred.
+The sole issue raised on appeal is whether sufficient evidence of penetration was presented to support defendant’s conviction for two counts of first-degree criminal sexual conduct. In reviewing defendant’s claim, we must examine the evidence in a light most favorable to the prosecution to determine whether a rational trier of fact could have found the elements of the crime established beyond a reasonable doubt. People v Hampton, 407 Mich 354; 285 NW2d 284 (1979), cert den 449 US 885 (1980); People v Petrella, 424 Mich 221; 380 NW2d 11 (1985).
+Our review of the record convinces us that sufficient evidence was presented to establish one count of first-degree criminal sexual conduct. Complainant testified unequivocally that defendant inserted his hand into her vagina. This act was sufficient to constitute "penetration” within the meaning of the statute. MCL 750.520a(h); MSA 28.788(1)(h), People v Baker #1, 103 Mich 255; 303 NW2d 14 (1981). Any inconsistencies in complainant’s testimony were properly resolved by the trier of fact. GCR 1963, 517.1, MCR 2.613(C).
+On the other hand, the record does not support the court’s conclusion that additional acts of penetration also occurred. Although the prosecution made a lengthy attempt to refresh complainant’s memory, it was to no avail. When asked whether defendant put his mouth on her vagina, complainant repeatedly responded that she was unable to remember. Even when shown a copy of her preliminary examination transcript in which she testified to that act, complainant remained unable to recall at trial whether the additional penetration had occurred.
+We recognize that complainant was an elderly and admittedly forgetful witness and that the crime occurred more than a year prior to the trial. It is equally apparent that the assault was particularly embarrassing to complainant and she experienced considerable difficulty describing the assault. These factors make an accurate determination of the events difficult and it is certainly conceivable that other acts of penetration occurred which complainant was simply unable to recall. Nonetheless, neither this Court nor the trial court can supplant the necessary quantum of evidence with guesswork and surmise.
+Here, a gap existed between the testimony of the complainant and proof of the act of penetration. The circumstantial evidence relied upon by the court was insufficient to bridge the gap. While an inference may be based on an established fact, the circumstances must warrant the inference. People v Atley, 392 Mich 298; 220 NW2d 465 (1974). The inference that complainant forgot the act is no more compelling than the conclusion that the second act of penetration never occurred. Further, the fact that complainant clearly remembered one act of penetration, but not a second act, is equally supportive of the conclusion that the latter never occurred. We conclude that, based on the evidence presented, a rational trier of fact could not have found the elements of two counts of first-degree criminal sexual conduct established beyond a reasonable doubt. Defendant’s conviction on the second count of first-degree criminal sexual conduct should be reversed.
+The prosecution suggests on appeal that the trial court erred in refusing to admit for substantive purposes complainant’s testimony at the preliminary examination. MRE 804(a)(3) and (b)(1), People v Hayward, 127 Mich App 50; 338 NW2d 549 (1983). However, the prosecution has failed to file a cross-appeal and this issue is not properly before the Court for appellate review. Faigenbaum v Oakland Medical Center, 143 Mich App 303, 318; 373 NW2d 161 (1985). Further, even when we consider the merits of the prosecution’s claim, we are not persuaded that the trial court abused its discretion in excluding the evidence. See People v Bowers, 136 Mich App 284; 356 NW2d 618 (1984). Nor are we convinced that the preliminary examination testimony, even if admitted, was sufficient to overcome the inadequacies in the complainant’s trial testimony.
+Affirmed in part and reversed in part.
