@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "3,507"
+decided: "1968-06-27"
+citations: ["12 Mich. App. 154"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lesinski, C. J., and Fouet, J., concurred."]
+parties: ["PEOPLE v. SHIELDS."]
+source_url: "https://static.case.law/mich-app/12/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2054989
+cites_cases: ["301 Mich 584", "32 ALR2d 434", "320 Mich 441", "323 Mich 511", "327 Mich 124", "335 Mich 212", "337 Mich 496", "371 Mich 347", "381 Mich 788"]
+---
+
+# People v. Shields
+
+## Majority (T. G. Kavanagh, J.)
+
+T. G. Kavanagh, J.
+Defendant, Milton Shields, was convicted of assault with intent to commit murder, CL 1948, § 750.83 (Stat Ann 1962 Rev § 28.278) and assault with intent to rape, CL 1948, § 750.85 (Stat Ann 1962 Rev § 28.280). Only the first of defendant’s seven assertions of error warrants our attention, i.e., did the trial court err in denying defendant-appellant’s petition for proceedings to be taken under the provisions of the following statutes which provide:
+“When any person is charged with a criminal offense, whether a felony or a misdemeanor, or has been convicted of or has pleaded guilty to such offense and has been placed on probation, or has been convicted or pleaded guilty to such offense but has not yet been sentenced, and it shall appear that such person is a criminal sexual psychopathic person, as evidenced by such mental disorder which has existed for a period of not less than 4 months, then the prosecuting attorney of such county, or the attorney general, or some one on behalf of the person charged, may file with the clerk of the court in the same proceeding wherein such person stands charged with, or has been convicted of, or has pleaded guilty to such criminal offense, a statement in writing setting forth facts tending to show that such person is a criminal sexual psychopathic person.” CLS 1961, § 780.503 (Stat Ann 1954 Rev § 28.967 [3]).
+“Upon the filing of such statement by the prosecuting attorney or the attorney general the court shall, or if filed on behalf of the accused the court shall, appoint 3 psychiatrists qualified by at least 5 years of exclusive practice in psychiatric diagnosis and treatment and chosen from a list consisting of not less than 6 compiled by the department of mental health to make a personal examination of such alleged criminal sexual psychopathic person who shall file with the court a report in writing of the results of their examination together with their conclusions. Said report shall be open to the inspection of the accused or his counsel, but shall not be competent evidence in any other proceeding against accused except the hearing to inquire into his alleged psychopathy. Said alleged psychopath shall be required to answer the questions propounded by such psychiatrists under penalty of contempt of court: • Provided, That such examination shall not violate common law privileges or constitutional privileges against self incrimination. In the event that all 3 of such psychiatrists in such reports state their conclusions to the effect that such person is a criminal sexual psychopathic person with a written statement of facts on which such conclusions are based, then proceedings shall be had as provided in this act prior to a trial of such person upon the' criminal offense with which he then stands charged, or prior to sentence if he then stands convicted and has not been placed on probation, or prior to completion of probation sentence.” CLS 1961, § 780.504 (Stat Ann 1954 Rev §28.967 [4]).
+The petition filed on behalf of defendant stated:
+“(a) On or about November 12, 1959, in Bay county, Michigan, he was convicted of contributing to the delinquency of a minor;
+“(b) On October 24, 1962, in this court, charged with assault upon a minor with intent to rape her, he pleaded to and was convicted of, assault and battery;
+“(c) On the 31st day of October, 1965, he committed the indecencies described in the two affidavits hereto attached.”
+The court’s order, in part, reads:
+“The allegations that defendant has been convicted of contributing to the delinquency of a minor and of assault and battery are meaningless.
+“The allegations of defendant’s conduct on October 31,1965 are sufficient allegations of facts tending to share [sic] that defendant was suffering from a mental disorder on that date alone.
+“If there were an allegation that on or before October 24,1962 defendant did assault someone with intent to rape, then such petition with the existing allegations would suffice. The fact that the charge was made is not enough.
+' “The petition is denied. Petitioner or any other person may file another petition.”
+Neither defendant nor anyone on his behalf filed another petition; the case proceeded to trial and resulted in a conviction.
+In order to allow a psychiatric examination under this statute, the court must be presented with a statement of facts tending to show that such person is a criminal sexual psychopathic person. Upon filing a sufficient statement of facts, a psychiatric examination will be provided, and, based on the medical opinions, a hearing before the court may follow. The petition must state “facts tending to show or from which a conclusion of criminal sexual psychopathy could reasonably or properly be drawn.” (Emphasis added.) People v. Holnagle (1963), 371 Mich 347, 350. A statement containing mere opinions, or one having only allegations that defendant has been or is presently accused of sexual offenses, in insufficient. (See People v. Artinian [1948], 320 Mich 441; In re Kelmar [1949], 323 Mich 511; In re Carter [1953], 337 Mich 496.) A statement showing prior convictions of sexual offenses has been found to comply with statutory requirements. In re Pryor (1952), 335 Mich 212.
+In the present case, the petition filed on behalf of defendant was accompanied by affidavits relating facts of certain incidents which, in the opinion of the lower court, constituted a sufficient showing of a mental disorder “on that date alone.” (Emphasis added.) The implication is that the court required a showing of a continuous mental disorder.
+It is our opinion that the statute does not require such a showing. If the lower court believed, as it appears it did, that these affidavits tended to show defendant to be a criminal sexual psychopath, then the petition for a psychiatric examination should have been granted.
+As pointed out in People v. Chapman (1942), 301 Mich 584, the proceedings under this statute are civil in nature, closely resembling a statutory inquest for the commitment of an insane person accused of a felony (CL 1948, § 767.27a [Stat Ann 1968 Cum Supp § 28.966 (11)]). Jurisdiction is provided the court by a pending criminal charge against an accused.
+It has always been the purpose of the court, where the prosecution petitions for examination of defendant, to protect the accused by requiring the statement to contain something more than allegations, accusations or opinions. In view of that purpose, what, then, must be presented by defendant where he, or one on his behalf, petitions the court under the statute ?
+As pointed out in People v. Hilles (1950), 327 Mich 124, the motivating force behind defendant’s petition may stem from his desire to be hospitalized rather than imprisoned. A consideration of motives, however, though proper at the hearing stage, has no place in the grant or denial of a petition for psychiatric evaluation. Where the defendant or someone on his behalf, rather than the prosecuting attorney, has petitioned the court under CLS 1961, § 780.503 (Stat Ann 1954 Eev § 28.967[3]), psychiatric examination should not be denied if there are any facts tending to support the request.
+The facts presented by defendant here, apart from the pending charge are not numerous. If true, however, as we must consider them to he, they tend to show abnormal sexual tendencies at the very least and a criminal sexual psychopath at the worst. In cases of this type, for the interest of the individual and society, if a petition is unopposed by defendant and contains any facts to support it, the request should he granted.
+Therefore, the sentencing is set aside and the case remanded for a psychiatric examination of defendant and, if appropriate, a hearing pursuant to CLS 1961, §780.505 (Stat Ann 1954 Eev §28.967[5]). We find no error to have occurred at the trial, and therefore, if defendant is found not to be a criminal sexual psychopath, resentencing will he in order.
+Lesinski, C. J., and Fouet, J., concurred.
