@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "127973"
+decided: "1991-06-24"
+citations: ["191 Mich. App. 38"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Marilyn Kelly, P.J., and Mackenzie and Gribbs, JJ."]
+parties: ["PEOPLE v DOLGORUKOV"]
+source_url: "https://static.case.law/mich-app/191/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2325939
+cites_cases: ["107 Mich App 440", "1988 PA 4", "309 NW2d 634"]
+---
+
+# People v. Dolgorukov
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was charged with breaking and entering an unoccupied building with intent to commit larceny, MCL 750.110; MSA 28.305. The alleged offense occurred on October 19, 1989, sixty-six days after defendant’s twentieth birthday. Defendant petitioned for and was assigned to youthful trainee status pursuant to the Youthful Trainee Act, MCL 762.11 et seq.; MSA 28.853(11) et seq., and placed on two years’ probation. The people appeal as of right, contending that the court lacked jurisdiction to grant defendant youthful trainee status. We agree and reverse.
+The Youthful Trainee Act offers a mechanism by which youths charged with committing certain crimes between their seventeenth and twentieth birthdays may effectively be excused from having a criminal record. Before February 1988, the provisions of the act were available to persons charged with committing any crime except first-degree murder or a major controlled substance offense while between seventeen and twenty years of age. MCL 762.11; MSA 28.853(11) provided:
+When a youth is alleged to have committed a criminal offense, other than murder in the first degree or a major controlled substance offense, between the youth’s seventeenth and twentieth birthdays, the court of record having jurisdiction of the criminal offense may with the consent of both the affected youth and the youth’s legal guardian or guardian ad litem elect to consider and assign that youth to the status of youthful trainee.
+In this case, it is undisputed that under the above statutory provision, defendant would not be eligible for youthful trainee status because she committed the breaking and entering after her twentieth birthday. However, MCL 762.11; MSA 28.853(11) was amended by 1988 PA 4 to provide as follows:
+When a youth is alleged to have committed a criminal offense, other than a felony for which the maximum punishment is life imprisonment, a major controlled substance offense, or a traffic offense between the youth’s seventeenth and twentieth birthdays, the court of record having jurisdiction of the criminal offense may, with the consent of both the affected youth and the youth’s legal guardian or guardian ad litem, consider and assign that youth to the status of youthful trainee. As used in this section, "traffic offense” means a violation of the Michigan vehicle code, Act No. 300 of the Public Acts of 1949, being sections 257.1 to 257.923 of the Michigan Compiled Laws, or a local ordinance substantially corresponding to that act, which violation involves the operation of a motor vehicle and at the time of the violation is a felony or misdemeanor. [Emphasis added.]
+After comparing the statute before and after its amendment and noting the absence of a comma after the phrase "traffic offense” in the amended statute, the trial court in this case concluded that the amended statute’s modifying phrase, "between the youth’s seventeenth and twentieth birthdays,” applies only to traffic offenses. The court reasoned that because defendant was not charged with committing a traffic offense, the requirement that the charged offense be committed before the twentieth birthday did not apply to her. Accordingly, defendant was deemed eligible for youthful trainee status under the amended statute.
+The plain language used in the preamendment statute indicates a legislative intent that a trial court, in its discretion, may award youthful trainee status only where the applicant falls within the specified age group of seventeen to twenty years of age. See People v Perkins, 107 Mich App 440, 445; 309 NW2d 634 (1981). Contrary to the trial court’s conclusion, there is no indication that the Legislature intended to alter this requirement when it amended the statute in 1988.
+The December 17, 1987, Senate Legislative Analysis of HB 4596, which became 1988 PA 4, indicates that the purpose of the 1988 amendment was to add to the existing categories additional circumstances under which persons between their seventeenth and twentieth birthdays would be ineligible for trainee status:
+The [preamendment] Act does not apply when the charge is first degree murder or a major controlled substance abuse offense. There is nothing in the Act, however, to prevent its use for youths charged with other serious offenses. Occasionally, youths charged with serious assaultive felonies will be assigned to trainee status. More frequently, youths charged with alcohol-related driving offenses will be assigned to trainee status, thereby circumventing the drunk-driving laws’ provision for felony charges upon the third offense. It has [therefore] been proposed that the Holmes Youthful Trainee Act be amended to preclude its use for major assaultive offenses and criminal traffic offenses.
+House Bill 4596 (H-l) would amend the Holmes Youthful Trainee Act within the Code of Criminal Procedure to expand the offenses for which a youth could not be considered for or assigned to the status of "youthful trainee”. The bill would exclude from consideration or assignment [to] youthful trainee status youths alleged to have committed any felony for which the maximum punishment is imprisonment for life (e.g., first and second degree murder, attempted murder, armed robbery, kidnapping, and first degree criminal sexual conduct), or any criminal traffic offense.
+From this analysis, it is apparent that the Legislature’s failure in the amended statute to include a comma after the phrase "or a traffic offense” was not an expression of an intent to allow persons who commit nontraffic offenses after their twentieth birthday to seek youthful trainee status. Instead, the Legislature merely intended to expand the list of offenses which if committed before reaching age twenty would preclude assignment to trainee status. Because the amended statute did not alter the age requirement for eligibility for youthful trainee status, and because defendant did not satisfy the age requirement, the trial court’s decision to assign defendant to trainee status must be reversed.
+Reversed.
