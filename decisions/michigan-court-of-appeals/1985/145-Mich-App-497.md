@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78301"
+decided: "1985-09-04"
+citations: ["145 Mich. App. 497"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and Cynar and H. E. Deming, JJ."]
+parties: ["STABLEY v SHELBY TOWNSHIP SUPERVISOR"]
+source_url: "https://static.case.law/mich-app/145/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2261184
+cites_cases: ["102 Mich App 543", "108 Mich App 103", "108 Mich App 108", "108 Mich App 110", "127 Mich App 239", "127 Mich App 243", "210 NW2d 517", "280 NW 464", "285 Mich 262", "302 NW2d 225", "310 NW2d 287", "338 NW2d 197", "411 Mich 1002", "413 Mich 871", "48 Mich App 347"]
+---
+
+# Stabley v. Shelby Township Supervisor
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff, Donald Stabley, appeals as of right from an order granting accelerated judgment to defendants pursuant to GCR 1963, 116.1(2) [now MCR 2.116(C)(4)], on the ground that the general rule that administrative remedies must be exhausted before judicial relief is sought is inapplicable in this case.
+Plaintiff filed a complaint for superintending control in the Macomb County Circuit Court on July 18, 1983. Plaintiff alleged that the oral portion of the civil service examination administered to plaintiff on June 16, 1983, for promotion from police sergeant to lieutenant, was not "unbiased and non-partisan” as required by statute. MCL 38.512; MSA 5.3362. The oral portion of the examination was designed by Shelby Township Civil Service Commissioners, defendants Byron Kuxhaus, Helen Popkey and Leland Schubring. Plaintiff asserted that the commissioners were biased against plaintiff for the reason that plaintiffs brother, Gerald Stabley, was a political rival Of defendant Kuxhaus. It was also alleged that Kuxhaus had actively tried to influence the examiners by taking them to dinner. As a result of the allegedly arbitrary, capricious, and biased test administered to plaintiff, plaintiff claimed that he received a low test score which prevented him from being promoted to the position of lieutenant for the Shelby Township police force.
+On the basis of the complaint, the circuit court entered a temporary restraining order on July 18, 1983, enjoining defendants from promoting to lieutenant any persons in the Shelby Township police department. A preliminary injunction was later entered restraining defendants from promoting any applicants to the position of lieutenant until further order of the court. Defendants’ joint motion for accelerated judgment was subsequently granted on April 27, 1984.
+The issue we address is whether the trial court erred in granting defendants’ motion for accelerated judgment. Plaintiff argues that the trial court erred in granting defendants’ accelerated judgment motion because an action for superintending control could properly be maintained on the basis that there was no other plain, speedy or alternative remedy.
+GCR 1963, 711.4 [now MCR 3.302(D)] empowered the circuit court to issue an order of superintending control. Such an order "enforces the superintending control power of a court over lower courts or tribunals”. GCR 1963, 711.1 [now MCR 3.302(A)]. The superintending control power of a circuit court extends to administrative tribunals of a judicial or quasi-judicial nature. Beer v City of Fraser Civil Service Comm, 127 Mich App 239, 243; 338 NW2d 197 (1983). A civil service commission acts in a quasi-judicial capacity when it renders a decision on an appeal by an employee. 127 Mich App 243; see also In re Fredericks, 285 Mich 262; 280 NW 464 (1938). Although the circuit court may exercise superintending control over an administrative agency acting in a quasi-judicial capacity, an order of superintending control is an extraordinary remedy and is not available where there is a plain, speedy and alternative remedy. In re Bay County Prosecutor, 102 Mich App 543, 547; 302 NW2d 225 (1980), lv den 411 Mich 1002 (1981); GCR 1963, 711.2 [now MCR 3.302(B)].
+Here, plaintiff requested and was afforded a hearing before the Shelby Township Civil Service Commission (commission). He even appeared at the time and place of the hearing, but refused to participate or present evidence. Plaintiffs contention that there was no plain, speedy or alternative remedy available to him is therefore without merit.
+Plaintiff cites and relies on Turner v Lansing Twp, 108 Mich App 103; 310 NW2d 287 (1981), lv den 413 Mich 871 (1982), and further contends, however, that he was not required to participate in a hearing before the commission because it would have been futile. In Turner this Court discussed the. exceptions to the doctrine of exhaustion of administrative remedies and stated:
+"Where it is clear that appeal to an administrative body is an exercise in futility arid nothing more than a formal step on the way to the courthouse, resort to the administrative body is not required.” 108 Mich App 108.
+This Court also noted, however, that there is a presumption that the administrative agency, "if given a chance to pass upon the matter, will decide correctly and will not fail in the performance of its duty”. 108 Mich App 110. In the instant case, the commission held a hearing to consider plaintiffs grievances. Plaintiff, as stated earlier, refused to participate in or present evidence at the hearing. Defendant Kuxhaus abstained from voting on plaintiffs charges and the other two commission members, defendants Pop-key and Schubring, found that plaintiff’s allegations were without foundation. Plaintiff has not made any claim that defendants Popkey and Schubring were biased against him for political or other reasons. We conclude that plaintiff has failed to establish that a hearing before the commission would be futile.
+Plaintiff’s nonparticipation in the commission’s hearing resulted in no record being developed which supports plaintiffs contention that there was misconduct at the civil service examination. The absence of an administrative record in this case also procluded the circuit court from exercising superintending control over the commission. Lepofsky v Lincoln Park, 48 Mich App 347, 357; 210 NW2d 517 (1973).
+The absence of a supporting administrative record also precludes the determination that plaintiff was denied any due process rights or that defendant Kuxhaus unlawfully engaged in campaign activities while serving on the commission. Thus, it is unnecessary for us to review plaintiffs claim that these allegations, if true, would exempt plaintiff from having to pursue his administrative remedies.
+Affirmed.
