@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "44101"
+decided: "1980-12-15"
+citations: ["102 Mich. App. 396"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: M. F. Cavanagh, P.J., and R. M. Maher and D. F. Walsh, JJ."]
+parties: ["GRODIN v GRODIN"]
+source_url: "https://static.case.law/mich-app/102/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2193376
+cites_cases: ["100 Ill App 2d 199", "122 NW2d 193", "146 NW2d 647", "157 A2d 497", "187 NW2d 218", "199 NW2d 169", "20 Wis 2d 402", "211 NW 88", "237 Mich 175", "241 NE2d 12", "254 NW2d 759", "267 NW2d 450", "274 NW 710", "281 Mich 60", "31 NJ 353", "378 Mich 521", "384 Mich 718", "388 Mich 1", "39 Wis 2d 75", "40 ALR3d 1222", "400 Mich 425", "403 Mich 812", "82 Mich App 549"]
+---
+
+# Grodin v. Grodin
+
+## Majority (M. F. Cavanagh, P.J.)
+
+M. F. Cavanagh, P.J.
+Plaintiff, Randy Grodin, and his father, Dennis Grodin, individually and as his next friend, appeal the trial court’s grant of summary judgment in favor of Randy’s mother, Roberta Grodin. The action against defendant Dr. Daniel Cohen was not dismissed by summary judgment. Only defendant Roberta Grodin is a party to this appeal.
+It is alleged that as a result of Dr. Cohen’s assurances that it was impossible for her to become pregnant, Roberta continued to take the medication tetracycline. Only after consulting a different doctor who told her she was seven or eight months pregnant did Roberta stop taking the medication. As a result of his mother’s taking the drug, Randy developed teeth that were brown and discolored.
+The plaintiffs’ original complaint alleged that Dr. Cohen was liable to plaintiff Randy Grodin as a result of malpractice in not administering a pregnancy test to defendant Roberta Grodin after symptoms of pregnancy were brought to the doctor’s attention. Plaintiffs’ amended complaint asserted that defendant Roberta Grodin was negligent in her failure to seek proper prenatal care, for failure to request that Dr. Cohen perform a pregnancy test and her failure to inform Dr. Cohen that she was taking tetracycline.
+The trial court granted Roberta’s motion for summary judgment, GCR 1963, 117.2(1), basing the dismissal on a mother’s immunity from suit for her alleged negligence under the second exception to the general abrogation of parent-child tort immunity provided by Plumley v Klein, 388 Mich 1; 199 NW2d 169 (1972).
+In Plumley, supra, the Michigan Supreme Court in overruling the doctrine of intrafamily tort immunity held:
+"We are persuaded that the modern rule best serves the interests of justice and fairness to all concerned. The case of Elias v Collins, [237 Mich 175; 211 NW 88 (1926)] supra, which provides for intra-family tort immunity is overruled. A child may maintain a lawsuit against his parent for injury suffered as a result of the alleged ordinary negligence of the parent. Like our sister states, however, we note two exceptions to this new rule of law: (1) where the alleged negligent act involves an exercise of reasonable parental authority over the child; and (2) where the alleged negligent act involves an exercise of reasonable parental discretion with respect to the provision of food, clothing, housing, medical and dental services and other care.” Plumley, supra, 8. (Footnote omitted.)
+The trial court in the present case analyzed Plumley’s second exception by stating:
+"The policy underlying the exceptions is 'that within the framework of parental authority and discretion, parents must be accorded immunity from litigation which in fact would disrupt family harmony and unity. The immunity is limited to transactions which are essentially parental.’ Lemmen v Servais, 39 Wis 2d 75; 158 NW2d 341, 344 (1968); see also Schenk v Schenk, 100 Ill App 2d 199; 241 NE2d 12 (1968). Thus, this Court finds that Plumley’s second exception asks essentially whether the defendant’s behavior involves the exercise of parental discretion in an area in which such discretion is ordinarily or reasonably employed.”
+The Supreme Court in Womack v Buchhorn, 384 Mich 718; 187 NW2d 218 (1971), determined that a child could bring a negligence action against a tortfeasor for negligently inflicting prenatal injuries.
+"In the light of the present state of science and the overwhelming weight of judicial authority, this Court now overrules Newman v Detroit [281 Mich 60; 274 NW 710 (1937)]. We hold that an action does lie at common law for negligently inflicted prenatal injury. We adopt the reasoning and result of the New Jersey Supreme Court (which also involved a common-law action):
+" 'And regardless of analogies to other areas of the law, justice requires that the principle be recognized that a child has a legal right to begin life with a sound mind and body. If the wrongful conduct of another interferes with that right, and it can be established by competent proof that there is a causal connection between the wrongful interference and the harm suffered by the child when born, damages for such harm should be recoverable by the child.’ Smith v Brennan, (1960), 31 NJ 353, 364, 365, (157 A2d 497, 503).” Womack v Buchhorn, supra, 725.
+Womack, supra, does not limit those who may be held liable for the negligently inflicted injury. The rationale of Smith v Brennan, supra, adopted by the Michigan Supreme Court in Womack, refers only to wrongful conduct of "another” for which compensable damages are available. As a result, the litigating child’s mother would bear the same liability for injurious, negligent conduct as would a third person.
+A woman’s decision to continue taking drugs during pregnancy is an exercise of her discretion. The focal question is whether the decision reached by a woman in a particular case was a ’’reasonable exercise of parental discretion”. Plumley, supra, 8.
+This Court in discussing the reasonableness of an allegedly negligent defendant’s conduct, laid the following analytical framework for the determination of the reasonableness of such conduct:
+"The reasonableness of the risk of harm whether analyzed in terms of duty, proximate cause or a specific standard of care turns on how the utility of the defendant’s conduct is viewed in relation to the magnitude of the risk thereby created. Moning v Alfono, [400 Mich 425; 254 NW2d 759 (1977)] supra. In any case where there might be a reasonable difference of opinion regarding how that balance should be resolved, the question is for the jury, subject to instructions as to the legal conclusion to be drawn from its determination. Moning v Alfono, supra, Bonin v Gralewicz, 378 Mich 521; 146 NW2d 647 (1966).” Meyers v Robb, 82 Mich App 549, 554; 267 NW2d 450 (1978), lv den 403 Mich 812 (1978).
+The summary judgment of the trial court in this case precluded testimony on either the utility of the use of tetracycline for the maintenance of the mother’s health, or the risk created for plaintiff Randy Grodin.
+We reverse and remand for a determination of the "reasonableness” of the alleged negligent conduct. A determination that the defendant’s conduct was unreasonable would take the action out of the second exception of Plumley, supra, and thus parental immunity would not be available to defendant Roberta Grodin. A determination by a jury that the defendant mother acted reasonably in her exercise of her discretion would give rise to Plumley parental immunity and absolve her of liability.
+In abolishing parental immunity and in providing for but two exceptions, our Supreme Court certainly was aware of the language utilized by our sister state, Wisconsin, in stating its exceptions to parental immunity. In Goller v White, 20 Wis 2d 402; 122 NW2d 193 (1963), cited in Plum ley, supra, the Wisconsin court phrased the second exception as follows:
+"(2) where the alleged negligent act involves an exercise of ordinary parental discretion with respect to the provision of food, clothing, housing, medical and dental services, and other care.” Goller, supra, 413. (Emphasis added.)
+Instead of "an exercise of ordinary discretion”, Plumley excepts an act involving "an exercise of reasonable discretion”. The choice of the word "reasonable” appears deliberate and would seem to us to require a determination by the finder of fact, thus precluding summary judgment.
+Defendant Roberta Grodin urges this Court to find the plaintiffs’ position untenable because the plaintiffs alleged two seemingly inconsistent claims as to the negligence of defendant Dr. Cohen and defendant Roberta Grodin. GCR 1963, 111.9(2) allows for the pleading of inconsistent claims. We find no error in that regard.
+We reverse and remand for a determination of the reasonableness of defendant Roberta Grodin’s conduct pursuant to the factors set forth for that determination in Meyers v Robb, supra.
+Reversed and remanded.
