@@ -1,0 +1,25 @@
+---
+court: "Michigan Court of Appeals"
+docket: "101645"
+decided: "1988-08-01"
+citations: ["170 Mich. App. 466"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Kelly, P.J., and Holbrook, Jr., and Cynar, JJ."]
+parties: ["WALTERS v SECRETARY OF STATE"]
+source_url: "https://static.case.law/mich-app/170/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2291067
+cites_cases: ["157 Mich App 326", "403 NW2d 552", "406 NW2d 831", "428 Mich 904", "97 ALR2d 1367"]
+---
+
+# Walters v. Secretary of State
+
+## Majority (Kelly, P.J.)
+
+Kelly, P.J.
+On June 23, 1987, the Supreme Court vacated our opinion of January 21, 1987, reported at 157 Mich App 326; 403 NW2d 552 (1987), and ordered this case remanded to the St. Clair Circuit Court "for a full explanation of that court’s determination that the petitioner’s refusal to submit to a chemical test was reasonable.” Walters v Secretary of State, 428 Mich 904; 406 NW2d 831 (1987).
+On August 3, 1987, the circuit court conducted a hearing on remand and on November 18, 1987, filed its opinion entitled "Clarification of Court’s Opinion.” The circuit court expressly disclaimed adhering to a formula for determining whether an individual’s refusal to take the chemical test pursuant to MCL 257.625f; MSA 9.2325(6) was reasonable. The court held that each case required examination on its own factual context to determine the merits of an individual refusal. The court examined the factual context and determined that petitioner had voluntarily submitted to the roadside preliminary breath test but thereafter his cooperative propensity became sidetracked by the officer’s use of uncomfortable restraints. "He complained repeatedly to the arresting officer that the handcuffs were too tight and were hurting his wrists. Both the arresting officer and the petitioner testified at the administrative hearing that petitioner was in an extremely upset and aggitated [sic] state, and apparently in a great deal of discomfort due to the tightness of the handcuffs.” This extreme and agitated state may have contributed to a misunderstanding of the consequences explained to the petitioner by the police officer concerning the effect of his failure to take a chemical test at the station. The circuit judge paraphrased the officer’s testimony at the administrative hearing as implying that the petitioner "could lose” his license if he refused to take the test but it was an equivocal communication and may have implied that he would possibly not lose his license as a result of such refusal. The court concluded that "there is some dispute as to whether or not the arresting officer paraphrased petitioner’s right to a chemical test in a misleading manner.” On these facts the court "found that petitioner was reasonable in refusing to take a second breath test and that he did not unreasonably refuse to take a chemical test.”
+We believe that the circuit court’s review was tantamount to a de novo review which improperly substituted the circuit court’s judgment for the hearing officer’s judgment. The circuit court’s review of the hearing officer’s findings is limited to a determination of whether those findings are supported by competent, material and substantial evidence on the whole record. Const 1963, art 6 § 28. In our previous review we employed the improper standard of whether the circuit court’s finding of reasonableness under the special circumstances and peculiar facts of this case was supported by the record. What we should have determined was whether or not the hearing officer’s determination and findings were supported by competent, material and substantial evidence on the whole record. Although both sides agree that petitioner was in some state of agitation at the time the arresting officer read him his rights with respect to refusal of a Breathalyzer test, there is support for the hearing officer’s determination that petitioner was read his rights and was not misled by the paraphrasing of his rights by the officer. It may be that the circuit court was persuaded that petitioner’s repeated statements that he would not take a second Breathalyzer test because he had already taken the first one were indicative of his failure to understand the nature of the arresting officer’s second request and the possible repercussions of his refusal. However, this does not meet the question of whether the hearing officer’s findings were supported by the record. We believe they are. Given the hearing officer’s ability to assess credibility, we believe there is room for interpretation that, although agitated and upset, the circumstances were not such as to constitute a reasonable refusal to take a Breathalyzer test.
+We reverse the circuit court decision of February 11, 1985, and reinstate the administrative hearing officer’s finding that petitioner unreasonably refused to take the chemical test. The Secretary of State Driver’s License Appeal Division’s order suspending petitioner’s driver’s license for refusing to take a chemical test is reinstated.
