@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-3971"
+decided: "1977-11-07"
+citations: ["79 Mich. App. 387"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Quinn, P. J., and Allen and M. F. CÁvanagh, JJ."]
+parties: ["BELCHER v MAYOR OF THE CITY OF ANN ARBOR"]
+source_url: "https://static.case.law/mich-app/79/cases/0387-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2162258
+cites_cases: ["102 NW 1029", "111 Am St R 430", "139 Mich 548", "16 Mich 283", "196 NW2d 761", "226 NW 895", "236 NW 893", "248 Mich 134", "254 Mich 641", "387 Mich 436", "5 Am Ann Cas 861", "69 LRA 184", "97 Am Dec 141"]
+---
+
+# Belcher v. Mayor of Ann Arbor
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is a contested election case arising out of the April 4, 1977, regular city election in Ann Arbor, Washtenaw County, Michigan. Defendant Albert H. Wheeler was issued a certificate of election to the office of Mayor of the City of Ann Arbor on the basis of official election returns showing that he had won by a single vote, having received 10,660 votes.
+Thereafter, plaintiff Louis D. Belcher, who had received 10,659 votes, began this lawsuit. It is based on allegations that 23 illegal votes were cast at the election. Plaintiff asserted that 20 of the voters did not live within the city boundaries and therefore were unqualified voters because improperly registered. The allegations as to the impropriety of the remaining 3 votes are not presently before this Court.
+Visiting Circuit Judge James J. Kelley was assigned to this case. On October 3, 1977, trial commenced, and 17 of the 20 voters alleged to live outside the city testified that although they were registered in Ann Arbor and had voted in the April 4, 1977, Ann Arbor city election they did not live within the city boundaries.
+Plaintiff then advised the court that he intended to recall each voter witness and ask for whom each illegal vote was cast. After a brief recess, the trial court ruled, over objection, that testimony as to how each unqualified voter cast his or her vote was admissible.
+Plaintiff then began recalling the voter witnesses to the stand. Three of them answered the question, with 2 having voted for Mr. Wheeler and 1 having voted for Mr. Belcher. However, Susan Van Hattum, when recalled to the stand, refused to answer taking the position that she had a legal right not to reveal for whom she voted. After a discussion with her, the trial judge held her in contempt of court. Thereafter, Diane Lazinsky, when recalled to the stand, also refused to answer the question, taking a position similar to that of Ms. Van Hattum. The lower court then ordered a continuance of the trial.
+Defendant mayor filed an application for leave to appeal in this Court together with a motion for immediate consideration and a motion for stay of proceedings. On October 10, 1977 this Court issued an order granting the motion for immediate consideration and the motion for stay of proceedings. Disposition of the application for leave to appeal was reserved so as to give other parties an opportunity to file pleadings with this Court.
+Since then a motion for immediate consideration, a motion to intervene, and a motion to quash subpoenas have been filed by Ms. Van Hattum, Ms. Lazinsky, and the American Civil Liberties Union. Additionally, an answer in opposition to the application has been filed by plaintiff, and an answer in support of the application has been filed by the City Clerk of the City of Ann Arbor.
+Michigan’s earlier state constitutions provided for voting by ballot except for township offices. Const 1850, art 7, § 2; Const 1908, art 3, § 7. The present constitution provides for voting by secret ballot in all elections. Const 1963, art 2, § 4. The use of the word "ballot” has long been construed by the Michigan Supreme Court to mean a secret vote, as distinguished from an announced vote. People v Cicott, 16 Mich 283; 97 Am Dec 141 (1868), overruled on other grounds, Petrie v Curtis, 387 Mich 436; 196 NW2d 761 (1972), Detroit v Board of Inspectors of Election, 139 Mich 548; 102 NW 1029; 111 Am St R 430; 69 LRA 184; 5 Am Ann Cas 861 (1905).
+Further, the law is well established that a legal and qualified voter is privileged from testifying as to the candidate for whom he cast his vote; and a qualified voter is not deprived of his privilege of refusal to testify as to the contents of his ballot where the ballot itself is void. 26 Am Jur 2d, Elections, § 347, p 166.
+However, it is also settled law in Michigan that the constitutional right of secrecy in voting does not extend to persons who are not qualified to vote under the constitution. People v Cicott, supra, Gardner v Board of School District No 6, Leoni Twp, 248 Mich 134; 226 NW 895 (1929), Thompson v Cihak, 254 Mich 641; 236 NW 893 (1931). A person who admits that he voted without proper qualifications can, in a judicial proceeding, be required to disclose how he voted. In the present case, determining for whom the illegal votes were cast could prevent manifest injustice if more of the qualified electors voted for plaintiff than for the defendant mayor. That is, the illegal votes of unqualified persons should not elect to office someone whom the qualified voters would not have elected to office.
+This is not to imply that any of the 20 voters, including Ms. Van Hattum and Ms. Lazinsky, themselves acted improperly or illegally. From the record it appears that they went to the proper office for registration, stated their correct addresses, and were accepted for registration. The error occurred because the city officials taking the registration believed the addresses given lay within the city limits. But even though the error was inadvertent both on the part of those registering and the city officials taking the registration, the 20 persons involved were not qualified to vote. To them the right of secrecy in voting does not extend. Any other rule would permit, as it would here, nonresidents to elect to office a person not elected by resident qualified voters, or in the alternative, force a new and expensive election.
+The motion for immediate consideration and the motion to intervene are hereby granted. The motion to quash subpoenas is hereby denied. The application for leave to appeal from the interlocutory order is hereby denied for failure to persuade the Court of the need for immediate appellate review, it appearing that the trial court correctly followed the law. A public question being involved, no costs are allowed.
