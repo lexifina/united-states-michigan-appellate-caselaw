@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "62782"
+decided: "1983-02-09"
+citations: ["123 Mich. App. 140"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. F. Walsh, P.J., and Allen and M. F. Cavanagh, JJ."]
+parties: ["SILLER v EMPLOYERS INSURANCE OF WAUSAU"]
+source_url: "https://static.case.law/mich-app/123/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2229210
+cites_cases: ["120 Mich App 568", "264 NW2d 19", "292 NW2d 207", "327 NW2d 521", "80 Mich App 439", "96 Mich App 271"]
+---
+
+# Siller v. Employers Insurance of Wausau
+
+## Majority (M. F. Cavanagh, J.)
+
+M. F. Cavanagh, J.
+After being injured by an automobile, the plaintiff was entitled to receive benefits under two different insurance policies, one of which was carried by her parents and one of which was carried by her employer and had been issued by the defendant. Plaintiff collected payments for her hospital and medical expenses under the insurance policy carried by her parents and then filed a claim with the defendant to collect for these expenses under the defendant’s policy. Defendant refused to pay the claim, citing the coordination of benefits clause contained within its master policy. Plaintiff filed suit against the defendant, and both parties moved for summary judgment. The trial court granted a summary judgment in favor of the plaintiff and also granted penalty interest, pursuant to MCL 500.2006; MSA 24.12006. Defendant appeals by right.
+Defendant raises two issues on appeal. First, the defendant argues that its coordination of benefits clause is valid and enforceable and requires that any benefits owed to the plaintiff be reduced by the amount the plaintiff received under her parents’ insurance policy. Second, the defendant argues that the trial court improperly assessed the penalty interest provided for in MCL 500.2006; MSA 24.12006. We disagree and affirm.
+The insurance policy in question is subject to the provisions of the uniform disability insurance policy provisions law, MCL 500.3400 et seq.; MSA 24.13400 et seq. The purpose of this law is to provide for standardized language within insurance clauses so that disability insurance policies will be substantially uniform throughout the states.
+The disability insurance clauses provided for in the act can be divided into two categories. First, the act provides for mandatory provisions which must appear in each policy issued to any person within this state, and these provisions must be stated in the words which appear in the relevant sections. See MCL 500.3407-500.3424; MSA 24.13407-24.13424. Second, the act provides for optional provisions which, although their inclusion in a policy is optional, must also be stated in the words which appear in the relevant sections of the act. See MCL 500.3430; MSA 24.13430, and MCL 500.3432-500.3454; MSA 24.13432-24.13454.
+In comparing the defendant’s coordination of benefits clause with the act’s sections setting forth the language dealing with this matter, MCL 500.3438, 500.3440; MSA 24.13438, 24.13440, it is apparent that they are not the same. While the language of these optional clauses may be varied with the insurance commissioner’s approval, the record indicates that such approval was not requested or granted in this case. We conclude that the defendant’s failure to include in its insurance policy the explicit statutory language pertaining to coordination of benefits clauses renders the policy’s coordination of benefits clause invalid.
+In light of our conclusion that the coordination of benefits clause in the defendant’s insurance policy is invalid under the uniform disability insurance policy provisions law, we hold that the defendant is not entitled to reduce the benefits owed the plaintiff under its policy by the amount the plaintiff received under her parents’ insurance policy. Plaintiff is entitled to collect the full benefits payable pursuant to the provisions of the defendant’s disability insurance policy.
+Defendant next argues that the trial court erroneously assessed a 12% interest penalty against the defendant, pursuant to MCL 500.2006; MSA 24.12006. Defendant reasons that it should not be penalized as a recalcitrant insurer when it was only reasonably asserting that it was not liable for the benefits because of its coordination óf benefits clause.
+MCL 500.2006; MSA 24.12006 provides in pertinent part:
+"(1) * * * Failure to pay [insurance] claims on a timely basis or to pay interest on claims as provided in subsection (4) is an unfair trade practice unless the claim is reasonably in dispute.
+"(4) When benefits are not paid on a timely basis the benefits paid shall bear simple interest from a date 60 days after satisfactory proof of loss was received by the insurer at the rate of 12% per annum, if the claimant is the insured or an individual or entity directly entitled to benefits under the insured’s contract of insurance.”
+Thus, under the statute, an insurer may refuse to pay a claim and be relieved of paying interest on the claim only when "the claim is reasonably in dispute”. Otherwise, an insured is entitled to 12% interest where an insurer does not timely pay the benefits owed to the insured. Fletcher v Aetna Casualty & Surety Co, 80 Mich App 439, 445; 264 NW2d 19 (1978). The question we must answer is whether the facts of this case show that the claim was reasonably in dispute.
+Cases which have construed the above section have involved claims in which the amount of loss or the accuracy of the account was in dispute. See O J Enterprises, Inc v Ins Co of North America, 96 Mich App 271; 292 NW2d 207 (1980). Here, the defendant declined to pay benefits on the basis of its coordination of benefits clause contained in its policy; the defendant never questioned the amount of loss nor the accuracy of the account. We do not think the plaintiff’s claim for benefits was "reasonably” in dispute when the defendant refused to pay based on its invalid contract clause. Defendant may not include a contract clause in its insurance policy which is invalid in light of explicit statutory requirements, of which the defendant is deemed to be aware, and then claim it reasonably denied liability for benefits based upon such an invalid clause. The defendant rejected this claim at its own risk; its interpretation of the statutory requirements relating to its insurance policy being erroneous, the defendant properly owes the plaintiff interest on her claim pursuant to MCL 500.2006; MSA 24.12006. See Nash v Detroit Automobile Inter-Ins Exchange, 120 Mich App 568; 327 NW2d 521 (1982). Furthermore, "[i]f this result seems harsh, it must be remembered that the defendant had full and unimpeded use of the sum involved during this dispute”. Nash, supra, p 573.
+Affirmed. Costs to plaintiff.
