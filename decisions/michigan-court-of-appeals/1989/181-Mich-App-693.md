@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "108510"
+decided: "1989-08-30"
+citations: ["181 Mich. App. 693"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and Hood and Marilyn Kelly, JJ."]
+parties: ["LEVINSON v SKLAR"]
+source_url: "https://static.case.law/mich-app/181/cases/0693-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2307929
+cites_cases: ["155 Mich App 348", "162 Mich App 271", "164 Mich App 164", "173 Mich App 215", "173 Mich App 319", "285 NW2d 451", "399 NW2d 511", "412 NW2d 709", "416 NW2d 373", "432 Mich 527", "433 NW2d 360", "433 NW2d 410", "443 NW2d 354", "80 ALR2d 368", "92 Mich App 759"]
+---
+
+# Levinson v. Sklar
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal as of right from the circuit court’s orders dismissing their medical malpractice action against defendants. The claims against defendants Drs. Trotsky, Stroud, and Schwartz, and against Associates in Dermatology were found barred because of the statute of limitations. MCR 2.116(C)(7). The claims against Dr. Sklar and Woodland Medical Group were dismissed after the court granted their motion to strike plaintiffs’ supplemental witness list naming a new expert. Plaintiffs appeal from both summary disposition orders. We reverse.
+Dr. Sklar was Betty Levinson’s internist. He treated her from 1975 through 1984. Mrs. Levinson saw Dr. Trotsky, an ear, nose and throat specialist, on August 29, 1980. She complained of a severe ringing in her ears. Mrs. Levinson also treated at Dermatology Associates from September, 1975, through June 7, 1983, for skin lesions and hair loss. There, she saw Drs. Stroud and Schwartz.
+Mrs. Levinson’s brain tumor was first diagnosed on October 31, 1985. She had surgery three weeks later and was discharged from the hospital on December 23, 1985. In late July, 1986, Mrs. Levinson’s daughter-in-law suggested that she contact an attorney to investigate possible malpractice. Betty and her husband, Milton, saw an attorney on August 14. They filed their original complaint on September 30, 1986.
+On appeal, plaintiffs allege that the trial court erred in dismissing their claims against Drs. Trotsky, Stroud and Schwartz based on the statute of limitations. They argue there was a genuine issue of fact concerning when Mrs. Levinson discovered or should have discovered her claim.
+A malpractice action must be brought within two years of the accrual date or within six months after the plaintiff discovers or should have discovered the existence of the claim. MCL 600.5805(4); MSA 27A.5805(4), MCL 600.5838; MSA 27A.5838.
+Plaintiffs did not file their claim within the two-year period. They rely on the six-month discovery rule. In response to the motion for summary disposition, they filed an affidavit from a neuropsychologist, Dr. Bast. Dr. Bast stated that Mrs. Levinson was suffering from bilateral cerebral dysfunction characterized by loss of cognitive function, severe deterioration of both short-term memory and potential for new learning. Plaintiffs argued that, because of the effects on her of the brain surgery, Mrs. Levinson could not have discovered her malpractice claim before July, 1986.
+When a motion is submitted under MCR 2.116(C)(7), the court must consider any affidavits, pleadings, depositions, admissions and documentary evidence then filed or submitted by the parties. MCR 2.116(G)(5). Where a material factual question is raised by the documents, summary disposition under this subrule is improper. Hazelton v Lustig, 164 Mich App 164, 167; 416 NW2d 373 (1987).
+There is a conflict among panels of this Court regarding whether a statute of limitations issue must be decided by a jury or by the judge as a preliminary question. See Blana v Spezia, 155 Mich App 348; 399 NW2d 511 (1986); Leyson v Krause, 92 Mich App 759, 764-765; 285 NW2d 451 (1979). Therefore the trial court has a choice. If the judge treats it as a preliminary question, there must be an evidentiary hearing and opinion with full findings of fact and conclusions of law. Palenkas v William Beaumont Hospital, 162 Mich App 271, 284-285; 412 NW2d 709 (1987), issue not addressed 432 Mich 527; 443 NW2d 354 (1989).
+Plaintiffs’ documents established a material factual question: What effect did Mrs. Levinson’s mental condition have on the date she first acquired the ability to formulate a belief that her medical treatment has been improper? Wakefield v Hills, 173 Mich App 215, 218; 433 NW2d 410 (1988). Plaintiffs were given neither a jury trial nor an evidentiary hearing to establish when the claim should have been discovered. For that reason, we reverse the decision dismissing the claims against Drs. Trotsky, Stroud, and Schwartz and against Associates. The matter is remanded for an evidentiary hearing or trial.
+Plaintiffs also argue that Mrs. Levinson’s "traumatic insanity” tolled the statute of limitations during the time of her disability.
+MCL 600.5851; MSA 27A.5851 provides that a condition such as mental derangement will toll the statute of limitations provided the disability exists at the time the claim accrues. A malpractice claim accrues at the time the health care provider discontinues serving the patient. MCL 600.5838; MSA 27A.5838.
+In this case, plaintiffs allege that Mrs. Levinson’s traumatic insanity occurred, at the earliest, on October 31, 1985. This was after the termination of her professional relationship with Drs. Trotsky, Stroud and Schwartz. Therefore, the statutory tolling provision did not serve to delay the expiration of the statute of limitations.
+Lastly, plaintiffs contend that the court erred in striking their supplemental witness list. They claim there would have been no prejudicial impact on defendants by allowing a substituted expert, and therefore the counts against Dr. Sklar and Woodland Medical Group were improperly dismissed.
+Plaintiffs originally identified Dr. Barbara Carruthers as their expert. Sometime after mediation, without leave of the court or stipulation by the parties, plaintiffs filed a supplemental witness list identifying Dr. Roy Selby as their new expert witness. Dr. Sklar brought a motion to strike the supplemental witness list because Dr. Selby had been identified as a witness after the deadline for discovery. Plaintiffs argued there was no prejudice to defendants in the substitution of Dr. Selby for Dr. Carruthers, as defendants had not yet deposed Dr. Carruthers. The judge denied the substitution, concluding it would destroy the effect of mediation. He granted the motion to strike the supplemental witness list and dismissed the claim.
+A decision whether to allow a party to add an expert witness is within the discretion of the trial judge. Butt v Giammariner, 173 Mich App 319, 321; 433 NW2d 360 (1988). Although plaintiffs’ request came within two months of the original trial date, it would not have resulted in prejudice to defendants Sklar and Woodland. The original expert witness had not yet been deposed. Further, there would not necessarily have been an effect on the mediation recommendation, since Dr. Carruthers’ testimony had not been available to the mediators. We conclude that the trial judge abused his discretion in refusing to allow plaintiffs to substitute their expert witness. Therefore, plaintiffs’ claim should not have been dismissed.
+Reversed and remanded for proceedings consistent with this opinion. We do not retain jurisdiction.
