@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "58419"
+decided: "1983-08-03"
+citations: ["128 Mich. App. 368"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P.J., and Cynar and P. J. Marutiak, JJ."]
+parties: ["PEOPLE v DUPREE"]
+source_url: "https://static.case.law/mich-app/128/cases/0368-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2220862
+cites_cases: ["105 Mich App 345", "106 Mich App 383", "113 Mich App 183", "118 Mich App 750", "212 NW2d 190", "247 NW2d 547", "249 NW2d 393", "254 NW2d 29", "306 NW2d 506", "308 NW2d 220", "317 NW2d 570", "325 NW2d 563", "390 Mich 355", "398 Mich 250", "400 Mich 181", "414 Mich 870", "447 US 231", "447 US 404", "72 Mich App 289"]
+---
+
+# People v. Dupree
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted following a nonjury trial of second-degree murder, MCL 750.317; MSA 28.549, and felony-firearm, MCL 750.227b; MSA 28.424(2). He was sentenced to consecutive prison terms of 2 years on the felony-firearm conviction and 15 to 25 years on the second-degree murder conviction. Defendant appealed as of right and this Court, in an unreported order, remanded the case to the trial court to allow defendant to file a motion for new trial. An evidentiary hearing was held on July 2, 1982, following which the trial court denied defendant’s motion for new trial. The case is now before this Court pursuant to jurisdiction retained in the remand order.
+The motion for new trial was based on an affidavit of prosecution witness Charles Franklin. Franklin stated in the affidavit and testified at the remand hearing that he had perjured himself at defendant’s trial and that, in fact, he had not seen defendant shoot the victim. The trial court denied the motion, stating that Franklin had not been a credible witness at trial and that his testimony had been cumulative and not crucial to the case.
+Witness Franklin’s trial testimony was severely weakened by several factors, including his prior inconsistent testimony, evidence of his previous felony convictions and evidence that the prosecutor had agreed to write a favorable letter to the Corrections Commission on the witness’s behalf in exchange for the latter’s testimony. The trial judge stated that he had given Franklin’s testimony little weight and had relied instead on other witnesses and on defendant’s own testimony placing himself at the scene of the crime with a gun in his hand.
+This Court will not reverse a trial court’s decision on a motion for new trial absent a clear abuse of discretion. People v Snell, 118 Mich App 750, 767; 325 NW2d 563 (1982). We have reviewed the record and conclude that the trial judge did not abuse his discretion in finding that Franklin’s recanting testimony did not render a different result probable on retrial of the case. People v Snell, supra.
+Defendant next contends that the prosecutor’s inquiry during cross-examination of defendant and reference during closing argument to defendant’s pre-arrest silence violated his rights under People v Bobo, 390 Mich 355; 212 NW2d 190 (1973), and require reversal. Defense counsel did not object to the questions or remarks at trial, which precludes reversal absent manifest injustice.
+The prosecutor’s references to defendant’s prearrest silence were an apparent attempt to impeach defendant’s direct examination testimony. In People v Bobo, the Michigan Supreme Court held that a defendant’s silence, whether prior to or after arrest, may not be used as either substantive or impeachment evidence consistent with the defendant’s Fifth Amendment privilege against self-incrimination. See, also, People v Karam, 106 Mich App 383, 388-390; 308 NW2d 220 (1981), lv den 414 Mich 870 (1982). However, the United States Supreme Court in Jenkins v Anderson, 447 US 231; 100 S Ct 2124; 65 L Ed 2d 86 (1980), held that cross-examination of a defendant concerning his pre-arrest silence, for the purpose of impeaching his direct examination testimony, does not violate the Fifth Amendment. See, also, Anderson v Charles, 447 US 404; 100 S Ct 2180; 65 L Ed 2d 222 (1980). We conclude that, under federal constitutional law, defendant’s privilege against self-incrimination was not violated.
+Notwithstanding the United States Supreme Court precedent, it is possible that the Michigan Supreme Court will continue to adhere to Bobo as a matter of state constitutional law or as a matter of evidentiary policy. Const 1963, art 1, § 17; People v Karam, supra. If a different standard for use of a defendant’s pre-arrest silence is to be formulated, it is within the exclusive province of the Supreme Court to do so. See People v Mosley (On Remand), 72 Mich App 289, 292; 249 NW2d 393 (1976), aff'd on other grounds 400 Mich 181; 254 NW2d 29 (1977).
+We have reviewed the record and find that, even if a violation occurred under the state constitution, the error did not result in manifest injustice. The reference to defendant’s pre-arrest silence was relatively brief and was not likely to influence the trial judge sitting as a finder of fact. When this issue was raised on defendant’s motion for new trial, the trial judge stated that he had not considered, defendant’s silence in making his decision. In view of the strong evidence of guilt, we decline to reverse on this basis. People v OBrien, 113 Mich App 183, 201; 317 NW2d 570 (1982); People v Jordan, 105 Mich App 345, 348-349; 306 NW2d 506 (1981).
+Defendant next contends that he was prejudiced to a degree mandating reversal because the prosecutor impeached him with evidence of prior convictions of unarmed robbery and malicious destruction of police property when, in fact, defendant’s prior convictions were for attempts to commit those crimes. Defendant did not object to the prosecutor’s questions and, in fact, testified that he had been convicted of unarmed robbery and malicious destruction of police property. In ruling on the motion for new trial, the judge stated that he had not considered the erroneous impeachment evidence in reaching his decision. We have reviewed the record and find no manifest injustice.
+Defendant next asserts that the prosecutor’s impeachment of a prosecution witness with evidence of his prior arrest resulted in reversible error. Defendant’s failure to object precludes reversal absent manifest injustice, which is not present here.
+This Court has reviewed the record and finds that defendant was afforded effective assistance of counsel under the standard set forth in People v Garcia, 398 Mich 250; 247 NW2d 547 (1976).
+Finally, we find that the court’s statements at sentencing were supported by the trial record. Defendant is not entitled to resentencing.
+Affirmed.
