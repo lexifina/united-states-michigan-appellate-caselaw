@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "128222"
+decided: "1992-03-02"
+citations: ["193 Mich. App. 141"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Sawyer, P.J., and Gillis and Marilyn Kelly, JJ."]
+parties: ["DURFY v KELLOGG"]
+source_url: "https://static.case.law/mich-app/193/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2322684
+---
+
+# Durfy v. Kellogg
+
+## Majority (Sawyer, P.J.)
+
+Sawyer, P.J.
+Plaintiff appeals from an order of the circuit court dismissing her action for failure to effect service before the expiration of the summons. We affirm.
+Plaintiff brought this action against defendant as a result of a motor vehicle accident in which plaintiff allegedly sustained injuries. The complaint was filed five days before the expiration of the period of limitation, and a summons was issued on that day. Three weeks later, plaintiff filed an amended complaint, correcting minor errors in the complaint. A new summons was issued at that time stating a new expiration date that was calculated from the filing of the amended complaint rather than from the filing of the original complaint. Plaintiff did not obtain service on defendant quickly and, after the date when the original summons would have expired, but before the expiration date listed on the second summons, plaintiff obtained an extension of the summons from the court. Plaintiff effectuated service on defendant before the expiration of that third summons. Defendant thereafter successfully obtained a dismissal of the action on the basis of the failure to obtain service before the expiration of the original summons and the failure to obtain an extension of the summons before the date the original summons would have expired.
+The question before us is whether the third summons was invalid because it was not obtained until after the expiration of the original summons or whether plaintiff had until the expiration of the second summons to obtain the third summons with the extended expiration date. We agree with the trial court that plaintiff was obligated to obtain the extension on the life of the summons before the date the original summons would have expired.
+This case appears to present a question of first impression. However, it may be resolved easily by reference to the court rules. At the time of the filing of plaintiffs complaint, MCR 2.102(D) provided that a summons expired 182 days after the date the complaint was filed. The court, however, may order that a second summons be issued for a definite period not exceeding one year from the date the complaint is filed. Id. No provision is made for extending the life of a summons merely because of the filing of an amended complaint. Indeed, such a rule would essentially vitiate the time limit on the life of a summons because a party could automatically obtain an extension merely by filing an amended complaint.
+In any event, MCR 2.102(D) makes it clear that the summons expired 182 days after plaintiff filed her complaint. The fact that a renewed summons was issued upon the filing of the amended complaint did not authorize an extension of the time for service of process. MCR 2.102(D) made it clear that the summons had to expire 182 days from the filing of the original complaint, not from the filing of the amended complaint. Accordingly, the court clerk erred in issuing the second summons with an expiration date different from that of the original summons. It is true that MCR 2.102(D) authorizes the judge to whom the action is assigned to order the issuance of a new summons with an expiration date of up to one year from the filing of the complaint, but that has not occurred in this case. The second summons, with an expiration date approximately three weeks after the expiration date of the original summons, was issued by the court clerk, not upon order of the court under MCR 2.102(D) as an extension of the life of the original summons. The court clerk has no authority to extend the life of the summons.
+Plaintiff did, however, obtain an extension of the life of the summons resulting in the issuance of the third summons, under which service of process was obtained. However, MCR 2.102(D), while authorizing the judge to order the issuance of a new, extended summons, requires that it be done within the life of the original summons, that is, within 182 days after the filing of the original complaint in this case. The extension was not obtained until more than 182 days after the filing of the complaint and, therefore, the trial judge no longer possessed authority under the court rule to order an extension of the summons. In fact, under MCR 2.102(E), the action was deemed to have been dismissed automatically when the original summons expired. See 1 Martin, Dean & Webster, Michigan Court Rules Practice, pp 65-66. Thus, the third summons was invalid because it was not issued before the expiration of the original summons.
+Plaintiff also argues that the trial court should have ordered the action reinstated pursuant to MCR 2.102(F). We disagree. One of the requirements for obtaining reinstatement of an action under that court rule is a showing that service of process was in fact made on the dismissed defendant within the time provided for in subrule D. MCR 2.102(F)(1). As discussed above, service was not obtained on defendant within the time set by the court rule. Accordingly, it was not within the trial court’s discretion to grant reinstatement of the action under subrule F.
+In summary, a summons must expire 182 days after the filing of the original complaint, unless the judge to whom the action is assigned extends the summons as provided for in MCR 2.102(D). Because service was not obtained within the life of the original summons and an extended summons was not issued within the life of the original summons, the trial court properly dismissed the action.
+Affirmed. Defendant may tax costs.
+Although the dismissal was without prejudice, MCR 2.102(E)(1), plaintiff is apparently precluded from instituting a new action because of the expiration of the period of limitation. However, we should note that the question whether a new action by plaintiff would be precluded by the statute of limitations is not before us.
+The court rule has subsequently been amended to provide that summonses expire after ninety-one days.
+A new summons was required because of an error in naming plaintiff in the original complaint and summons.
+Or ninety-one days under the current version of the rule.
