@@ -1,0 +1,34 @@
+---
+court: "Michigan Court of Appeals"
+docket: "70854"
+decided: "1984-06-04"
+citations: ["135 Mich. App. 101"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P.J., and V. J. Brennan and R. M. Daniels, JJ."]
+parties: ["CURTIS v EVENING NEWS ASSOCIATION"]
+source_url: "https://static.case.law/mich-app/135/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2243992
+cites_cases: ["118 Mich App 608", "119 Mich App 1", "160 Cal App 2d 718", "312 Mass 178", "325 NW2d 511", "325 NW2d 605", "325 P2d 659", "381 F Supp 29", "402 NE2d 23", "43 NE2d 657", "433 So 2d 429", "472 F Supp 145", "505 F2d 959", "513 SW2d 124"]
+---
+
+# Curtis v. Evening News Ass'n
+
+## Majority (R. M. Daniels, J.)
+
+R. M. Daniels, J.
+In this action for libel, defendant appeals by leave granted from a circuit court order denying its motion for summary judgment pursuant to GCR 1963, 117.2(1). Such a motion for summary judgment tests the legal sufficiency of the complaint and should not be granted unless, accepting as true all well-pled facts in the complaint, the plaintiff’s claims are so clearly unenforceable as a matter of law that no factual development could possibly justify a right to recover. See, for example, Karr v Bd of Trustees of Michigan State University, 119 Mich App 1, 3-4; 325 NW2d 605 (1982).
+Plaintiff’s complaint cites an article published in defendant’s newspaper, The Detroit News, concerning the shooting death of plaintiff’s son, Wilson Curtis. The complaint alleges that the article contained false statements in implying that Wilson Curtis was a person of immoral, unchaste, violent, and criminal character and that these character traits led to his death. We note that defendant has admitted that the article contained false statements and has published a retraction. Plaintiffs complaint alleges that publication of the false statements in the article subjected her to ridicule and scorn and damaged her reputation.
+In Postill v Booth Newspapers, Inc, 118 Mich App 608, 618; 325 NW2d 511 (1982), the Court explained the essential elements of a cause of action like that at issue here:
+"To demonstrate liability for defamation, the following elements must be proven: (a) a false and defamatory statement concerning plaintiff; (b) an unprivileged publication to a third party; (c) fault amounting at least to negligence on the part of the publisher; and (d) either actionability of the statement irrespective of special harm (defamation per se) or the existence of special harm caused by the publication (defamation per quod). ” (Emphasis added.)
+Plaintiff does not allege that the article contained any explicit or implicit reference to her. Instead, she relies on the damage to her reputation resulting from publication of false statements concerning her son. Because plaintiff failed to allege that defendant published a false and defamatory statement "concerning plaintiff’, plaintiff failed to state a claim on which relief could be granted, and the circuit court erred by denying defendant’s motion for summary judgment.
+This result is supported by decisions from other jurisdictions indicating that indirect damage to a plaintiff’s reputation resulting from defamation of a deceased relative is insufficient to support an action for libel. McBeth v United Press International, Inc, 505 F2d 959, 960 (CA 5, 1974); Justice v Belo Broadcasting Corp, 472 F Supp 145, 148 (ND Tex, 1979); Meeropol v Nizer, 381 F Supp 29, 35 (SD NY, 1974); Lee v Weston, 402 NE2d 23, 26-30 (Ind App, 1980); Coulon v Gaylord Broadcasting, 433 So 2d 429, 431-432 (La App, 1983); Gonzales v Times Herald Printing Co, 513 SW2d 124, 125-126 (Tex Civ App, 1974).
+The cases on which plaintiff relies do not support her position. In Hughes v New England Newspaper Publishing Co, 312 Mass 178, 179-180; 43 NE2d 657 (1942), the Court held:
+"The general rule is that a libel upon the memory of a deceased person that does not directly cast any personal reflection upon his relatives does not give them any right of action, although they may have thereby suffered mental anguish or sustained an impairment of their social standing among a considerable class of respectable people of the community in which they live by the disclosure that they were related to the deceased. * * * The false statement that Hughes committed suicide and left a widow did not constitute a libel on the latter. That statement, which was entirely directed against Hughes, charged him with having committed suicide in accordance with an agreement with his business associates, and clearly implied that no one else had any connection with his death. His widow was not charged with any wrongdoing or with any connection with her husband’s act. There are instances where the publication of a written statement concerning one person is of such a nature that it imports misconduct upon the part of another. To publish that a third person is an illegitimate child or that he is the husband of a faithless wife or that a married man is single and about to be married imputes immorality to the mother or wife. * * * This principle is not applicable where, as here, the natural effect of the mere statement that the husband took his own life would not cast any aspersion upon his widow.” (Citations omitted.)
+Similarly, in Kelly v Johnson Publishing Co, Inc, 160 Cal App 2d 718, 725-726; 325 P2d 659 (1958), the Court held:
+"[N]o civil action will lie for the defamation of one who is dead, unless there is a reflection upon those still living, who are themselves defamed. * * *
+"The article did not make reference to plaintiffs in any way; it was not of or concerning plaintiffs. The specific allegation is that the publication was 'of and concerning the said Cecil Lewis Thompson.’ The false statement that Thompson 'wound up a dope-sodden derelict on the shadowy San Francisco waterfront where one morning his knife-scarred body was fished from the Bay’ did not constitute a libel on his sisters. The publication did not expressly or impliedly cast any personal reflection on them. The fact that the article was false as to Thompson does not operate to give plaintiffs a right of action. * * * Plaintiffs were not charged with any misconduct or wrongdoing, or with any connection with Thompson’s habits, status, or death. The article was not directed against plaintiffs and did not tend to expose them to hatred, contempt, ridicule, or obloquy.” (Citations omitted.)
+These cases recognize the possibility that a defamatory publication concerning a deceased person may also involve actual defamation of relatives of the deceased person, but they also demonstrate that the publication at issue here was insufficient to support plaintiff’s cause of action.
+Reversed.
