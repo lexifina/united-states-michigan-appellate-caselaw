@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "98227"
+decided: "1988-01-25"
+citations: ["168 Mich. App. 127"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P.J., and B. E. Holbrook, Jr., and S. N. Andrews, JJ."]
+parties: ["THOMAS v STAFF BUILDERS HEALTH CARE"]
+source_url: "https://static.case.law/mich-app/168/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2293808
+cites_cases: ["228 NW2d 411", "320 NW2d 858", "338 Mich 121", "394 Mich 814", "399 NW2d 26", "413 Mich 444", "428 Mich 852", "430 Mich 885", "58 Mich App 439", "61 NW2d 93"]
+---
+
+# Thomas v. Staff Builders Health Care
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff worked for defendant, a temporary employment agency, as a nurse’s aide. Defendant’s employees receive work assignments over the telephone or they drive to defendant’s office and pick up their assignments. Defendant’s employees are free to reject any assignments and are required to provide their own transportation. They are not reimbursed for travel expenses.
+On May 8, 1979, plaintiff left her home at 7:05 a.m. so that she would have time to reach her 9:00 a.m. assignment, which was 9Vt. miles away. Plaintiff had been to this client’s home on two prior occasions, but claimed that she had gotten lost on both occasions. This time, plaintiff once again drove by the location and turned into a driveway to turn around. Unfortunately, as plaintiff was turning out of the driveway, she failed to see an oncoming vehicle and plaintiff’s car was hit on the right front panel. Plaintiff’s car then hit another vehicle. Plaintiff sought workers’ compensation benefits, claiming that she was totally disabled as a result of this accident, which she contended arose during the course of her employment.
+Following a two-day hearing, a hearing officer held that plaintiff’s injuries did not arise out of or occur in the course of her employment. Plaintiff appealed to the Workers’ Compensation Appeal Board. The wcab affirmed the hearing officer’s decision. Plaintiff then applied for leave to appeal to this Court, which was denied. Plaintiff then appealed to our Supreme Court, which, in turn, remanded the matter to us to consider as on leave granted. Thomas v Staff Builders Health Care, 428 Mich 852; 399 NW2d 26 (1987). We affirm the wcab’s decision.
+The findings of fact made by the wcab are conclusive, absent fraud; however, an appellate court may always review questions of law contained in the wcab’s final order. Const 1963, art 6, § 28. MCL 418.861; MSA 17.237(861). As a general rule, injuries sustained by an employee going to and from work are not compensable. Bush v Parmenter, Forsythe, Rude & Dethmers, 413 Mich 444, 451; 320 NW2d 858 (1982). Exceptions to this rule exist when (1) the employee is on a special mission for the employer, (2) the employer derives a special benefit from the employee’s activity at the time of the injury, (3) the employer paid for or furnished employee transportation as part of the employment contract, (4) the travel comprised a dual purpose combining employment-related business needs with the personal activity of the employee, (5) the employment subjected the employee to excessive exposure to traffic risks, or (6) the travel took place as a result of a split-shift working schedule or employment requiring a similar irregular nonfixed working schedule. Bush, supra, p 452, n 6. In other words, an employee is entitled to compensation when there is a sufficient nexus between the employment and the injury so that it may be said that the injury was a circumstance of the employment. Stark v L E Myers Co, 58 Mich App 439, 443; 228 NW2d 411 (1975), lv den 394 Mich 814 (1975).
+The wcab found that plaintiff received her assignments over the telephone and that the place of assignment was plaintiff’s place of work. Therefore, the wcab applied the general rule that plaintiff was not entitled to compensation because she was going to work. The wcab also found that plaintiff furnished her own transportation and was not reimbursed for her expenses. The wcab further held that defendant did not derive a special benefit from plaintiff’s activity because she was merely transporting herself to work and that plaintiff’s employment did not involve excessive traffic risks. Finally, the wcab ruled that the dual-purpose doctrine did not apply because plaintiff was merely on her way to work.
+Plaintiff argues that she was required to provide her own transportation in order to work for defendant. As such, plaintiff claims that her work assignment began when she left her home because she was on a special mission at defendant’s direction and for defendant’s benefit. We note that plaintiff was not entitled to pay until she reached her work assignment. Compare Le Vasseur v Allen Electric Co, 338 Mich 121, 123; 61 NW2d 93 (1953). Moreover, plaintiff was not reimbursed for travelling expenses. We agree with plaintiff that the unique nature of defendant’s business required plaintiff to report to various locations for work. Nevertheless, we do not see how defendant, as contrasted to any other employer, derived a special benefit from plaintiffs providing her own transportation to her first place of assignment when she did not leave from the employer’s office. Stark, supra, pp 443-444. We agree with the wcab that a different case would be presented if plaintiff was transporting a client or running an errand for a client. Here, however, plaintiff was only on her way to work, and the general rule should apply.
+Affirmed.
