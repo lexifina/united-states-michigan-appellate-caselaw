@@ -1,0 +1,50 @@
+---
+court: "Michigan Court of Appeals"
+docket: "2,497"
+decided: "1967-11-30"
+citations: ["8 Mich. App. 501"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["J. H. G-illis, P. J., and T. Gr. Kavanagh, J., concurred."]
+parties: ["CARLINI v. UNITED STATES RUBBER COMPANY."]
+source_url: "https://static.case.law/mich-app/8/cases/0501-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2062782
+cites_cases: ["110 Mich 529", "116 P 18", "169 Ark 148", "217 NYS2d 460", "227 Mich 55", "273 SW 368", "29 Misc 2d 876", "63 Wash 577", "87 ALR2d 649", "95 Mich 527"]
+---
+
+# Carlini v. United States Rubber Co.
+
+## Majority (Weipert, J.)
+
+Weipert, J.
+Plaintiff, Anthony Carlini, appeals from an order of the Macomb county circuit court dated July 11, 1966, granting defendant, United States Rubber Company, a summary judgment.
+In his complaint, plaintiff alleges that he was an employee of the defendant and that the defendant in 1958 had in effect a “suggestion plan” by which an employee submitting ideas that resulted in savings to the defendant would be rewarded. Pursuant to this plan, plaintiff - submitted three suggestions. Two of these were accepted and used and plaintiff was compensated. The third was rejected, defendant allegedly advising plaintiff that it was already under consideration by the'company.
+The defendant had promulgated certain rules and Regulations governing the plan, under which plaintiffs suggestions were submitted and received. The pertinent rules are as follows;
+“3. A suggestion that duplicates or is essentially similar to a plan under consideration by. the company will not be eligible.
+“4. A suggestion which is of material value to a present or proposed plan of the company will be awarded in direct ratio to its value. * * * ■
+“9. All- suggestions become thp property of U. S. Rubber Company, which shall have the right to use and patent them. * * *
+“12.. The decision of the suggestion committee shall be. final.”
+The awards were to be measured as follows;
+“Awards for suggestions where profit o.r .savings can be measured consisting of 20% of the estimated net savings to the company for one year. Net saving's were defined to be the total estimated gross savings of the company less United States Federal tax which the company would pay on profits or savings and a portion of expenses such as installation and equipment”’
+Other provisions were made for intangible suggestions, where savings or profits could not readily be measured, providing for. an estimated value.
+Plaintiff alleges that the compensation received for two of his suggestions was inadequate in that it was not made, pursuant to the company rule concerning awards, i.e. awards for suggestions where profit or savings can be measured consisting of 20% of the estimated net savings to the company for one year. Plaintiff further alleges that the defendant wrongfully refused him compensation for the third suggestion which was subsequently put into use by the defendant.
+The trial court entered a summary judgment for the defendant on the basis that the decision of the suggestion committee in regard to plaintiff’s rewards or lack of reward was final.
+The plaintiff appeals, contending that United States Rubber Company’s rule 12 does not prevent a judicial review of the amounts of the rewards, and that if so construed it would be against public policy as tending to injustice, oppression, and deprivation of property rights.
+The industry of counsel and our own research disclose no parallel case in this or any other jurisdiction. By close analogy, however, in jurisdictions where prize-winning contests are legal, similar provisions making the decisions of the contest judges conclusive have been held to bind the contestants, unless there is fraud, gross mistake, or lack of' good faith, or an attempt to change.the announced rules of the contest. See Davidson v. Times Printing Ca. (1911), 63 Wash 577 (116 P 18); Endres v. Buffalo Automobile Dealers Ass’n, Inc. (1961), 29 Misc 2d 876 (217 NYS2d 460); Blytheville Courier v. McCall (1925), 169 Ark 148 (273 SW 368); Annotations, 67 ALE 419, 423; 87 ALR2d 649, 673.
+Likewise, in Guthat v. Gow (1893), 95 Mich 527, 530, wherein a contract provided that the decision of the architect shall be final, the Supreme Court stated:
+“The parties having agreed upon an arbiter in this matter, the question cannot be transferred to the consideration of a jury unskilled in such matters without doing violence to the contract, unless fraud on the part of the architect be shown.”
+Guthat, supra, was held controlling in Kelly v. Public Schools of Muskegon (1896), 110 Mich 529. See, also, Strom-Johnson Construction Company v. Riverview Furniture Store (1924), 227 Mich 55.
+As Professor Corbin observes, where an agreement is described as a submission to arbitration, the arbiter, or at least the third “umpire”, is not a party in the pay of one of the parties exclusively. Moreover, a hearing is afforded, with many aspects of a court trial, including opportunity for each party to present witnesses and arguments. He goes on to.state:
+“Because of the above-stated facts, the award of an arbitrator might well be given greater weight than that of a hired engineer; but such is not the case, if the parties have agreed that the engineer’s decision shall be conclusive. If the engineer has acted in good faith after fair investigation of the facts, the courts give conclusive effect to his decision as the parties agreed.” 3A Corbin, Contracts (1960), page 124, citing cases.
+See, also, Restatement of Contracts, §§ 265, 303.
+Rule 12, however, does not say what decisions of the suggestion committee will be final. Logically it refers to decisions to be made pursuant to the esfablisted rules as to problems arising out of such a program. The rules do not give the committee arbitrary power to set the award to be given to plaintiff, nor discretionary power to reject a suggestion that is ultimately put into use. The terms of the offer establish formulae whereby the amount by which plaintiff is to be compensated shall be computed, and also specify that if an idea is used an award will be paid. The proper function of the suggestion committee then is to make decisions within the framework of the rules set out in the contract. If it does not do so, or if its decisions are based on gross or palpable mistake, the plaintiff becomes entitled to relief for breach of contract. Yet the result of the summary judgment entered below is to deny plaintiff the opportunity to inquire into the matter, foreclosing discovery of the truth- of issues put in issue by the pleadings.
+We cannot agree with defendant that plaintiff must be left remediless, simply because he has not seen fit to allege fraud. Gross mistake by the committee might not be technical fraud — and gross mistake is pleaded. Misinterpretation of this rather ambiguous contract by the committee would not be fraud. Nor should an employee of long seniority such as the plaintiff be placed in the precarious situation where he must blindly allege fraud against his employer, in order to obtain legal standing to protect what may be valuable property rights.
+For clarity our decision may be rephrased as follows: the parties admit that two contracts came into being when plaintiff accepted the terms' of defendant’s continuing offer by contributing, at two different times, what the pleadings concede to be ideas of value, acknowledged as such and used by the defendant in its business. Defendant company thereupon became obligated to perform its agreed part of the bargain. This it says, and plaintiff, denies, has been done. A third contract is also alleged by plaintiff to have been similarly formed, but-defendant asserts that the third idea submitted by its employee was already known to it. Here likewise issue is joined. ' -
+An agreed-upon provision of the two admitted contracts, and of the third disputed contract; is that “the decision of the suggestion committee shall be final.” By analogy to the prize and architect’s certificate cases we hold that provision not against, the public policy of this State. But that is not to say that the mere pleading of that provision bars plaintiff from the courts. It may be, when the facts are known and the contract is interpreted in its entirety, with respect to them, that the committee will be found to have acted within the limits of the authority conferred upon it. Or it may be that the committee will be found, to have misinterpreted or stepped outside the boundary of its competence. It cannot reasonably be contended-that the parties ever intended that the defendant’s agent reach decisions out of thin air.
+■ The record is insufficient-to allow a final ruling at this stage as to the precise boundaries of the suggestion committee’s discretionary power. We do not purport to decide more than that plaintiff should be given his day in court.
+Beversed and remanded. Costs to appellant.
+J. H. G-illis, P. J., and T. Gr. Kavanagh, J., concurred.
+Tie reeor.fi before us does not contain a full copy of, the rules and regulations. Appellant’s statement of facts (which was accepted by the appellee) and paragraph 9. of the complaint are relied on for this information.
+Tlie record before us is sparse. The trial court apparently-did not file an opinion in this matter. The defendant’s motion, f,or summary judgment was based on its claim that “under the terms and conditions of the ‘suggestion plan’ of defendant, United States Rubber Company, as set forth in paragraph 7(12) of plaintiff’s complaint, ‘the decision of the suggestion committee shall be final’, and the plaintiff herein, as a matter of law, is prohibited .from obtaining a judicial review of the award of the suggestion committee, and as a consequence thereof, there is no issue to be reviewed' it decided by the court.” Since this motion was granted we can only conclude that the trial court agreed with its reasoning;.
