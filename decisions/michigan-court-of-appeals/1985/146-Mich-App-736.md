@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "78470"
+decided: "1985-11-04"
+citations: ["146 Mich. App. 736"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Gribbs, P.J., and T. M. Burns and M. Warshawsky, JJ."]
+parties: ["PEOPLE v JONES"]
+source_url: "https://static.case.law/mich-app/146/cases/0736-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2259691
+cites_cases: ["103 Mich App 704", "127 Mich App 632", "138 Mich App 510", "140 Mich App 681", "15 ALR4th 118", "187 NW2d 404", "207 NW2d 415", "236 NW2d 473", "245 NW2d 93", "275 NW2d 777", "304 NW2d 262", "330 NW2d 634", "335 NW2d 465", "339 NW2d 509", "360 NW2d 234", "364 NW2d 783", "384 Mich 669", "395 Mich 408", "398 Mich 806", "405 Mich 482", "416 Mich 53", "417 Mich 285", "422 US 806", "46 Mich App 20", "69 Mich App 465", "69 Mich App 468", "87 ALR3d 1250"]
+---
+
+# People v. Jones
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+After a jury trial, defendant was found guilty of first-degree criminal sexual conduct, MCL 750.520b; MSA 28.788(2). Defendant was sentenced to life imprisonment with a recommendation that he not be paroled. This Court affirmed defendant’s conviction. Docket No. 45954, decided July 9, 1981 (unreported). In lieu of granting leave to appeal, the Michigan Supreme Court reversed defendant’s conviction and remanded the matter for a new trial. 417 Mich 285; 335 NW2d 465 (1983). Pursuant to the remand order, a second jury trial was held. Defendant was again found guilty as charged. Defendant was again sentenced to life imprisonment with credit for 1,981 days already served. Defendant appeals from that conviction as of right._
+Defendant first argues that the trial court committed reversible error in failing to instruct the jury on the lesser included offenses of second- and third-degree criminal sexual conduct. Defense counsel requested instructions on these lesser offenses, but told the court that defendant did not agree with his advice. Defense counsel also stated that it was his opinion that defendant’s choice was controlling. The court then asked defendant if he wished the jury to be instructed on the lesser offenses, and defendant stated that he wished the jury to be instructed only on first-degree criminal sexual conduct.
+We find that the trial court erred in failing to instruct on the lesser offenses. This Court has held that defense counsel controls strategy when there is a conflict with the defendant over a request for jury instructions. People v Thompson, 69 Mich App 465; 245 NW2d 93 (1976), lv den 398 Mich 806 (1976). There, defendant and two co-defendants were charged with first-degree felony murder. Defense counsel requested an instruction on lesser included offenses. All three defendants had requested that such instructions not be given. However, defense counsel still requested that the lesser included offense instruction be given over his client’s objection. The trial court omitted instructions as to the lesser included offenses in charging the jury. At the conclusion of the instructions, defense counsel objected and again requested instructions on lesser included offenses. This Court held that the trial court erred in following defendant’s wishes over the contrary request and objection of defense counsel. 69 Mich App 468. In coming to that result, the Court relied on Faretta v California, 422 US 806, 820; 95 S Ct 2525; 45 L Ed 2d 562 (1975), where the Supreme Court stated:
+"It is true that when a defendant chooses to have a lawyer manage and present his case, law and tradition may allocate to the counsel the power to make binding decisions of trial strategy in many areas.”
+This Court, recognizing that a criminal trial is a sophisticated undertaking requiring proper representation and a good deal of training and skill, stated that a request for jury instructions is an area within the unique competence of defense counsel. The Court construed Faretta, supra, to reserve that decision to the lawyer.
+Notwithstanding the finding of error, this Court did not reverse the defendant’s conviction. The Court noted that at the time it was not absolutely required that an instruction be given on lesser included offenses in first-degree felony murder cases. The Court then cited People v Burton, 46 Mich App 20, 24; 207 NW2d 415 (1973), where this Court previously stated:
+"The defendant having affirmatively requested that the court not instruct on the lesser offense * * * cannot on this point obtain a reversal or new trial.”
+The Court, in affirming his conviction, concluded that the defendant was not prejudiced by the omitted instructions on lesser included offenses and that he received a fair trial. Thompson, supra, p 468.
+Since Thompson, this Court has held that third-degree criminal sexual conduct is a necessarily included offense of first-degree criminal sexual conduct. People v Baker #2, 103 Mich App 704, 713; 304 NW2d 262 (1981). It is error for a trial court to refuse a request for an instruction on a necessarily lesser included offense. People v Kamin, 405 Mich 482, 493; 275 NW2d 777 (1979); People v Shelton, 138 Mich App 510; 360 NW2d 234 (1984). We find that the error is prejudicial. In People v Cavanaugh, 127 Mich App 632, 640; 339 NW2d 509 (1983), this Court stated:
+"The jury was not really given a choice between the offense convicted of and the lesser included offenses for which instructions were denied. Therefore, we cannot say that the jury could have compromised on a lesser included offense if it had had any doubts about defendant’s guilt.”
+Moreover, in Kamin, supra, p 495, the Supreme Court noted that:
+"[A] trial court’s denial of a proper request for instruction on lesser included offenses exposes a defendant to conviction on a charged offense because the jury may be reluctant to acquit one guilty only of a lesser crime. Conversely, a trial court’s refusal to instruct increases the possibility that one guilty of a lesser crime may be acquitted. Either result is unnecessary. We believe a trial court’s failure to give a properly requested instruction attacks the 'very heart of our jury trial system’. People v Hampton, 384 Mich 669, 676; 187 NW2d 404, 406 (1971).”
+In People v Adams, 416 Mich 53, 57-58; 330 NW2d 634 (1982), the Supreme Court stated:
+"In People v Chamblis, 395 Mich 408; 236 NW2d 473 (1975), this Court said that a defendant has a right to a jury determination on each element of the crime charged. The jury may find an element lacking notwithstanding overwhelming evidence to the contrary.
+"By charging an offense, the prosecutor asserts that he can establish all the elements of a necessarily included offense. Only the jury can decide which elements of the charged offense or of any necessarily included offense are present or lacking. The failure to give an instruction on necessarily included offenses may deprive the defendant of his right to have the jury, not the judge or prosecutor, find the facts and determine whether the requisite elements are present.
+"Unless a jury instructed on a greater offense is advised of the necessarily included offenses of which it may convict if it fails to find an element of the charged offense, it may, because of incomplete instruction, enter a verdict not consistent with its finding that the element was not proven beyond a reasonable doubt.
+"If the elimination of an element of the charged offense yields a lesser offense, the jury, upon due request from defendant’s lawyer, must be instructed what verdict to return if it finds that element to be lacking.” (Footnote omitted.)
+In light of these authorities, we find that defendant was deprived of the opportunity to have the jury return a verdict on the necessarily lesser included offense. This was reversible error. We therefore reverse and remand this case for proceedings consistent with this opinion. On remand, the trial court shall, upon defense counsel’s request, instruct the jury on necessarily lesser included offenses and on those cognate lesser included offenses supported by the evidence.
+We find defendant’s remaining issue to be without merit. See People v Simmons, 140 Mich App 681; 364 NW2d 783 (1985).
+Reversed and remanded.
