@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "136017"
+decided: "1993-04-06"
+citations: ["199 Mich. App. 252"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and Hood and White, JJ."]
+parties: ["PRIMAGES INTERNATIONAL OF MICHIGAN v LIQUOR CONTROL COMMISSION"]
+source_url: "https://static.case.law/mich-app/199/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1861074
+cites_cases: ["187 Mich App 305", "193 Mich App 586", "396 NW2d 204", "426 Mich 452", "466 NW2d 397", "481 US 1009", "484 NW2d 411", "89 ALR2d 815"]
+---
+
+# Primages International v. Liquor Control Commission
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant Liquor Control Commission appeals as of right a declaratory judgment entered in favor of plaintiff by the Wayne Circuit Court. In its judgment, the trial court concluded that video poker games seized by the Liquor Control Commission were not illegal gambling devices under MCL 750.303(1); MSA 28.535(1). Instead, the court held that the devices in question fell within the statutory exceptions of MCL 750.303(2); MSA 28.535(2). The judgment ordered that the games involved be returned, and permanently enjoined defendant from seizing such games in the future without evidence of their use for actual gambling. Defendant maintains that the game machines are illegal gambling devices per se and therefore subject to seizure.
+The facts in the case are straightforward. Agents of the Liquor Control Commission seized several video poker games from licensed bars. Plaintiff was the owner of the games seized and a large number of similar games. While some evidence was found linking some of the games to actual gambling, it is not disputed that no evidence was found indicating that the majority of the games had been used for gambling. This appeal concerns only those games seized as gambling devices per se without any evidence that they had actually been used for gambling.
+The machines at issue are video games that simulate playing hands of draw poker. When a player puts a quarter into the machine, it "deals” a hand of five cards, and the player determines which cards will be discarded in exchange for new cards. The player is then awarded points and free replays on the basis of the hand the player ends up with after the new cards are dealt. In order to win free replays, a player must "bet” an additional unit of play, which costs a quarter. The machines will award only up to fifteen free replays for each player, regardless of the score. The player’s free replays won and the accumulated score are displayed on the machine. While the player’s score is deleted with each new game, the free replays won stay on the machine until they are discharged by playing them. The machines do not keep any permanent record of the replays won.
+MCL 750.303; MSA 28.535 provides in relevant part:
+(1) A person who for hire, gain, or reward, keeps or maintains a gaming table, game of skill or chance, or game partly of skill and partly of chance, used for gaming, or who permits a gaming room, or gaming table, or game to be kept, maintained, or played on premises occupied or controlled by the person, is guilty of a misdemeanor, punishable by imprisonment for not more than 2 years, or a fine of not more than $1,000.00. . . .
+(2) Subsection (1) does not apply to a mechanical amusement device which may, through the application of an element of skill, reward the player with the right to replay the mechanical device at no additional cost if the mechanical amusement device is not allowed to accumulate more than 15 replays at 1 time; the device is designed so that accumulated free replays may only be discharged by reactivating the device for 1 additional play for each accumulated free replay; and the device makes no permanent record, directly or indirectly, of the free replays awarded.
+In Automatic Music & Vending Corp v Liquor Control Comm, 426 Mich 452; 396 NW2d 204 (1986), cert den 481 US 1009 (1987), our Supreme Court interpreted the foregoing provisions and concluded that a video poker game similar to those involved in this case was a gambling device per se. That decision, however, was predicated upon a specific finding that the exceptions of § 303(2) did not apply because:
+(1) it allows the accumulation of more than fifteen replays, (2) there is a button on the machine which can discharge all the free replays, and (3) there is a permanent record kept in the machine of the number of free replays awarded. Id., at 458-459.
+The machines in this case, however, do fit squarely within the three main criteria of § 303(2) in that they do not accumulate more than three replays at once, those replays cannot be discharged except by reactivating the device for an additional unit of play, and they do not keep a permanent record of the free replays awarded. Therefore they do not fit within the precise holding of Automatic Music.
+Defendant argues, however, that the video poker games still cannot fall within the statutory exceptions of § 303(2) because their operation is governed by electronic principles and, thus, they are not "mechanical amusement devices.” Defendant also asserts that the games are not "amusement devices” at all and also do not involve the "application of an element of skill.” We disagree with all three arguments.
+The statute does not give a definition of the term "mechanical amusement device.” We are therefore required to give each word of that phrase its plain or ordinary meaning. In re Lee Estate, 193 Mich App 586, 590; 484 NW2d 411 (1992). Webster’s New World Dictionary (2d ed, 1974) defines "mechanical” as "produced or operated by machinery or mechanism.” That same dictionary defines "mechanism” as "the working part or arrangement of parts of a machine” and also "any system or means of doing something.” Thus, the use of the word "mechanical” by the Legislature is not in itself very restrictive, and the ordinary meaning of the word likely includes any machine containing electrical or electronic components. As pointed out by the trial court, whether the games are operated by electronic or purely mechanical means is an inconsequential distinction.
+The statute also does not define, amusement devices. However, the plain or ordinary definition of "amusement device” is self-explanatory, and the average person would reasonably interpret the term to include the video poker games at issue. No strained legal definition can be justified if it is not supported by statute or case law.
+Finally, the statute does not refer to any particular level of skill, but instead requires "the application of an element of skill.” As the trial court noted, the decision regarding which cards to discard and which to keep in an attempt to draw a winning poker hand does involve an element of skill.
+Affirmed.
+In People v Lopez, 187 Mich App 305, 310; 466 NW2d 397 (1991), we held that even when a video poker machine otherwise complies with the provisions of § 303(2), it may still be considered an illegal gambling device where the machine is used for actual gambling purposes. That is not the case here.
