@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "79327"
+decided: "1985-07-16"
+citations: ["144 Mich. App. 388"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and M. J. Kelly and M. E. Dodge, JJ."]
+parties: ["ARROWHEAD CARRIAGES, INC v CITY OF MACKINAC ISLAND"]
+source_url: "https://static.case.law/mich-app/144/cases/0388-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2263119
+cites_cases: ["135 Mich App 154", "257 NW2d 902", "351 NW2d 908", "401 Mich 314", "7 ALR4th 732"]
+---
+
+# Arrowhead Carriages, Inc. v. City of Mackinac Island
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff is a Michigan corporation engaged in the business of providing horse and buggy tours on Mackinac Island. Defendant City of Mackinac Island regulates and limits the number of vehicles permitted to be operated on the city-owned parts of the island. Intervenor-defendant Mackinac Island Carriage Tours, Inc. (Carriage Tours) is the principal operator of horse and buggy tours on the island.
+Plaintiff filed this action to enjoin enforcement of Mackinac Island City Ordinance No. 143, § 2, which authorizes the city to control the number of vehicle licenses issued, and thereby limit the number of horse and buggy carriages operated on the city-controlled parts of the island. Prior to the commencement of this lawsuit, plaintiff had been operating six carriages on the island, which is comprised of the city and the Mackinac Island State Park. Because of the meandering and intertwining boundaries of these two governmental entities, an effective carriage tour requires vehicle licenses from both the city and the Mackinac Island State Park Commission (MISPC), a statutorily created body vested with the authority to control and manage the Mackinac Island State Park. MCL 318.61 et seq.; MSA 13.971 et seq. Under MCL 318.63(3); MSA 13.973(3), MISPC is prohibited from "permitting the use of motor vehicles” on the island and is directed to "prescribe by rule the maximum mumber of horse drawn vehicles for hire that may be licensed * * * for operation within the park”.
+In January of 1983 MISPC, in an effort to generate additional park revenues, decided to increase the number of livery licenses available to tour operators in the park. Plaintiff obtained a total of 12 licenses from MISPC and requested six new licenses from the city which, combined with its six renewed city licenses, would have doubled the size of plaintiffs operations. The city, however, refused plaintiffs request for the six new licenses because it had already issued the maximum number of licenses authorized under Ordinance No. 143.
+Plaintiff then filed this action in circuit court to enjoin the enforcement of the ordinance on the ground that it was preempted by state regulation, specifically, MCL 318.61 et seq.; MSA 13.971 et seq. Plaintiffs request for preliminary injunctive relief was denied by order dated October 24, 1983, and the parties were directed to file briefs on the merits. On April 27, 1984, the trial court issued its opinion rejecting plaintiffs argument that the local ordinance was preempted by state regulation and finding that the ordinance was not effective beyond the city limits. On May 16, 1984, an order was entered in accordance with that opinion.
+Plaintiff filed a petition for rehearing and on June 15, 1984, additional proofs were offered. An order reaffirming the earlier judgment was entered June 21, 1984. Plaintiff now appeals as of right from the orders of May 16, 1984, and June 21, 1984.
+While we are fully cognizant of the dilemma faced by plaintiff in attempting to expand its Mackinac Island business, we are not persuaded that the city ordinance conflicts with any state regulatory scheme. In a well-reasoned opinion, the trial court considered the effects of Ordinance No. 143, § 2 and MCL 318.61 et seq.; MSA 13.971 et seq., particularly in light of the activity sought to be regulated and held:
+"Both grants of authority were restricted to the promulgation and application of rules regarding affairs within their specific areas of concern. The fact that two separate corporate bodies occupy the same island, and both seek to restrict the same activity within the boundaries of their separate jurisdictions, along with the further fact that the State authority may be more liberal in the granting of licenses than the adjoining municipality will not give rise to the doctrine of regulatory pre-emption.
+"Nothing in the pleadings or, indeed, in the entire record of this case will support the claim of pre-emption as defined or articulated by plaintiffs. The rule making authority of the Park Commission is clearly restricted to the confines of the state park. The subject municipal ordinance is clearly restricted in its application to the municipal boundaries.
+We agree with the trial court’s reasoning.
+Since both governmental entities attempt to regulate the number of vehicle licenses issued within their own territorial limits, there is no direct conflict between the ordinance and the state act. Nor are we persuaded that the two regulations conflict indirectly. People v Llewellyn, 401 Mich 314, 322; 257 NW2d 902 (1977). The city’s authority to limit the number of licenses issued for vehicle operation within city limits is not impliedly preempted by the state because of the nature or history of the subject matter regulated or because of the pervasiveness of any statutory regulatory scheme. People v Llewellyn, supra, 323-324; Granger Land Development Co v Clinton County Board of Zoning Appeals, 135 Mich App 154, 158; 351 NW2d 908 (1984). There is no reason to believe that the Legislature, by its enactment of MCL 318.61 et seq.; MSA 13.971 et seq., intended to transfer to the state a responsibility that has always been shared with the City of Mackinac Island, that is, the preservation of Mackinac Island as a unique historical and cultural attraction in this state.
+The trial court rendered its opinion dismissing plaintiffs action without clearly articulating whether or not it was pursuant to GCR 1963, 117.2(3). Both parties refer to the trial court’s omission in their briefs on appeal, but advance arguments and analyses as though summary judgment had been granted as a matter of law under GCR 1963, 117.2(3). Since the trial court and both parties considered matters outside the pleadings in arguing and deciding the motion, we find that no prejudice will result to either party by a review of this case under that court rule.
+The court expressly found that no possible factual development could support plaintiffs claim that the city ordinance had been preempted by state regulation. We agree. Even assuming, as plaintiff contends, that the ability to operate a carriage tour busines on Mackinac Island requires the issuance of the same number of licenses from both the city and state licensing agencies, this predicament is not sufficient to support a finding that the state impliedly preempted the control of the number of carriages allowed to operate on the city streets.
+Affirmed.
+Sec. 2 of Ordinance No. 143 provides:
+"Number of Vehicles Licensed: Vehicles Defined.
+"(a) The number of vehicles licensed shall be limited to 55 referred to as general tour carriages for sightseeing purposes, 8 taxis, and 15 hourly drive carriages.”
