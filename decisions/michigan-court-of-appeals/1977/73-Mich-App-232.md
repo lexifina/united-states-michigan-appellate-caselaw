@@ -1,0 +1,47 @@
+---
+court: "Michigan Court of Appeals"
+docket: "27065"
+decided: "1977-01-06"
+citations: ["73 Mich. App. 232"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. E. Holbrook, P. J., and Allen and D. C. Riley, JJ.", "D. E. Holbrook, P. J., concurred."]
+parties: ["PEOPLE v McFADDEN"]
+source_url: "https://static.case.law/mich-app/73/cases/0232-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2138966
+cites_cases: ["1 Mich App 633", "137 NW2d 748", "170 NW2d 493", "18 Mich App 37", "188 NW2d 141", "188 NW2d 559", "200 NW2d 779", "210 NW2d 116", "211 NW2d 542", "31 Mich App 512", "385 Mich 244", "41 Mich App 683", "48 Mich App 79", "49 Mich App 153", "49 Mich App 160"]
+---
+
+# People v. McFadden
+
+## Majority (Allen, P. J.)
+
+Allen, P. J.
+May a trial court, acting under authority of § 48 of the Controlled Substances Act, impose a sentence of up to twice the normal sentence for a second conviction of a crime relating to drugs, without affording the defendant a hearing or other opportunity to require the people to prove the alleged prior conviction? This question of first impression is raised after defendant was found guilty by jury of delivery of a controlled substance, contrary to MCLA 335.341(l)(b); MSA 18.1070(41)(l)(b) and, on November 4, 1975, sentenced to a term of 8 to 14 years imprisonment. The maximum penalty for a single (41)(l)(b) offense is 7 years imprisonment or a fine of $5,000 or both.
+The Michigan habitual offender act, governing sentences of persons committing a second or third or more offenses, requires the filing of an information accusing the person of such prior offenses and affords that person, should he deny such charge, the right to a jury trial on the validity or truth of the prior convictions. MCLA 769.13; MSA 28.1085. Defendant argues that even though § 48 of the controlled substances law, supra, does not specifically grant a similar right of hearing, such right is or should be implicit in § 48. Fundamental due process, defendant says, would require that he be given the opportunity to require the people to prove the convictions on which the increased sentence is based, and allow the defendant to present any defenses he might have. We disagree.
+There is no express statutory requirement that the procedural safeguards of MCLA 769.13; MSA 28.1085 should be applied to MCLA 335.348; MSA 18.1070(48). The habitual offender statute last enacted in 1941 is general in nature, applying to all types of offenses. Section 48 of the Controlled Substances Act was enacted in 1966 and is specific, applying only to drug offenses. It is a rule of statutory contruction that where two statutes are or appear to be in conflict, the specific statute, enacted subsequent to the more general statute, prevails. People v Rodgers, 18 Mich App 37, 40; 170 NW2d 493 (1969). The fact that the Legislature did not write into the Controlled Substances Act the procedural requirements of the earlier act, indicates to us a legislative intent that it did not wish to provide another adversary hearing in drug cases. Furthermore, in a realistic sense the defendant was not denied due process. Represented by counsel at the sentencing hearing, he admitted that in 1955 he was sentenced in California on a marihuana charge and that at such time he was represented by counsel. The pre-sentence report also indicated that in 1969 defendant had been sentenced on a possession of narcotics charge by the Circuit Court for Genesee County. When defendant asserted that the 1969 sentence was only for carrying a concealed weapon, the trial court called a short recess, procured the circuit court file and ascertained that defendant was convicted of both carrying a concealed weapon and possession of a narcotic.
+The same statutory lack of due process claim as is made in the instant case was leveled against the consecutive sentence statute, MCLA 768.7b; MSA 28.1030(2), in People v Bonner, 49 Mich App 153; 211 NW2d 542 (1973). Our Court rejected defendant’s argument on two grounds, the second of which we find persuasive and relevant to the situation before us. After first noting that the information concerning a previous conviction was contained in the presentence report and was available to defendant, the Court said:
+"Rather, such information can be readily ascertained and contained in a presentence report as part of the 'antecedents, character and circumstances’ of the defendant. MCLA 771.14; MSA 28.1144. As in the case at bar, the defendant should be advised that he is subject to consecutive sentencing and be given the opportunity, during allocution, to explain, correct, or deny such information.
+"As we have stated in People v Zachery Davis, 41 Mich App 683, 692; 200 NW2d 779, 784 (1972), and as stated in People v Malkowski, 385 Mich 244, 249; 188 NW2d 559, 562 (1971):
+" 'It is vitally important to the defendant and to the ends of justice that the sentence be based upon accurate information.’
+"If, for some reason, a defendant contends the information in the presentence report is erroneous, the asserted facts upon which consecutive sentencing would be appropriate should be supported by proof. See People v Zachery Davis, supra. Since, in this case, defendant, while represented by counsel, admitted the operative facts, we hold his consecutive sentence to be in order.” Bonner, supra, at 161.
+Since at the sentence hearing defendant was presented with information concerning his prior drug offenses, was given an opportunity to allocute, and the accuracy of such information was confirmed, we find no violation of due process.
+Two additional grounds for reversal are raised. We find neither persuasive. In charging the jury, the court emphasized the presumption of innocence and defined for the jury the essential elements of the offense with which defendant was charged. The adequacy of instructions are reviewed as a whole rather than in small excerpts. People v Peace, 48 Mich App 79; 210 NW2d 116 (1973). While the trial court did not mention "burden of proof’ by name, the substance of the charge was fully imparted to the jury. In People v Jones, 1 Mich App 633; 137 NW2d 748 (1965), a jury charge which omitted specific reference to burden of proof but contained references to presumption of innocence was sustained. The claim of inadequacy in the charge as to reasonable doubt is not supported by the record which we find contains a statement by the court expressly mentioning proof beyond a reasonable doubt and the defendant by name.
+Affirmed.
+D. E. Holbrook, P. J., concurred.
+MCLA 335.348; MSA 18.1070(48):
+"Sec. 48. (1) Any person convicted of a second or subsequent offense under this act may be imprisoned for a term up to twice the term otherwise authorized or fined an amount up to twice that otherwise authorized, or both.
+"(2) Por purposes of this section, an offense is considered a second or subsequent offense, if, prior to his conviction of the offense, the offender has at any time been convicted under this act or under any statute of the United States or of any state relating to narcotic drugs, marihuana, depressant, stimulant or hallucinogenic drugs.”
+MCLA 769.13; MSA 28.1085.
+Defendant’s sentence and conviction on both counts was 'appealed and affirmed in People v McFadden, 31 Mich App 512; 188 NW2d 141 (1971).
+The first reason given for failure to persuade the Court of a violation of due process was that the consecutive sentence statute, unlike the habitual offender act, does not increase the maximum punishment for the second offense but merely postpones the time the second sentence commences. Therefore, "Inquiry into the validity of the prior conviction is not relevant, since if overturned on appeal or otherwise, the prisoner automatically starts serving his sentence on the subsequent conviction.” 49 Mich App 160.
+The two additional grounds for appeal are: (1) the trial court inadequately instructed the jury as to the people’s burden of proof; (2) the trial court erred in its instruction as to the definition of "reasonable doubt”.
+"The charge before us is replete with references to presumption of innocence and the question remains as to whether the requisite charge on burden of proof is present. Read as a whole, we believe that the jury was fairly apprised that the burden of proof lies on the prosecution.” Jones, supra, at 641-642.
+
+## Concurrence (D. C. Riley, J.)
+
+D. C. Riley, J.
+(concurring). I concur but write separately merely to emphasize that application of MCLA 335.348; MSA 18.1070(48) in the context of the instant facts does not offend due process. I do not read my Brother Allen’s opinion as holding that §48 permits a doubling of punishment in every case. Rather, I would leave for another day the question whether a double penalty is constitutionally permissible where the prior offense is relatively minor and the subsequent offense significantly more grave. I would also forego deciding whether a prior offense may be so remote in time that its use under § 48 to enhance punishment is constitutionally proscribed.
+Since in the present case defendant’s prior drug convictions involved not only marihuana but also cocaine and amphetamines, see People v McFadden, 31 Mich App 512, 514; 188 NW2d 141 (1971), our opinion today does not address the first issue raised in this concurrence.
