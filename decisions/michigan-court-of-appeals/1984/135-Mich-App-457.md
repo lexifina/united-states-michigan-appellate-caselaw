@@ -1,0 +1,52 @@
+---
+court: "Michigan Court of Appeals"
+docket: "70429"
+decided: "1984-06-18"
+citations: ["135 Mich. App. 457"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Allen, P.J., and V. J. Brennan and N. J. Kaufman, JJ.", "Allen, P.J., concurred."]
+parties: ["WILLIAMS v McGOWAN"]
+source_url: "https://static.case.law/mich-app/135/cases/0457-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2244044
+cites_cases: ["102 Mich App 567", "125 Mich App 223", "283 NW2d 502", "286 NW2d 81", "302 NW2d 235", "330 NW2d 22", "336 NW2d 3", "407 Mich 128", "411 Mich 862", "413 Mich 905", "415 Mich 483", "415 Mich 502", "417 Mich 1104", "42 ALR3d 229", "93 Mich App 166"]
+---
+
+# Williams v. McGowan
+
+## Majority (V. J. Brennan, J.)
+
+V. J. Brennan, J.
+Plaintiff appeals as of right from a March 4, 1983, Wayne Circuit Court order which dismissed all of plaintiff’s claims with prejudice and granted summary judgment to defendant pursuant to GCR 1963, 117.2(3).
+In her complaint, filed on or about August 18, 1976, plaintiff alleged that she was injured in an accident on October 23, 1973, when an automobile driven by defendant collided with plaintiff’s vehicle. Plaintiff claimed that the accident resulted in a serious impairment of a body function.
+In her deposition, plaintiff testified that immediately after the accident she lost consciousness three times, including once at the hospital. As a result of the accident, plaintiff claimed that she received a four-inch cut on her forehead which did not require suturing. Plaintiff also alleged that both of her arms were bruised and that she received bruises and cuts on her legs. These cuts did not require sutures.
+Plaintiff claimed that she suffered from dizziness and a severe headache immediately after the accident, as well as pain in the lower back. Furthermore, she stated that she had occasional tingling in her legs, though she did not know if it had anything to do with her back pains.
+According to plaintiff’s testimony, on the night of the accident plaintiff received emergency medical treatment at Beyer Hospital in Ypsilanti, Michigan, where she was examined, x-rayed and released.
+The day after the accident, plaintiffs sister took her to St. Joseph’s Hospital in Ann Arbor, Michigan, where she was released the same day. Plaintiff also contacted her personal physician, Gerald Stair, M.D., who examined her on October 26, 1973. Plaintiff continued treatment with Dr. Stair and she remained in bed at home for a month pursuant to his request.
+In Dr. Stair’s January 28, 1975, report, he wrote that plaintiff claimed that she still had complaints of headaches, dizziness, and lower back pains.
+Dr. Stair opined in his June 7, 1974, report that the accident "resulted in injuries to the low back and the face and was a contributing factor in patient’s earlier complaints”. However, he "would anticipate that her symptoms should have cleared by now”.
+Plaintiff also received outpatient physical therapy treatments at Beyer Hospital and she was hospitalized for a period of three weeks at St. Joseph’s Hospital for a neurological evaluation, x-rays, etc.
+Plaintiff received chiropractic treatment from V. P. Laursen, D.C., for her lower back pains for a period of over 1-1/2 years.
+Plaintiff was also examined at the request of defendant’s insurance company by Dr. Jarlath Quinn, M.D. Dr. Quinn concluded that plaintiff was not disabled and was capable of resuming her regular work duties.
+On or about August 18, 1976, plaintiff filed the instant suit. Plaintiffs claims were mediated and the parties both accepted a recommended settlement of $1,500, but plaintiff subsequently changed her mind and had her response changed to a rejection.
+On March 4, 1983, defendant brought a motion for summary judgment pursuant to GCR 1963, 117.2(3) claiming there existed no genuine issue as to any material fact and that defendant was, therefore, entitled to judgment as a matter of law. After determining that plaintiff had not established that she suffered any serious impairment of a body function, the trial judge granted the defendant’s motion and dismissed all the claims of plaintiff.
+The issue for our consideration is whether the trial court erred in granting defendant’s motion for summary judgment after concluding as a matter of law that plaintiff had not suffered a serious impairment of a body function.
+In Cassidy v McGovern, 415 Mich 483; 330 NW2d 22 (1982), reh den 417 Mich 1104 (1983), the Supreme Court modified the application of MCL 500.3135; MSA 24.13135 to allow a trial court, in certain instances, to rule on the threshold issue of a serious impairment of a body function as a matter of law, rather than giving it to the trier of fact.
+Up until Cassidy, it was generally held that the serious impairment of a body function threshold question was a question of fact, within the exclusive province of the trier of fact, except in those infrequent situations where no reasonable trier of fact could differ and the injuries were either so severe or so minimal that the court was justified in ruling on the issue as a matter of law. Abraham v Jackson, 102 Mich App 567, 570; 302 NW2d 235 (1980), lv den, reconsideration den, 413 Mich 905 (1982); Brooks v Reed, 93 Mich App 166; 286 NW2d 81 (1979), lv den 411 Mich 862 (1981).
+The Court in Cassidy concluded that permitting all cases to go to the trier of fact, except those where no reasonable trier of fact could differ, would not significantly attain the legislative objective of reducing automobile accident litigation. Thus, the Court declared:
+"Therefore, we conclude that the meaning of 'serious impairment of a body function’ is a matter to be determined by statutory construction. We hold that when there is no factual dispute regarding the nature and extent of a plaintiffs injuries, the question of serious impairment of body function shall be decided as a matter of law by the court. Likewise, if there is a factual dispute as to the nature and extent of a plaintiffs injuries, but the dispute is not material to the determination whether plaintiff has suffered a serious impairment of body function, the court shall rule as a matter of law whether the threshold requirement of MCL 500.3135; MSA 24.13135 has been met.” 415 Mich 502.
+In reaching its conclusion as to whether the threshold requirement of a serious impairment to a body function was primarily a fact question or one requiring judicial definition as a matter of law, the Cassidy Court considered several factors. First, the term is not one that is commonly used, for which the trier of fact would have a clear sense of the intended meaning. Second, if the interpretation of the phrase was left to the trier of fact, a trial would in most instances be required to determine if the threshold had been met. This would not mesh with the overall policy of reducing automobile accident litigation. Cassidy, supra, p 501.
+In light of the decision of the Cassidy Court and subsequent decisions of this Court, we find that the trial court was correct in granting defendant’s motion for summary judgment. Although a dispute exists between the parties as to the various injuries suffered by plaintiff, the record is clear that, considering the injuries in a light most favorable to plaintiff, the injuries do not reach the threshold required under MCL 500.3135; MSA 24.13135. Accordingly, the factual dispute in this case is not a dispute material to the determination of whether plaintiff has suffered a serious impairment of a body function. Therefore, the trial court was free to rule as a matter of law whether the threshold requirements of MCL 500.3135; MSA 24.13135 had been met.
+Affirmed.
+Allen, P.J., concurred.
+
+## Dissent (N. J. Kaufman, J.)
+
+N. J. Kaufman, J.
+(dissenting). I respectfully dissent. My reading of Cassidy v McGovern, 415 Mich 483; 330 NW2d 22 (1982), is that it does not apply to cases where there is a factual dispute which is material to the determination of whether there is a serious impairment of body function. In cases such as this, where the extent of plaintiffs injuries are disputed, the question of whether there has been a serious impairment of body function should be up to the trier of fact, unless no reasonable jury could view plaintiffs impairment as serious. Abraham v Jackson, 102 Mich App 567, 570; 302 NW2d 235 (1980), lv den 413 Mich 905 (1982). A grant of summary judgment is proper only when there are no material issues of fact, and this Court is liberal in determining whether a genuine issue of fact exists. Reeder v Hammond, 125 Mich App 223, 227; 336 NW2d 3 (1983).
+In this case, plaintiff was treated for three years by V. P. Laursen, a chiropractor, who reported on October 10, 1980, eight years after the accident,
+"It appears that an originally acute condition has gradually acquired all the symptoms of being chronic. * * * She was treated over a period of approximately eight months with spinal manipulation and physical therapy, however, without obtaining permanent relief. * * * She was last seen January 3, 1979, when she was told that no further improvement could be expected. Medication, spinal manipulation and physical therapy while it [sic] affords relief has not produced a cure. * * * She can be expected to experience exacerbations and remissions of symptoms in the future in direct proportion to the amount of stress to which she is exposed. * * * Perhaps vocational rehabilitation should be considered. Prognosis guarded.”
+Plaintiff also stated in her deposition that her knees have been scarred, she has been plagued by eyelid infections, she was unable to return to work for six months, and when she did return it was on "light duty” status, that she had to wear a cervical collar for six months, and that for more than six years after the accident she was unable to participate in everyday activities such as bowling, swimming, dancing, housecleaning, sewing, pottery and ceramic art work. A jury could find on the basis of this evidence that plaintiffs injuries amounted to a serious impairment of body function.
+Plaintiff may have difficulty proving that these injuries were attributable to the automobile accident; however, that does not mean that she should not have her day in court. See Brownell v Brown, 407 Mich 128; 283 NW2d 502 (1979).
