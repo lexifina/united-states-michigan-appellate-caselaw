@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "74317"
+decided: "1984-09-17"
+citations: ["137 Mich. App. 569"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Shepherd, P.J., and Beasley and W. J. Caprathe, JJ."]
+parties: ["LINDNER v LINDNER"]
+source_url: "https://static.case.law/mich-app/137/cases/0569-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2241075
+cites_cases: ["128 Mich App 396", "129 Mich App 753", "13 Mich App 395", "197 NW2d 854", "248 NW2d 272", "318 NW2d 227", "340 NW2d 102", "343 NW2d 498", "39 Mich App 568", "417 Mich 940", "71 Mich App 361", "93 ALR3d 711", "94 ALR3d 176"]
+---
+
+# Lindner v. Lindner
+
+## Majority (Shepherd,' P.J.)
+
+Shepherd,' P.J.
+This is a divorce case in which the trial court granted a declaratory judgment in favor of the wife, ruling that the inclusion of the husband’s teacher’s pension plan as a marital asset for purposes of equitable distribution did not violate MCL 38.1346(1); MSA 15.893(156X1), which makes such pensions immune from legal process. We affirm and remand for a trial on the merits.
+We recently held that all assets of the parties, whether owned jointly or separately, are considered marital assets for property settlement purposes in light of the Michigan statute which allows the court to award to a divorcing spouse any part of the real and personal estate of either party if the estate and effects otherwise awarded are insufficient to suitably support that party and any of the couple’s children entrusted to his or her care. See Bywater v Bywater, 128 Mich App 396; 340 NW2d 102 (1983), where we held that a husband’s award for pain and suffering in an automobile accident case was to be considered a marital asset even though the award was his sole property. See also Hatcher v Hatcher, 129 Mich App 753; 343 NW2d 498 (1983), where we held that a husband’s private pension plan was to be considered a marital asset.
+The instant case presents the issue of how this general rule is to be applied to a teacher’s pension plan, given the existence of MCL 38.1346(1); MSA 15.893(156X1), which exempts such funds from "* * * execution, garnishment, attachment, the operation of bankruptcy or insolvency laws, or other process of law * *
+In Public School Employees’ Retirement Bd v Wexford Circuit Judge, 39 Mich App 568; 197 NW2d 854 (1972), we held that, under the predecessor to MCL 38.1346(1), a court could not order pension funds transferred to the custody of the court. This holding does not resolve the instant case, since here the only issue is whether the trial court may take the pension into account in disposing of assets, not whether the funds themselves may be made subject to the court’s process. In Hatcher, supra, we held that the trial court has available to it a variety of ways to take such funds into account, including the vehicle of alimony and the awarding of additional assets to the wife, while allowing the husband to retain the entire pension itself. None of these methods would subject the pension funds themselves to the court’s process. See Hutchins v Hutchins, 71 Mich App 361; 248 NW2d 272 (1976), where we held similarly with regard to a State Police pension which is also immune from legal process under MCL 28.110; MSA 3.340.
+The purpose behind the rule exempting pensions from legal process is to protect the employee from claims of creditors. The marital relationship is not that of a debtor and creditor. Although a spouse is similar to a partner, the relationship is unique in the law and need not be analogized to any other type of legal entity. A spouse is a spouse. The law governing the creation and dissolution of a marriage is unique unto itself and a rule that applies to commercial transactions need not apply to a marriage where the public policy considerations relating to the protection of divorcing spouses, e.g., the desirability of adequate support and an equitable division of joint property, are entirely different. For this reason we must give a strict construction to the statute in question and hold that taking a pension into account in arriving at an equitable distribution in a divorce case is not a "process of law”, which, when strictly construed, means a writ, mandate, attachment, execution or injunction. See Black’s Law Dictionary (4th ed), p 1370.
+Affirmed. Remanded for trial on the merits.
+Costs to abide the final outcome.
+We do not look with favor on this method of resolving interlocutory issues in divorce cases. Although phrased in terms of a "declaratory judgment”, the trial court’s order is not a final judgment and a claim of appeal would not have been accepted had the posture of this case been known at the time the appeal was filed. However, to avoid further delay, we treat the claim of appeal as an application for leave to appeal, grant the application and decide the merits of this appeal. We urge trial courts to make rulings in divorce cases by way of a final judgment. We doubt that much time or expense has been saved by presenting this single issue to us, and we caution the bar that in future cases the appropriate method to review a ruling of this nature is to file an application for leave to appeal.
+The husband argues that this case is governed by Grotelueschen v Grotelueschen, 13 Mich App 395; 318 NW2d 227 (1982), lv den 417 Mich 940 (1983). Grotelueschen arguably holds contrary to our ruling, but since there the Court held that the pension had not been made a part of the marital estate and the overall property settlement was equitable, that case has minimal application to the facts of this case. We also believe that Grotelueschen has minimal precedential value in light of Bywater v Bywater, 128 Mich App 396; 340 NW2d 102 (1983), and Hatcher v Hatcher, 129 Mich App 753; 343 NW2d 498 (1983), and in view of the fact that Grotelueschen did not cite Hutchins v Hutchins, 71 Mich App 361; 248 NW2d 272 (1976).
