@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "103347"
+decided: "1988-11-08"
+citations: ["173 Mich. App. 23"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Wahls, P.J., and Hood and N. J. Kaufman, JJ."]
+parties: ["MARTIN v RAKER"]
+source_url: "https://static.case.law/mich-app/173/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2320135
+cites_cases: ["157 Mich App 716", "398 NW2d 882", "403 NW2d 210", "427 Mich 1", "427 Mich 11", "427 Mich 20", "428 Mich 905", "96 ALR3d 1064"]
+---
+
+# Martin v. Raker
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal as of right from an order granting summary disposition to defendants and denying plaintiffs’ motion for reconsideration.
+Michael Martin was employed as a part-time agricultural worker by defendant C. Raker & Sons. On June 16, 1986, Michael Martin was carrying boxes of cabbages across a wooden plank between moving trailers which were pulled by a tractor driven by defendant Timothy R. Raker. The trailers jerked due to shifting gears or acceleration, causing Michael Martin to fall between them. He was injured when the second trailer ran over him. On September 30, 1986, plaintiffs filed a negligence complaint against defendants.
+On January 9, 1987, defendants moved for summary disposition claiming that plaintiffs’ suit was barred because workers’ compensation was plaintiffs’ exclusive remedy. The lower court found that there was workers’ compensation coverage and entered an order which granted defendants’ motion for summary disposition but which also granted plaintiffs leave to amend their complaint to allege an intentional tort. Plaintiffs twice filed amended complaints which restated their claim and alleged that Michael Martin’s injuries were substantially certain to occur from, and were caused by, defendants’ intentional acts.
+On August 17, 1987, Hillsdale Circuit Court Judge Harvey W. Moes granted defendants’ summary disposition motion dismissing plaintiffs’ second amended complaint. The court found that the facts presented in plaintiffs’ second amended complaint demonstrated that there was no intentional tort under the "substantial certainty” test of Beauchamp v Dow Chemical Co, 427 Mich 1; 398 NW2d 882 (1986). The lower court denied plaintiffs’ motion for reconsideration of its prior determination that workers’ compensation was plaintiffs’ exclusive remedy.
+On appeal, plaintiffs claim that the lower court improperly made a finding of fact on the substantial certainty issue and erred in dismissing plaintiffs’ complaint. Plaintiffs argue that the issue should have been left for the jury to decide.
+In Beauchamp v Dow Chemical Co, our Supreme Court concluded that the exclusive remedy provision of the Worker’s Disability Compensation Act does not bar an employee’s intentional tort action against his employer. 427 Mich 11. The Court adopted the substantial certainty standard of intentional torts, in accordance with the Restatement of Torts, 2d. 427 Mich 20, 25. Therefore, "when the employer intended the act that caused the injury and knew that the injury was substantially certain to occur from the act, the employer has committed an intentional tort.” 427 Mich 20. The issue of whether an act was an intentional tort is a question of law for the court. MCL 418.131(1); MSA 17.237(131)(1).
+Assuming that the facts in plaintiffs’ second amended complaint are true, we agree with the lower court that defendants’ actions did not meet the substantial certainty standard for intentional torts. A claim that an employee’s injury was caused by an employer’s failure to provide safe working conditions is essentially a claim that the employee was injured by the employer’s negligence. See Beauchamp, supra, pp 23-26; Boyer v Louisville Ladder Co, Inc, 157 Mich App 716, 719; 403 NW2d 210 (1987), lv den 428 Mich 905 (1987). As in Boyer, plaintiffs’ complaint, when read as a whole, only states a negligence cause of action. Plaintiffs’ complaint does not allege an intentional tort cause of action.
+Plaintiffs further claim that the trial court erred in determining that workers’ compensation was plaintiffs’ exclusive remedy. We disagree.
+MCL 418.121; MSA 17.237(121) states:
+Any private employer not otherwise included by sections 115 and 118 may assume the liability for compensation and benefits imposed by this act upon employers. The purchase and acceptance by an employer of a valid compensation insurance policy, except in the case of domestics and agricultural employees, constitutes an assumption by him of such liability without any further act on his part, which assumption of liability shall take effect from the effective date of the policy and continue only as long as the policy remains in force, in which case the employer shall be subject to no liability other than workmen’s compensation as provided for in this act. Agricultural and domestic employees may be voluntarily included by specific indorsement to a workmen’s compensation policy in those cases where such coverage is not required.
+Plaintiff Michael Martin was a part-time agricultural worker. Defendants claim to have voluntarily assumed workers’ compensation liability for him through a section in their insurance policy which provided:
+This coverage will pay an amount equal to the benefits that would be required of an insured if the insured and his/her/its employees were subject to the Michigan’s [sic] Worker’s Disability Compensation Act of 1969. The Company will pay those amounts to the persons who would be entitled to them under the law.
+Plaintiffs argue that the endorsement was not a "specific indorsement” which was required by MCL 418.121; MSA 17.237(121) and that it is unclear what benefits Michael Martin can collect under defendants’ insurance policy. Plaintiffs’ arguments are unpersuasive.
+Apparently, defendants’ insurer paid some or all of Michael Martin’s medical expenses and sent one check to him. Defendants claim that Michael Martin filed a petition for benefits which have been paid. Plaintiffs point out that the endorsement states that it does not provide workers’ compensation coverage, but an amount equal to the benefits required by the Workers’ Disability Compensation Act. We believe it makes no difference what defendants’ insurer chose to call its coverage. Since Michael Martin has received, or defendants and their insurer are willing to pay, benefits equal to those required by the Workers’ Disability Compensation Act, Michael Martin, in effect, had workers’ compensation coverage.
+Plaintiffs further claim that voluntarily-covered agricultural workers retain their common-law right to sue their employers. Plaintiffs concede that they have found no appellate authority supporting their claim. Plaintiffs base their argument on the failure of MCL 418.121; MSA 17.237(121) to state that employers who voluntarily obtain coverage are relieved of common-law liability. Plaintiffs argue that the obvious inference is that agricultural employers are not relieved of common-law liability. We disagree.
+MCL 418.131; MSA 17.237(131) states, in relevant part, that "[t]he right to the recovery of benefits as provided in this act shall be the employee’s exclusive remedy against the employer.” We believe it is far more reasonable to conclude that, if the Legislature had intended that workers’ compensation benefits would not be the exclusive remedy for certain employees, it would have said so.
+The lower court’s order granting summary disposition to defendants and denying plaintiffs’ motion for reconsideration is affirmed.
