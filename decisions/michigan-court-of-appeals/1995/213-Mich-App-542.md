@@ -1,0 +1,29 @@
+---
+court: "Michigan Court of Appeals"
+docket: "146022"
+decided: "1995-09-22"
+citations: ["213 Mich. App. 542"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Hood, P.J., and Murphy and Fitzgerald, JJ."]
+parties: ["McCALLUM v STROH BREWERY COMPANY"]
+source_url: "https://static.case.law/mich-app/213/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1872221
+cites_cases: ["161 Mich App 370", "189 Mich App 549", "199 Mich App 67", "410 NW2d 817", "436 Mich 515", "449 Mich 293", "462 NW2d 555", "473 NW2d 716", "501 NW2d 229", "503 US 181", "536 NW2d 530"]
+---
+
+# McCallum v. Stroh Brewery Co.
+
+## Majority (Fitzgerald, J.)
+
+Fitzgerald, J.
+Plaintiff appeals by leave granted the order of the Worker’s Compensation Appeal Board that affirmed with modification the decision of the hearing referee and allowed defendant to coordinate a lump sum payment made to plaintiff with plaintiff’s worker’s compensation benefits. We affirm.
+Plaintiff began working for defendant in March 1956 and continued uninterrupted employment until May 6, 1985. At that time, plaintiff stopped working because of the condition of his knees. On May 31, 1985, while plaintiff was still off work, defendant closed its plant and permanently laid off all employees. Defendant’s pension program was terminated and vested pension benefits were distributed to the employees, who had the option of taking the funds in one of three forms: an immediate lump sum cash payment, a lump sum cash payment rolled over into an individual retirement account, or an annuity. Plaintiff, who was fifty-five years of age at the time the plant closed, received a payment of $65,469.12, and chose to put the money into an ira.
+Plaintiff sought worker’s compensation benefits, alleging a disability related to the condition of his knees. In a decision mailed on November 5, 1987, the magistrate found that plaintiff’s degenerative arthritis was significantly aggravated to the point of disability by his employment with defendant. The magistrate found plaintiff to be totally disabled and granted him an open award of benefits. The magistrate also found that defendant could not coordinate worker’s compensation benefits with the lump sum payment because the payment was not a weekly pension or retirement payment pursuant to a plan or program established or maintained by defendant. MCL 418.354; MSA 17.237(354).
+Both parties appealed to the wcab. Plaintiff challenged the method by which the magistrate calculated benefits. Defendant argued that plaintiff failed to carry his burden of proving the existence of a work-related disability. Defendant also contended that if plaintiff was entitled to benefits, the benefits should be coordinated with the after-tax value of the lump sum payment. In a decision entered on October 2, 1991, the wcab affirmed with modification the decision of the hearing referee. The wcab found that plaintiff established that his degenerative joint disease was either caused or aggravated by his employment. The wcab also found that the magistrate correctly calculated the benefit to which plaintiff was entitled. Finally, the wcab found that defendant funded one hundred percent of the pension plan from which plaintiff was paid the lump sum. Relying on Barr v Stroh Brewery Co, 189 Mich App 549; 473 NW2d 716 (1991), the wcab concluded that defendant was entitled to coordinate the worker’s compensation benefits due plaintiff against the entire lump sum payment.
+Plaintiff first claims that the wcab erred in allowing defendant to coordinate benefits with the lump sum payment because the payout constituted severance pay. Plaintiff also contends that even if coordination is permissible, it should be limited to the single week in which the payout was received. These arguments were addressed and rejected in Drouillard v Stroh Brewery Co and Riss v Stroh Brewery Co, 199 Mich App 67; 501 NW2d 229 (1993), aff'd 449 Mich 293; 536 NW2d 530 (1995).
+In an issue of first impression, we are asked to determine whether coordination of benefits can begin before plaintiff actually begins receiving payments from the ira into which the lump sum payment was placed. We conclude that coordination cannot begin until plaintiff begins receiving payments. When plaintiff received the lump sum payment, he rolled the entire amount into an ira. No tax consequences resulted from this transfer. 26 USC 402(a)(5)(c). When plaintiff begins withdrawing funds from the ira, these payments will be the functional equivalent of pension payments. Pursuant to MCL 418.354(9); MSA 17.237(354)©), plaintiff will be required to provide defendant with a properly executed release of information. This release will entitle defendant to receive information regarding the benefit to be paid to plaintiff.
+The purpose of enacting legislation to allow coordination of benefits under the Worker’s Disability Compensation Act was to reduce costs and eliminate duplicate recovery of benefits. Romein v General Motors Corp, 436 Mich 515, 552; 462 NW2d 555 (1990), aff'd 503 US 181; 112 S Ct 1105; 117 L Ed 2d 328 (1992). Assuming that plaintiff remains disabled and continues collecting worker’s compensation benefits, he will not be receiving duplicative benefits until he begins receiving payments from the ira. Coordination as allowed by Drouillard, supra, can properly begin at this time. To allow defendant to coordinate worker’s compensation payments against benefits that have not been received would result in a windfall to defendant and would be inconsistent with the liberal construction traditionally given to the WDCA. McGillis v Aida Engineering, Inc, 161 Mich App 370, 374; 410 NW2d 817 (1987).
+Affirmed.
