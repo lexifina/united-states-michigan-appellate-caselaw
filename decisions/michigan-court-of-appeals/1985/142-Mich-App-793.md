@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77492"
+decided: "1985-05-08"
+citations: ["142 Mich. App. 793"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Danhof, C.J., and T. M. Burns and Beasley, JJ.", "T. M. Burns, J., dissented."]
+parties: ["BESSINGER v DEPARTMENT OF CORRECTIONS"]
+source_url: "https://static.case.law/mich-app/142/cases/0793-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2266464
+cites_cases: ["104 S Ct 3227", "113 Mich App 423", "131 Mich App 600", "317 NW2d 870", "345 NW2d 697", "385 F2d 408", "418 US 539", "418 US 566", "51 ALR3d 111"]
+---
+
+# Bessinger v. Department of Corrections
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals as of right from an order of the circuit court which affirmed the decision of a Department of Corrections hearing officer, but which modified the sanction imposed. Defendant challenges the authority of the circuit court to modify the penalty. We agree with defendant and reverse the decision of the lower court.
+Following a hearing, a Department of Corrections hearing officer found that Marcellia Lawson, a visitor at Southern Michigan Prison to see plaintiff, "did knowingly bring contraband into the prison in violation of prison rules”. The hearing officer upheld a decision by Deputy Warden Elton Scott permanently placing Ms. Lawson on a disapproved visitor list. Plaintiff, in propria persona, petitioned the circuit court for a writ of mandamus, contending that the prison rule involved herein was discriminatorily enforced against him and that the punishment imposed was excessively severe. According to plaintiff, permanent visitor disapproval is never imposed for the type of violation here, i.e., Ms. Lawson was caught attempting to smuggle currency into the prison. Plaintiff asserts that a six-month restriction is normal and that such restrictions are also generally imposed for more serious violations such as smuggling drugs or other contraband. Plaintiff also raised other complaints which are not at issue in this appeal. The lower court upheld the imposition of a sanction, but stated:
+"This court also concludes that under circumstances present in the instant case, restrictions on prisoner visitation for a period exceeding one year is inappropriate.”
+Defendant argues that the authority of a court to overturn or modify sanctions imposed by the executive branch of state government is limited to situations where the penalty or remedy chosen is outside the authority of the agency or reflects a clear abuse of discretion. In support of this contention, defendant cites Kelly v Liquor Control Comm, 131 Mich App 600, 603; 345 NW2d 697 (1983), and American Way Service Corp v Comm’r of Ins, 113 Mich App 423, 433; 317 NW2d 870 (1982). Defendant concludes that there was no abuse of discretion here and that, in any event, the lower court failed to articulate a factual basis in support of its decision to restrict visitor disapproval to one year in duration.
+We agree with defendant that the authority of the judiciary is limited in these matters. "The prison authorities [have] the right to adopt reasonable restrictions governing the conduct of inmates [or visitors] and the Courts ought not to interfere with prison operations in the absence of constitutional deprivation.” Vida v Cage, 385 F2d 408, 409 (CA 6, 1967). Of relevance to the instant case, prisoners enjoy protection against discrimination and they are entitled to certain due-process protections. Wolff v McDonnell, 418 US 539, 556; 94 S Ct 2963; 41 L Ed 2d 935 (1974).
+Here, plaintiff alleged such constitutional deprivation in claiming that the hearing officer arbitrarily and discriminatorily imposed a permanent restriction on Ms. Lawson’s visitation privileges within the prison. More specifically, plaintiff stated in his petition to the lower court that he "does not challenge the Policy PD-SMI-63.09 [, but, rather], challenges the severity of the punishment in light of all past cases dealing with Visitor Restrictions”. Thus, no violation of due process is alleged. However, if plaintiff’s allegations could be established, i.e., if it were shown that this is the first sanction of permanent visitor disapproval, with similar or more compelling situations having been handled by the imposition of no more than a six-month visitor disapproval, as plaintiff alleged, and such disapproval was the result of arbitrary and capricious action, or discriminatory animus, judicial intervention would be warranted.
+Nevertheless, aside from plaintiff’s allegations, there is nothing in the record to support his claim of discrimination. No facts were presented to support plaintiff’s assertion that restrictions in excess of six months were never imposed for such violations. And no facts were recited by the lower court in modifying the restriction imposed by the hearing officer. At the hearing below, the lower court simply stated it was improper "to say you can never visit again. That’s arbitrary and capricious”. The order effectuating the modification was also silent as to supporting facts.
+Thus, while we recognize that prisoners enjoy certain constitutional protections and may be entitled to judicial intervention upon a showing of a clear abuse of discretion, such intervention must be based on clear and articulable grounds. In the instant case, on the record before us, it appears that the lower court’s modification was premised upon a difference in belief as to the propriety of the punishment involved. This, however, is insufficient to overturn a decision of the prison authorities regarding internal discipline. "We should not be too ready to exercise oversight and put aside the judgment of prison administrators.” Wolff, supra, 418 US 566. See, also, Block v Rutherford, 468 US —; 104 S Ct 3227; 82 L Ed 2d 438 (1984), for a discussion on prisoners’ rights concerning "contact visitation”. Accordingly, on these facts, we believe that the lower court erred in modifying the restriction imposed on Ms. Lawson.
+Reversed.
+T. M. Burns, J., dissented.
+
+## Dissent (T. M. Burns, J.)
+
+T. M. Burns, J.
+(dissenting). While recognizing that the Department of Corrections has a great deal of discretion in this matter, Kelly v Liquor Control Comm, 131 Mich App 600, 603; 345 NW2d 697 (1983), I feel that the department abused that discretion by permanently banning Marcellia Lawson from visiting prisoners because she tried to smuggle currency to appellee, Willie Bessinger, an inmate in a state correctional facility. Considering the facts of this case, I believe that a permanent ban is arbitrary and capricious. I agree with the circuit court that the restriction on Ms. Lawson’s visitation rights should not exceed one year. To the extent that the majority finds that the circuit court did not state sufficient reasons for lessening the restriction to one year and that the appellee did not present sufficient evidence, a remand would be appropriate to allow for the correction of these deficiencies. I do not feel, however, that a remand is necessary since the facts are sufficient to show that a lifetime restriction is unwarranted. I would affirm the decision of the circuit court.
