@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "194997"
+decided: "1997-03-14"
+citations: ["222 Mich. App. 319"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Wahls, P.J., and Gage and W. J. Nykamp , JJ."]
+parties: ["PEOPLE v LYONS (AFTER REMAND)"]
+source_url: "https://static.case.law/mich-app/222/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 483492
+cites_cases: ["107 Mich App 789", "199 Mich App 334", "204 Mich App 98", "209 Mich App 82", "213 Mich App 89", "214 Mich App 699", "215 Mich App 77", "217 Mich App 106", "217 Mich App 242", "219 Mich App 184", "220 Mich App 662", "226 NW2d 734", "287 NW2d 165", "310 NW2d 244", "407 Mich 510", "443 Mich 863", "448 Mich 312", "501 NW2d 177", "514 NW2d 493", "530 NW2d 495", "532 NW2d 508", "539 NW2d 545", "542 NW2d 921", "544 NW2d 667", "550 NW2d 844", "550 NW2d 871", "555 NW2d 891", "560 NW2d 657", "58 Mich App 9"]
+---
+
+# People v. Lyons
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant pleaded guilty of armed robbery, MCL 750.529; MSA 28.797, and possession of a firearm during the commission of a felony, MCL 750.227b; MSA 28.424(2). Initially, the trial court sentenced defendant to consecutive terms of fourteen to thirty years’ and two years’ imprisonment. This Court remanded the case for resentencing. People v Lyons, unpublished opinion per curiam of the Court of Appeals, issued May 19, 1995 (Docket No. 174013). At the resentencing, the trial court sentenced defendant to consecutive terms of fifteen to thirty years’ and two years’ imprisonment. Defendant appeals as of right. We remand for a recalculation of credit for time served.
+i
+Defendant argues that the trial court awarded him incorrect credit for time spent in jail. We agree. A defendant who is unable to post bond must be awarded credit for all time served in jail before sentencing. MCL 769.11b; MSA 28.1083(2). At the initial sentencing on March 3, 1994, the trial court awarded defendant 211 days of credit for time served. In addition, when a void sentence is set aside and a new sentence is imposed, any time served with regard to the void sentence must be credited against the sentence then imposed MCL 769.11a; MSA 28.1083(1); People v Dorsey, 107 Mich App 789, 792; 310 NW2d 244 (1981). At the resentencing on February 21, 1996, the trial court awarded defendant 565 total days of credit without an explanation of its reasoning. If defendant was incarcerated continuously between the initial sentencing and the resentencing, then the trial court erred in its calculations.- Accordingly, we remand for a recalculation of the amount of time served for which defendant is entitled to credit. See People v Thomas, 58 Mich App 9, 11; 226 NW2d 734 (1975).
+n
+Defendant argues that the trial court erred in assessing defendant five points under Prior Record Variable (PRV) 6. We disagree. A reasonably updated report must be utilized at the resentencing of a defendant. People v Triplett, 407 Mich 510, 515; 287 NW2d 165 (1980). The fact that the prosecutor did not challenge the scoring of prv 6 during the original sentencing is immaterial. In People v Abbett, 199 Mich App 334, 337; 501 NW2d 177 (1993), this Court held that where a defendant received a score of zero on a variable at her original sentencing, she should have received the same score at her resentencing. The Supreme Court reversed summarily, finding that there was evidence to support the scoring of that variable. People v Abbett, 443 Mich 863 (1993).
+Prv 6 assesses a defendant’s prior relationship to the criminal justice system. The sentencing guidelines provide that a score of five points is appropriate where an “[o]ther relationship exists.” The notes to that variable state that “[a]n other relationship exists if, at the time of the instant offense, the offender was on bond and/or bail, on pre-trial diversion, or on Holmes Youthful Trainee status.” Michigan Sentencing Guidelines (2d ed), p 97. According to defense counsel, defendant had been arrested before the instant offense and had put up a $100 bond. When he did not show up at the hearing, his bond was revoked.
+Under these circumstances, at the time of. this offense, defendant had a prior relationship with the criminal justice system. In addition, the guidelines do not state that five points can be assessed only in the enumerated circumstances. The sentencing guidelines are interpreted in accordance with the rules of statutory construction. People v Harris, 219 Mich App 184, 187; 555 NW2d 891 (1996). The primary rule of statutory construction is to ascertain the intent of the drafters. Id. Statutes must be construed to prevent absurd or illogical results and to give effect to their purposes. People v Jones, 217 Mich App 106, 107; 550 NW2d 844 (1996). It would be absurd to suggest that the drafters of the guidelines intended that a defendant would receive more lenient treatment by being, in the words of the trial court, a “runaway” from the criminal justice system. The trial court did not err in assessing defendant five points for prv 6. Abbett, supra, p 863; People v Nantelle, 215 Mich App 77, 84; 544 NW2d 667 (1996).
+m
+Defendant argues that there was insufficient evidence for the trial court to conclude that he told his codefendant to shoot the victim. We disagree. We decline to overturn defendant’s sentence on the basis of the credibility of a witness. See People v Hughes, 217 Mich App 242, 248; 550 NW2d 871 (1996).
+IV
+Defendant argues that the trial court erred in failing to follow the required sentencing procedure. We disagree. The record indicates that the trial court allowed defense counsel to challenge the scoring of the guidelines, questioned defendant about his record while in prison, and granted both defense counsel and defendant a reasonable opportunity for allocution. Reversal is not required. See People v Lugo, 214 Mich App 699, 711-712; 542 NW2d 921 (1995).
+v
+Defendant argues that the trial court abused its discretion in sentencing him to a term of fifteen to thirty years’ imprisonment. We disagree.
+When a defendant is resentenced by the same judge and the second sentence is longer than the first, there is a presumption of vindictiveness. People v Lino (After Remand), 213 Mich App 89, 99; 539 NW2d 545 (1995), overruled on other grounds People v Carson, 220 Mich App 662; 560 NW2d 657 (1996). That presumption may be overcome if the trial court enunciates reasons for doing so at resentencing. Id. Here, the trial court stated that it had increased defendant’s sentence in reliance on the guidelines range, which had been increased between the two sentencings. Accordingly, the presumption of vindictiveness was overcome.
+Defendant’s fifteen-year minimum sentence is within the guidelines range of five to fifteen years and is presumed proportionate. People v Cotton, 209 Mich App 82, 85; 530 NW2d 495 (1995). Defendant failed to present unusual circumstances sufficient to overcome the presumption of proportionality. After reviewing the record, we believe that defendant’s sentence reflects the seriousness of the circumstances surrounding the offense and the offender. People v Houston, 448 Mich 312, 320; 532 NW2d 508 (1995); People v Weathersby, 204 Mich App 98, 114; 514 NW2d 493 (1994).
+Remanded for recalculation of the amount of credit for time served to which defendant is entitled. In all other respects, defendant’s sentence is affirmed.
