@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "11476"
+decided: "1972-04-27"
+citations: ["40 Mich. App. 249"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P. J., and Holbrook and Quinn, JJ.", "All concurred."]
+parties: ["PEOPLE v STRAM"]
+source_url: "https://static.case.law/mich-app/40/cases/0249-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2084468
+cites_cases: ["15 Mich App 463", "314 Mich 107", "34 Mich App 224", "350 Mich 497", "384 Mich 1", "388 Mich 796", "4 Mich App 281", "5 Mich App 479", "55 Mich 586"]
+---
+
+# People v. Stram
+
+## Majority (Quinn, J.)
+
+Quinn, J.
+Count I of the information charged defendant with assault with intent to rob being armed, MCLA 750.89; MSA 28.284. Count II charged him with assault with intent to murder, MCLA 750.83; MSA 28.278. The jury convicted defendant as charged in count I and of the lesser included offense of assault with intent to do great bodily harm less than murder on count II. Sentence ensued and defendant appeals.
+About 11:30 p.m. on February 28, 1969, defendant entered Sullivan’s bar in Detroit where complainant was tending bar. Defendant ordered a beer and shortly thereafter he went to the men’s room. Complainant testified that when defendant returned from the toilet, defendant ran at complainant and stabbed him in the stomach with a knife. A struggle ensued during which defendant said, "All I want is the money.” At one point, complainant was on the floor with defendant on top of him. When complainant bit defendant, the latter arose suddenly dragging complainant up with him. At this time, complainant obtained a gun and fired at defendant three times. None of the shots struck defendant, but he obeyed complainant’s command to lay down. Defendant remained down until the police arrived.
+Defendant testified that he was walking from the toilet and the next thing he knew he was on top of complainant, saw blood, and jumped up. He testified that he heard three shots but remembered nothing of the altercation with complainant. On cross-examination, defendant identified a knife as one he took away from his brother the night of February 27, 1969, but he could not remember whether he had it with him at Sullivan’s bar on the night in question. (The knife, exhibit 1, was identified by the police as the knife recovered near the scene of the altercation with blood stains on it.) Complainant and defendant were the only persons present during the altercation.
+Each of the crimes with which defendant was charged carries a possible life sentence. Citing People v Sweeney, 55 Mich 586 (1885) as authority, defendant moved to be allowed 40 peremptory challenges. On the authority of People v Bloom, 15 Mich App 463 (1969), the trial court denied the motion and restricted defendant to 20 peremptory challenges. This action constitutes the first error alleged on appeal.
+The language of Sweeney on which defendant relies was dictum. That dictum was properly interpreted in Bloom to mean that a defendant charged with more than one offense is entitled to the number of peremptory challenges prescribed for the most serious crime charged. We find no error.
+By excerpting a small portion of the total charge on intoxication as a defense, defendant attempts to establish error. The language relied on is, "On the other hand, however, it is said in the law that if one voluntarily becomes intoxicated, that is no excuse for having committed an offense.” If this were the only instruction on intoxication as a defense, we could agree that error occurred. However, that language was preceded in the charge by the following:
+"In order to defend [sic] (find) that the defendant had the criminal intent charged here, it must appear beyond a reasonable doubt that his condition of mind was such as to permit him to form an intent. The defendant must have been in sufficient possession of his faculties to be able to intend to do something; that is to be able to know what he was about to do, and to intend to do it.
+"The law is that a man may become so intoxicated and so drunken that he would be incapable of forming an intent to carry out a particular crime.
+"And it is for you, of course, to consider and pass upon this defense along with all of the other evidence in the case. And you must determine whether the defendant was so intoxicated, if you find him to have been intoxicated when the offense was allegedly committed, so that if you find that he did commit the offense charged here, but that he did not know what he was doing, he would be entitled to be acquitted.”
+The language relied on by defendant followed the foregoing quotation, and then the trial judge charged:
+"As I have said, on the other hand, if a person is so drunken or so intoxicated that you can gather that he did not have — he was in no state of mind even to know what he was doing, then under that circumstance, the law would indicate that a person should not be convicted.”
+No error occurred.
+By a written request, defendant sought instruction on the following offenses: assault with intent to murder, felonious assault, assault and battery, robbery armed, assault with intent to rob being armed, robbery unarmed, and assault with intent to rob being unarmed. Defendant asserts error because instructions were not given on assault and battery and assault with intent to rob being unarmed. These requests were denied by the trial judge for lack of supporting evidence.
+Again we find no error. Assault with intent to murder does not include the offense of assault and battery, People v Kynerd, 314 Mich 107, 117 (1946). The only evidence on assault related to an armed assault. The record contains nothing to support an instruction on assault with intent to rob being unarmed. Refusal of this request was correct, People v Membres, 34 Mich App 224 (1971).
+The many appeals coming to this Court involving included offenses, instructions thereon given, not given, and refused when requested, motivates the following attempt to clarify the uncertainty presently existing in this area.
+We cannot improve on the definition of included offense found in People v Simpson, 5 Mich App 479, 486 (1966), "If the greater of two offenses includes all the legal and factual elements of the lesser, the greater includes the lesser; but if the lesser offense requires the inclusion of some necessary element not so included in the greater offense, the lesser is not necessarily included in the greater.” Decided cases support the propositions that instruction on included offenses must be requested, People v Lemmons, 384 Mich 1, 3 (1970), and that such instructions need not be given, though requested, where there is no evidence tending to support the included offense, People v Milhelm, 350 Mich 497, 508 (1957); People v Membres, supra.
+We discern the problem in the area of instructions on included offenses to arise from the failure of courts to specify what constitutes "no evidence tending to support such offenses”. There is no evidence tending to support a lesser included offense unless a question of fact exists with regard to an element of the greater offense that is not an element of the included offense, People v Loncar, 4 Mich App 281, 289, 290 (1966).
+When does a question of fact exist? If there is conflicting evidence relating to the element of the greater offense that is not an element of the lesser offense, there is a question of fact as to that element. Conflicting evidence may arise from contradictory evidence, inconsistent evidence, or specific testimony that is impeached on cross-examination. Credibility of witnesses and proof beyond a reasonable doubt are not to be equated with conflicting evidence. These issues are present in every criminal trial and they relate to the question of whether or not an element of the crime has been proved at all. Credibility or reasonable doubt are bases for a jury finding of not guilty as charged even in the face of uncontradicted evidence. Neither furnishes any logical basis for an affirmative finding of guilt as to a lesser included offense.
+Affirmed.
+All concurred.
