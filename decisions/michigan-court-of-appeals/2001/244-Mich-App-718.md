@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "221640"
+decided: "2001-02-23"
+citations: ["244 Mich. App. 718"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Wilder, P.J., and Hood and Cavanagh, JJ."]
+parties: ["PEOPLE v FALK"]
+source_url: "https://static.case.law/mich-app/244/cases/0718-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1293368
+cites_cases: ["12 Mich App 288", "162 NW2d 832", "209 Mich App 419", "234 Mich App 274", "235 Mich App 196", "438 Mich 715", "475 NW2d 333", "531 NW2d 734", "593 NW2d 655", "596 NW2d 636"]
+---
+
+# People v. Falk
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The prosecution appeals as of right the circuit court’s order dismissing the charge of possession with intent to deliver less than fifty grams of cocaine, MCL 333.7401(2)(a)(iv); MSA 14.15(7401)(2)(a)(iv), because of violation of the 180-day rule. We reverse and remand for reinstatement of the charge against defendant.
+Defendant pleaded guilty to two counts of delivery of cocaine as a third-felony habitual offender and was sentenced, on December 30, 1998, to a term of 1 to 40 years’ imprisonment and a consecutive term of IV2 to 40 years’ imprisonment. At the time of sentencing, one count of possession with intent to deliver less than fifty grams of cocaine, MCL 333.7401(2)(a)(iv); MSA 14.15(7401)(2)(a)(iv), was pending against defendant. On June 28, 1999, defendant filed her motion to dismiss the pending charge, claiming a violation of the 180-day rule. The trial court granted defendant’s motion.
+The 180-day rule, codified at MCL 780.131(1); MSA 28.969(1), requires the prosecutor to bring an inmate to trial within 180 days of receiving notice of the inmate’s place of incarceration. Pursuant to MCR 6.004(D)(2), dismissal for a violation of the 180-day rule is appropriate “if the prosecutor fails to make a good faith effort to bring the charge to trial within the 180-day period.” See also People v Chavies, 234 Mich App 274, 278; 593 NW2d 655 (1999). The purpose of the 180-day rule is to give an inmate the “opportunity to have sentences run concurrently consistent with the principle of law disfavoring accumulations of sentences.” People v Smith, 438 Mich 715, 718; 475 NW2d 333 (1991), quoting People v Loney, 12 Mich App 288, 292; 162 NW2d 832 (1968); People v Smielewski, 235 Mich App 196, 198; 596 NW2d 636 (1999).
+On appeal, the prosecutor first argues that the 180-day rule does not apply to this case because the pending charge, possession with intent to deliver less than fifty grams of cocaine, subjects defendant to a mandatory consecutive sentence. Upon conviction, MCL 333.7401(2)(a)(iv); MSA 14.15(7401)(2)(a)(iv) provides for imprisonment of not less than one year nor more than twenty years or a sentence of lifetime probation. Further, MCL 333.7401(3); MSA 14.15(7401)(3) provides that, if a term of imprisonment is imposed regarding the pending charge, it must run consecutively to any other prison term arising from a felony conviction. The trial court held that, because the statute provided the sentencing option of lifetime probation, consecutive sentencing was not mandatory and therefore the 180-day rule was applicable. We disagree.
+Whether the 180-day rule applies to a pending charge for which a possible sentence includes either the imposition of a mandatory consecutive prison term or lifetime probation is an issue of first impression. As a question of law, the matter is reviewed de novo. People v Connor, 209 Mich App 419, 423; 531 NW2d 734 (1995).
+MCL 780.131(1); MSA 28.969(1) provides in relevant part:
+Whenever the department of corrections receives notice that there is pending in this state any -untried warrant, indictment, information, or complaint setting forth against any inmate of a correctional facility of this state a criminal offense for which a prison sentence might be imposed upon conviction, the inmate shall be brought to trial within 180 days ....
+By the plain language of the statute, the 180-day rule does not apply when conviction on the pending charge would not subject the defendant to a prison sentence. In addition, the 180-day rule does not apply when conviction on the pending charge subjects the defendant to mandatory consecutive sentencing. See Chavies, supra at 280; Connor, supra at 429. As discussed earlier, the purpose of the 180-day rule is to give an inmate the opportunity to have prison sentences run concurrently. Chavies, supra at 280. The 180-day rule prevents an inmate from being subjected to an additional prison term upon conviction on a charge that was pending but held in abeyance until the expiration of a previous prison term. See Loney, supra at 292.
+In the present case, the only prison sentence, within the purview of the statutory 180-day rule, that might have been imposed upon defendant if convicted on the pending charge was a mandatory consecutive prison sentence, not a concurrent prison sentence. Consequently, the 180-day rule did not apply to the pending charge. The lifetime probation sentencing alternative is of no consequence to the application of the 180-day rule. If the trial court sentenced defendant to lifetime probation instead of a term of imprisonment, the purpose of the 180-day rule would not apply because lifetime probation is not a prison sentence. In this case, defendant was not at risk of being denied an opportunity to have any additional prison sentence concurrently imposed because no concurrent sentence was available under the pending charge. Consequently, defendant was not harmed in the manner contemplated and mitigated by the 180-day rule because of an alleged delay in bringing the matter to trial; therefore, the trial court erred in dismissing the pending charge. Because the misapplication of the 180-day rule is dispositive, it is unnecessary for this Court to review the prosecutor’s claim of error regarding the trial court’s finding of inexcusable delay.
+Reversed and remanded for reinstatement of the charge of possession with intent to deliver less than fifty grams of cocaine, MCL 333.7401(2)(a)(iv); MSA 14.15(740l)(2)(a)(iv), and further proceedings consistent with this opinion. We do not retain jurisdiction.
