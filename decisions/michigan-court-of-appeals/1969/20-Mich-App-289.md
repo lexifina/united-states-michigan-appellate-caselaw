@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "6,427"
+decided: "1969-11-26"
+citations: ["20 Mich. App. 289"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P. J., and Holbrook and Levin, JJ."]
+parties: ["PEOPLE v. PEARCE"]
+source_url: "https://static.case.law/mich-app/20/cases/0289-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2077585
+cites_cases: ["17 Mich App 229", "20 Mich App 132", "26 Mich 112", "384 US 436", "43 ALR2d 492"]
+---
+
+# People v. Pearce
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The defendant, Glenn Pearce, was charged with the offense of carrying a concealed weapon (MCLA § 750.227 [Stat Ann 1962 Rev § 28-.424]) and convicted after a jury trial. He appeals, claiming four errors.
+Witnesses for the prosecution testified that a farm in Lincoln was under surveillance by the state police on the morning of the day the defendant was arrested. Officers looking through binoculars observed three men in an automobile drive by the farm and continue down the road. Somewhat later the men returned and drove up to the barn, parked the car and walked into the barn. A short time thereafter they left the barn, reentered the car, and drove back onto the road where the police halted them and placed them under arrest. They were handcuffed and placed in the police car.
+The .three men were subsequently identified as the defendant, his brother Joseph, and Roger Armstrong. One trooper asked the defendant, who owned the car, whether he wanted it towed away or left on the road with the windows rolled up. The defendant requested that the car be abandoned where it was, the windows left as they were, and that the trooper remove the keys. As the trooper opened the ear door he saw a jacket on the driver’s seat; protruding from the pocket of the jacket was the -butt of a pistol. Another trooper, who was standing next to the police car containing the men, testified that he overheard the defendant say to one of his companions, “I hope to God he doesn’t find that gun.”
+The police confiscated the gun and took the men into custody. The defendant alone was tried for carrying a concealed weapon. The testimony of his witnesses tended to show that the jacket and the gun were owned by his brother. There was no direct evidence connecting the defendant with the jacket or gun.
+The record shows that out of the jury’s presence there was a discussion regarding the circumstances of the arrest. It appears that the defendant and his associates were thought by the police to he involved in cattle rustling. Concern was expressed that placing this evidence before the jury would be prejudicial to the defendant. It was then stipulated that the arrest was lawful and that the prosecutor would not advert to the surrounding circumstances.
+The defendant contends that the trial judge erred when he charged the jury that they could convict the defendant if they found that he and the other men were engaged in a common unlawful enterprise and that it was within the scope of the enterprise for a participant to carry a concealed weapon. The defendant contends that the only evidence from which the jury could have found a common enterprise was the stipulated fact that the defendant and the other men were lawfully arrested at the same time, and that this is legally insufficient to support such a finding. We cannot accept this contention.
+It is true that the nature of the joint undertaking upon which the men were engaged immediately preceding their arrest was not evidentially established. The paucity of the people’s proof was, however, due to the stipulation previously referred to; that stipulation constituted a declination of further proof of the cause for the arrest. Absent such a stipulation the evidence might well be insufficient to justify an inference that the carrying of a concealed weapon was fairly within the scope of a common enterprise of which the defendant was a member. But, under the circumstances of this case, the defendant having declined more complete proof, the jury could properly be allowed to infer that the men were engaged in a common unlawful enterprise from the facts that one of them was carrying a concealed weapon, that they had entered another person’s land and barn, and then, having been observed by the police in that activity, were (as it was stipulated) lawfully arrested.
+Guns are frequently used to commit crime and to effectuate an escape. The question of whether it is fairly within the scope of a common unlawful enterprise to carry or use a gun is to be decided after an evaluation of the totality of the circumstances. Cf. People v. Poplar (1969), 20 Mich App 132.
+In this case there was testimony which, if believed, showed that the defendant was aware of the fact that a gun was being carried by one of the men. The jury could reasonably conclude that the gun was being carried for the purpose of an unlawful enterprise upon which all three men were engaged and that the defendant, aware of the fact that the gun was being carried by a participant, is criminally responsible for the concealed carrying of that weapon. Cf. People v. Knapp (1872), 26 Mich 112, 115.
+The defendant also contends that his alleged statement, “I hope to God he doesn’t find that gun”, should have been excluded because it was made by him after he had been placed under arrest and handcuffed, and before he had been warned of his constitutional right to remain silent. Miranda v. Arizona (1966), 384 US 436 (86 S Ct 1602, 16 L Ed 2d 694).
+Miranda concerns custodial interrogation. The trooper had not asked any of the three men any questions before the defendant’s statement. The defendant’s statement was not made in response to a policeman’s question; indeed, it was not even directed to the trooper who overheard it.
+Finally, the defendant contends that the trial court erred prejudicially in permitting the prosecutor to draw attention to the fact that the defendant refused to answer questions after his arrest. See People v. Fry (1969), 17 Mich App 229, 233. The record shows that when defendant’s trial counsel cross-examined a trooper, he inquired as to the extent of his investigation of certain aspects of the case and that the trooper on two occasions responded to such inquiries that the investigation had been curtailed when the defendant refused to answer any questions. Later, on redirect examination, the prosecutor again elicited from the same witness testimony that all three men had refused to answer any questions, relying on their constitutional right to do so. The defendant’s trial counsel neither moved for a mistrial nor sought cautionary instructions. He simply objected when the matter came up upon redirect examination. Under the circumstances we have concluded that prejudicial error was not committed by the trial judge.
+Affirmed.
+Defendant replied affirmatively when asked "by liis eonnsel whether he felt entering into the stipulation was “good strategy”.
