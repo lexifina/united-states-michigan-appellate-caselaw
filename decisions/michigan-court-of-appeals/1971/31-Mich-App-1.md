@@ -1,0 +1,47 @@
+---
+court: "Michigan Court of Appeals"
+docket: "9073"
+decided: "1971-02-19"
+citations: ["31 Mich. App. 1"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: V. J. Brennan, P. J., and J. H. Gimas and Jeannette, JJ.", "All concurred."]
+parties: ["GITRE v. KESSLER PRODUCTS CO., INC."]
+source_url: "https://static.case.law/mich-app/31/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2095934
+cites_cases: ["17 Mich App 101", "266 Mich 508", "322 Mich 285", "332 Mich 117", "385 Mich 787"]
+---
+
+# Gitre v. Kessler Products Co.
+
+## Majority (V. J. Brennan, P. J.)
+
+V. J. Brennan, P. J.
+This appeal arises out of a civil action initiated by plaintiffs Jerry L. Gitre and Gitre Co., Inc., against Kessler Products Co., Inc., (hereinafter referred to as “Kessler”) and The Dover Molded Products Co. (hereinafter referred to as “Dover”), for damages arising out of breach of contract. From a grant of defendants’ motions for accelerated judgment, plaintiffs appeal.
+In 1953, plaintiff Jerry Gitre entered into a manufacturer’s agent agreement with Kessler which provided that he was to act as the company’s sole agent in Michigan and part of Ohio for the sale of aluminum window and door products. Plaintiff was to receive a 5% commission and the agreement was cancellable by either party upon 30 days’ notice to the other.
+In 1960, Gitre Co., of which Jerry Gitre was president, entered into a similar agreement with Dover, an Ohio corporation with the same principals as Kessler. Plaintiff company was to he exclusive sale agent for Dover in Michigan and Lucas county, Ohio. Here, too, the contract was cancellable by either party on 30 days’ notice.
+Over the years the sale of Kessler’s products in plaintiff’s exclusive territory grew from nothing to approximately $500,000 annually in gross sales. Kessler regularly paid plaintiff commissions on each month’s sales on the 15th day of the following month by transmitting checks with stubs identifying the preceding month and the total commissions payable. The checks were also accompanied by a commission statement showing sale invoice numbers and the gross sales price of products sold within plaintiff’s exclusive territory.
+Defendant Dover’s sales also experienced an increase due to the plaintiff’s efforts; the manner in which commissions were paid was similar to that employed by Kessler.
+Problems began when, in 1967, Kessler reclassified as a “house account” one of Jerry Gitre’s largest customers. Shortly thereafter, Kessler reclassified two other large accounts. The result was that Gitre lost all commissions on future sales to his three largest customers. According to plaintiff’s complaint, this was done “without the consent, against the will, and over the objections of Gitre”.
+Then, on January 8, 1968, defendant Kessler sent plaintiff a letter stating that it elected to terminate and cancel the agency contract as of February 15, 1968. Similarly, defendant Dover informed plaintiff by letter dated February 1, 1968, that the contract between them would terminate on February 15,1968. Pursuant to these letters, both defendants sent checks to the plaintiffs for the balance of commissions due for the period of January 1 to February 15. The reverse side of Kessler’s check bore the following legend:
+“Endorsement and payment of the within check constitutes a full release by the payee of all claims for commission or otherwise against the drawer and its affiliates”
+The back of Dover’s check provided:
+“Endorsement and payment of the within check constitutes a full release by the payees of the drawer of the within check, of all claims and demands for commissions or other compensation.”
+These checks were indorsed with the indorsement stamp of Gritre Co., Inc., and deposited in its account in the National Bank of Southfield. In plaintiffs’ answer to defendants’ motion to dismiss, we are told the cancellation of the contract by the Kesslers (the principals of Kessler and Dover) was done “despite plaintiffs’ objections”.
+Thereafter, plaintiffs’ attorneys formally demanded that Kessler retract its election to cancel the contract. The basis for the demand was that their written contract was subsequently modified both orally and by a course of dealing so that it was in effect a “lifetime” agreement. When defendants refused to proceed with the contract, plaintiff sued for breach thereof.
+Both defendants filed motions for accelerated judgment pursuant to GrCR 1963, 116.1(5), on the basis of release and accord and satisfaction. In a written opinion granting defendants’ motions the court said that the checks were sufficient to discharge the obligations under MCLA § 566.1 (Stat Add 1970 Rev § 26.978[l]), and that “in any event there also was a discharge of the obligations through an ‘accord and satisfaction’ ”.
+Defendants, relying on People v. Louis J. Dettore Construction Company (1969), 17 Mich App 101, claim that the deposit of the checks with their restrictive legends was sufficient to constitute an accord and satisfaction, since the amount owed to plaintiffs for commissions on the reclassification of certain customers as house accounts and for breach of contract, if any, was disputed. Plaintiffs, relying on Durkin v. Everhot Heater Co. (1934), 266 Mich 508, claim that no real dispute concerning money owed to them arose until after the cheeks were deposited and thus there was no consideration to support an accord and satisfaction. They further contend that the checks were so ambiguous that they were not sufficiently apprised of the conditions accompanying the tender.
+An accord and satisfaction, being a contract, must possess all the essential elements of a contract, including consideration, Puett v. Walker (1952), 332 Mich 117, and a meeting of the minds, Obremski v. Dworzanin (1948), 322 Mich 285. The case relied on by defendants, Dettore, supra, is concerned mainly with the element of consideration. It held that where part of a debt is liquidated and part is unliquidated, the entire debt is held to be unliquidated and payment of only the liquidated part is sufficient consideration to discharge the whole debt. On tbe other hand, the case relied upon by plaintiffs, Durkin, supra, p 513, deals with the requirement that there be a meeting of the minds:
+“To work an accord and satisfaction the tender of payment as being in full should be made in unequivocal terms, so that the creditor in accepting the conditional payment will surely do so understanding^.”
+The fact question of whether or not a dispute existed at the time the checks were deposited is important because it is relevant both to the issue of consideration and to that of a meeting of the minds.
+It is clear by virtue of the amounts on the checks and from the accompanying invoices that they represented commissions due on sales which did not include the house accounts; as to that debt the trial court was correct; there was an accord and satisfaction.
+However, if plaintiffs’ contentions are correct there arose another cause of action over and above the one for commissions due and owing up to February of 1968. This new cause would embrace damages arising after February 1968 for an alleged breach of written and oral contracts for future commissions.
+We cannot accept defendants’ contention that the accord and satisfaction of the past due debt for commissions would cancel a debt for the alleged breach. In the breach action there is a possibility, depending on plaintiffs’ proofs, for a separate and distinct indebtedness to plaintiffs. It is clear that it was not within the contemplation of either party that the commission checks of February 1968 were in satisfaction of a possible breach indebtedness for future commissions.
+Obviously, the defendants did not wish to bring about an unjust result by virtue of these writings. They undoubtedly intended nothing more than to pay plaintiffs’ commissions they honestly believed they owed up to February 1968 as the amounts of $57.92 and $2,844.46 clearly indicate; and, therefore, we read this so-called release as not applying to an action for future commissions.
+In other words, if there was in fact a valid oral lifetime contract and there was in fact a breach, the damages would be calculated from February 1968 to a future point in time depending on the measure used.
+In order to determine this factual issue, the trial court would have to conduct a hearing on the merits; therefore, we affirm the trial court’s decision as to any dispute over monies due and owing up to February 1968. However, we reverse and remand for the purpose of a trial on the merits to determine if there was a breach of an oral lifetime contract and, if so, what damages resulted therefrom.
+Affirmed in part, reversed and remanded in part.
+All concurred.
+“Section 1. An agreement hereafter made to change or modify, or to discharge in whole or in part, any contract, obligation, or lease, or any mortgage or other security interest in personal or real property, shall not be invalid because of the absence of consideration: Provided, That the agreement changing, modifying, or discharging such contract, obligation, lease, mortgage or security interest shall not be valid or binding unless it shall be in writing and signed by the party against whom it is sought to enforce the change, modification, or discharge.”
