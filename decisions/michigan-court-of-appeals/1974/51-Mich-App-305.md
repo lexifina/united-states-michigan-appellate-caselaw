@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "16427"
+decided: "1974-01-16"
+citations: ["51 Mich. App. 305"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: T. M. Burns, P. J., and Holbrook and McGregor, JJ.", "All concurred."]
+parties: ["LaPORTE v ESCANABA AREA PUBLIC SCHOOLS"]
+source_url: "https://static.case.law/mich-app/51/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2100758
+cites_cases: ["12 NW 43", "150 NW 104", "183 Mich 168", "196 NW 373", "225 Mich 656", "28 NW 794", "313 F Supp 1217", "34 NW 568", "36 Mich, 404", "48 Mich 189", "53 NW 1103", "62 Mich 101", "67 Mich 262", "94 Mich 262"]
+---
+
+# LaPorte v. Escanaba Area Public Schools
+
+## Majority (McGregor, J.)
+
+McGregor, J.
+Plaintiffs sought an injunction restraining the defendants from compelling or influencing students or parents to deal with a particular photographer, as well as restraining them from awarding an exclusive franchise for the use of school premises to any such photographer. By written opinion, on which judgment was entered, the court dismissed the complaint with prejudice. Plaintiffs appeal as of right.
+The operative facts are not disputed. Defendants had utilized the services of the Lee Wiles Studio for taking student identification-card pictures since 1955. Plaintiffs indicated an interest in obtaining the contract for this photographic service in September, 1971.
+At a hearing, plaintiff LaPorte testified in part that:
+"At the meeting we stated to them that we were in no position to give them a price because we did not know what they were after, although we told them we could give them any kind of package they liked. * * * At that meeting they made it clear to us that they were in no position to give us specifications and they would get together and draw up specifications and we’d be notified.”
+The board subsequently notified the plaintiffs by letter dated September 29, 1971, that it had awarded the contract to Lee Wiles "on the basis of package comparison”. On October 6, 1971, the plaintiffs challenged the legality of that action and the board responded on October 18, 1971, by providing specifications and inviting bids. Neither photographer met the specifications and the school board rejected both bids. The Lee Wiles bid failed to meet the specifications because the bid was on a three-year basis, and the school board wanted to make the award for one year. The school board then entered into a contract with Lee Wiles on a one-year basis in order to meet the deadline for the junior high school yearbook.
+The school board thereafter solicited bids for the 1972-73 year on November 9, 1972. Plaintiffs’ bid was rejected on November 17, 1972, and the contract was awarded to Lee Wiles.
+Plaintiffs instituted this action and requested an injunction as stated above. Following a show-cause hearing and the filing of briefs, the lower court dismissed the action with prejudice. Plaintiffs appeal as of right.
+This Court is asked to determine if school districts may legally contract with a photographer to provide photos primarily for school use and incidentally for student purchase.
+School districts are empowered to contract by virtue of MCLA 340.576c; MSA 15.3576(3), because they are municipal corporations. Waterman- Waterbury Co v School Dist No 4 of Cato Twp, 183 Mich 168; 150 NW 104 (1914). They have power to purchase all apparatus necessary to the proper conduct of the school. Commercial State Bank of Shepherd v School Dist No 3 of Coe Twp, Isabella County, 225 Mich 656; 196 NW 373 (1923). When the board decides to incorporate music into the curriculum, it may buy a piano. Knabe v Board of Education of the City of West Bay City, 67 Mich 262; 34 NW 568 (1887). It may buy new seats for the schoolhouse, McLaren v Town Board of Akron, 48 Mich 189; 12 NW 43 (1882), and fence in the school yard, Creager v School Dist No 9 of Wright Twp, 62 Mich 101; 28 NW 794 (1886). Such purchases must be necessary to effective operation of the school program. It is not enough that they merely facilitate the program of study. Western Publishing House v School Dist No 1 of Locke Twp, 94 Mich 262; 53 NW 1103 (1892); Gibson v School Dist No 5 of Vevay Twp, 36 Mich, 404 (1877).
+Among its powers, a school board has the authority to set reasonable regulations governing the operation of the schools, MCLA 340.614; MSA 15.3614. Judicial scrutiny of such rules is limited to whether they are reasonable and does not extend to a determination of their wisdom. Davis v Ann Arbor Public Schools, 313 F Supp 1217 (ED Mich, 1970). In accordance with such authority, a school board may require students, faculty, and staff to carry identification cards and present them to school officials on request. If such a regulation is reasonably related to the maintenance of decorum and the orderly conduct of the educational process, it becomes obvious that the school district can contract to have photographs made for such identification cards. Knabe v Board of Education, supra.
+Plaintiffs concede this much. The gravamen of their complaint is that the contract in question also authorizes the sale of these pictures to the students. Plaintiffs contend that the real consideration which motivates Lee Wiles to enter into this contract is the profit to be gleaned from the ancillary sale of photograph packages to students and parents, and that such concession is allegedly in excess of the school board’s statutory powers.
+This contention is without merit. In essence, allowing the photographer to sell a package of pictures to students is awarding a franchise to do so. The board is expressly authorized to do so in the case of lunches. MCLA 340.581; MSA 15.3581. The fact that the profit from the sale of photo packages comes from the students who purchase, whereas profit in operating a lunchroom concession comes from the board, is not a material distinction. Such profits are given express statutory sanction in other situations. See MCLA 318.63; MSA 13.973. It would strain credulity to say that the Legislature intended to deprive schools of this source of revenue. Under such an arrangement, students may be charged for the privilege of obtaining school pictures if they so desire.
+Secondly, the plaintiffs contend that when a contract for photographic services has been let, a school district may not exclude photographers other than the franchisee from using school premises.
+This appears to be a legal question of first impression in this state, as there are no Michigan cases on this point. If the board can validly award the franchise, it can protect its franchisee from competition on the school grounds. Otherwise, there would be no justification for soliciting bids and letting a contract. It is important to note that even the plaintiffs agree that seniors may have their yearbook pictures taken at the studio of their choice. If students desire to have a package of the pictures, the board makes no effort to restrain them from getting them. There is, thus, no merit to the allegation that the board awarded Lee Wiles a monopoly to use school premises for business purposes. What they did they may lawfully do. The plaintiffs bid and lost. Absent proof of fraud in the bidding process, they are entitled to no more from this Court.
+The judgment of the trial court is affirmed.
+All concurred.
