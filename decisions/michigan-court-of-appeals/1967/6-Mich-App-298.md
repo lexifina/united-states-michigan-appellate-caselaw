@@ -1,0 +1,61 @@
+---
+court: "Michigan Court of Appeals"
+docket: "3,302"
+decided: "1967-02-17"
+citations: ["6 Mich. App. 298"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Levin, P. j., and Burns and McGregor, JJ., concurred-."]
+parties: ["In re COLACASIDES."]
+source_url: "https://static.case.law/mich-app/6/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2025277
+cites_cases: ["14 ALR 2d 560", "178 F2d 683", "236 Mich 169", "293 Mich 263", "330 US 585", "339 F2d 192", "350 US 422", "373 Mich 531", "378 US 100", "378 US 52", "379 US 930", "384 US 364", "385 US 493", "385 US 511", "53 ALR2d 1008", "53 ALR2d 1030", "73 S Ct 1105", "84 S Ct 1615", "85 App DC 78", "85 S Ct 326", "85 S Ct 8", "86 S Ct 1594"]
+---
+
+# In re Colacasides
+
+## Majority (Per Curiam.)
+
+On Application por Bail.
+Per Curiam.
+Pursuant to the provisions of Michigan’s one-man grand jury law, CL 1948, § 767.3 et seq., as amended (Stat Ann 1954 Rev and Stat Ann 1965 Cum Supp § 28.943 et seq.), appellant (Colacasides) was granted immunity from subsequent prosecution for any offense concerning which his answers to certain questions may have tended to incriminate him — the questions being stated in the order granting immunity entered by the grand juror, Judge George B. Bowles of Wayne circuit. See CLS 1961, § 767.6 (Stat Ann 1954 Rev § 28.946). Colacasides, nevertheless, refused to answer the questions, and he was then cited for contempt and a circuit judge other than the one who propounded the questions conducted a hearing thereon. Colacasides was found guilty of contempt and sentenced to confinement for a period of six months or until the grand jury proceedings terminate or until he purges himself to the satisfaction of the grand juror or to the satisfaction of the sentencing judge. He filed his claim of appeal with this Court and an application for bond pending the appeal.
+1.
+We have first been asked to decide whether the contempt proceedings were civil or criminal. The purpose of the sentence being to enforce rather than to punish for disobedience of the grand juror’s order, we are satisfied that the contempt is civil.
+“The test may be stated as: what does the court primarily seek to accomplish by imposing sentence? Here the purpose was to obtain answers to the questions for the grand jury.”' Shillitani v. United States (1966), 384 US 364, 370 (86 S Ct 1531, 1535, 16 L ed 2d 622, 627).
+In Shillitani, the United States Supreme Court held that the sentences before it “were clearly intended to operate in a prospective manner — to coerce, rather than punish. As such, they relate to civil contempt.” So, too, on the facts in the case at bar.
+■2.
+Colacasides claims that the provisions of revised judicature act, PA 1961, No 236, § 6080, stating that “any person arrested on civil process is entitled to bail during the time within which he may appeal the ■ proceeding on which the arrest was made, or until a final determination of his appeal has been made” (CLS 1961, § 600.6080 [Stat Ann 1962 Rev §27A.6080]), required the sentencing judge and require us to set bail during the pendency of his appeal.
+■ The one-man grand jury law has its own provisions for punishing contempts (CLS 1961, § 767.5 [Stat Ann 1954 Rev § 28.945]), which vary both as to possible sentence and procedure from those set forth in. the revised judicature act. (CLS 1961, § 600.Í701 et seq. [Stat Ann 1962 Rev § 27A.1701 et seq.}).
+“There can be no question that courts have inherent power to enforce compliance with their lawful orders through civil contempt. . (Citations omitted.) And it is essential that courts be able to compel the appearance and testimony of witnesses. (Citation omitted.) A grand jury subpoena must command the same respect. (Citation omitted.). Where con-; tempt consists of a refusal to obey a court order to testify at any stage in judicial proceedings, the witness may be confined until compliance. (Citations omitted.) The conditional nature of the imprisonment — -based entirely upon the contemnor’s continued defiance — justifies holding civil contempt proceedings absent the safeguards of indictment and jury (Citation omitted.), provided that the usual due process requirements are met.” Shillitani v. United States (1966), 384 US 364, 370 (86 S Ct 1531, 1535, 16 Led 2d 627).
+We do not interpret EJA, § 6080, as so modify-ing the provisions concerning contempts arising, from refusals to answer questions during the course of a one-man grand jury proceeding (CLS 1961, § 767.5 [Stat Ann 1954 Eev §28.945]), or the inherent and essential judicial power to enforce court orders through citations for contempt as to oblige the sentencing judge or this Court to allow bail tó all civil contemnors without regard to the circumstances.
+3.
+In deciding whether to set bail on appeal, courts consider not only the likelihood of appearance, but also the possible harm to the community. Rehman v. California (1964), bail denied 85 S Ct 8, 13 L ed 2d 17, certiorari denied 379 US 930 (85 S Ct 326, 13 Led 2d 342).
+While it has not been suggested that Colacasides’ release will result in physical harm to anyone, his release would, in our opinion, pose a risk of harm to the community. The Bowles grand jury was authorized by the circuit judges of Wayne county on an application claiming there is evidence of irregularities which requires investigation in such manner. Under the terms of the order of commitment before us and because of the nature of the grand jury proceedings, the appellant must be released when the grand jury terminates. Shillitani v. United States, supra. The grand jury has a limited life. In the normal course appellant’s appeal might not be briefed, heard, and decided by this Court until a date after the grand jury ceases to function. To allow bail to appellant while he exhausts his appellate remedies would set a precedent that would seriously impede the inquiry. The public interest is, therefore, involved. We regard this as a valid consideration in a case such as this. See United States v. Coplon (CA 6, 1964), 339 F2d 192, 194, where the court made the following observation:
+“We conclude that appellant’s contention as to self-incrimination is so clearly without merit that his appeal can be for no other purpose than to delay the disposition of this matter beyond the termination of the current grand jury proceedings.”
+4.
+We have, therefore, given preliminary consideration to appellant’s contention that the immunity granted does not conform to constitutional requirements. As to the substantiality of the appeal, this is the only ground that was argued orally or in the briefs.
+We have given careful consideration to Colaeasides’ claim that the immunity granted him pursuant to the provisions of CLS 1961, § 767.6 (Stat Arm 1954 Rev § 28.946) does not meet constitutional requirements.
+Our Supreme Court has acknowledged that:
+“Immunity offered must be as broad as the constitutional protection for which it is sought to be substituted; and the test is whether the immunity becomes a complete substitution for the constitutional privilege.” In re Watson (1940), 293 Mich 263, 276.
+Tested by that standard, the Supreme Court held that immunity granted pursuant to the Michigan statutory provision last mentioned satisfied constitutional requirements.
+Colacasides’ counsel calls our attention to Garrity v. State of New Jersey (1967), 385 US 493 (87 S Ct 616, 17 L ed 2d 562), and Spevack v. Klein (1967), 385 US 511 (87 S Ct 625, 17 L ed 2d 574). In the former case the court held that the protection of the individual against coerced confessions prohibits use in subsequent criminal proceedings of confessions obtained under threat of removal from office. In the latter case the court held that New York could not impose the dishonor of disbarment as a price for asserting the right against self-incrimination.
+It does not appear that either Garrity or Spevack support Colacasides’ contention that he is entitled to protection against the use of his testimony (should he testify under the cloak of the immunity granted to him) in a proceeding that might be instituted for, say, the revocation of his licenses to operate a restaurant and dispense alcoholic beverages.
+Nor are we advised why the immunity granted should not be interpreted as covering such use of his testimony, if constitutionally required in order to compel his testimony.
+In our opinion, Michigan’s procedures for grant-„ ing immunity should he interpreted so as to accomplish the purpose sought to he achieved when enacted, namely to grant snch immunity as is constitutionally required in order to compel testimony.
+Without passing on the merits, we are not yet persuaded that so interpreted such procedures will be' found constitutionally deficient.
+Qur view of the substantiality of the ground of appeal argued on this motion disinclines us to allow hail.
+5.
+If appellant desires that his appeal he heard promptly and that the time for filing briefs and the record be shortened, this Court will, upon receipt of the record (including transcript) and appellant’s brief, direct appellee to file its brief within the same time from the date of our order used by appellant and will set a date for hearing not later than 10 days after appellee’s brief is due. If appellant requires an order to obtain immediate transcription of- the testimony, an appropriate order will be entered upon defendant’s request.
+Application for bail denied.
+Levin, P. j., and Burns and McGregor, JJ., concurred-.
+Compare Penfield Co. v. Securities and Exchange Commission (1947), 330 US 585, 590 (67 S Ct 918, 921, 91 L ed 1117, 1123) ; Duell v. Duell (1949), 85 App DC 78, 80 (178 F2d 683, 685, 14 ALR 2d 560); People v. Yarowsky (1926), 236 Mich 169, 171.
+Compare Perin v. Peuler (On rehearing, 1964), 373 Mich 531, 541.
+“Allowance of bail pending appeal depends upon a determination whether the appeal presents a substantial question.” [Douglas, Circuit Justice], Yanish v. Barber (1953), 73 S Ct 1105, 1107, 97 L ed 1637, 1640.
+If the immunity statute protects a witness to the extent of his constitutional immunity, he is obliged to testify — “he has, of eourse, when a particular sanction is sought to be imposed against him, the right to claim that it is criminal in nature.” Ullmann v. United States (1956), 350 US 422, 431 (76 S Ct 497, 503, 100 L ed 511, 521, 53 ALR2d 1008, 1017). (Emphasis added.)
+The court rejected contentions that the immunity granted there was inadequate because it did not cover “disabilities imposed by Federal and State authorities and the public in general — such as loss of job, expulsion from labor unions, State registration and investigation statutes, passport eligibility, and general public opprobrium.” (350 US at 430 [76 S Ct at 502, 100 L ed at 520, 53 ALB 2d at 1017].)
+See Annotation: Adequacy of Immunity Offered as Condition of Denial of Privilege Against Self-Incrimination. 53 ALR2d 1030.
+See Murphy v. Waterfront Commission of New York Harbor (1964), 378 US 52, 79 (84 S Ct 1594, 1609, 12 L ed 2d 678, 695), where the opinion of the court staled compelled testimony could not be used in connection with a “criminal prosecution” against the witness; two concurring justices stating that the privilege protects a witness from being compelled to furnish evidence that could result in his being subjected to a “criminal sanction.” (378 US 100 [84 S Ct 1615, 12 L ed 2d 708].)
+In' a case involving the construction of an immunity statute, the United States Supreme Court stated: “words may be strained 'in the candid service of avoiding a serious constitutional doubt.’ ” Ullmann v. United States, supra (350 US at 433 [76 S Ct at 504, 100 L ed at 522, 53 ALR 2d at 1018].)
+Compare Murphy v. Waterfront Commission of New York Harbor (1964) 378 US 52, 104 (86 S Ct 1594, 1616, 12 L ed 2d 678, 710), where concurring Justices White and Stewart stated that the immunity does not seeure one from indictment or conviction and that the witness must plead and prove ás an affirmative defense that he has' received immunity and that the iiroseeution is oh account of a matter testified to in exchange for such immunity.
