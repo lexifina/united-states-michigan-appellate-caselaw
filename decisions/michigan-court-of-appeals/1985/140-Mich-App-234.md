@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "75243"
+decided: "1985-01-14"
+citations: ["140 Mich. App. 234"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: V. J. Brennan, P.J., and R. B. Burns and C. R. Coleman, JJ."]
+parties: ["CROUSE v CROUSE"]
+source_url: "https://static.case.law/mich-app/140/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2269945
+cites_cases: ["106 Mich App 452", "109 Mich App 204", "18 ALR2d 10", "297 NW2d 614", "308 NW2d 226", "311 NW2d 747", "48 ALR2d 270", "98 ALR3d 453", "99 Mich App 30"]
+---
+
+# Crouse v. Crouse
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals from a denial of his motion to amend a judgment of divorce. We affirm.
+The judgment of divorce, dated March 25, 1977, was drafted by plaintiff’s attorney. Defendant was not represented by counsel. In pertinent part the judgment provides:
+"John E. Crouse shall pay to Marguerite A. Crouse, for her support and maintenance, alimony at a rate of four hundred and no/100 dollars ($400.00) per month during such period of time as the minor children of the parties reside with Marguerite A. Crouse and at a rate of six hundred dollars ($600.00) per month from and after the time the minor children no longer reside with Marguerite A. Crouse, provided, however, any and all alimony provided for herein, nothing herein to the contrary, shall cease and terminate upon the occurrence of the marriage or demise of Marguerite A. Crouse or the demise of John E. Crouse.” (Emphasis added.)
+Prior to the divorce action, defendant met Dale Shuck; and before the judgment of divorce was entered in the trial court, defendant and Shuck began living together in defendant’s home. Plaintiff reluctantly acquiesced to the arrangement, believing defendant would have more time to devote to the parties’ children under this arrangement than if defendant visited Shuck at his apartment.
+Defendant and Shuck resided together in Lansing until 1980 and then moved to Colorado and later to California. Plaintiff continued to make alimony payments to defendant until September, 1981. On March 17, 1983, defendant filed a motion in the trial court seeking an order requiring plaintiff to show cause why he had failed to comply with terms of the judgment of divorce. The trial court issued the requested order. Plaintiff responded with a motion requesting that the judgment be amended to provide that defendant’s right to alimony would cease if she entered into a "permanent or quasi-permanent” live-in relationship with a man.
+Following a hearing on April 29, 1983, the trial judge ruled that plaintiff was liable for alimony arrearages up to the date the motion to amend the judgment was filed. He further ordered that the parties should complete discovery and file briefs concerning the issue of plaintiff’s liability for further alimony. The judge subsequently issued a bench opinion finding that plaintiff agreed to pay alimony knowing defendant was living with Shuck and, under these circumstances, defendant’s continued cohabitation with Shuck was not a sufficient reason to terminate the alimony obligation.
+Plaintiff argues on appeal that the Michigan Legislature has directed that alimony may be terminated upon remarriage in MCL 552.13; MSA 25.93, and has thereby evidenced an intent that alimony cease where the receiving party has entered into a permanent relationship with another person. In the present case, plaintiff contends, the defendant has a permanent relationship with Shuck which should be considered a "de facto” marriage. To refuse to terminate alimony where such de facto marriage exists would, plaintiff argues, be contrary to the intention of the Legislature and contrary to the parties’ intentions when they agreed that alimony would cease upon defendant’s remarriage. In the alternative, plaintiff argues that defendant’s living arrangement constitutes a change in circumstances justifying termination, suspension, reduction or modification of future alimony payments.
+The statutory authority for modifying a divorce judgment is found in MCL 552.28; MSA 25.106, which states:
+"After a judgment for alimony or other allowance, for either party and children, or any of them, and also after a judgment for the appointment of trustees, to receive and hold any property for the use of either party or children as before provided the court may, from time to time, on the petition of either of the parties, revise and alter such judgment, respecting the amount of such alimony or allowance and the payment thereof, and also respecting the appropriation and payment of the principal and income of the property so held in trust, and may make any judgment respecting any of the matters which such court may have made in the original suit.”
+A modification of an award of alimony under this section may rest only upon new facts or changed circumstances arising since the judgment which justify revision. Schaeffer v Schaeffer, 106 Mich App 452, 460; 308 NW2d 226 (1981); Graybiel v Graybiel, 99 Mich App 30; 297 NW2d 614 (1980). The party moving for modification has the burden of showing sufficiently changed circumstances to warrant modification. Graybiel v Graybiel, supra, pp 33-34.
+Having reviewed this case de novo, we are not convinced that we would have reached a different conclusion than the trial judge had we occupied his position in ruling on plaintiff’s motion. Schaeffer v Schaeffer, supra, p 460; Graybiel v Graybiel, supra, p 33. As the trial judge noted, defendant and Shuck were cohabitating at the time the judgment of divorce was entered. The record establishes that plaintiff was well aware of this arrangement at the time of the divorce. We do not believe defendant’s continuation of her cohabitation with Shuck to be a change in circumstances justifying termination, modification or suspension of the alimony obligation. Rather, defendant’s circumstances, including her financial needs, appear to be relatively the same as they were at the time of the divorce.
+We reject plaintiff’s argument that the Legislature intended that the paying party not be required to continue alimony payments where the ex-spouse has entered into a permanent relationship with another. MCL 552.13; MSA 25.93 says that alimony may be terminated upon remarriage and says nothing about permanent relationships nor "de facto marriages”. While continued cohabitation may in some cases constitute a sufficient change in circumstances to justify modification of a divorce judgment under MCL 552.28; MSA 25.106, we do not reach this question here. Defendant’s cohabitation with Shuck was not a change in circumstance at all, but an arrangement existing when plaintiff agreed to pay alimony. Nor do we find sufficient evidence to conclude that the parties intended alimony to cease if defendant entered into a serious and permanent relationship but did not remarry.
+Affirmed.
+
+## Dissent (V. J. Brennan, P.J.)
+
+V. J. Brennan, P.J.
+(dissenting). I respectfully dissent.
+Although the judgment of divorce provides that alimony payments terminate upon the occurrence of either the remarriage of the defendant or the demise of either the plaintiff or defendant, I do believe that defendant’s seven-year cohabitation with a male friend provides a sufficient change in circumstances to warrant modification of the divorce judgment.
+In my opinion, defendant’s relationship cannot be classified as a short-term casual romantic interlude. For the past seven years, defendant has maintained a continual live-in relationship which has far surpassed any casual status arrangement. Her relationship has graduated into a full-fledged quasi-marital situation. It appears that the continuous alimony has caused the decision not to marry.
+Although common-law marriages are no longer recognized in Michigan and contracts made in consideration of meretricious relationships will not be enforced in Michigan, see Carnes v Sheldon, 109 Mich App 204, 211; 311 NW2d 747 (1981), the plaintiff is faced with a situation where his ex-wife has continued to enjoy the benefits of alimony payments while maintaining a long-term and continuous live-in relationship with a male friend.
+At the least, I believe that a suspension in payments would be proper here. It is not my opinion however, that any cohabitation by an ex-spouse warrants a reduction, suspension or termination in alimony payments.
+The defendant’s relationship appears in all essence to be a de facto marriage which needs only a ceremony in this state or in California to make it a legal marriage. I believe that under the circumstances, a suspension in alimony payments during this particular relationship would be equitable. Therefore, I would reverse the trial court’s decision not to modify the divorce judgment.
