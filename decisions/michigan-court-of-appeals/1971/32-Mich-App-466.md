@@ -1,0 +1,41 @@
+---
+court: "Michigan Court of Appeals"
+docket: "8136"
+decided: "1971-04-21"
+citations: ["32 Mich. App. 466"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Fitzgerald, P. J., and Holbrook and Bronson, JJ.", "All concurred."]
+parties: ["GRAY v. GRAY"]
+source_url: "https://static.case.law/mich-app/32/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2097930
+cites_cases: ["13 Mich App 395", "13 Mich App 662", "24 Mich App 19", "24 Mich App 202", "322 Mich 578", "330 Mich 448", "334 US 541", "345 Mich 720", "354 US 416", "57 Nev 269", "68 S Ct 1217", "68 S Ct 1218", "78 Nev 224", "92 L Ed 1561", "92 L Ed 1568", "92 L Ed 1569"]
+---
+
+# Gray v. Gray
+
+## Majority (Holbrook, J.)
+
+Holbrook, J.
+Plaintiff and defendant married on December 3, 1950. Three minor children were born of the marriage, one each in the years 1958, 1959 and 1960. The parties separated in 1963, and on October 16, 1963, plaintiff filed this action for divorce, and defendant counterclaimed for separate maintenance. In May, 1964, the plaintiff, a doctor, closed his medical practice in Michigan and moved to Reno, Nevada. In July, 1964, plaintiff filed suit for divorce in Nevada. Personal jurisdiction was obtained in Nevada over defendant through the appearance of her Nevada attorney. On March 27, 1964, the Circuit Court for Calhoun County entered an order requiring plaintiff to pay support payments for defendant and the three children of $750 per month. On July 10, 1964, plaintiff made a motion to reduce the support payments in the Calhoun County Circuit Court claiming earnings of $6,240 per year. The court, in an order dated July 17, 1964, reduced support payments to $17.50 per week per child. On December 16, 1964, the parties entered into a property settlement agreement, the pertinent provisions of which were arrived at in open court in the Calhoun County Circuit Court with both parties appearing by their attorneys. On December 24, 1964, the defendant wife acknowledged the written property settlement in Michigan. On January 7, 1965, the plaintiff husband acknowledged the written property settlement in Nevada. In addition to child custody and the disposition of other marital property, the agreement provided for support payments of $20 per week for each child and $40 per week for alimony to be paid by plaintiff to defendant wife until subsequent order of the court.
+On January 11, 1965, judgment was entered by the Calhoun County Circuit Court granting defendant separate maintenance, and incorporated the provisions of the property settlement agreement in the judgment. The plaintiff was represented by his counsel at this hearing.
+Judgment of divorce in favor of plaintiff was entered in the Nevada court on January 13, 1965, which also incorporated the property settlement of the parties. Defendant was represented by her counsel at this hearing.
+Plaintiff returned to Michigan in the spring of 1965 and resumed his medical practice.
+The Nevada judgment provided:
+“That the agreement dated December 16, 1964, settling the property rights of the parties, providing for alimony payments to the defendant, and providing for the support and maintenance of the minor children is hereby approved by the court, is incorporated herein and made a part of this decree the same as if set forth herein in toto, and the parties are hereby ordered to comply with the terms, covenants, and conditions therein.”
+Defendant filed two separate petitions in Michigan to amend Michigan judgment of separate maintenance and to increase support and alimony. The court, in each instance, increased the plaintiff’s weekly payments from $20 to $40 per child on the basis of plaintiff’s improved financial condition and finally to $50 per week per child and $50 per week to defendant starting August 11, 1969. Plaintiff appeals from the court’s order increasing the defendant wife’s alimony.
+We restate the issue presented upon this appeal as follows: Under the facts in this case, does the Calhoun County Circuit Court have jurisdiction over the plaintiff herein and authority to modify the alimony payments under the judgment of separate maintenance, or does the Nevada judgment of divorce create jurisdictional estoppel?
+The property settlement agreement was in the first instance, recognized and given force in the Michigan court. It was also given Nevada judicial sanction through its incorporation in the Nevada divorce judgment. The property settlement provided for weekly alimony of $40 until the wife dies or remarries or until subsequent order of said court if separate maintenance is adjudged. The Michigan court, where the property settlement was first introduced and given effect, granted a judgment of separate maintenance. The mandate of the property settlement then became effective, and the provision for alimony could be changed as the parties required from time to time, in accordance with Michigan law. Through mutual consent of the parties, and with or without Nevada approval, the Michigan court retained jurisdiction to alter or modify the alimony payments.
+Nevada courts uphold and enforce the clearly stated intentions of the parties in a property settlement agreement. This is an exception to the Nevada Revised Statutes § 125.170 which requires express retention of jurisdiction to modify. Aseltine v. Second Judicial District Court (1936), 57 Nev 269 (62 P2d 701); Ballin v. Ballin (1962), 78 Nev 224 (371 P2d 32).
+Michigan has adopted the concept of “divisible divorce” developed by the New York Courts and the United States Supreme Court. Malcolm v. Malcolm (1956), 345 Mich 720; Reinink v. Reinink (1970), 24 Mich App 202.
+In Estin v. Estin (1948), 334 US 541 (68 S Ct 1213, 92 L Ed 1561) the Supreme Court affirmed a New York determination that Mr. Estin’s obligation continued despite the Nevada decree terminating any support obligation of the husband. In Vanderbilt v. Vanderbilt (1957), 354 US 416 (77 S Ct 1360, 1 L Ed 2d 1456) the Court held that a separate maintenance action could be brought after a foreign divorce decree.
+The theory and rationale of the rule is explained in the following quotation of Supreme Court Justice Douglas in the Estin case:
+“New York was rightly concerned lest the abandoned spouse be left impoverished and perhaps become a public charge. The problem of her livelihood and support is plainly a matter in which her community had a legitimate interest.” 334 US at 547 (68 S Ct 1217, 92 L Ed 1568).
+“The result of this situation is to make the divorce divisible — to give effect to the Nevada decree insofar as it affects marital status and to make it ineffective on the issue of alimony. It accommodates the interests of both Nevada and New York in this broken marriage by restricting each State to the matters of her dominant concern.” 334 US at 549 (68 S Ct 1218, 92 L Ed 1569).
+We conclude in any event that under the divisible divorce rule a decree of divorce obtained in another state does not terminate the Michigan spouse’s right to support.
+With established jurisdiction, a Michigan court may refer to the prior judgment for separate maintenance (judgment of January 11, 1965) and has statutory authority to modify alimony support provisions at any time. MOLA § 552.28 (Stat Ann 1957 Rev § 25.106); Pohl v. Pohl (1968), 13 Mich App 662.
+The record indicates a clear and definite decrease in the financial condition of defendant wife, resulting in obvious hardship. Plaintiff’s income on the other hand has increased considerably to a gross income in excess of $100,000 per year. Under these circumstances the allowance of $50 per child per week and $50 weekly alimony is not unreasonable. We are not convinced that we would have had to reach a different result had we occupied the position of the trial court. Wells v. Wells (1951), 330 Mich 448; Ethridge v. Ethridge (1948), 322 Mich 578; Young v. Young (1968), 13 Mich App 395 and Ross v. Ross (1970), 24 Mich App 19. Defendant has requested that we set the attorney fees to be awarded to defendant on this appeal. Under the circumstances in this case, We deem it proper to do this.
+Affirmed. Costs to defendant together with attorney fees which are set at $1,500.
+All concurred.
