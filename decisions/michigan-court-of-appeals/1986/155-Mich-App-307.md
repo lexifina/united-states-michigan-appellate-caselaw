@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "86254"
+decided: "1986-10-07"
+citations: ["155 Mich. App. 307"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and Beasley and C. W. Simon, JJ."]
+parties: ["DAMERAU v C L RIECKHOFF CO, INC"]
+source_url: "https://static.case.law/mich-app/155/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2279368
+cites_cases: ["142 Mich App 39", "147 Mich App 550", "369 NW2d 258", "382 NW2d 819", "424 Mich 877"]
+---
+
+# Damerau v. C. L. Rieckhoff Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals as of right from an order denying her motion for partial summary judgment as to the individual defendant pursuant to GCR 1963, 117.2(3), now MCR 2.116(C)(10). We affirm.
+The facts are not in dispute. On June 30, 1982, defendant C. L. Rieckhoff Company, Inc., executed a promissory note in the amount of $385,714.29 payable to the trustee of the Herbert R. Damerau revocable living trust. At the bottom of the promissory note appeared the words, "payment guaranteed,” followed by the signature of defendant C. L. Rieckhoff in his individual capacity. The note required nineteen quarterly payments of $20,300.75 plus interest.
+On the same date the promissory note was executed, the trustee and the National Bank of Detroit entered into a "subordination agreement and assignment” of the note, apparently to assist the company in obtaining a loan from nbd. The document was also signed by Rieckhoff on behalf of the company. The document provided in pertinent part:
+Subordination Agreement and Assignment
+* * *
+Now, therefore, in consideration of the sum of one dollar ($1.00), paid by the National Bank of Detroit to the undersigned [trustee] and the further consideration of making a loan or loans and/ or discounts, whether direct or indirect, to said Borrower [the Company], the undersigned hereby agrees that all indebtedness (both principal and interest) of said Borrower to the undersigned . . . shall be subordinate and the same is hereby subordinated to any and all indebtedness now or hereafter owing by said Borrower to said Bank until the said indebtedness to said Bank shall have been fully paid and satisfied, together with interest thereon . . . and the undersigned hereby sells, assigns, transfers, sets over, mortgages and conveys to said National Bank of Detroit, said indebtedness of said Borrower to the undersigned as security for the payment of any and all indebtedness of said Borrower to the National Bank of Detroit. . . . Any collateral or other security of said Borrower, or any other party, which said Bank may hold or which may come to it or to its possession may be released or otherwise dealt with by said Bank in all respects and particulars as though this assignment were not in existence and the obligation of the undersigned hereunder shall be in no wise affected thereby, the undersigned hereby waiving and foregoing any right in respect of any such action of said Bank. The possession by said Bank of any note, or other commercial paper made, indorsed or guaranteed by said Borrower unless direct written evidence to the contrary be produced, shall be conclusive that it is a part of the indebtedness covered hereby, and that full value was given by said Bank therefor.
+In conjunction with the execution of this agreement and assignment, the trustee delivered to nbd possession of the company’s note.
+It appears that Herbert R. Damerau died sometime in 1982. On January 6, 1983, the trustee of the Herbert R. Damerau revocable living trust assigned to plaintiff, Damerau’s widow, a one-half interest in the June 30, 1982, promissory note as part of her distributive share of her husband’s estate.
+The company made its quarterly payments on the note to plaintiff for approximately eighteen months. In a letter dated June 6, 1984, however, pursuant to the subordination agreement nbd instructed the company to suspend its payments to plaintiff because the company was in default on "certain financial requirements.” Upon this instruction the company ceased making its quarterly payments on the promissory note to plaintiff.
+On August 3, 1984, plaintiff filed this action to recover past due payments on the note from the company as maker and C. L. Rieckhoff individually (defendant) as guarantor. The complaint was later amended to include subsequent past due payments. Plaintiff then filed a motion for partial summary judgment against defendant only, alleging that he failed to make any note payments to plaintiff in breach of his unconditional personal guaranty and was liable to her as a matter of law. The trial judge disagreed. She found:
+That the subordination agreement and assignment assigns to the National Bank of Detroit the promissory note of June 30, 1982.
+That along with that assignment goes the guarantee, which is on the face of the note.
+That this was a matter, the guarantee on the note and the assignment, that was known to all parties at the time it was signed.
+And that the National Bank of Detroit, pursuant to its subordination agreement, had the right both as holder of the subordination agreement and the promissory note to subvert — excuse me, to subordinate the payment, which they did do, by advising the Rieckhoff Company to pay to the National Bank of Detroit only on the major loan and not pay to the trust on the promissory note.
+And under those terms and conditions, this was not a default on the note and the guarantee cannot be enforced.
+I would go further to say I don’t see how the guarantee — I just don’t see how the guarantee can be separated in an assignment from the note that goes with it.
+It is my belief that when you assign a note, you assign not only part of the note, but you assign the whole note. And if that note is guaranteed, then you assign that guarantee.
+On appeal, plaintiff contends that the "Subordination Agreement and Assignment” is nothing more than a subordination agreement and that, as such, it does not affect defendant’s personal obligation as a guarantor of,payment of the note. We disagree.
+As a general rule, where a contract is open to construction, it is the duty of the court to determine, if possible, the true intent of the parties. Remes v Holland, 147 Mich App 550; 382 NW2d 819 (1985). In determining true intent, the court should consider the language employed in the contract, its subject matter, and the circumstances surrounding the making of the agreement. Id.
+In the instant case, the document at issue is titled "Subordination Agreement and Assignment.” The very fact that the document is so titled indicates the intent of the parties to effectuate both a subordination agreement and assignment of rights. A court cannot remake a contract through construction or by addition of words to find a meaning not intended. In re Seitz Estate, 142 Mich App 39, 44; 369 NW2d 258 (1985), lv gtd 424 Mich 877 (1986). Similarly, we decline plaintiffs invitation to read out the words "and assignment” to reach the result she seeks.
+Moreover, the language of the agreement evidences more than an intent to subordinate the note. The language of the agreement clearly contemplates the transfer of the trustee/payee’s rights in the company’s note should the company default on its obligation to nbd. We agree with the trial court that, by its terms, the agreement assigned a security interest in the note to nbd. Pursuant to the agreement, the trustee did not simply agree to be second in priority of payment; he also agreed to relinquish his rights associated with the note upon the company’s default to the bank — including the right of payment and the right of enforcement. We also agree with the trial court that the assignment of these rights included the assignment of the right to turn to the guarantor for satisfaction. Such a construction is wholly consistent with the parties’ intent that the note serve as security to the bank The cases cited by plaintiff do not dictate a different result, since none of those cases involved an assignment of rights.
+If the trustee assigned and subordinated his rights to nbd, how does this affect the subsequent assignment to plaintiff? It is hornbook law that an assignee only receives those rights which the assignor possessed. 6A CJS, Assignments, § 84, p 734. It follows that, when the trustee assigned and subordinated his rights to nbd and subsequently assigned his remaining interest to plaintiff, plaintiff’s interest was subject to nbd’s claims and rights. Plaintiff cannot enforce defendant’s individual guarantee because her rights are secondary to those of nbd. The court did not err in denying plaintiff’s motion for summary judgment.
+Affirmed.
