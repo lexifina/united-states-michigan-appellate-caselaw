@@ -1,0 +1,37 @@
+---
+court: "Michigan Court of Appeals"
+docket: "47917"
+decided: "1981-03-17"
+citations: ["104 Mich. App. 677"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cynar, P.J., and J. H. Gillis and Allen, JJ."]
+parties: ["PEOPLE v NORFOLK & WESTERN RAILWAY COMPANY"]
+source_url: "https://static.case.law/mich-app/104/cases/0677-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2190304
+cites_cases: ["149 NW 1039", "183 Mich 130", "260 NW2d 58", "266 NW2d 781", "279 NW2d 528", "288 NW2d 583", "402 Mich 1", "406 Mich 307", "408 Mich 69", "533 F2d 1387", "82 Mich App 260"]
+---
+
+# People v. Norfolk & Western Railway Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted of 18 violations of the Michigan railroad obstruction statute, MCL 466.23; MSA 22.281(1), after a non-jury trial in the 14th District Court on June 8, 1978. Defendant’s motion for a new trial was denied. Defendant appealed by right to the Washtenaw County Circuit Court, which reversed and remanded the case in an order dated August 23, 1979. Plaintiff applied for leave to appeal in this Court, and leave was granted in an order dated April 10, 1980. Defendant has filed a cross-appeal.
+On March 31, 1978, commencing at 4 p.m., a Norfolk & Western (N & W) freight train stopped, blocking Gooding Road in Augusta Township, Washtenaw County, for approximately four hours. Defendant was issued citations for 18 separate alleged violations of MCL 466.23; MSA 22.281(1), each citation being issued for six-minute intervals commencing at 6 p.m. and ending at 7:48 p.m. Because we find that it was error to convict the defendant of 18 violations, we reverse the convictions for 17 separate violations and affirm one conviction for obstruction of vehicular traffic.
+MCL 466.23; MSA 22.281(1) provides:
+"It shall be unlawful for a railroad company to permit any of its trains to obstruct any vehicular traffic on public streets or highways for a longer period than 5 minutes at any one time.”
+This section does not clearly define the unit of offense. The words "a longer period” in the above statute may encompass any length of time. In MCL 466.2; MSA 22.261, the Legislature required a flagman, gate, or bridge at every railroad crossing and provided a $100 fine for "every such neglect” and "the further sum of $10 for every day while such neglect or refusal shall continue”. No similar language was included in the railroad obstruction statute.
+This statute is a penal one, People v Blair; 183 Mich 130, 132; 149 NW 1039 (1914), and as such should be strictly construed. People v Bergevin, 406 Mich 307, 311-312; 279 NW2d 528 (1979). In the absence of a clear legislative intent to define the unit of offense for this crime as each five-minute interval, we must permit only a single prosecution for a single blocking. United States v Jones, 533 F2d 1387 (CA 6, 1976).
+Defendant argues that the trial court erred in admitting into evidence testimony regarding other obstructions. Such testimony was permitted, over defense objection, to show a prior scheme, pattern, or design and was found to be relevant to help determine the credibility of a claim that the blocking in this case was due to mechanical failure. At the time the prosecution sought to introduce this evidence, however, this defense had not been raised. This evidence was, therefore, not material as it was not probative of a matter in issue at that point in the trial. People v Wilkins, 82 Mich App 260; 266 NW2d 781 (1978), rev’d on other grounds 408 Mich 69; 288 NW2d 583 (1980). As this was a bench trial, the error in departing from the appropriate order of proofs in this case was not prejudicial.
+We further find that evidence of the prior blockings was relevant where defendant’s witnesses’ credibility could be attacked by showing that the railroad consistently left trains blocking Gooding Road. This showing negates defendant’s theory that the blockage involved in this case was due to mechanical failure.
+Defendant is correct in asserting, however, that the evidence of similar acts that was introduced was vague. Evidence of similar acts need not be established beyond a reasonable doubt. People v Duncan, 402 Mich 1, 14; 260 NW2d 58 (1977). In the instant case, however, the testimony of the similar-acts witnesses was not specific as to times or dates of other blockings, nor was the testimony, always limited to blockings by defendant’s trains. Even though this evidence was vague, the trial court found, as a matter of fact, that blockings were a daily occurrence in the Gooding Road area, and the trial court relied on this finding in its decision that defendant’s witnesses were incredible. While the trial court erred in admitting and considering the vague allegations of similar conduct, we do not believe the error requires reversal since the remaining proofs overwhelmingly support the trial court’s finding that, even assuming the initial blocking was due to mechanical failure, the time period within which the violations of the statute were charged was not attributable to mechanical failure.
+Defendant also argues that the trial court improperly allocated the burden of persuasion concerning the defense of mechanical failure. That defense was set out at MCL 466.25; MSA 22.281(3). This provision is separate from the statute defining the offense, MCL 466.23; MSA 22.281(1), and was added to the penalty provision. This section is silent as to who bears the burden of coming forward with evidence of this defense.
+This statutory scheme suggests that the Legislature intended mechanical failure to be a defense— not an element of the crime. Treating mechanical failure as a defense and not an element of the crime avoids a waste of administrative and judicial time. The facts that would allow a defendant to introduce the defense are readily available to the railroad. The burden of production of some evidence of this defense rests on the defendant. Once the defendant has introduced some evidence to show mechanical failure, the prosecution bears the burden of disproving that defense beyond a reasonable doubt.
+It fairly can be said, as indicated above, that the trial court held that, even if the initial cause of the blockage at 4 p.m. had been caused by mechanical failure, the blockage commencing at 6 p.m. was not caused by mechanical failure. This finding was based on evidence that the railroad Company could have sent engines to the site of the blockage within one hour, that two hours had elapsed, and that it was an easy task to separate the cars at the crossing.
+In denying the motion for a new trial, the trial court stated that: .
+"[a]nd the Court was convinced beyond a reasonable doubt that the — that there had been a blockage of this rail crossing for the periods of time as set forth in the opinion and that this blockage had occurred absenting [sic] mechanical failure which would excuse its occurrence.”
+Thus, we conclude that the prosecution disproved, beyond a reasonable doubt, defendant’s claim that the blockage was due to excusable mechanical failure.
+The evidence presented at trial was sufficient to sustain a guilty verdict with respect to a single obstruction of vehicular traffic. Accordingly, the order of the circuit court is reversed in part and affirmed in part in conformity with this opinion.
