@@ -1,0 +1,40 @@
+---
+court: "Michigan Court of Appeals"
+docket: "17584"
+decided: "1974-10-08"
+citations: ["56 Mich. App. 37"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Lesinski, C. J., and Bronson and Van Valkenburg, JJ.", "All concurred."]
+parties: ["PEOPLE v WEST"]
+source_url: "https://static.case.law/mich-app/56/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2131030
+cites_cases: ["15 Mich App 600", "167 NW2d 107", "185 NW2d 834", "204 NW2d 759", "213 NW2d 597", "218 NW2d 95", "239 NW 387", "25 Mich 405", "256 Mich 131", "29 Mich App 597", "43 Mich App 741", "50 Mich App 487", "52 Mich App 605"]
+---
+
+# People v. West
+
+## Majority (Lesinski, C. J.)
+
+Lesinski, C. J.
+Defendant Jessie West was convicted by a jury of carrying a concealed weapon, MCLA 750.227; MSA 28.424. He appeals as of right.
+Defendant was arrested along with William Clark and a third individual when Inkster Police entered the men’s room of a local bár and observed three men engaged in the transfer of a white powder which appeared to be heroin. All three men were arrested and charged with possession of narcotics. At the moment of arrest the officers also observed the defendant lift a gun from his shoulder holster and drop it to the floor. As a result of this observation defendant was also charged with carrying a concealed weapon.
+At the preliminary examination, the narcotics-related charges against defendant, Clark, and the third man were dismissed without prejudice when it was determined that the chemical analysis of the substance was not presently available. Defendant, however, was bound over for trial on the charge of carrying a concealed weapon. At the onset of trial defendant moved to have the two men arrested with him on the narcotics-related charge indorsed as res gestae witnesses. The trial court ruled that indorsement was unnecessary since these two men were his accomplices on the dismissed charge of possession of narcotics. Defendant contends that the trial court committed reversible error in failing to have the people indorse these two men as res gestae witnesses.
+The long-established rule in Michigan is that the prosecutor has the obligation of producing and calling all res gestae witnesses, MCLA 767.40; MSA 28.980, but is entitled to impeach them pursuant to MCLA 767.40a; MSA 28.980(1). People v Szymanski, 52 Mich App 605; 218 NW2d 95 (1974). A recognized exception to this rule exists where the witness or witnesses are accomplices to the crime. As this Court stated in People v Virgil Brown, 15 Mich App 600, 603; 167 NW2d 107, 108 (1969):
+"The rule requiring the people to indorse on the information and call all res gestae witnesses does not apply to accomplices.”
+The rationale for this exception was stated in People v Raider, 256 Mich 131, 135-136; 239 NW 387, 389 (1931):
+"Obviously the exceptions were founded upon the recognized inclination or inducement of those close to the accused, by community of interest in the crime or relationship, to perjure themselves, if they deem it necessary, in his behalf, and the incongruity of requiring the prosecution to make such witnesses its own.”
+In People v Moore, 29 Mich App 597, 601; 185 NW2d 834, 837 (1971), this Court stated the accomplice exception applies "whether or not the witness has been charged, and whether or not the action, if any, against him is still pending”.
+There can be little doubt that under Moore the two men arrested with defendant would be treated as accomplices and therefore not subject to indorsement if defendant had been tried on the possession of narcotics charge. The issue before this Court is therefore whether accomplices to one crime are also to be treated as accomplices to a separate crime which arose out of the same circumstances.
+In People v Szymanski, supra, at 610-611, this Court was called upon to define accomplices for the purpose of the res gestae exception. We stated:
+"However, the same facts which lead to the conclusion that Rials was a res gestae witness persuade us that he was not an accomplice to the shooting of the officer. Rials could not have been charged as an accomplice to the crime of assault with intent to murder when he could not be found to have acted in concert with the defendant. People v King, supra [50 Mich App 487; 213 NW2d 597 (1973)]. He was not present at the shooting, did not procure, counsel, aid or abet in the commission of the crime.”
+The record in this case is devoid of any showing that , the arrested res gestae witnesses were accomplices to the crime charged. However, the prosecutor in his brief cites People v Unsworth, 43 Mich App 741; 204 NW2d 759 (1972), for the proposition that: "When two crimes are happening at the same time, if a res gestae witness is an accomplice to one crime he is an accomplice to the second crime with respect to excusing indorsement on the information as a res gestae witness”. We believe that Unsworth is far more limited in its determination of this question.
+In People v Unsworth, this Court indicated that a witness will be treated as an accomplice and therefore need not be called by the prosecutor where he is particeps criminis with the defendant. In Unsworth the res gestae witness had participated with defendant in an attempted robbery which resulted in the shooting of the victim. In essence we found that there was a direct line between the concerted activity of defendant and the res gestae witness, an attempted robbery, and the charge defendant was brought to trial on, assault with intent to do great bodily harm less than murder. We believe that this situation is substantially different from the case at bar. In the case at bar, there is no rational connection between the alleged concerted activity of defendant and res gestae witnesses, possession of narcotics, and the charge defendant was brought to trial on, carrying a concealed weapon. While defendant’s arrest for carrying a concealed weapon occurred at the same point in time as his and the res gestae witnesses’ arrest for possession of narcotics, this is not in itself enough to make res gestae witnesses accomplices.
+The purpose of the res gestae rule was stated over 100 years ago by Chief Justice Christiancy in Hurd v People, 25 Mich 405, 416 (1872):
+"The only legitimate object of the prosecution is, 'to show the whole transaction, as it was, whether its tendency be to establish guilt or innocence.’ The prosecuting officer represents the public interest, which can never be promoted by the conviction of the innocent. His object like that of the court, should be simply justice; and he has no right to sacrifice this to any pride of professional success. And however strong may be his belief of the prisoner’s guilt; he must remember that, though unfair means may happen to result in doing justice to the prisoner in the particular case, yet, justice so attained, is unjust and dangerous to the whole community. And, according to the well-established rules of the English courts, all the witnesses present at the transaction, should be called by the prosecution, before the prisoner is put to his defense, if such witnesses be present, or clearly attainable.”
+We are convinced that this purpose is best served by narrowly construing the accomplice exception where the concerted activity of the res gestae witnesses and the defendant bear no reasonable relation to the offense defendant is tried on. By requiring the prosecutor to produce and call these res gestae witnesses we maintain the defendant’s right of cross-examination. Any alleged harm to the people’s case resulting from this requirement is offset in our opinion by the prosecutor’s statutory right to cross-examine any witness he is forced to call, pursuant to MCLA 767.40a; MSA 28.980(1).
+We hold that the trial court erred in failing to require the prosecutor to produce and call all res gestae witnesses.
+Reversed and remanded for a new trial.
+All concurred.
