@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "25662"
 decided: "1977-03-31"
-citations: ["74 Mich. App. 601", "79 Mich. App. 186"]
+citations: ["74 Mich. App. 601"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v RONALD GREEN"]
 source_url: "https://static.case.law/mich-app/74/cases/0601-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2168988
-cites_cases: ["108 Mich 307", "108 Mich 361", "180 NW2d 328", "193 NW2d 363", "211 NW2d 51", "213 NW2d 769", "214 NW2d 561", "223 NW2d 340", "226 NW2d 540", "227 NW2d 523", "232 NW2d 174", "235 NW2d 50", "237 NW2d 247", "24 Mich App 411", "242 NW2d 377", "242 NW2d 45", "245 NW2d 778", "251 NW2d 264", "254 NW2d 619", "254 NW2d 788", "256 NW2d 44", "256 NW2d 45", "258 NW2d 89", "36 Mich App 294", "393 Mich 488", "394 Mich 627", "396 Mich 650", "401 Mich 802", "48 Mich App 622", "48 NW 693", "50 ALR2d 766", "50 Mich App 714", "51 Mich App 67", "56 Mich App 10", "57 Mich App 505", "64 Mich App 23", "65 Mich App 197", "66 NW 213", "66 NW 41", "68 Mich App 145", "70 Mich App 430", "73 Mich App 107", "74 Mich App 601", "74 Mich App 700", "75 Mich App 582", "75 Mich App 600", "77 Mich App 392", "86 Mich 134"]
+cites_cases: ["108 Mich 307", "108 Mich 361", "180 NW2d 328", "211 NW2d 51", "213 NW2d 769", "214 NW2d 561", "223 NW2d 340", "226 NW2d 540", "227 NW2d 523", "232 NW2d 174", "235 NW2d 50", "237 NW2d 247", "24 Mich App 411", "242 NW2d 377", "242 NW2d 45", "245 NW2d 778", "393 Mich 488", "394 Mich 627", "396 Mich 650", "48 Mich App 622", "48 NW 693", "50 ALR2d 766", "50 Mich App 714", "51 Mich App 67", "56 Mich App 10", "57 Mich App 505", "64 Mich App 23", "65 Mich App 197", "66 NW 213", "66 NW 41", "68 Mich App 145", "70 Mich App 430", "86 Mich 134"]
 ---
 
 # People v. Green
