@@ -1,0 +1,35 @@
+---
+court: "Michigan Court of Appeals"
+docket: "77-4589"
+decided: "1978-10-18"
+citations: ["86 Mich. App. 552"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. E. Holbrook, Jr., P.J., and T. M. Burns and W. Van Valkenburg, JJ."]
+parties: ["PEOPLE v FIGLUS"]
+source_url: "https://static.case.law/mich-app/86/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2183513
+cites_cases: ["180 NW2d 17", "226 NW2d 565", "240 NW2d 729", "244 NW2d 898", "254 NW2d 907", "256 NW2d 39", "32 NW2d 723", "321 Mich 497", "335 US 833", "384 Mich 151", "394 Mich 751", "396 Mich 424", "397 Mich 360", "57 Mich App 573", "69 S Ct 21", "75 Mich App 407", "75 Mich App 505", "93 L Ed 386"]
+---
+
+# People v. Figlus
+
+## Majority (T. M. Burns, J.)
+
+T. M. Burns, J.
+Defendant pled guilty to second-degree murder, MCL 750.317; MSA 28.549, and was sentenced to a life term. The plea was offered after jurisdiction over the defendant had been waived by the probate court under JCR 1969, 11.6 and MCL 712A.4; MSA 27.3178(598.4).
+The incident upon which the current charge is based occurred December 10, 1976. On that date, defendant was 15 years old. He had spent the previous night with a friend, the brother of the victim, in his friend’s parents’ home. When his friend left for school, defendant returned to the house to rape and kill the victim. The factual basis taken at the plea proceeding showed that defendant gained the victim’s consent to intercourse by breaking her nose and then killed her by stabbing her 34 times with the hunting knife he had brought to the house for that purpose. These deeds accomplished, defendant took a shower in the adjoining bath and left for school.
+Circumstances caused the police to focus their suspicion on defendant very quickly. Defendant was taken into custody at his home that afternoon. He was accompanied by his parents and an attorney. The attorney was with defendant throughout that day and evening. An agreement was reached by the prosecutor, defense counsel and defendant under which defendant would be allowed to plead guilty to a second-degree murder charge in circuit court if he made a truthful statement to the police and jurisdiction was waived by the probate court. This agreement, reached on the night of the offense, was ultimately carried out.
+Jurisdiction over the defendant was waived by the probate court after a lengthy hearing and psychiatric evaluation. No appeal from the probate court’s decision to waive jurisdiction was taken in the circuit court. See, MCL 712A.22, 701.45a; MSA 27.3178(598.22), 27.3178(45.1). Instead, defendant pled guilty as noted above.
+Appellate counsel was routinely appointed and moved to set aside the plea, not because of any alleged errors in the plea taking proceeding, but because it was claimed defendant’s rights had been violated by the admission of evidence during the waiver hearing before the probate court. The trial court held a hearing on this motion and issued a detailed opinion. The trial court concluded that failure to challenge the waiver of jurisdiction before pleading guilty foreclosed review of the issues raised. We agree and affirm.
+The decision here is controlled by People v Morris, 57 Mich App 573, 577; 226 NW2d 565 (1975), lv den, 394 Mich 751 (1975). In Morris the defendant attempted to challenge the introduction of evidence at his waiver hearing after pleading guilty to a reduced charge. The panel concluded that by pleading guilty without seeking review of the probate waiver decision, defendant waived any infirmity in that proceeding. A similar conclusion was reached in People v Mahone, 75 Mich App 407; 254 NW2d 907 (1977), where defendant did not challenge any particular evidentiary ruling, but rather, alleged an abuse of discretion in the probate court’s decision to waive jurisdiction.
+Like the juvenile defendants in Morris and Ma-hone, defendant did not invoke the circuit court’s review of the probate court’s decision to waive jurisdiction over him before pleading guilty to the information filed in the circuit court. His failure to do so waived any infirmity in that proceeding.
+This result is consistent with Supreme Court precedents. In People v Peters, 397 Mich 360; 244 NW2d 898 (1976), a juvenile defendant who had pled guilty in circuit court after the probate court had waived its jurisdiction attempted to have the plea set aside because it was coerced by the existence of an illegally obtained confession. The court did not pass on the evidentiary question, i.e., whether the confession was illegally obtained, but instead held that the intervening guilty plea upon advice of counsel waived any possible error. The conviction did not rest on the confession, but on the subsequent plea. Many other cases recognize that a plea of guilty waives errors in prior proceedings and the right to challenge alleged police misconduct. In re Reno, 321 Mich 497; 32 NW2d 723 (1948), cert den, 335 US 833; 69 S Ct 21; 93 L Ed 386 (1948), People v Zunno, 384 Mich 151; 180 NW2d 17 (1970).
+People v Alvin Johnson, 396 Mich 424; 240 NW2d 729 (1976), liberalized the rule by stating that review of certain claims, such as "failure to suppress illegally-obtained evidence without which the people could not proceed”, 396 Mich at 444, were not waived by an unconditional guilty plea. Whether the court was referring to such items basic to a prosecution such as a controlled substance in a prosecution for possession of that substance, or a gun in a prosecution for carrying a concealed weapon, or more general evidentiary questions such as the existence of an arguably illegal confession, is not clear from that opinion. However, the subsequent decision in Peters indicates the former meaning was intended.
+Defendant was represented by an attorney from the time he was taken into custody. Counsel did not challenge the decision to waive jurisdiction over defendant generally or these evidentiary points as contributing to the decision to waive in particular. The counseled entry of an unconditional plea forecloses our direct review of those points in an appeal from the guilty plea.
+Affirmed.
+The information filed in this case charged open murder and cited the first-degree murder statute, MCL 750.316; MSA 28.548. The facts developed at the plea proceeding show the prosecution could have charged defendant with felony murder or premeditated murder.
+Had defendant challenged the probate court’s decision to waive jurisdiction over him before the plea was offered, a different question would be presented. In those circumstances it would appear that defendant could challenge the waiver decision. People v Schumacher, 75 Mich App 505; 256 NW2d 39 (1977).
+In this case, no attempt to challenge the waiver decision was made until after the time for appeal had passed. No effort was made to file a delayed appeal from that decision either in the circuit court or in this court.
