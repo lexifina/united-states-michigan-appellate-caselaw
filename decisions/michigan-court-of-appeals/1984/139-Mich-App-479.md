@@ -1,0 +1,30 @@
+---
+court: "Michigan Court of Appeals"
+docket: "75156"
+decided: "1984-10-23"
+citations: ["139 Mich. App. 479"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Bronson, P.J., and Mackenzie and J. L. Banks, JJ."]
+parties: ["RUFFIN v KENT"]
+source_url: "https://static.case.law/mich-app/139/cases/0479-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2271307
+cites_cases: ["123 Mich App 361", "155 NW2d 262", "202 NW2d 527", "227 NW2d 292", "333 NW2d 282", "418 Mich 869", "42 Mich App 642", "58 Mich App 202", "8 Mich App 618"]
+---
+
+# Ruffin v. Kent
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs appeal as of right from an order of the circuit court denying their motion for a continuance and dismissing their suit with prejudice and from a subsequent order denying their motion to reinstate their suit. We find that the court abused its discretion in denying plaintiffs’ motion to adjourn the trial date and subsequent motion to reinstate.
+GCR 1963, 503.1 provides in pertinent part as follows:
+".1 Policy. It is the policy of this rule to encourage the diligent preparation and trial of cases. Except where the court, within its discretion and to promote the ends of justice, adjourns a cause, continuation of any trial or hearing upon stipulation shall not be granted unless the stipulation is made in writing or made orally only in open court and is based upon good cause shown to the satisfaction of the court under all of the circumstances of the case and with a view toward speedy and substantial justice.”
+The grant or denial of a motion for adjournment is within the trial court’s discretion; cases upholding a denial have always involved some combination of numerous past continuances, failure of the movant to exercise due diligence, and lack of any injustice to the movant. Rosselott v County of Muskegon, 123 Mich App 361, 370-371; 333 NW2d 282 (1983), lv den 418 Mich 869 (1983); Hackett v Connor, 58 Mich App 202, 206; 227 NW2d 292 (1975).
+Plaintiffs’ complaint alleging medical malpractice was filed in October of 1981, and defendants’ answer was filed in February of 1982. Mediation was held in May of 1982, and the mediation award was rejected by all the parties. On September 3, 1982, defendants moved for and were granted an adjournment of the trial date from September 24, 1982, to November 15, 1982. Plaintiffs’ motion for adjournment was made on November 15 when the case was called for trial.
+On appeal defendants rely heavily on cases holding that denial of a motion to adjourn because of the absence of a witness is proper where the movant fails to provide an adequate explanation and show that diligent efforts were made to secure the witness. E.g., Sleeman v Dickinson County Bd of Road Comm’rs, 8 Mich App 618, 624-626; 155 NW2d 262 (1967). See also GCR 1963, 503.2. Defendants point to plaintiffs’ counsel’s failure to show that diligent efforts were made to secure plaintiffs’ expert’s presence at trial. However, the basis for plaintiffs’ motion was not simply that their expert was out of state, but also that discovery had not yet been completed (only plaintiffs and one of the three defendant doctors having been deposed), and that plaintiffs’ counsel had learned on November 12, 1982, that a trial on another of his cases was to commence on November 18, and that the parties were ordered to take a deposition for that case later in the day on November 15 or November 16.
+Where a motion to adjourn is requested in order to complete discovery, the inquiry focuses on whether the movant has shown an adequate explanation for the failure to complete discovery and whether the failure was due to a lack of diligence in preparation. Hackett, supra; State Highway Comm v Redmon, 42 Mich App 642, 646-647; 202 NW2d 527 (1972). In the present case, the trial court never made a finding of a lack of diligence by plaintiffs, and we find that the explanation provided by plaintiffs’ counsel does not reflect lack of diligence or negligence on the part of plaintiffs. While the depositions of all the parties were originally scheduled to be taken prior to the November 15 trial date, the November 8 date for deposing Dr. Paroly had to be cancelled because plaintiffs’ counsel was in trial on another case on that date, and Dr. Paroly’s deposition was rescheduled to January 12, a date supplied by defense counsel. The deposition of Dr. Kent was scheduled for October 14, the same date as plaintiffs’ depositions, but when plaintiffs were unable to make it on that date due to transportation problems, Dr. Kent’s attorney refused to produce Dr. Kent and stated that the next available date for his deposition was January 19; plaintiffs’ depositions were subsequently taken on October 20. Only six months had elapsed from the mediation until the scheduled trial date of November 15 in this medical malpractice case involving three defendant doctors. Compare Hackett, supra.
+We further note that at no time did defense counsel show how the granting of the adjournment would be unfair to defendants and note that the trial court did not address itself to the possible difficulties posed by plaintiffs’ counsel’s other trial set to commence on November 18 and that other court’s order that a deposition be taken in that case on November 15 or 16. We do, however, appreciate the trial court’s concern with efficient court administration and agree that plaintiffs’ counsel could have and should have made a motion to adjourn sooner. While this delay in bringing the motion would certainly have warranted a sanction such as imposition of cost, see GCR 1963, 503.3, we nevertheless conclude, in view of the explanation provided by plaintiffs’ counsel and the absence of any lack of diligence in preparation by plaintiffs or any injustice to defendants, that the court’s refusal to grant an adjournment and subsequent refusal to reinstate the case represented an abuse of discretion.
+Reversed and remanded.
