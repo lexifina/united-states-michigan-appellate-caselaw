@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "54357"
+decided: "1982-01-06"
+citations: ["112 Mich. App. 319"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie* P.J-.* and Bronson and Beasley* JJ."]
+parties: ["ROCHESTER MEADOWS APARTMENTS v CITY OF ROCHESTER"]
+source_url: "https://static.case.law/mich-app/112/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2211489
+cites_cases: ["112 NW2d 434", "1969 PA 115", "22 NW2d 270", "259 NW2d 160", "283 NW2d 645", "31 Mich 383", "314 Mich 198", "32 NY 81", "324 Mich 675", "365 Mich 242", "37 NW2d 671", "402 Mich 9501", "77 Mich App 618", "91 Mich App 470"]
+---
+
+# Rochester Meadows Apartments v. City of Rochester
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Appellant appeals by right from the Michigan Tax Tribunal’s dismissal of appellant’s petition for review of its 1979 property tax assessment. The tribunal held that it had no jurisdiction because appellant had failed to protest the assessment before the board of review and that adequate notice of the increased assessment had been sent.
+Appellant is the owner of a 348-unit apartment complex in the City of Rochester. Appellant’s name had appeared on appellee’s tax rolls for the property from 1974 to 1979. The name of the United States Department of Housing and Urban Development (HUD) also appeared on appellee’s tax rolls for the property from 1975 to 1979. The assessment for the property remained unchanged from 1974 to 1977. In 1978, the assessment was increased by approximately one percent. Notice of the increase was sent to HUD but not to appellant. The assessor testified that he sent the notice to HUD because local rumor indicated that HUD was the owner of the property. The managing partner of appellant testified that appellant eventually became aware of the 1978 increase through HUD and that appellant had not contested the increase because of its small size and the expense of litigation.
+In 1979, the assessment was increased by approximately 12 percent. Again, notice of the increase was sent to HUD but not to appellant. Appellant became aware of the increase only after the board of review hearing was concluded.
+MCL 211.24c; MSA 7.24(3) provides:
+“The supervisor or assessor shall give to each owner or person or persons listed on the tax roll of the property a notice by first class mail of an increase in the assessment for the year. The notice shall specify each parcel of property, the assessed valuation for the year and the previous year, the net change in assessment, and the time and place of the meeting of the board of review. The notice shall be addressed to the owner according to the records of the supervisor or assessor and mailed not less than 10 days before the meeting of the board of review. The failure of the property owner to receive notice shall not invalidate an assessment roll or an assessment on property.”
+The tribunal held that notice to HUD satisfied the requirements of the statute as follows:
+"Based upon the clear language of the statute, notice is sufficient when the assessor mails notice of increase to the owner, or those persons whose name appears on the roll. HUD’s name and address has appeared on petitioner’s tax roll since 1975. * * * It is well established in Michigan case law that an assessment of land is not void because it is made in the name of one other than the owner.”
+The tribunal’s interpretation of the statute ignored the word "each”. Since appellant as well as HUD was a person listed on the tax roll of the property, appellant was entitled to notice.
+The tribunal held that appellant had waived the right to receive notice in 1979, by failing to contest the 1978 assessment, relying on Chilton’s, Inc v Wilmington Apartment Co, 365 Mich 242, 248; 112 NW2d 434 (1961). In that case, plaintiff had purchased certain property from the defendant apartment company but did not record the deed or cause the property to be entered on the tax rolls under its name. Tax bills were sent to the defendant apartment company, which did not forward them to plaintiff. Subsequently, the property was sold for delinquent taxes to other defendants, with whom it was alleged that the defendant apartment company was engaged in a conspiracy. The Court said:
+"That plaintiff was charged with notice that taxes were being levied on the lot is not open to question. No claim is made that the lot was exempt from taxation for any reason, or that plaintiff believed such to be the case. Failure on the part of plaintiff to put its deed on record and to have the property entered for taxation in its name subjected it to the hazards of the situation resulting therefrom. It has been said that:
+" 'A court of equity will not relieve a party from the consequences of a risk which he voluntarily assumes.’ Patterson v Brown, 32 NY 81 [1865]; McCredie v Buxton, 31 Mich 383, 388 [1875]; Blunt v Auditor General, 324 Mich 675, 680 [37 NW2d 671 (1949)].
+"Clearly the failure of plaintiff to properly protect its interest in the lot did not result in any duty on the part of any of these defendants to assume that plaintiff was not aware of the actual situation and to advise it with reference thereto.”
+Here, in contrast to the Chilton case, it is not contended that appellant’s deed to the property was unrecorded or that appellant’s name was not entered on the tax rolls of the property. Appellant had a right to rely upon the assessor’s performance of his statutory duty to notify each person listed on the roll. We know of no authority indicating that a party’s waiver of a procedural defect in one proceeding prevents the party from insisting on correct procedures in a subsequent proceeding.
+In this connection, we note that the tribunal’s reliance on Caplan v Jerome, 314 Mich 198, 203; 22 NW2d 270 (1946), was misplaced. In that case the Court said:
+"Every owner of land is chargeable with notice that a tax will be levied on it each year. It is no hardship to require that he shall appear at the hearing in court and raise any question affecting the manner of the assessment as well as the validity of the taxes, and secure such a decree as in law and equity protects his interests as owner.”
+However, the statute at issue here was enacted by 1969 PA 115 to change the rule stated in Caplan, at least as it applied to notice of an increase in assessment. See W & E Burnside, Inc v Bangor Twp, 77 Mich App 618, 623; 259 NW2d 160 (1977) , rev’d on other grounds 402 Mich 9501 (1978) .
+The tribunal was correct in holding that it had no jurisdiction over an assessment dispute not previously protested to the board of review. MCL 205.735(1); MSA 7.650(35)(1). However, satisfaction of the notice requirement of MCL 211.24c; MSA 7.24(3) is a precondition to a valid increase in a tax assessment. Burnside, supra, Sisters of Mercy, Province of Detroit, Inc v Pennfield Twp, 91 Mich App 470; 283 NW2d 645 (1978). The statutory language, "The failure of the property owner to receive notice shall not invalidate an assessment roll or an assessment on property”, does not require a different result. That language merely prevents invalidation of an assessment where notice was sent by first class mail pursuant to the statute but was not actually received by the property owner. Burnside, supra, 624, fn 5, Sisters of Mercy, supra, 473, fn 3. Since the tribunal was without jurisdiction to review the assessment dispute but appellee failed to satisfy a precondition to a valid increase in assessment, the tribunal’s dismissal of appellant’s petition is affirmed but the increase in assessment is invalid and unenforceable. Burnside, supra, 625, Sisters of Mercy, supra, 473.
+Affirmed in part and reversed in part.
