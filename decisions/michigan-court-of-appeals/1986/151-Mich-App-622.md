@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "79784"
+decided: "1986-05-19"
+citations: ["151 Mich. App. 622"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: D. E. Holbrook, Jr., P.J., and Shepherd and D. A. Roberson, JJ."]
+parties: ["PEOPLE v WIGGINS"]
+source_url: "https://static.case.law/mich-app/151/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2285811
+cites_cases: ["122 Mich App 571", "144 Mich App 637", "228 NW2d 210", "296 NW2d 333", "332 NW2d 541", "376 NW2d 176", "394 Mich 34", "41 ALR Fed 874", "417 Mich 1100", "64 ALR3d 1226", "98 Mich App 668"]
+---
+
+# People v. Wiggins
+
+## Majority (Shepherd, J.)
+
+Shepherd, J.
+Defendant was charged with four counts of first-degree criminal sexual conduct, MCL 750.520b; MSA 28.788(2), for his alleged sexual contact with two boys under the age of thirteen. He pled nolo contendere to one count of second-degree criminal sexual conduct, MCL 750.520c; MSA 28.788(3), in exchange for the dismissal of the first-degree criminal sexual conduct charges. He was sentenced to from four to fifteen years in prison. Defendant appeals from his sentence as of right. We affirm.
+Defendant raises several issues on appeal. First, he argues that the trial court improperly considered the preliminary examination transcript which encompassed all four of the first-degree criminal sexual conduct charges in sentencing defendant. This issue is without merit. At the sentencing hearing, in reviewing the history of the case, the trial court mentioned that, by agreement of the parties, the factual basis for defendant’s plea had been established using the preliminary examination transcript. Defendant agrees that in the case of a nolo contendere plea, where the trial court is unable to question the defendant to establish the factual basis for the plea, the preliminary examination transcript may be used to establish the factual basis. People v Chilton, 394 Mich 34; 228 NW2d 210 (1975). However, defendant contests the fact that the trial court used the entire preliminary examination transcript, which described four instances of first-degree criminal sexual conduct, to establish the factual basis, and that the court utilized the information contained in the preliminary examination transcript in sentencing defendant.
+Defendant cites no authority for the proposition that the trial court should have limited its review of the transcript to the evidence of the single charged offense of second-degree criminal sexual conduct in establishing the factual basis for that charge. Nor does it even appear possible to isolate testimony relating to the charged offense because the testimony was intermingled with that relating to the other offenses.
+As for considering the dismissed charges in imposing sentence, we note that a sentencing court is allowed to consider defendant’s admissions and even "separate criminal activity 'for which no conviction resulted, provided the defendant is given an opportunity for refutation.’ ” People v Butts, 144 Mich App 637, 641; 376 NW2d 176 (1985). According to the presentence report, defendant admitted all of the charges against him. At sentencing, defense counsel stated that he had reviewed the presentence report and had no corrections, additions, or objections to the content of the report. Since defendant was given the opportunity to refute the remaining three charges of criminal sexual conduct contained in the presentence report, in accordance with MCR 6.10KK), the trial court was allowed to consider criminal activity in which defendant had engaged, but of which he had not been convicted.
+Defendant next argues that the trial court improperly relied on a presentence report which had not been specifically prepared for the offense to which he pled. His argument is apparently based on the fact that the presentence report mentions that four counts of first-degree criminal sexual conduct had been dropped the further indicates that, according to the victims and the defendant, defendant had in fact committed all of the charged offenses. Our review of the presentence report reveals that it clearly was prepared specifically for the second-degree criminal sexual conduct charge for which defendant was convicted. In any event, this issue is not preserved for appeal. At a hearing on defendant’s motion to vacate sentence, defendant objected only to the inclusion in the presentence report of his prior misdemeanor convictions. He did not allege that the presentence report was not specifically prepared for the offense to which defendant pled, or was stale or outdated. Appellate courts will not review an alleged error in the presentence report unless a record is made before the sentencing judge. People v Doss, 122 Mich App 571, 576; 332 NW2d 541, lv den 417 Mich 1100.16 (1983); People v Herndon, 98 Mich App 668, 674; 296 NW2d 333 (1980).
+Defendant next argues that the trial court improperly assessed points in scoring offense variables under the sentencing guidelines for multiple victims, contemporaneous criminal acts and penetration. He contends that since he pled nolo contendere to only one count of second-degree criminal sexual conduct and the four counts of first-degree criminal sexual conduct were dismissed, the trial court could not assess points for circumstances relating to the dismissed charges. This issue is without merit. As discussed above, a sentencing court is allowed to consider a defendant’s admissions and even separate criminal activity for which no conviction resulted, provided the defendant is given an opportunity, as was done here, to refute the facts or charges. People v Butts, supra, p 641. Consistent with this principle, the sentencing guidelines’ instructions direct the trial court to consider admitted or proven facts in calculating the guidelines score even though the facts are inconsistent with the offense for which the defendant is convicted:
+II. Scoring a Conviction
+A. BASIC CONSIDERATIONS
+3. Where the facts are proven or acknowledged and are not consistent with the conviction offense (e.g., use of a weapon coupled with a conviction for unarmed robbery), the actual facts are still to the applied in scoring the appropriate variables.
+Affirmed
