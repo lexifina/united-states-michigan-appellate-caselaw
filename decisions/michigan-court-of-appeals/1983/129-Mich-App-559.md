@@ -1,0 +1,44 @@
+---
+court: "Michigan Court of Appeals"
+docket: "68848"
+decided: "1983-10-10"
+citations: ["129 Mich. App. 559"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: J. H. Gillis, P.J., and D. E. Holbrook, Jr., and J. R. Ernst, JJ."]
+parties: ["MARRS v MICHIGAN BOARD OF MEDICINE"]
+source_url: "https://static.case.law/mich-app/129/cases/0559-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2253192
+cites_cases: ["22 NW2d 893", "314 Mich 548", "385 So 2d 143", "98 L Ed 851"]
+---
+
+# Marrs v. Michigan Board of Medicine
+
+## Majority (J. H. Gillis, P.J.)
+
+J. H. Gillis, P.J.
+Petitioner, Jack W. Marrs, M.D., appeals as of right from the circuit court’s order of December 23, 1982, affirming respondent Board of Medicine’s final order suspending his license to practice medicine for one year and imposing restrictions on his practice thereafter.
+The complaint filed by the Attorney General charged that between March, 1977, and September, 1978, Dr. Marrs violated 1978 AACS, R 338.2303, the so-called Amphetamine Rule, in the prescription of amphetamines to two patients, G. S. and S. S., seen at his family practice office, and by prescribing drugs to G. S. and S. S. in violation of the Medical Practice Act, MCL 338.1801 et seq.; MSA 14.542(1) et seq.
+After a formal hearing held on July 16, 1980, the hearing officer, Philip J. Prygoski, found that in prescribing amphetamines for both G. S. and S. S. after March 20, 1978, Dr. Marrs violated the Amphetamine Rule by:
+(1) failing to properly record the blood pressures and pulse and failing to check the heart and lungs of either G. S. or S. S., and failing to properly record the weight of G. S., in contravention of Rules 3(4)(a) and 3(4)(e);
+(2) failing to stop dispensing Desoxyn after noting that S. S. was actually gaining weight over the course of her treatment, in violation of Rule 3(4)(d); and
+(3) failing to discontinue use of amphetamines for 90 days after having prescribed them for 90 continuous prior days, contrary to Rule 3(4)(f).
+In relation to the question of acceptable minimal standards applied in 1977 and 1978, the hearing officer found violations of the following sections of the Medical Practice Act:
+(1) § ll(2)(b), failure to use reasonable care and discrimination in the administration of drugs and failure to employ acceptable scientific methods in the selection of drugs, in that the length of the prescribing period, coupled with the additive effects of multiple drug use, was not reasonable under the circumstances;
+(2) § ll(2)(c), in the limited sense of "prescribing drugs for other than * * * legitimate therapeutic purposes”, not that Dr. Marrs acted illegally but that, according to one witness, the number and combination of drugs could not be defended as legitimately therpeutic; and
+(3) § ll(2)(i), in relation to both prescribing and record-keeping, Dr. Marrs did not conform to minimally acceptable standards of practice in his area for 1977-1978, since the combination of drugs in the manner prescribed was potentially dangerous and called for the strictest monitoring and record-keeping.
+Based on these findings of fact and conclusions of law, the Board of Medicine reprimanded Dr. Marrs, suspended his license for one year, and ordered that during the suspension period Dr. Marrs earn 40 hours of board-approved continuing medical education in the areas of pharmacology and therapeutics in addition to other continuing medical education requirements. In addition, upon reinstatement, Dr. Marrs would be issued a limited license for not less than two years, during which time Dr. Marrs would not obtain, possess, prescribe, dispense, or administer any controlled substance under the Public Health Code or federal law and that Dr. Marrs could not apply for or obtain a controlled substances license under Michigan or federal law. Finally, once reinstated, Dr. Marrs would be placed on probation for two years.
+On appeal, Dr. Marrs raises three issues.
+First, contrary to his arguments on the first issue on appeal, petitioner was not denied an opportunity to show meaningful compliance with all lawful requirements for retention of his license. MCL 24.292; MSA 3.560(192) provides that "[b]e-fore the commencement of proceedings for suspension * * * of a licensee * * * [t]he licensee shall be given an opportunity to show compliance with all lawful requirements for the retention of the license”. Petitioner does not argue that he never engaged in the prohibited activities but argues that, once a petitioner shows that the contested practices have ceased, with no intention for repetition, the complaint should be dismissed.
+We disagree with petitioner’s interpretation of the purpose of the statute. We read the compliance provision as calling for an informal proceeding prior to the filing of the complaint as a means of allowing prompt repudiation of the charges for any number of reasons, such as misidentification or falsehoods in the complaint. We do not interpret this section as calling for dismissal of the complaint on a mere promise by the licensee that, in the future, all regulations would be followed. The section is a procedural safeguard, providing an opportunity to dispute unwarranted charges prior to the initiation of formal proceedings. See Sheppard v Board of Dentistry, 385 So 2d 143 (Fla, 1980).
+Contrary to petitioner’s second argument on appeal, we find that the findings of fact and conclusions of law made by the hearing officer and adopted by the board are supported by competent, material, and substantial evidence on the whole record, most notably by the testimony of Dr. Toteff and the patients’ medical records. MCL 24.306(l)(d); MSA 3.560(206)(l)(d).
+Petitioner’s last contention is that the board abused its discretion by imposing such a severe order of discipline.
+We agree. We find that the board failed to consider the numerous mitigating factors present in this case The facts simply do not warrant as severe a penalty as a one-year suspension. In addition, the one-year suspension does not further serve to protect the public.
+In his opinion, the hearing officer noted the following mitigating factors:
+"First of all, all the testimony indicated that licensee was acting in good faith. He was attempting to keep these people functional, as he perceived that concept to be. He also saw these patients frequently, and prescribed in small doses to increase his ability to monitor their progress. At no point is there any suggestion of malice, personal gain, disregard of the welfare of patients, or any other scurrilous motive. Much of the testimony had to do with the opinion that licensee’s main flaw was that he was a 'soft touch’. I strongly suggest that the board give this factor great consideration in its deliberations.
+"Secondly, both of these patients were described by all of the witnesses as very tough to handle. They were very street-smart, had a history of drug dependency, and generally knew how to play the game of securing the drugs they thought they needed. Combining these patients with someone like licensee creates the potential for the kind of problems that arose in this case. It should also be noted that licensee is now primarily engaged in the practice of surgery, and will, in all likelihood, not find himself in this compromising situation again.”
+The record shows that petitioner had an excellent record prior to this proceeding, had never been sued for malpractice, and at all times acted in good faith, although he could have used better judgment in prescribing medication to these patients. The record does indicate that he did try to restrict the prescriptions at a point where perhaps he should have refused further medications.
+If the primary goal of discipline is protection of the public, Johnson v Comm’r of Agriculture, 314 Mich 548, 563; 22 NW2d 893 (1946), then we fail to understand how suspension of Dr. Marrs’s license for one year will add any more protection for the public, above and beyond the other discipline imposed. The imposition of a one-year suspension based on these particular facts was an abuse of discretion. MCL 24.306(l)(e); MSA 3.560(206)(l)(e). We, therefore, modify the order of the board by reducing the period of suspension of the license from one year to one month, with a credit for three weeks of suspension already served. The nonrepetition of the charges against Dr. Marrs is more than assured by the other discipline imposed and by the fact that Dr. Marrs now restricts his practice almost exclusively to general surgery, an area in which he has an excellent record. Dr. Marrs shall complete the 40 hours of continuing medical education in pharmacology and therapeutics during the two-year probationary period.
+Affirmed in part and modified in part.
