@@ -1,0 +1,46 @@
+---
+court: "Michigan Court of Appeals"
+docket: "27206"
+decided: "1977-07-18"
+citations: ["76 Mich. App. 726"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: R. B. Burns, P. J., and T. M. Burns and D. C. Riley, JJ."]
+parties: ["KOONS v WALKER"]
+source_url: "https://static.case.law/mich-app/76/cases/0726-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2166354
+cites_cases: ["12 ALR Fed 233", "231 NW2d 378", "244 NW2d 873", "397 Mich 406", "60 Mich App 401"]
+---
+
+# Koons v. Walker
+
+## Majority (T. M. Burns, J.)
+
+T. M. Burns, J.
+On October 10, 1975, the trial court issued in this cause the following opinion:
+"In this case the plaintiff was injured in an accident on June 28, 1971. Suit was commenced against a number of defendants and on June 25, 1974 a second amended complaint was filed in which Steve Jakobowski, Jr., individually and d/b/a Jake’s Custom Cycle Service and Jake’s Harley-Davidson was named a defendant. The allegation against this defendant was that it sold to the plaintiff a defective motorcycle helmet.
+"Service was made at the motorcycle business place on June 26, 1974.
+"It appears that on January 28, 1974 Jakobowski had sold the business to Schmoke and McBath Enterprises, Inc., pursuant to an agreement which provided that the notices required under the Bulk Sales Act were waived. Schmoke and McBath Enterprises, Inc. filed an assumed name, i.e., Jake’s Harley-Davidson Sales in Lansing on February 5, 1974.
+"No pleadings were filed by the defendant and pretrial was held on March 27, 1975. On May 8, 1975 defendant Schmoke and McBath Enterprises, Inc. filed a motion for determination of parties asking that the court determine that it was not a proper party and that it be released from any obligation imposed by virtue of the service of a summons and second amended complaint upon it.
+"The defendant submits that the only basis for which it might possibly be held liable is that it was a transferee of the business. In this instance they contend plaintiffs action would be barred by the limitation contained in the Bulk Sales Act, i.e. the action must be brought within six (6) months from the date the transferee took possession of the goods unless the transfer has been concealed and then the action may be brought within six (6) months after its discovery. Since the plaintiff has not brought action against them (Schmoke and McBath Enterprises, Inc., d/b/a Jake’s Harley-Davidson Sales) within six (6) months of the date of transfer or within six (6) months from the date the transfer was discovered (June or July of 1974) it is argued they cannot bring an action against Schmoke and McBath Enterprises, Inc.
+"Plaintiff submits that Schmoke and McBath Enterprises, Inc. are the defendants identified in the complaint and rely upon GCR 201.3(2) which provides a person conducting a business under an assumed name may be sued in such name in an action arising out of the conduct of such business. Plaintiff asks that the last named defendant in the caption of the case and the party of the second amended complaint be determined to be Schmoke and McBath Enterprises, Inc., d/b/a Jake’s Harley-Davidson or that they be allowed to file a third amended complaint identifying the defendant as such.
+"There is no question defendant failed to comply with the Bulk Sales Act; filed no responsive pleadings until after the three (3) year statute of limitations and the six (6) month limitation mentioned in the Bulk Sales Act had expired; that Jake’s Harley-Davidson was named in the summons and that service was on George McBath and that the business address was at all times the same and that the defendants were well aware of what this lawsuit was all about. Defendant was served in this lawsuit on June 26, 1974 and the pre-trial conference was not held until March 27, 1975. Nevertheless, the first pleading of any nature filed by defendant was its motion for determination of parties and summary judgment and this was not filed until May 8, 1975. GCR 1963, 118.1 provides that a party may amend his pleadings by leave of court which is to be freely given when justice so requires and under the circumstances as stated it would be a manifest injustice not to permit plaintiffs to amend their pleadings to state the obvious. Accordingly, plaintiff may file an amendment to the pleadings indicating the name of the defendant as Schmoke and McBath Enterprises, Inc., d/ b/a Jake’s Harley-Davidson Sales and setting forth therein an allegation of failure to comply with the Bulk Sales Act.”
+On October 27, 1975, a third amended complaint was filed. On November 18, 1975 Schmoke and McBath (hereinafter called the defendant) filed a motion for clarification of the opinion. At the hearing on that motion, held on December 5, 1975, the trial court ruled that the third amended complaint related back in time to the date of the second amended complaint.
+Defendant appeals on leave granted from the denial of the motions for determination of parties and summary judgment.
+I
+We do not find, as defendant first urges on appeal, that the trial court’s finding that defendant was properly made a party to the suit is clearly erroneous.
+The second amended complaint was directed to "Steve S. Jakobowski, Jr., individually and d/b/a Jake’s Custom Cycle Service, and Jake’s Harley-Davidson”. The summons was addressed to "Jake’s Harley-Davidson”. The complaint and summons were served on George McBath at the motorcycle shop. It is clear that plaintiff intended to hold the business entity as well as Mr. Jakobowski liable. Defendant was the owner of the business at the time the business was intended to be held liable. The owner of the business was served with a summons and complaint directed to an assumed name under which defendant operated at the address written on the summons. Service was complete and defendant was made a party to the action.
+II
+The trial court did not err in denying defendant’s motion for summary judgment. When it moved for determination of parties, defendant also sought entry of summary judgment for failure of the plaintiff to state a cause of action upon which relief could be granted. The motion for summary judgment was denied in an order dated October 23, 1975.
+Basically, defendant argues that the only way it could possibly be liable for its business predecessor’s sale of a defective product would be if there was found to have been a violation of the bulk sales provisions of the Uniform Commercial Code, MCLA 440.6101, et seq.; MSA 19.6101, et seq. Since the limitations period for an action under the bulk sales act had long since run, there could be no cause of action against it.
+In his second amended complaint, plaintiff asserted negligence and product liability claims against the defendant. As the business successor of the sole proprietorship which sold the helmet, defendant may be liable to the plaintiff in tort. See, Turner v Bituminous Casualty Co, 397 Mich 406; 244 NW2d 873 (1976).
+The issue of defendant’s potential liability in tort was not discussed or ruled upon below. Facially, however, the second amended complaint does not fail to state a claim upon which relief can be granted.
+Ill
+Plaintiff filed the third amended complaint on October 27, 1975. This complaint added a count against the defendant, alleging a violation of the bulk sales act. At a December 5, 1975 hearing on a motion for clarification of order brought by the defendant, the trial judge ruled that the third, amended complaint would relate back to the date of the filing of the second amended complaint, June 25, 1974.
+GCR 1963, 118.4 provides that in most cases an amendment relates back to the filing of the original pleading "whenever the claim or defense asserted in the amended pleading arose out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading”.
+In the "original” pleading, plaintiff sought to recover from defendant based on the sale of a defective product. The alternative cause of action under the bulk sales act was based upon an entirely different transaction — the transfer of the motorcycle sales business. Moreover, the relation back rule cannot be used solely to avoid the effect of a claim being barred by a limitations period. Forest v Parmalee (On Rehearing), 60 Mich App 401; 231 NW2d 378 (1975). In the instant case, the transfer of the business and the terms thereof became known to the plaintiffs in June of 1974. The complaint alleging violation of the bulk sales act was filed in October of 1975, more than a year from the latest date the six month limitations period provided for in the bulk sales act could have begun running. The trial judge made clear in ruling that the third amended complaint would relate back to the filing of the second amended complaint that his purpose in so doing was to keep the defendant in the suit.
+The count alleging violation of the bulk sales act in the third amended complaint does not relate back to any previous pleading.
+Affirmed in part; reversed in part. Remanded for further proceedings. No costs.
+MCLA 440.6111; MSA 19.6111.
