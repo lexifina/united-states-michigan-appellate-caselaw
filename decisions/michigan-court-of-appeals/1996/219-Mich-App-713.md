@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "184698"
+decided: "1996-11-05"
+citations: ["219 Mich. App. 713"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Michael J. Kelly, P.J., and Hoekstra and E. A. Quinnell JJ."]
+parties: ["BALDORI v SMITH"]
+source_url: "https://static.case.law/mich-app/219/cases/0713-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1555785
+cites_cases: ["17 NW2d 251", "258 NW 776", "270 Mich 328", "3 NW2d 274", "301 Mich 278", "310 Mich 458", "408 US 606", "424 US 409"]
+---
+
+# Baldori v. Smith
+
+## Majority (Hoekstra, J.)
+
+Hoekstra, J.
+In this case involving claims of malicious prosecution, plaintiffs appeal as of right from an Ingham Circuit Court order granting defendants’ motion for summary disposition. We affirm.
+This case arises from defendants’ performance of their duties as special prosecutors in the investigation of alleged criminal wrongdoing by members of a division of the Ingham County Sheriff’s Department. After plaintiffs testified before the one-man grand jury that was convened to hear the matter, defendants recommended to the judge sitting as the grand juror that both plaintiffs be charged with perjury and that plaintiff Baldori also be charged with obstruction of justice. Motions to quash filed by both plaintiffs were later granted with respect to these charges. Plaintiffs then filed the present civil suit against defendants, alleging that defendants had exceeded the scope of their authority as special prosecutors and had breached their duties by recommending prosecution for testimony allegedly procured outside the scope of the order directing the inquiry. Plaintiffs further argued that defendants’ outrageous actions caused them to be wrongfully and maliciously prosecuted, falsely arrested, and falsely imprisoned and that such conduct was a violation of their civil rights so as to create liability pursuant to 42 USC 1983. Defendants then moved for summary disposition, arguing that they were entitled to immunity with respect to plaintiffs’ claims, and the trial court granted defendants’ motion.
+On appeal, plaintiffs contend that the trial court erred in granting summary disposition on the basis of defendants’ immunity. We disagree. This case involves the interplay between proceedings authorized under the one-man grand jury statute, MCL 767.3; MSA 28.943, and the role of a “special prosecutor” as set forth in MCL 49.160; MSA 5.758. Proceedings under the one-man grand jury statute, MCL 767.3; MSA 28.943, are not controlled by the prosecuting attorneys involved, but are controlled by the judge serving as the grand juror. In re Hickerson, 301 Mich 278, 282; 3 NW2d 274 (1942); In re Petition for Investigation into Conduct of Recount, 270 Mich 328, 330-331; 258 NW 776 (1935). Investigation and charging decisions are under the control of the judge, id., as is the summoning and questioning of witnesses, MCL 767.3; MSA 28.943. All the actions for which plaintiffs attempt to hold defendants hable were in fact done at the direction of the judge, who was acting as the grand juror.
+A judge, however, is immune from tort liability when acting within the scope of authority conferred by that office. MCL 691.1407(5); MSA 3.996(107)(5) provides in relevant part:
+Judges, legislators, and the elective or highest appointive executive officials of all levels of government are immune from tort liability for injuries to persons or damages to property whenever they are acting within the scope of their judicial, legislative, or executive authority.
+Here, the judge was clearly acting within the scope of his authority while serving as the one-man grand juror and, thus, would have been entitled to immunity. See In re Slattery, 310 Mich 458, 467; 17 NW2d 251 (1945) (a judge conducting a one-man grand jury is acting in a judicial capacity). The fact that the indictments against plaintiffs were later found by a different judge to have been beyond the scope of the inquiry for which the grand jury was called would not deprive the judge serving as the grand juror of immunity for decisions he made, however erroneous, while serving in that capacity.
+Defendants were acting as assistants to the grand juror when they committed the alleged wrongs against plaintiffs; therefore, they are entitled to the immunity afforded the judge in this situation. Because special prosecutors aid in the proper functioning of one-man grand juries, and are under the control and direction of the grand juror, we believe that they should be treated as “alter egos” of the grand juror to whom the grand juror’s judicial immunity is equally applicable. See Gravel v United States, 408 US 606, 616-618; 92 S Ct 2614; 33 L Ed 2d 583 (1972).
+The judge, in his affidavit in this matter, stated that defendants were acting within the scope of their authority and doing exactly what he appointed them to do in pursuing indictments against plaintiffs. The judge also stated that defendants did not do or say anything to suggest that their efforts were motivated by anything other than a good-faith effort to fulfill their responsibilities as special prosecutors. Plaintiffs have not refuted this evidence to avoid summary disposition. Given this unrefuted evidence, there is no genuine issue of any material fact that defendants are immune from liability for their conduct in the instant case under MCL 691.1407(5); MSA 3.996(107)(5). Therefore, the trial court’s grant of summary disposition with respect to plaintiffs’ state law claims was proper.
+The trial court’s finding that governmental immunity was applicable to plaintiffs’ 42 USC 1983 claim was also proper. In Imbler v Pachtman, 424 US 409, 431; 96 S Ct 984; 47 L Ed 2d 128 (1976), the United States Supreme Court held that prosecutors, when initiating the prosecution and presenting the state’s case, are absolutely immune from a § 1983 claim. Here, defendants merely recommended prosecution against plaintiffs and, in so doing, “presented the state’s case” to the grand juror. Thus, they are absolutely immune from suit, and summary disposition was properly granted with respect to this claim as well.
+Affirmed.
