@@ -1,0 +1,43 @@
+---
+court: "Michigan Court of Appeals"
+docket: "83344"
+decided: "1985-11-12"
+citations: ["150 Mich. App. 85"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Cynar, P.J., and D. E. Holbrook, Jr., and Beasley, JJ."]
+parties: ["PEOPLE v McNEAL"]
+source_url: "https://static.case.law/mich-app/150/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2287150
+cites_cases: ["112 Mich App 90", "122 Mich App 39", "231 NW2d 375", "231 NW2d 393", "239 NW2d 734", "240 NW2d 239", "245 NW2d 544", "250 NW2d 100", "298 NW2d 434", "314 NW2d 806", "329 NW2d 524", "339 NW2d 440", "396 Mich 238", "397 Mich 864", "409 Mich 774", "411 Mich 888", "413 Mich 925", "417 Mich 523", "419 Mich 891", "60 Mich App 450", "60 Mich App 517", "66 Mich App 738", "72 Mich App 500"]
+---
+
+# People v. McNeal
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+On December 21, 1984, following a remand from this Court, defendant was resentenced to a term of from 35 to 70 years. The present trial judge imposing the sentence is the successor in office to the trial judge who imposed the original sentence of from 35 to 70 years. Defendant appeals as of right.
+On April 7, 1981, defendant pled guilty to armed robbery, MCL 750.529; MSA 28.797. In addition to defendant, two other persons were involved in a holdup of a drugstore. Defendant entered into a plea bargain providing that, in exchange for his plea of guilty to armed robbery and felony-firearm and for his providing the police with information regarding the theft of a police officer’s gun, he would not be prosecuted for theft of the gun and he would not be charged as an habitual offender provided he testified against one of the other persons involved in the armed robbery.
+A presentence report was submitted to the court with a sentence recommendation by the probation officer of from 10 to 25 years in prison. According to the presentence report, the police recommended a minimum sentence of from 8 years to a maximum of life. On May 29, 1981, defendant was sentenced to a term of from 35 to 70 years in prison.
+Defendant’s appeal of his conviction and sentence was as of right. On August 19, 1983, the Court of Appeals affirmed defendant’s conviction and also ruled that based on People v Burton, 396 Mich 238, 243; 240 NW2d 239 (1976), it was without authority to review the sentence. Leave to appeal was sought but the Supreme Court, in lieu of granting leave, remanded the case to the Court of Appeals on June 29, 1984, for the limited purpose of reconsideration in light of People v Coles, 417 Mich 523; 339 NW2d 440 (1983). On October 16, 1984, the Court of Appeals remanded the case to the trial court for reconsideration in light of People v Coles, supra.
+On December 21, 1984, the defendant appeared for resentencing before the trial judge who is the successor to the trial judge who initially imposed sentence but who has since retired. An updated presentence report was prepared and submitted by the probation department. The updated presentence report did not have an updated sentence recommendation. In addition to the probation officer’s recommendation of from 10 to 25 years, and the police officer’s recommendation of from 8 years to a maximum of life, the minimum sentence guideline range as filled out by the probation officer indicated the minimum sentence range of from 72 months to 120 months (from 6 to 10 years). The trial judge sentenced defendant to from 35 to 70 years.
+Although defendant raises a number of issues, consideration of one issue is sufficient for disposition of this appeal. Defendant contends that he is entitled to be resentenced because he was not afforded an opportunity to exercise his right of allocution before the sentence was determined by the trial judge.
+It is not disputed that a conference in chambers including the defendant, defense counsel, and the prosecutor took place. The trial judge is said to have stated that, irrespective of the range reflected by the sentencing guidelines, he intended to impose the same 35- to 70-year term originally imposed by the trial court. Following the conference, but prior to sentencing, defendant and defense counsel were offered the right of allocution. Defense counsel questioned the value of the opportunity to speak as the court had already determined the sentence before allocution. The trial judge responded by stating:
+"The Court: Well, I think if you want to, you should —I’m giving you that opportunity, to put on the record whatever you think is relevant as far as a resentence is concerned. I’m here to resentence him. I have told you in chambers that I do not have any intention of changing the sentence, and I expect to sometime this morning put on the record why I do not intend to do that, but you certainly have the opportunity to give me any reasons that you want as to why I should change the sentence.”
+Both the defendant and defense counsel, nevertheless, expressed their view of factors that weighed in their favor.
+In Michigan, the right of allocution is explicitly embodied in the General Court Rules, specifically GCR 1963, 785.8: .
+".8 Sentencing. Before sentence is imposed the court shall:
+"(2) give defendant and his lawyer a reasonable opportunity to advise the court of any circumstances they believe the court should consider in imposing sentence * * *.” (Emphasis added.)
+The court rules admit no contrary argument. A defendant must be given the right of allocution.
+Michigan appellate courts have strictly enforced the right of allocution embodied in GCR 1963, 785.8 by remanding for resentencing in numerous cases. People v Dozier, 411 Mich 888 (1981); People v Mersino, 413 Mich 925 (1982); People v Berry, 409 Mich 774; 298 NW2d 434 (1980); People v Elijah Smith, 397 Mich 864; 245 NW2d 544 (1976); People v Morgan, 112 Mich App 90; 314 NW2d 806 (1981); People v Clements, 72 Mich App 500; 250 NW2d 100 (1976); People v Jack Crawford, 66 Mich App 738; 239 NW2d 734 (1976); People v Brewer, 60 Mich App 517, 522-523; 231 NW2d 375 (1975); People v Gonzales, 60 Mich App 450, 454; 231 NW2d 393 (1975).
+It is clear that a defendant must be allowed to exercise his right of allocution before sentence is imposed. In People v Brooks, 122 Mich App 39, 42-43; 329 NW2d 524 (1982), this Court ordered resentencing where allocution was offered to the defendant after sentence was announced:
+"Finally, we agree with defendant that he was denied his right of allocution even though the judge asked defendant if he had anything to say after sentence was imposed. We are compelled by the Supreme Court’s authority to hold that failure to comply with GCR 1963, 785.8(2), requires resentence. People v Berry, 409 Mich 774, 781; 298 NW2d 434 (1980). In Berry, the Supreme Court stated:
+" 'The rule requires strict compliance and should be understood in all cases to require the trial court to inquire specifically of the defendant separately whether he or she wishes to address the court before the sentence is imposed. Ordinarily the inquiry should come immediately before the sentence is pronounced and after the trial court has made such remarks as it deems appropriate concerning the offense involved, the presentence report, the defendant’s personal history, the needs of the community, and any other subject.
+" 'In the cases before us, it is evident from the records that the defendants were not separately and individually given a reasonable opportunity to address the court. Thus the defendants must be resentenced.’ ”
+The defendant in this case was denied his right of allocution. To afford the defendant an opportunity to speak after the court, in effect, announces it has no intention of changing the sentence renders the allocution meaningless. Accordingly, re-sentencing is required. This matter is hereby remanded for resentencing to be imposed by another judge to be assigned to this case. The presentence report is to be brought up to date and shall include a recommendation of the probation department on the sentence.
+We make it clear that we have not decided whether, in this case, a 35-year minimum sentence shocks our judicial conscience.
+In returning this case for resentencing by another judge, we anticipate the judge will exercise independent discretion, giving consideration to all of the factors properly involved in the imposition of a sentence. Specifically, we do not intend that the sentencing judge will be controlled by the previous sentence. We do not retain jurisdiction.
+Reversed and remanded.
