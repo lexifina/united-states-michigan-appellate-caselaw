@@ -1,0 +1,46 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 1,664, 1,665"
+decided: "1966-10-11"
+citations: ["4 Mich. App. 540"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["■ Hopbbook? P, J.? and Burns, J,, concurred."]
+parties: ["EASTMAN v. ANN ARBOR RAILROAD COMPANY."]
+source_url: "https://static.case.law/mich-app/4/cases/0540-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2028696
+cites_cases: ["157 Mich 690", "19 ALR2d 877", "2 Mich App 120", "2 Mich App 431", "215 Mich 37", "252 Mich 505", "27 ALR 913", "273 Mich 132", "283 Mich 19", "289 Mich 86", "291 Mich 375", "293 Mich 464", "295 Mich 396", "338 Mich 371", "362 Mich 31", "370 Mich 389"]
+---
+
+# Eastman v. Ann Arbor Railroad
+
+## Majority (Hoffius, J.)
+
+Hoffius, J.
+Plaintiff Larry Eastman was a guest passenger in an automobile involved in an accident with a train on February 1, 1961. He and his wife brought separate suits which were consolidated for trial and resulted in a verdict of no cause of action. The automobile was proceeding easterly on a blacktop county road in Isabella county. Defendant railroad company’s tracks generally run in a northerly and southerly direction and cross the highway upon which plaintiff was traveling at almost right angles. The approach to the railroad tracks is marked by a warning sign approximately 450 feet west of the railroad crossing and a crossbuck sign located on the defendant’s right-of-way.
+The collision occurred when the engine struck the right rear of the vehicle in which plaintiff was a passenger. The train, about 1200 feet in length, consisted of a diesel engine, 28 freight cars and a caboose.
+Approximately 4 years after the accident a posed photograph, exhibit E, was taken 200 feet west of the railroad crossing looking in a southeasterly direction. A train similar to the one involved in the accident was on the railroad track at that time. The testimony reflected that the only differences were that two of the box cars in the posed photograph were 50 feet long, whereas in the original train they were 40 feet long, and that one car was marked Santa Fe in bold white letters, whereas in the original train it may not have been so marked.
+The posed photograph was taken by the same person who took a similar photograph from the same position, looking in the same direction, on February 2, 1961, the day after the accident. The photograph taken immediately after the accident was admitted without objection as exhibit J. Both photographs portray the same area, trees, telephone poles, buildings and amount of snow, but there is no train visible in exhibit J.
+. The trial court in denying the motion for a new trial stated as follows:
+“Exhibit R was originally offered and objected to. As I recall, the objections ran primarily as to whether or not there was an accurate re-posing, and there was considerable testimony taken to show that it was an accurate re-posing of the scene. When compared with exhibit J, which was taken shortly after the accident, it would appear that two trees appear in the same corner of the exhibits J and R, so close that yon marvel that the photographer was able to do such an accurate job. There is a smattering of snow in each picture. How the limbs of those trees could still be so close together, as I say, is nothing short of a marvel. * * *
+“It would seem that they not only made a faithful representation here, but almost a miraculously faithful one. After considerable hesitancy on the part of the court we finally received it into evidence, with an instruction to the jury that it was a reproduction and did not purport to be a photograph taken at the time.”
+Plaintiff’s first ground of appeal is that the trial judge erred in admitting the posed photograph.
+The introduction of photographs is a matter of discretion with- the trial judge. Amedeo v. Grand Rapids & I. R. Co. (1921), 215 Mich 37, 55; Rogers v. City of Detroit (1939), 289 Mich 86, 90; Pearce v. Rodell (1937), 283 Mich 19, 28; Perri v. Tassie (1940), 293 Mich 464, 471, 473.
+Plaintiff relies upon the recent cáse of Kaminski v. Wayne County Road Commissioners (1963), 370 Mich 389, wherein the Supreme Court held that the introduction in evidence of a posed photograph of a street sweeper involved in an accident was error. The principal claim in Kaminski, supra, “was the allegation of negligent creation of a dust hazard coupled with lighting inadequate to forewarn other users of the street of the presence, identity, and operation of the machine.” Since the posed photographs failed to reflect any dust arising as the sweeper was operating, they were not faithful representations of the facts as they existed at the time of the accident. It should further be pointed out that in Kaminski no cautionary instructions were given by the trial judge relative to the differences in the photographs. It is apparent that Kaminski does not render exhibit R inadmissible.
+In the case of Harrison v. Green (1909), 157 Mich 690, the court permitted the introduction of a photograph portraying two individuals standing in a position in which they testified they stood at the time of the accident and also persons standing where both the plaintiff and defendant purportedly stood.
+; The Court permitted the introduction of this photograph stating as follows at p 694:
+“It is claimed that the presence of these parties in the photograph rendered its admission incompetent, and that it naturally tended to prejudice the jury by placing before them in a vivid manner the claim of the defendant. I think it would be a reflection upon the intelligence of the jury to hold that .they were liable to be misled or unduly influenced by an examination of the photograph. It represented the witnesses in the exact position which defendant claimed they occupied. It is conceded that the photograph would have been admissible without the presence of the persons in it. If such a photograph had been introduced and the witnesses asked to mark in any manner the places where they stood, such evidence certainly would have been competent.”
+The general rule in this type of case is set forth in the annotation in 19 ALR2d 877, 880:
+“The majority of cases appear to support the rule that posed photographs based on recollection as to the position of persons or movable objects are admissible as illustrative of the testimony of witnesses where a proper foundation therefor has been laid by preliminary testimony showing that the objects and situations portrayed are faithfully represented.”
+Before exhibit R, the posed photograph, was received in evidence, its similarities and differences to the conditions existing the day on which the accident occurred were clearly pointed out to the jury through the testimony of the trainmaster and the photographer. The court then cautioned the jury as follows:
+“All right. It will be received. The jury has heard the descriptive testimony and should under-' stand when looking at exhibit R that this is not a picture taken on the day in question, but it is an effort to reconstruct. You heard the testimony as to the accuracy of the reconstruction, so that you will have this exhibit to weigh with other testimony in the case. * # * The fact that it says on the back ‘March 6, 1965’ will, of course, so indicate to you. It is received.”
+An examination of the photograph shows a remarkable reconstruction of the testified facts. This Court is, therefore, of the opinion it was not error for the trial judge in his discretion to admit exhibit R.
+Plaintiff next claims the court erred in its instructions to the jury relative to the alleged negligence of the driver of the automobile in which plaintiff was a passenger. The pleadings indicate defendant in its answer claimed as an affirmative defense that the plaintiff, Larry Eastman, was guilty of contributory negligence by failing to warn his driver of the approaching train, and that “the sole and proximate cause” of the accident was “the negligence of the driver of the automobile in which he was riding.” This affirmative defense was denied by the plaintiff. Issue was, therefore, joined on the question of the negligence of plaintiff’s driver.
+Counsel for plaintiff urges that the instructions relative to the duty of plaintiff’s driver were unduly and prejudicially repeated on three different occasions and, in support thereof, cites Buchell v. Williams (1934), 273 Mich 132, and Bowmaster v. DePree Co. (1930), 252 Mich 505. In these cases the instructions were repeated 9 and 17 times respectively.
+There is no doubt that the court was justified in giving instructions relative to the duty imposed upon plaintiff’s driver. Stewart v. Ames (1960), 362 Mich 31; DePriest v. Kooiman (1966), 2 Mich App 431.
+Numerous cases in Michigan hold that repetition of correct instructions is not necessarily error. Cook v. Vineyard (1939) 291 Mich 375; Tinkler v. Richter (1940), 295 Mich 396; Hayes v. Coleman (1953), 338 Mich 371; King v. Daly (1965), 2 Mich App 120.
+This Court is of the opinion that the instructions as a whole fairly and adequately presented the issues to the jury.
+Judgment affirmed. Costs to defendant.
+■ Hopbbook? P, J.? and Burns, J,, concurred.
