@@ -1,0 +1,49 @@
+---
+court: "Michigan Court of Appeals"
+docket: "111139"
+decided: "1990-06-18"
+citations: ["184 Mich. App. 255"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Reilly, P.J., and Michael J. Kelly and H. E. Deming, JJ.", "H.E. Deming, J., concurred."]
+parties: ["PEOPLE v NORMAN"]
+source_url: "https://static.case.law/mich-app/184/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2336413
+cites_cases: ["121 Mich App 98", "135 Mich App 128", "146 Mich App 724", "162 Mich App 142", "163 Mich App 339", "165 Mich App 562", "167 Mich App 186", "174 Mich App 94", "213 NW2d 97", "298 NW2d 627", "328 NW2d 585", "339 NW2d 440", "352 NW2d 367", "355 Mich 182", "381 NW2d 798", "390 Mich 410", "412 NW2d 674", "413 NW2d 791", "417 Mich 523", "418 NW2d 861", "419 NW2d 33", "421 NW2d 624", "429 Mich 450", "432 Mich 311", "432 Mich 568", "433 Mich 893", "435 NW2d 772", "439 NW2d 684", "442 NW2d 622", "94 NW2d 388", "99 Mich App 834"]
+---
+
+# People v. Norman
+
+## Majority (Reilly, P.J.)
+
+Reilly, P.J.
+Defendant was convicted by a jury of two counts of first-degree criminal sexual conduct, MCL 750.520b(l)(a); MSA 28.788(2)(l)(a), and one count of second-degree criminal sexual conduct, MCL 750.520c(l)(a); MSA 28.788(3)(l)(a). Defendant was sentenced to concurrent sentences of fifty to one hundred years of imprisonment on each of the first-degree convictions and ten to fifteen years of imprisonment on the second-degree conviction. Defendant appeals as of right. We affirm.
+i
+Defendant first contends that the jury verdict was against the great weight of the evidence. We disagree.
+An objection going to the weight of the evidence can be raised only by a motion for new trial before the trial court. People v Bradshaw, 165 Mich App 562, 565; 419 NW2d 33 (1988). Since defendant failed to bring such a motion, this issue has not been preserved for appeal. In any event, we have reviewed the lower court record and conclude that the jury verdict was not against the great weight of the evidence.
+ii
+Defendant also contends that the trial court committed error requiring reversal in admitting evidence of antecedent uncharged sexual acts. We disagree.
+Defendant did not object to the admission of the challenged testimony at trial. Accordingly, this issue is waived absent manifest injustice to defendant. People v Goddard, 135 Mich App 128, 139; 352 NW2d 367 (1984). We conclude that no manifest injustice resulted because the probative value of the antecedent uncharged sexual acts between defendant and his eight-year-old stepdaughter outweighed any prejudice to defendant. See People v DerMartzex, 390 Mich 410, 413-415; 213 NW2d 97 (1973).
+iii
+Defendant next contends that he was denied a fair trial due to several instances of prosecutorial misconduct. Again, there was no objection by defense counsel to any of the alleged improper questions or remarks. Therefore, this issue is preserved for our review only if defendant can show that the prejudicial impact of the alleged misconduct was so great that a curative instruction would not have overcome it, and that our failure to consider the issue will result in a miscarriage of justice. People v Sharbnow, 174 Mich App 94, 100; 435 NW2d 772 (1989), lv den 433 Mich 893 (1989). Given that the prosecutor’s remarks during closing argument were proper comments upon the evidence presented at trial, and that the prosecutor did not directly disparage defense counsel or improperly question the complainant concerning several instances of uncharged sexual acts, we conclude that a curative instruction could have remedied any claimed prejudice and therefore decline to review this issue.
+IV
+Defendant further contends that the trial court committed error requiring reversal in declining to instruct the jury on the lesser included offenses of second- and fourth-degree criminal sexual conduct. We disagree.
+There is currently a conflict among panels of this Court on whether second-degree criminal sexual conduct is a necessarily included or cognate lesser offense of first-degree criminal sexual conduct. See People v Triplett, 163 Mich App 339, 345; 413 NW2d 791 (1987), remanded on other grounds 432 Mich 568; 442 NW2d 622 (1989), and cases cited therein. In People v Garrow, 99 Mich App 834, 839; 298 NW2d 627 (1980), this Court held that second-degree criminal sexual conduct is a cognate lesser offense because the definition of "sexual penetration” under first-degree criminal sexual conduct does not require proof that the sexual penetration could reasonably be construed as being for the purpose of sexual arousal or gratification, whereas that element of sexual purpose is required for second-degree criminal sexual conduct.
+A necessarily included lesser offense is defined as an offense which contains some of the elements of the greater offense, but no additional elements. The greater offense cannot be committed without committing the lesser offense. People v Beach, 429 Mich 450, 461; 418 NW2d 861 (1988). A cognate lesser offense is one that shares several elements with a greater offense but may contain some elements not found in the greater offense. Id. Because the additional element of constructive sexual purpose is required for second-degree criminal sexual conduct, we agree with this Court’s holding in Garrow, supra, that second-degree criminal sexual conduct is not a necessarily included lesser offense of first-degree criminal sexual conduct.
+As second-degree criminal sexual conduct is a cognate lesser included offense, the evidence presented at trial determines whether the trial court was obligated to instruct on the offense. Beach, supra at 463. On appeal, defendant has not set forth any evidence to support his argument that the evidence presented at trial warranted an instruction on second-degree criminal sexual conduct. Defendant may not leave it to this Court to search for a factual basis to sustain or reject his position. Mitcham v Detroit, 355 Mich 182, 203; 94 NW2d 388 (1959).
+We also reject defendant’s argument that he was entitled to an instruction on fourth-degree criminal sexual conduct as a lesser included offense on the second-degree criminal sexual conduct charge. In this case an essential element of the first- and second-degree criminal sexual conduct charges was the age of the victim. The prosecutor charged that defendant engaged in sexual penetration and sexual contact on different occasions with another person who was under thirteen years of age. The prosecutor did not charge a necessary element of fourth-degree criminal sexual conduct, either that force was used or that the victim was mentally or physically disabled. Because under the facts in this case the defendant could have committed the greater offense of second-degree criminal sexual conduct without committing the lesser offense of fourth-degree criminal sexual conduct, the latter is not a necessarily included offense. People v Murphy, 146 Mich App 724, 727; 381 NW2d 798 (1985); People v Favors, 121 Mich App 98, 112; 328 NW2d 585 (1982).
+Again, because the defendant has not provided this Court with any factual rationale to support his contention that an instruction should have been given on the cognate lesser included offense of fourth-degree criminal sexual conduct, we decline to review the issue. Mitcham, supra at 203.
+v
+Finally, defendant contends that his sentence of fifty to one hundred years of imprisonment should shock our judicial conscience. We disagree. On the basis of the instant record, our collective judicial conscience is not shocked by defendant’s sentence. People v Coles, 417 Mich 523, 550; 339 NW2d 440 (1983). We note that departures from the guidelines are not only permitted, but are encouraged when appropriate. People v Badour, 167 Mich App 186, 198; 421 NW2d 624 (1988). In the instant case, departure was justified not only by the callous nature of defendant’s crimes against a member of his family, but also because of defendant’s extensive criminal record. Moreover, deviation from the guidelines may be based on factors already considered in the sentencing guidelines. People v Larry, 162 Mich App 142, 156-157; 412 NW2d 674 (1987).
+Affirmed.
+H.E. Deming, J., concurred.
+"Sexual penetration” means sexual intercourse, cunnilingus, fellatio, anal intercourse, or any other intrusion, however slight, of any part of a person’s body or of any object into the genital or anal openings of another person’s body, but emission of semen is not required. [MCL 750.520a(l); MSA 28.788(1)0)].
+"Sexual contact” includes the intentional touching of the victim’s or actor’s intimate parts or the intentional touching of the clothing covering the immediate area of the victim’s or actor’s intimate parts, if that intentional touching can reasonably be construed as being for the purpose of sexual arousal or gratification. [MCL 750.520a(k); MSA 28.788(l)(k).]
+
+## Concurrence (Michael J. Kelly, J.)
+
+Michael J. Kelly, J.
+(concurring in part). I concur in the majority’s affirmance of defendant’s convictions, but disagree that defendant’s fifty to one hundred year sentence was proper.
+A sentence imposed for a term of years must be an indeterminate sentence less than life that is reasonably possible for a defendant to serve. People v Moore, 432 Mich 311, 329; 439 NW2d 684 (1989). When imposing such a sentence, the trial court should consider the age of the defendant being sentenced. Id. Defendant was born in 1951, and was thirty-six years old at the time of sentencing. I do not think it reasonably possible that defendant would actually be able to serve his entire fifty-year minimum sentence. I would remand for resentencing in accordance with Moore.
