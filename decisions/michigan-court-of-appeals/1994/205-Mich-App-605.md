@@ -1,0 +1,36 @@
+---
+court: "Michigan Court of Appeals"
+docket: "s. 135315, 135414"
+decided: "1994-06-07"
+citations: ["205 Mich. App. 605"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Mackenzie, P.J., and Weaver and M. H. Cherry, JJ."]
+parties: ["DOE v EWING"]
+source_url: "https://static.case.law/mich-app/205/cases/0605-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1881988
+cites_cases: ["126 NE2d 373", "146 F2d 694", "158 Neb 78", "186 Mich App 247", "190 F2d 40", "194 Mich App 35", "2 F2d 167", "210 NW2d 16", "222 NW2d 47", "252 F 719", "332 Mass 582", "343 Mich 495", "357 Mo 507", "358 NYS2d 86", "401 NE2d 160", "45 AD2d 995", "463 NW2d 479", "48 Mich App 40", "486 NW2d 57", "55 Mich App 90", "7 ALR2d 1104", "72 NW2d 141", "9 Mass App 364"]
+---
+
+# Doe v. Ewing
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant and garnishee defendants appeal as of right from an opinion and order setting aside a conveyance of stock by defendant as being in violation of the Uniform Fraudulent Conveyance Act, MCL 566.11 et seq.; MSA 26.881 et seq. We affirm.
+Defendant John Ewing raped plaintiff in 1979. At the time, he owned an interest in Wilderness Outfitters, then a partnership. Wilderness Outfitters was incorporated in 1982 and 16,000 shares of stock were issued in defendant’s name. In May 1984, defendant transferred the shares from himself to himself and his wife, garnishee defendant Jill Ewing, as tenants by the entireties.
+Defendant pleaded no contest to the rape in November 1984. In 1986, plaintiff obtained a civil judgment in the amount of $125,000 against him. When defendant failed to satisfy the judgment, plaintiff executed upon the shares of stock.
+When a debtor places property in an entireties estate while insolvent, or when the transfer renders the debtor insolvent, he has committed a fraud upon his creditors and the property may be attacked. Morris v Wolfe, 48 Mich App 40, 43; 210 NW2d 16 (1973); Glazer v Beer, 343 Mich 495, 498; 72 NW2d 141 (1955). Here, plaintiff was a creditor of John Ewing at the time he transferred the shares into an entireties estate because a tort claimant is a creditor from the date of the tort. Hudson v Maher, 55 Mich App 90, 92; 222 NW2d 47 (1974). Further, the parties stipulated that the stock transfer was fraudulent.
+Once a transfer is proven fraudulent, a creditor may have the transfer set aside as against any person except a purchaser for fair consideration: Fair consideration is given for property, or obligation:
+(a) When in exchange for such property, or obligation, as a fair equivalent therefor, and in good faith, property is conveyed or an antecedent debt is satisfied, or
+(b) When such property, or obligation is received in good faith to secure a present advance or antecedent debt in amount not disproportionately small as compared with the value of the property or obligation obtained. [MCL 566.13; MSA 26.883.]
+A grantee who receives property or money without giving fair consideration to the fraudulent grantor is subject to having the conveyance set aside. Regan v Carrigan, 194 Mich App 35, 38-39; 486 NW2d 57 (1992). Gifts or the satisfaction of moral obligations do not constitute equivalent value for purposes of determining whether the conveyance was fraudulent. Hudson, supra. The courts will closely scrutinize transactions between husband and wife when creditors are involved. Regan, supra, p 39.
+Under the circumstances of this case, the trial court did not err in finding that Jill Ewing did not give fair consideration for the transfer of the stock. The evidence supported a finding that Jill loaned defendant $3,000 for the initial investment, for which he promised to transfer his shares of stock in the business when his brother would allow him. Subsequently, six years after the loan, defendant transferred his 16,000 shares to an entireties estate of himself and Jill. The value of these shares was roughly $114,000. In comparing the loan to the value of the stock, the transfer was not supported by adequate consideration.
+Further, we reject Jill Ewing’s contention that the transfer should not be set aside because she contributed the initial capital for the business and the transfer of shares was pursuant to an alleged antecedent agreement that John would acknowledge her interest in the corporation. Compare Ward v Grant, 9 Mass App 364; 401 NE2d 160 (1980); A J Armstrong Co, Inc v Halikman, 45 AD2d 995; 358 NYS2d 86 (1974); Creason v Wells, 158 Neb 78; 62 NW2d 327 (1954); Weir v Baker, 357 Mo 507; 209 SW2d 253 (1948); Detrio v Boylan, 190 F2d 40 (CA 5, 1951); United States Fidelity & Guaranty Co v Mills, 146 F2d 694 (CA 4, 1944); Bryant v Klatt, 2 F2d 167 (SD NY, 1924); Moran v Morgan, 252 F 719 (CA 2, 1918); Metropolitan Life Ins Co v Pollack, 332 Mass 582; 126 NE2d 373 (1955). Regarding whether Jill Ewing actually loaned or invested her own money, the trial court stated:
+In this case, of course, John Ewing transferred an interest to himself and his wife. That interest which he transferred to Jill Ewing was allegedly in repayment for an antecedent debt. According to the claims of the Defendants, which are not supported by any documentation, Jill Ewing contributed, at most, $3,000 towards the establishment of her husband’s partnership and two years of undocumented part-time work for Wilderness Outfitters. The extent of Jill Ewing’s initial contribution to the partnership is uncertain because some of the funds were apparently applied from a joint bank account with John Ewing. The amount and value of the part-time work given by Jill Ewing can not be definitively determined. Finally, there is no written evidence that any contribution which Jill Ewing may have made was a loan to her husband, or alternatively, an individual investment in partnership which John Ewing shared in Wilderness Outfitters.
+All of the funds for the business were run through the joint checking account of John and Jill Ewing at least until 1976. John Ewing stated: "There were no documents as we all trusted each other.”
+Yet, Jill Ewing was never made a partner or an owner of stock until after this tort was committed and just prior to John Ewing’s arrest. The clear inference is that Jill Ewing was never meant to be a part owner of this business until just prior to John Ewing’s arrest.
+In essence, the trial court did not believe the Ewings’ testimony that Jill Ewing had invested or given $3,000 of her own money to John for his initial capital contribution. The court also found that the lack of documentation regarding the "marital agreement” that John Ewing would recognize Jill’s alleged ownership interest made it less credible that there was an actual agreement and loan. This Court gives special deference to the trial court’s findings where they are based on the credibility of witnesses. Stanton v Dachille, 186 Mich App 247, 255; 463 NW2d 479 (1990). Accordingly, we find no error in the trial court’s finding that the transfer was not made pursuant to an antecedent agreement. Because the trial court was justified in finding that Jill Ewing did not pay fair consideration for her interest in the transferred shares, the transfer was properly set aside pursuant to MCL 566.19; MSA 26.889.
+Affirmed.
