@@ -1,0 +1,66 @@
+---
+court: "Michigan Court of Appeals"
+docket: "1,177"
+decided: "1966-03-09"
+citations: ["2 Mich. App. 478"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["J. H. Gtllis and Holbrook, JJ., concurred."]
+parties: ["In re ARNSON ESTATE. BRIDGERS v. ARNSON."]
+source_url: "https://static.case.law/mich-app/2/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2032066
+cites_cases: ["181 Mass 55", "346 Mich 613", "358 Mich 94", "368 Mich 90", "50 Mich 626", "51 ALR2d 521", "62 NE 956"]
+---
+
+# Bridgers v. Arnson
+
+## Majority (Fitzgerald, P. J.)
+
+Fitzgerald, P. J.
+This statement, taken from the circuit court decision in the instant case,
+“In the opinion of this court she has attempted to perpetrate a fraud on this court and the probate court”
+stands out like a rubric and piques the legal and intellectual curiosity of the reader.
+This quotation from the trial court’s opinion refers to the appellant, Ben Louise Bridgers, proponent of the will at issue.
+Involved is the estate of Aaron George Arnson, a prolific writer of wills. More specifically, this appeal concerns three “last wills and testaments” of the deceased, and the attempts of the Antrim county probate and circuit courts to find which, if any, is valid.
+Mr. Arnson died on May 6, 1960. On May 10th, a petition praying for appointment of an administrator was filed by his brother, G. David Arnson. The following day, Ben Louise Bridgers, the divorced wife of the deceased, filed an instrument purporting to be his last will and testament in which she was named executrix and sole devisee and legatee. This will was dated April 20, 1934, and was admitted to probate, G. David Arnson’s petition for appointment of an administrator being dismissed.
+Following this action by the probate court, the heirs-at-law of the decedent appealed to circuit court. The appeal terminated in a stipulation between the parties that Mr. Arnson’s heirs-at-law and Mrs. Bridgers would each take one-half of the estate and that Mrs. Bridgers be appointed administratrix.
+Mrs. Bridgers subsequently failed to qualify as administratrix and on March 26, 1962, appeared once again in probate court with a new attorney and filed a second document asking that this be admitted to probate as the last will and testament of the decedent. It is the admission of this “second will” to probate which concerns us here.
+The second will is dated April 17, 1955, is holographic, and, inter alia, bequeaths property to a brother and sister in Sweden, a brother in Minnesota, leaving two-thirds of the residue to Ben Louise Bridgers and the remaining one-third to her daughter. The witnesses on this will were Mrs. Bridgers’ husband, Alden L. Bridgers, and Mrs. Bridgers’ maid, Daisy Orr Jones.
+At the probate court hearing on the admission of the second will to probate, depositions taken in Florida from Mrs. Bridgers’ husband and from her maid were admitted into evidence. In addition, Mrs. Bridgers testified in person, as did two of her former attorneys, James R. Zerafa and Walter O’Hair.
+During the hearing, a third instrument having the form of a last will and testament of Aaron George Arnson was introduced into evidence. This instrument was holographic, but lacked the signature of witnesses, and has not been urged for admission to probate.
+At the conclusion of the hearing, the probate judge stated that, on the basis of all the evidence, it was the opinion of the court that the instrument identified as the second will was not, in fact, the last will and testament of Aaron George Arnson and therefore should not be admitted to probate.
+The findings of the probate judge include, inter alia, the observation that Mrs. Bridgers had the second will in her possession at the time she offered the first will for admission to probate. She did not produce the purported second will until some two years after admission of the first will and after entering into the stipulation giving one-half the estate to herself and one-half to the heirs.
+The reason for the delay in offering the second will, according to Mrs. Bridgers, was the alleged advice of her former attorneys, Mr. Zerafa and Mr. O’Hair. The alleged advice being that the second will was “not notarized and therefore invalid.” The testimony of the attorneys did not confirm this allegation.
+The probate court further found that both of the subscribing witnesses to the second will were certain that they could not have witnessed the will on a Sunday, although the date of the will falls on a Sunday. The court also noted that while both subscribing witnesses testified that they signed the will with the same pen used by the decedent in making his signature? it appeared that the signature of the testator had been made with an ink pen while those of the witnesses were made with a ball point pen.
+The denial of admission to probate was appealed to the cirenit court for the county of Antrim. On proceedings there, the only person appearing on behalf of appellant was her present attorney who ■placed the second will in evidence, together with the depositions of the two subscribing witnesses, and then rested.
+The opponents of the second will produced a handwriting expert who testified that the signature of the testator and the signature of the witnesses were not made with the same pen. Attorney Zerafa testified, stating that he had never seen the second will prior to the probate hearing and that he had never advised Mrs. Bridgers that any will was invalid because it was not “notarized”. Attorney O’Hair testified that he had seen the second will in Altamonte Springs, Florida, in 1961, but at that time it had not been witnessed. He denied that he had ever advised Mrs. Bridgers that the second will was invalid because it was not “notarized”.
+No rebuttal testimony was offered on behalf of Mrs. Bridgers.
+The circuit judge filed an opinion affirming the decision of the probate court denying admission to probate of the second will. He further held that the earlier order of the circuit court made in pursuance of the stipulation that proponent and heirs share equally in the estate was to be of no further force and effect, and that admission to probate be denied on the first will, it having been revoked by the divorce of the Arnsons.
+From these proceedings, it can be readily ascertained that Mrs. Bridgers and her daughter take nothing from the estate, both wills being denied admission to probate.
+Mrs. Bridgers appeals, contending that the second will was executed in the manner required by statute and that the testimony of the subscribing witnesses was such as would require admittance of that will to probate.
+She also contends that the circuit court should have disallowed the testimony of her former attorneys in the trial de novo in circuit court and that comments on the conduct of Mrs. Bridgers by the circuit judge in his opinion, while not relevant, were weighed in determination of the admissibility of the second will to probate.
+Our task is to cut through the confusion and conjecture and determine whether Aaron George Arnson left any valid last will and testament.
+Since the entire matter hinges upon the proper attestation of the second will, we turn first to appellant’s contention that Attorneys Zerafa and O’PIair should not have been allowed to testify in the trial de novo in circuit court and to present their uncontradicted testimony that the second will was not witnessed when seen by Attorney O’Hair, and that Attorney Zerafa had not seen the will until it was presented to him previously in probate court.
+The question comes down to a consideration of whether Mrs. Bridgers, by testifying in probate court as to what was told her by her former attorneys, has forever waived any privilege which might have existed between them, or whether that privilege re-attaches in a trial de novo in circuit court, effectively sealing the lips of the two attorneys there.
+In resolving this question, we must first acknowledge that the attorney-client privilege existed on these facts.
+That the privilege may be waived, however, was commented upon early in Michigan jurisprudence in the case of Passmore v. Passmore’s Estate (1883), 50 Mich 626, wherein Justice Cooley stated the general rule that (p 627): “There is a privilege of secrecy as to what passes between attorney and client, but is the privilege of the client and he may waive if it he so chooses.”
+Did Mrs. Bridgers waive any claim to the privilege in circuit court by her previous testimony in probate court?
+The matter appears to be one of first impression, and, in our view, to be susceptible to only one conclusion: that in these circumstances the privilege between attorney and client, once waived, is waived for all time and may not later be readopted as the advantage of the client dictates. Mrs. Bridgers, by testifying in probate court that both attorneys knew of the will and gave her incorrect advice regarding “notarization” of a will, waived any privilege which she possessed. This being true, testimony of the attorneys was properly admitted in the later circuit court hearings.
+In Green v. Crapo (1902), 181 Mass 55 (62 NE 956), it was held that where a party in a probate court proceeding waives his objection to the admission of certain privileged communications, such objection cannot later be invoked in a trial on appeal to a higher court.
+The logic of Holmes, C. J., in Green, applies with equal vigor here (p 62): “The privacy for the sake of which the privilege was created was gone by the appellant’s own consent, and the privilege does not remain under such circumstances for the mere sake of giving the client an additional weapon to use or not at his choice.”
+Having determined that the testimony of the two attorneys was properly admitted in the ele novo circuit court hearing, we come to the heart of the question of the validity of the will. Specifically, was the will in question properly executed?
+In In re Dalton Estate (1956), 346 Mich 613, 624, the general rule is stated, “It is well established that where there is a complete attestation clause a presumption arises that the will was executed in accordance with the recitation therein.”
+In Utley v. First Congregational Church (1962), 368 Mich 90, it was held:
+“A complete attestation clause in a will raises a presumption that the will was executed with the recitation therein and is not overcome by testimony by 1 of the attesting witnesses that he did not see the testator sign his name, did not see the testator’s name and that testator did not expressly say to them that he had signed it, especially where there is presented contradictory testimony in support of the due execution.” (Syllabus 5.)
+Under the general rule, the alleged discrepancies in the testimony of the attesting witnesses (as to the day of the week on which the will was executed and the pen used to affix the signatures of the testator and his witnesses) would not, standing alone, defeat the presumption of validity. Coupled, however, with the testimony by Attorneys Zerafa and O’Hair casting grave doubt on the validity, or even the very existence of the attestation, we see why the trial court could handily reach the conclusion expressed in its opinion, and perhaps why it felt constrained to comment in the harsh terms set forth in the first paragraph of this opinion.
+It cannot be seriously contended that the presumption of validity which exists in Michigan may not be 'rebutted.
+The statutory requirements for a valid will in Michigan, as found in CL 1948, § 702.5 (Stat Ann 1962 Kev § 27.3178 [75]) are explicit:
+“No will made within this State, . . . shall be effectual to pass any estate, whether real' or personal, nor to charge or in any way affect the same, unless it he in writing and signed by the testator or by some person in his presence, and at his express direction and attested and subscribed in the presence of the testator by 2 more competent witnesses.”
+The finding of the probate and circuit courts that the second will did not meet these requirements will not be disturbed.
+Appellant’s final contention that the trial judge colored his decision by judgment of Mrs. Bridgers’ conduct we do not deem to be well taken. It is true that the trial court’s opinion contains this statement, “Her actions in this case are reprehensible and she should be penalised and in any event not allowed to profit by stich tactics”. (Emphasis supplied.) "While this observation certainly was not necessary to the proper decision of the case, it does not alter the fact that the trial court reached the proper decision using-valid legal reasoning. Unsolicited remarks or expressions of ill-humor are best judged in the light of the circumstances under which they are made. Patrick v. Carrier-Stevens Company (1959), 358 Mich 94.
+After exhaustively reviewing the record before us, we find it difficult not to make an observation ourselves. As ably stated by Thoreau: “Some circumstantial evidence is very strong as when you find a trout in the milk.”
+Affirmed.
+J. H. Gtllis and Holbrook, JJ., concurred.
+8 Writings of Henry David Tlioroan, Journal, November 11, 1850 (Torrey Ed.) p 94.
