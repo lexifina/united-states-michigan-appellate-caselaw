@@ -1,0 +1,28 @@
+---
+court: "Michigan Court of Appeals"
+docket: "225206"
+decided: "2002-09-03"
+citations: ["252 Mich. App. 689"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Whitbeck, C.J., and Wilder and Zahra, JJ."]
+parties: ["KERNEN v HOMESTEAD DEVELOPMENT COMPANY"]
+source_url: "https://static.case.law/mich-app/252/cases/0689-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1035350
+cites_cases: ["137 Mich App 587", "175 Mich App 442", "219 Mich App 476", "219 Mich App 500", "232 Mich App 503", "234 Mich App 94", "237 Mich App 554", "239 Mich App 125", "358 NW2d 383", "438 NW2d 313", "556 NW2d 528", "556 NW2d 890", "591 NW2d 369", "593 NW2d 595", "603 NW2d 809", "607 NW2d 760"]
+---
+
+# Kernen v. Homestead Development Co.
+
+## Majority (Wilder, J.)
+
+Wilder, J.
+Plaintiffs appeal as of right the trial court’s award of expert witness fees to defendant in the amount of $47,598.54 for fees incurred in preparation for trial. We affirm.
+The litigation underlying this appeal resulted in a published decision of this Court, Kernen v Homestead Dev Co, 232 Mich App 503; 591 NW2d 369 (1998). At trial, plaintiffs had won an award of nominal damages against defendant on a claim of anticipatory trespass, in connection with defendant’s plans to discharge wastes into a wetland in which plaintiffs and defendant each had ownership interest. This Court reversed and remanded on the ground that an action for damages cannot lie when a tort is merely threatened. Id. at 509. On remand, defendant sought an award of costs, including reimbursement for expert witness fees incurred in preparation for trial. The trial court denied the defendant’s motion for costs under MCL 600.2445 and MCR 7.101. However, pursuant to MCL 600.2164, the trial court awarded defendant fees related to experts used in preparation for trial. The trial court also awarded defendant expert deposition fees pursuant to MCR 2.302(B)(4)(c)(i) and (ii).
+Plaintiffs first argue that the trial court erred in awarding costs to defendant because defendant’s bill of costs was not sufficiently detailed and because the trial court failed to hold an evidentiary hearing to resolve ambiguity resulting from the lack of specificity. We disagree. This Court reviews an award of costs for an abuse of discretion. Klinke v Mitsubishi Motors Corp, 219 Mich App 500, 518; 556 NW2d 528 (1996). Generally, a trial court should hold an eviden-tiary hearing when a party is challenging the reasonableness of the attorney fees claimed. Miller v Meijer, Inc, 219 Mich App 476, 479; 556 NW2d 890 (1996). However, if the parties created a sufficient record to review the issue, an evidentiary hearing is not required. See Head v Phillips Camper Sales & Rental, Inc, 234 Mich App 94, 113; 593 NW2d 595 (1999); Giannetti Bros Constr Co, Inc v City of Pontiac, 175 Mich App 442, 450; 438 NW2d 313 (1989). A trial court’s decision that an evidentiary hearing is not warranted is reviewed for an abuse of discretion. Bie-lawski v Bielawski, 137 Mich App 587, 593; 358 NW2d 383 (1984). Findings of fact may not be set aside unless clearly erroneous. MCR 2.613(C).
+In their brief on appeal, plaintiffs assert that they requested an evidentiary hearing below, but provide no record citation to verify that assertion. See MCR 7.212(C)(7). Our review of the record and the trial briefs submitted establishes that plaintiffs did not request an evidentiary hearing until they moved that the trial court reconsider its opinion and order. Plaintiffs’ failure to request an evidentiary hearing constituted a forfeiture of the issue. People v Collins, 239 Mich App 125, 133, n 5; 607 NW2d 760 (1999). However, even if the issue had not been forfeited, defendant’s bill of costs and accompanying documentation provided the trial court with a reasonable evidentiary basis to evaluate and decide defendant’s motion for costs. Head, supra. Thus, the trial court did not abuse its discretion by deciding the motion solely on the pleadings and supporting documentation submitted by the parties. Bielawski, supra.
+Plaintiffs also contend that the trial court erred as a matter of law in awarding expert witness deposition fees under MCR 2.302(B)(4)(c)(i) and (ii). We disagree. The interpretation and application of court rules is a question of law that we review de novo. Grzesick v Cepela, 237 Mich App 554, 559; 603 NW2d 809 (1999). MCR 2.302(B)(4)(c)(i) requires the trial court to direct the party obtaining deposition testimony from an expert to pay the expert a reasonable fee, unless a manifest injustice would result from the payment. Similarly, unless a manifest injustice would occur, MCR 2.302(B)(4)(c)(ii) also requires the trial court to direct an opposing party to pay a reasonable portion of the expenses incurred by a party in obtaining discoverable information from a retained expert who is not expected to testify at trial. In its discretion, the trial court may, but is not obligated to, require reimbursement for other discovery obtained by a party from the expert of the opposing party.
+Contrary to plaintiffs’ claim, nothing in the court rule prohibits the trial court from determining, as the trial court did in this case, that fees were justly and fairly awarded to defendant, even though the trial court had also awarded defendant additional taxable costs under a statutory provision. Furthermore, the court rule differs from MCL 600.2549 and does not require that the deposition testimony of the expert be used at trial before the trial court may award fees under the rule. Thus, plaintiffs’ claim in this regard is also misplaced.
+Affirmed.
