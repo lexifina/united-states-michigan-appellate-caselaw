@@ -1,0 +1,32 @@
+---
+court: "Michigan Court of Appeals"
+docket: "1,204"
+decided: "1967-02-28"
+citations: ["6 Mich. App. 128"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Holbrook, P. J. and Burns, J., concurred."]
+parties: ["PEOPLE v. VANLANDINGHAM."]
+source_url: "https://static.case.law/mich-app/6/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2025269
+cites_cases: ["10 ALR3d 314", "3 Mich App 165", "358 Mich 551", "367 US 643", "370 Mich 251", "371 Mich 563", "372 Mich 292", "376 US 364", "378 Mich 51", "379 US 645", "380 US 967", "84 ALR2d 933", "85 S Ct 1102", "85 S Ct 611"]
+---
+
+# People v. Vanlandingham
+
+## Majority (Hoppius, J.)
+
+Hoppius, J.
+On April 4, 1965, at approximately 4:30 a.m., Mr. Richard Bennett telephoned the Sturgis police department and reported there was a prowler in the neighborhood who was sitting in an older model car with a loud muffler in front of his home. Two officers were dispatched to the area. They observed an automobile driving away from the Bennett home and stopped the vehicle because of its noisy muffler.
+The driver of this automobile, the defendant, was questioned. He gave evasive answers as to his reason for being in the area and revealed that he had no operator’s license. The officers then requested that the defendant accompany them to the police department. He was briefly searched for weapons and one of the arresting officers rode with the defendant to the police station while the other officer followed in the police cruiser. Defendant’s vehicle was placed in an impounding lot adjacent to tlie police station. The purpose of taking him to the police department was to issue a summons for driving without an operator’s license and to question the defendant further. After a short period of questioning, Mr. Bennett was informed that a suspect had been apprehended. At this time, Mr. Bennett informed the police that the prowler had entered Mr. Bennett’s house, and defendant was then arrested for breaking and entering1. Defendant accompanied two officers to Mr. Bennett’s home where he was positively identified.
+Upon return to the police station, defendant was photographed, fingerprinted, and confined. In examining the contents of his pockets, four empty .38 caliber cartridges were discovered. Immediately thereafter, the officers, without a warrant, searched defendant’s vehicle in the impounding lot and found and seized a .45 caliber pistol with two clips of ammunition under the driver’s seat. This search of the vehicle occurred approximately one hour after his arrest for the driving violation and a half hour after his arrest on the breaking and entering charge.
+Defendant was subsequently charged with carrying concealed weapons without a license in violation of CL 1948, § 750.227 (Stat Ann 1962 Rev § 28.424). Prior to trial, defendant filed a motion to suppress the pistol and clips of ammunition, claiming that they were inadmissible because of an illegal search and seizure. The trial court denied the motion and defendant, by leave of court, has appealed.
+The question before us concerns the admissibility of a firearm and ammunition which were seized after police officers searched defendant’s motor vehicle without a search warrant while defendant was in custody at the police department on a charge of breaking and entering. Const 1963, art 1, § 11, provides as follows:
+“The person, houses, papers and possessions of every person shall be secure from unreasonable searches and seizures. No warrant to search any place or to seize any person or things shall issue without describing them, nor without probable cause, supported by oath or affirmation. The provisions of this section shall not be construed to bar from evidence in any criminal proceeding any narcotic drug, firearm, bomb, explosive or any other dangerous weapon, seized by a peace officer outside the curtilage of any dwelling house in this State.”
+People v. Monroe (1966), 3 Mich App 165, recently decided by this Court, held that it was unnecessary “to decide whether the search [for narcotics] was reasonable or unreasonable” under Const 1908, art 2, § 10 (a provision essentially the same as the provision of the present Constitution quoted above), as interpreted by People v. Winkle (1960), 358 Mich 551. The Court cited the 1960 Winkle Case instead of In re Winkle (1964), 372 Mich 292, because the latter case contained no controlling language adopted by a majority of tbe Court. It further appears that since Mapp v. Ohio (1961), 367 US 643 (81 S Ct 1684, 6 L ed 2d 1081, 84 ALR2d 933), the United States Supreme Court has refused certiorari to review the decision of In re Winkle, supra, in 379 US 645 (85 S Ct 611, 13 L ed 2d 551) and denied a petition for rehearing thereof in 380 US 967 (85 S Ct 1102,14 L ed 2d 157).
+Counsel for defendant relies upon People v. Carr (1963), 370 Mich 251, and People v. Lee (1963), 371 Mich 563. In both cases evidence seized by the investigating officers without a search warrant was held to be inadmissible. In People v. Carr, supra, a search of defendant’s vehicle was made while the defendant was in custody on another charge and the seizure did not involve firearms, narcotics, et cetera, referred to in the last sentence of the Const 1963, art 1, § 11, supra. In People v. Lee, supra, narcotics were discovered after defendant’s vehicle was stopped by officers because of an improperly displayed license plate, and an inspection of the brakes was made. The author of the opinion in People v. Lee, supra, has since admitted error in that opinion as stated in his concurring opinion in People v. Blessing (1966), 378 Mich 51. Although both of these decisions were subsequent to Mapp, supra, neither decision discussed Mapp, supra.
+Defendant also relies upon Preston v. United States (1964), 376 US 364 (84 S Ct 881, 11 L ed 2d 777), but that case does not involve a constitu-. tional provision similar to Const 1963, art 1, § 11.
+The United States Supreme Court and the Supreme Court of Michigan have not determined the last sentence of Const 1963, art 1, § 11, to be unconstitutional in the light of Mapp v. Ohio, supra. Because the objects seized in this case cannot be barred from evidence under this constitutional provision, the trial court is affirmed in its denial of the motion to suppress.
+Holbrook, P. J. and Burns, J., concurred.
