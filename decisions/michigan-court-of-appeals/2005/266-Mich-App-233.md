@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "s. 243171, 244609"
 decided: "2005-05-05"
-citations: ["266 Mich. App. 233", "266 Mich. App. 801"]
+citations: ["266 Mich. App. 233"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
