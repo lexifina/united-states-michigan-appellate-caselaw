@@ -1,0 +1,31 @@
+---
+court: "Michigan Court of Appeals"
+docket: "260534"
+decided: "2005-05-24"
+citations: ["266 Mich. App. 510"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: MURPHY, P.J., and WHITE and SMOLENSK, JJ."]
+parties: ["MUNICIPAL EMPLOYEES RETIREMENT SYSTEMS OF MICHIGAN v DELTA CHARTER TOWNSHIP"]
+source_url: "https://static.case.law/mich-app/266/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 580388
+cites_cases: ["157 NW 85", "171 A2d 882", "190 Mich 327", "195 Pa Super 517", "354 Pa 556", "47 A2d 807"]
+---
+
+# Municipal Employees Retirement Systems v. Delta Charter Township
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Petitioner is a Michigan public corporation created pursuant to the Municipal Employees Retirement Act (MERA), MCL 38.1501 et seq., for the purpose of administering a governmental pension plan and related benefits to employees of participating governmental agencies. It purchased three contiguous parcels of vacant commercial property as an investment. After receiving notices of assessments concerning the 2004 assessed values of the property, petitioner protested to the Delta Township Board of Review. Petitioner challenged the valuation and claimed that the parcels were exempt from ad valorem taxation pursuant to MCL 211.7m because the parcels were being “used to carry out a public purpose” in that they were part of a diversified portfolio that benefited public employees. The board of review lowered the assessed values, but rejected the claim of exemption. Petitioner appealed the denial of the exemption to the Tax Tribunal, which concluded that real property owned for investment purposes is taxable even if the proceeds from the investment further an exempt purpose. Petitioner now appeals as of right. We reverse and remand. This case is being decided without oral argument pursuant to MCR 7.214(E).
+MCL 211.7m states:
+Property owned by, or being acquired pursuant to, an installment purchase agreement by a county, township, city, village, or school district used for public purposes and property owned or being acquired by an agency, authority, instrumentality, nonprofit corporation, commission, or other separate legal entity comprised solely of, or which is wholly owned by, or whose members consist solely of a political subdivision, a combination of political subdivisions, or a combination of political subdivisions and the state and is used to carry out a public purpose itself or on behalf of a political subdivision or a combination is exempt from taxation under this act....
+There is no dispute that petitioner falls within the category of “an agency, authority, instrumentality, nonprofit corporation, commission, or other separate legal entity comprised solely of, or which is wholly owned by, or whose members consist solely of a political subdivision, a combination of political subdivisions, or a combination of political subdivisions and the state. . . .” The dispositive issue is whether the property “is used to carry out a public purpose . . . .”
+We review our Supreme Court’s decision in Traverse City v East Bay Twp, 190 Mich 327; 157 NW 85 (1916), to determine the meaning of “used” in the context of this statute. In Traverse City, the Supreme Court interpreted a predecessor version of MCL 211.7m, 1 Comp Laws 1915, § 4001, that pertained to property “used for public purposes.” The land at issue was undeveloped and was held by the city as a prospective site for future generation of electrical power. The Court reasoned:
+Can it be said in any proper sense, and within the meaning of the language of the statute, that these lands belonging to the plaintiff in the defendant township are “used for public purposes?”
+The evidence above set forth distinctively negatives this proposition. The lands not only are not used for any public purpose, but they are not used for any purpose. They lie in a state of nature and no attempt has, to the present time, been made to utilize them for the development of power, which is the only use of value that can be made of them. [Id. at 330-331 (emphasis added).]
+The Court clarified that “the use which warrants exemption mentioned in the statute is a present use, and not an indefinite prospective use.” Id. at 331. Hence, the relevant inquiry is whether petitioner puts the property in question to a present use for a public purpose. If the use is merely “prospective,” then it will not be exempt from taxation.
+This case presents circumstances distinct from those involved in the cases relied on by the Tax Tribunal, in which a governmental entity holds real property for investment purposes. Here, the vacant properties are held by petitioner, not for ancillary investment purposes, but as part of a diversified investment portfolio pursuant to petitioner’s statutory duty to administer funds. MCL 38.1139(2) and 38.1536(10). See Commonwealth v Dauphin Co, 354 Pa 556; 47 A2d 807 (1946), and Pennsylvania Turnpike Comm v Fulton Co, 195 Pa Super 517, 522; 171 A2d 882, 884 (1961). Under MERA, “[a]ll money and other assets of the retirement system shall be held and invested for the sole purpose of meeting disbursements authorized in accordance with the provisions of this act and shall be used for no other purpose . ...” MCL 38.1539(2). By the plain language of this statute, petitioner is required to hold and invest other assets, such as the land in question, for the purpose of meeting its disbursement requirements. Furthermore, the statute specifically states that the assets held or invested “shall be used for no other purpose.” Id. (emphasis added). The phrase “used for no other purpose” necessarily contemplates that the only proper “uses” for assets under the act, is to hold or invest them. Consequently, the act of holding real property assets in petitioner’s portfolio, ready for liquidation to meet its statutorily mandated disbursement requirements, is a present use rather than “an indefinite prospective use.” Traverse City, supra at 331. Therefore, the land held by petitioner was properly exempt from taxation under MCL 211.7m because it was land used for a public purpose.
+Reversed and remanded. We do not retain jurisdiction.
