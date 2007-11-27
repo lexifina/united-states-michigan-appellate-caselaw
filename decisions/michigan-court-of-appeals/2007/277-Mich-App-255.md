@@ -1,0 +1,33 @@
+---
+court: "Michigan Court of Appeals"
+docket: "271882"
+decided: "2007-11-27"
+citations: ["277 Mich. App. 255"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: DONOFRIO, EJ., and HOEKSTRA and Markey, JJ."]
+parties: ["PEOPLE v HERRICK"]
+source_url: "https://static.case.law/mich-app/277/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3685524
+cites_cases: ["215 Mich App 318", "262 Mich App 363", "262 Mich App 596", "269 Mich App 505", "271 Mich App 409", "468 Mich 448", "470 Mich 248", "474 Mich 48", "544 NW2d 752", "662 NW2d 727", "680 NW2d 878", "686 NW2d 752", "686 NW2d 790", "710 NW2d 46", "715 NW2d 301", "722 NW2d 237"]
+---
+
+# People v. Herrick
+
+## Majority (Fer CURIAM.)
+
+Fer CURIAM.
+The prosecution appeals by right the circuit court’s order granting defendant’s motion to quash an information charging defendant with one count of failure to pay court-ordered child support (felony nonsupport), MCL 750.165. We affirm.
+Defendant was charged with felony nonsupport for failing to pay court-ordered child support for his two children between November 7, 2000, and November 7, 2005. Following the preliminary examination, the district court found that there was sufficient evidence to bind defendant over for trial. Defendant subsequently moved in the trial court to quash the information. He argued that there was insufficient evidence to bind him over for trial because there was no evidence that he appeared at, or received notice by personal service of, the actions in which the support orders were entered, as required by MCL 750.165(2). The trial court granted defendant’s motion and dismissed without prejudice the charge against him.
+The prosecution contends that the trial court erred in granting defendant’s motion to quash the information. The prosecution argues that all the elements of felony nonsupport are set forth in MCL 750.165(1). Because the notice requirement set forth in MCL 750.165(2) is not an element of the offense, the prosecution asserts that it was not required to present any evidence regarding notice at the preliminary examination. We disagree.
+“A circuit court’s ruling regarding a motion to quash an information and the district court’s decision to bind over a defendant are reviewed to determine whether the district court abused its discretion in making its decision.” People v Hill, 269 Mich App 505, 513-514; 715 NW2d 301 (2006). But where the decision entails a question of statutory interpretation, the issue is a question of law that we review de novo. Id. at 514. The primary goal in construing a statute is to discern and give effect to the intent of the Legislature. Id. “If the wording or language of a statute is unambiguous, the Legislature is deemed to have intended the meaning clearly expressed, and we must enforce the statute as written.” Id. at 515. “This Court must avoid a construction that would render any part of a statute surplusage or nugatory.” Id.
+The statute under which defendant was charged provides, in pertinent part:
+(1) If the court orders an individual to pay support for the individual’s former or current spouse, or for a child of the individual, and the individual does not pay the support in the amount or at the time stated in the order, the individual is guilty of a felony punishable by imprisonment for not more than 4 years or by a fine of not more than $2,000.00, or both.
+(2) This section does not apply unless the individual ordered to pay support appeared in, or received notice by personal service of, the action in which the support order was issued. [MCL 750.165.]
+The elements of the crime of felony nonsupport are “(1) the defendant was required by a decree of separate maintenance or divorce order to support a child or current or former spouse, (2) the defendant appeared in or received notice by personal service of the action in which the order was issued, and (3) the defendant failed to pay the required support at the time ordered or in the amount ordered.” People v Monaco, 262 Mich App 596, 606; 686 NW2d 790 (2004) (Monaco I), aff'd in part and rev’d in part on other grounds 474 Mich 48 (2006) (emphasis added).
+We are bound by Monaco I to the extent that it is not inconsistent with our Supreme Court’s decision in People v Monaco, 474 Mich 48, 58; 710 NW2d 46 (2006) (Monaco II). The statement of the elements of the offense of felony nonsupport in Monaco I has not been overruled or modified. Therefore, it was binding on the trial court and is binding on this Court. MCR 7.215(C)(2); MCR 7.215(J)(1). Moreover, even if the Monaco I statement of the elements of felony nonsupport were merely judicial dicta, the plain language of MCL 750.165 evinces the Legislature’s intent to define the offense of felony nonsupport to include the notice requirement set forth in MCL 750.165(2) as an element of the offense. We must apply the plain and unambiguous language of the statute. People v Lively, 470 Mich 248, 256, 258; 680 NW2d 878 (2004); People v Gentner, Inc, 262 Mich App 363, 367; 686 NW2d 752 (2004).
+The prosecution conceded below and in its brief on appeal that it failed to present any evidence at the preliminary examination to establish that defendant appeared in, or received notice by personal service of, the action in which the support orders were entered. The prosecution was required to establish that defendant received such notice; it was an element of the offense of felony nonsupport. Monaco I, supra at 606. Where a prosecutor fails to present evidence on each of the elements of a charged offense, the district court abuses its discretion in binding over the defendant for trial. People v Perkins, 468 Mich 448, 452; 662 NW2d 727 (2003). “There must be some evidence from which each element of the crime may be inferred.” People v Tower, 215 Mich App 318, 320; 544 NW2d 752 (1996). Thus, we affirm the trial court’s order granting defendant’s motion to quash the district court’s bindover determination in this case.
+The prosecution also argues on appeal that service by certified restricted mail satisfies the personal service requirement in MCL 750.165(2). But, again, the prosecution did not present any evidence below that defendant received by certified restricted mail notice of the actions in which the support orders were entered. Further, the trial court did not decide this issue. Thus, this issue is not properly before this Court. Generally, appellate review is limited to issues the trial court decided. People v Giovannini, 271 Mich App 409, 414; 722 NW2d 237 (2006).
+We affirm.
