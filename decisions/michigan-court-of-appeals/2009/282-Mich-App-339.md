@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "280776"
 decided: "2009-02-05"
-citations: ["282 Mich. App. 339", "282 Mich. App. 801"]
+citations: ["282 Mich. App. 339"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
