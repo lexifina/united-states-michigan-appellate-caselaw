@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "287280"
 decided: "2010-03-23"
-citations: ["287 Mich. App. 589", "287 Mich. App. 801"]
+citations: ["287 Mich. App. 589"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["ALPHA CAPITAL MANAGEMENT, INC v RENTENBACH"]
 source_url: "https://static.case.law/mich-app/287/cases/0589-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4072738
-cites_cases: ["107 Mich App 509", "113 F Supp 265", "130 Mich App 17", "165 Mich App 516", "180 Mich App 525", "189 Mich App 591", "196 Mich App 411", "198 NW2d 702", "206 Mich App 644", "207 NW2d 914", "216 F2d 920", "222 Mich App 700", "228 Mich App 101", "232 Mich App 517", "251 Mich App 652", "258 Mich App 175", "263 Mich App 618", "265 Mich App 343", "266 Mich App 39", "269 Mich App 551", "273 NW 552", "278 Mich App 210", "279 Mich App 720", "280 Mich 233", "282 Mich App 1", "284 Mich App 50", "287 Mich App 589", "309 NW2d 645", "314 NW2d 440", "343 NW2d 223", "40 Mich App 1", "405 Mass 506", "412 Mich 355", "418 NW2d 906", "444 Mich 508", "447 NW2d 835", "46 Mich App 212", "463 Mich 1", "467 Mich 1", "467 Mich 329", "469 Mich 124", "469 Mich 177", "474 NW2d 306", "477 Mich 1059", "478 Mich 348", "479 F Supp 867", "480 Mich 191", "493 NW2d 447", "514 P2d 823", "522 NW2d 703", "541 NE2d 997", "565 NW2d 401", "577 NW2d 188", "591 NW2d 422", "594 F Supp 1199", "615 NW2d 17", "651 NW2d 356", "651 NW2d 458", "653 NW2d 176", "665 NW2d 468", "666 NW2d 186", "670 NW2d 675", "689 NW2d 506", "695 NW2d 521", "698 NW2d 900", "711 NW2d 442", "747 NW2d 811", "749 NW2d 272", "761 NW2d 454", "763 NW2d 1", "771 NW2d 453", "90 F2d 65"]
+cites_cases: ["107 Mich App 509", "113 F Supp 265", "130 Mich App 17", "165 Mich App 516", "180 Mich App 525", "189 Mich App 591", "196 Mich App 411", "198 NW2d 702", "206 Mich App 644", "207 NW2d 914", "216 F2d 920", "222 Mich App 700", "228 Mich App 101", "232 Mich App 517", "251 Mich App 652", "258 Mich App 175", "263 Mich App 618", "265 Mich App 343", "266 Mich App 39", "269 Mich App 551", "273 NW 552", "278 Mich App 210", "279 Mich App 720", "280 Mich 233", "282 Mich App 1", "284 Mich App 50", "309 NW2d 645", "314 NW2d 440", "343 NW2d 223", "40 Mich App 1", "405 Mass 506", "412 Mich 355", "418 NW2d 906", "444 Mich 508", "447 NW2d 835", "46 Mich App 212", "463 Mich 1", "467 Mich 1", "467 Mich 329", "469 Mich 124", "469 Mich 177", "474 NW2d 306", "477 Mich 1059", "478 Mich 348", "479 F Supp 867", "480 Mich 191", "493 NW2d 447", "514 P2d 823", "522 NW2d 703", "541 NE2d 997", "565 NW2d 401", "577 NW2d 188", "591 NW2d 422", "594 F Supp 1199", "615 NW2d 17", "651 NW2d 356", "651 NW2d 458", "653 NW2d 176", "665 NW2d 468", "666 NW2d 186", "670 NW2d 675", "689 NW2d 506", "695 NW2d 521", "698 NW2d 900", "711 NW2d 442", "747 NW2d 811", "749 NW2d 272", "761 NW2d 454", "763 NW2d 1", "771 NW2d 453", "90 F2d 65"]
 ---
 
 # Alpha Capital Management, Inc. v. Rentenbach
