@@ -1,0 +1,51 @@
+---
+court: "Michigan Court of Appeals"
+docket: "285655"
+decided: "2010-07-13"
+citations: ["289 Mich. App. 211"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: O’CONNELL, P.J., and TALBOT and STEPHENS, JJ."]
+parties: ["DOE v DOE (ON REMAND)"]
+source_url: "https://static.case.law/mich-app/289/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4075438
+cites_cases: ["1975 PA 238", "263 Mich App 408", "277 Mich App 268", "478 Mich 589", "486 Mich 851", "688 NW2d 304", "734 NW2d 514", "744 NW2d 10"]
+---
+
+# Doe v. Doe
+
+## Majority (Talbot, J.)
+
+ON REMAND
+Before: O’CONNELL, P.J., and TALBOT and STEPHENS, JJ.
+Talbot, J.
+This case returns to this Court on remand from our Supreme Court “for reconsideration of the reporting requirements under the Child Protection Law, MCL 722.623(1)(a), and the effects of MCL 722.622(f), (t), and (u) on those requirements in this case.” Doe v Doe, 486 Mich 851 (2010). After such consideration, we reverse the trial court’s denial of defendants’ motion for summary disposition of plaintiffs’ claim of liability premised on a failure to report child abuse in accordance with MCL 722.623.
+To provide context, a brief summary of the factual circumstances is provided. This case involved the transport by ambulance of a minor female by two emergency medical technicians (EMTs) to a psychiatric facility following her attempted suicide and stabilization at a general hospital. The driver of the ambulance was Timothy O’Connell. The other EMT involved in the transport was Matt DeFillippo, who traveled in the rear of the ambulance with the minor and sexually molested her. The question on remand is whether O’Connell breached a statutory duty, given his suspicions that DeFillippo was engaged in improper and illicit physical contact with the minor, to report the incident of abuse in accordance with MCL 722.623. Although O’Connell did contact his supervisor while en route to seek instruction because of his suspicions and concerns regarding his partner’s behavior, resulting in a police investigation and charges brought against DeFillippo, plaintiff contends that defendants also had a duty to report the abuse in accordance with the strictures of the Child Protection Law (CPL), MCL 722.621 et seq.
+We review de novo a trial court’s decision to grant or deny summary disposition. Hughes v Region VII Area Agency on Aging, 277 Mich App 268, 273; 744 NW2d 10 (2007). Similarly, “[t]he proper interpretation of a statutory provision is a question of law that this Court reviews de novo.” Brown v Detroit Mayor, 478 Mich 589, 593; 734 NW2d 514 (2007). Because “[t]he primary goal of statutory interpretation is to give effect to the intent of the Legislature,” the “first step is to review the language of the statute.” Id. “If the statutory language is unambiguous, the Legislature is presumed to have intended the meaning expressed in the statute and judicial construction is not permissible.” Id.
+The language of MCL 722.623 is clear and unambiguous in mandating that EMTs report child abuse to Children’s Protective Services. Specifically, MCL 722.623(1) provides, in relevant part:
+An individual is required to report under this act as follows:
+(a) A physician, dentist, physician’s assistant, registered dental hygienist, medical examiner, nurse, person licensed to provide emergency medical care, audiologist, psychologist, marriage and family therapist, licensed professional counselor, social worker, licensed master’s social worker, licensed bachelor’s social worker, registered social service technician, social service technician, a person employed in a professional capacity in any office of the friend of the court, school administrator, school counselor or teacher, law enforcement officer, member of the clergy, or regulated child care provider who has reasonable cause to suspect child abuse or neglect shall make immediately, by telephone or otherwise, an oral report, or cause an oral report to be made, of the suspected child abuse or neglect to the department. Within 72 hours after making the oral report, the reporting person shall file a written report as required in this act. [Emphasis added.]
+While a reporting mandate appears to exist under the language of MCL 722.623, this requirement is limited by MCL 722.622, which provides definitions for some terms “[a]s used in this act[.]”
+The term “child abuse” is defined in MCL 722.622(f) as
+harm or threatened harm to a child’s health or welfare that occurs through nonaccidental physical or mental injury, sexual abuse, sexual exploitation, or maltreatment, by a parent, a legal guardian, or any other person responsible for the child’s health or welfare or by a teacher, a teacher’s aide, or a member of the clergy. [Emphasis added.]
+In turn, a “person responsible for the child’s health or welfare” is defined in MCL 722.622(u) as encompassing
+a parent, legal guardian, person 18 years of age or older who resides for any length of time in the same home in which the child resides, or, except when used in [MCL 722.627(2)(e) or MCL 722.628(8)], nonparent adult; or an owner, operator, volunteer, or employee of 1 or more of the following:
+(i) A licensed or registered child care organization.
+(ii) A licensed or unlicensed adult foster care family home or adult foster care small group home .... [Emphasis added.]
+A “nonparent adult” is defined in MCL 722.622(t) to mean
+a person who is 18 years of age or older and who, regardless of the person’s domicile, meets all of the following criteria in relation to a child:
+(i) Has substantial and regular contact with the child.
+(ii) Has a close personal relationship with the child’s parent or with a person responsible for the child’s health or welfare.
+(Hi) Is not the child’s parent or a person otherwise related to the child by blood or affinity to the third degree. [Emphasis added.]
+Consequently, the statutory definitions specifically limit the reporting requirements of MCL 722.623 in accordance with the meanings attributed to the terms “child abuse,” “person responsible for the child’s health or welfare,” and “nonparent adult.” On the basis of these restrictive definitions, MCL 722.623(1)(a) mandates reporting of suspected child abuse to Children’s Protective Services by the enumerated professional disciplines only if the perpetrator of the abuse has a very specific relationship with the minor child. Specifically, MCL 722.623(1) (a) requires reporting of suspected child abuse only if the perpetrator is the parent, legal guardian, teacher, teacher’s aide, clergyman, “or any other person responsible for the child’s health or welfare,” including a “nonparent adult,” as those terms are defined by MCL 722.622(u) and (t). In other words, the imposition of a duty to report suspected child abuse to Children’s Protective Services is based not on the occurrence of such abuse, but on the type of relationship the alleged perpetrator has with the minor child. While such an outcome would seem to be contrary to the normal usage or understanding of such phrases and to the mandatory nature of MCL 722.623(1)(a), the statutory definitions encompassing the term “child abuse” preclude the imposition of a reporting requirement on defendants under the factual circumstances of this case.
+To explain this apparent discrepancy, we examine both the stated purpose of the CPL and a previous decision by another panel of this Court. The CPL indicates its purpose as follows:
+An act to require the reporting of child abuse and neglect by certain persons; to permit the reporting of child abuse and neglect by all persons; to provide for the protection of children who are abused or neglected; to authorize limited detainment in protective custody; to authorize medical examinations .... [Title of 1975 PA 238 (emphasis added).]
+In People v Beardsley, 263 Mich App 408, 413-414; 688 NW2d 304 (2004), a different panel of this Court reconciled the purpose of the act with its definitional limitations, stating, in relevant part:
+This Court must give effect to the interpretation that accomplishes the statute’s purpose. The preamble to the CPL states that the purpose of the CPL is, in part, “to require the reporting of child abuse and neglect by certain persons.” The statute’s definition of “child abuse,” which identifies parents and others responsible for a child’s health and welfare, reflects the statute’s purpose of protecting children in situations where abuse and neglect frequently go unreported, i.e., when perpetrated by family members or others with control over the child. Hence, reports are required to be made to the [Family Independence Agency] rather than to the police, which would be the appropriate agency to contact in the case of sexual abuse involving a person without any familial contacts or other authority over the child. Typically, parents, teachers, and others who are responsible for the health and welfare of a child will be the first to report instances of child abuse by unrelated third parties. This act is designed to protect children when the persons who normally do the reporting are actually the persons responsible for the abuse, and thus unlikely to report it. [Citation omitted.]
+By way of this ruling, we wish to emphasize that the absence of a statutory duty under MCL 722.623(1)(a) to report this wrongdoing to Children’s Protective Services does not affect the propriety or alleviate the moral obligation of contacting law enforcement personnel to seek an investigation of such reprehensible criminal conduct.
+Thus, on the basis of the limiting language of the statutory definitions, we reverse the trial court’s denial of defendants’ motion for summary disposition regarding the failure to report the suspected abuse in accordance with MCL 722.623(1)(a).
+Reversed.
+As used in this opinion, “defendants” refers to defendants Timothy O’Connell and Superior Ambulance Service.
+We note that in the present case a report was made to the police and charges were filed against defendant DeFillippo. DeFillippo pleaded guilty with regard to a charge of third-degree criminal sexual conduct before this action was filed.
