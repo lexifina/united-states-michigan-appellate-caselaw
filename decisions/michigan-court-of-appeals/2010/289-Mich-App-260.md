@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "280073"
 decided: "2010-07-20"
-citations: ["289 Mich. App. 260", "289 Mich. App. 801"]
+citations: ["289 Mich. App. 260"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v BRYANT"]
 source_url: "https://static.case.law/mich-app/289/cases/0260-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4075423
-cites_cases: ["130 S Ct 1382", "217 Mich App 459", "227 Mich App 28", "275 Mich App 121", "289 Mich App 260", "391 US 145", "419 US 522", "430 US 482", "439 US 357", "463 Mich 199", "552 NW2d 493", "575 NW2d 784", "615 NW2d 1", "73 F3d 774", "737 NW2d 782", "97 F3d 648", "983 F2d 1215"]
+cites_cases: ["130 S Ct 1382", "217 Mich App 459", "227 Mich App 28", "275 Mich App 121", "391 US 145", "419 US 522", "430 US 482", "439 US 357", "463 Mich 199", "552 NW2d 493", "575 NW2d 784", "615 NW2d 1", "73 F3d 774", "737 NW2d 782", "97 F3d 648", "983 F2d 1215"]
 ---
 
 # People v. Bryant
