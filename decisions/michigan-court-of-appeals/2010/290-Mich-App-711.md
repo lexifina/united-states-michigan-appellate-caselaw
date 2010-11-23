@@ -1,0 +1,39 @@
+---
+court: "Michigan Court of Appeals"
+docket: "292625"
+decided: "2010-11-23"
+citations: ["290 Mich. App. 711"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: O’CONNELL, EJ, and BANDSTRA and MURRAY, JJ."]
+parties: ["SZPAK v INYANG"]
+source_url: "https://static.case.law/mich-app/290/cases/0711-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4076579
+cites_cases: ["202 Mich App 557", "253 Mich App 1", "258 Mich App 78", "277 Mich App 366", "486 Mich 429", "509 NW2d 780", "654 NW2d 610", "669 NW2d 862", "745 NW2d 154", "785 NW2d 98"]
+---
+
+# Szpak v. Inyang
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendants appeal by leave granted the trial court’s order granting in part and denying in part defendants’ motion for a qualified protective order in this medical malpractice action. Defendants argue that the trial court abused its discretion when it imposed certain conditions on the protective order. We agree, and therefore reverse in part and vacate in part the qualified protective order.
+Defendants argue that where a qualified protective order is entered to ensure compliance with the Health Insurance Portability and Accountability Act (HIPAA), 42 USC 1320d et seq., it was an abuse of discretion also to require that plaintiffs receive notice of, and an opportunity to attend, ex parte interviews by defense counsel with plaintiff Alexa’s treating physicians.
+A trial court’s decision on discovery motion is reviewed for an abuse of discretion. Holman v Rasak, 486 Mich 429, 436; 785 NW2d 98 (2010). Questions of statutory interpretation are reviewed de novo as questions of law. Id.
+The parties agree that the trial court is authorized to permit ex parte meetings with witnesses, in the interests of efficient discovery. Our Supreme Court has recently affirmed this position on facts very similar to the instant case. In Holman, the Court stated:
+Ex parte interviews are permitted under Michigan law, and nothing in HIPAA specifically precludes them. Because it is possible for defense counsel to insure that any disclosure of protected health information by the covered entity complies with [HIPAA] by making “reasonable efforts” to obtain a qualified protective order, HIPAA does not preempt Michigan law concerning ex parte interviews. [Holman, 486 Mich at 442; see also G P Enterprises, Inc v Jackson Nat’l Life Ins Co, 202 Mich App 557, 567; 509 NW2d 780 (1993) (ex parte interviews with treating physicians are generally proper).]
+Toward the end of its opinion, the Court concluded that “a trial court retains its discretion under MCR 2.302(C) to issue protective orders and to impose conditions on ex parte interviews.” Holman, 486 Mich at 447-448. The Court in Holman, however, was not asked to consider the validity of any actual conditions imposed on ex parte interviews.
+MCR 2.302(C) provides, in relevant part:
+On motion by a party or by the person from whom discovery is sought, and on reasonable notice and for good cause shown, the court in which the action is pending may issue any order that justice requires to protect a party or person from annoyance, embarrassment, oppression, or undue burden or expense ....
+Thus, the issue to be resolved is whether there has been a demonstration of good cause requiring the conditions imposed by the trial court on the proposed ex parte interviews, i.e., whether imposition of § 1(D). (requiring defendants to give plaintiffs’ attorney notice of the time, date and locations of meeting) and § 1(E). (allowing plaintiffs’ counsel to attend the meetings) of the order was an abuse of discretion.
+The protective order in this case was sought by defendants in an effort to comply with HIPAA. See Holman, 486 Mich at 438-442 (discussing HIPAA requirements and Michigan law). The first part of the protective order — the portion sought by defendants— specifically prohibits defendants from using or disclosing any health information acquired in the covered interviews, as required by HIPAA. See 45 CFR 164.512(e)(l)(v). The additional conditions imposed by the trial court — that plaintiffs’ counsel must have notice and may be present at the interviews — were sought by plaintiffs only in response to appellants’ motion and have no bearing on the disclosure of health information. Thus, MCR 2.302(C) requires that the additional conditions be justified in their own right.
+Plaintiffs argued in the trial court that the treating physicians in this case could be subject to intimidation “when confronted with an Order permitting him or her to meet with Defense counsel.” Plaintiffs further argue on appeal that “topics of conversation that could arise in an ex parte conversation are subjects such as malpractice in general, the witness’s insurance company, how premiums could rise against all doctors in the event of a verdict, mutual acquaintances, just to name a few.” We observe that the specter of intimidation raised by plaintiffs would be theoretically present in any medical malpractice case. Plaintiffs have not identified any facts in this case supporting a specific fear that defense counsel would “intimidate” the treating physicians during a voluntary ex parte interview. See Herald Co v Tax Tribunal, 258 Mich App 78, 88-89; 669 NW2d 862 (2003) (protective order appropriate to protect trade secrets); Bloomfield Charter Twp v Oakland Co Clerk, 253 Mich App 1, 35-36; 654 NW2d 610 (2002) (protective order proper in the absence of any demonstration that proposed discovery is relevant). Further, plaintiffs have not argued that the interviews sought by defendants are not relevant to the issues in this case, or that there is any specific danger of “annoyance, embarrassment, oppression, or undue burden or expense.” MCR 2.302(C). They only argue that there is a generalized danger of intimidation.
+Thus, in the words of MCR 2.302(C), there has been no showing that “justice requires” the conditions requested by plaintiffs and imposed by the trial court. Because the trial court’s authority to issue a protective order is defined by MCR 2.302(C), the trial court abused its discretion when it imposed the conditions within § 1(D) and § 1(E) of the order on ex parte interviews with the treating physicians unrelated to compliance with HIPAA, or any related privacy concerns, and in the absence of evidence to support a reasonable concern for intimidation, harassment, and the like. Donkers v Kovach, 277 Mich App 366, 368; 745 NW2d 154 (2007) (error of law may lead to abuse of discretion).
+Reversed in part, vacated in part, and remanded for further proceedings. We do not retain jurisdiction.
+No costs, neither party having prevailed in full. MCR 7.219(A).
+Defendants-appellants, B. Najem, M.D., and Huron Valley Pediatrics, PC., actually filed the application for leave to appeal, and defendants-cross-appellants, Joy Inyang, M.D., Michael Falzon, M.D., and Huron Valley Hospitals, Inc., filed a cross-appeal raising the identical issue raised by defendants-appellants. Defendants-cross-appellants had likewise filed a concurrence with defendants-appellants’ motion in the trial court that is the subject of this appeal. Accordingly, we will address the two claims together on appeal.
+Szpak v Inyang, unpublished order of the Court of Appeals, entered October 16, 2009 (Docket No. 292625).
+The protective order actually prohibited all ex parte contact with the treating physicians of plaintiffs David Szpak and Michelle Szpak. The trial court has since dismissed the individual claims of David and Michelle, leaving only the claims of Alexa, their daughter. As a result, defendants’ challenge to § II of the order concerning the physicians of David and Michelle is now moot.
+Defendants have not challenged any parts of the order other than § 1(D) and § 1(E), except § II, which is already noted as now moot.
