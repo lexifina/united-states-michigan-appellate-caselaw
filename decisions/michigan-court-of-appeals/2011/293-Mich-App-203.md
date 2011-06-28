@@ -1,0 +1,51 @@
+---
+court: "Michigan Court of Appeals"
+docket: "292536"
+decided: "2011-06-28"
+citations: ["293 Mich. App. 203"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: WILDER, P.J., and SERVITTO and SHAPIRO, JJ.", "SERVITTO and SHAPIRO, JJ., concurred with WILDER, EJ."]
+parties: ["CARLSON v CARLSON"]
+source_url: "https://static.case.law/mich-app/293/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4080169
+cites_cases: ["161 Mich App 766", "273 Mich App 666", "275 Mich App 282", "411 NW2d 484", "440 Mich 141", "485 NW2d 893", "733 NW2d 71", "738 NW2d 264"]
+---
+
+# Carlson v. Carlson
+
+## Majority (WILDER, P.J.)
+
+WILDER, P.J.
+We granted defendant’s delayed application for leave to appeal the trial court’s order, entered after an evidentiary hearing, which adopted a friend of the court (FOC) hearing referee’s recommendation modifying defendant’s child-support obligation. We vacate and remand.
+On appeal, defendant argues that his reduction in income was involuntary, and he further argues that, even if the reduction was voluntary, it was an abuse of discretion to impute income to him for the purposes of setting his child-support obligation. We find that the reduction was voluntary but agree that the trial court abused its discretion by imputing an income of $95,000 to defendant.
+In determining the appropriate amount of child support, “a trial court must presumptively follow the Michigan Child Support Formula (MCSF).” Stallworth v Stallworth, 275 Mich App 282, 284; 738 NW2d 264 (2007). We review a trial court’s finding of facts underlying an award of child support for clear error. Sparks v Sparks, 440 Mich 141, 151-152; 485 NW2d 893 (1992). “A finding is clearly erroneous if this Court, on all the evidence, is left with a definite and firm conviction that a mistake was made ... .” Stallworth, 275 Mich App at 284. Finally, we review a trial court’s discretionary rulings, such as the decision to impute income to a party, for an abuse of discretion. Rohloff v Rohloff, 161 Mich App 766, 776; 411 NW2d 484 (1987). An abuse of discretion occurs when a court selects an outcome that is not within the range of reasonable and principled outcomes. Borowsky v Borowsky, 273 Mich App 666, 672; 733 NW2d 71 (2007).
+“According to the 2004 Michigan Child Support Formula Manual, the first step in determining a child-support award is to ascertain each parent’s net income by considering all sources of income.” Stallworth, 275 Mich App at 284. This calculation not only includes a party’s actual income, but it can include imputed income. In other words, a party can be treated “as having income or resources that the individual does not actually have.” 2004 MCSF 2.10(A). “A trial court has the discretion to impute income when a parent voluntarily reduces or eliminates income or when it finds that the parent has a voluntarily unexercised ability to earn.” Stallworth, 275 Mich App at 286-287, citing 2004 MCSF 2.10(A) and (B). However, a court’s decision to impute income must be “supported by adequate fact-finding that the parent has an actual ability and likelihood of earning the imputed income.” Stallworth, 275 Mich App at 285.
+The 2004 MCSF sets forth a number of equitable criteria that must be considered when determining whether to impute income:
+(1) Prior employment experience;
+(2) Educational level;
+(3) Physical and mental disabilities;
+(4) The presence of the parties’ children in the individual’s home and its impact on the earnings;
+(5) Availability of employment in the local geographical area;
+(6) The prevailing wage rates in the local geographical area;
+(7) Special skills and training; or
+(8) Whether there is any evidence that the individual in question is able to earn the imputed income. [2004 MCSF 2.10(E).]
+See also Stallworth, 275 Mich App at 286. The 2004 MCSF also contemplates the difficulties in ascertaining an individual’s ability and likelihood of earning imputed income where the individual is a business owner:
+There are special difficulties in determining the income of certain individuals ... [because] persons who have significant control over the form and manner of their own compensation may be able to arrange that compensation so as to be able to minimize the amount visible to friends of the court and others. [2004 MCSF 2.11(A).]
+In these instances, the MCSF directs that the court give special attention to factors such as unusual forms of income (e.g., profit sharing); in-kind income; redirected income; deferred income; fringe benefits; and certain tax deductions. 2004 MCSF 2.11(D).
+Defendant testified that he is an engineer and president of Flint Surveying and Engineering Co. Inc. (FSE). Defendant and his brother, Curt Carlson, purchased FSE from their father in 1995. In 2006, FSE had gross receipts of $1,198,860 and paid defendant $123,209 in compensation and $11,700 as reimbursement for the previous year’s tax liability In 2007, FSE had gross receipts of $608,226 and paid defendant $67,591 in compensation and $12,500 as reimbursement for defendant’s tax liability. Defendant also drove, and still drives, a company car for business use, but he is required to repay FSE for any private use. In addition, defendant earned $12,000 each year as a county surveyor.
+Defendant testified that in 2008, FSE’s income declined significantly as a result of the slumping economy. As of June 2008, approximately 20 employees had left or had been laid off from FSE, leaving only six employees. FSE took out a $50,000 line of credit from Citizens Bank in order to “stay afloat” and paid employee salaries with loan funds. Defendant testified that he is personally liable for that loan. When over half of FSE’s $50,000 line of credit had been expended, defendant, his brother, and his father elected to reduce defendant’s income to $250 a week and lay off additional employees.
+The trial court determined that defendant’s reduction in income was voluntary, and on the record before us, we conclude that this finding was not clearly erroneous. The record shows that defendant’s decision to reduce his income to $250 a week was a voluntary and strategic decision to keep FSE afloat and to maintain health insurance for him and his children until the economy could turn around. In its report regarding defendant’s motion to reduce his child-support obligation, the FOC noted the following:
+This court is sympathetic with hard working people like the Defendant who experience a loss of income. In the normal case the employee has no control over the wage he receives!;] it is dictated by contract or the whim of the employer. This is not the case here. Mr. Carlson has voluntarily reduced his income because he believes the company earnings have declined!,] and that may be true!,] however he has taken a “salary hit” way beyond that which is believed to be reasonable. He is now the lowest paid employee in the company.
+A review of the testimony and evidence presented has convinced this court that some accommodation must be made in terms of child support. The court will set child support based upon an average of the Defendants [sic] last two (2) years of income and calculate child support using $95,000.00 as his gross income.
+The trial court found that the FOC’s decision was fair and accurate. But neither the FOC nor the trial court ever evaluated the factors set forth in the MCSF for the imputation of income. More importantly, the trial court failed to assess whether defendant possessed an actual ability and likelihood of earning the $95,000 imputed income. The fact that FSE could afford to pay defendant an average salary of $95,000 in 2006 and 2007 does not mean that FSE could continue to pay defendant that amount in the then existing economic climate. In fact, the evidence clearly established that FSE’s revenues precipitously dropped 50 percent from 2006 to 2007, and by 2008, the company had lost 70 percent of its employees and had to take a line of credit in order to pay salaries. Thus, there was no evidence to suggest that defendant could remain at FSE and earn the same amount of income that he earned in 2006 or 2007.
+Likewise, there was no evidence presented at the evidentiary hearing that defendant could have gained outside employment earning $95,000. While defendant’s brother, who is also a civil engineer, obtained employment at a different company in August 2007, neither plaintiff nor the FOC provided the trial court with any evidence that similar, outside positions, particularly positions that were paying $95,000 a year, were available nearly one year later when modification of child support was at issue.
+Because the trial court failed to consider the enumerated factors in 2004 MCSF 2.10(E), including whether defendant possessed an actual ability and likelihood of earning the $95,000 imputed income, we conclude that the trial court abused its discretion when it adopted the FOC’s recommendation to impute that income to defendant.
+We vacate and remand for further proceedings with respect to defendant’s motion to reduce his child-support obligation. We do not retain jurisdiction.
+Defendant, having prevailed on appeal, is entitled to costs. MCR 7.219(A).
+SERVITTO and SHAPIRO, JJ., concurred with WILDER, EJ.
+1 Both the FOC evidentiary hearing (June 6, 2008) and the trial court hearing (September 15, 2008) took place when the 2004 MCSF was in effect. The 2008 MCSF did not take effect until October 1, 2008.
+We note also that while defendant owned an aircraft, which he repaired in 2006 by taking a $25,000 loan, there was no evidence presented to either the FOC or the trial court regarding whether the aircraft had any value that could have been imputed to defendant’s income.
+Although the record was lacking at the time of the evidentiary hearing, we do note that in support of his motion for reconsideration filed after the trial court issued its ruling, defendant submitted an affidavit in which he asserted that, after conducting a nationwide search, the only available civil engineering position he could find was in Alaska. The affidavit does not state, however, the amount of salary this position paid.
