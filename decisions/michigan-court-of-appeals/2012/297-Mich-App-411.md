@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "s. 302251, 302259, 302261, and 302262"
 decided: "2012-07-31"
-citations: ["297 Mich. App. 411", "297 Mich. App. 759"]
+citations: ["297 Mich. App. 411"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["WHEELER ESTATE v DEPARTMENT OF TREASURY HUZELLA v DEPARTMENT OF TREAS
 source_url: "https://static.case.law/mich-app/297/cases/0411-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4084573
-cites_cases: ["152 Mich App 823", "172 Mich App 116", "2011 PA 38", "220 Mich App 23", "220 Mich App 83", "234 Mich App 225", "268 Mich App 38", "292 Mich App 728", "294 Mich App 1", "295 Mich App 263", "297 Mich App 411", "393 NW2d 921", "431 NW2d 416", "463 US 159", "470 Mich 593", "482 Mich 90", "485 Mich 69", "493 Mich 865", "504 US 768", "558 NW2d 444", "558 NW2d 456", "593 NW2d 641", "685 NW2d 198", "706 NW2d 460", "754 NW2d 259", "780 NW2d 753", "815 NW2d 781", "815 NW2d 804", "818 NW2d 337"]
+cites_cases: ["152 Mich App 823", "172 Mich App 116", "2011 PA 38", "220 Mich App 23", "220 Mich App 83", "234 Mich App 225", "268 Mich App 38", "292 Mich App 728", "294 Mich App 1", "295 Mich App 263", "393 NW2d 921", "431 NW2d 416", "463 US 159", "470 Mich 593", "482 Mich 90", "485 Mich 69", "493 Mich 865", "504 US 768", "558 NW2d 444", "558 NW2d 456", "593 NW2d 641", "685 NW2d 198", "706 NW2d 460", "754 NW2d 259", "780 NW2d 753", "815 NW2d 781", "815 NW2d 804", "818 NW2d 337"]
 ---
 
 # Wheeler Estate v. Department of Treasury
