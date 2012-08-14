@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "311504"
 decided: "2012-08-14"
-citations: ["297 Mich. App. 553", "297 Mich. App. 759"]
+citations: ["297 Mich. App. 553"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PROTECT MI CONSTITUTION v SECRETARY OF STATE"]
 source_url: "https://static.case.law/mich-app/297/cases/0553-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4083998
-cites_cases: ["105 Mich App 249", "105 Mich App 793", "13 Mich 481", "159 NW 65", "160 Mich App 442", "168 NW 709", "179 NW 553", "192 Mich 512", "195 Mich App 613", "1972 PA 294", "1997 PA 69", "200 NW2d 628", "202 Mich 629", "208 NW2d 469", "212 Mich 31", "239 Mich App 221", "26 NW2d 348", "263 Mich App 497", "271 Mich App 425", "280 Mich App 273", "29 Mich 320", "293 NW 865", "294 Mich 503", "295 Mich App 362", "297 Mich App 553", "30 Mich 511", "30 NW2d 695", "306 NW2d 468", "307 NW2d 424", "31 NW2d 798", "316 Mich 644", "320 Mich 376", "388 Mich 210", "389 Mich 441", "408 NW2d 470", "463 Mich 1009", "464 Mich 359", "477 Mich 120", "482 Mich 960", "491 NW2d 269", "492 Mich 860", "608 NW2d 833", "625 NW2d 377", "630 NW2d 297", "688 NW2d 847", "722 NW2d 243", "761 NW2d 210", "820 NW2d 208"]
+cites_cases: ["105 Mich App 249", "105 Mich App 793", "13 Mich 481", "159 NW 65", "160 Mich App 442", "168 NW 709", "179 NW 553", "192 Mich 512", "195 Mich App 613", "1972 PA 294", "1997 PA 69", "200 NW2d 628", "202 Mich 629", "208 NW2d 469", "212 Mich 31", "239 Mich App 221", "26 NW2d 348", "263 Mich App 497", "271 Mich App 425", "280 Mich App 273", "29 Mich 320", "293 NW 865", "294 Mich 503", "295 Mich App 362", "30 Mich 511", "30 NW2d 695", "306 NW2d 468", "307 NW2d 424", "31 NW2d 798", "316 Mich 644", "320 Mich 376", "388 Mich 210", "389 Mich 441", "408 NW2d 470", "463 Mich 1009", "464 Mich 359", "477 Mich 120", "482 Mich 960", "491 NW2d 269", "492 Mich 860", "608 NW2d 833", "625 NW2d 377", "630 NW2d 297", "688 NW2d 847", "722 NW2d 243", "761 NW2d 210", "820 NW2d 208"]
 ---
 
 # Protect MI Constitution v. Secretary of State
