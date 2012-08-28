@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "289488"
 decided: "2012-08-28"
-citations: ["297 Mich. App. 663", "297 Mich. App. 759"]
+citations: ["297 Mich. App. 663"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["JILEK v STOCKSON (ON REMAND)"]
 source_url: "https://static.case.law/mich-app/297/cases/0663-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4083920
-cites_cases: ["216 Mich App 612", "289 Mich App 291", "297 Mich App 663", "478 Mich 151", "490 Mich 961", "550 NW2d 580", "732 NW2d 472", "796 NW2d 267"]
+cites_cases: ["216 Mich App 612", "289 Mich App 291", "478 Mich 151", "490 Mich 961", "550 NW2d 580", "732 NW2d 472", "796 NW2d 267"]
 ---
 
 # Jilek v. Stockson
