@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "297427"
 decided: "2012-09-20"
-citations: ["298 Mich. App. 21", "297 Mich. App. 760"]
+citations: ["298 Mich. App. 21"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["LOUTTS V LOUTTS"]
 source_url: "https://static.case.law/mich-app/298/cases/0021-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4085421
-cites_cases: ["170 Mich App 653", "187 Mich App 36", "2008-Ohio-3296", "205 Mich App 84", "223 Mich App 415", "230 Mich App 346", "242 Mich App 652", "250 Mich App 478", "256 Mich App 286", "256 Mich App 420", "256 Mich App 619", "265 Mich App 88", "270 Mich App 260", "277 Mich App 700", "288 Mich App 352", "290 Mich App 691", "293 Mich App 203", "298 Mich App 21", "362 NW2d 676", "420 Mich 394", "429 NW2d 220", "434 Mich 125", "440 Mich 141", "446 Mich 177", "450 NW2d 559", "466 NW2d 325", "485 NW2d 893", "493 Mich 968", "517 NW2d 268", "521 NW2d 499", "566 NW2d 642", "583 NW2d 552", "619 NW2d 723", "650 NW2d 670", "662 NW2d 111", "664 NW2d 231", "671 NW2d 64", "693 NW2d 170", "715 NW2d 914", "747 NW2d 336", "792 NW2d 63", "804 NW2d 124", "809 NW2d 612", "851 F Supp 839"]
+cites_cases: ["170 Mich App 653", "187 Mich App 36", "2008-Ohio-3296", "205 Mich App 84", "223 Mich App 415", "230 Mich App 346", "242 Mich App 652", "250 Mich App 478", "256 Mich App 286", "256 Mich App 420", "256 Mich App 619", "265 Mich App 88", "270 Mich App 260", "277 Mich App 700", "288 Mich App 352", "290 Mich App 691", "293 Mich App 203", "362 NW2d 676", "420 Mich 394", "429 NW2d 220", "434 Mich 125", "440 Mich 141", "446 Mich 177", "450 NW2d 559", "466 NW2d 325", "485 NW2d 893", "493 Mich 968", "517 NW2d 268", "521 NW2d 499", "566 NW2d 642", "583 NW2d 552", "619 NW2d 723", "650 NW2d 670", "662 NW2d 111", "664 NW2d 231", "671 NW2d 64", "693 NW2d 170", "715 NW2d 914", "747 NW2d 336", "792 NW2d 63", "804 NW2d 124", "809 NW2d 612", "851 F Supp 839"]
 ---
 
 # Loutts v. Loutts
