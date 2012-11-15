@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "296591"
 decided: "2012-11-15"
-citations: ["298 Mich. App. 539", "297 Mich. App. 759"]
+citations: ["298 Mich. App. 539"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v FRANKLIN"]
 source_url: "https://static.case.law/mich-app/298/cases/0539-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4085364
-cites_cases: ["168 Mich App 496", "168 Mich App 687", "181 Mich App 204", "218 Mich App 236", "262 Mich App 443", "264 Mich App 139", "273 NW2d 44", "293 Mich App 393", "298 Mich App 539", "404 Mich 410", "425 NW2d 118", "425 NW2d 460", "448 NW2d 795", "464 Mich 593", "469 Mich 565", "483 Mich 226", "489 Mich 1", "490 Mich 871", "553 NW2d 673", "628 NW2d 528", "677 NW2d 1", "687 NW2d 119", "693 NW2d 385", "769 NW2d 605", "810 NW2d 660"]
+cites_cases: ["168 Mich App 496", "168 Mich App 687", "181 Mich App 204", "218 Mich App 236", "262 Mich App 443", "264 Mich App 139", "273 NW2d 44", "293 Mich App 393", "404 Mich 410", "425 NW2d 118", "425 NW2d 460", "448 NW2d 795", "464 Mich 593", "469 Mich 565", "483 Mich 226", "489 Mich 1", "490 Mich 871", "553 NW2d 673", "628 NW2d 528", "677 NW2d 1", "687 NW2d 119", "693 NW2d 385", "769 NW2d 605", "810 NW2d 660"]
 ---
 
 # People v. Franklin
