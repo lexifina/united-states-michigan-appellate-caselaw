@@ -1,0 +1,55 @@
+---
+court: "Michigan Court of Appeals"
+docket: "309277"
+decided: "2013-05-28"
+citations: ["301 Mich. App. 218"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: FITZGERALD, EJ., and O’CONNELL and SHAPIRO, JJ."]
+parties: ["PEOPLE v CUNNINGHAM (AFTER REMAND)"]
+source_url: "https://static.case.law/mich-app/301/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4089185
+cites_cases: ["1931 PA 308", "222 NW 698", "244 Mich App 420", "245 Mich 310", "257 Mich App 61", "291 Mich App 399", "296 Mich App 710", "298 Mich App 105", "335 Mich 1", "429 Mich 876", "55 NW2d 149", "625 NW2d 424", "665 NW2d 504", "804 NW2d 788", "825 NW2d 376", "825 NW2d 87"]
+---
+
+# People v. Cunningham
+
+## Majority (O’Connell, J.)
+
+O’Connell, J.
+AFTER REMAND
+This matter returns to us following our remand to the sentencing court to determine in light of People v Sanders, 296 Mich App 710; 825 NW2d 87 (2012), whether the $1,000 in court costs imposed as part of defendant’s sentence was reasonable for felony cases in the Allegan Circuit Court. People v Cunningham, unpublished order of the Court of Appeals, entered October 2, 2012 (Docket No. 309277). We conclude that the prosecution established a sufficient factual basis for the amount of costs imposed and accordingly affirm.
+Defendant’s sentence arose from his guilty plea to a charge of obtaining a controlled substance by fraud, MCL 333.7407(l)(c). He was sentenced to one to four years’ imprisonment and $1,000 in court costs, as well as other costs and fees. In keeping with our remand order, the sentencing court held a hearing and received evidence that the average actual court cost for criminal cases in the Allegan Circuit Court is $1,238.48. On the basis of that figure, the sentencing court held that there was a reasonable relationship between the $1,000 in imposed court costs and the actual costs incurred. Defendant does not challenge that finding on appeal.
+Instead, defendant contends that the sentencing court erred by (1) including in its calculation the expenses associated with maintaining governmental agencies and (2) failing to calculate the particular costs incurred in this case. We disagree with both of defendant’s contentions.
+The controlling law establishes that a sentencing court may consider overhead costs when determining the reasonableness of a court-costs figure. In this case, the sentencing court imposed costs under MCL 769.1k, which provides, in relevant part:
+(1) If a defendant enters a plea of guilty .. . both of the following apply at the time of the sentencing or at the time entry of judgment of guilt is deferred pursuant to statute or sentencing is delayed pursuant to statute:
+(a) The court shall impose the minimum state costs as set forth in section lj [MCL 769. lj] of this chapter.
+(b) The court may impose any or all of the following:
+(i) Any fíne.
+(ii) Any cost in addition to the minimum state cost set forth in subdivision (a).
+(Hi) The expenses of providing legal assistance to the defendant.
+(;iv) Any assessment authorized by law.
+0v) Reimbursement under section If [MCL 769.If] of this chapter.
+In People v Sanders, 296 Mich App 710, this Court determined that the statute does not preclude a sentencing court from considering overhead costs when determining the amount of costs to impose. Id. at 714. The Sanders decision thus confirms that the sentencing court in this case properly considered indirect expenses in determining whether the amount designated as court costs was reasonable.
+Sanders also establishes that a sentencing court need not calculate particularized court costs in every criminal case. In the initial Sanders opinion, 296 Mich App at 711, this Court held that MCL 769.1k(l)(b)(ii) allows a sentencing court to impose reasonable costs against an offender without separately calculating the particular costs of the offender’s case. In the subsequent opinion affirming the assessment of $1,000 in costs, the Court explained the flaw in the alternate, particularized approach that defendant espouses in this case:
+[W]e would be hesitant to uphold an approach that would take into account whether the case was resolved by a plea or by a trial. If we embraced defendant’s argument that costs should be less in a case resolved by a plea that only took “25 minutes of court time” rather than by a trial, there would be a realistic concern that we would be penalizing a defendant for going to trial rather than pleading guilty. That is, a system where greater costs were imposed on a defendant who went to trial rather than plead guilty or nolo contendere would create a financial incentive for a defendant to plead rather than face the possibility of even greater court costs being imposed for exercising his or her constitutional right to a trial. [People v Sanders (After Remand), 298 Mich App 105, 108; 825 NW2d 376 (2012).]
+In sum, we find no error warranting reversal in the sentencing court’s assessment of costs in this case.
+Affirmed.
+Fitzgerald, EJ., concurred with O’Connell, J.
+
+## Dissent (SHAPIRO, J.)
+
+SHAPIRO, J.
+(dissenting). The majority follows People v Sanders, 296 Mich App 710; 825 NW2d 87 (2012). I would instead follow People v Dilworth, 291 Mich App 399; 804 NW2d 788 (2011), a case that had previously decided this question, but which Sanders failed to follow.
+In People v Dilworth, our Court considered whether “overhead” charges, i.e., the costs of operating a court system regardless of the filing of the single case at issue, could be assessed as court costs incurred in prosecuting the defendant. We held that such an assessment was improper:
+When authorized, the costs of prosecution imposed “must bear some reasonable relation to the expenses actually incurred in the prosecution.” People v Wallace, 245 Mich 310, 314; 222 NW 698 (1929). Furthermore, these costs may not include “expenditures in connection with the maintenance and functioning of governmental agencies that must he borne by the public, irrespective of specific violations of the law.” People v Teasdale, 335 Mich 1, 6; 55 NW2d 149 (1952). (some emphasis added). [Dilworth, 291 Mich App at 401].
+Dilworth went on to distinguish between “appropriate charges, such as expert witness fees” which are incurred on a case-by-case basis as opposed to “impermissible charges, such as . . . wages, which were set by a board of supervisors pursuant to a statute and independent of any particular defendant’s case . . .
+In Sanders, this Court addressed the same question under MCL 769.1k, which allows, but does not require, a sentencing court to assess “[a]ny cost in addition to the minimum state cost” of $68.00 if the defendant is convicted of a felony. Directly contrary to Dilworth, Sanders held that “overhead” costs may be imposed as long as they bear a “reasonable relationship between the costs imposed and the actual costs incurred by the trial court.” Sanders, 296 Mich App at 714. The Sanders Court remanded the case to the trial court, which calculated the overall expenses incurred by the county in operating the circuit court, reduced it by the percentage of civil cases, and then assessed an amount equivalent to the remaining overall expenses divided by the number of criminal dispositions annually. The trial court assessed costs against the defendant on the basis of funds allocated by the county for building use, maintenance and insurance, salaries and fringe benefits of court employees, phones, copying, mailing, and the courthouse gym. After remand, the Sanders panel approved this approach. People v Sanders (After Remand), 298 Mich App 105; 825 NW2d 376 (2012).
+Sanders essentially ignored the holding in Dilworth by which it was bound. Both cases allowed for the assessment of the costs of prosecuting a convicted criminal defendant. Dilworth held that such costs are limited to those specifically incurred because of the individual case, not a “share” of the overall cost of having courts and prosecutors. Sanders concluded that costs of the court may include the general costs of maintaining the judicial branch of government.
+The Sanders panel also rejected a holding of the Michigan Supreme Court. It concluded that it need not follow Teasdale, 335 Mich at 6, which held that an assessment of costs against a convicted defendant “excludes expenditures in connection with the maintenance and functioning of governmental agencies that must be borne by the public irrespective of specific violations of the law.” Sanders sidestepped Teasdale in two ways. First, Sanders noted that Teasdale could be ignored because it was decided “decades” ago although there has been no intervening decision overruling or even criticizing Teasdale. Second, Sanders suggested that Teasdale rested its conclusion on statutory language that barred an assessment of such maintenance costs. This assertion is simply not true. The statute considered in Teasdale did not contain any language excluding maintenance or overhead costs. In fact, the language of the statute applicable in Teasdale was extraordinarily broad, providing that in imposing costs, the court
+shall not be confined to or governed by the laws or rules governing the taxation of costs in ordinary criminal procedure, but may summarily tax and determine such costs without regard to the items ordinarily included in taxing costs in criminal cases and may include therein all such expenses, direct and indirect, as the public has been or may be put to in connection with the apprehension, examination, trial and probationary oversight.... [1931 PA 308, § 17373(3); 1948 CL 771.3(3) (emphasis added)].
+Thus, Teasdale’s bar against costs for the overall operation of the courts was set out in the context of a statute that was far more consistent with such assessments than were the later amendments, which now control and which were likely a codification of the Teasdale holding.
+Convicted felons have committed crimes and we punish them for doing so. They may be fined, incarcerated, or placed under other forms of supervision and restrictions upon their conduct. However, they remain citizens of our state. Whatever their conduct, they do not constitute a special class upon whom the courts may assess higher taxes or fees to pay for the expense necessary to maintain the constitutionally required operations of government. As held in Dilworth and Teasdale, if a particular case requires a court to incur specific costs, then those costs may be assessed. However, the costs of operating the government itself is borne by all Michigan residents not merely or particularly by those that run afoul of the law.
+The Sanders panel also failed to address other cases predating Dilworth, but consistent with it. See, e.g., People v Newton, 257 Mich App 61, 68-69; 665 NW2d 504 (2003); People v Crigler, 244 Mich App 420, 427; 625 NW2d 424 (2001); People of Ypsilanti v Kircher, 429 Mich 876 (1987).
