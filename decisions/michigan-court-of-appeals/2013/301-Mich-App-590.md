@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "309987"
 decided: "2013-07-11"
-citations: ["301 Mich. App. 590", "301 Mich. App. 801"]
+citations: ["301 Mich. App. 590"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["PEOPLE v CARRUTHERS"]
 source_url: "https://static.case.law/mich-app/301/cases/0590-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4089401
-cites_cases: ["103 Mich App 220", "110 Mich App 757", "121 Mich App 92", "187 NW2d 404", "1978 PA 368", "236 Mich App 112", "249 NW2d 870", "262 Mich App 89", "280 Mich App 203", "288 Mich App 552", "288 Mich App 67", "290 Mich App 65", "291 Mich App 503", "293 Mich App 33", "299 Mich App 313", "301 Mich App 566", "301 Mich App 590", "303 NW2d 191", "313 NW2d 103", "328 NW2d 394", "353 Mich 345", "384 Mich 669", "460 Mich 750", "462 Mich 206", "477 Mich 29", "484 Mich 1", "489 Mich 957", "491 Mich 164", "491 Mich 382", "492 Mich 169", "492 Mich 851", "493 Mich 135", "493 Mich 17", "494 Mich 865", "597 NW2d 130", "600 NW2d 370", "612 NW2d 144", "683 NW2d 729", "72 Mich App 411", "729 NW2d 488", "760 NW2d 272", "792 NW2d 384", "795 NW2d 101", "799 NW2d 184", "804 NW2d 911", "808 NW2d 456", "809 NW2d 176", "817 NW2d 528", "821 NW2d 520", "825 NW2d 543", "828 NW2d 644", "91 NW2d 269"]
+cites_cases: ["103 Mich App 220", "110 Mich App 757", "121 Mich App 92", "187 NW2d 404", "1978 PA 368", "236 Mich App 112", "249 NW2d 870", "262 Mich App 89", "280 Mich App 203", "288 Mich App 552", "288 Mich App 67", "290 Mich App 65", "291 Mich App 503", "293 Mich App 33", "299 Mich App 313", "301 Mich App 566", "303 NW2d 191", "313 NW2d 103", "328 NW2d 394", "353 Mich 345", "384 Mich 669", "460 Mich 750", "462 Mich 206", "477 Mich 29", "484 Mich 1", "489 Mich 957", "491 Mich 164", "491 Mich 382", "492 Mich 169", "492 Mich 851", "493 Mich 135", "493 Mich 17", "494 Mich 865", "597 NW2d 130", "600 NW2d 370", "612 NW2d 144", "683 NW2d 729", "72 Mich App 411", "729 NW2d 488", "760 NW2d 272", "792 NW2d 384", "795 NW2d 101", "799 NW2d 184", "804 NW2d 911", "808 NW2d 456", "809 NW2d 176", "817 NW2d 528", "821 NW2d 520", "825 NW2d 543", "828 NW2d 644", "91 NW2d 269"]
 ---
 
 # People v. Carruthers
