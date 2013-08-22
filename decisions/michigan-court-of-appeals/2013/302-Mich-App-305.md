@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "302142"
 decided: "2013-08-22"
-citations: ["302 Mich. App. 305", "302 Mich. App. 801"]
+citations: ["302 Mich. App. 305"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["ADAIR v STATE OF MICHIGAN"]
 source_url: "https://static.case.law/mich-app/302/cases/0305-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4090445
-cites_cases: ["1979 PA 101", "2005 PA 130", "2009 PA 205", "2010 PA 217", "2011 PA 100", "2011 PA 103", "2011 PA 62", "228 Mich App 386", "238 Mich App 185", "251 Mich App 297", "267 NW2d 142", "267 NW2d 72", "276 Mich App 551", "276 Mich App 602", "279 Mich App 507", "290 Mich App 328", "302 Mich App 305", "330 Mich 541", "381 NW2d 662", "397 NW2d 770", "402 Mich 554", "424 Mich 364", "426 Mich 678", "441 Mich 236", "456 Mich 175", "459 Mich 291", "460 Mich 573", "460 Mich 590", "463 Mich 569", "470 Mich 105", "479 Mich 1", "48 NW2d 142", "486 Mich 468", "490 NW2d 584", "566 NW2d 272", "579 NW2d 378", "597 NW2d 82", "605 NW2d 66", "621 NW2d 222", "650 NW2d 380", "680 NW2d 386", "740 NW2d 444", "741 NW2d 549", "742 NW2d 380", "760 NW2d 554", "785 NW2d 119", "802 NW2d 353", "82 Mich App 559"]
+cites_cases: ["1979 PA 101", "2005 PA 130", "2009 PA 205", "2010 PA 217", "2011 PA 100", "2011 PA 103", "2011 PA 62", "228 Mich App 386", "238 Mich App 185", "251 Mich App 297", "267 NW2d 142", "267 NW2d 72", "276 Mich App 551", "276 Mich App 602", "279 Mich App 507", "290 Mich App 328", "330 Mich 541", "381 NW2d 662", "397 NW2d 770", "402 Mich 554", "424 Mich 364", "426 Mich 678", "441 Mich 236", "456 Mich 175", "459 Mich 291", "460 Mich 573", "460 Mich 590", "463 Mich 569", "470 Mich 105", "479 Mich 1", "48 NW2d 142", "486 Mich 468", "490 NW2d 584", "566 NW2d 272", "579 NW2d 378", "597 NW2d 82", "605 NW2d 66", "621 NW2d 222", "650 NW2d 380", "680 NW2d 386", "740 NW2d 444", "741 NW2d 549", "742 NW2d 380", "760 NW2d 554", "785 NW2d 119", "802 NW2d 353", "82 Mich App 559"]
 ---
 
 # Adair v. State
