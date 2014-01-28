@@ -1,0 +1,47 @@
+---
+court: "Michigan Court of Appeals"
+docket: "311463"
+decided: "2014-01-28"
+citations: ["303 Mich. App. 750"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before; JANSEN, PJ., and O’CONNELL and M. J. KELLY, JJ.", "Jansen, EJ., and O’Connell and M. J. Kelly, JJ, concurred."]
+parties: ["BURTON v MACHA"]
+source_url: "https://static.case.law/mich-app/303/cases/0750-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4155026
+cites_cases: ["111 Mich App 91", "1988 PA 221", "2012 PA 609", "220 Mich App 303", "238 Mich App 394", "239 Mich App 596", "314 NW2d 533", "466 Mich 196", "467 Mich 337", "494 Mich 864", "559 NW2d 348", "605 NW2d 685", "609 NW2d 203", "644 NW2d 730", "654 NW2d 315"]
+---
+
+# Burton v. Macha
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+In this medical-malpractice action, defendants appeal as on leave granted the circuit court’s order denying their motion for summary disposition filed pursuant to MCR 2.116(C)(7). We reverse and remand for entry of judgment in favor of defendants consistent with this opinion.
+I. FACTUAL BACKGROUND
+On June 21, 2005, Dr. Mohan Dass Macha admitted plaintiffs decedent, Connor Burton, to Marlette Regional Hospital for a tonsillectomy and adenoidectomy. The hospital performed an EKG and the computer readout stated “prolonged QT.” Macha reviewed the EKG readout and initialed it. Macha performed the scheduled procedures with no complications and saw Connor one week later for a follow-up appointment.
+Tragically, Connor died suddenly on April 17, 2009. His autopsy did not reveal any signs of injury or illness. On September 11, 2009, genetic testing revealed a mutation “strongly associated with an arrhythmia-causing syndrome, such as Type 3 Long QT Syndrome.” On October 13, 2009, Connor’s death certificate was amended to reflect “[sjudden cardiac death due to or as a consequence of Prolonged QT Syndrome due to or as a consequence of Mutation SCN5A Thr 370 Type 3 Met (of years duration).”
+On December 16, 2010, a notice of intent was served on all three defendants pursuant to MCL 600.2912b. On June 17, 2011, letters of authority were issued appointing plaintiff Jay Burton as the personal representative of Connor’s estate. On October 13, 2011, plaintiff filed his complaint against defendants alleging medical malpractice for failing to diagnose Connor with prolonged QT syndrome and failing to refer him for appropriate treatment.
+Defendants moved for summary disposition pursuant to MCR 2.116(C)(7). They argued that, because plaintiffs claim had accrued on June 21, 2005, it was time-barred by the six-year statute of repose for medical-malpractice actions contained in MCL 600.5838a(2). Plaintiff argued that his medical-malpractice claim had not been discovered until after the results of the genetic testing were received, when Connor’s death certificate was amended on October 13, 2009. Accordingly, plaintiff contended, the six-month discovery rule of MCL 600.5838a(2) provided the applicable period of limitations in this case, running until April 13, 2010. Plaintiff argued that his medical-malpractice claim was timely because, under the death saving provision of MCL 600.5852, he had until April 13, 2013, to file the action.
+The circuit court agreed with plaintiff, ruling that the death saving provision of MCL 600.5852 applied and that plaintiffs cause of action was therefore timely filed. The circuit court did not directly address the effect of the six-year statute of repose. However, the court appeared to believe that the death saving provision of MCL 600.5852 tolled or created an exception to the running of the statute of repose.
+Defendants argue that the circuit court erred. They assert that the death saving provision of MCL 600.5852 does not toll or otherwise create an exception to the six-year statute of repose, and that plaintiffs claim is time-barred because it was filed outside this six-year period.
+II. STANDARDS OF REVIEW
+The circuit court’s grant or denial of summary disposition is reviewed de novo. Hinkle v Wayne Co Clerk, 467 Mich 337, 340; 654 NW2d 315 (2002). Summary disposition is properly granted under MCR 2.116(C)(7) when the plaintiff’s complaint is barred by the applicable statute of limitations or repose. Sills v Oakland Gen Hospital, 220 Mich App 303, 307; 559 NW2d 348 (1996). “In reviewing a motion under MCR 2.116(C)(7), this Court accepts as true the plaintiff’s well-pleaded allegations, construing them in the plaintiff’s favor.” Hanley v Mazda Motor Corp, 239 Mich App 596, 600; 609 NW2d 203 (2000). “If the facts are not in dispute, whether the statute bars the claim is a question of law for the court.” Sills, 220 Mich App at 307.
+Statutory construction is a question of law that we review de novo on appeal. Auto-Owners Ins Co v Allied Adjusters & Appraisers, Inc, 238 Mich App 394, 396; 605 NW2d 685 (1999).
+III. DISCUSSION
+We conclude that plaintiffs complaint, filed after the expiration of the six-year period of repose for medical-malpractice actions, was time-barred. Accordingly, defendants were entitled to the dismissal of plaintiffs claims under MCR 2.116(C)(7).
+Plaintiffs medical-malpractice claim was not discovered until after the results of the genetic testing were received, when Connor’s death certificate was amended on October 13, 2009. Therefore, although plaintiffs cause of action against defendants accrued on June 21, 2005, see MCL 600.5838a(l), the specific period of limitations applicable in this case was the six-month discovery period of MCL 600.5838a(2). This six-month discovery period ran from October 13, 2009, until April 13, 2010.
+The death saving provision of former MCL 600.5852 provided:
+If a person dies before the period of limitations has run or within 30 days after the period of limitations has run, an action which survives by law may be commenced by the personal representative of the deceased person at any time within 2 years after letters of authority are issued although the period of limitations has run. But an action shall not be brought under this provision unless the personal representative commences it within 3 years after the period of limitations has run.
+Relying on this death saving provision, plaintiff contended that he had until April 13, 2013, or three years after the running of the applicable period of limitations, to commence his action.
+Regardless of which period of limitations applies in a given case, however, a plaintiff must bring his or her medical-malpractice action within six years of “the date of the act or omission that is the basis for the claim.” MCL 600.5838a(2). The only exceptions to the running of this six-year statute of repose are those created by the minority saving provisions of MCL 600.5851(7) and (8)—the only two exceptions specifically mentioned in the statute. See MCL 600.5838a(2). The Legislature’s express inclusion of these two exceptions in the text of the statute of repose necessarily implies the exclusion of any other exceptions. See Revard v Johns-Manville Sales Corp, 111 Mich App 91, 94-95; 314 NW2d 533 (1981). Thus, contrary to plaintiffs argument on appeal, the death saving provision of MCL 600.5852 does not toll or otherwise create an exception to the running of the six-year statute of repose.
+Likewise, the filing of plaintiffs notice of intent on December 16, 2010, did not toll the running of the six-year statute of repose in the instant case. We fully acknowledge that the filing of a conforming notice of intent operates to toll the statute of repose if the six-year period of repose would expire during the 182-day notice period. MCL 600.5856(c). In this case, the 182-day notice period expired on June 17, 2011. However, the period of repose did not expire until June 21, 2011, four days after the expiration of the 182-day notice period. Therefore, the filing of plaintiffs notice of intent did not toll the period of repose under MCL 600.5856(c).
+In sum, the death saving provision of MCL 600.5852 did not toll or otherwise prevent the running of the six-year statute of repose contained in MCL 600.5838a(2). Nor did the filing of plaintiffs notice of intent toll the statute of repose in this case. As a consequence, the period of repose expired on June 21, 2011, six years after the date of accrual. Plaintiffs complaint was time-barred and the circuit court therefore erred by denying defendants’ motion for summary disposition filed pursuant to MCR 2.116(C)(7).
+We reverse and remand for entry of judgment in favor of defendants consistent with this opinion. We do not retain jurisdiction. Defendants, having prevailed on appeal, may tax their costs pursuant to MCR 7.219.
+Jansen, EJ., and O’Connell and M. J. Kelly, JJ, concurred.
+Burton v Macha, 494 Mich 864 (2013).
+MCL 600.5852 was originally added by 1988 PA 221 and amended by 2012 PA 609. The amendment is not applicable in this case, however, because it only applies to causes of action that arose on or after March 28, 2013. Moreover, the amendment did not change the substance of the statutory section under review.
+Our Supreme Court has held that the phrase “period of limitations” in the death saving provision of MCL 600.5852 includes the six-month discovery period of MCL 600.5838a(2), which “is itself a period of limitation.” Miller v Mercy Mem Hospital, 466 Mich 196, 202-203; 644 NW2d 730 (2002).
+Neither MCL 600.5851(7) nor MCL 600.5851(8) applies in this case.
