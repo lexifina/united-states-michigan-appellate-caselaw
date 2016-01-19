@@ -2,7 +2,7 @@
 court: "Michigan Court of Appeals"
 docket: "323757"
 decided: "2016-01-19"
-citations: ["315 Mich. App. 470", "314 Mich. App. 777"]
+citations: ["315 Mich. App. 470"]
 reporter: "mich-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In re SKIDMORE ESTATE (ON RECONSIDERATION)"]
 source_url: "https://static.case.law/mich-app/315/cases/0470-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12303956
-cites_cases: ["134 NW 980", "162 NE 99", "168 Mich 531", "211 Mich App 268", "248 NY 339", "270 Mich App 627", "275 Mich App 267", "277 Mich App 268", "302 Mich App 113", "314 Mich App 777", "341 NW2d 106", "418 Mich 180", "435 Mich 104", "440 Mich 85", "443 Mich 445", "453 Mich 644", "457 NW2d 669", "461 Mich 109", "463 Mich 1", "464 Mich 512", "470 Mich 82", "473 Mich 63", "479 Mich 498", "485 NW2d 676", "492 Mich 651", "500 Mich 967", "506 NW2d 175", "557 NW2d 289", "597 NW2d 817", "615 NW2d 17", "629 NW2d 384", "679 NW2d 689", "701 NW2d 684", "716 NW2d 615", "716 NW2d 616", "739 NW2d 373", "740 NW2d 206", "744 NW2d 10", "822 NW2d 190", "839 NW2d 223"]
+cites_cases: ["134 NW 980", "162 NE 99", "168 Mich 531", "248 NY 339", "270 Mich App 627", "275 Mich App 267", "277 Mich App 268", "302 Mich App 113", "314 Mich App 777", "341 NW2d 106", "418 Mich 180", "435 Mich 104", "440 Mich 85", "443 Mich 445", "453 Mich 644", "457 NW2d 669", "461 Mich 109", "463 Mich 1", "464 Mich 512", "470 Mich 82", "473 Mich 63", "479 Mich 498", "485 NW2d 676", "492 Mich 651", "500 Mich 967", "506 NW2d 175", "557 NW2d 289", "597 NW2d 817", "615 NW2d 17", "629 NW2d 384", "679 NW2d 689", "701 NW2d 684", "716 NW2d 615", "716 NW2d 616", "739 NW2d 373", "740 NW2d 206", "744 NW2d 10", "822 NW2d 190", "839 NW2d 223"]
 ---
 
 # In re Skidmore Estate
