@@ -1,0 +1,38 @@
+---
+court: "Michigan Court of Appeals"
+docket: "320028"
+decided: "2016-04-26"
+citations: ["315 Mich. App. 288"]
+reporter: "mich-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: O’CONNELL, P.J., and FORT Hood and GADOLA, JJ."]
+parties: ["LECH v HUNTMORE ESTATES CONDOMINIUM ASSOCIATION (ON REMAND)"]
+source_url: "https://static.case.law/mich-app/315/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12303565
+cites_cases: ["307 Mich App 436", "310 Mich App 258", "465 Mich 382", "472 Mich 713", "475 Mich 663", "487 Mich 180", "498 Mich 968", "500 Mich 903", "633 NW2d 367", "691 NW2d 753", "698 NW2d 875", "719 NW2d 1", "795 NW2d 517", "861 NW2d 303", "871 NW2d 551"]
+---
+
+# Lech v. Huntmore Estates Condominium Ass'n
+
+## Majority (O’CONNELL, R J.)
+
+ON REMAND
+Before: O’CONNELL, P.J., and FORT Hood and GADOLA, JJ.
+O’CONNELL, R J.
+This appeal concerns whether defendants Jacobson Ore Creek Land Development, LLC, and Scott R. Jacobson (collectively, the developers) are entitled to judgment interest under MCL 600.6013 on costs awarded as offer-of-judgment sanctions under MCR 2.405. This Court previously reversed the trial court’s award of judgment interest on the sanctions award. Lech v Huntmore Estates Condo Ass’n, 310 Mich App 258, 259; 871 NW2d 551 (2015), vacated in part 498 Mich 968 (2016). Our Supreme Court vacated the portion of this Court’s opinion holding that the developers were not entitled to judgment interest on the sanctions award and remanded the case to this Court for reconsideration of this issue in light of Ayar v Foodland Distrib, 472 Mich 713, 717; 698 NW2d 875 (2005). Lech v Huntmore Estates Condo Ass’n, 498 Mich 968 (2016). Because we conclude that Ayar does not mandate a different result, we again reverse the trial court’s award of judgment interest on the sanctions award under MCL 600.6013.
+I. STANDARD OF REVIEW
+This Court reviews de novo the interpretation and application of statutes. McCormick v Carrier, 487 Mich 180, 188; 795 NW2d 517 (2010). We also review de novo the interpretation and application of our court rules. In re McCarrick /Lamoreaux, 307 Mich App 436, 445; 861 NW2d 303 (2014). We use the same rules of interpretation to interpret statutes and court rules. Id. at 446. We give the words of rules and statutes their plain and ordinary meanings. Id. See also McCormick, 487 Mich at 192. We construe legal terms according to their legal meanings. See Feyz v Mercy Mem Hosp, 475 Mich 663, 673; 719 NW2d 1 (2006). We determine the intent of the court rule “from an examination of the court rule itself and its place within the structure of the Michigan Court Rules as a whole.” Haliw [v Sterling Hts], 471 Mich [700,] 706 [; 691 NW2d 753 (2005)]. [Lech, 310 Mich App at 261.]
+II. ANALYSIS
+We again conclude that the developers are not entitled to recover judgment interest on their sanctions award under MCL 600.6013. Ayar does not require a contrary holding.
+MCL 600.6013(1) provides that “[interest is allowed on a money judgment recovered in a civil action, as provided in this section.” The purpose of MCL 600.6013 is “to compensate the prevailing party for the expenses incurred in bringing an action and for the delay in receiving money damages.” In re Forfeiture of $176,598, 465 Mich 382, 386 n 9; 633 NW2d 367 (2001) (quotation marks and citation omitted). A money judgment in a civil action is a judgment “that orders the payment of a sum of money, as distinguished from an order directing an act to be done or property to be restored or transferred.” Id. at 386. There are several types of civil awards that are not a money judgment in a civil action, including money awards in drug forfeitures, divorce judgments, awards of back pay for wrongful discharge, and awards reflecting payment of a forced share in an estate. Id. at 388.
+Ayar concerned “when interest begins to accrue, pursuant to MCL 600.6013(8), on costs and attorney fees imposed for rejecting a mediation evaluation, MCR 2.403(O)(1), (6).” Ayar, 472 Mich at 714. InAyar, the plaintiffs filed a complaint against the defendants for damages arising out of commercial relationships. Id. at 715. After the case proceeded to trial, the plaintiffs obtained a substantial verdict. Id. The trial court entered a judgment that included prejudgment interest as well as “costs and attorney fees to be assessed, if any.” Id. The trial court later entered an order assessing costs and mediation sanctions under MCR 2.403(0), calculated from the date that the complaint was filed. Id.
+This Court reversed and remanded for a redetermi-nation of the amount of interest. Id. We concluded that judgment interest was allowed on mediation sanctions but determined that the trial court should calculate interest from the date of the judgment because, “before that date, no mediation award existed upon which interest could be calculated.” Id.
+Our Supreme Court reversed this Court’s judgment and reinstated the trial court’s order. Id. at 714. It reasoned that under MCL 600.6013(8), interest is calculated on the entire judgment amount, including attorney fees and costs, from the date of filing the complaint. Id. at 716. Thus, “[t]he statute plainly states that interest on a money judgment is calculated from the date of filing the complaint.” Id. While this Court was correct in applying the judgment-interest statute to the mediation sanctions, the Supreme Court concluded that we erred by treating them as an additional claim for damages:
+The mediation process is an integral part of the proceeding commenced when plaintiffs filed their complaint. The realization of mediation sanctions is tied directly to the amount of the verdict rendered with regard to that complaint. MCR 2.403(O)(l). Indeed, the award of prejudgment interest on mediation sanctions is part of the final judgment against defendants. At all times during which interest was assessed, plaintiffs’ claim against defendants was in dispute. [Id. at 717.]
+The Supreme Court ultimately concluded that courts properly apply judgment interest under MCL 600.6013(8) to “attorney fees and costs ordered as mediation sanctions under MCR 2.403(0) from the filing of the complaint against the liable defendant.” Id. at 717-718.
+This case is distinguishable from Ayar, which concerned whether a plaintiff can recover prejudgment interest on a money judgement under MCL 600.6013(8) from the date of filing the complaint. The developers in this case did hot file a complaint, and they did not obtain a money judgment. Instead, they defended against a complaint and obtained summary disposition. The trial court’s sanctions order was an order directing an action to be done—payment of the other party’s attorney fees and costs—not an order providing for a money judgment in a civil action. Because the developers in this case did not “incur expenses in bringing an action” and “suffered no delay in receiving money damages,” an award of prejudgment interest would not serve the purpose of the statute. We conclude that, by its plain language, MCL 600.6013 does not apply in this situation, and Ayar does not mandate a different result.
+We reverse and remand. We do not retain jurisdiction.
+FORT Hood and GADOLA, JJ., concurred with O’Connell, P.J.
+The Supreme Court noted in Ayar that the court rule was amended in 2000 to refer to “case evaluation” rather than “mediation,” but because the mediation in Ayar occurred in 1995, the Supreme Court used the term “mediation” in its opinion in that case. Ayar, 472 Mich at 714 n 1.
