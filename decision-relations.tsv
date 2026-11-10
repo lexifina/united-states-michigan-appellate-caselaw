@@ -1,0 +1,4 @@
+path	relation	target	note
+decisions/court-of-appeals-of-michigan/2017/909-N-W-2d-449--cap-12555313.md	same-decision-as	decisions/court-of-appeals-of-michigan/2017/909-N-W-2d-449.md	the same decision held twice (909 N.W.2d 449, CAP ids 12555313 and 12555312), same day and text (similarity 1.00); both kept
+decisions/michigan-court-of-appeals/1983/128-Mich-App-613.md	same-decision-as	decisions/michigan-court-of-appeals/1983/126-Mich-App-658.md	the same decision in another reporter (128 Mich. App. 613 and 126 Mich. App. 658), same day and text (similarity 0.50, text contained 0.90); both kept
+decisions/michigan-court-of-appeals/2016/314-Mich-App-777.md	same-decision-as	decisions/michigan-court-of-appeals/2016/315-Mich-App-470.md	the same decision in another reporter (314 Mich. App. 777 and 315 Mich. App. 470), same day and text (similarity 0.47, text contained 0.99); both kept
